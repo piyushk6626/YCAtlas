@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Neo4j Data Viewer</title>
+  <title>Neo4j Graph Viewer</title>
   <link rel="stylesheet" href="/static/css/style.css" />
+  <!-- Include Cytoscape.js from a CDN -->
+  <script src="https://unpkg.com/cytoscape@3.21.0/dist/cytoscape.min.js"></script>
 </head>
 <body>
   <div class="container">
-    <h1>Neo4j Data Viewer</h1>
-    <div id="data-container">
-      <!-- Data from Neo4j will be injected here -->
-    </div>
+    <h1>Neo4j Graph Viewer</h1>
+    <div id="cy"></div>
   </div>
   <script src="/static/js/app.js"></script>
 </body>

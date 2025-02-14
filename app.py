@@ -18,16 +18,38 @@ def index():
 
 @app.route('/api/data')
 def get_data():
-    # A simple query: adjust it according to your data model and requirements
-    query = "MATCH (n) RETURN n LIMIT 25"
+    # Query to fetch nodes and relationships
+    query = "MATCH (n)-[r]->(m) RETURN n, r, m LIMIT 25"
+    nodes = {}
+    edges = []
     with driver.session() as session:
         result = session.run(query)
-        records = []
         for record in result:
-            # Convert the Neo4j node properties to a dictionary
-            node = record["n"]
-            records.append(dict(node))
-        return jsonify(records)
+            n = record["n"]
+            m = record["m"]
+            r = record["r"]
+            # Add nodes (use the internal Neo4j id as unique key)
+            if n.id not in nodes:
+                nodes[n.id] = {
+                    "id": n.id,
+                    "labels": list(n.labels),
+                    "properties": dict(n)
+                }
+            if m.id not in nodes:
+                nodes[m.id] = {
+                    "id": m.id,
+                    "labels": list(m.labels),
+                    "properties": dict(m)
+                }
+            # Add the relationship as an edge
+            edges.append({
+                "id": r.id,
+                "source": r.start_node.id,
+                "target": r.end_node.id,
+                "type": r.type,
+                "properties": dict(r)
+            })
+    return jsonify({"nodes": list(nodes.values()), "edges": edges})
 
 if __name__ == '__main__':
     app.run(debug=True)
