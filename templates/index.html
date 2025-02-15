@@ -1,18 +1,174 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Neo4j Graph Viewer</title>
-  <link rel="stylesheet" href="/static/css/style.css" />
-  <!-- Include Cytoscape.js from a CDN -->
-  <script src="https://unpkg.com/cytoscape@3.21.0/dist/cytoscape.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neo4j Graph Visualization</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        #graph-container {
+            width: 100%;
+            height: 800px;
+            background-color: white;
+        }
+        
+        .node circle {
+            fill: #E75480;  /* Pink color similar to the image */
+            stroke: #fff;
+            stroke-width: 1.5px;
+        }
+        
+        .node text {
+            font-size: 12px;
+            font-family: Arial, sans-serif;
+            fill: #333;
+        }
+        
+        .link {
+            fill: none;
+            stroke: #999;
+            stroke-width: 1px;
+        }
+
+        .link-label {
+            font-size: 10px;
+            fill: #666;
+            font-family: Arial, sans-serif;
+        }
+
+        marker {
+            fill: #999;
+        }
+    </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Neo4j Graph Viewer</h1>
-    <div id="cy"></div>
-  </div>
-  <script src="/static/js/app.js"></script>
+    <div id="graph-container"></div>
+
+    <script>
+        const width = document.getElementById('graph-container').clientWidth;
+        const height = document.getElementById('graph-container').clientHeight;
+
+        const svg = d3.select('#graph-container')
+            .append('svg')
+            .attr('width', width)
+            .attr('height', height);
+
+        // Add zoom behavior
+        const zoom = d3.zoom()
+            .scaleExtent([0.2, 2])
+            .on('zoom', (event) => {
+                g.attr('transform', event.transform);
+            });
+
+        svg.call(zoom);
+
+        const g = svg.append('g')
+            .attr('transform', `translate(${width/2},${height/2})`);
+
+        // Define arrow marker
+        svg.append('defs').append('marker')
+            .attr('id', 'arrowhead')
+            .attr('viewBox', '-0 -5 10 10')
+            .attr('refX', 20)
+            .attr('refY', 0)
+            .attr('orient', 'auto')
+            .attr('markerWidth', 6)
+            .attr('markerHeight', 6)
+            .attr('xoverflow', 'visible')
+            .append('path')
+            .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
+            .attr('fill', '#999')
+            .style('stroke', 'none');
+
+        // Initialize force simulation with radial layout
+        const simulation = d3.forceSimulation()
+            .force('link', d3.forceLink().id(d => d.id).distance(150))
+            .force('charge', d3.forceManyBody().strength(-1000))
+            .force('radial', d3.forceRadial(250))
+            .force('collision', d3.forceCollide().radius(30));
+
+        fetch('/api/graph')
+            .then(response => response.json())
+            .then(data => {
+                // Create links with paths for labels
+                const link = g.append('g')
+                    .selectAll('.link-group')
+                    .data(data.links)
+                    .enter()
+                    .append('g')
+                    .attr('class', 'link-group');
+
+                const lines = link.append('path')
+                    .attr('class', 'link')
+                    .attr('marker-end', 'url(#arrowhead)');
+
+                const linkLabels = link.append('text')
+                    .attr('class', 'link-label')
+                    .text(d => d.type || d.properties.type || '');
+
+                // Create nodes
+                const node = g.append('g')
+                    .selectAll('.node')
+                    .data(data.nodes)
+                    .enter()
+                    .append('g')
+                    .attr('class', 'node')
+                    .call(d3.drag()
+                        .on('start', dragStarted)
+                        .on('drag', dragging)
+                        .on('end', dragEnded));
+
+                node.append('circle')
+                    .attr('r', 15);
+
+                node.append('text')
+                    .attr('dy', 25)
+                    .attr('text-anchor', 'middle')
+                    .text(d => d.properties.name || d.id);
+
+                // Update simulation
+                simulation
+                    .nodes(data.nodes)
+                    .on('tick', () => {
+                        lines.attr('d', d => {
+                            const dx = d.target.x - d.source.x,
+                                  dy = d.target.y - d.source.y,
+                                  dr = Math.sqrt(dx * dx + dy * dy);
+                            return `M${d.source.x},${d.source.y}A${dr},${dr} 0 0,1 ${d.target.x},${d.target.y}`;
+                        });
+
+                        linkLabels.attr('transform', d => {
+                            const dx = d.target.x - d.source.x,
+                                  dy = d.target.y - d.source.y,
+                                  angle = Math.atan2(dy, dx) * 180 / Math.PI;
+                            const midX = (d.source.x + d.target.x) / 2,
+                                  midY = (d.source.y + d.target.y) / 2;
+                            return `translate(${midX},${midY}) rotate(${angle})`;
+                        });
+
+                        node.attr('transform', d => `translate(${d.x},${d.y})`);
+                    });
+
+                simulation.force('link')
+                    .links(data.links);
+            });
+
+        function dragStarted(event, d) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+
+        function dragging(event, d) {
+            d.fx = event.x;
+            d.fy = event.y;
+        }
+
+        function dragEnded(event, d) {
+            if (!event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+        }
+    </script>
 </body>
 </html>
