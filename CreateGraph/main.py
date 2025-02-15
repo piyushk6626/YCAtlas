@@ -7,6 +7,12 @@ from llm_graph import setup_openai_model
 from data_processing import process_company_row
 
 def process_csv_file(file_path):
+    """
+    Process a CSV file and add its contents to a Neo4j graph.
+
+    Args:
+        file_path (str): The path to the CSV file to process
+    """
     logger = setup_logging()
     config = load_env_vars()
     graph = setup_neo4j_connection(config)
@@ -20,4 +26,7 @@ def process_csv_file(file_path):
     logging.info("CSV processing completed")
 
 if __name__ == "__main__":
+    """
+    Entry point for the script.
+    """
     process_csv_file("yc25det.csv")

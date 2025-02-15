@@ -4,18 +4,6 @@ import logging
 import csv
 import os
 
-def log_openai_interaction(input_text, output_text, filename='openai_log.csv'):
-    """
-    Appends a row with the input text and output text to a CSV file.
-    If the file doesn't exist, it writes the header first.
-    """
-    file_exists = os.path.isfile(filename)
-    with open(filename, mode='a', newline='', encoding='utf-8') as csvfile:
-         fieldnames = ['input', 'output']
-         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-         if not file_exists:
-             writer.writeheader()
-         writer.writerow({'input': input_text, 'output': output_text})
 
 def generate_natural_description(text, api_key):
     logging.info("Generating natural description using OpenAI")
@@ -37,6 +25,4 @@ def generate_natural_description(text, api_key):
     )
     logging.info("OpenAI response received")
     output_text = completion.choices[0].message.content
-    # Log both the input and the output into one CSV file.
-    log_openai_interaction(text, output_text)
     return output_text
