@@ -1,7 +1,7 @@
 from .links import scrape_links
 from .scrape import process_csv
 
-def run_scraping_pipeline(website_url, links_csv, details_csv):
+def run_scraping_pipeline(website_url):
     """
     Runs the complete scraping pipeline:
       1. Scrapes company links from the given website URL and saves them to 'links_csv'.
@@ -12,6 +12,8 @@ def run_scraping_pipeline(website_url, links_csv, details_csv):
         links_csv (str): The file path for saving the scraped links.
         details_csv (str): The file path for saving the company details.
     """
+    links_csv = "yclinks.csv"
+    details_csv = "ycdet.csv"
     print("Starting link scraping...")
     scrape_links(website_url, links_csv)
     print("Link scraping completed.")
@@ -23,6 +25,4 @@ def run_scraping_pipeline(website_url, links_csv, details_csv):
 if __name__ == "__main__":
     # Example usage:
     website_url = "https://www.ycombinator.com/companies?batch=W25"
-    links_csv = "yc25.csv"
-    details_csv = "yc25det.csv"
-    run_scraping_pipeline(website_url, links_csv, details_csv) 
+    run_scraping_pipeline(website_url) 
