@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #222222;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "font": {"color": "white"}, "id": 835, "label": "Organization", "shape": "dot", "title": "id: Gradewiz"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 120, "label": "Person", "shape": "dot", "title": "id: Tom Blomfield"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 842, "label": "Website", "shape": "dot", "title": "id: Https://Www.Gradewiz.Ai/"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 836, "label": "Technology", "shape": "dot", "title": "id: Ai Teaching Assistant"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 843, "label": "Person", "shape": "dot", "title": "id: Max Bohun"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 848, "label": "Person", "shape": "dot", "title": "id: Aman Garg"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 71, "label": "Date", "shape": "dot", "title": "id: 2023"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 844, "label": "Product", "shape": "dot", "title": "id: Ai Teaching Assistant"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 38, "label": "Location", "shape": "dot", "title": "id: San Francisco"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 841, "label": "Organization", "shape": "dot", "title": "id: 12 Colleges"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 8, "label": "Concept", "shape": "dot", "title": "id: W25 Batch"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 847, "label": "Role", "shape": "dot", "title": "id: Course Assistant"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 845, "label": "Role", "shape": "dot", "title": "id: Nlp Undergraduate Researcher"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 852, "label": "Concept", "shape": "dot", "title": "id: Computer Science"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 849, "label": "Product", "shape": "dot", "title": "id: Gradewiz"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1001, "label": "Organization", "shape": "dot", "title": "id: Edexia"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1008, "label": "Website", "shape": "dot", "title": "id: Https://Www.Edexia.Ai/"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1009, "label": "Person", "shape": "dot", "title": "id: Daniel Gibbon"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1015, "label": "Person", "shape": "dot", "title": "id: Nathan Wang"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1006, "label": "Technology", "shape": "dot", "title": "id: Ai Technologies"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1005, "label": "Concept", "shape": "dot", "title": "id: Educational Landscape"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1007, "label": "Organization", "shape": "dot", "title": "id: Team Of Four"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 70, "label": "Person", "shape": "dot", "title": "id: Jared Friedman"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1003, "label": "Person", "shape": "dot", "title": "id: Teachers"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1002, "label": "Tagline", "shape": "dot", "title": "id: Ai Teaching Assistant For Grading Papers"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1004, "label": "Concept", "shape": "dot", "title": "id: Assignments"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1011, "label": "Concept", "shape": "dot", "title": "id: Education"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1013, "label": "Field of study", "shape": "dot", "title": "id: Software Engineering"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1012, "label": "Organization", "shape": "dot", "title": "id: University Of Queensland"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1010, "label": "Event", "shape": "dot", "title": "id: Tedx Talk"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1014, "label": "Field of study", "shape": "dot", "title": "id: Medical School"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1417, "label": "Organization", "shape": "dot", "title": "id: Alice.Tech"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1419, "label": "Location", "shape": "dot", "title": "id: Copenhagen, Denmark"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1420, "label": "Website", "shape": "dot", "title": "id: Https://Www.Alice.Tech/"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 29, "label": "Concept", "shape": "dot", "title": "id: Ai"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1432, "label": "Person", "shape": "dot", "title": "id: Kim Rants"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 10, "label": "Year", "shape": "dot", "title": "id: 2024"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1421, "label": "Person", "shape": "dot", "title": "id: Patrick Gadd"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1418, "label": "Person", "shape": "dot", "title": "id: Students"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1424, "label": "Organization", "shape": "dot", "title": "id: Liveintent"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1425, "label": "Role", "shape": "dot", "title": "id: Senior Data Scientist"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1426, "label": "Project", "shape": "dot", "title": "id: Mlops Framework"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1427, "label": "Project", "shape": "dot", "title": "id: Machine Learning Solution"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1422, "label": "Role", "shape": "dot", "title": "id: Cto"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1423, "label": "Role", "shape": "dot", "title": "id: Co-Founder"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1428, "label": "Degree", "shape": "dot", "title": "id: Master Of Science In Computer Science"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1430, "label": "Event", "shape": "dot", "title": "id: Geography Olympiad"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1431, "label": "Event", "shape": "dot", "title": "id: Physics Olympiad"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1230, "label": "Organization", "shape": "dot", "title": "id: Mckinsey"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1433, "label": "Organization", "shape": "dot", "title": "id: Lego"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 260, "label": "Field", "shape": "dot", "title": "id: Computer Science"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1233, "label": "Field", "shape": "dot", "title": "id: Finance"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1573, "label": "Organization", "shape": "dot", "title": "id: Scout"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1577, "label": "__Entity__", "shape": "dot", "title": "id: Ai-Powered Capabilities"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1578, "label": "Person", "shape": "dot", "title": "id: Max Bertfield"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1580, "label": "Person", "shape": "dot", "title": "id: Noah Fichter"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 312, "label": "Person", "shape": "dot", "title": "id: Aaron Epstein"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1583, "label": "Concept", "shape": "dot", "title": "id: Learning Environment"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1576, "label": "Website", "shape": "dot", "title": "id: Scout\u0027S Website"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 192, "label": "Location", "shape": "dot", "title": "id: New York"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1574, "label": "System", "shape": "dot", "title": "id: Student Information System"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1581, "label": "Concept", "shape": "dot", "title": "id: Digital Infrastructure"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 1584, "label": "Concept", "shape": "dot", "title": "id: Innovative Technology"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": 601, "label": "Product", "shape": "dot", "title": "id: Software"}]);
+                  edges = new vis.DataSet([{"from": 835, "title": "GROUP_PARTNER", "to": 120}, {"from": 835, "title": "HAS_WEBSITE", "to": 842}, {"from": 835, "title": "USES", "to": 836}, {"from": 835, "title": "FOUNDER", "to": 843}, {"from": 835, "title": "FOUNDER", "to": 848}, {"from": 835, "title": "ESTABLISHED", "to": 71}, {"from": 835, "title": "DEVELOPS", "to": 844}, {"from": 835, "title": "BASED_IN", "to": 38}, {"from": 835, "title": "USED_IN", "to": 841}, {"from": 835, "title": "PARTICIPANT", "to": 8}, {"from": 843, "title": "SERVES_AS", "to": 847}, {"from": 843, "title": "ENGAGED_IN", "to": 845}, {"from": 848, "title": "STUDIED", "to": 852}, {"from": 848, "title": "ARCHITECT", "to": 849}, {"from": 1001, "title": "PART_OF", "to": 8}, {"from": 1001, "title": "HAS_WEBSITE", "to": 1008}, {"from": 1001, "title": "FOUNDER", "to": 1009}, {"from": 1001, "title": "FOUNDER", "to": 1015}, {"from": 1001, "title": "INTEGRATES", "to": 1006}, {"from": 1001, "title": "FOUNDED", "to": 71}, {"from": 1001, "title": "BASED_IN", "to": 38}, {"from": 1001, "title": "REVOLUTIONIZES", "to": 1005}, {"from": 1001, "title": "OPERATES_WITH", "to": 1007}, {"from": 1001, "title": "MENTORED_BY", "to": 70}, {"from": 1001, "title": "ASSISTS", "to": 1003}, {"from": 1001, "title": "HAS_TAGLINE", "to": 1002}, {"from": 1001, "title": "GRADES", "to": 1004}, {"from": 1001, "title": "RESHAPE", "to": 1011}, {"from": 1009, "title": "STUDIED", "to": 1013}, {"from": 1009, "title": "ATTENDED", "to": 1012}, {"from": 1009, "title": "DELIVERED", "to": 1010}, {"from": 1009, "title": "SWITCHED_FROM", "to": 1014}, {"from": 1417, "title": "LOCATED_IN", "to": 1419}, {"from": 1417, "title": "PART_OF", "to": 8}, {"from": 1417, "title": "HAS_WEBSITE", "to": 1420}, {"from": 1417, "title": "USES", "to": 29}, {"from": 1417, "title": "CO-FOUNDER", "to": 1432}, {"from": 1417, "title": "FOUNDED", "to": 10}, {"from": 1417, "title": "HAS_GROUP_PARTNER", "to": 120}, {"from": 1417, "title": "WORKS_AT", "to": 1421}, {"from": 1417, "title": "ENGAGES_WITH", "to": 1418}, {"from": 1421, "title": "WORKED_AT", "to": 1424}, {"from": 1421, "title": "HELD_ROLE", "to": 1425}, {"from": 1421, "title": "LED", "to": 1426}, {"from": 1421, "title": "CREATED", "to": 1427}, {"from": 1421, "title": "HOLDS_ROLE", "to": 1422}, {"from": 1421, "title": "HOLDS_ROLE", "to": 1423}, {"from": 1421, "title": "EARNED", "to": 1428}, {"from": 1421, "title": "FINALIST_IN", "to": 1430}, {"from": 1421, "title": "FINALIST_IN", "to": 1431}, {"from": 1432, "title": "ASSOCIATE_PARTNER", "to": 1230}, {"from": 1432, "title": "HEAD_OF_GLOBAL_BUSINESS_DEVELOPMENT", "to": 1433}, {"from": 1432, "title": "MASTER_OF_SCIENCE", "to": 260}, {"from": 1432, "title": "MASTER_OF_SCIENCE", "to": 1233}, {"from": 1573, "title": "USES", "to": 1577}, {"from": 1573, "title": "FOUNDER", "to": 1578}, {"from": 1573, "title": "FOUNDER", "to": 1580}, {"from": 1573, "title": "EMERGED_FROM", "to": 8}, {"from": 1573, "title": "GUIDES", "to": 312}, {"from": 1573, "title": "ENHANCE", "to": 1583}, {"from": 1573, "title": "HAS", "to": 1576}, {"from": 1573, "title": "OPERATES_IN", "to": 192}, {"from": 1573, "title": "TRANSFORM", "to": 1005}, {"from": 1573, "title": "PRESENTS", "to": 1574}, {"from": 1573, "title": "EMERGED_IN", "to": 10}, {"from": 1573, "title": "DEVELOP", "to": 1581}, {"from": 1573, "title": "USE", "to": 1584}, {"from": 1578, "title": "LEADS_INNOVATION", "to": 601}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

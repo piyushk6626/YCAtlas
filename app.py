@@ -1,90 +1,135 @@
-# app.py
-from flask import Flask, render_template, jsonify
+import streamlit as st
+import networkx as nx
+from pyvis.network import Network
+import streamlit.components.v1 as components
 from neo4j import GraphDatabase
-import logging
+import json
+import tempfile
 import os
 from dotenv import load_dotenv
 
+# Load environment variables
 load_dotenv()
-app = Flask(__name__)
-logging.basicConfig(level=logging.DEBUG)
 
-NEO4J_URI = os.getenv('NEO4J_URI')
-NEO4J_USER = os.getenv('NEO4J_USERNAME')
-NEO4J_PASSWORD = os.getenv('NEO4J_PASSWORD')
+# Get Neo4j connection details from environment variables
+NEO4J_URI = os.getenv('NEO4J_URI', 'bolt://localhost:7687')
+NEO4J_USER = os.getenv('NEO4J_USERNAME', 'neo4j')
+NEO4J_PASSWORD = os.getenv('NEO4J_PASSWORD', '')
 
-def get_graph_data():
-    try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        app.logger.debug(f"Connecting to Neo4j at {NEO4J_URI}")
+class Neo4jConnection:
+    def __init__(self, uri, user, password):
+        self.driver = GraphDatabase.driver(uri, auth=(user, password))
+
+    def close(self):
+        self.driver.close()
+
+    def query(self, query):
+        with self.driver.session() as session:
+            result = session.run(query)
+            return [dict(record) for record in result]
+
+def create_graph_from_neo4j(records):
+    G = nx.Graph()
+    
+    # Add nodes and edges from Neo4j records
+    for record in records:
+        # Extract node properties
+        start_node = record['n']  # Assuming 'n' is the source node
+        end_node = record['m']    # Assuming 'm' is the target node
+        relationship = record.get('r', {})  # Assuming 'r' is the relationship
         
-        with driver.session() as session:
-            # Modified query to get all relationships
-            result = session.run("""
-                MATCH (n)-[r]->(m)
-                RETURN DISTINCT n, r, m
-                UNION
-                MATCH (n)
-                WHERE NOT (n)--()
-                RETURN n, null as r, null as m
-            """)
+        # Get node properties as dictionaries
+        start_props = dict(start_node)
+        end_props = dict(end_node)
+        
+        # Use node IDs as unique identifiers
+        start_id = start_props.get('name', str(start_node.id))
+        end_id = end_props.get('name', str(end_node.id))
+        
+        # Add nodes with all their properties
+        G.add_node(start_id, **start_props)
+        G.add_node(end_id, **end_props)
+        
+        # Add edge with relationship properties
+        G.add_edge(start_id, end_id, **dict(relationship))
+    
+    return G
+
+def visualize_graph(G):
+    # Create Pyvis network
+    net = Network(notebook=True, width="100%", height="600px")
+    
+    # Add nodes
+    for node in G.nodes(data=True):
+        label = str(node[1].get('name', node[0]))
+        title = '<br>'.join([f"{k}: {v}" for k, v in node[1].items()])
+        net.add_node(node[0], label=label, title=title)
+    
+    # Add edges
+    for edge in G.edges(data=True):
+        title = '<br>'.join([f"{k}: {v}" for k, v in edge[2].items()])
+        net.add_edge(edge[0], edge[1], title=title)
+    
+    # Generate HTML file
+    with tempfile.NamedTemporaryFile(delete=False, suffix='.html') as tmpfile:
+        net.save_graph(tmpfile.name)
+        return tmpfile.name
+
+def main():
+    st.title("Neo4j Graph Viewer")
+    
+    # Sidebar for Neo4j connection settings
+    st.sidebar.header("Neo4j Connection Settings")
+    uri = st.sidebar.text_input("Neo4j URI", NEO4J_URI)
+    user = st.sidebar.text_input("Username", NEO4J_USER)
+    password = st.sidebar.text_input("Password", type="password", value=NEO4J_PASSWORD)
+    
+    # Custom Cypher query input
+    st.sidebar.header("Query Settings")
+    cypher_query = st.sidebar.text_area(
+        "Cypher Query",
+        """
+        MATCH (n)-[r]->(m)
+        RETURN n, r, m
+        LIMIT 100
+        """
+    )
+    
+    if st.sidebar.button("Connect and Visualize"):
+        try:
+            # Connect to Neo4j
+            conn = Neo4jConnection(uri, user, password)
             
-            nodes = {}
-            links = []
-            
-            for record in result:
-                # Process start node
-                start_node = record["n"]
-                if start_node.id not in nodes:
-                    nodes[start_node.id] = {
-                        "id": str(start_node.id),
-                        "label": list(start_node.labels),
-                        "properties": dict(start_node)
-                    }
+            with st.spinner("Fetching data from Neo4j..."):
+                # Execute query
+                records = conn.query(cypher_query)
                 
-                # Process end node and relationship if they exist
-                if record["m"] is not None:
-                    end_node = record["m"]
-                    if end_node.id not in nodes:
-                        nodes[end_node.id] = {
-                            "id": str(end_node.id),
-                            "label": list(end_node.labels),
-                            "properties": dict(end_node)
-                        }
-                    
-                    relationship = record["r"]
-                    links.append({
-                        "source": str(start_node.id),
-                        "target": str(end_node.id),
-                        "type": type(relationship).__name__,
-                        "properties": dict(relationship)
-                    })
-            
-            app.logger.debug(f"Found {len(nodes)} nodes and {len(links)} relationships")
-            return {
-                "nodes": list(nodes.values()),
-                "links": links
-            }
-            
-    except Exception as e:
-        app.logger.error(f"Neo4j Error: {str(e)}")
-        raise e
-    finally:
-        if 'driver' in locals():
-            driver.close()
+                if not records:
+                    st.warning("No data returned from the query.")
+                    return
+                
+                # Create NetworkX graph
+                G = create_graph_from_neo4j(records)
+                
+                # Visualize graph
+                html_file = visualize_graph(G)
+                
+                # Display graph
+                with open(html_file, 'r', encoding='utf-8') as f:
+                    html_data = f.read()
+                components.html(html_data, height=600)
+                
+                # Display graph statistics
+                st.subheader("Graph Statistics")
+                st.write(f"Number of nodes: {G.number_of_nodes()}")
+                st.write(f"Number of edges: {G.number_of_edges()}")
+                
+                # Cleanup
+                os.unlink(html_file)
+                conn.close()
+                
+        except Exception as e:
+            st.error(f"Error: {str(e)}")
 
-@app.route('/')
-def index():
-    return render_template('index.html')
-
-@app.route('/api/graph')
-def get_graph():
-    try:
-        data = get_graph_data()
-        return jsonify(data)
-    except Exception as e:
-        app.logger.error(f"Error in /api/graph: {str(e)}")
-        return jsonify({"error": str(e)}), 500
-
-if __name__ == '__main__':
-    app.run(debug=True)
+if __name__ == "__main__":
+    main()
