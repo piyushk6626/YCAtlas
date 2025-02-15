@@ -6,6 +6,7 @@ from neo4j import GraphDatabase
 import json
 import tempfile
 import os
+import colorsys  # New import to generate dynamic colors
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -28,49 +29,117 @@ class Neo4jConnection:
             result = session.run(query)
             return [dict(record) for record in result]
 
+def generate_color_palette(n):
+    """
+    Generate a list of n distinct hex colors.
+    """
+    colors = []
+    for i in range(n):
+        hue = i / float(n)
+        lightness = 0.5
+        saturation = 0.95
+        rgb = colorsys.hls_to_rgb(hue, lightness, saturation)
+        rgb = tuple(int(x * 255) for x in rgb)
+        colors.append('#{:02X}{:02X}{:02X}'.format(*rgb))
+    return colors
+
 def create_graph_from_neo4j(records):
+    """
+    Build a NetworkX graph from records returned by Neo4j.
+    Each node is identified by its Neo4j id (as string) and its labels (types) are stored.
+    Each relationship edge will also include its type.
+    """
     G = nx.Graph()
     
-    # Add nodes and edges from Neo4j records
     for record in records:
-        # Extract node properties
-        start_node = record['n']  # Assuming 'n' is the source node
-        end_node = record['m']    # Assuming 'm' is the target node
-        relationship = record.get('r', {})  # Assuming 'r' is the relationship
+        # Extract nodes and relationship
+        start_node = record['n']  # source node
+        end_node = record['m']    # target node
+        relationship = record.get('r', None)  # relationship between the nodes
         
-        # Get node properties as dictionaries
+        # Extract node properties
         start_props = dict(start_node)
         end_props = dict(end_node)
         
-        # Use node IDs as unique identifiers
-        start_id = start_props.get('name', str(start_node.id))
-        end_id = end_props.get('name', str(end_node.id))
+        # Use the actual Neo4j id as identifier (as string)
+        start_id = str(start_node.id)
+        end_id = str(end_node.id)
         
-        # Add nodes with all their properties
+        # Extract node labels (i.e. types) and store them as a property
+        start_labels = list(start_node.labels)
+        end_labels = list(end_node.labels)
+        start_props['labels'] = start_labels
+        end_props['labels'] = end_labels
+        
+        # Add nodes to the graph
         G.add_node(start_id, **start_props)
         G.add_node(end_id, **end_props)
         
-        # Add edge with relationship properties
-        G.add_edge(start_id, end_id, **dict(relationship))
+        # Process relationship properties and add the relationship type
+        if relationship is not None:
+            rel_props = dict(relationship)
+            rel_props['type'] = relationship.type
+        else:
+            rel_props = {}
+        
+        G.add_edge(start_id, end_id, **rel_props)
     
     return G
 
 def visualize_graph(G):
-    # Create Pyvis network
+    """
+    Visualize the NetworkX graph using a Pyvis network.
+    
+    Modifications:
+    1. Each node is colored based on its type (using its first label).
+    2. Each node displays its id (Neo4j id) as its label.
+    3. Each edge displays its relationship type.
+    """
+    # Initialize Pyvis network
     net = Network(notebook=True, width="100%", height="600px")
     
-    # Add nodes
+    # Generate a palette of 200 colors
+    color_palette = generate_color_palette(200)
+    color_map = {}
+    
+    # Build a mapping from primary node label to a color
     for node in G.nodes(data=True):
-        label = str(node[1].get('name', node[0]))
-        title = '<br>'.join([f"{k}: {v}" for k, v in node[1].items()])
-        net.add_node(node[0], label=label, title=title)
+        node_data = node[1]
+        node_labels = node_data.get('labels', [])
+        if node_labels:
+            primary_label = node_labels[0]
+        else:
+            primary_label = "default"
+        if primary_label not in color_map:
+            color_map[primary_label] = color_palette[len(color_map) % len(color_palette)]
     
-    # Add edges
+    # Add nodes to the Pyvis network
+    for node in G.nodes(data=True):
+        node_id = node[0]
+        node_data = node[1]
+        node_labels = node_data.get('labels', [])
+        
+        # Get the display label from the id property, fallback to Neo4j ID if not found
+        display_label = node_data.get('id', node_id)
+        
+        if node_labels:
+            primary_label = node_labels[0]
+        else:
+            primary_label = "default"
+        node_color = color_map.get(primary_label, "#777777")
+        
+        # Build a tooltip from the node properties
+        title = '<br>'.join([f"{k}: {v}" for k, v in node_data.items()])
+        net.add_node(node_id, label=str(display_label), title=title, color=node_color)
+    
+    # Add edges to the Pyvis network and display the relationship type as edge label
     for edge in G.edges(data=True):
-        title = '<br>'.join([f"{k}: {v}" for k, v in edge[2].items()])
-        net.add_edge(edge[0], edge[1], title=title)
+        edge_data = edge[2]
+        title = '<br>'.join([f"{k}: {v}" for k, v in edge_data.items()])
+        edge_label = edge_data.get("type", "")
+        net.add_edge(edge[0], edge[1], title=title, label=edge_label)
     
-    # Generate HTML file
+    # Generate HTML file for visualization
     with tempfile.NamedTemporaryFile(delete=False, suffix='.html') as tmpfile:
         net.save_graph(tmpfile.name)
         return tmpfile.name
@@ -108,13 +177,13 @@ def main():
                     st.warning("No data returned from the query.")
                     return
                 
-                # Create NetworkX graph
+                # Create a NetworkX graph from the records
                 G = create_graph_from_neo4j(records)
                 
-                # Visualize graph
+                # Visualize the graph using Pyvis
                 html_file = visualize_graph(G)
                 
-                # Display graph
+                # Display graph in Streamlit
                 with open(html_file, 'r', encoding='utf-8') as f:
                     html_data = f.read()
                 components.html(html_data, height=600)
