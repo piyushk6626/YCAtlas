@@ -1,10 +1,10 @@
 # main.py
 import csv
 import logging
-from config import load_env_vars, setup_logging
-from neo4j_helper import setup_neo4j_connection
-from llm_graph import setup_openai_model
-from data_processing import process_company_row
+from .config import load_env_vars, setup_logging
+from .neo4j_helper import setup_neo4j_connection
+from .llm_graph import setup_openai_model
+from .data_processing import process_company_row
 
 def process_csv_file(file_path):
     """

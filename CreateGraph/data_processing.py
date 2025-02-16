@@ -1,6 +1,6 @@
 import logging
-from openai_helper import generate_natural_description
-from llm_graph import create_graph
+from .openai_helper import generate_natural_description
+from .llm_graph import create_graph
 def create_company_description(company_name, company_headline, company_description, company_link,
                                batch, founded_date, team_size, location, group_partner, group_partner_link):
     """
