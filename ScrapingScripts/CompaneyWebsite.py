@@ -4,23 +4,19 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-api_key = os.getenv('FIRECRAWL_API_KEY')
+#//img[@class="h-full w-full rounded-xl"]
+def scrape_website(url):
+    api_key = os.getenv('FIRECRAWL_API_KEY')
 
-app = FirecrawlApp(api_key=api_key)
+    app = FirecrawlApp(api_key=api_key)
 
-response = app.scrape_url(url='https://docs.mendable.ai', params={
-	'formats': [ 'markdown' ],
-})
+    response = app.scrape_url(url=url, params={
+        'formats': [ 'markdown' ],
+    })
 
-response={
-    "success": True,
-    "data": {
-      "markdown": "# Markdown Content",
-      "metadata": {
-        "title": "Mendable | AI for CX and Sales",
-        "description": "AI for CX and Sales",
-        "language": None,
-        "sourceURL": "https://www.mendable.ai/"
-      }
-    }
-  }
+    if response['success']:
+        return response['data']['markdown']
+    else:
+        return None
+
+
