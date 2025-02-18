@@ -1,4 +1,4 @@
-import asyncio
+import asyncio  
 from crawl4ai import *
 
 async def fetch_YC_Launch_Page(url: str) -> str:
@@ -18,4 +18,4 @@ async def fetch_YC_Launch_Page(url: str) -> str:
 if __name__ == "__main__":
     url = "https://www.ycombinator.com/launches/Mnz-inari-your-junior-ai-product-manager"
     markdown = asyncio.run(fetch_YC_Launch_Page(url)) 
-    print(markdown)
+    print(markdown) 

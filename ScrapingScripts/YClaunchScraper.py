@@ -58,19 +58,5 @@ def scrape_data(url):
 
 if __name__ == "__main__":
     scrape_data("https://www.ycombinator.com/launches?batch=W2023")
-    scrape_data("https://www.ycombinator.com/launches?batch=S2022")
-    scrape_data("https://www.ycombinator.com/launches?batch=W2022")
-    scrape_data("https://www.ycombinator.com/launches?batch=S2021")
-    scrape_data("https://www.ycombinator.com/launches?batch=W2021")
-    scrape_data("https://www.ycombinator.com/launches?batch=S2020")
-    scrape_data("https://www.ycombinator.com/launches?batch=W2020")
-    scrape_data("https://www.ycombinator.com/launches?batch=S2019")
-    scrape_data("https://www.ycombinator.com/launches?batch=W2019")
-    scrape_data("https://www.ycombinator.com/launches?batch=S2018")
-    scrape_data("https://www.ycombinator.com/launches?batch=W2018")
-    scrape_data("https://www.ycombinator.com/launches?batch=S2017")
-    scrape_data("https://www.ycombinator.com/launches?batch=W2017")
-    scrape_data("https://www.ycombinator.com/launches?batch=S2016")
-    scrape_data("https://www.ycombinator.com/launches?batch=W2016")
     
     driver.quit()  # Quit once after all scraping is done
