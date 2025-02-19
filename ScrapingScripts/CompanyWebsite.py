@@ -35,8 +35,12 @@ def scrape_website(url, api_key):
         'formats': ['markdown'],
     })
 
-    if response['success']:
-        return response['data']['markdown']
+    # Check if the metadata contains a statusCode indicating success
+    metadata = response.get("metadata", {})
+    import time
+    time.sleep(10)
+    if metadata.get("statusCode") == 200 and "markdown" in response:
+        return response["markdown"]
     else:
         return None
 
@@ -101,18 +105,29 @@ def process_row(row, api_key):
         Batch = row.get("Batch", "").strip()
         
         # Add website content to markdown if available.
-        if website:
-            print(f"Scraping website content for: {website}")
-            logging.info(f"Scraping website content for: {website}")
-            result = scrape_website(website, api_key)
-            if result:
-                row["markdown"] += result
+        # if website:
+        #     print(f"Scraping website content for: {website}")
+        #     logging.info(f"Scraping website content for: {website}")
+        #     result = scrape_website(website, api_key)
+        #     if result:
+        #         row["markdown"] += result
+
 
         # If post_link exists and Batch matches, fetch the YC Launch page markdown.
         if post_link and (Batch in ["W25", "F24", "W24", "S24"]):
             print(f"Fetching YC Launch page for: {post_link}")
             logging.info(f"Fetching YC Launch page for: {post_link}")
             row["markdown"] = asyncio.run(fetch_YC_Launch_Page(post_link))
+        elif website:
+            print(f"Scraping website content for: {website}")
+            logging.info(f"Scraping website content for: {website}")
+            if scrape_website(website, api_key):
+                row["markdown"] += scrape_website(website, api_key)
+            else:
+                result = asyncio.run(fetch_YC_Launch_Page(website))
+                if result:
+                    row["markdown"] += result
+            
         
         # Fetch the company logo from the given link.
         print(f"Fetching company logo from: {Links}")
@@ -121,15 +136,16 @@ def process_row(row, api_key):
         
         # Mark row as processed.
         row["Processed"] = "True"
-    
+        
         return row
+        
     else:
         # For inactive rows, mark as processed as well (and simply return without processing content).
         row["Processed"] = "True"
         return row
 
 def main():
-    input_csv = "ycdet_merged.csv"
+    input_csv = "ycdet_merged_2.csv"
     output_csv = "output.csv"
     rows = []
 
