@@ -54,8 +54,8 @@ async def process_dataframe(df, max_concurrent=10):
     return df
 
 def main():
-    input_csv = 'input.csv'
-    output_csv = 'output.csv'
+    input_csv = 'output.csv'
+    output_csv = 'output3.csv'
     df = pd.read_csv(input_csv)
     
     if 'status' not in df.columns:
