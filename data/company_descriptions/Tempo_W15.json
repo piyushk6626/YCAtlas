@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/tempo",
+  "name": "Tempo",
+  "headline": "Live home fitness training powered by computer vision.",
+  "batch": "W15",
+  "description": "SmartSpot is a post Series-A stealth startup backed by Founders Fund and Khosla Ventures that uses computer vision to deliver an unparalleled fitness training experience to your home. Our unique hardware solution gives amazing trainers the ability to see their class participants in real time and deliver detailed advice that was previously only possible in person.",
+  "activity_status": "Active",
+  "website": "https://tempo.fit/",
+  "founded_date": 2014.0,
+  "team_size": 158.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:machine-learning; industry:consumer-health-services; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Moawia Eldeeb, Founder/CEO",
+      "description": "Moawia Eldeeb is the CEO and co-founder of Tempo.fit, an AI-powered home gym that uses computer vision to track real-time performance and optimize workouts. Tempo raised over $300M and was on track to reach $100M ARR, making it a leader in AI-driven fitness.\n\nA Columbia University graduate, Moawia is passionate about AI, fitness, and consumer startups.",
+      "linkedin": "https://www.linkedin.com/in/moawiaeldeeb"
+    },
+    {
+      "name": "Joshua Augustin, Founder/CTO",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/joshua-augustin-56ba268a"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "Tempo is reshaping the landscape of home fitness training through the innovative application of computer vision technology. Initially launched under the name SmartSpot, this stealth startup emerged from Y Combinator in the Winter 2015 batch and has since attracted notable funding from Founders Fund and Khosla Ventures. Since its founding in 2014, Tempo has worked diligently to create a fitness experience that brings the benefits of in-person training directly to your living room.\n\nWith its cutting-edge hardware, Tempo allows trainers to see their class participants in real-time, providing personalized guidance that goes beyond traditional streaming workouts. This real-time interaction means that feedback, motivation, and support are no longer confined to the gym; they are now accessible in the comfort of your home.\n\nLocated in the vibrant tech hub of San Francisco, Tempo has grown to a team of 158 dedicated employees who are committed to pushing the boundaries of consumer health services. The company's focus on machine learning and consumer health illustrates its commitment to delivering a high-quality fitness experience.\n\nIf you're looking to redefine your home workouts with a level of interaction that parallels in-person training, Tempo is carving out a unique niche in the fitness industry that's worth exploring. For more information, visit their website at [tempo.fit](https://tempo.fit/)."
+}

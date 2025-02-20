@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/phykos",
+  "name": "Phykos",
+  "headline": "Growing seaweed to stabilize the climate.",
+  "batch": "S21",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://phykos.co",
+  "founded_date": 2020.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Gustaf Alstromer",
+  "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:carbon-capture-and-removal; industry:climate; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Nico Julian, Founder",
+      "description": "Nico is a mechanical engineer with experience in marine satellite communications, solar startups, and moonshot origination at Google X.",
+      "linkedin": "https://www.linkedin.com/in/nico-julian-77586111/"
+    },
+    {
+      "name": "Jeff Zerger, Founder",
+      "description": "I'm a self-taught software engineer with a generalist's background and a penchant for collecting experiences. I've worked as a builder, a mechanic, a gardener, and an organic farmer, but I've spent most of the past 25 years developing software and running software teams in Silicon Valley. A former early hire at startups in cleantech, food, and aerospace, I also have over a decade of combined experience at two of the largest technology companies in the world: Apple and Google.",
+      "linkedin": "https://www.linkedin.com/in/jeff-zerger-8a49159/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "Phykos is a forward-thinking startup focused on a unique and impactful mission: growing seaweed to help stabilize the climate. Founded in 2020 and based in San Francisco, Phykos aims to harness the natural power of seaweed as a sustainable solution for carbon capture and climate mitigation. The company is part of the Y Combinator S21 batch, which speaks to its potential and the backing of a prestigious accelerator.\n\nDespite having a small team of two, Phykos is tackling a daunting challenge—addressing climate change through innovative agricultural practices. The company's emphasis on seaweed highlights the growing recognition of marine solutions in the larger conversation about climate action.\n\nWith Gustaf Alstromer as their Group Partner, Phykos is well-positioned to leverage mentorship and resources from Y Combinator to help propel their mission forward. They’re tagged under important themes like carbon capture and removal, climate action, and the San Francisco Bay Area tech ecosystem—indicating their serious intent to make a real difference.\n\nWhile specific initiatives are currently unspecified, Phykos represents a promising intersection of environmental science and technology with a clear goal: to make our planet healthier through the power of the ocean. You can learn more about their endeavors on their website, phykos.co."
+}

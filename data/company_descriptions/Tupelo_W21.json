@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/tupelo",
+  "name": "Tupelo",
+  "headline": "Marketplace for small business M&A",
+  "batch": "W21",
+  "description": "Tupelo is building the future of how traditional small businesses are bought and sold. We are the first small business M&A marketplace with modern integrations to make selling and buying a business quick and easy.",
+  "activity_status": "Active",
+  "website": "https://tupelosmb.com/",
+  "founded_date": 2020.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:marketplace; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "George Wellmer, Founder",
+      "description": "Cofounder of Tupelo - a marketplace to buy and sell small businesses.",
+      "linkedin": "https://www.linkedin.com/in/georgewellmer/"
+    },
+    {
+      "name": "Zac Wellmer, Founder",
+      "description": "Building the future of how small businesses are bought and sold.",
+      "linkedin": "https://www.linkedin.com/in/zac-wellmer/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Tupelo: Revolutionizing Small Business M&A**\n\nTupelo, founded in 2020 and part of the Y Combinator Batch W21, is on a mission to transform the way traditional small businesses are bought and sold. Picture this: a marketplace designed specifically for small business mergers and acquisitions (M&A) that integrates modern technologies to streamline the process. That’s Tupelo for you.\n\nLocated in the bustling startup hub of San Francisco, Tupelo is a compact team of two, but don’t let their size fool you. They are building a platform that makes transactions in the world of small business M&A quicker and more efficient than ever before. With the endorsement of influential figures like Dalton Caldwell as their Group Partner, Tupelo stands out as a key player in the fintech and marketplace sectors.\n\nTheir vision is ambitious yet straightforward: create a user-friendly experience for buying and selling small businesses. Given that many traditional approaches are cumbersome and outdated, Tupelo’s modern integrations are a breath of fresh air for entrepreneurs looking to enter or exit the market.\n\nAs they continue developing their platform, Tupelo is carving out a niche that could redefine small business transactions. If you’re interested in how businesses can evolve in the digital age, keep an eye on Tupelo. You can learn more about their innovative approach at [tupelosmb.com](https://tupelosmb.com/)."
+}

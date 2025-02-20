@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/wefunder",
+  "name": "Wefunder",
+  "headline": "We're Robinhood for pre-IPO startups. Everyone can invest $100.",
+  "batch": "W13",
+  "description": "We help everyone invest in startups that they care about.\r\n\nWe believe that when all Americans can invest in innovation, the world will be a better place. And soon, our dream will become a reality. Thanks to the JOBS Act, everyone — not just the wealthy — can invest as little as $100 in the startups they care about. Not only does this open up the pool of investors, and increase the amount of great ideas that get funded, but it allows startups to grow an army of passionate investors who truly want to see them succeed. Second tier VC’s will become obsolete as startups tap their lead users and customers for quick early investments.",
+  "activity_status": "Active",
+  "website": "http://wefunder.com",
+  "founded_date": 2011.0,
+  "team_size": 35.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:investing; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Nick Tommarello, Founder/CEO",
+      "description": "CEO, Wefunder",
+      "linkedin": "https://www.linkedin.com/in/nicktommarello/"
+    },
+    {
+      "name": "Greg Belote, Founder/CTO",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/gregbelote/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# wefunder.com\\nVerifying you are human. This may take a few seconds.\\nwefunder.com needs to review the security of your connection before proceeding.\\nPlease unblock challenges.cloudflare.com to proceed.\\nVerification successful\\nWaiting for wefunder.com to respond...\\nRay ID: `9147918c0b3e2e38`\\nPerformance & security by [Cloudflare](http://wefunder.com/<https:/www.cloudflare.com?utm_source=challenge&utm_campaign=m>)\\n' markdown_with_citations='# wefunder.com\\nVerifying you are human. This may take a few seconds.\\nwefunder.com needs to review the security of your connection before proceeding.\\nPlease unblock challenges.cloudflare.com to proceed.\\nVerification successful\\nWaiting for wefunder.com to respond...\\nRay ID: `9147918c0b3e2e38`\\nPerformance & security by Cloudflare⟨1⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ http://wefunder.com/<https:/www.cloudflare.com?utm_source=challenge&utm_campaign=m>: Cloudflare\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Wefunder: Revolutionizing Startup Investment**\n\nFounded in 2011 and hailing from the Y Combinator W13 batch, Wefunder is on a mission to democratize access to startup investments. Think of them as the Robinhood for pre-IPO startups: their goal is to allow everyone, regardless of their financial status, to invest in innovative companies. \n\nTheir philosophy? When everyday Americans can invest in the startups they care about, it doesn't just make those companies richer; it enhances the entire ecosystem of innovation. With the rollout of the JOBS Act, which allows investments as small as $100, Wefunder is set to change the game. This initiative opens the floodgates for a diverse range of investors, potentially replacing traditional venture capitalists as startups can now tap their users and customers directly for early funding.\n\nBased in San Francisco and consisting of a team of 35 dedicated employees, Wefunder is positioned at the intersection of fintech and community-driven investment. They believe in the power of passionate investors—they're not just funding entities; they’re advocates for the startups they back. \n\nIn a world where seed funding can often feel like a closed loop dominated by the wealthy, Wefunder is striving to level the playing field. By enabling collective financial support from a larger pool of investors, they're enabling more great ideas to blossom and, ultimately, changing the way we think about startup financing.\n\nFor more information, you can visit their website at [wefunder.com](http://wefunder.com)."
+}

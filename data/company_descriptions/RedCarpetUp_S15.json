@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/redcarpetup",
+  "name": "RedCarpetUp",
+  "headline": "Credit cards for Indians that banks cannot see",
+  "batch": "S15",
+  "description": "RedCarpet issues credit cards to those that banks cannot see. Currently we are one of the largest issuers of credit lines to the new-to-credit customer in India.\r\nIn a population base of 800 million people with bank accounts, there are less than 40 million credit cards. \r\nBy building a fullstack SDK for card issuance, underwriting as well as holding capital & collection ops, we are looking to build the Capital One of India.",
+  "activity_status": "Active",
+  "website": "http://redcarpetup.com",
+  "founded_date": null,
+  "team_size": 100.0,
+  "location": "Gurugram, India",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:india",
+  "founders": [
+    {
+      "name": "Kartik Venkataraman, Founder",
+      "description": "Tech Entrepreneur | YC Founder (S15) |  IIT-D & UIUC",
+      "linkedin": "https://www.linkedin.com/in/kartikvenkataraman1"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "**Company Summary: RedCarpetUp**\n\nRedCarpetUp is on a mission to create accessible credit solutions for Indians that traditional banks often overlook. It began as a service issuing credit cards to individuals who fall outside the conventional banking radar. Today, it stands as one of the largest providers of credit lines for new-to-credit customers in India.\n\nThe statistics speak volumes: out of a population of 800 million people with bank accounts, only about 40 million hold credit cards. This glaring gap in the market presents a huge opportunity for RedCarpetUp. By developing a comprehensive, full-stack SDK that encompasses card issuance, underwriting, capital holding, and collections operations, the company aims to establish itself as the \"Capital One of India.\"\n\nFounded in Y Combinator's Summer 2015 batch, RedCarpetUp is based in Gurugram and boasts a team of 100 dedicated employees. With a focus on fintech, the company is uniquely positioned to redefine credit access in a rapidly evolving financial landscape.\n\nFor more information, you can visit their website at [RedCarpetUp](http://redcarpetup.com). In the quest to democratize credit, RedCarpetUp is not just innovating; it’s paving the way for a financial future where millions can have the purchasing power they deserve."
+}

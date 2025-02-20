@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/wareiq",
+  "name": "WareIQ",
+  "headline": "Amazon-prime like logistics for eCommerce companies in India",
+  "batch": "S20",
+  "description": "We are building an on-demand Fulfillment network and all software tools in a central platform which is required for an Etailer to manage their eCommerce Fulfillment operations.\r\n\nEtailers connect all their stores to our platform and send us their inventory. Whenever an order is placed on any of the channels, our Decision Engine allocates order to the nearest Warehouse holding the inventory, and right courier partner to pick & deliver to the end customer.",
+  "activity_status": "Active",
+  "website": "https://www.wareiq.com/",
+  "founded_date": 2019.0,
+  "team_size": 50.0,
+  "location": "Bengaluru, India",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:warehouse-management-tech; industry:b2b; industry:supply-chain",
+  "founders": [
+    {
+      "name": "Harsh Vaidya, Founder",
+      "description": "Founder & CEO of WareIQ, building on-demand fulfillment infrastructure allowing brands to offer Amazon-Prime like shipping.\n\nHarsh comes with 8+ years of experience working in Corporate Strategy & Market expansion roles for large tech. In his previous role, he looked into Product Strategy & Operations for Pitney Bowes, a global tech company offering solutions for small businesses and global eCommerce.\n\nBachelors in Engineering from NIT, Harsh started his career with Capillary Technologies.",
+      "linkedin": "https://www.linkedin.com/in/harshmv/"
+    },
+    {
+      "name": "Aayush Mattoo, Founder",
+      "description": "Young entrepreneur with a deep interest in the supply chain dynamics.",
+      "linkedin": "https://www.linkedin.com/in/aayushmattoo/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "**WareIQ: Revolutionizing eCommerce Logistics in India**\n\n**Overview**  \nFounded in 2019 and part of Y Combinator's S20 batch, WareIQ is pushing the boundaries of eCommerce fulfillment in India. The company is based in Bengaluru and operates with a focused team of 50 employees, all committed to delivering an Amazon-prime-like logistics experience tailored for Indian eCommerce businesses.\n\n**Mission**  \nThe mission of WareIQ is straightforward but ambitious: to create an on-demand fulfillment network that equips eCommerce companies with all necessary software tools for managing their fulfillment operations in one centralized platform. \n\n**How It Works**  \nWareIQ simplifies the eCommerce fulfillment process for etailers. Once they connect their stores to WareIQ’s platform and send in their inventory, the magic happens. When an order comes in from any channel, their Decision Engine swings into action. It intelligently determines the optimal warehouse housing the inventory and pairs it with the right courier partner to ensure quick delivery to the end customer. This seamless orchestration lets businesses focus on selling while WareIQ handles the logistics.\n\n**Key Features and Benefits**\n- **Centralized Fulfillment**: Everything an etailer needs to manage fulfillment operations is found in WareIQ’s all-in-one platform.\n- **Intelligent Decision Engine**: Orders are allocated to the nearest warehouse and the best courier for efficiency.\n  \n**Tags**: WareIQ can be categorized under 'warehouse-management-tech', 'b2b', and 'supply-chain', highlighting its focus on modern technologies for supply chain logistics.\n\n**Leadership & Partnerships**  \nAaron Epstein serves as the company’s group partner, bringing valuable insights and guidance to drive WareIQ's growth in the competitive logistics space.\n\n**Conclusion**  \nWareIQ stands at the intersection of technology and logistics, striving to redefine eCommerce fulfillment in India. By combining smart software with a comprehensive network of warehouses and couriers, WareIQ is set on a path to transform how products are delivered in the burgeoning Indian online market. For more information, visit [WareIQ's website](https://www.wareiq.com/)."
+}

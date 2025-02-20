@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/index-3",
+  "name": "Index",
+  "headline": "Index is the modern business intelligence platform",
+  "batch": "S19",
+  "description": "Index is a next-generation business intelligence (BI) tool designed for data teams and analysts to rapidly create, share, and explore interactive dashboards. By combining powerful SQL capabilities with a collaborative workspace, Index simplifies complex data visualization and enables teams to make faster, data-driven decisions.",
+  "activity_status": "Active",
+  "website": "https://index.app",
+  "founded_date": null,
+  "team_size": 6.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; industry:b2b; industry:analytics; industry:data-visualization; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Xavier Pladevall, Founder",
+      "description": "Co-founder at Index",
+      "linkedin": "https://www.linkedin.com/in/pladevall"
+    },
+    {
+      "name": "Eduardo Portet, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/eportet"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Index: Revolutionizing Business Intelligence**\n\nIndex is a cutting-edge business intelligence (BI) platform that’s making waves among data teams and analysts. Launched from the thriving tech hub of San Francisco, Index is designed to help users create, share, and explore interactive dashboards in a much more efficient manner. By marrying powerful SQL capabilities with a collaborative workspace, it streamlines complex data visualization tasks, empowering teams to make quicker, data-driven decisions.\n\nFounded as part of Y Combinator’s Batch S19, Index is a testament to the innovative spirit of modern tech startups, focusing on transforming the way businesses interact with their data. The company’s small yet agile team of six is dedicated to making advanced analytics more accessible and user-friendly.\n\nWith tags like ‘SaaS,’ ‘B2B,’ ‘analytics,’ ‘data visualization,’ and ‘AI,’ Index is positioned at the intersection of technology and business, indicating its broad applicability and disruptive potential in the market.\n\nYou can check them out at [index.app](https://index.app).\n\nIn summary, Index is not just another BI tool; it's a modern solution that ensures teams can leverage their data effectively, stay agile, and remain competitive in an increasingly data-driven world."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/healthsherpa",
+  "name": "HealthSherpa",
+  "headline": "Private sector Healthcare.gov.",
+  "batch": "S12",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://healthsherpa.com",
+  "founded_date": 2013.0,
+  "team_size": 220.0,
+  "location": "Sacramento, CA",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:health-tech; industry:health-insurance",
+  "founders": [
+    {
+      "name": "George Kalogeropoulos, Founder/CEO",
+      "description": "CEO, HealthSherpa, the private sector Healthcare.gov. Over 10 million enrolled since 2014.",
+      "linkedin": null
+    },
+    {
+      "name": "Ning Liang, Founder",
+      "description": null,
+      "linkedin": "https://linkedin.com/in/ningliang"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='```\\n406 Not Acceptable\\n\\n```\\n\\n' markdown_with_citations='```\\n406 Not Acceptable\\n\\n```\\n\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "HealthSherpa is essentially carving out its place as the private-sector alternative to Healthcare.gov. Founded in 2013 and birthed from Y Combinator's Summer 2012 batch, the company kicked off its mission with a straightforward goal: to simplify the health insurance landscape and make it more accessible for consumers.\n\nLocated in Sacramento, CA, HealthSherpa has grown to a team of around 220 employees, all dedicated to enhancing the health insurance experience. \n\nThe company identifies itself within the health-tech and health-insurance sectors, signaling its commitment to using technology to improve healthcare access. They maintain a robust online platform at [healthsherpa.com](https://healthsherpa.com) that serves as a user-friendly interface for individuals navigating their health coverage options. \n\nIn a nutshell, HealthSherpa is about bridging the gap between the complexities of health insurance and the everyday user, making it easier for people to find and enroll in health plans that suit their needs."
+}

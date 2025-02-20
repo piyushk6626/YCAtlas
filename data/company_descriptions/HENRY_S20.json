@@ -1,0 +1,42 @@
+{
+  "links": "https://www.ycombinator.com/companies/henry",
+  "name": "HENRY",
+  "headline": "We train the best software engineers & data scientists in LatAm",
+  "batch": "S20",
+  "description": "We train software developers & data scientists for free and help them find a job remotely in exchange of a share of their future income.",
+  "activity_status": "Active",
+  "website": "https://www.soyhenry.com/hiring-en",
+  "founded_date": 2019.0,
+  "team_size": 100.0,
+  "location": "Buenos Aires, Argentina",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:education; industry:marketplace; industry:b2b; industry:community; industry:latin-america",
+  "founders": [
+    {
+      "name": "Martin Borchardt, Founder",
+      "description": "Serial Entrepreneur, based in Argentina. Founder & CEO of HENRY. Previously, I co-founded Nubi (Exit), a crossborder payment fintech platform that partnered with PayPal and Transferwise for processing payments. I also co-founded VerdeAgua (Exit), the biggest hydroponic company in Uruguay.",
+      "linkedin": "https://www.linkedin.com/in/martin-borchardt/"
+    },
+    {
+      "name": "Manuel Barna Ferrés, Founder",
+      "description": "Co-Founder of Henry, LATAM's online coding bootcamp in exchange of an ISA. \nEconomist and MBA, \nMy areas of expertise are product management, business development, financial analysis, operations, churn and customer experience.",
+      "linkedin": "https://www.linkedin.com/in/mbarnaferres/"
+    },
+    {
+      "name": "Luz Borchardt, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/luzborchardt/"
+    },
+    {
+      "name": "Leonardo Maglia, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/leonardomaglia/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**HENRY: Shaping the Future of Tech Talent in Latin America**\n\nFounded in 2019 and a notable participant in the Y Combinator Batch S20, HENRY is on a mission to train the best software engineers and data scientists in Latin America. The company's innovative approach makes education accessible: they provide training to aspiring tech professionals at no upfront cost. Instead, HENRY takes a share of their future income once they land a job. It’s a model that not only democratizes education but also aligns the incentives of both students and the company.\n\nBased in Buenos Aires, Argentina, HENRY has grown to a robust team of 100 employees, all leaning into the vision of empowering the next generation of tech talent. Their focus lies not just on education but also on building a community of skilled professionals ready to meet the demands of the evolving tech landscape.\n\nHENRY isn’t simply an educational institution; it’s a marketplace for talent and opportunities. They connect graduates with remote job placements, leveraging a growing network within the tech industry. The company operates at the intersection of education, B2B services, and community building, specifically targeting the Latin American market, which is ripe with potential.\n\nWith Aaron Epstein as their Group Partner, HENRY is positioned to make a significant impact in the tech ecosystem. If you're interested in transforming education and careers in the tech space, HENRY is a fascinating model to watch—and potentially engage with. \n\nTo learn more, you can visit their website: [HENRY Hiring](https://www.soyhenry.com/hiring-en)."
+}

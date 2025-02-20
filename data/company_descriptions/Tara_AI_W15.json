@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/tara-ai",
+  "name": "Tara AI",
+  "headline": "Meet Tara AI, your new engineering efficiency co-pilot.",
+  "batch": "W15",
+  "description": "Tara AI helps engineering leaders measure and improve engineering efficiency, with fine-tuned, secure LLMs trained on source control and project data. \r\n\nOur customers include MongoDB, Clearbit and Prometric. Our platform generates all-in-one views on cycle times, benchmarks, investments and overall size and velocity of engineering activity. We're helping customers achieve 30% reduction in time to customer deployment.",
+  "activity_status": "Active",
+  "website": "http://www.tara.ai",
+  "founded_date": 2018.0,
+  "team_size": 13.0,
+  "location": "San Jose, CA",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:generative-ai; industry:saas; industry:devops; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Syed Ahmed, Founder/CTO",
+      "description": "Syed Ahmed is an experienced CTO and Engineering leader with over 15 years of experience in architecting software &  building high performance teams. Him and his cofounder launched their first bootstrapped and profitable SaaS business in 2010 which became an award winning startup called Gradberry. His second venture Elements was a specialized Engineering and Design firm that was acquired and his current venture Tara AI is focused on making the Software Lifecycle more Predictable.",
+      "linkedin": "https://www.linkedin.com/in/syedahmedz/"
+    },
+    {
+      "name": "Iba Masood, Founder/CEO",
+      "description": "ba Masood is the co-founder and CEO of Tara AI, a smart platform helping thousands of engineers and teams deliver on planned releases. Iba was awarded Forbes 30 under 30, for the 2018 list, under the field of Enterprise Technology. She is the youngest winner of the Cartier Women's Initiative Award, and has an undergraduate degree in Finance from the American University of Sharjah, graduating magna cum laude. Iba has also previously worked at McKinsey & Co, and GE.",
+      "linkedin": "https://www.linkedin.com/in/ibamasood"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "Tara AI is carving out a niche as your go-to co-pilot for engineering efficiency. Founded in 2018, the company emerged from Y Combinator’s Winter 2015 batch and is headquartered in San Jose, CA, with a lean team of 13 dedicated professionals. \n\nThe mission is clear: to help engineering leaders measure and boost their efficiency with a powerful platform that utilizes fine-tuned, secure language models (LLMs) trained on crucial source control and project data. Think of Tara AI as a central hub where you can see all elements of your engineering efforts—cycle times, benchmarks, investments—condensed into comprehensive views that drive intelligent decisions.\n\nCompanies like MongoDB, Clearbit, and Prometric have already begun reaping the benefits, leveraging Tara AI’s platform to achieve up to a 30% reduction in time to customer deployment. It’s not just about saving time; it’s about fostering a significant boost in productivity and engineering activity.\n\nWith tags like 'artificial-intelligence', 'generative-ai', and 'saas', Tara AI sits at the intersection of cutting-edge tech and practical application in DevOps. For those looking to optimize their engineering processes, Tara AI is definitely worth a look. Check them out at [tara.ai](http://www.tara.ai)."
+}

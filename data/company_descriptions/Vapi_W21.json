@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/vapi",
+  "name": "Vapi",
+  "headline": "Voice AI for developers.",
+  "batch": "W21",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://vapi.ai",
+  "founded_date": 2020.0,
+  "team_size": 10.0,
+  "location": "San Francisco",
+  "group_partner": "Gustaf Alstromer",
+  "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Jordan Dearsley, Founder",
+      "description": "Founder, CEO @ Vapi",
+      "linkedin": "http://linkedin.com/in/jordandearsley"
+    },
+    {
+      "name": "Nikhil Gupta, Founder",
+      "description": "Founder, CTO @ Vapi",
+      "linkedin": "https://www.linkedin.com/in/nikhilro/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=8c0b8f6e-04e6-4dd8-9a29-6329e737285d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f346a8e5-a3b6-40d1-9fa5-d71355d64667&tw_document_href=https%3A%2F%2Fvapi.ai%2F&tw_iframe_status=0&txn_id=ok996&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=8c0b8f6e-04e6-4dd8-9a29-6329e737285d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f346a8e5-a3b6-40d1-9fa5-d71355d64667&tw_document_href=https%3A%2F%2Fvapi.ai%2F&tw_iframe_status=0&txn_id=ok996&type=javascript&version=2.3.31)\\n' markdown_with_citations='![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=8c0b8f6e-04e6-4dd8-9a29-6329e737285d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f346a8e5-a3b6-40d1-9fa5-d71355d64667&tw_document_href=https%3A%2F%2Fvapi.ai%2F&tw_iframe_status=0&txn_id=ok996&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=8c0b8f6e-04e6-4dd8-9a29-6329e737285d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f346a8e5-a3b6-40d1-9fa5-d71355d64667&tw_document_href=https%3A%2F%2Fvapi.ai%2F&tw_iframe_status=0&txn_id=ok996&type=javascript&version=2.3.31)\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Vapi is a promising startup that's making waves in the voice AI space, and it has a clear mission: to empower developers with advanced voice capabilities. Founded in 2020, Vapi emerged from Y Combinator's W21 batch, which already sets a strong precedent for innovation and growth. The company is based in San Francisco and boasts a small but dedicated team of 10 people. \n\nThe company's mission focuses on harnessing voice AI to enhance developer tools, allowing for easier and more seamless integration of voice functionalities in applications. Essentially, they’re trying to fill a gap that many developers face when trying to implement voice recognition features—making that process smoother and more accessible.\n\nWith Gustaf Alstromer serving as their group partner, Vapi is well-positioned to leverage insights and experience from a seasoned mentor in the startup ecosystem. Hailing from the vibrant San Francisco Bay Area, Vapi is tagged in the realms of artificial intelligence, which is not just a trend but a fundamental shift in how technology interacts with users.\n\nIf you’re looking for more information or want to dive deeper into what they’re doing, their website, [vapi.ai](https://vapi.ai), offers a wealth of resources and insights. \n\nIn a nutshell, Vapi’s commitment to integrating voice AI for developers highlights an exciting fusion of technology and utility—something that’s increasingly critical in our fast-paced, voice-enabled world."
+}

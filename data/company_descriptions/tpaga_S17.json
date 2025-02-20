@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/tpaga",
+  "name": "tpaga",
+  "headline": "First financial Superapp of Latin America",
+  "batch": "S17",
+  "description": "Through our mobile wallet, we allow consumers to receive, store, and send money through their phones. Virtually all the value propositions of a bank,  in just one app.",
+  "activity_status": "Active",
+  "website": "https://tpaga.co/",
+  "founded_date": 2015.0,
+  "team_size": 25.0,
+  "location": "Bogotá, Colombia",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:banking-as-a-service; industry:fintech",
+  "founders": [
+    {
+      "name": "Andres Gutierrez, Founder/CEO",
+      "description": "2 time founder, from Colombia.\nBoard member of 3 tech companies from Latam (Mi Megafono, Ozon) and 1 professional Soccer Team in Colombia.\nHusband and Father of one.\nSoccer fan. (Socio de FC Barcelona)",
+      "linkedin": "https://co.linkedin.com/in/andres-gutierrez-8516588"
+    },
+    {
+      "name": "Sebastian Ortiz, Founder",
+      "description": "CTO at Tpaga (YC S17) and Mono (YC W22)",
+      "linkedin": "https://co.linkedin.com/in/sebastian-ortiz-v%C3%A1squez-75b38590"
+    },
+    {
+      "name": "Juan Salcedo, Founder",
+      "description": "Founder and investor.",
+      "linkedin": "http://www.linkedin.com/in/JuanSalcedo"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![](https://tpaga.co/wp-content/uploads/2023/08/Logo-Negativo-Tpaga.svg)\\n' markdown_with_citations='![](https://tpaga.co/wp-content/uploads/2023/08/Logo-Negativo-Tpaga.svg)\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**tpaga: The First Financial Superapp of Latin America**\n\nFounded in 2015, tpaga emerged from the vibrant startup scene in Bogotá, Colombia, with an ambitious mission: to become the go-to financial superapp in Latin America. Backed by the prestigious Y Combinator, specifically the S17 batch, tpaga quickly made its mark in the fintech landscape by offering a comprehensive mobile wallet solution that encompasses nearly all the functions of a traditional bank—all within a single app.\n\n### The Offerings\n\nTpaga allows users to receive, store, and send money directly from their smartphones, bridging the gap between convenience and functionality. It's not just about making transactions; it's about empowering individuals with financial tools typically offered by banks, now accessible right at their fingertips. This banking-as-a-service model is paving the way for a new era in finance across Latin America.\n\n### The Team and Vision\n\nWith a compact team of 25 dedicated employees, tpaga is agile and focused, which is crucial in such a fast-evolving industry. Their group partner, nan, adds strength to their mission, signaling a collaborative approach to growth.\n\n### Industry Positioning\n\nAs a fintech company, tpaga is well-positioned in a burgeoning market. The combination of their innovative technology and user-centric approach sets them apart in the crowded landscape of financial services. Their commitment to becoming the first financial superapp speaks not only to their aspirations but also to the growing demand for integrated financial solutions in emerging markets.\n\n### Why It Matters\n\nIn a region where traditional banking can often be inaccessible or inefficient, tpaga is not just providing a service; they are transforming the way people engage with their finances. By simplifying the banking process, tpaga lowers barriers for millions, fostering financial inclusion and empowerment. \n\nFor those interested in exploring what tpaga has to offer, more information can be found on their website: [tpaga.co](https://tpaga.co/).\n\nIn summary, tpaga is not just another fintech app; it's a pivotal player in the evolution of banking in Latin America, positioning itself as a leader in providing accessible, comprehensive financial services to millions."
+}

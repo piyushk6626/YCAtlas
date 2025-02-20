@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/golorry",
+  "name": "GoLorry",
+  "headline": "Mobile marketplace for inter-city trucking in India",
+  "batch": "W16",
+  "description": "GoLorry offers transport and logistics services to its clients. It was founded in 2015 and conducts operations in California and Hyderabad.",
+  "activity_status": "Active",
+  "website": "http://www.golorry.com",
+  "founded_date": 2015.0,
+  "team_size": 30.0,
+  "location": "Hyderabad, India",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:marketplace; industry:logistics; industry:india",
+  "founders": [
+    {
+      "name": "ZJ Lin, Founder",
+      "description": "Co-founder and CPO of GoLorry (YC W16): 2015 - 2022\nCo-founder and CPO of Landeed (YC W22): 2022 - present",
+      "linkedin": "https://www.linkedin.com/in/zjlin/"
+    },
+    {
+      "name": "Sanjay Mandava, Founder/CEO",
+      "description": "2x YC founder. First time with GoLorry and now Landeed. Before startups, I worked as proprietary trader/investment analyst at Knight Vinke (Activist Hedge Fund) and as a real estate developer. Currently, I am CEO and Founder of Landeed with focus on building India's (later for the developing world) fastest and most comprehensive property title search engine.",
+      "linkedin": "https://www.linkedin.com/pub/sanjay-mandava/24/6aa/206"
+    },
+    {
+      "name": "J Richards, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/jonathan-richards-26259bb6/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"# We're Just Fixing AFew Things!\\nWe hope to be back online very soon.Please try again in a few minutes.\\n(Error 503)\\n\" markdown_with_citations=\"# We're Just Fixing AFew Things!\\nWe hope to be back online very soon.Please try again in a few minutes.\\n(Error 503)\\n\" references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**GoLorry: Simplifying Inter-City Trucking in India**\n\nFounded in 2015, GoLorry is a logistics startup based in Hyderabad, India, that has carved out a niche in the mobile marketplace for inter-city trucking. With a straightforward mission, GoLorry aims to streamline the movement of goods across cities, making it easier for businesses and individuals to connect with transport services.\n\nOriginally offering transport and logistics solutions, GoLorry has leveraged technology to innovate within the logistics sector. The company is a proud member of the Y Combinator Batch W16, alongside other promising startups, which has likely provided invaluable mentorship and resources during its formative years.\n\nWith a compact team of 30 dedicated employees, GoLorry embodies agility and focus. They cater explicitly to the Indian market, showcasing their commitment to understanding and solving local logistics challenges. The company specializes in providing a digital platform that links truck owners with customers needing transportation for their goods—addressing a significant gap in the logistics industry.\n\nWhile their website is currently offline, it's a temporary setback in their journey towards optimizing inter-city transport. For those interested in learning more about GoLorry, or keeping an eye on their progress, their site can be found at [golorry.com](http://www.golorry.com).\n\nIn the fast-evolving landscape of logistics, GoLorry reflects the intersection of technology and traditional trucking, carving a path toward greater efficiency in India’s logistics ecosystem. Whether you're a business looking for reliable transport options or a truck owner seeking to maximize return on vehicles, GoLorry is a name to watch."
+}

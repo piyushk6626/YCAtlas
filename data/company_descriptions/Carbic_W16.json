@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/carbic",
+  "name": "Carbic",
+  "headline": "using ultrasonics + ml to analyze fluid behavior at infrastructureâ¦",
+  "batch": "W16",
+  "description": "We are a sensor company that aims to accurately capture the behavior of high throughput fluid systems. With this information we can help improve operations while reducing spills and theft. This technology could change the way the oil and gas industry, water municipalities, and anyone dealing with high volume fluid, operates. Fleets of our proprietary lightweight hardware send raw ultrasonic data directly to our server via cellular/satellite; we then use a mix of physics equations, signal processing, and anomaly detection to determine the behavior of fluid (volume and speed) in pipes.",
+  "activity_status": "Active",
+  "website": "http://carbic.com",
+  "founded_date": 2015.0,
+  "team_size": 8.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:industrial-workplace-safety; industry:saas; industry:iot; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Jed Somers",
+      "description": "I'm interested in industrial technology, local business/communities, and inspiring/novel political ideas. Currently COO at Owner.com",
+      "linkedin": "https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb"
+    },
+    {
+      "name": "Jeff Garoon",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/jeffgaroon"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "**Carbic: Transforming Fluid Analytics with Ultrasonics and Machine Learning**\n\nFounded in 2015 and part of Y Combinator's Winter '16 batch, Carbic is an innovative sensor company based in San Francisco. With a small but dedicated team of eight, they are focused on using ultrasonics and machine learning to revolutionize how we analyze fluid behavior in critical infrastructures.\n\nAt its core, Carbic addresses a significant pain point in industries such as oil and gas and water management—accurately capturing the behavior of high-throughput fluid systems. Their technology is built on lightweight proprietary hardware that collects raw ultrasonic data from fluid systems and transmits it to their servers via cellular or satellite connections. Once there, Carbic leverages a combination of physics equations, signal processing, and anomaly detection algorithms to provide insights into fluid volume and speed in pipes.\n\nThe mission is clear: by providing reliable analyses of fluid dynamics, Carbic helps organizations improve operational efficiency, minimize spills, and prevent theft. This isn’t just another tech play; it's a fundamental shift in how industries that rely on large volumes of fluid can operate more safely and effectively.\n\nIn the landscape of startup categories, Carbic touches on various vital aspects: industrial workplace safety, SaaS (Software as a Service), and IoT (Internet of Things). These tags underline their commitment to advancing technology that not only supports businesses but also safeguards the environments and communities they serve.\n\nYou can learn more about Carbic and their innovative solutions by visiting their website at [carbic.com](http://carbic.com). With their unique blend of technology and insight, they are poised to make a considerable impact in their field."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/tambua-health",
+  "name": "Tambua Health",
+  "headline": "The T-Scope is an app-based handheld ultrasound system that bringsâ¦",
+  "batch": "W20",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://www.tambuahealth.com",
+  "founded_date": null,
+  "team_size": 13.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:health-tech; industry:medical-devices; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Eric Kirima, Founder",
+      "description": "Software Engineer",
+      "linkedin": "https://linkedin.com/in/nerickirima/"
+    },
+    {
+      "name": "Lewis Wanjohi, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/lewis-w-bb64b7127/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"#  Invalid SSL certificate Error code 526\\nVisit [cloudflare.com](https://www.tambuahealth.com/<https:/www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=pacitticompany.com>) for more information. \\n2025-02-19 16:04:11 UTC\\nYou\\n###  Browser \\nWorking\\n[ ](https://www.tambuahealth.com/<https:/www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=pacitticompany.com>)\\nLondon\\n###  [ Cloudflare ](https://www.tambuahealth.com/<https:/www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=pacitticompany.com>)\\nWorking\\npacitticompany.com\\n###  Host \\nError\\n## What happened?\\nThe origin web server does not have a valid SSL certificate.\\n## What can I do?\\n### If you're a visitor of this website:\\nPlease try again in a few minutes.\\n### If you're the owner of this website:\\nThe SSL certificate presented by the server did not pass validation. This could indicate an expired SSL certificate or a certificate that does not include the requested domain name. Please contact your hosting provider to ensure that an up-to-date and valid SSL certificate issued by a Certificate Authority is configured for this domain name on the origin server. [Additional troubleshooting information here.](https://www.tambuahealth.com/<https:/support.cloudflare.com/hc/en-us/articles/200721975>)\\nCloudflare Ray ID: **91477dbf08f8cd0e** • Your IP: Click to reveal 103.97.165.190 • Performance & security by [Cloudflare](https://www.tambuahealth.com/<https:/www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=pacitticompany.com>)\\n\" markdown_with_citations=\"#  Invalid SSL certificate Error code 526\\nVisit cloudflare.com⟨1⟩ for more information. \\n2025-02-19 16:04:11 UTC\\nYou\\n###  Browser \\nWorking\\n ⟨1⟩\\nLondon\\n###   Cloudflare ⟨1⟩\\nWorking\\npacitticompany.com\\n###  Host \\nError\\n## What happened?\\nThe origin web server does not have a valid SSL certificate.\\n## What can I do?\\n### If you're a visitor of this website:\\nPlease try again in a few minutes.\\n### If you're the owner of this website:\\nThe SSL certificate presented by the server did not pass validation. This could indicate an expired SSL certificate or a certificate that does not include the requested domain name. Please contact your hosting provider to ensure that an up-to-date and valid SSL certificate issued by a Certificate Authority is configured for this domain name on the origin server. Additional troubleshooting information here.⟨2⟩\\nCloudflare Ray ID: **91477dbf08f8cd0e** • Your IP: Click to reveal 103.97.165.190 • Performance & security by Cloudflare⟨1⟩\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.tambuahealth.com/<https:/www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=pacitticompany.com>: cloudflare.com\\n⟨2⟩ https://www.tambuahealth.com/<https:/support.cloudflare.com/hc/en-us/articles/200721975>: Additional troubleshooting information here.\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Tamubua Health is an innovative health-tech company making waves in the medical device space. Based in San Francisco, they’ve carved out a niche for themselves with their flagship product, the T-Scope. This is no ordinary ultrasound system; it's a handheld, app-based tool designed to bring ultrasound technology to more healthcare providers, thus enhancing accessibility and efficiency in medical imaging.\n\nFounded as part of Y Combinator's Winter 2020 (W20) batch, Tambua Health has a small but dedicated team of about 13 employees. Their focus on improving healthcare delivery aligns perfectly with the current trends towards decentralization and accessibility in medical technologies.\n\nAlthough the website has experienced some technical issues recently, the essence of what Tambua Health represents is clear: they are at the intersection of technology and healthcare, aiming to empower practitioners with cutting-edge tools that make a difference.\n\nIn summary, if you're looking for a fresh approach to ultrasound technology and healthcare innovation, Tambua Health is definitely a company to watch. With its roots in the vibrant San Francisco Bay Area health-tech scene and strong backing from Y Combinator, they are poised for growth and impact. Keep an eye on them."
+}

@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/rezi",
+  "name": "REZI",
+  "headline": "Rent Better",
+  "batch": "W17",
+  "description": "REZI is a leading real estate technology company founded in 2016 and the only fully remote and automated marketplace for long-term apartment rentals. \r\n\nREZI empowers landlords to lease their vacant apartments using their state-of-the-art platform — guaranteeing the monthly rent, paying up to 12 months of rent upfront, reducing leasing costs, and simplifying the leasing process for several to hundreds of units in a single transaction.\r\n\nRenters on REZI are then able to find, tour, apply for, and lease their next home without any fees and in as little as five minutes — right from their phone — through pre-screened listings, contactless tours, and automated application decisions.",
+  "activity_status": "Active",
+  "website": "https://www.rentrezi.com",
+  "founded_date": null,
+  "team_size": 31.0,
+  "location": "New York",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:real-estate; industry:proptech; location:new-york",
+  "founders": [
+    {
+      "name": "Sean Mitchell",
+      "description": "Sean Mitchell went to Florida A&M University where he received a bachelor's in Business Administration and minor in math and computer programming. He started his career in 2009 at JP Morgan's Chief Investment Office, where he was part of a 5-person team that managed a $30B structured mortgage backed security portfolio. Sean began working for Corbin Capital Partners in 2012, where he managed a $300M in a structured credit portfolio. Sean co-founded REZI (YC W17), a tech-enabled property manager.",
+      "linkedin": "https://linkedin.com/in/seanfmitchell"
+    },
+    {
+      "name": "Harsh Yadav",
+      "description": "Harsh earned his MS, Computer Engineering from Rutgers, New Brunswick, New Jersey in 2010. He also has a Bachelor of Technology degree from the National Institute of Technology in Allahabad, India. Harsh began his career at Consumer Reports in 2010; helping transitioning Consumer Reports print media to web first world. In 2013, Harsh joined Torrential Inc., a digital media company as their VP, Engineering. Harsh co-founded REZI (YC W17), a tech-enabled property manager.",
+      "linkedin": "https://linkedin.com/in/harsh-yadav-a382b911"
+    },
+    {
+      "name": "Keenan D. Williams",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/keenan-d-williams-4a4a08b"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "### REZI: Revolutionizing Apartment Rentals\n\n**Mission:** Rent Better\n\nFounded in 2016, REZI is a standout player in the real estate tech arena, noted for being the only fully remote and automated marketplace dedicated to long-term apartment rentals. Operating out of New York with a lean team of 31 employees, REZI blends technology and real estate to make leasing a breeze for both landlords and renters.\n\n**For Landlords:** REZI's platform takes the hassle out of rental management. Landlords can easily list their vacant apartments, with REZI guaranteeing monthly rent and even offering upfront payment for up to a year. This translates to reduced leasing costs and the ability to manage multiple units seamlessly in a single transaction.\n\n**For Renters:** The REZI experience is designed to be quick and user-friendly. Renters can discover, tour, apply for, and secure their next home—all from their phones—without incurring any fees. In fact, with pre-screened listings and contactless tours, they can complete the entire process in as little as five minutes, thanks to automated application decisions.\n\nProudly part of the Y Combinator Batch W17, REZI positions itself at the intersection of real estate and innovation. For a closer look at their offerings, visit [REZI's website](https://www.rentrezi.com).\n\nIn a world where the rental process can often feel cumbersome and slow, REZI is changing the game, aiming to make renting simpler and more efficient for everyone involved."
+}

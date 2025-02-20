@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/ramani",
+  "name": "Ramani",
+  "headline": "We're building financial infrastructure for Africa's supply chains",
+  "batch": "W20",
+  "description": "An app for salespeople to track inventory, register their customers and record their sales transactions. \r\nCofounders: African. Ex-Salesforce PM, Stanford CS, Capgemini",
+  "activity_status": "Active",
+  "website": "http://www.ramani.io",
+  "founded_date": 2020.0,
+  "team_size": 70.0,
+  "location": "Dar es Salaam, Tanzania",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas",
+  "founders": [
+    {
+      "name": "Iain Usiri, Founder",
+      "description": "Hi there!\n\nI'm Iain (said \"ian\"), a W20 YC founder :)\n\nI’m deeply passionate about building teams and products that substantively improve people’s lives and today this means empowering distributors to effectively monitor and operate their teams.\n\nI like to get to know new people and be helpful where I can. Please feel free to shoot me a message!\n\nIain",
+      "linkedin": "https://www.linkedin.com/in/iain-usiri-78271673/"
+    },
+    {
+      "name": "Calvin Usiri, Founder",
+      "description": "Calvin is a passionate entrepreneur with a love for technology.\nHe has experience building enterprise software at Capgemini North America.\nHe has a double major in Economics and Computer science from Trinity university.",
+      "linkedin": "https://www.linkedin.com/in/calvin-usiri-b86701a7/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Ramani: Simplifying Supply Chains Across Africa**\n\nRamani is a Tanzanian startup that’s on a mission to revolutionize the financial infrastructure for supply chains across Africa. Founded in 2020, the company initially launched as a solution for salespeople, helping them to manage their inventory, register customers, and record sales transactions—all fitted into an easy-to-use app. \n\nWhat differentiates Ramani is its strong foundation—a team led by co-founders with impressive credentials, including experience from Salesforce, a Stanford CS background, and involvement with Capgemini. This powerhouse team highlights the potential for Ramani to leverage cutting-edge technology to tackle complex supply chain challenges in Africa.\n\nAs part of Y Combinator’s W20 batch, Ramani has not only gained valuable mentorship but also a network that could amplify its growth. The company is currently driven by a robust team of 70 talented individuals based in Dar es Salaam, Tanzania, underscoring its commitment to local talent and insights.\n\nWith a focus on Software as a Service (SaaS), Ramani is ideally positioned to tap into the increasing demand for efficient supply chain management tools in an evolving market. Their visionary group partner, Nan, adds additional layers of expertise and support, further strengthening their strategic direction.\n\nIn essence, Ramani is more than just a tech company; it’s a vital player in reimagining how businesses in Africa manage their supply chains, paving the way for greater efficiency and economic growth. For more information, visit [Ramani's website](http://www.ramani.io)."
+}

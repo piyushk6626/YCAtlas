@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/parsagon",
+  "name": "Parsagon",
+  "headline": "Parsagon monitors sources across the web using AI",
+  "batch": "W21",
+  "description": "Parsagon uses AI to monitor and analyze events from sources across the web. You can use Parsagon to:\r\n\n- Collect data on mergers and acquisitions in the news\r\n- Monitor press releases from state and local governments\r\n- Get alerts when bills related to a certain topic are proposed\r\n- And much more!\r\n\nJust tell Parsagon what types of events you want to monitor, and our AI will find what's relevant to you.",
+  "activity_status": "Active",
+  "website": "https://parsagon.io",
+  "founded_date": 2020.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:monitoring; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Sandy Suh, Founder",
+      "description": "Machine learning researcher specializing in program analysis and program synthesis",
+      "linkedin": "https://www.linkedin.com/in/alexander-suh-2ba05bb0"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Parsagon: A Quick Look\n\n**Website**: [parsagon.io](https://parsagon.io)  \n**Founded**: 2020  \n**Location**: San Francisco  \n**Team Size**: 2 employees  \n**Y Combinator Batch**: W21  \n**Group Partner**: None listed (indicating a small, agile startup environment).\n\n#### Mission\nParsagon leverages artificial intelligence to monitor and analyze a wide array of events across the web. The core mission is to help users easily collect, track, and interpret data related to significant happenings, particularly in areas like mergers and acquisitions, government press releases, and legislative bills.\n\n#### Key Features\n- **Event Tracking**: Users can specify the types of events they are interested in monitoring.\n- **Real-Time Alerts**: The AI system sends notifications when relevant news breaks or significant events occur.\n\nWhether you’re a business professional seeking insights into market changes or a policy analyst tracking legislative developments, Parsagon aims to provide a streamlined, user-friendly experience.\n\n#### Tags\nParsagon is associated with keywords like 'artificial-intelligence', 'monitoring', and 'ai', highlighting its focus on advanced tech solutions in the bustling San Francisco Bay Area.\n\nIn essence, if you want to stay ahead in a fast-paced environment where information is key, Parsagon is here to do the heavy lifting for you. It embodies the spirit of modern startups—small but mighty, focused on delivering value through innovation."
+}

@@ -1,0 +1,42 @@
+{
+  "links": "https://www.ycombinator.com/companies/fithub-2",
+  "name": "FitHub",
+  "headline": "The one-stop shop for healthy products",
+  "batch": "W21",
+  "description": "FitHub is an online supermarket specialized in healthy products, currently operating in Colombia. We have a healthy and eco-friendly sourcing criteria for every product we offer. We are like Good Eggs for LATAM.",
+  "activity_status": "Active",
+  "website": "https://www.fithub.com.co",
+  "founded_date": 2017.0,
+  "team_size": 60.0,
+  "location": "Barranquilla, Colombia",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:grocery; industry:e-commerce",
+  "founders": [
+    {
+      "name": "Jabib Char, Founder",
+      "description": "Industrial Engineer. Health educator. Passionate about retail and technology.",
+      "linkedin": "https://www.linkedin.com/in/jabib-char-2a4a868a/"
+    },
+    {
+      "name": "Cristina Char, Founder",
+      "description": "Business Administrador with a Master in Managment and Master in Visual and Digital Media from IE Business School. Experience in marketing of mass consumptions products, retail and non-profit organizations.",
+      "linkedin": "https://www.linkedin.com/in/cristina-char/"
+    },
+    {
+      "name": "Andrés Iriarte, Founder",
+      "description": "BA in International Business and BS in Sciences of Management \n\nAlways curious about how things work and what makes people tick. Expert in operations, automation, BI and business development.\n\nI believe that the only reason we're in this world is to evolve through the service for others.",
+      "linkedin": "https://www.linkedin.com/in/afiriarteh"
+    },
+    {
+      "name": "Alex Ramírez, Founder",
+      "description": "Mexican Software Engineer with over 8 years of experience working with top tech teams in leading LATAM companies",
+      "linkedin": "https://www.linkedin.com/in/alex-ramirez-6724b9129"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "FitHub is carving out a niche in the health-conscious landscape of Colombia by establishing itself as the go-to online supermarket for healthy products. Founded in 2017 and currently part of Y Combinator’s W21 batch, FitHub aims to be the one-stop shop for anyone interested in healthy living. \n\nTheir approach is refreshingly rigorous; they adhere to strict eco-friendly sourcing criteria for every item they offer. Think of them as the \"Good Eggs\" of Latin America, dedicated to providing quality healthy foods while supporting sustainability. \n\nBased in Barranquilla, FitHub has grown to a dedicated team of 60 employees, all focused on making healthy choices accessible to a broader audience. The company categorically fits into the grocery and e-commerce sectors, driving innovation in how people shop for health-focused products online.\n\nIf you're interested in checking out what they offer, you can visit their site at [FitHub](https://www.fithub.com.co). It's an exciting model that acknowledges the growing demand for healthier lifestyle options while also contributing positively to the planet."
+}

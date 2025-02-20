@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/spice-data",
+  "name": "Spice Data",
+  "headline": "Restaurant Data for the Enterprise",
+  "batch": "S19",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://spicedata.com/",
+  "founded_date": 2019.0,
+  "team_size": null,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:enterprise; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Richard Kreger, Founder",
+      "description": "-",
+      "linkedin": "https://www.linkedin.com/in/richardkreger/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![Spice Data Logo](https://spicedata.com/assets/6654c7a16255c0679268cf1a_Screenshot%202024-05-27%20at%2010.49.03%E2%80%AFAM.png)\\n# Restaurant Datafor the Enterprise\\nContact\\nSpice Data™\\n© 2024 Pepper API, Inc.\\n' markdown_with_citations='![Spice Data Logo⟨1⟩]\\n# Restaurant Datafor the Enterprise\\nContact\\nSpice Data™\\n© 2024 Pepper API, Inc.\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://spicedata.com/assets/6654c7a16255c0679268cf1a_Screenshot%202024-05-27%20at%2010.49.03%E2%80%AFAM.png: Spice Data Logo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Spice Data: Restaurant Data for the Enterprise\n\nFounded in 2019 and hailing from the illustrious Y Combinator Batch S19, Spice Data is carving out a niche in the tech landscape of the San Francisco Bay Area. The company is dedicated to providing comprehensive restaurant data tailored for enterprise-level organizations. If you're in the food service industry and need robust data insights, Spice Data is your go-to resource.\n\nWith a sleek, user-friendly website at [spicedata.com](https://spicedata.com), the company emphasizes utility and accessibility in restaurant analytics. While the exact number of employees remains undisclosed, what's clear is that Spice Data is poised for growth, backed by the innovative spirit of its origins. \n\nTheir mission focuses on delivering high-quality restaurant data that empowers enterprises to make informed decisions—essentially helping businesses harness the power of data in an industry that thrives on consumer trends and behaviors.\n\nIf you’re curious about them, you might want to check out their logo and learn more about their offerings at the link provided above. Spice Data is a fresh but ambitious player in the tech space, and it's building a reputation for being an essential partner for enterprises looking to navigate the data-heavy food service landscape."
+}

@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/true3d",
+  "name": "True3D",
+  "headline": "Live stream sports in 3D",
+  "batch": "W21",
+  "description": "True3D live streams sports in 3D to VR headsets. We’re building the foundational models to let you sit courtside at the NBA Finals from your living room.",
+  "activity_status": "Active",
+  "website": "https://www.quickvid.ai/",
+  "founded_date": 2020.0,
+  "team_size": 3.0,
+  "location": "New York",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:virtual-reality; industry:gaming; industry:media; industry:esports; location:new-york",
+  "founders": [
+    {
+      "name": "Daniel Habib, Founder",
+      "description": "Ex-FB Engineer with expertise in live video, generative AI, virtual reality and scalable systems",
+      "linkedin": "https://www.linkedin.com/in/daniel-habib-5b305767/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"404\\n# Page not found\\nThe page you are looking for doesn't exist or has been moved.\\n\" markdown_with_citations=\"404\\n# Page not found\\nThe page you are looking for doesn't exist or has been moved.\\n\" references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**True3D: A Game-Changer in Live Sports Streaming**\n\nFounded in 2020 and part of Y Combinator’s W21 batch, True3D is on an ambitious mission to revolutionize how we experience sports. Based in New York City, this small but mighty startup of just three employees is pushing the boundaries of what's possible in the realm of live sports by streaming games in immersive 3D directly to VR headsets. Imagine being able to watch the intensity of a courtside view at the NBA Finals—all from the comfort of your home.\n\nTrue3D is tapping into a wave of interest in virtual reality, artificial intelligence, and gaming, positioning itself at the intersection of these fast-evolving fields. Their technology aims to set the foundation for an exhilarating sports viewing experience that feels almost like being there. \n\nWith a strong focus on media and esports, True3D is not just about watching sports; it's about feeling the adrenaline and the atmosphere that surround them. They’re determined to transform passive viewing into an interactive experience.\n\nTo learn more about their journey and innovations, check out their website at [quickvid.ai](https://www.quickvid.ai/). Keep an eye on True3D as they work to make the future of sports viewing not just innovative, but truly immersive."
+}

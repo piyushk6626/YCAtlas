@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/lunasec",
+  "name": "LunaSec",
+  "headline": "An Open Source dependency security tool that is smarter than the rest",
+  "batch": "S19",
+  "description": "LunaTrace isn't just another security scanner that blasts you with vulnerabilities. LunaSec has developed a hosted Open Source dependency security tool that is smarter, faster, and quieter than any other. It's backed by a team of security experts who monitor the latest attacks, write remediation guides, and help you patch in hours instead of weeks.\r\n\nIn under 2 minutes, for free, you can generate your own vulnerability report to gain insight into the security + compliance of your software by clicking here: https://lunatrace.lunasec.io/\r\n\nEmail us at: contact@lunasec.io\r\nOur GitHub: https://github.com/lunasec-io/lunasec",
+  "activity_status": "Active",
+  "website": "https://www.lunasec.io",
+  "founded_date": 2019.0,
+  "team_size": 4.0,
+  "location": "Seattle, WA",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:devsecops; industry:security-orchestration-automation-and-response-(soar); industry:security; industry:open-source; location:seattle",
+  "founders": [
+    {
+      "name": "Free Wortley, Founder",
+      "description": "Background as a Security Engineer with a specific focus on Application Security (code and infrastructure security).\n\nFeel free to shoot me an email if you need any security advise. I always love to help other founders figure that stuff out!",
+      "linkedin": "https://www.linkedin.com/in/freewortley/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "LunaSec is reinventing the way we think about dependency security tools. Founded in 2019 and hailing from Seattle, WA, this company started its journey as LunaTrace but quickly evolved into LunaSec, a name that better reflects its mission. Their goal is to offer an open-source dependency security tool that stands out from the noise—smarter, faster, and quieter than the typical security scanners that often barrage you with alerts without real guidance.\n\nWhat's unique about LunaSec is their approach. They don't just throw vulnerabilities at you; they provide actionable insights and remediation guides from a team of seasoned security experts who actively monitor the latest threats. This means that instead of spending weeks in the weeds of patching vulnerabilities, you can get the help you need in just hours.\n\nInterested in assessing your software's security and compliance? You can generate a personalized vulnerability report in under two minutes—absolutely free—by visiting their site. \n\nThe company is a proud member of the Y Combinator Batch S19 and is currently a nimble team of four, working diligently to keep the software development community safe. They’re backed by a strong technical foundation and a commitment to open source principles, which resonate deeply in today’s development landscape.\n\nIf you want to dive deeper into what LunaSec has to offer or to reach out directly, check out their main website at [lunasec.io](https://www.lunasec.io) and explore their GitHub for more technical details. Also, don’t hesitate to drop them an email at contact@lunasec.io if you have queries or need support.\n\nIn a world where security is paramount, LunaSec provides a refreshing and effective approach to managing software vulnerabilities, tagged aptly in the realms of developer tools, DevSecOps, and security automation. They are not just another tool in your toolbox—they're a smarter solution for modern developers."
+}

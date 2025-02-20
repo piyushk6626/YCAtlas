@@ -1,0 +1,42 @@
+{
+  "links": "https://www.ycombinator.com/companies/meru-com",
+  "name": "Meru.com",
+  "headline": "The one-stop-shop for auto-parts in Mexico.",
+  "batch": "W21",
+  "description": "Meru is a platform that is optimizing the automotive aftermarket supply chain for mechanics in Latin America.",
+  "activity_status": "Active",
+  "website": "https://meru.com",
+  "founded_date": 2020.0,
+  "team_size": 70.0,
+  "location": "Mexico City, Mexico",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:marketplace",
+  "founders": [
+    {
+      "name": "Manuel Rodriguez Dao",
+      "description": "Manuel is the Co-Founder Meru, prior to Meru, Manuel worked at Kavak.com directly with the founding team in Growth, Data Analytics, Finance, Marketing, Sales, BD and IT. He also worked independently importing wholesale products from China to Mexico for +2 years.",
+      "linkedin": "https://linkedin.com/in/manuel-rodriguez-dao-aa78ab97"
+    },
+    {
+      "name": "Virgile Fiszman",
+      "description": "Living in China since over 3 year, I have always been interested in international trade and finding/solving problem. I am the CSO and Co-founder at MERU in Ningbo, China.",
+      "linkedin": "https://www.linkedin.com/in/virgile-fiszman-213ab39a/"
+    },
+    {
+      "name": "Federico Moscato",
+      "description": "Interested in supply chain and logistics solutions, currently working to rid the oceans and rivers of plastics.",
+      "linkedin": "https://www.linkedin.com/in/federico-moscato-5112ab125/"
+    },
+    {
+      "name": "Eduardo Mata",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/eduardo-mata-mitzunaga-680589147/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Meru.com: A Snapshot**\n\nFounded in 2020 and hailing from the Y Combinator W21 batch, Meru.com is carving out a niche as the go-to online marketplace for auto parts in Mexico. The company is situated in Mexico City and employs a team of 70 dedicated individuals, all working towards streamlining the automotive aftermarket supply chain for mechanics throughout Latin America.\n\nThe mission at Meru.com is clear: to serve as a one-stop shop for auto parts, making it easier for mechanics to find what they need without the hassle. This focus is pivotal, as the automotive repair landscape in Latin America is often fragmented, presenting opportunities for innovation and efficiency.\n\nMeru’s positioning as a fintech marketplace indicates not just a focus on the parts themselves, but also on the financial aspects of the automotive repair industry, offering potential integrations that could benefit both mechanics and customers. \n\nWhether you're a mechanic looking for reliable parts or simply interested in the ongoing evolution of e-commerce in the automotive space, Meru.com is an emerging player worth watching. You can check them out at [meru.com](https://meru.com)."
+}

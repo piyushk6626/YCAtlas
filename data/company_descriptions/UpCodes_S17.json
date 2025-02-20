@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/upcodes",
+  "name": "UpCodes",
+  "headline": "UpCodes helps the AEC industry deliver code compliant buildings",
+  "batch": "S17",
+  "description": "UpCodes simplifies the compliance process for architects, engineers, and anyone involved in the design process by offering a centralized, searchable library of construction regulations. UpCodes uses NLP to parse through the various code adoptions for most major US jurisdictions and currently hosts 1400+ state and city codes. UpCodes also enables collaboration and project requirement calculation, making it a valuable tool for all professionals involved in the design process. With over 600,000 monthly active users, UpCodes has seen significant product-led growth, providing an efficient way for teams to manage construction regulations and ensure compliance.",
+  "activity_status": "Active",
+  "website": "https://up.codes/",
+  "founded_date": 2016.0,
+  "team_size": 23.0,
+  "location": "Austin, TX",
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:govtech; industry:construction; industry:b2b; location:austin",
+  "founders": [
+    {
+      "name": "Garrett Reynolds, Founder",
+      "description": "Been working in the AEC tech space for last 8 years, first at PlanGrid and now UpCodes.",
+      "linkedin": "https://www.linkedin.com/in/garrettreynolds"
+    },
+    {
+      "name": "Scott Reynolds, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/scott-reynolds"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[](https://up.codes/</>)\\n  * Libraries\\n  * Features\\n  * [Pricing](https://up.codes/</pricing>)\\n\\n[Login](https://up.codes/</login?next=%2F>)\\n  * [Get a Demo](https://up.codes/</contact-sales>)\\n  * [Try for Free](https://up.codes/</sign-up>)\\n\\n\\n' markdown_with_citations='[](https://up.codes/</>)\\n  * Libraries\\n  * Features\\n  * Pricing⟨1⟩\\n\\nLogin⟨2⟩\\n  * Get a Demo⟨3⟩\\n  * Try for Free⟨4⟩\\n\\n\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://up.codes/</pricing>: Pricing\\n⟨2⟩ https://up.codes/</login?next=%2F>: Login\\n⟨3⟩ https://up.codes/</contact-sales>: Get a Demo\\n⟨4⟩ https://up.codes/</sign-up>: Try for Free\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**UpCodes: Simplifying Compliance in the AEC Industry**\n\nFounded in 2016 and part of Y Combinator’s Summer 2017 batch, UpCodes is based in Austin, TX, and has carved out a niche in the architecture, engineering, and construction (AEC) industry. With a team of 23 dedicated employees and supported by Group Partner Dalton Caldwell, UpCodes is addressing a crucial pain point: the complexity of building code compliance.\n\n**Mission and Product Offerings**\n\nUpCodes’ mission is straightforward yet essential: it helps industry professionals deliver code-compliant buildings. They achieve this by providing a centralized, searchable library of over 1,400 state and city construction codes. The platform leverages natural language processing (NLP) to parse through the various code adoptions across most major jurisdictions in the U.S. This functionality makes it easier for architects, engineers, and designers to navigate compliance requirements efficiently.\n\nThe service isn't limited to just code access; UpCodes promotes collaboration among team members and simplifies the project requirement calculation, making it an indispensable tool for design professionals.\n\n**User Engagement and Growth**\n\nWith more than 600,000 monthly active users, UpCodes demonstrates impressive product-led growth, which is a testament to how well it solves the compliance challenge. As the AEC landscape continues to evolve, tools like UpCodes become increasingly vital, streamlining the often cumbersome process of adhering to building regulations.\n\n**What’s Next?**\n\nUpCodes offers features such as pricing details, user login, and a free trial for new users. If you’re in the AEC workforce, UpCodes is worth checking out; it can save you time and reduce headaches associated with compliance.\n\nFor more information, visit their website: [UpCodes](https://up.codes/).\n\n---\n\nIn summary, UpCodes is a forward-thinking solution in the construction tech space, designed for those who demand efficiency and clarity in a heavily regulated environment."
+}

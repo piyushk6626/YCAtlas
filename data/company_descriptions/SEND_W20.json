@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/send",
+  "name": "SEND",
+  "headline": "Flexport for Africa - Digital Freight forwarder and Customs Broker.",
+  "batch": "W20",
+  "description": "SEND is a digital freight forwarder and customs broker for Africa.\r\nWe manage the entire process of shipping cargo by air or by sea, including the documentation, customs process, delivery to the warehouse and trade financing.",
+  "activity_status": "Active",
+  "website": "https://www.send.ng",
+  "founded_date": null,
+  "team_size": 9.0,
+  "location": "Lagos, Nigeria",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:digital-freight-brokerage",
+  "founders": [
+    {
+      "name": "Larry Oti, Founder",
+      "description": "...",
+      "linkedin": "https://www.linkedin.com/in/larry-oti"
+    },
+    {
+      "name": "Kingsley Oti, Founder",
+      "description": null,
+      "linkedin": "https://linkedin.com/in/kingsley-oti-64464b10b"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# 403 Forbidden\\n  * Code: AllAccessDisabled\\n  * Message: All access to this object has been disabled\\n  * RequestId: HRT8BVRMXG7YNDMN\\n  * HostId: 1uB1wcvTygjkkoRGB4gDWxrBtZQdXC+pp68nsQOs91pc/eHHXalAWiIe5zZkPDRgnDjUO0WoIqc=\\n\\n\\n' markdown_with_citations='# 403 Forbidden\\n  * Code: AllAccessDisabled\\n  * Message: All access to this object has been disabled\\n  * RequestId: HRT8BVRMXG7YNDMN\\n  * HostId: 1uB1wcvTygjkkoRGB4gDWxrBtZQdXC+pp68nsQOs91pc/eHHXalAWiIe5zZkPDRgnDjUO0WoIqc=\\n\\n\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "SEND is stepping up to be the “Flexport for Africa,” carving out a niche as a digital freight forwarder and customs broker. Founded in the bustling city of Lagos, Nigeria, SEND simplifies the complex shipping landscape on the continent, managing everything from air and sea cargo logistics to customs processes and trade financing. The company’s mission is to streamline the entire shipping process, including essential documentation and delivery to warehouses, making cross-border trade as frictionless as possible.\n\nPart of Y Combinator’s Winter 2020 batch, SEND is a lean operation with a dedicated team of nine. They are tagged in the digital-freight-brokerage ecosystem, positioning themselves uniquely in a market ripe for innovation. With the backing of a Group Partner, SEND aims to revolutionize freight solutions tailored specifically for the African context.\n\nFor more details about what they do and how they operate, their website can be found at [send.ng](https://www.send.ng). It's an exciting time for logistics in Africa, and SEND is at the forefront, leveraging technology to change how goods move across borders."
+}

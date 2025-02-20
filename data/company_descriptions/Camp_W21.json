@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/camp",
+  "name": "Camp",
+  "headline": "A Nouns DAO governance client",
+  "batch": "W21",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://nouns.camp",
+  "founded_date": 2021.0,
+  "team_size": 3.0,
+  "location": "San Francisco",
+  "group_partner": "Gustaf Alstromer",
+  "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:govtech; industry:crypto-web3; industry:infrastructure; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Christian Södergren, Founder",
+      "description": "<3",
+      "linkedin": "https://www.linkedin.com/in/christiansodergren/"
+    },
+    {
+      "name": "Pedro Pregueiro, Founder",
+      "description": "Been working with startups and leading technical teams for a few years.\n\nLove hacking things together at first, but then thinking deeply about longer-term solutions, when the right time comes.\n\nBig guitar fan (played way more before becoming a founder), and know all the best burger joints in Lisbon, Oslo and Stockholm 🍔",
+      "linkedin": "https://www.linkedin.com/in/pedropregueiro/"
+    },
+    {
+      "name": "Olle Werme, Founder",
+      "description": "🐥",
+      "linkedin": "https://www.linkedin.com/in/ollewerme/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='  * New\\n  * Connect Wallet\\n\\n\\nActivity\\nDigest\\nProposals\\nCandidates\\nVoters\\nHide _Auction bids_ and _Flows activity_\\n' markdown_with_citations='  * New\\n  * Connect Wallet\\n\\n\\nActivity\\nDigest\\nProposals\\nCandidates\\nVoters\\nHide _Auction bids_ and _Flows activity_\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Camp**\n\nFounded in 2021, Camp is a dynamic company based in San Francisco that has its roots firmly planted in the world of decentralized governance. As a participant in Y Combinator’s Winter 2021 Batch (W21), its mission is straightforward yet impactful: to serve as a governance client for Nouns DAO. This aligns perfectly with the growing trend toward decentralized governance in the crypto space.\n\n**What They Do**\n\nCamp operates within the burgeoning intersection of governance technology and the Web3 ecosystem, tagged with labels like ‘govtech’, ‘crypto-web3’, and ‘infrastructure’. The company consists of a small yet focused team of three employees, enabling flexibility and agility in their operations. They are currently enhancing their platform with features geared towards simplifying the user experience in decentralized governance, such as connecting wallets and managing proposals and activities related to Nouns DAO.\n\n**Leadership and Support**\n\nGustaf Alstromer, a Group Partner at Y Combinator, is associated with Camp, providing essential mentorship and guidance — a significant asset for any early-stage startup. \n\n**Looking Forward**\n\nAs they continue to refine their offerings, Camp is poised to play a crucial role in the evolving landscape of decentralized governance, helping to establish more user-friendly interfaces for participants in the Nouns ecosystem and beyond. The simplicity and elegance of their proposed solutions may just position them as a leader in the infrastructure for governance in the crypto world.\n\nYou can learn more about them at [nouns.camp](https://nouns.camp)."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/signoz",
+  "name": "SigNoz",
+  "headline": "Open source alternative to DataDog",
+  "batch": "W21",
+  "description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. Open source Application Performance Monitoring (APM) & Observability too",
+  "activity_status": "Active",
+  "website": "https://signoz.io",
+  "founded_date": 2021.0,
+  "team_size": 18.0,
+  "location": "Bengaluru, India",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:open-source",
+  "founders": [
+    {
+      "name": "Pranay Prateek, Founder",
+      "description": "Co-founder at SigNoz, open-core alternative to DataDog. ex-Microsoft. IIT Madras alum",
+      "linkedin": "https://www.linkedin.com/in/pranay-prateek-b8b563b/"
+    },
+    {
+      "name": "Ankit Nayan, Founder",
+      "description": "A tech enthusiast, always eager to learn how technology can create big businesses. \nCurrently co-founding SigNoz with a mission to give the best application performance tool to developers. Ex Citi, IIT Delhi alum.",
+      "linkedin": "https://www.linkedin.com/in/ankitnayan"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Company Overview: SigNoz\n\n**Name:** SigNoz  \n**Founded:** 2021  \n**Location:** Bengaluru, India  \n**Team Size:** 18 employees  \n**Y Combinator Batch:** W21  \n**Group Partner:** Michael Seibel  \n**Website:** [signoz.io](https://signoz.io)  \n**Tags:** developer-tools, saas, b2b, open-source  \n\n#### Mission\nSigNoz aims to provide an open-source alternative to popular observability tools like DataDog and NewRelic. Their mission is focused on enabling developers to monitor and optimize their applications without the burden of costly proprietary solutions.\n\n#### What They Do\nInitially, SigNoz was created as an observability platform that is natively integrated with OpenTelemetry. It offers a comprehensive suite of tools for managing logs, traces, and metrics all within a single application. This integration effectively simplifies the process of application performance monitoring (APM) and observability, which are crucial for modern development workflows.\n\nSigNoz stands out in the crowded field of observability tools by being open-source, thus appealing to teams that prioritize flexibility, transparency, and community support. This approach not only helps in cutting costs but also fosters a collaborative environment where developers can contribute and enhance the platform.\n\n#### Conclusion\nAs businesses increase their reliance on data-driven operations, tools like SigNoz provide an essential service, particularly for those looking for an open-source solution in the observability space. With their origins in a prestigious incubator like Y Combinator and a talented team backing them, SigNoz is well-positioned to disrupt the traditional APM market over the coming years."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/embeddables",
+  "name": "Embeddables (formerly Savvy)",
+  "headline": "Custom, embeddable user flows for your website or app",
+  "batch": "S18",
+  "description": "We replace form builders like Typeform and custom code as the way you collect information from users using low code tools. For example you’re a health tech startup and want an onboarding flow but don’t want to use Typeform and don’t have engineering bandwidth. You can use Embeddables to build a totally custom concierge flow and embed it in your app. Then make edits and view analytics, without writing code.",
+  "activity_status": "Active",
+  "website": "https://embeddables.com",
+  "founded_date": 2022.0,
+  "team_size": 14.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; industry:b2b; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Jeremy Evans, Founder",
+      "description": "Co-founder of Embeddables (YC S18, embeddables.com), formerly Savvy. Embeddables is a no-code platform for building online experiences like onboarding flows and calculators, as well as democracy tools like voter quizzes. Background in journalism, teaching and politics, having built tools helping millions with their vote in the UK. Passionate about building tech for a better democracy.",
+      "linkedin": "https://www.linkedin.com/in/jeremynevans/"
+    },
+    {
+      "name": "Matthew Morley, Founder/CEO",
+      "description": "co-Founder and CEO of Embeddables. Talk to me about go-to-market, democracy and civic tech.",
+      "linkedin": "https://www.linkedin.com/in/matthew-morley-96951170/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Embeddables: Crafting Customized User Experiences**\n\nFounded in 2022, Embeddables (formerly known as Savvy) is a cutting-edge startup based in San Francisco that's redefining how businesses interact with their users. Initially aimed at replacing traditional form builders like Typeform, Embeddables empowers organizations—especially those without substantial engineering resources—to craft bespoke, embeddable user flows seamlessly integrated into their websites or apps.\n\nImagine you are a health tech startup looking to onboard new users. Instead of struggling with generic forms or relying on custom code, you can turn to Embeddables. Their low-code tools allow you to build a fully tailored onboarding experience—think of it as a digital concierge that you can easily embed into your app. Plus, you can tweak the flow and access real-time analytics without needing to dive into the complexities of coding.\n\nAs a member of Y Combinator's Batch S18, the company has gained traction quickly, growing to a dedicated team of 14 employees. With a focus on SaaS and B2B solutions, Embeddables is positioned at the intersection of innovation and usability, making it a game-changer for startups and established businesses alike. Under the guidance of their Group Partner, Nan, they are set on a promising trajectory.\n\nEmbrace the evolution of user engagement with Embeddables—where custom solutions meet effortless implementation. Check them out at [embeddables.com](https://embeddables.com)."
+}

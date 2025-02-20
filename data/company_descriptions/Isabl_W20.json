@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/isabl",
+  "name": "Isabl",
+  "headline": "Cancer tests based on whole genome and transcriptome data.",
+  "batch": "W20",
+  "description": "Isabl has developed software that can analyze the entire genome of cancer patients.\r\n\nToday, when people get cancer, they get a genetic test of their tumor that analyzes only a few possible mutations. With Isabl, you run the tumor through an Illumina sequencer and get the whole genome, then our software is able to analyze all the mutations.\r\n\nOur breakthrough technology provides unprecedented clarity into tumor biology to aid treatment planning. This opens up opportunities for precision diagnostics, disease surveillance and biomarker discovery.",
+  "activity_status": "Active",
+  "website": "http://isabl.io",
+  "founded_date": 2020.0,
+  "team_size": 5.0,
+  "location": "New York",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:biotech; industry:diagnostics; location:new-york",
+  "founders": [
+    {
+      "name": "Juan Medina, Founder",
+      "description": "Co-Founder & CTO, Isabl Inc.",
+      "linkedin": "https://www.linkedin.com/in/jsmedmar/"
+    },
+    {
+      "name": "Andrew Kung, Founder",
+      "description": null,
+      "linkedin": null
+    },
+    {
+      "name": "Elli Papaemmanuil, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/elli-papaemmanuil-0b8444b0"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Isabl is a dynamic biotech startup based in New York, specializing in innovative cancer diagnostics using cutting-edge genomic technologies. Founded in 2020 and a proud member of Y Combinator’s Winter 2020 batch, Isabl is on a mission to revolutionize cancer testing by leveraging whole genome and transcriptome data.\n\nTraditionally, when patients are diagnosed with cancer, they undergo genetic testing that typically analyzes only a handful of mutations in their tumors. Isabl changes that game by employing advanced software that can analyze the complete genome of cancer patients. By utilizing an Illumina sequencer, Isabl runs comprehensive tests to uncover the full spectrum of mutations present in a tumor. \n\nWhat does this mean for the medical community? It means unprecedented clarity into tumor biology, which is critical in planning effective treatment strategies. This deeper insight not only paves the way for precision diagnostics but also enhances disease surveillance and facilitates biomarker discovery—essential tools in the fight against cancer.\n\nWith a compact team of five dedicated professionals and under the guidance of their group partner, Isabl is positioned to make significant strides in the biotech field, particularly in diagnostics. \n\nIf you're interested in learning more about their groundbreaking work, check out their website at [isabl.io](http://isabl.io). With advancements like theirs, the future of cancer treatment looks brighter and more informed."
+}

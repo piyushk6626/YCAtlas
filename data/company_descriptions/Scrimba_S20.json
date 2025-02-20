@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/scrimba",
+  "name": "Scrimba",
+  "headline": "We turn people into hireable devs for 1% of the price of codeâ¦",
+  "batch": "S20",
+  "description": "Scrimba is a coding course platform with over 120K monthly active students. It's based on a new video format that makes the screencasts fully interactive for students, and easier to create for teachers. Our vision is to create a coding school that has the quality of Stanford but the price of a gym membership.",
+  "activity_status": "Active",
+  "website": "https://scrimba.com",
+  "founded_date": 2017.0,
+  "team_size": 6.0,
+  "location": "Oslo, Norway",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:education; industry:elearning",
+  "founders": [
+    {
+      "name": "Per Harald Borgen, Founder",
+      "description": "Co-founder of Scrimba.",
+      "linkedin": "https://www.linkedin.com/in/per-harald-borgen/"
+    },
+    {
+      "name": "Sindre Aarsaether, Founder",
+      "description": "CTO & Co-founder of Scrimba. Creator of Imba.",
+      "linkedin": "https://www.linkedin.com/in/sindreaa/"
+    },
+    {
+      "name": "Frode Jensen, Founder",
+      "description": "I have been working many roles within online business the last 15 years including\n- Cto, Full stack developer, infrastructure/ops\n- Co-founder of an adtech company with clients like CondÃ© Nast\n- PM for mass customization projects with EA Games, Boston Marathon\n- Head of marketing in a digital agency\n\nI appreciate nice and odd things. Latest hobbies: digging out a mountain; creating concrete furniture; wet-stone knife sharpening; italian pizza making.",
+      "linkedin": "https://www.linkedin.com/in/jensenfrode/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Scrimba: Turning Learners into Code Masters\n\nFounded in 2017 and hailing from the vibrant tech scene of Oslo, Norway, Scrimba is an innovative platform dedicated to transforming aspiring developers into hireable professionals. With over 120,000 active students each month, Scrimba has developed a unique approach to coding education that combines interactivity with accessibility. They aim to deliver the quality of a Stanford education at a mere fraction of the price—in essence, equating it to the cost of a gym membership, while maintaining a focus on real-world skill application.\n\nThe platform features a distinct video format that allows for fully interactive screencasts, enhancing the learning experience for students and simplifying content creation for educators. This innovative method not only makes coding more engaging but also helps students grasp concepts more efficiently.\n\nScrimba's mission is bold yet straightforward: they want to help people become hireable developers for just 1% of the cost traditionally associated with quality coding education. This mantra captures their commitment to democratizing access to quality tech education.\n\nCurrently, Scrimba is part of the Y Combinator Batch S20, where they continue to refine and expand their offerings. With a lean team of just six employees, led by Group Partner Aaron Epstein, Scrimba is making a significant impact in the realms of education and e-learning.\n\nIf you’re looking to dive into coding or elevate your skills with a platform that prioritizes teaching relevance and affordability, Scrimba is definitely worth checking out. For more information, visit their website at [scrimba.com](https://scrimba.com)."
+}

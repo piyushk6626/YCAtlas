@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/rally",
+  "name": "Rally",
+  "headline": "Rally is Zoom for social events",
+  "batch": "S20",
+  "description": "Rally is what Zoom breakouts should have been. Users can hop between groups easily, while seeing and hearing the other groups around them, as if they were in a shared space.   \r\nRally is perfect for happy hours, networking, and other social gatherings. We are being used by institutions like Amazon, Harvard and a multitude of startups across North America.",
+  "activity_status": "Active",
+  "website": "https://rally.video",
+  "founded_date": 2020.0,
+  "team_size": 3.0,
+  "location": "Toronto, Canada",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:collaboration; industry:video; industry:social",
+  "founders": [
+    {
+      "name": "Ali Jiwani",
+      "description": "CEO of Rally - a video conferencing platform which recreates social gatherings online. Previously founded companies in the health and food/logistics spaces. Passionate about emerging markets, empowering entrepreneurs, and bringing people together.",
+      "linkedin": "https://ca.linkedin.com/in/ali-jiwani-8213a319"
+    },
+    {
+      "name": "Anson Kao",
+      "description": "CTO of Rally. 10 years of web-development and entrepreneurship experience at various startups in Toronto. UWaterloo Mechatronics Class of 2010.",
+      "linkedin": "https://linkedin.com/in/ansonkao"
+    },
+    {
+      "name": "Amy Liu",
+      "description": "Building a digital studio for fashion brands with AI generated models. 📸",
+      "linkedin": "https://linkedin.com/in/amy-lk-liu-10a6515a"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# 403 Forbidden\\nopenresty\\n' markdown_with_citations='# 403 Forbidden\\nopenresty\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Rally**\n\nFounded in 2020 and hailing from Toronto, Canada, Rally aims to redefine how we connect during social events, all while making video conferencing more engaging and seamless. Think of Rally as the natural evolution of Zoom, specifically tailored for social gatherings. The founders had a vision: what if Zoom breakouts were actually useful? Well, they made it happen. \n\nRally allows users to effortlessly hop between groups while still being aware of the other conversations happening around them, creating an environment that mimics being in a physical space together. This makes it an ideal platform for happy hours, networking events, and various social meet-ups. Major players like Amazon and Harvard are already on board, alongside a slew of startups across North America. \n\nThe company is part of Y Combinator's S20 batch, leveraging that accelerator's resources to grow rapidly, even with a small but passionate team of just three employees. With a group partner like nan behind them, Rally is focused on expanding the collaborative and social aspects of virtual interactions.\n\nIn a nutshell, if you're seeking a virtual space that fosters real human connection—Rally could be your answer. For more information, you can check them out at [Rally's website](https://rally.video).\n\n**In Brief:**\n- **Mission:** To create a social event platform that enhances interaction, similar to Zoom but more dynamic.\n- **Founded:** 2020\n- **Location:** Toronto, Canada\n- **Team Size:** 3 employees\n- **Notable Clients:** Amazon, Harvard, various startups\n- **Affiliations:** Y Combinator Batch S20\n- **Tags:** Collaboration, Video, Social\n\nRally is set to make virtual socializing a whole lot better."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/salesform",
+  "name": "Salesform",
+  "headline": "Qualify, route, and convert more inbound leads",
+  "batch": "S20",
+  "description": "Salesform qualifies, routes, and converts inbound leads while 2-way syncing with your sales stack. Now, you can meet more target customers faster and leverage Salesform’s native enrichment to enhance routing rules and auto-replies for demo requests etc.",
+  "activity_status": "Active",
+  "website": "https://salesform.com",
+  "founded_date": 2020.0,
+  "team_size": 6.0,
+  "location": "New York",
+  "group_partner": "Gustaf Alstromer",
+  "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:b2b; industry:sales; location:new-york",
+  "founders": [
+    {
+      "name": "Uday Singh, Founder",
+      "description": "He studied computer science at Columbia where he worked on compiler development by building a type-inferred Lisp for the web. He got the startup bug in high school while building a local Groupon competitor. He then built Epigrammar, Superhuman for grading, and then, Epihub, Shopify for teaching online. \n\nHaving written software powering tens of thousands of meetings and spending time working in NLP for Epigrammar, Uday, CEO, co-founded Salesform.",
+      "linkedin": null
+    },
+    {
+      "name": "Kwasi Oppong-Badu, Founder",
+      "description": "Kwasi, CTO, graduated from Princeton where he studied Computer Science, specializing in natural language processing (NLP). Since 2014, he's been building software, and since building Epigrammar in 2017, he's enjoyed talking dead languages with Michael and programming languages with Uday.",
+      "linkedin": "https://www.linkedin.com/in/kwasi-oppong-badu-638965144/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "Salesform is a dynamic startup that’s laser-focused on optimizing how businesses handle inbound leads. Founded in 2020, and part of Y Combinator’s Summer 2020 batch, Salesform has carved out a niche for itself in the B2B sales landscape. Based in New York, this compact team of six is on a mission to qualify, route, and convert leads more effectively—all while seamlessly integrating with existing sales tech stacks.\n\nTheir platform initially centered around the core functionalities of lead qualification, but it has evolved to help companies connect with their target customers faster. What’s impressive is their native enrichment feature, which enhances routing rules and automates replies for demo requests, streamlining the sales process.\n\nWith Gustaf Alstromer as their Group Partner, Salesform is well-positioned to make waves in the sales domain. Their approach speaks to the increasing necessity of efficiency in lead management, allowing companies to not just handle more leads, but to do so intelligently.\n\nFor more information and insights about their offerings, visit their website at [salesform.com](https://salesform.com)."
+}

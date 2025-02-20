@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/studystream",
+  "name": "StudyStream",
+  "headline": "24/7 video platform & online community for students to study together",
+  "batch": "S21",
+  "description": "StudyStream is a video platform & online community that allows students to study with others from around the world 24/7 and in real time. It brings accountability & motivation to the students from over 180 countries who study with us daily.  \r\n\nWe have helped over 3 million students be more productive & motivated, while also feeling less isolated. Our mission is to create a global community of students who can motivate each other to succeed.",
+  "activity_status": "Active",
+  "website": "https://studystream.live",
+  "founded_date": 2020.0,
+  "team_size": 8.0,
+  "location": "London, United Kingdom",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:education",
+  "founders": [
+    {
+      "name": "Sarujan Ranjan, Founder",
+      "description": "Sarujan Ranjan is the co-founder and CEO of StudyStream. He is leading on the mission to help every student in the world to be more productive, motivated and less isolated. Prior to StudyStream, Sarujan has been operating in the student market for the last 8 years, co-founding businesses in the student events and medical education space. He gained a Medical Degree from King's College London and led on the implementation of new technologies into the health system across London.",
+      "linkedin": "https://www.linkedin.com/in/sarujanr/"
+    },
+    {
+      "name": "Erfan Soliman, Founder",
+      "description": "Erfan Soliman is the co-founder, CPO, and co-COO of StudyStream. He sets the company’s product strategy and is creating StudyStream’s global video-based study platform, serving 3M+ students. As an entrepreneur from an early age and with a background in Engineering from both Harvard and Oxford, Erfan has been building products for students and educators for the past decade. Whenever he has any spare time, he enjoys the occasional salsa dancing and rock climbing.",
+      "linkedin": "https://uk.linkedin.com/in/erfansoliman"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "StudyStream is shaking up the way students approach their studies with an innovative 24/7 video platform. Founded in 2020 and part of Y Combinator's Summer Batch 2021, this London-based startup has created a global community where students can come together to study in real-time, no matter where they are in the world.\n\nWhat’s the big idea? StudyStream helps combat the isolation many students feel by fostering a sense of community and accountability. With over 3 million users across more than 180 countries, StudyStream is more than just a platform—it's a movement aimed at helping students stay motivated and productive. \n\nBy connecting students through live study sessions, it promotes collaboration and interaction, transforming solitary study into a shared experience. The company’s goal is simple yet profound: to build an engaged community that inspires each other to achieve their academic dreams. \n\nWith a small but dedicated team of 8 and backed by notable group partner NAN, StudyStream is steadily making waves in the education sector. If you're looking for a way to enhance your study habits and connect with fellow learners, check them out at [StudyStream](https://studystream.live)."
+}

@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/palenca",
+  "name": "Palenca",
+  "headline": "Payroll API for LatAm",
+  "batch": "S21",
+  "description": "Palenca is Payroll API for LatAm. We make it possible for any worker to share their employment records and for businesses to uses those records. Like Plaid, but for Payroll.\r\n\nUnicorns like Kavak and Lalamove use us to run background checks and provide financial services.",
+  "activity_status": "Active",
+  "website": "https://www.palenca.com/",
+  "founded_date": 2021.0,
+  "team_size": 25.0,
+  "location": "São Paulo, Brazil",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:payroll; industry:api",
+  "founders": [
+    {
+      "name": "José Carlos Aguilar, Founder",
+      "description": "Co-founder & Co-CEO @ Palenca\n\nPreviously Ops @Uber",
+      "linkedin": "https://www.linkedin.com/in/pepejcar/"
+    },
+    {
+      "name": "Pierre Delarroqua, Founder",
+      "description": "Co-founder & Co-CEO @ Palenca\n\nPreviously Data Scientist @ Uber",
+      "linkedin": "https://www.linkedin.com/in/delarroqua"
+    },
+    {
+      "name": "Antoine Nguyen Hong Duc, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/antoinenguyenhd/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![](https://cdn.prod.website-files.com/6312321f22bfa2273394892c/63d899137da01f6f11a24241_logo_palenca%201.svg)\\n# Te damos la bienvenida a Palenca 👋\\nElige tu país o región para ver contenido específico según tu ubicación\\n[🇲🇽 México](https://www.palenca.com/</mx/home>)[🇧🇷 Brasil](https://www.palenca.com/</br/home>)[🌎 Otro](https://www.palenca.com/</mx/home>)\\n' markdown_with_citations='![](https://cdn.prod.website-files.com/6312321f22bfa2273394892c/63d899137da01f6f11a24241_logo_palenca%201.svg)\\n# Te damos la bienvenida a Palenca 👋\\nElige tu país o región para ver contenido específico según tu ubicación\\n🇲🇽 México⟨1⟩🇧🇷 Brasil⟨2⟩🌎 Otro⟨1⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.palenca.com/</mx/home>: 🇲🇽 México\\n⟨2⟩ https://www.palenca.com/</br/home>: 🇧🇷 Brasil\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Summary of Palenca\n\n#### Overview\nPalenca is a promising startup founded in 2021 and based in São Paulo, Brazil. It's on a mission to create a Payroll API specifically for the Latin American market. Think of it as Plaid, but tailored for payroll systems.\n\n#### What They Do\nPalenca allows workers to share their employment records easily and enables businesses to access these records seamlessly. This innovative solution simplifies background checks and access to financial services, making it particularly useful for companies like Kavak and Lalamove that are employing this technology to enhance their operations.\n\n#### Team and Support\nCurrently, Palenca has a team of 25 employees and gained traction through its participation in Y Combinator's Batch S21, a well-known startup accelerator that supports high-potential companies. They also have Harj Taggar as their Group Partner, which reflects their solid backing and mentorship from experienced investors.\n\n#### Market Focus\nThe company targets an underserved market by providing a critical infrastructure to manage payroll services in Latin America, which has been relatively untapped compared to other regions. Their goal is to bridge the gap between employment data and financial services, helping both workers and employers streamline their processes.\n\n#### Online Presence\nFor more information, you can visit their website: [Palenca](https://www.palenca.com/).\n\n#### Tags\n- Payroll\n- API\n\nWith a solid foundation and an innovative approach, Palenca is poised to make significant waves in the payroll industry across Latin America. Keep an eye on them as they continue to grow!"
+}

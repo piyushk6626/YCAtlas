@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/prometheus",
+  "name": "Prometheus",
+  "headline": "We use solar and wind power to make zero net carbon electrofuels",
+  "batch": "W19",
+  "description": "We remove CO2 and water from the air and use electricity from solar and wind power to turn them into zero net carbon electrofuels. These are gasoline, diesel, and jet fuels that work in existing cars, trucks and planes without requiring modification of their engines, and don't contribute to global warming because they don't add any new CO2 to the atmosphere. Each gallon of our electrofuels means a gallon of fossil oil left in the ground forever. Importantly, these fuels for the first time can compete with fossil fuels on price - our zero net carbon jet fuel has a price of one cent per gallon less than fossil jet fuel. American Airlines ordered 10 million gallons of this fuel and we will start shipping it next year.",
+  "activity_status": "Active",
+  "website": "http://www.prometheusfuels.com",
+  "founded_date": 2018.0,
+  "team_size": 25.0,
+  "location": "Santa Cruz, CA",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:energy-storage; industry:climate",
+  "founders": [
+    {
+      "name": "Rob McGinnis, Founder/CEO",
+      "description": "Rob McGinnis is Founder and CEO of Prometheus, the first unicorn in e-fuels. Prometheus removes CO2 from the air and uses solar and wind power to turn it into zero net carbon petrol, diesel, jet, and RNG fuels that are superior to fossil fuels at a lower price. Rob has launched three venture backed startups in the fields of desalination, nanotechnology, and energy, and has over 20 patents in these fields. He completed his PhD in Environmental Engineering at Yale and is a veteran of US Navy EOD.",
+      "linkedin": "https://www.linkedin.com/in/robertmcginnis"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Prometheus: Pioneering Zero Carbon Electrofuels**\n\nFounded in 2018 and part of Y Combinator's Winter 2019 batch, Prometheus is on a mission to reshape the energy landscape with innovative, sustainable solutions. Based in Santa Cruz, California, the company has a dedicated team of 25 employees focused on creating zero net carbon electrofuels using renewable energy sources like solar and wind.\n\nAt its core, Prometheus captures CO2 and water from the atmosphere and converts them into electrofuels—gasoline, diesel, and jet fuels—without modifying existing engines. This process does not introduce new CO2 into the atmosphere, effectively leaving fossil resources untouched. The company underscores the environmental benefits of its approach: every gallon of their electrofuels means a gallon of fossil oil that remains in the ground indefinitely.\n\nWhat’s particularly compelling is that Prometheus has achieved a major breakthrough—their zero net carbon jet fuel competes on price with traditional fossil fuels, even coming in at one cent less per gallon. This has already caught the attention of major players in the airline industry; American Airlines has placed an order for 10 million gallons to be delivered next year.\n\nIn a world grappling with climate change, Prometheus is not just a fantasy but an actionable reality. They tag themselves in the realms of 'energy-storage' and 'climate,' emphasizing their dual focus on renewable energy and reducing global carbon emissions. The company's website, http://www.prometheusfuels.com, serves as a portal for more information about their groundbreaking work and future initiatives. \n\nWith Jared Friedman as their Group Partner at Y Combinator guiding them, Prometheus is poised to play a significant role in the transition towards sustainable fuels. In a competitive world, they stand out not just for their technology, but for their vision of a cleaner, greener future where our dependency on fossil fuels can finally diminish."
+}

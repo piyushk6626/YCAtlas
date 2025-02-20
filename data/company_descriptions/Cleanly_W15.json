@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/cleanly",
+  "name": "Cleanly",
+  "headline": "Laundry & Dry Cleaning delivered.",
+  "batch": "W15",
+  "description": "We started Cleanly to create an alternative to your typical laundry and dry cleaning experience.  An alternative where delivery occurs at the tap of a button and happens around your schedule. Where people are friendly and knowledgeable about the way your clothes are treated. \r\n\nCleanly checks one item off your to-do list: Laundry day, done. \r\n\nLearn more about Cleanly on our website: www.cleanly.com",
+  "activity_status": "Active",
+  "website": "https://cleanly.com",
+  "founded_date": 2013.0,
+  "team_size": 40.0,
+  "location": "New York",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:delivery; industry:logistics; location:new-york",
+  "founders": [
+    {
+      "name": "Chen Atlas",
+      "description": "Chen is CTO and Founder at Optery. Prior to founding Optery, Chen was tech lead and architect for 50+ engineers at Runa HR. Prior to Runa HR he was Co-Founder and CTO of As You Stay, and Cleanly, the on-demand laundry service. Chen was recruited out of high school by the Israel Defense Forces (Mamram) to build logistics platforms and is an expert in building large scale complex systems with high availability.  Chen is an alumnus of Bar-Ilan University (BA) and Y Combinator (Cleanly, W15).",
+      "linkedin": "http://www.linkedin.com/in/atlaschen"
+    },
+    {
+      "name": "Itay Forer",
+      "description": "Entrepreneur and coach with 18+ years of experience building startups and scaling businesses. \n\nI’ve developed multiple SaaS products and led multiple acquisitions, exits, and multi-million-dollar fundraising rounds. \n\nMy expertise spans product-market fit, leadership, and strategy. I’ve coached 350+ founders, helping them scale businesses, refine strategies, and solve complex challenges. \n\nPassionate about human potential, I focus on aligning goals with purpose and driving tangible growth.",
+      "linkedin": "https://www.linkedin.com/in/itayforer"
+    },
+    {
+      "name": "Tom Harari",
+      "description": "Founder at Cleanly (W15) and Founding Team at REGENT (W21). I spent a decade founding companies with skills in marketing, growth, and design, now spending most of my time writing.",
+      "linkedin": "http://www.linkedin.com/in/tomharari/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "Cleanly is a New York-based company that was founded in 2013 as part of Y Combinator's Winter 2015 batch. The company was created to revolutionize the laundry and dry cleaning experience, making it as easy as tapping a button on your smartphone. Their mission is straightforward: to provide on-demand laundry and dry cleaning services that align with your schedule, handled by a team that genuinely understands how to care for your clothes.\n\nWith a friendly and knowledgeable staff of 40 employees, Cleanly aims to remove the burden of laundry day from your life—think of it as checking one more thing off your to-do list. Their approach is simple and user-centric, making the tedious chore of laundry a seamless part of your routine.\n\nIf you want to learn more or schedule a pickup, you can visit their website at [cleanly.com](https://cleanly.com). It's an innovative service in the delivery and logistics sector, especially tailored to meet the demands of busy individuals in New York."
+}

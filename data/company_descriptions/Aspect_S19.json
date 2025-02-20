@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/aspect",
+  "name": "Aspect",
+  "headline": "Build UI fast.",
+  "batch": "S19",
+  "description": "Build and publish user interfaces quickly.",
+  "activity_status": "Active",
+  "website": "https://aspect.app",
+  "founded_date": null,
+  "team_size": 1.0,
+  "location": null,
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:saas",
+  "founders": [
+    {
+      "name": "Tshepo Mohlala, Founder",
+      "description": "Interested in tools that dramatically speed up software creation.",
+      "linkedin": "https://linkedin.com/in/tshepomohlala"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# Generate beautiful, effective marketing pages\\nAvailable on mobile and desktop.\\n[Get Started](https://aspect.app/</design>)[Updates](https://aspect.app/<https:/twitter.com/aspectdotapp>)\\n' markdown_with_citations='# Generate beautiful, effective marketing pages\\nAvailable on mobile and desktop.\\nGet Started⟨1⟩Updates⟨2⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://aspect.app/</design>: Get Started\\n⟨2⟩ https://aspect.app/<https:/twitter.com/aspectdotapp>: Updates\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Aspect is a company that simplifies the process of building user interfaces, allowing developers to create and publish them rapidly. Founded during the Y Combinator S19 batch, Aspect has a clear mission: to enable users to generate beautiful and effective marketing pages quickly, across both mobile and desktop platforms.\n\nWhile the company's team currently consists of just one employee, their ambition speaks volumes about their potential in the developer tools and SaaS landscape. Although we don’t have precise details on their location or group partner, their focus remains steadfast on delivering streamlined UI solutions. \n\nAspect invites users to get started with their services directly through their website at [aspect.app](https://aspect.app), where they are continually updating and refining their offerings. If you’re a developer looking to enhance your workflow, Aspect's tools might just be the solution to help you build efficiently and effectively. \n\nIn essence, Aspect embodies the spirit of innovation and simplicity—ideal for developers who want to cut through the noise and focus on creating exceptional user interfaces."
+}

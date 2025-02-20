@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/auricle",
+  "name": "Auricle",
+  "headline": "Neurostimulation implant to restore hearing & speech understanding",
+  "batch": "W21",
+  "description": "Auricle is a medical device company building a breakthrough neurostimulation implant to restore hearing in millions of patients who no longer benefit from hearing aids, get less than 60% on a word recognition test, but aren't prepared to make the jump to a cochlear implant. \r\n\nOur approach preserves remaining natural hearing through a reversible and less invasive surgery, addressing the key concerns that hold most patients back from getting a cochlear implant (currently the only treatment option for these patients).\r\n\nThe company spun out of Stanford Biodesign having completed two acute human clinical studies demonstrating the approach will work. The team is now focused on developing their full implant system for their first clinical trial. \r\n\nAuricle addresses a currently unserved profile of hearing loss that affects a growing population of 3.5 million patients in the US and represents an immediately accessible $1.2B market opportunity with existing reimbursement.",
+  "activity_status": "Active",
+  "website": "https://auricle.com",
+  "founded_date": 2020.0,
+  "team_size": 2.0,
+  "location": "Mountain View",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:hard-tech; industry:neurotechnology; industry:health-tech; industry:medical-devices; industry:healthcare; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Francis Wong, Founder",
+      "description": "I'm Francis, a UK-trained surgeon who worked in the National Health Service as a surgeon for 5 years. In 2012 I moved to the Bay Area to get my MBA/MPH at UC Berkeley. I've worked in several product management roles at startups including 23andMe and Castlight Health. I also founded Outcomes, Inc., a digital health startup enabling the routine use of patient-reported outcomes. Prior to Stanford, I worked at Haven in Boston and co-founded Auricle out of the Stanford Biodesign Fellowship.",
+      "linkedin": "https://linkedin.com/in/loaded"
+    },
+    {
+      "name": "Jay Dhuldhoya, Founder",
+      "description": "I am a medical device engineer and entrepreneur with a BA from Columbia and an MS from Rice in biomedical engineering. I have led R&D, quality, and manufacturing projects at Element Science, an SF-based Class 3 medical device start-up. I recently completed the Stanford Biodesign Innovation Fellowship where I co-founded Auricle.",
+      "linkedin": "https://www.linkedin.com/in/jaydhuldhoya/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![Auricle](https://auricle.com/auricle_hu067e1d69e364f1dae877ce836e3b37ec_20164_288x288_fill_box_smart1_3.png)\\n# Auricle\\nAuricle is a medical device company developing a breakthrough neurostimulation implant to restore hearing in the millions of patients who no longer benefit from hearing aids and are not served by existing solutions. The company was born out of Stanford Biodesign and is proud to be supported by Y Combinator, StartX and Fogarty Innovation.\\nEmail [LinkedIn](https://auricle.com/<https:/linkedin.com/in/loaded>)\\n© 2023 All Rights Reserved.\\n' markdown_with_citations='![Auricle⟨1⟩]\\n# Auricle\\nAuricle is a medical device company developing a breakthrough neurostimulation implant to restore hearing in the millions of patients who no longer benefit from hearing aids and are not served by existing solutions. The company was born out of Stanford Biodesign and is proud to be supported by Y Combinator, StartX and Fogarty Innovation.\\nEmail LinkedIn⟨2⟩\\n© 2023 All Rights Reserved.\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://auricle.com/auricle_hu067e1d69e364f1dae877ce836e3b37ec_20164_288x288_fill_box_smart1_3.png: Auricle\\n⟨2⟩ https://auricle.com/<https:/linkedin.com/in/loaded>: LinkedIn\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Auricle: A New Era in Hearing Restoration\n\n#### Overview\nFounded in 2020 and hailing from Stanford Biodesign, Auricle is carving out a niche in the medical device landscape with its innovative neurostimulation implant. The company's mission is straightforward yet profound: to restore hearing and speech understanding for millions of patients who find themselves stuck between ineffective hearing aids and the more invasive cochlear implants.\n\n#### The Problem\nApproximately 3.5 million people in the U.S. fall into this gap—those with hearing loss who score less than 60% on word recognition tests and can't benefit from traditional solutions. Current options leave them underserved, leading to a significant market opportunity valued at $1.2 billion.\n\n#### The Approach\nAuricle's technology takes a different route. It offers a reversible and less invasive surgical solution that preserves the patient's remaining natural hearing. This approach effectively addresses the common hesitations individuals have about getting cochlear implants, which prominently include concerns around irreversibility and surgical invasiveness.\n\n#### Current Status\nThe company has already made strides by completing two acute human clinical studies that demonstrate the efficacy of its approach. The team, small but ambitious with just two employees, is gearing up to further develop their full implant system and prepare for their first clinical trial.\n\n#### Support and Environment\nAuricle resides in the dynamic San Francisco Bay Area, benefiting from the backing of prominent innovation hubs like Y Combinator, StartX, and Fogarty Innovation. Their focus on hard-tech and neurotechnology positions them at the forefront of health-tech and medical devices.\n\nFor those interested, you can dive deeper into Auricle's journey and offerings at [auricle.com](https://auricle.com).\n\n---\n\nIn a world where hearing aids often fall short, Auricle is emerging as a beacon of hope for those left in silence. Their commitment to restoring communication bridges the gap for millions, positioning them not just as a company, but as a vital player in the future of auditory health."
+}

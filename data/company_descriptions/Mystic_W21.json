@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/mystic",
+  "name": "Mystic",
+  "headline": "Low latency API to run and deploy ML models",
+  "batch": "W21",
+  "description": "Mystic’s platform allows companies to easily and reliably deploy ML models on our serverless cloud or on their own infrastructure without requiring a team of MLOps engineers. With our Python SDK, data-scientists immediately get an endpoint from their own model, or any open-source models.\r\nOnce uploaded, our platform handles routing, multi-cloud scaling, caching, GPU optimization and other features to provide the ultimate ML inference platform.",
+  "activity_status": "Active",
+  "website": "https://www.mystic.ai/",
+  "founded_date": 2019.0,
+  "team_size": 11.0,
+  "location": "London, United Kingdom",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:machine-learning",
+  "founders": [
+    {
+      "name": "Paul Hetherington, Founder",
+      "description": "Full stack + hardware developer - Bath university Alumn.",
+      "linkedin": "https://www.linkedin.com/in/paul-hetherington/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "Mystic is an innovative company founded in 2019, operating out of London, UK. As part of the Y Combinator Batch W21, Mystic has positioned itself as a key player in the machine learning infrastructure space. The company's core mission is to provide a low-latency API that enables businesses to seamlessly deploy and run their machine learning models.\n\nHere’s the essential part: Mystic offers a platform that simplifies the deployment of ML models, allowing companies to use their own infrastructure or take advantage of Mystic's serverless cloud. What’s compelling here is that you don’t need a full team of MLOps engineers to make this happen. With their Python SDK, data scientists can easily transform their models (or even utilize open-source options) into a live endpoint without hassle. \n\nOnce a model is uploaded, Mystic's platform automates vital backend processes, including routing, multi-cloud scaling, caching, and GPU optimization. This makes it a robust solution for ML inference—essentially, it allows users to focus on building models rather than getting bogged down with deployment complexities.\n\nThe company is currently a small team of 11, driven and agile. Brad Flora serves as their Group Partner, guiding them in their mission. Mystic is tagged as a developer tool in the realms of AIOps, artificial intelligence, and machine learning, showcasing its relevance in today’s data-driven world.\n\nIn summary, Mystic is on a journey to make machine learning deployment as straightforward as possible, enabling faster innovation for companies across various sectors. If you’re looking to cut through the technical clutter of deploying ML models, Mystic appears to be the tool you didn’t know you needed. Check them out at [mystic.ai](https://www.mystic.ai)."
+}

@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/cradle",
+  "name": "Cradle",
+  "headline": "B2B payments network in India",
+  "batch": "S20",
+  "description": "Cradle is a B2B payments network in India that lets small businesses collect online payments from other businesses for free.",
+  "activity_status": "Active",
+  "website": "https://www.cradlefinance.com",
+  "founded_date": 2020.0,
+  "team_size": 2.0,
+  "location": "Bengaluru, India",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech",
+  "founders": [
+    {
+      "name": "Gaurav Mishra, Founder",
+      "description": ".",
+      "linkedin": "https://www.linkedin.com/in/gaurav-mishra-5110b5b4/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# Collect online payments without interchange fees.\\nCradle is the cheapest way to collect payments and offer purchase credit to your business buyers.\\nGet in touch\\n' markdown_with_citations='# Collect online payments without interchange fees.\\nCradle is the cheapest way to collect payments and offer purchase credit to your business buyers.\\nGet in touch\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Cradle is a fintech startup based in Bengaluru, India, founded in 2020, and is a proud member of Y Combinator’s Batch S20. The mission of Cradle is straightforward: it aims to create a B2B payments network that empowers small businesses by enabling them to collect online payments from other businesses without incurring interchange fees. This gives small enterprises a financial edge—crucial in a competitive market.\n\nAt its core, Cradle provides the most affordable way for businesses to handle transactions and offer purchase credit to their buyers. With just a small team of two dedicated employees, led by an experienced Group Partner, Cradle is working towards simplifying and democratizing the payments landscape in India.\n\nFor more information about Cradle, you can visit their website at [Cradle Finance](https://www.cradlefinance.com).\n\nIn summary, if you're a small business looking to streamline your payment process, Cradle might just be the ally you didn’t know you needed—providing a cost-effective solution tailored specifically for B2B transactions in India."
+}

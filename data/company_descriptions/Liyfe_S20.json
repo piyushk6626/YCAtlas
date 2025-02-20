@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/liyfe",
+  "name": "Liyfe",
+  "headline": "Digital Nurse to Automate Symptom Assessment and Riskâ¦",
+  "batch": "S20",
+  "description": "Liyfe remote symptom management platform utilizes Artificial Intelligence (AI) to automate oncology nurse triage pathways and high-risk patient detection. It helps you standardize procedures, streamline existing clinical protocols, reduced ER visits and hospitalizations.",
+  "activity_status": "Active",
+  "website": "https://",
+  "founded_date": 2020.0,
+  "team_size": 2.0,
+  "location": "New York",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; industry:digital-health; location:new-york",
+  "founders": [
+    {
+      "name": "Lily Tang, Founder",
+      "description": "CEO and co-founder of Liyfe Clinic--the first cancer care telemedicine. 10+ years of clinical experience in Radiation Oncology as a medical physicist. Pioneer on surface imaging on left-sided breast cancer irradiation. 10+ years research  background in machine learning. Trained at Harvard/Mass General Hospital and UC San Diego. Faculty positions at UNC-Chapel Hill, Memorial Sloan Kettering Cancer Center, and Yale.",
+      "linkedin": "https://www.linkedin.com/in/lily-xiaoli-tang-15b9006/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "**Liyfe: Revolutionizing Symptom Management in Healthcare**\n\nFounded in 2020 and hailing from Y Combinator's Batch S20, Liyfe is an innovative startup based in New York, focused on transforming how we assess and manage patient symptoms, particularly in the oncology space. With a small but dedicated team of two, Liyfe harnesses the power of Artificial Intelligence to automate the often complex pathways that nurses navigate when triaging patients.\n\nTheir mission? To serve as a Digital Nurse that streamlines symptom assessment and enhances risk detection. In doing so, they not only standardize clinical procedures but also help reduce unnecessary ER visits and hospitalizations. By empowering healthcare providers with more efficient tools, Liyfe aims to improve patient care outcomes and enhance the overall workflow in medical settings.\n\nTheir platform is categorized under SaaS (Software as a Service) and digital health, reflecting their commitment to leveraging technology for better health solutions. \n\nAs Liyfe continues to develop and refine its offerings, it stands out as a notable player in the health tech landscape—bridging the gap between advanced technology and essential patient care. \n\nFor more information, you can explore their offerings on their official website (still a work in progress at the moment)."
+}

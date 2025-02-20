@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/sst",
+  "name": "SST",
+  "headline": "Build modern full-stack applications on your own infrastructure",
+  "batch": "W21",
+  "description": "SST is an open-source framework that makes it easy to build modern full-stack applications on your own infrastructure.",
+  "activity_status": "Active",
+  "website": "https://sst.dev",
+  "founded_date": 2010.0,
+  "team_size": 3.0,
+  "location": "Toronto, Canada",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:open-source",
+  "founders": [
+    {
+      "name": "Jay V, Founder",
+      "description": "Founder at SST",
+      "linkedin": "https://www.linkedin.com/in/jayair/"
+    },
+    {
+      "name": "Frank Wang, Founder",
+      "description": "Founder at SST",
+      "linkedin": "https://linkedin.com/in/fanjiewang/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[Skip to content](https://sst.dev/<#_top>)\\n[ ![](https://sst.dev/_astro/logo-dark.DpZ7_bWK.svg) ![](https://sst.dev/_astro/logo-light.BYAt7w5s.svg) SST  ](https://sst.dev/</>)\\n[Blog](https://sst.dev/</blog/>) [Docs](https://sst.dev/</docs/>) [Examples](https://sst.dev/</docs/examples/>)\\n[ 22K ](https://sst.dev/<https:/github.com/sst/sst>)\\nAI  Search ` `Ctrl``K` `\\nCancel \\nClear\\n[ Console ](https://sst.dev/<https:/console.sst.dev>)\\nsst.config.ts```\\n\\nconst db = newplanetscale.Database(\"Db\")\\nconst email = newsst.aws.Email(\"Email\", {\\nsender: \"mail@example.com\"\\n})\\nconst api = newsst.aws.Service(\"Api\", {\\nmemory: \"4 GB\",\\nimage: \"./rails\",\\nlink: [db, email]\\n})\\nconst web = newsst.aws.Nextjs(\"Web\", {\\nlink: [api],\\npath: \"./nextjs\",\\ndomain: \"example.com\",\\ndns: sst.cloudflare.dns()\\n})\\n\\n```\\n\\n# For whatever you build.\\nDeploy everything your app needs with a single config.\\n`npm i\\xa0sst`\\nNew [ Update Permalinks ](https://sst.dev/</blog/update-permalinks>)\\n[What is SST](https://sst.dev/</docs/>) [Get Started](https://sst.dev/</docs/start/aws/nextjs>)\\nLoved by thousands of teams\\n© 2025 [Anomaly Innovations](https://sst.dev/<https:/anoma.ly>)\\n[Guide](https://sst.dev/<https:/guide.sst.dev>)[About](https://sst.dev/</about>)Contact\\n[ ](https://sst.dev/<https:/www.youtube.com/c/sst-dev>)[ ](https://sst.dev/<https:/sst.dev/discord>)[ ](https://sst.dev/<https:/github.com/sst/sst>)[ ](https://sst.dev/<https:/www.linkedin.com/company/sst-dev>)[ ](https://sst.dev/<https:/x.com/SST_dev>)\\n' markdown_with_citations='Skip to content⟨1⟩\\n ![⟨2⟩ ![](https://sst.dev/_astro/logo-light.BYAt7w5s.svg) SST  ](https://sst.dev/</>)\\nBlog⟨3⟩ Docs⟨4⟩ Examples⟨5⟩\\n 22K ⟨6⟩\\nAI  Search ` `Ctrl``K` `\\nCancel \\nClear\\n Console ⟨7⟩\\nsst.config.ts```\\n\\nconst db = newplanetscale.Database(\"Db\")\\nconst email = newsst.aws.Email(\"Email\", {\\nsender: \"mail@example.com\"\\n})\\nconst api = newsst.aws.Service(\"Api\", {\\nmemory: \"4 GB\",\\nimage: \"./rails\",\\nlink: [db, email]\\n})\\nconst web = newsst.aws.Nextjs(\"Web\", {\\nlink: [api],\\npath: \"./nextjs\",\\ndomain: \"example.com\",\\ndns: sst.cloudflare.dns()\\n})\\n\\n```\\n\\n# For whatever you build.\\nDeploy everything your app needs with a single config.\\n`npm i\\xa0sst`\\nNew  Update Permalinks ⟨8⟩\\nWhat is SST⟨4⟩ Get Started⟨9⟩\\nLoved by thousands of teams\\n© 2025 Anomaly Innovations⟨10⟩\\nGuide⟨11⟩About⟨12⟩Contact\\n ⟨13⟩ ⟨14⟩ ⟨6⟩ ⟨15⟩ ⟨16⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://sst.dev/<#_top>: Skip to content\\n⟨2⟩ https://sst.dev/_astro/logo-dark.DpZ7_bWK.svg:  ![\\n⟨3⟩ https://sst.dev/</blog/>: Blog\\n⟨4⟩ https://sst.dev/</docs/>: Docs\\n⟨5⟩ https://sst.dev/</docs/examples/>: Examples\\n⟨6⟩ https://sst.dev/<https:/github.com/sst/sst>:  22K \\n⟨7⟩ https://sst.dev/<https:/console.sst.dev>:  Console \\n⟨8⟩ https://sst.dev/</blog/update-permalinks>:  Update Permalinks \\n⟨9⟩ https://sst.dev/</docs/start/aws/nextjs>: Get Started\\n⟨10⟩ https://sst.dev/<https:/anoma.ly>: Anomaly Innovations\\n⟨11⟩ https://sst.dev/<https:/guide.sst.dev>: Guide\\n⟨12⟩ https://sst.dev/</about>: About\\n⟨13⟩ https://sst.dev/<https:/www.youtube.com/c/sst-dev>:  \\n⟨14⟩ https://sst.dev/<https:/sst.dev/discord>:  \\n⟨15⟩ https://sst.dev/<https:/www.linkedin.com/company/sst-dev>:  \\n⟨16⟩ https://sst.dev/<https:/x.com/SST_dev>:  \\n' fit_markdown='' fit_html=''",
+  "generated_description": "SST is a company that's making waves in the developer tools space, especially within the realm of open-source frameworks. Founded in 2010 and part of the Y Combinator Batch W21, SST calls Toronto, Canada home, and operates with a lean team of just three people. The mission is straightforward: to help developers build modern full-stack applications using their own infrastructure, simplifying the complex web development landscape.\n\nInitially launched as an open-source framework, SST empowers developers by providing a cohesive way to manage their applications with a single configuration. This approach targets those who want complete control over their deployment environments—whether it’s on the cloud or on-premises. We'll get into the benefits, but first, let’s touch on what they’re doing.\n\nSST enables you to deploy all components of your application—databases, APIs, and front-end—all with just a few lines of code. For instance, developers can set up a database connection with PlanetScale, configure an email service using AWS, and deploy a Next.js application—all in one go. It’s this level of simplicity and integration that has attracted a following among development teams, evidenced by their growing GitHub community.\n\nWith its clear focus on being a developer-first tool, SST thrives in a niche marked by rapid innovation and constant learning. Engaging with their resources, like their [blog](https://sst.dev/blog) and [documentation](https://sst.dev/docs), showcases their commitment to an open-source ethos, allowing developers to not only use but also contribute back to the framework. \n\nSo if you’re a developer looking to streamline your workflow while keeping control of your infrastructure, SST could be your new best friend. It's a great example of how targeted tools can enable creators to focus on building rather than managing—and in the fast-paced world of tech, that’s a significant advantage. You can explore more about what they offer on their website: [sst.dev](https://sst.dev)."
+}
