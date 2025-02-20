@@ -17,53 +17,70 @@ def openai_client():
 
 def generate_company_description(markdown,Name,Headline,Batch,Description,Activity_Status,Website,Founded_Date,Team_Size,Location,Group_Partner,Tags):
     client = openai_client()
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt(markdown,Name,Headline,Batch,Description,Activity_Status,Website,Founded_Date,Team_Size,Location,Group_Partner,Tags)}
-        ]
-    )  
-    print(f"Prompt tokens: {response.usage.prompt_tokens}")
-    print(f"Completion tokens: {response.usage.completion_tokens}")
-    print(f"Total tokens: {response.usage.total_tokens}")
+    max_retries = 5
+    base_delay = 3  # base delay in seconds
     
-    # Read current totals from file
-    try:
-        with open('token_usage_totals.json', 'r') as totals_file:
-            totals = json.load(totals_file)
-    except FileNotFoundError:
-        totals = {
-            'companies_processed': 0,
-            'total_prompt_tokens': 0,
-            'total_completion_tokens': 0,
-            'total_tokens': 0
-        }
-    
-    # Update totals
-    totals['companies_processed'] += 1
-    totals['total_prompt_tokens'] += response.usage.prompt_tokens
-    totals['total_completion_tokens'] += response.usage.completion_tokens
-    totals['total_tokens'] += response.usage.total_tokens
-    
-    # Save updated totals
-    with open('token_usage_totals.json', 'w') as totals_file:
-        json.dump(totals, totals_file, indent=2)
-    
-    # Log individual usage with running totals
-    with open('token_usage.log', 'a') as log_file:
-        log_file.write(f"Company: {Name}, Batch: {Batch}\n")
-        log_file.write(f"Prompt tokens: {response.usage.prompt_tokens}\n")
-        log_file.write(f"Completion tokens: {response.usage.completion_tokens}\n")
-        log_file.write(f"Total tokens: {response.usage.total_tokens}\n")
-        log_file.write(f"Running Totals:\n")
-        log_file.write(f"Companies processed: {totals['companies_processed']}\n")
-        log_file.write(f"Total prompt tokens: {totals['total_prompt_tokens']}\n")
-        log_file.write(f"Total completion tokens: {totals['total_completion_tokens']}\n")
-        log_file.write(f"Total tokens overall: {totals['total_tokens']}\n")
-        log_file.write("-" * 50 + "\n")
-    
-    return response.choices[0].message.content
+    for attempt in range(max_retries):
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt(markdown,Name,Headline,Batch,Description,Activity_Status,Website,Founded_Date,Team_Size,Location,Group_Partner,Tags)}
+                ]
+            )
+            # If successful, proceed with the rest of the function
+            print(f"Prompt tokens: {response.usage.prompt_tokens}")
+            print(f"Completion tokens: {response.usage.completion_tokens}")
+            print(f"Total tokens: {response.usage.total_tokens}")
+            
+            # Read current totals from file
+            try:
+                with open('token_usage_totals.json', 'r') as totals_file:
+                    totals = json.load(totals_file)
+            except FileNotFoundError:
+                totals = {
+                    'companies_processed': 0,
+                    'total_prompt_tokens': 0,
+                    'total_completion_tokens': 0,
+                    'total_tokens': 0
+                }
+            
+            # Update totals
+            totals['companies_processed'] += 1
+            totals['total_prompt_tokens'] += response.usage.prompt_tokens
+            totals['total_completion_tokens'] += response.usage.completion_tokens
+            totals['total_tokens'] += response.usage.total_tokens
+            
+            # Save updated totals
+            with open('token_usage_totals.json', 'w') as totals_file:
+                json.dump(totals, totals_file, indent=2)
+            
+            # Log individual usage with running totals
+            with open('token_usage.log', 'a') as log_file:
+                log_file.write(f"Company: {Name}, Batch: {Batch}\n")
+                log_file.write(f"Prompt tokens: {response.usage.prompt_tokens}\n")
+                log_file.write(f"Completion tokens: {response.usage.completion_tokens}\n")
+                log_file.write(f"Total tokens: {response.usage.total_tokens}\n")
+                log_file.write(f"Running Totals:\n")
+                log_file.write(f"Companies processed: {totals['companies_processed']}\n")
+                log_file.write(f"Total prompt tokens: {totals['total_prompt_tokens']}\n")
+                log_file.write(f"Total completion tokens: {totals['total_completion_tokens']}\n")
+                log_file.write(f"Total tokens overall: {totals['total_tokens']}\n")
+                log_file.write("-" * 50 + "\n")
+            
+            return response.choices[0].message.content
+            
+        except Exception as e:
+            if 'rate_limit_exceeded' in str(e):
+                if attempt < max_retries - 1:  # Don't sleep on the last attempt
+                    delay = base_delay * (2 ** attempt)  # Exponential backoff
+                    print(f"Rate limit reached. Retrying in {delay} seconds... (Attempt {attempt + 1}/{max_retries})")
+                    import time
+                    time.sleep(delay)
+                    continue
+            # If it's not a rate limit error or we've exhausted retries, raise the exception
+            raise e
 
 def process_company(row, output_folder):
     try:
