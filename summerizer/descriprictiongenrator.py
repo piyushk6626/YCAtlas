@@ -17,8 +17,8 @@ def openai_client():
 
 def generate_company_description(markdown,Name,Headline,Batch,Description,Activity_Status,Website,Founded_Date,Team_Size,Location,Group_Partner,Tags):
     client = openai_client()
-    max_retries = 5
-    base_delay = 3  # base delay in seconds
+    max_retries = 10
+    base_delay = 5  # base delay in seconds
     
     for attempt in range(max_retries):
         try:
