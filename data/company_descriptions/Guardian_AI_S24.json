@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/guardian-ai",
+  "name": "Guardian AI",
+  "headline": "Helping healthcare providers fight insurance denials.",
+  "batch": "S24",
+  "description": "Guardian is an AI platform to help healthcare providers (hospitals, MSOs, physician groups) fight denials and address unpaid claims. Providers deploy Guardian to:\r\n\n1. Detect emerging patterns in payer reimbursements\r\n2. Automate the diagnosis and resolution of unpaid claims and denials",
+  "activity_status": "Active",
+  "website": "https://www.withguardian.ai/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "New York",
+  "group_partner": "Garry Tan",
+  "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:health-tech; industry:workflow-automation; location:new-york",
+  "founders": [
+    {
+      "name": "Mayank Jain, Founder",
+      "description": "Guardian AI Co-founder, ex-Palantir, Microsoft, Jump. Before Guardian, Mayank was a lead on the Hospital's team at Palantir - overseeing product, sales, and implementation of our staffing & scheduling product.\n\nBorn in India, grew up in Kuwait, studied CS + Business @ CMU '21",
+      "linkedin": "https://www.linkedin.com/in/mjain30/"
+    },
+    {
+      "name": "Pranav Pillai, Founder",
+      "description": "Before Guardian, Pranav was an Enterprise Lead on Palantir's Hospitals Team. He started and ran their Revenue Cycle Management vertical, doing $6M in sales in his first quarter on the job.\n\nPranav graduated from the University of Pennsylvania's Jerome Fisher Program in Management & Technology (M&T) with an M.S. in Computer Science and dual Bachelors degrees in Computer Science and Finance.",
+      "linkedin": "https://www.linkedin.com/in/pranav-pillai-18547688/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![website logo](https://api.typedream.com/v0/document/public/97be3b81-7c6d-4ff9-84bf-fc4463a5f658/2k1dETDuMw2EV0jTRxD3NhWMpVB_logo_no_bg_.png)Guardian](https://www.withguardian.ai/<>)\\nFight Denials with AI\\nAutomate denials management like the top health systems in the country\\n[**Request Demo**](https://www.withguardian.ai/<https:/cal.com/team/guardian-ai/30-min-chat>)\\nCopyright © 2024 Guardian AI, Inc. All rights reserved\\n' markdown_with_citations='![website logo⟨1⟩Guardian](https://www.withguardian.ai/<>)\\nFight Denials with AI\\nAutomate denials management like the top health systems in the country\\n**Request Demo**⟨2⟩\\nCopyright © 2024 Guardian AI, Inc. All rights reserved\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://api.typedream.com/v0/document/public/97be3b81-7c6d-4ff9-84bf-fc4463a5f658/2k1dETDuMw2EV0jTRxD3NhWMpVB_logo_no_bg_.png: ![website logo\\n⟨2⟩ https://www.withguardian.ai/<https:/cal.com/team/guardian-ai/30-min-chat>: **Request Demo**\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Guardian AI: A Game Changer in Healthcare Denials Management**\n\nFounded in 2024 and currently a part of Y Combinator's Batch S24, Guardian AI is on a mission to help healthcare providers tackle the pervasive issue of insurance denials. Based in New York, this innovative startup operates with a compact but focused team of just two people.\n\nThe core of Guardian AI’s approach is intelligent automation, specifically designed for hospitals, MSOs (Managed Service Organizations), and physician groups. The platform helps these healthcare providers:\n\n1. **Detect Emerging Patterns**: By analyzing payer reimbursements, Guardian AI identifies trends that could impact future claims, allowing providers to strategize accordingly.\n  \n2. **Automate Claims Management**: The platform streamlines the diagnosis and resolution of unpaid claims and denials, taking the guesswork out of what can often be a complex and tedious process.\n\nUnder the guidance of Group Partner Garry Tan, Guardian AI positions itself among the leaders in health tech and workflow automation. Their focus on artificial intelligence enhances the efficiency and effectiveness of denials management, enabling healthcare providers to operate like the best systems across the country.\n\nIf you’re interested in seeing how Guardian AI works, you can [request a demo](https://www.withguardian.ai/<https:/cal.com/team/guardian-ai/30-min-chat>) and discover firsthand the potential impact of their solution.\n\nFor more information, visit their website: [Guardian AI](https://www.withguardian.ai/).\n\nIn summary, Guardian AI is not just another tech startup; it's a startup with a purpose—simplifying and improving the reimbursement landscape for healthcare providers, one claim at a time."
+}

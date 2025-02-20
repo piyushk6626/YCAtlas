@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/evolvere-biosciences",
+  "name": "Evolvere BioSciences",
+  "headline": "Making Next-Generation Antibiotics that Outpace Bacterial Evolution",
+  "batch": "S24",
+  "description": "🦠🤖 We use our computational models to make next-generation antibiotics that outcompete bacterial evolution and precisely target pathogenic bacteria, without harming good microbes or human cells. \r\n\n☠️ Current antibiotics stop working because bacteria evolve resistance to them. This makes drug-resistant bacteria a looming global health crisis - already killing more people than malaria and AIDS and it is getting exponentially worse 📈. \r\n\n🧬 Our approach leverages co-evolutionary protein-protein interaction datasets combined with AI to forecast bacterial mutations and create ‘future-proof’ antibiotics, addressing antibiotic resistance before it develops. This changes the game for how frequently society will need to make new antibiotics and how long our new antibiotics will be able to treat patients 👩‍⚕️.\r\n\nWe are a team of biochemists and evolutionary biologists who met at the University of Oxford.",
+  "activity_status": "Active",
+  "website": "https://www.evolverebiosciences.com/",
+  "founded_date": 2021.0,
+  "team_size": 3.0,
+  "location": "Oxford, United Kingdom",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:ai-powered-drug-discovery; industry:artificial-intelligence; industry:biotech; industry:therapeutics; industry:biotechnology",
+  "founders": [
+    {
+      "name": "Adam Winnifrith, Founder",
+      "description": "Evolvere (S24), CEO & Co-Founder, MBioChem Oxford, I work at the intersection of bioengineering, protein AI, and automation. E.S.B",
+      "linkedin": "https://linkedin.com/in/adam-winnifrith-b438ab182"
+    },
+    {
+      "name": "Piotr Jedryszek, Founder",
+      "description": "S24, Evolvere Biosciences, CTO and Co-founder, background in Bio and CompBio",
+      "linkedin": "https://linkedin.com/in/piotr-jedryszek-085991180"
+    },
+    {
+      "name": "Weronika Slesak, Founder",
+      "description": "CSO at Evolvere (S24). Oxford biologist using evolution as an engineering tool.",
+      "linkedin": "https://linkedin.com/in/weronika-slesak"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='Contact Us \\nA\\n' markdown_with_citations='Contact Us \\nA\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Evolvere BioSciences: A Fresh Approach to Antibiotic Resistance\n\nFounded in 2021 by a trio of biochemists and evolutionary biologists from the University of Oxford, Evolvere BioSciences has set out on an ambitious mission: to develop next-generation antibiotics that can outpace the relentless evolution of bacteria. With the alarming rise of antibiotic-resistant infections—a crisis that's beginning to rival major diseases like malaria and AIDS—Evolvere's work is not just timely; it’s critically essential. \n\n### The Challenge\n\nAntibiotic resistance is a daunting challenge in modern medicine. Conventional antibiotics are becoming increasingly ineffective as bacteria evolve and adapt, leading to more deaths globally each year. This situation calls for innovative solutions that can preemptively tackle resistance before it emerges.\n\n### The Strategy\n\nEvolvere BioSciences employs cutting-edge computational modeling and artificial intelligence, specifically focusing on co-evolutionary protein-protein interactions. By analyzing these interactions, they can predict bacterial mutations and design antibiotics that are resilient against future resistance. Essentially, they're crafting \"future-proof\" antibiotics that aim to treat infections long before new resistance can develop. \n\n### Team and Support\n\nOperating out of Oxford, UK, Evolvere is a compact team of three, with the expertise cultivated through rigorous academic backgrounds. As part of Y Combinator's Batch S24, they also benefit from the mentorship and network available through this prestigious accelerator, further bolstering their efforts in biotechnology and therapeutics. \n\n### Conclusion\n\nEvolvere BioSciences is positioned at the intersection of AI and drug discovery, working to change the landscape of antibiotic development. With their innovative approach, they are not just responding to a pressing global health crisis but seeking to redefine how we combat bacterial threats in the future. Their work holds promise—both for the medical community and for patients worldwide. \n\nFor more insights and updates about their journey, check out their website: [Evolvere BioSciences](https://www.evolverebiosciences.com/)."
+}

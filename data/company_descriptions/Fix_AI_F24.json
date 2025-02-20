@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/fix-ai",
+  "name": "Fix AI",
+  "headline": "AI agents that navigate websites like real users to find bugs",
+  "batch": "F24",
+  "description": "Fix AI automates frontend QA testing using AI agents that simulate real users on websites. With simple natural language prompts, e.g. \"make sure the onboarding flow works\", our agents walk through flows and visually interact with the site to ensure critical bugs never reach users.",
+  "activity_status": "Active",
+  "website": "https://tryfix.ai",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Diana Hu",
+  "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:developer-tools; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Arav Seth, Founder",
+      "description": "Worked at a startup backed by Daniel Gross building LLM applications. Created an app for my campus that got 80k+ user sessions.\n\nCurrently at Fix AI building autonomous agents that test user websites.",
+      "linkedin": "https://www.linkedin.com/in/aravseth"
+    },
+    {
+      "name": "Kesav Kosana, Founder",
+      "description": "Previously worked at a startup backed by Daniel Gross building LLM applications. Then worked on data engineering at Legalist (YC S16).\n\nCurrently at Fix AI building autonomous agents that test user websites.",
+      "linkedin": "https://linkedin.com/in/kesavkosana"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[](https://tryfix.ai/</> \"Home\")\\n[Book a demo](https://tryfix.ai/<https:/cal.com/team/candid/demo>)\\n# Find warm, qualified leads.\\nCandid\\'s AI agents continuously monitor the internet to find highly qualified leads based on live signals.\\n[Get started](https://tryfix.ai/<https:/cal.com/team/candid/demo>)\\n![SavvyCal](https://tryfix.ai/logo-cloud/savvycal.svg)![Laravel](https://tryfix.ai/logo-cloud/laravel.svg)![Tuple](https://tryfix.ai/logo-cloud/tuple.svg)![Transistor](https://tryfix.ai/logo-cloud/transistor.svg)![Statamic](https://tryfix.ai/logo-cloud/statamic.svg)\\n## Find people that want your product now.\\n![](https://tryfix.ai/screenshots/candid.png)\\n## Get started\\nPut your sales on autopilot.\\n[Chat with a founder](https://tryfix.ai/<https:/cal.com/team/candid/demo>)\\n© 2025 Candid\\nCrafted with 💗 in San Francisco\\n' markdown_with_citations='[](https://tryfix.ai/</> \"Home\")\\nBook a demo⟨1⟩\\n# Find warm, qualified leads.\\nCandid\\'s AI agents continuously monitor the internet to find highly qualified leads based on live signals.\\nGet started⟨1⟩\\n![SavvyCal⟨2⟩]![Laravel⟨3⟩]![Tuple⟨4⟩]![Transistor⟨5⟩]![Statamic⟨6⟩]\\n## Find people that want your product now.\\n![](https://tryfix.ai/screenshots/candid.png)\\n## Get started\\nPut your sales on autopilot.\\nChat with a founder⟨1⟩\\n© 2025 Candid\\nCrafted with 💗 in San Francisco\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://tryfix.ai/<https:/cal.com/team/candid/demo>: Book a demo\\n⟨2⟩ https://tryfix.ai/logo-cloud/savvycal.svg: SavvyCal\\n⟨3⟩ https://tryfix.ai/logo-cloud/laravel.svg: Laravel\\n⟨4⟩ https://tryfix.ai/logo-cloud/tuple.svg: Tuple\\n⟨5⟩ https://tryfix.ai/logo-cloud/transistor.svg: Transistor\\n⟨6⟩ https://tryfix.ai/logo-cloud/statamic.svg: Statamic\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Company Overview: Fix AI\n\n**Fix AI** is an innovative startup founded in 2024, nestled in the vibrant tech ecosystem of San Francisco and part of Y Combinator’s Batch F24. At its core, the company is on a mission to revolutionize frontend Quality Assurance (QA) testing by utilizing AI agents that mimic real users as they navigate websites. This approach allows them to log critical bugs before they reach end users, ensuring a smoother and more reliable online experience.\n\nWith just a tiny team of two, Fix AI’s strength lies in its streamlined focus—automating the time-consuming, manual process of spotting errors in web applications. Using simple natural language prompts, users instruct the AI agents to check specific functionalities, like ensuring the onboarding flow works seamlessly. The agents simulate genuine user interactions and visually analyze elements to provide comprehensive feedback.\n\nThe initiative is tagged under various relevant categories, including **artificial intelligence**, **developer tools**, and is positioned in the **San Francisco Bay Area**.\n\n### Key Features & Offerings\n\nFix AI is currently enhancing the way businesses discover and convert leads. Their intelligent agents continuously monitor the digital landscape to identify and engage with potential users showing interest in specific products. This means businesses can find warm, qualified leads rather than waiting for potential customers to come to them.\n\nHere are some highlights of Fix AI’s services:\n\n- **AI-driven lead generation**: The platform’s agents proactively seek out highly qualified leads based on live signals from the internet.\n- **User experience testing**: Users can request their AI agents to carry out specific tasks on their websites, enhancing reliability before launch.\n  \n### Call to Action\nInterested in putting your sales on autopilot? You can [Book a Demo](https://tryfix.ai/<https:/cal.com/team/candid/demo>) to see how Fix AI can enhance your web operations.\n\n**Diana Hu** serves as the Group Partner, guiding this ambitious venture in its early stages. If you’re excited about the future of AI in QA and lead generation, this is a project worth watching. \n\nFor more information, visit [Fix AI's Website](https://tryfix.ai). \n\n--- \n\nIn a nutshell, Fix AI is diving into a niche that many businesses will find indispensable—quality assurance and lead generation powered by intelligent automation. It’s a smart play, especially in an era where user experience can make or break your product's success."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/lune-ai",
+  "name": "Lune AI",
+  "headline": "Better GPT and Claude for coding",
+  "batch": "F24",
+  "description": "A replacement to standard LLMs for coding tasks - eliminate hallucinations with a marketplace of expert LLMs trained on hundreds of technical topics.",
+  "activity_status": "Active",
+  "website": "https://www.lune.dev/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "David Lieb",
+  "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Sam Park, Founder",
+      "description": "Dropped out of Harvard to build better LLMs for code generation and answering technical questions. Striving towards a reality where all people are 100x more productive because of AI + coding.",
+      "linkedin": "https://www.linkedin.com/in/samuel-park04/"
+    },
+    {
+      "name": "Josh Park, Founder",
+      "description": "Harvard dropout, currently building Lune AI, the platform that gives developers access to better LLMs for code generation and answers from up-to-date technical knowledge sources.",
+      "linkedin": "https://www.linkedin.com/in/josh-park-a26561279"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![](https://www.lune.dev/_next/image?url=%2Flogos%2Flune.png&w=128&q=75)](https://www.lune.dev/<https:/lune.dev>)\\n[Login](https://www.lune.dev/</login>)\\n[![](https://www.lune.dev/_next/image?url=%2Flogos%2Flune.png&w=128&q=75)](https://www.lune.dev/<https:/lune.dev>)\\n[Home](https://www.lune.dev/</>)[Questions](https://www.lune.dev/</questions>)[Lunes](https://www.lune.dev/</lunes>)[Ask](https://www.lune.dev/</ask>)[Chat](https://www.lune.dev/</chat>)\\n[](https://www.lune.dev/<https:/www.linkedin.com/company/lune-inc>)[](https://www.lune.dev/<https:/x.com/lune_inc>)[![Lune Logo](https://www.lune.dev/_next/image?url=%2Flogos%2Flune.png&w=48&q=75)](https://www.lune.dev/<https:/lune.inc>)\\n© 2025 Lune Inc.All rights reserved.\\nsupport@lune.dev\\n[Upgrade to Pro![Lune Logo](https://www.lune.dev/_next/image?url=%2Flogos%2Flune.png&w=32&q=75)](https://www.lune.dev/</profile/plan>)\\nScroll to top \\n# See what developers are chatting about.\\nEngage in meaningful AI-human hybrid conversations. Ask a question, get instant answers. No human moderation.\\nPopularNewest\\n## Hot Questions\\n## Trending Lunes\\n' markdown_with_citations='![⟨1⟩](https://www.lune.dev/<https:/lune.dev>)\\nLogin⟨2⟩\\n![⟨1⟩](https://www.lune.dev/<https:/lune.dev>)\\nHome⟨3⟩Questions⟨4⟩Lunes⟨5⟩Ask⟨6⟩Chat⟨7⟩\\n[](https://www.lune.dev/<https:/www.linkedin.com/company/lune-inc>)[](https://www.lune.dev/<https:/x.com/lune_inc>)![Lune Logo⟨8⟩](https://www.lune.dev/<https:/lune.inc>)\\n© 2025 Lune Inc.All rights reserved.\\nsupport@lune.dev\\nUpgrade to Pro![Lune Logo⟨9⟩](https://www.lune.dev/</profile/plan>)\\nScroll to top \\n# See what developers are chatting about.\\nEngage in meaningful AI-human hybrid conversations. Ask a question, get instant answers. No human moderation.\\nPopularNewest\\n## Hot Questions\\n## Trending Lunes\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.lune.dev/_next/image?url=%2Flogos%2Flune.png&w=128&q=75: ![\\n⟨2⟩ https://www.lune.dev/</login>: Login\\n⟨3⟩ https://www.lune.dev/</>: Home\\n⟨4⟩ https://www.lune.dev/</questions>: Questions\\n⟨5⟩ https://www.lune.dev/</lunes>: Lunes\\n⟨6⟩ https://www.lune.dev/</ask>: Ask\\n⟨7⟩ https://www.lune.dev/</chat>: Chat\\n⟨8⟩ https://www.lune.dev/_next/image?url=%2Flogos%2Flune.png&w=48&q=75: ![Lune Logo\\n⟨9⟩ https://www.lune.dev/_next/image?url=%2Flogos%2Flune.png&w=32&q=75: Upgrade to Pro![Lune Logo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Lune AI is an innovative tech startup aiming to enhance coding experiences using advanced AI models. Founded in 2024 as part of Y Combinator's Batch F24, this San Francisco-based company is on a mission to create a better AI coding assistant—specifically, a better alternative to existing large language models like GPT and Claude. \n\nThe problem Lune AI seeks to address is the common issue of AI hallucinations—unreliable outputs that can lead to confusion and inefficiency in coding tasks. To tackle this, they've developed a marketplace of expert language models specifically trained on a wide array of technical topics. This approach promises to provide developers with accurate and relevant assistance without the noise often associated with generic LLMs.\n\nDespite being a small team of two, Lune AI is backed by noteworthy influence, having David Lieb as their Group Partner. They label themselves within the developer-tools and AI spaces, focusing on building a seamless interface for coding interactions.\n\nTheir platform facilitates meaningful AI-human conversations, where users can pose questions and receive instantaneous answers—fully moderated by AI, eliminating the delays often found in human-driven support systems. The cornerstone of their offering is a chat functionality that promises to keep the conversation fluid and dynamic, with trending questions and topics directly accessible to users.\n\nFor more information, you can check out their [website here](https://www.lune.dev/). In a world where efficient coding tools can make all the difference, Lune AI is positioning itself as a serious contender for developers seeking smarter, more reliable AI assistance in their workflows."
+}

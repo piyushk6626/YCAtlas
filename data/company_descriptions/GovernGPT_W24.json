@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/governgpt",
+  "name": "GovernGPT",
+  "headline": "AI Back Office for Fund Managers",
+  "batch": "W24",
+  "description": "For money managers to raise their next billion, they dedicate entire teams to spend days filling diligence questionnaires with recycled content. We do it in minutes using AI.",
+  "activity_status": "Active",
+  "website": "https://www.governgpt.ai/",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "Toronto, Canada",
+  "group_partner": "Tom Blomfield",
+  "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:finance; industry:b2b; industry:investing; industry:ai",
+  "founders": [
+    {
+      "name": "Mamal Amini, Founder",
+      "description": "Before GovernGPT, I trained some of the largest LLMs on the world's largest chip @Cerebras. I led and co-invented a novel way to use AI (Deep Reinforcement Learning) to design chips (patented and published in a top-tier ML conference) for Huawei. At Mila (the world's largest AI lab), I co-authored foundational AI models with Yoshua (godfather of AI), and Doina (DeepMind director).",
+      "linkedin": "https://linkedin.com/in/mamal-amini-235810170"
+    },
+    {
+      "name": "Oliver Walerys, Founder",
+      "description": "Self-taught product and software guy. Unironically a citizen of the world. I'm building this startup because how could I pass up working with my best friend - and I'm realizing my dream from 12 years old.",
+      "linkedin": "https://linkedin.com/in/walerys"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "GovernGPT is an innovative startup founded in 2023 that's making waves in the finance sector by offering an AI-driven back office solution for fund managers. Imagine this: when money managers are trying to raise their next billion, they often allocate entire teams to the tedious task of filling out diligence questionnaires—an exhausting process that can take days, often relying on recycled content. GovernGPT changes the game by using AI to complete these tasks in mere minutes, greatly enhancing efficiency and freeing up valuable time for fund managers to focus on what really matters.\n\nThe company is located in Toronto, Canada, and operates with a lean team of just two employees. GovernGPT has earned its place in the Y Combinator Batch W24, a testament to its potential and innovation in the field. \n\nTom Blomfield, a notable figure in the startup ecosystem, serves as their Group Partner, bringing additional expertise and mentorship to the table.\n\nWith strong tags like 'artificial-intelligence', 'finance', 'b2b', 'investing', and 'ai', GovernGPT positions itself at the intersection of tech and finance, targeting an industry that desperately needs smart solutions. You can learn more about their vision and offerings at their website: [governgpt.ai](https://www.governgpt.ai/).\n\nSo, if you’re a fund manager tired of the painstaking paperwork, GovernGPT is here to simplify your life and supercharge your fundraising efforts."
+}

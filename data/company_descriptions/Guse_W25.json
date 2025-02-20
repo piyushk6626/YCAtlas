@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/guse",
+  "name": "Guse",
+  "headline": "The first multiplayer AI canvas",
+  "batch": "W25",
+  "description": "Guse is the first fully multiplayer AI canvas for individuals and teams to work on research, writing, reports, and decks.\r\n\nA chat interface excels at straightforward, single-answer tasks, but falls short for more complex, iterative tasks such as compiling reports. \r\n\nExisting AI canvas tools offer a slightly better interface but lack any rich doc editor tooling, multiplayer functionality, or a truly great AI copilot experience. This prevents tangible, collaborative work from actually being done. \r\n\nA Guse canvas has a rich docs editor built in, full multiplayer, and an AI copilot capable of autonomously web searching, writing, and editing any content on the canvas. Individuals or teams can work, iterate, and collaborate on research, reports, etc. - then instantly export any canvas out to any format (yes, even fully fleshed out slides!). \r\n\nIf chat was the conversational interface for AI, Guse is the collaborative interface and we look forward to seeing what you use it for. Start your first canvas today at guse.io.",
+  "activity_status": "Active",
+  "website": "https://www.guse.io/",
+  "founded_date": 2024.0,
+  "team_size": 3.0,
+  "location": null,
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:documents; industry:artificial-intelligence; industry:b2b; industry:ai-assistant",
+  "founders": [
+    {
+      "name": "Kevin He, Founder",
+      "description": "Building Guse. Prev. Math & CS @ Penn, MLE @ Alibaba, SDE @ Rails",
+      "linkedin": "https://www.linkedin.com/in/haokun-he/"
+    },
+    {
+      "name": "Kevin Lu, Founder",
+      "description": "Building Guse. Prev CS/Math @ Penn, Gen AI @ AWS, Research @ Stanford HAI.",
+      "linkedin": "https://www.linkedin.com/in/kevin-lu-22724b1a5/"
+    },
+    {
+      "name": "Bach Tran, Founder",
+      "description": "Building Guse. Prev CS @ Penn, Engineering @ Addepar",
+      "linkedin": "https://www.linkedin.com/in/giabachtran"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Guse: Transforming Collaborative Work with AI**\n\nFounded in 2024, Guse positions itself as the first fully multiplayer AI canvas tailored for individuals and teams engaged in research, writing, and the creation of reports and presentations. It's a product born out of necessity; traditional chat interfaces shine in straightforward tasks but stumble in the complex, iterative processes that collaborative work demands.\n\nIn the landscape of existing AI tools, many fall short—offering better interfaces but lacking crucial features like rich document editing, multiplayer capabilities, and a seamless AI assistant experience. This gap is what Guse aims to bridge.\n\nThe Guse canvas is equipped with a rich document editor that supports real-time collaboration. Its AI copilot goes beyond basic assistance, capable of autonomously searching the web, writing, and editing content right within the canvas environment. This means teams can efficiently iterate and collaborate on their projects without unnecessary roadblocks. Plus, exporting final work is a breeze, whether it’s an intricate report or a polished presentation.\n\nWhile chat interfaces facilitate conversations, Guse is redefining what a collaborative interface looks like. It invites you to start creating your first canvas today at [guse.io](https://www.guse.io/).\n\nLocated in the Bay Area with a compact team of three, Guse is part of Y Combinator's W25 batch. Under Group Partner Aaron Epstein’s mentorship, they’re poised to make significant strides in the AI document landscape, standing at the intersection of documents, artificial intelligence, and B2B solutions. Guse isn’t just a tool; it’s an invitation to rethink how we collaborate."
+}

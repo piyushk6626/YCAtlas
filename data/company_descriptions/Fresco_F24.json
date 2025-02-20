@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/fresco",
+  "name": "Fresco",
+  "headline": "AI copilot for construction superintendents",
+  "batch": "F24",
+  "description": "Fresco helps construction superintendents take 1000s of pages of notes, 10x faster. We automate the process of completing progress notes and punch lists, reducing time requirements from hours to minutes. Superintendents simply record videos of their site walk, and Fresco pulls out the relevant information and formats it into rich reports. We also offer one-click integrations with leading project management software like Procore and ACC, for maximum usability.",
+  "activity_status": "Active",
+  "website": "https://fresco-ai.com/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "David Lieb",
+  "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:construction; industry:compliance; industry:note-taking; industry:ai-assistant; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Arvind Veluvali, Founder/CEO",
+      "description": "I'm a former NASA scientist who most recently spent 2 years running the sales and operations functions at a $45MM raised AI company. I’ve also spent time in VC and product. I’m a Brown grad who dropped out of Wharton to build Fresco, the scribe for construction superintendents.",
+      "linkedin": "https://linkedin.com/in/arvindveluvali"
+    },
+    {
+      "name": "Akhil Gupta, Founder",
+      "description": "I've been working with LLMs since 2018 and in renewables construction since 2022. Worked on AI @ Johns Hopkins, MIT, and TikTok. Currently building Fresco, the scribe for construction superintendents.",
+      "linkedin": "https://linkedin.com/in/akhil-climate"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Fresco Overview**\n\nFresco is an innovative startup founded in 2024, nestled in the bustling tech hub of San Francisco. The company emerged from Y Combinator's Batch F24, positioning itself at the intersection of construction and artificial intelligence. \n\n**Mission and Product**\n\nFresco's mission is to act as an AI copilot specifically designed for construction superintendents. In an industry where time is crucial, Fresco addresses the challenge of inefficient note-taking and reporting. Traditionally, construction superintendents juggle thousands of pages of notes, which can take hours to compile into actionable insights. Fresco revolutionizes this process by allowing superintendents to record videos of their site walks. The AI swiftly extracts pertinent information and formats it into comprehensive reports, slashing hours of work down to mere minutes. \n\nMoreover, Fresco maximizes usability by integrating effortlessly with leading project management software like Procore and ACC, ensuring that the transition to their system is as smooth as possible.\n\n**Team and Leadership**\n\nDespite being a small team of just two employees, Fresco is backed by prominent support. David Lieb serves as their Group Partner, adding weight to their mission and helping guide their strategic vision.\n\n**Tags and Focus Areas**\n\nFresco is categorized under various tags that represent its core functionalities: 'construction', 'compliance', 'note-taking', 'AI assistant', and it's central to the vibrant San Francisco Bay Area tech scene.\n\nIn summary, Fresco is on a path to simplify how construction superintendents document their projects. By leveraging the power of AI, they are not just saving time but also enhancing productivity and compliance in the construction industry. If you’re in this space, or just interested in how AI meets the needs of traditional industries, you should definitely keep an eye on Fresco. Their journey is just beginning, and the potential impact is enormous. Check them out at [fresco-ai.com](https://fresco-ai.com/)."
+}

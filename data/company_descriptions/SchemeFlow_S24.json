@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/schemeflow",
+  "name": "SchemeFlow",
+  "headline": "Automating Government Approvals for Construction Projects",
+  "batch": "S24",
+  "description": "SchemeFlow uses AI to automate government approvals for construction projects.\r\n\nTwo brothers + high school friend, with great combo of skills: Mayor’s Chief of Staff, Arup construction engineer + AI software engineer.\r\n\nUsing LLMs to generate reports in minutes rather than months, and to scrape + parse complex local regulations.\r\n\nAlready generated over 10,000 pages of technical reports for over 400 construction projects, from car parks to hotels, housing to office buildings, with 97% time savings.\r\n\nStarted in the UK with 10x paid pilots with engineering companies such as Stantec and Royal Haskoning, now pivoted to focus on the US.\r\n\n$9B US opportunity (143k consultants x $64k/yr report-writing work), $23B worldwide.\r\n\nwww.schemeflow.com",
+  "activity_status": "Active",
+  "website": "https://www.schemeflow.com",
+  "founded_date": 2023.0,
+  "team_size": 4.0,
+  "location": "San Francisco",
+  "group_partner": "Tom Blomfield",
+  "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:documents; industry:generative-ai; industry:govtech; industry:construction; industry:proptech; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Andrew Browning, CEO & Co-Founder",
+      "description": "CEO & Co-Founder: Automating Government Approvals for Construction Projects || Experience: Chief of Staff, Mayor's Office in Birmingham, UK || Consultant, Boston Consulting Group || Starred First, St. John's College, University of Cambridge || Founder & Chair of Trustees: King Lear Arts: Active Participation in the Arts for Seniors",
+      "linkedin": "https://linkedin.com/in/browningandrew"
+    },
+    {
+      "name": "Jonny Browning, Founder",
+      "description": "CTO & Founder @ SchemeFlow | Automating Government Approvals for Construction Projects",
+      "linkedin": "https://linkedin.com/in/jonnybrowning"
+    },
+    {
+      "name": "James Griffith, Founder",
+      "description": "COO & Co-Founder of SchemeFlow.\nAutomating Government Approvals for Construction Projects.\nEx-Arup Engineer, licensed in California, UK & Europe.\nUniversity of Cambridge Engineering - First Class.",
+      "linkedin": "https://linkedin.com/in/griffithjames"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='Your browser does not support the video tag. \\n# Draft Technical Reports with AI\\nFor Engineers & Built Environment Professionals\\nTRANSPORTATION ENVIRONMENT GEOTECHNICAL WATER HERITAGE & PRESERVATION AIR QUALITY NOISE & VIBRATION WASTE LANDSCAPE & VISUAL IMPACT ECONOMIC DEVELOPMENT GRANT WRITING BUSINESS CASE PUBLIC SECTOR TRANSPORTATION\\nYour browser does not support the video tag. \\nSchemeFlow Time Savings\\nTime taken \\n100%\\nTime saved \\n0%\\n×\\nWe and selected third parties use cookies or similar technologies for technical purposes and, with your consent, for functionality, experience, measurement and marketing (personalised ads). You can freely give, deny, or withdraw your consent at any time.\\nPress again to continue 0/1\\nEdit Preferences\\nAccept\\n' markdown_with_citations='Your browser does not support the video tag. \\n# Draft Technical Reports with AI\\nFor Engineers & Built Environment Professionals\\nTRANSPORTATION ENVIRONMENT GEOTECHNICAL WATER HERITAGE & PRESERVATION AIR QUALITY NOISE & VIBRATION WASTE LANDSCAPE & VISUAL IMPACT ECONOMIC DEVELOPMENT GRANT WRITING BUSINESS CASE PUBLIC SECTOR TRANSPORTATION\\nYour browser does not support the video tag. \\nSchemeFlow Time Savings\\nTime taken \\n100%\\nTime saved \\n0%\\n×\\nWe and selected third parties use cookies or similar technologies for technical purposes and, with your consent, for functionality, experience, measurement and marketing (personalised ads). You can freely give, deny, or withdraw your consent at any time.\\nPress again to continue 0/1\\nEdit Preferences\\nAccept\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**SchemeFlow: Revolutionizing Construction Project Approvals**\n\nFounded in 2023 and part of Y Combinator's Batch S24, SchemeFlow is on a mission to streamline the often convoluted process of gaining government approvals for construction projects. At its core, SchemeFlow harnesses the power of AI to drastically cut down the time it takes to generate the necessary technical reports—reducing what once required months to mere minutes.\n\nThe company was born from the partnership of two brothers and a high school friend, each bringing a unique skill set: a Mayor’s Chief of Staff skilled in navigating bureaucracy, a construction engineer from Arup, and an AI software engineer. This trifecta combines industry knowledge with technical prowess, forming the ideal team to tackle the complexities of construction regulations.\n\nUsing advanced Large Language Models (LLMs), SchemeFlow has already accomplished the impressive feat of generating over 10,000 pages of report documentation for more than 400 projects—including car parks, hotels, and office buildings. The resulting time savings are staggering: up to 97%. This efficiency is attractive not just for construction firms, but for the consultants who aid them.\n\nInitially launched in the UK, SchemeFlow quickly pivoted to target the U.S. market, where there’s a staggering $9 billion opportunity. There are approximately 143,000 consultants currently involved in report writing, which SchemeFlow can significantly benefit, or there’s an even larger $23 billion potential on a global scale.\n\nLocated in San Francisco with a compact team of four, SchemeFlow is making waves in the domains of generative AI, government technology (govtech), and proptech. They’re currently engaged in automating the drafting of crucial technical reports for various sectors such as transportation, environment, and economic development.\n\nWith a clear focus and ambitious plans, SchemeFlow stands ready to transform the landscape of construction project approvals. If you’re interested in learning more, you can visit their website at [www.schemeflow.com](https://www.schemeflow.com). With key partners like Tom Blomfield and a passion for impactful technology, keep an eye on SchemeFlow—they're poised to change the game."
+}

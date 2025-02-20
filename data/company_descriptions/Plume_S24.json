@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/plume",
+  "name": "Plume",
+  "headline": "Home energy renovation copilot",
+  "batch": "S24",
+  "description": "Plume is an energy renovation copilot that helps real estate agents and contractors with energy audits and renovation planning.\r\n\nOur first customer, a real estate marketplace, uses Plume to provide potential buyers with precise energy renovation scenarios, cutting the time to sell a house in half.\r\n\nUsing thermodynamic models, public housing data, satellite imagery and AI,  Plume enables remote energy assessments of any building.\r\n\nIn Europe alone, 35 million homes face regulatory pressure to be retrofitted within the next 5 years, and 220 million over the next 25 years.\r\n\nPlume leverages the founding team's unique expertise: Marc, a Harvard satellite researcher; JB, a thermodynamics engineer; and Edouard, a sales and product builder from Palantir.",
+  "activity_status": "Active",
+  "website": "http://www.plumefinder.com",
+  "founded_date": 2024.0,
+  "team_size": 3.0,
+  "location": "Paris, France",
+  "group_partner": "David Lieb",
+  "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; industry:real-estate; industry:climate; industry:renewable-energy; industry:climatetech",
+  "founders": [
+    {
+      "name": "Edouard Labarthe, Founder",
+      "description": "Unlocking Home Energy Efficiency  \n\nMechanical engineer and Data scientist - Lived in 8 different countries across the world. Built a first company at uni and grew it to 200k ARR. Spent the last 2 year at Palantir building software for energy companies.",
+      "linkedin": "https://www.linkedin.com/in/edouard-labarthe/"
+    },
+    {
+      "name": "Marc Watine, Founder",
+      "description": "Accelerating Energy Transition.\nComputer Scientist + AI from ETH Zürich.\nResearcher in Climate & Remote Sensing at Harvard / UN",
+      "linkedin": "https://www.linkedin.com/in/marc-watine/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"![](http://assets.squarespace.com/universal/images-v6/parking-page/black-grid.jpg)\\n[ ![](http://assets.squarespace.com/universal/images-v6/damask/logo-light.svg) ](http://www.plumefinder.com/<http:/www.squarespace.com>)\\n# plumefinder.com\\nWe're under construction.Please check back for an update soon. \\n\" markdown_with_citations=\"![](http://assets.squarespace.com/universal/images-v6/parking-page/black-grid.jpg)\\n ![⟨1⟩ ](http://www.plumefinder.com/<http:/www.squarespace.com>)\\n# plumefinder.com\\nWe're under construction.Please check back for an update soon. \\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ http://assets.squarespace.com/universal/images-v6/damask/logo-light.svg:  ![\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Plume**\n\nFounded in 2024 and hailing from Paris, France, Plume is on a mission to become the go-to energy renovation copilot for the real estate sector. With a small but mighty team of three, including a thermodynamics engineer and a seasoned sales expert from Palantir, Plume harnesses advanced technology to tackle the pressing issue of energy efficiency in buildings.\n\n**What They Do:**\n\nPlume works primarily with real estate agents and contractors to streamline energy audits and renovation planning. Their innovative platform allows for remote energy assessments using a blend of thermodynamic models, public housing data, satellite imagery, and artificial intelligence. This unique approach not only simplifies the renovation process but also empowers real estate listings by providing potential buyers with tailored energy renovation scenarios. As a result, Plume's first customer, a real estate marketplace, has slashed their property selling time by half.\n\n**The Bigger Picture:**\n\nAs Europe faces an urgent deadline—35 million homes needing retrofitting in the next five years, and a staggering 220 million in the next 25—Plume is positioned to play a pivotal role in navigating this landscape. Their mission aligns perfectly with the growing focus on climate tech, renewable energy, and sustainable real estate practices.\n\n**Backing and Support:**\n\nPlume is part of the prestigious Y Combinator Batch S24, which provides them with invaluable mentorship and resources to further develop their solution. Their roster includes notable group partner David Lieb, promising additional expertise and connections.\n\n**In Summary:**\n\nPlume is more than just a product; it's a smart, data-driven approach to a pressing global issue—energy efficiency in homes. With a blend of expert knowledge, cutting-edge technology, and a clear vision, Plume is paving the way for the future of residential energy renovations. \n\nFor more details, you can visit their under-construction website at [plumefinder.com](http://www.plumefinder.com). \n\nIn a world increasingly focused on sustainability, the efforts of companies like Plume couldn’t be more crucial."
+}

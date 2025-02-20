@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/selera-medical",
+  "name": "Selera Medical",
+  "headline": "One-time, device-based treatment for heart failure",
+  "batch": "W24",
+  "description": "Heart failure impacts millions worldwide and is associated with poor quality of life and high mortality rates. Because the heart cannot pump efficiently, fluids buildup around the body. Fluid overload is the main driver behind patient symptoms (shortness of breath, fatigue, chest pain, etc.) and hospitalizations. Our minimally invasive device leverages the body's innate fluid management system to offload trapped fluid and prevent subsequent rounds of buildup. The one-time procedure has sustained effect -- keeping patients healthier, happier, and out of the hospital.",
+  "activity_status": "Active",
+  "website": "http://www.seleramedical.com",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "Mountain View",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:medical-devices; industry:healthcare; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Stacie Arechavala, Founder",
+      "description": "Founder & CEO of Selera Medical, developing paradigm-shifting technology for heart failure patient management. Previous experience includes Innovation Fellow at Stanford Biodesign, CoS running internal operations at a healthtech startup, R&D engineer developing cardiovascular devices at Medtronic. Masters in biomedical engineering and engineering management from Duke.",
+      "linkedin": "https://www.linkedin.com/in/staciearechavala/"
+    },
+    {
+      "name": "Kevin Bui, Founder",
+      "description": "Kevin is co-founder and CTO of Selera Medical, a medical device startup developing a minimally invasive therapy for congestive heart failure. Prior to this, he was an Innovation Fellow in the Stanford Byers Center for Biodesign. Kevin received his undergraduate bioengineering degree from Stanford and his PhD in bioengineering from the University of Pennsylvania, where he conducted research at the intersection of robotics, stroke rehabilitation, and cognitive neuroscience.",
+      "linkedin": "https://linkedin.com/in/kevindbui"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"![](http://assets.squarespace.com/universal/images-v6/parking-page/black-grid.jpg)\\n[ ![](http://assets.squarespace.com/universal/images-v6/damask/logo-light.svg) ](http://www.seleramedical.com/<http:/www.squarespace.com>)\\n# seleramedical.com\\nWe're under construction.Please check back for an update soon. \\n\" markdown_with_citations=\"![](http://assets.squarespace.com/universal/images-v6/parking-page/black-grid.jpg)\\n ![⟨1⟩ ](http://www.seleramedical.com/<http:/www.squarespace.com>)\\n# seleramedical.com\\nWe're under construction.Please check back for an update soon. \\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ http://assets.squarespace.com/universal/images-v6/damask/logo-light.svg:  ![\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Selera Medical: A New Era in Heart Failure Treatment**\n\nFounded in 2023 and located in the heart of Mountain View, Selera Medical is a pioneering company in the medical devices sector, emerging from Y Combinator’s Batch W24. With a mission to revolutionize heart failure treatment, they are focused on a one-time, device-based solution aimed at alleviating the burden of this widespread condition.\n\nHeart failure is not just a statistic; it affects millions globally, significantly diminishing quality of life and contributing to high mortality rates. This is primarily due to the heart’s inability to pump effectively, leading to fluid buildup in the body. Symptoms like shortness of breath, fatigue, and chest pain result in frequent hospital visits, creating a pressing need for innovative solutions.\n\nEnter Selera Medical. Their cutting-edge, minimally invasive device harnesses the body’s natural fluid management capabilities. By offloading trapped fluid in a single procedure, patients can experience a sustained improvement in health, keeping them out of the hospital and enhancing their overall quality of life. \n\nWith a compact yet dedicated team of two, Selera Medical is taking a bold step in the healthcare landscape. They are on a mission to not just treat symptoms, but to tackle the root causes of fluid overload in heart failure patients. Although their website is currently under construction, anticipation is building for what they will deliver next.\n\nIn summary, Selera Medical embodies innovation and hope for heart failure patients. They're not just another company in the bustling San Francisco Bay Area; they're at the forefront of changing lives with a practical, effective, and sustainable medical solution. Keep an eye on them—their developments could signify a turning point in how we approach heart failure management.\n\nFor more information, you can visit their website at [seleramedical.com](http://www.seleramedical.com)."
+}

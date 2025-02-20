@@ -1,0 +1,42 @@
+{
+  "links": "https://www.ycombinator.com/companies/remade",
+  "name": "Remade",
+  "headline": "Using AI to hyper-personalize videos for marketplaces",
+  "batch": "S24",
+  "description": "Remade uses AI to scale hyper-personalized video generation for marketplaces. Our first customer, Scentbird, a midmarket fragrance marketplace uses Remade to create engaging TikTok ad hooks. We are a team of 4 Cambridge AI hackers with publications in CVPR, the largest Computer Vision conference, and the Lancet Journal, the most respected medical journal globally. Our ARR grew 83% last week from 18k to 33k with an additional 17k pilot revenue with Rappi and eFood, which will take us to a 650k contracted ARR by EoQ. We are building out a research-arm to develop proprietary tech, fusing recommendation algorithms with video models to deliver hyper-personalised videos that increase conversion.",
+  "activity_status": "Active",
+  "website": "https://www.remade.ai/",
+  "founded_date": 2024.0,
+  "team_size": 4.0,
+  "location": "San Francisco",
+  "group_partner": "Tom Blomfield",
+  "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:social-media; industry:marketing; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Alex Matthews, Founder",
+      "description": "Alex is the CEO of Remade, a company enabling businesses to automate their entire visual content marketing using AI. Remade's web application transforms basic, low quality photos of any product into professional hooks.\n\nAlex holds a BA in Computer Science from the University of Cambridge. He has contributed to earning £700k+ in revenue/ funding in past ventures.",
+      "linkedin": "https://www.linkedin.com/in/alex-matthews-1b282918b/"
+    },
+    {
+      "name": "Christos Antonopoulos, Founder",
+      "description": "Christos Antonopoulos is the co-founder of Remade. Remade transforms basic, low quality photos of any product into professional  advertisement videos . He holds a BA and MEng in Information & Computer Engineering from the University of Cambridge and has research contributions in Machine Learning for Medical Diagnosis and Natural Language Interfaces.",
+      "linkedin": "https://www.linkedin.com/in/christos-antonopoulos-6534031b0/"
+    },
+    {
+      "name": "Blendi Bylygbashi, Founder",
+      "description": "Blendi is the co-founder of Remade, a company focused on creating professional videos using AI. He holds a BA and an MEng in Information and Computer Engineering from the University of Cambridge. At Transport for London, he developed deep learning models for CCTV event detection. His research on intra-cranial hypertension was published in the Lancet Neurology Journal. He also managed the BlenDigi YouTube channel, growing it to almost 1 million subscribers and generating $200,000 in ad revenue.",
+      "linkedin": "https://www.linkedin.com/in/blendibylygbashi/"
+    },
+    {
+      "name": "Rehan Sheikh, Founder",
+      "description": "Rehan is the CTO and co-founder of Remade, a company focused on professional photography using diffusion models. He holds a BA and MEng in Information & Computer Engineering from the University of Cambridge!",
+      "linkedin": "https://www.linkedin.com/in/rehan-sheikh-1102"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='@$#@$#@b. %%%%$#@$# $#@b d$#@ d$#@$ $#@$#\\n' markdown_with_citations='@$#@$#@b. %%%%$#@$# $#@b d$#@ d$#@$ $#@$#\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Remade**\n\n**Founded**: 2024  \n**Location**: San Francisco  \n**Team Size**: 4 employees  \n**Y Combinator Batch**: S24  \n\n### Mission\nRemade aims to revolutionize video marketing by using **AI to hyper-personalize video content** for marketplaces. The idea is simple but powerful—generate engaging, tailored videos that resonate with specific audiences, thereby improving conversion rates.\n\n### Progress and Milestones\n- **First Customer**: Scentbird, a notable fragrance marketplace, leverages Remade to craft catchy TikTok ads that grab attention.\n- **Rapid Growth**: The company recently saw an **83% increase in Annual Recurring Revenue (ARR)**, skyrocketing from $18k to $33k in just a week. There's also an additional $17k from pilot programs with Rappi and eFood, setting them on a promising trajectory towards a projected **$650k contracted ARR by the end of the quarter**.\n\n### Technology and Expertise\nRemade is not just about ambitions; it’s backed by a solid foundation. The founding team consists of **Cambridge AI experts** with notable publications in prestigious venues like CVPR and The Lancet. They plan to establish a **research arm** focused on developing proprietary technology that marries recommendation algorithms with video modeling for even more effective personalization.\n\n### Vision for the Future\nAs Remade builds its capabilities, it’s set on creating hyper-personalized video experiences that not only engage users but also convert views into real sales. They are carving out a niche in a space that combines artificial intelligence with social media marketing, making them a contender in the B2B SaaS market.\n\n### Tagline\n**Innovating Video Personalization**: Where AI meets marketing creativity.\n\nFor more details about their offering, visit their website: [Remade.ai](https://www.remade.ai/)\n\n### Overview\nIn a nutshell, Remade is a startup that stands at the intersection of AI and video marketing, destined to make a mark in the crowded marketplace landscape. With a strong technical team and impressive early traction, they are one to watch in the coming years."
+}

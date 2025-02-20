@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/shepherd-2",
+  "name": "Shepherd",
+  "headline": "Every student's personalized learning assistant",
+  "batch": "W24",
+  "description": "Shepherd is a Learning assistant for schools to provide to their students. Shepherd seamlessly combines AI-enabled self-study, affordable tutoring, peer collaboration, and analytics for a personalized learning experience that is both efficient and effective.",
+  "activity_status": "Active",
+  "website": "https://www.shepherd.study",
+  "founded_date": 2023.0,
+  "team_size": 5.0,
+  "location": null,
+  "group_partner": "Garry Tan",
+  "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:ai-enhanced-learning; industry:artificial-intelligence; industry:education; industry:generative-ai; industry:marketplace",
+  "founders": [
+    {
+      "name": "Moyosoreoluwa Orekoya, Founder",
+      "description": "Learning what I don't know to do what I can't do. Curious.",
+      "linkedin": "https://linkedin.com/in/moyo-orekoya"
+    },
+    {
+      "name": "Marcella Imoisili, Founder",
+      "description": "Building tools for smarter study.",
+      "linkedin": "https://linkedin.com/in/imarcella"
+    },
+    {
+      "name": "Kehinde Williams, Founder",
+      "description": "Helping people learn better.",
+      "linkedin": "https://linkedin.com/in/kehinde-williams"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![shepherd-logo](https://www.shepherd.study/images/logo-blue.svg)\\nWelcome to Shepherd. Please wait while we load your dashboard\\n' markdown_with_citations='![shepherd-logo⟨1⟩]\\nWelcome to Shepherd. Please wait while we load your dashboard\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.shepherd.study/images/logo-blue.svg: shepherd-logo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Shepherd: Your Personalized Learning Assistant**\n\nFounded in 2023, Shepherd is a cutting-edge educational startup that's part of the Y Combinator Batch W24. The mission is simple yet powerful: to be every student’s personalized learning assistant. It originally started as a tool for schools, but it’s quickly evolved into a comprehensive platform that offers students a multifaceted learning experience.\n\nAt the core of Shepherd's offering is a blend of AI-enabled self-study resources, affordable tutoring, peer collaboration, and robust analytics—all designed to tailor the learning journey for each student. This means less time struggling with concepts and more time excelling in learning.\n\nWith a small but dedicated team of five and guided by Group Partner Garry Tan, Shepherd is positioned to make a significant impact in the education sector. They leverage advanced technologies tagged under terms like 'AI-enhanced learning,' 'artificial intelligence,' and 'generative AI' to create solutions that not only support students but also empower educators.\n\nIn practice, Shepherd is currently in the process of building a robust online platform that simplifies access to personalized education. \n\nFor more information, visit their website: [Shepherd Study](https://www.shepherd.study).\n\nSo if you’re a student looking to take charge of your learning or a school seeking to enrich your resources, Shepherd is definitely worth a look. The future of education is here, and it’s personalized."
+}

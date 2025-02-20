@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/modern-realty",
+  "name": "Modern Realty",
+  "headline": "AI Real Estate Brokerage",
+  "batch": "S24",
+  "description": "The future of homebuying.",
+  "activity_status": "Active",
+  "website": "https://modernrealty.io",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Nicolas Dessaigne",
+  "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:real-estate; industry:consumer; industry:consumer-products; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Raffi Isanians, Founder",
+      "description": "AI realtor for home buyers. The recent NAR settlement and AI advancements have created a unique opportunity in real estate. Our AI-powered tools and services improve the homebuying experience and give clients an edge over the competition.",
+      "linkedin": "https://www.linkedin.com/in/raffi-isanians/"
+    },
+    {
+      "name": "Raymond Xu, Founder",
+      "description": "CTO at Modern Realty. Ex-Google AI engineer, specializing in RAG (Google Assistant, Google Document AI).",
+      "linkedin": "https://linkedin.com/in/raymond-y-xu"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![](https://images.typeform.com/images/bGvQQfz2GUrt)\\n' markdown_with_citations='![](https://images.typeform.com/images/bGvQQfz2GUrt)\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Modern Realty: Revolutionizing Homebuying with AI**\n\nFounded in 2024 and based in San Francisco, Modern Realty is on a mission to redefine the homebuying experience through artificial intelligence. As a part of the Y Combinator Batch S24, this startup represents the forefront of innovation in real estate.\n\n**What They Do**  \nModern Realty sees itself as the 'future of homebuying.' While their team currently consists of just two employees, their ambitions are vast. By employing AI technologies, they aim to streamline the home-buying process, making it more efficient and consumer-friendly. The essence of their work is harnessing the power of AI to offer better services and solutions in the real estate market.\n\n**Key Players**  \nNicolas Dessaigne serves as the Group Partner, guiding the company with his established expertise and insights. This leadership aims to drive Modern Realty’s vision forward in a highly competitive landscape.\n\n**Why It Matters**  \nWith implications for consumers across several domains—homebuyers, sellers, and even renters—Modern Realty is poised to make a significant impact. As they navigate the intersection of technology and real estate, they contribute to a smarter, more responsive market.\n\nIf you're intrigued by how technology can transform traditional industries, Modern Realty’s approach to AI in real estate is definitely one to watch.\n\nFor more information or to see what they're up to, check them out at [modernrealty.io](https://modernrealty.io).\n\n**Tags**: Artificial Intelligence, Real Estate, Consumer Products, San Francisco Bay Area."
+}

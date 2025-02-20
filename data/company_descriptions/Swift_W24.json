@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/swift-2",
+  "name": "Swift",
+  "headline": "Embedded finance for online merchants",
+  "batch": "W24",
+  "description": "Swift is building instant international payments to replace the archaic correspondent banking infrastructure. Our first product is an all-in-one embedded finance platform for online merchants.",
+  "activity_status": "Active",
+  "website": "https://joinswift.app",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:payments; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "David Lalor, Founder",
+      "description": "Co-Founder/CEO at Swift. Before Swift, I started my first company, Virra, at 16 and did half a million in annual revenue, studied computer science and economics at Stanford (before dropping out to start Swift), and worked as an engineer at Intercom. From a small village in Ireland.",
+      "linkedin": "https://linkedin.com/in/davidlalor5"
+    },
+    {
+      "name": "Rakeeb Hossain, Founder",
+      "description": "Co-Founder/CTO at Swift. Before Swift, I studied computer science and math at the University of Waterloo, worked at Snap and Tesla Autopilot, and built brokerage infrastructure at Finary. I also built Memsnap, which was accepted to ASPLOS 2024 (https://dl.acm.org/doi/abs/10.1145/3620666.3651334).",
+      "linkedin": "https://linkedin.com/in/rakeebhossain"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![logo](https://joinswift.app/_next/image?url=%2FLogo.png&w=256&q=75)Swift](https://joinswift.app/</>)\\n# Backed by Y Combinator.\\n[Book a demo](https://joinswift.app/<https:/cal.com/swift-finance/demo>)[Login](https://joinswift.app/<https:/accounts.joinswift.app/sign-in>)\\n' markdown_with_citations='![logo⟨1⟩Swift](https://joinswift.app/</>)\\n# Backed by Y Combinator.\\nBook a demo⟨2⟩Login⟨3⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://joinswift.app/_next/image?url=%2FLogo.png&w=256&q=75: ![logo\\n⟨2⟩ https://joinswift.app/<https:/cal.com/swift-finance/demo>: Book a demo\\n⟨3⟩ https://joinswift.app/<https:/accounts.joinswift.app/sign-in>: Login\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Swift: Revolutionizing Payments for Online Merchants**\n\nFounded in 2023 and part of Y Combinator's Batch W24, Swift is on a mission to embed finance seamlessly into the world of online retail. Based in San Francisco, Swift's ultimate goal is to modernize international payments for online merchants by replacing the outdated correspondent banking model that has plagued global transactions for far too long.\n\nAt its core, Swift offers an all-in-one embedded finance platform, designed to facilitate instant international payments for merchants. This not only enhances the speed of transactions but also simplifies the financial processes that merchants must navigate.\n\nDespite being a small team of just two, Swift is backed by the powerful network of Y Combinator, a significant boost for any startup aiming to make waves in the fintech space. They have a clear focus on the growing needs of online retailers, placing them strategically within the fintech and payments sectors, especially in the dynamic San Francisco Bay Area.\n\nYou can check out their platform and get a feel for their offerings by visiting their website at [joinswift.app](https://joinswift.app). If you're interested in seeing their solutions firsthand, there's an option to book a demo right on their site.\n\nIn essence, Swift is not just another fintech startup; they're charting a course towards a more efficient and integrated financial future for online merchants everywhere."
+}

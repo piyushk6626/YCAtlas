@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/oki",
+  "name": "Oki",
+  "headline": "AI Insights to auto track projects and boost engineering productivity",
+  "batch": "W25",
+  "description": "Oki unifies Slack, Github, and every engineering workflow into an AI-driven dashboard, so leaders can track progress, optimize resources, and boost productivity.",
+  "activity_status": "Active",
+  "website": "https://",
+  "founded_date": 2025.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; industry:b2b; industry:enterprise; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Luofei Chen, Founder",
+      "description": "Happy to chat! chenluofei@gmail.com\n\nco founder and ceo at Oki\nUC Berkeley M.E.T. - dual degree in Engineering and Business",
+      "linkedin": "https://www.linkedin.com/in/luofei-c/"
+    },
+    {
+      "name": "Aayush Tyagi, Founder",
+      "description": "Co founder for Oki - we're building an interface that lets eng leaders automatically see how their projects are tracking and how their teams are doing.\n\nPreviously worked as an Android dev on the options team for 5 years at Robinhood and a bit at a few other companies, and was EECS at Berkeley before that. Feel free to reach out to me about anything!",
+      "linkedin": "https://www.linkedin.com/in/aayushtyagi"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "Oki is a promising startup founded in 2025 that's shaking up the engineering productivity space with an innovative approach. Based in the San Francisco Bay Area, Oki aims to transform how engineering teams manage their projects by integrating various tools like Slack and GitHub into a single, AI-driven dashboard. This enables leaders to effectively track progress, allocate resources, and ultimately enhance productivity across their teams.\n\nThe mission at Oki is straightforward yet powerful: to deliver AI insights that automatically track projects and help boost engineering efficiency. In a world where multitasking often leads to chaos, Oki's solution is designed to streamline workflows, making project management not just easier, but smarter. \n\nOki is currently in Y Combinator's W25 batch, which adds a layer of credibility and support to its mission. With a lean team of just two employees, Oki shows that you can have a big impact with a small crew, especially when there's clear vision and backing from influential partners like Harj Taggar.\n\nAs it's tagged with keywords like 'SaaS', 'B2B', 'enterprise', and 'AI', Oki stands at the intersection of critical tech trends. It's evident that their vision is not just to enhance workflows but to redefine them, paving the way for a future where engineering teams can operate at their best without the typical constraints of project management. \n\nFor those intrigued by the intersection of AI and engineering productivity, Oki presents a compelling case to watch as they grow. You can find more at their website, where they’ll surely share more about their journey ahead."
+}

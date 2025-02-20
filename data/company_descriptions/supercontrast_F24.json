@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/supercontrast",
+  "name": "supercontrast",
+  "headline": "AI Co-Pilot for Design",
+  "batch": "F24",
+  "description": "At Hive we worked on a product called Gencraft, an ai art generator we ramped from 0 to $1M ARR in 6 months. This inspired us to build supercontrast, an AI Copilot which empowers anyone to create and refine high quality designs and assets.",
+  "activity_status": "Active",
+  "website": "https://supercontrast.com/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "David Lieb",
+  "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:machine-learning; industry:design; industry:design-tools; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Carter McClellan, Founder",
+      "description": "CEO at supercontrast. Previously MLE/ Tech Lead at Hive AI",
+      "linkedin": "https://www.linkedin.com/in/carter-mcclellan/"
+    },
+    {
+      "name": "Shravan Kumaran, Founder",
+      "description": "CTO at supercontrast, an AI copilot for creating designs and assets. Previously worked on AI asset generation for video games at Google Stadia, and developed Gencraft at Hive, an AI art generation tool that went from 0 to over $1M ARR in 6 months.",
+      "linkedin": "https://www.linkedin.com/in/shravan-kumaran-7b2b80123/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='Coming Soon\\n[Join the Waitlist](https://supercontrast.com/<http:/eepurl.com/i5qb2Q>)\\n' markdown_with_citations='Coming Soon\\nJoin the Waitlist⟨1⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://supercontrast.com/<http:/eepurl.com/i5qb2Q>: Join the Waitlist\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Supercontrast is a fresh face in the design tech space, having been founded in 2024 and based out of San Francisco. With a team of just two, their ambition is anything but small—they're on a mission to create an AI Co-Pilot that empowers users to craft top-notch designs and assets with ease.\n\nThe seed for Supercontrast was planted during their time at Hive, where they launched an AI art generator called Gencraft. Remarkably, they scaled Gencraft from zero to a million dollars in annual recurring revenue in just six months. This impressive feat fired up their motivation to develop Supercontrast further.\n\nCurrently incubated in the Y Combinator Batch F24, Supercontrast is positioned at the intersection of machine learning and design, tapping into what promises to be a booming market. The platform is poised for a rollout, as indicated by their “Coming Soon” notice on their website, which also invites interested users to join their waitlist.\n\nWith David Lieb as their Group Partner, Supercontrast is not just another startup; it’s a bold move in an industry that continuously begs for innovative tools. If you're keen to explore the future of design with AI, be sure to check out their website at [supercontrast.com](https://supercontrast.com/) and get on the waitlist. It's a project worth keeping an eye on."
+}

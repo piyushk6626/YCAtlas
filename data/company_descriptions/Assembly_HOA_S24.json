@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/assembly-hoa",
+  "name": "Assembly HOA",
+  "headline": "AI-enabled HOA Management Company",
+  "batch": "S24",
+  "description": "We help HOAs manage their communities in a modern and transparent way. HOA boards choose Assembly to replace their existing management company, ensuring excellent service and clear visibility into their HOA’s finances and operations. With Assembly, community priorities are always addressed, and homeowners can easily understand what their HOA is doing and how their monthly dues are being used.\r\n\nOur mission is to create turnkey communities and protect property values through transparent, efficient, and proactive management. By combining top industry expertise with the latest in AI and fintech, we provide real-time financial insights, strategic community planning, and automated operations.\r\n\nLike many homeowners, Shreyas and Allen experienced frustrations with HOAs. Our investigation revealed that most HOA management companies are outdated mom-and-pop operations nearing retirement, resistant to adopting new technology. Furthermore, these companies often prioritize relationships with vendors and banks over the interests of the communities they serve, leading to misaligned incentives. Realizing this, we knew that to achieve our mission of fixing HOAs, Assembly HOA had to be vertically integrated.\r\n\nWe are live with over 39 communities in Greater Los Angeles and SF Bay Area.",
+  "activity_status": "Active",
+  "website": "https://assemblyhoa.com",
+  "founded_date": 2022.0,
+  "team_size": 6.0,
+  "location": "Los Angeles, CA",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:fintech; industry:real-estate; industry:housing; industry:proptech; location:los-angeles",
+  "founders": [
+    {
+      "name": "Allen Liou, Founder",
+      "description": "Allen has a background in real estate and startups. He worked as a real estate agent for several years, managing client relationships and transactions. In startups, he specialized in customer success and implementation, focusing on improving client experiences and efficiency.\n\nGrowing up in a townhome community, Allen has firsthand insight into HOA governance challenges and opportunities. This perspective, combined with his expertise, drives his passion for creating innovative HOA management.",
+      "linkedin": "https://linkedin.com/in/allenliou1"
+    },
+    {
+      "name": "Shreyas Bharadwaj, Founder",
+      "description": "Shreyas has a strong background in AI/ML, having worked as a data scientist at startups and most recently at the RAND Corporation, where he developed experimental ML products for the DoD.\n\nHis journey with HOAs began with his own condo ownership, where encountering massive inefficiencies in community operations led him to join the HOA board. At Assembly, Shreyas leverages his technical expertise and passion for safeguarding homeowners' investments to build the next-generation of HOA management.",
+      "linkedin": "https://linkedin.com/in/shreyas-b-732b11252"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Assembly HOA: Modern Management for Communities**\n\nFounded in 2022 and part of the Y Combinator Batch S24, Assembly HOA is poised to redefine how homeowners associations (HOAs) are managed. Located in Los Angeles, CA, with a lean team of six, the company merges artificial intelligence with fintech to create a transparent and efficient management model for communities.\n\n**Mission and Approach**\n\nAssembly HOA's mission is clear: to enhance property values and foster vibrant community living through efficient, proactive management. They aim to replace the outdated \"mom-and-pop\" HOA management firms, which often resist new technologies and prioritize vendor relationships over community needs. This transition not only aims to provide excellent service but also to ensure that homeowners gain visibility into their HOA's operations and financials.\n\nBy leveraging AI, Assembly HOA offers real-time financial insights and streamlined community planning, ensuring that each dollar of homeowners' dues is used effectively. The company’s approach is both data-driven and community-centric, empowering boards and homeowners alike to address issues transparently.\n\n**Current Footprint**\n\nToday, Assembly HOA has successfully launched its services in over 39 communities across Greater Los Angeles and the San Francisco Bay Area. This operational footprint underscores their commitment to modernizing HOA management and highlights their growth potential in a market ripe for innovation.\n\n**Vision for the Future**\n\nThe founders, Shreyas and Allen, deeply understand the common frustrations homeowners face with traditional HOA management. With their vertical integration strategy, they aim to fix these inefficiencies, making communities run more smoothly while keeping the needs of residents at the forefront.\n\nTheir innovative work in the intersection of artificial intelligence, fintech, and real estate highlights Assembly HOA’s potential to revolutionize the HOA landscape. Homeowners looking for a more modern and accountable approach to community management might just find their answer with Assembly.\n\nFor more information or to explore their services, you can visit their website at [assemblyhoa.com](https://assemblyhoa.com)."
+}

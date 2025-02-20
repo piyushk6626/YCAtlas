@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/asteroid",
+  "name": "Asteroid",
+  "headline": "Mission CriticalÂ Browser AgentsÂ at Scale",
+  "batch": "W25",
+  "description": "Asteroid builds and host browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations.",
+  "activity_status": "Active",
+  "website": "https://asteroid.ai",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:aiops; industry:developer-tools; industry:generative-ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Joe Hewett, Founder",
+      "description": "Building the infrastructure to deploy agentic systems at scale reliably\n\nI have designed and deployed LLM-based systems for fighting cybercrime that are operating in the wild, disrupting $100m+ in fraud payments anually",
+      "linkedin": "https://www.linkedin.com/in/joehewett/"
+    },
+    {
+      "name": "David MlÄoch, Founder",
+      "description": "Co-founder and CEO of Asteroid, a platform to deploy safe and reliable browser AI agents.\n\nI have a background in AI (Edinburgh University), autonomous agents (Co-founder and CTO of Trident AI), robotics (CTU, NTU, TAU) and space (EUSPA, SpaceKnow).",
+      "linkedin": "https://www.linkedin.com/in/davidmlcoch/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Asteroid is an ambitious startup that's setting its sights on revolutionizing how we interact with technology through browser AI agents. Founded in 2024 and nestled in the vibrant startup ecosystem of San Francisco, Asteroid is part of the prestigious Y Combinator Batch W25, which speaks volumes about its potential.\n\nTheir mission is straightforward yet profound: they aim to deploy mission-critical browser agents at scale. This means they're building and operating AI agents designed to handle complex tasks with a level of reliability akin to what enterprises expect. Asteroid doesn’t just throw these agents out into the wild; they ensure safety and accuracy through built-in guardrails, evaluations, and human oversight—features essential for handling millions of operations without hiccups.\n\nWith a tight-knit team of just two employees, the company exemplifies a lean startup approach. Their group partner, Harj Taggar, brings experience and expertise to guide their journey. Asteroid is tagged with keywords like ‘aiops’, ‘developer-tools’, and ‘generative-ai’, highlighting its focus on AI-driven solutions tailored for developers and businesses.\n\nFor anyone keen on the intersection of artificial intelligence and reliable browser interactions, Asteroid represents a fascinating step forward. Check them out at [asteroid.ai](https://asteroid.ai) to keep an eye on their progress. In the ever-evolving landscape of tech, this is a company to watch."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/melty",
+  "name": "Melty",
+  "headline": "Chat with a bunch of AIs at once",
+  "batch": "S24",
+  "description": "We're building Chorus, a Mac app that lets you chat with O1, Claude, Perplexity, Deepseek, and others on your desktop. Find the right model for each task, get more creativity without copy–pasting prompts, and get more reliability without manually comparing model outputs.",
+  "activity_status": "Active",
+  "website": "https://melty.sh",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:generative-ai; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Charlie Holtz, Founder",
+      "description": "Co-founder & CEO at Melty. \n\nPreviously led growth at Replicate, where I built apps with millions of users. Before that I was a quantitative dev at a team at Point72.\n\nI studied cognitive neuroscience at Brown, where I also played Ultimate Frisbee (and met my co-founder, Jackson).",
+      "linkedin": "https://www.linkedin.com/in/charlieholtz"
+    },
+    {
+      "name": "Jackson de Campos, Founder",
+      "description": "I came from the ML infrastructure team at Netflix, where I scaled inference for video understanding models across Netflix’s catalog. Now working on Melty, an AI chat app.",
+      "linkedin": "https://www.linkedin.com/in/jacksondecampos/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[ **Introducing Ambient Chat —** Chat anywhere on your Mac with an AI that can see your screen → Dismiss ](https://melty.sh/<https:/x.com/charliebholtz/status/1887547267038790087>)\\n# Melty\\n### _AI tools for weirdos and freaks._\\n[ ![](https://melty.sh/images/chorus-icon.png) Chorus ](https://melty.sh/<https:/chorus.sh>)\\nChat with multiple AI models at once.\\n[ ![](https://melty.sh/images/bartleby.png) Bartleby ](https://melty.sh/</bartleby>)\\nShare your screen with AI. \\n[ ![](https://melty.sh/images/logo.png) Melty ](https://melty.sh/<https:/github.com/meltylabs/melty>)\\nChat first code editor.\\n' markdown_with_citations=' **Introducing Ambient Chat —** Chat anywhere on your Mac with an AI that can see your screen → Dismiss ⟨1⟩\\n# Melty\\n### _AI tools for weirdos and freaks._\\n ![⟨2⟩ Chorus ](https://melty.sh/<https:/chorus.sh>)\\nChat with multiple AI models at once.\\n ![⟨3⟩ Bartleby ](https://melty.sh/</bartleby>)\\nShare your screen with AI. \\n ![⟨4⟩ Melty ](https://melty.sh/<https:/github.com/meltylabs/melty>)\\nChat first code editor.\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://melty.sh/<https:/x.com/charliebholtz/status/1887547267038790087>:  **Introducing Ambient Chat —** Chat anywhere on your Mac with an AI that can see your screen → Dismiss \\n⟨2⟩ https://melty.sh/images/chorus-icon.png:  ![\\n⟨3⟩ https://melty.sh/images/bartleby.png:  ![\\n⟨4⟩ https://melty.sh/images/logo.png:  ![\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Melty: The AI Conversation Hub for Mac Users**\n\nFounded in 2024 and hailing from the innovative ecosystem of Y Combinator's Batch S24, Melty is all about transforming the way we interact with artificial intelligence. Operating out of San Francisco and backed by a lean team of just two, Melty is geared toward those who love to harness the power of generative AI without the hassle of traditional tools.\n\n### **What’s Melty Up To?**\n\nAt the core of Melty’s mission is the desire to enable users to chat with multiple AI models simultaneously. The initial product, named **Chorus**, is a Mac application that lets users engage with an array of AI models—including O1, Claude, and Perplexity—all from their desktop. This innovative platform is designed to help users find the right AI for specific tasks, fostering creativity while eliminating the tedious need for copy-pasting prompts and manually sifting through outputs.\n\nMelty isn’t stopping with Chorus; they’ve rolled out features like **Ambient Chat**, which allows users to chat with an AI that can see and interact with their screen in real-time. This opens up a realm of possibilities for more intuitive and responsive AI interactions.\n\n### **More Than Just Chat**\n\nMelty also boasts tools like **Bartleby**, which lets users share their screen with an AI, enhancing collaborative efforts and efficiency. Additionally, their **Melty** chat-first code editor aims to streamline coding processes by integrating AI capabilities right into the development workflow.\n\n### **Why Melty?**\n\nMelty positions itself as an unorthodox tech company for what it self-describes as “weirdos and freaks” — those who thrive on the cutting edge of technology and creativity. In the ever-evolving landscape of generative AI, Melty stands out with its straightforward approach: providing tools that are not only functional but also inspire users to push the boundaries of how they think and create.\n\nTo explore more about their offerings, check out their website at [melty.sh](https://melty.sh).\n\nIn essence, Melty isn’t just another startup; it's a platform aimed at redefining your relationship with AI, making it accessible, engaging, and downright fun. The future looks bright for this small but mighty team pushing the boundaries of what AI can do on your Mac."
+}

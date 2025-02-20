@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/tiny",
+  "name": "Tiny",
+  "headline": "A new kind of ERP system for factories",
+  "batch": "F24",
+  "description": "At Tiny, we’re building a new kind of ERP system for factories where AI agents automate repetitive workflows. Made for the four million factories still primarily relying on Excel. LLMs now unlock their troves of siloed unstructured data. We see a massive opportunity to build a compound startup and, beyond that, tap into network effects to unlock just-in-time manufacturing across entire supply chains.",
+  "activity_status": "Active",
+  "website": "https://andtiny.com",
+  "founded_date": 2024.0,
+  "team_size": 3.0,
+  "location": "Singapore, Singapore",
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; industry:b2b; industry:workflow-automation; industry:manufacturing; industry:enterprise-software",
+  "founders": [
+    {
+      "name": "Louis de Valliere, Co-Founder and CEO",
+      "description": "Louis is the CEO and co-founder of Tiny. Previously, he co-founded and sold a startup to BitGo, one of the largest crypto custodians, where he later served as the VP of Design. Before that, Louis was the founding designer and front-end engineer at Vector, a logistics-tech company, and also held lead design and front-end engineering roles at Zenefits and Addepar. He holds a B.S. in Electrical and Computer Engineering from Carnegie Mellon University.",
+      "linkedin": "https://www.linkedin.com/in/ldevalliere/"
+    },
+    {
+      "name": "Edward Zhang, Co-Founder and CTO",
+      "description": "Ed is the CTO and co-founder of Tiny. Previously, he led the scaling of Apple’s Services API gateway from the ground up. Before that, he was a full-stack engineer at SaaS companies such as Zenefits and Addepar. He holds a B.S. in Computer Science from Carnegie Mellon University.",
+      "linkedin": "https://www.linkedin.com/in/edward-zhang-14685828/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[](https://andtiny.com/</>)\\nEnglish[Log in ](https://andtiny.com/</auth/log-in>)\\n![Factory](https://andtiny.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffactory.83a81832.jpg&w=3840&q=75)\\n# The modern agentic ERP\\nReduce costs, automate tedious tasks, and uncover valuable insights by streamlining your sales, procurement, and production processes—all in one place.\\nRequest demo\\n###### \\n© 2025 Tiny Tech Pte.Ltd.\\n[Privacy](https://andtiny.com/</privacy>)[Terms](https://andtiny.com/</terms>)Contact\\n© 2025 Tiny Tech Pte.Ltd.\\n' markdown_with_citations='[](https://andtiny.com/</>)\\nEnglishLog in ⟨1⟩\\n![Factory⟨2⟩]\\n# The modern agentic ERP\\nReduce costs, automate tedious tasks, and uncover valuable insights by streamlining your sales, procurement, and production processes—all in one place.\\nRequest demo\\n###### \\n© 2025 Tiny Tech Pte.Ltd.\\nPrivacy⟨3⟩Terms⟨4⟩Contact\\n© 2025 Tiny Tech Pte.Ltd.\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://andtiny.com/</auth/log-in>: Log in \\n⟨2⟩ https://andtiny.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffactory.83a81832.jpg&w=3840&q=75: Factory\\n⟨3⟩ https://andtiny.com/</privacy>: Privacy\\n⟨4⟩ https://andtiny.com/</terms>: Terms\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Tiny: Revolutionizing Factory Operations\n\nTiny, founded in 2024 and hailing from Singapore, is on a mission to transform the way factories operate. In a world where a staggering four million factories still rely on Excel, Tiny aims to build a new kind of ERP system that leverages AI agents to automate repetitive workflows. This isn’t just another software solution—it’s a rethink of how factories can utilize their data.\n\nFocusing on the significant opportunities presented by large language models (LLMs), Tiny taps into the hidden, siloed unstructured data that many manufacturers possess. By doing this, they are not just streamlining operations but also unlocking the capabilities of just-in-time manufacturing across entire supply chains—an essential evolution in the current landscape of enterprise software.\n\n### What Tiny Offers\n\nWith only three team members, Tiny is powered by the strategic guidance of Dalton Caldwell, their Group Partner at Y Combinator Batch F24. They are firmly positioned in the SaaS and B2B space, specializing in workflow automation tailored for manufacturing. Their platform promises to:\n\n- **Reduce Costs**: Optimize financial outlays through better resource management.\n- **Automate Tedious Tasks**: Allow staff to focus on strategic initiatives rather than repetitive workflows.\n- **Uncover Valuable Insights**: Streamline sales, procurement, and production processes all in one place to enhance decision-making.\n\nIn essence, Tiny serves as a modern agentic ERP, designed to offer manufacturers significant operational improvements.\n\n### Why Tiny Matters\n\nThe potential here is immense. By addressing the needs of a sector that's lagged in technological adoption, Tiny doesn’t just create a product; it fosters a community of connected manufacturers, potentially generating network effects that can reshape supply chains. Their tool is for factories ready to leap into a new era, powered by automation and intelligent data utilization.\n\nFor more on their vision and to request a demo, visit [Tiny's website](https://andtiny.com).\n\n### Conclusion\n\nTiny isn’t just a tech startup; it’s a catalyst for transformation in manufacturing. If they're able to execute on this vision, they’ll not only become a cornerstone of industry practices but also leave a lasting mark on how factories approach efficiency and data management in the future."
+}

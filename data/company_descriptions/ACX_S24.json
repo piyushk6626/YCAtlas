@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/acx",
+  "name": "ACX",
+  "headline": "Therapeutics inspired by bacteria's natural killing abilities",
+  "batch": "S24",
+  "description": "ACX is the only company that has successfully recreated synthetically the compounds that bacteria use to kill microbes for therapeutic development. Our patentable technology has applications in humans, animals, and crops. We are beginning with the elimination of crop pathogens—harmful to pests but beneficial for humans!",
+  "activity_status": "Active",
+  "website": "https://www.acxtherapeutics.com/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:synthetic-biology; industry:biotech; industry:healthcare; industry:agriculture; industry:drug-discovery; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Emmanouela Petsolari, Founder",
+      "description": "Emmanouela is the Co-Founder & CEO of ACX and PhD in Biochemistry and Biophysics from the University of Cambridge. Previously, she held several research positions working in immunology, cancer, malaria vaccine development and viral drug discovery (in institutes like Barts Cancer Institute CRUK, Cambridge University, King’s College London, Institute Curie France and Imperial College London).",
+      "linkedin": "https://linkedin.com/in/emmanouelapetsolari"
+    },
+    {
+      "name": "Melina Petsolari, Founder",
+      "description": "Melina is the Co-founder & CTO of ACX and PhD in Computer Science from King's College London. Previously, she held several research positions spanning digital health, robotics, technology-enable interventions, HCAI and NLP (in institutes like Cambridge University, King’s College London,  National Health Service (NHS) in England and Francis Crick Institute).",
+      "linkedin": "https://linkedin.com/in/melina-petsolari-a03915298"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![](https://www.acxtherapeutics.com/assets/images/image02.png?v=6c99dde8)\\nComing soon\\nGet in touch to learn more\\n  * EmailEmail\\n\\n\\n' markdown_with_citations='![](https://www.acxtherapeutics.com/assets/images/image02.png?v=6c99dde8)\\nComing soon\\nGet in touch to learn more\\n  * EmailEmail\\n\\n\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**ACX: Revolutionizing Therapeutics with Bacterial Power**\n\nFounded in 2024 and nestled in the heart of San Francisco, ACX is a pioneering company backed by Y Combinator's Batch S24. With a small but dynamic team of just two employees, ACX has set itself apart by successfully synthesizing compounds derived from bacteria that naturally kill microbes. This synthetic biology breakthrough holds great promise for therapeutic development.\n\n### Mission\nAt its core, ACX is driven by a mission to leverage the ingenious killing abilities of bacteria to create therapeutics. The company sees potential in these natural compounds not just for human health, but also for animal well-being and agricultural applications. Currently, ACX is focusing on combatting crop pathogens—a niche that impacts pests while being safe and beneficial for human consumption.\n\n### Technology and Applications\nACX’s innovative and patentable technology allows them to harness these bacterial compounds, making waves in industries as diverse as healthcare and agriculture. By tackling the root causes of crop pathogens, the company aims to promote healthier food systems and sustainable farming practices.\n\n### Group Partner and Collaboration\nTheir journey is punctuated by a strategic partnership with Nan, enhancing their capacity to innovate and execute their exciting vision. \n\n### Industry Tags\nACX proudly aligns itself with key sectors such as synthetic biology, biotech, healthcare, agriculture, and drug discovery, positioning the company at the intersection of these rapidly evolving fields.\n\n### Future Outlook\nAs ACX continues to develop its technology and expand its offerings, it remains committed to its mission of creating a healthier world inspired by nature’s own solutions. If you're curious to learn more or are interested in their journey, feel free to drop them a line through their [website](https://www.acxtherapeutics.com/).\n\nIn summary, ACX is not just another biotech startup; it's a company aiming to change the way we confront some of our most pressing health and agricultural challenges—armed with the remarkable power of bacteria."
+}

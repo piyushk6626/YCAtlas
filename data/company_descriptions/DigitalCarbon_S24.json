@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/digitalcarbon",
+  "name": "DigitalCarbon",
+  "headline": "Transform Images And Videos Into Immersive 3D With AI",
+  "batch": "S24",
+  "description": "Digitalcarbon transforms ordinary images and videos into interactive, photorealistic 3D environments. Our technology can take photos from any device and render 3D scenes at more than 100 frames per second on everyday devices. \r\n\nThe founders were the first and second hires at a previous YC company AssemblyAI, and have more than 8 years of experience building AI models. \r\n\nCreating immersive 3D experiences typically requires complex equipment and suffers from slow rendering speeds. This has limited the adoption of 3D technology across various industries. Digitalcarbon fixes that, eliminating the need for specialized equipment and dramatically accelerating the rendering process.\r\n\nOur technology enables applications across various industries:\r\n* Real estate: Creating virtual property tours that feel remarkably lifelike\r\n* E-commerce: Providing interactive 3D product visualizations to boost consumer experience\r\n* Tourism: Helping tourist businesses attract more travelers with immersive virtual previews\r\n* Drone mapping and inspection: Enhancing aerial surveys and structural assessments with detailed 3D models\r\n\nThink Unreal Engine meets Matterport with no hardware, but faster, editable, and more accessible for businesses of all sizes.",
+  "activity_status": "Active",
+  "website": "https://www.digitalcarbon.ai",
+  "founded_date": 2024.0,
+  "team_size": null,
+  "location": "San Francisco",
+  "group_partner": "Garry Tan",
+  "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:computer-vision; industry:real-estate; industry:b2b; industry:e-commerce; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Guru Rao, Founder & CEO",
+      "description": "Guru is the cofounder and CEO of DigitalCarbon. Previously, Guru was the first hire and AI Lead at AssemblyAI (YC 2017) and was instrumental in scaling the company from 1 to 100+ employees. He has been building in the AI space since 2015.",
+      "linkedin": "https://linkedin.com/in/gururao1"
+    },
+    {
+      "name": "Michael Nguyen, Founder",
+      "description": "Make GPUs go brrrr",
+      "linkedin": "https://www.linkedin.com/in/michaelpnguyen/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**DigitalCarbon: Revolutionizing 3D Experiences with AI**\n\nFounded in 2024 and nestled in the heart of San Francisco, DigitalCarbon is on a mission to transform images and videos into immersive 3D environments using cutting-edge AI technology. The brainchild of two former key hires from AssemblyAI—part of Y Combinator's S24 cohort—DigitalCarbon draws on over eight years of experience in building sophisticated AI models.\n\nTraditionally, creating interactive and photorealistic 3D experiences has been a cumbersome process, often requiring expensive equipment and marred by slow rendering speeds. This complexity has stunted 3D technology's widespread adoption across various fields. DigitalCarbon flips that script, allowing ordinary images and videos from any device to be seamlessly transformed into vibrant 3D scenes at over 100 frames per second. No specialized hardware is needed, and the rendering process is faster and more efficient than ever.\n\nThe applications of DigitalCarbon's technology are diverse:\n- **Real Estate**: Imagine virtual property tours that feel almost lifelike—this technology makes that possible.\n- **E-commerce**: Interactive 3D product visualizations enhance the online shopping experience, driving engagement and sales.\n- **Tourism**: Businesses in the tourism sector can attract more visitors by offering immersive virtual previews of their offerings.\n- **Drone Mapping and Inspection**: Detailed 3D models elevate aerial surveys and structural assessments to a level of precision that wasn't feasible before.\n\nThink of it as the perfect blend of Unreal Engine and Matterport—but without the hardware headache and with a speed that caters to businesses of all shapes and sizes.\n\nWith the endorsement of industry leaders like Group Partner Garry Tan and a clear focus on areas like computer vision, real estate, and AI, DigitalCarbon is positioning itself as a key player in the digitization wave. Their promise of accessible, fast, and editable 3D experiences is set to reshape how various sectors engage with technology.\n\nFor more information, visit [DigitalCarbon's website](https://www.digitalcarbon.ai)."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/a0-dev",
+  "name": "a0.dev",
+  "headline": "We make apps with AI.",
+  "batch": "W25",
+  "description": "a0.dev is a platform that helps mobile developers build high quality apps in days instead of weeks by generating custom react native projects. We've launched top ranking apps that have been used by hundreds of thousands, and now we're creating the tools we wish we had to build faster.",
+  "activity_status": "Active",
+  "website": "https://a0.dev",
+  "founded_date": 2025.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:design; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Ayomide Omolewa, Co-Founder",
+      "description": "a0.dev, Nvidia, Paramount, Google, Lockheed Martin",
+      "linkedin": "https://linkedin.com/in/omolewa"
+    },
+    {
+      "name": "Seth Setse, Co-Founder",
+      "description": "Co-Founder @ a0.dev | CMU ‘23 | Serial App Developer",
+      "linkedin": "https://linkedin.com/in/seth-setse-0641b6175"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![a0.dev](https://a0.dev/logo.svg)![a0.dev](https://a0.dev/logo.svg)](https://a0.dev/</>)\\n[Sign in](https://a0.dev/</auth>)\\n![a0.dev](https://a0.dev/logo-wide-white.svg)\\n![a0.dev](https://a0.dev/logo-wide-white.svg)\\n![a0.dev](https://a0.dev/logo-wide-white.svg)\\n![a0.dev](https://a0.dev/logo-wide-white.svg)\\nMobile apps in minutes.\\nAirbnb CloneMinesweeperText AdventureInstagram PostChess GameArt GalleryAirbnb CloneMinesweeperText AdventureInstagram PostChess GameArt Gallery\\nQuickly prototype a react native screen\\n[](https://a0.dev/</>)\\n© 2025, a0.dev\\n![Y Combinator](https://a0.dev/_next/image?url=%2FYC-Logo-Square.png&w=3840&q=75)Backed by Y Combinator\\n[Privacy](https://a0.dev/<https:/a0.dev/privacy>)[Contact Us](https://a0.dev/</contact>)\\nJoin our Discord\\n' markdown_with_citations='![a0.dev⟨1⟩![a0.dev⟨1⟩]](https://a0.dev/</>)\\nSign in⟨2⟩\\n![a0.dev⟨3⟩]\\n![a0.dev⟨3⟩]\\n![a0.dev⟨3⟩]\\n![a0.dev⟨3⟩]\\nMobile apps in minutes.\\nAirbnb CloneMinesweeperText AdventureInstagram PostChess GameArt GalleryAirbnb CloneMinesweeperText AdventureInstagram PostChess GameArt Gallery\\nQuickly prototype a react native screen\\n[](https://a0.dev/</>)\\n© 2025, a0.dev\\n![Y Combinator⟨4⟩]Backed by Y Combinator\\nPrivacy⟨5⟩Contact Us⟨6⟩\\nJoin our Discord\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://a0.dev/logo.svg: ![a0.dev\\n⟨2⟩ https://a0.dev/</auth>: Sign in\\n⟨3⟩ https://a0.dev/logo-wide-white.svg: a0.dev\\n⟨4⟩ https://a0.dev/_next/image?url=%2FYC-Logo-Square.png&w=3840&q=75: Y Combinator\\n⟨5⟩ https://a0.dev/<https:/a0.dev/privacy>: Privacy\\n⟨6⟩ https://a0.dev/</contact>: Contact Us\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### a0.dev: Transforming App Development with AI\n\n**Mission:**  \nAt a0.dev, we believe in harnessing the power of AI to enable developers to create apps rapidly and efficiently. Our mission is simple: we make apps with AI.\n\n**Background:**  \nFounded in 2025 and part of Y Combinator's W25 batch, a0.dev originated as a platform designed to streamline the mobile app development process. We empower developers to generate high-quality custom React Native projects in mere days instead of the weeks typically required. With a track record of launching top-ranking apps that have attracted hundreds of thousands of users, we’re on a quest to build the tools that make app development even faster.\n\n**Team and Location:**  \nLocated in the heart of San Francisco, a0.dev is a lean operation with a dedicated team of two. Our group partner at Y Combinator, Michael Seibel, guides us as we navigate this exciting landscape.\n\n**Focus Areas:**  \nOur capabilities span various domains, including:\n- **Artificial Intelligence**\n- **Developer Tools**\n- **Generative AI**\n- **Design**\n\nBy focusing on these areas, we ensure that our tools not only enhance productivity but also deliver impressive user experiences.\n\n**Current Activities:**  \nWe're busy building features that allow developers to prototype React Native screens with ease. Imagine being able to create an Airbnb clone, a chess game, or an art gallery in minutes. That’s the magic we’re delivering.\n\n**Get In Touch:**  \nCurious to see our platform in action? Check out our website at [a0.dev](https://a0.dev). You can also join our Discord community to connect with like-minded creators.\n\nIn essence, a0.dev isn’t just about making apps; it’s about revolutionizing the way developers think about app creation. We’re excited about what’s next and invite you to be a part of the journey!"
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/macadamia",
+  "name": "Macadamia",
+  "headline": "AI Copilot for Mechanical Engineers",
+  "batch": "W25",
+  "description": "We’re building autonomous AI agents that take over the role of engineers in running simulations with advanced physics-based solvers, like Ansys. Engineers submit their CAD designs and simulation requests, and Oswald automates the entire process - from model setup to interpreting results. It’s integrated with Ansys, the industry leader in engineering simulations.",
+  "activity_status": "Active",
+  "website": "https://macadamialab.com",
+  "founded_date": 2025.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:hardware; industry:design; industry:aerospace; industry:automation; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Abel Van Steenweghen, Founder, CEO",
+      "description": "Building an AI mechanical engineer at Macadamia.",
+      "linkedin": "https://www.linkedin.com/in/abelvs/"
+    },
+    {
+      "name": "Brecht Pierreux, Founder",
+      "description": "Building an AI Copilot for engineering simulations. Previously SpaceX and NASA JPL.",
+      "linkedin": "https://www.linkedin.com/in/brecht-pierreux-54b327181/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='Products\\n# [Macadamia](https://macadamialab.com/</>)\\n[Book a Demo](https://macadamialab.com/</talk>)\\n# AI Tools for Mechanical Engineers\\nAccelerate your engineering processes with customized AI tools.\\n[Book a Demo](https://macadamialab.com/</talk>)\\n# Backed by\\n[![Ansys](https://macadamialab.com/_next/image?url=%2Flogos%2Fansys-startup.png&w=1080&q=75)](https://macadamialab.com/<https:/www.ansys.com/>)[![Nvidia](https://macadamialab.com/_next/image?url=%2Flogos%2Fnvidia.png&w=1080&q=75)](https://macadamialab.com/<https:/www.nvidia.com/>)[![Y Combinator](https://macadamialab.com/_next/image?url=%2Flogos%2Fyc.png&w=1080&q=75)](https://macadamialab.com/<https:/www.ycombinator.com/companies/macadamia>)\\n[](https://macadamialab.com/<https:/x.com/getmacadamia>)[](https://macadamialab.com/<https:/www.linkedin.com/company/getmacadamia/>)\\n© 2025 Macadamia Labs Inc.\\nContact us: founders@macadamialab.com\\n' markdown_with_citations='Products\\n# Macadamia⟨1⟩\\nBook a Demo⟨2⟩\\n# AI Tools for Mechanical Engineers\\nAccelerate your engineering processes with customized AI tools.\\nBook a Demo⟨2⟩\\n# Backed by\\n![Ansys⟨3⟩](https://macadamialab.com/<https:/www.ansys.com/>)![Nvidia⟨4⟩](https://macadamialab.com/<https:/www.nvidia.com/>)![Y Combinator⟨5⟩](https://macadamialab.com/<https:/www.ycombinator.com/companies/macadamia>)\\n[](https://macadamialab.com/<https:/x.com/getmacadamia>)[](https://macadamialab.com/<https:/www.linkedin.com/company/getmacadamia/>)\\n© 2025 Macadamia Labs Inc.\\nContact us: founders@macadamialab.com\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://macadamialab.com/</>: Macadamia\\n⟨2⟩ https://macadamialab.com/</talk>: Book a Demo\\n⟨3⟩ https://macadamialab.com/_next/image?url=%2Flogos%2Fansys-startup.png&w=1080&q=75: ![Ansys\\n⟨4⟩ https://macadamialab.com/_next/image?url=%2Flogos%2Fnvidia.png&w=1080&q=75: ![Nvidia\\n⟨5⟩ https://macadamialab.com/_next/image?url=%2Flogos%2Fyc.png&w=1080&q=75: ![Y Combinator\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Macadamia**\n\nFounded in 2025 and based in San Francisco, Macadamia is carving out a niche in the realm of mechanical engineering with its innovative AI solutions. Part of the prestigious Y Combinator Batch W25, the company operates with a lean team of just two employees, yet it packs a punch with its ambitious mission: to act as an AI Copilot for mechanical engineers. \n\n**What They Do**\n\nMacadamia started out with an audacious goal—developing autonomous AI agents designed to streamline the engineering simulation process. Utilizing advanced physics-based solvers like Ansys, engineers can submit their CAD designs and simulation requests, and Macadamia's flagship AI agent, named Oswald, handles everything from model setup to result interpretation. This automation not only enhances efficiency but also allows engineers to focus on higher-level tasks and design innovations.\n\nCurrently, Macadamia offers customized AI tools that accelerate engineering workflows, allowing users to book a demo to see these tools in action.\n\n**Backing and Partnerships**\n\nThe company has garnered support from prominent players in the tech landscape, partnering with industry giants like Ansys and Nvidia, which solidifies its technological credibility. \n\n**Why It Matters**\n\nIn an era where efficiency and innovation are pivotal, Macadamia's integration of AI into engineering processes signals a shift in how mechanical engineering can leverage technology. By reducing the time and expertise required to run complex simulations, Macadamia not only serves a vital role in the engineering community but also paves the way for the next generation of engineering practices.\n\n**Connect With Them**\n\nTo learn more about their offerings or to schedule a demo, you can visit their website at [Macadamia](https://macadamialab.com).\n\nIn summary, Macadamia is not just building tools; they are redefining how mechanical engineers will work in the future. AI isn’t just a buzzword for them; it’s a powerful ally in the design and simulation landscape."
+}

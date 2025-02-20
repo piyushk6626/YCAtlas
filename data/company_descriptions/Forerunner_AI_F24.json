@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/forerunner-ai",
+  "name": "Forerunner AI",
+  "headline": "Copilot for aerospace engineers making rockets, munitions, satellites",
+  "batch": "F24",
+  "description": "Forerunner is your aerospace, defense, and hardware engineering copilot, helping you beat tight deadlines by automating critical engineering workflows. Our secure AI agents access data from tools like Atlassian Suite and Microsoft Office, then collaborate with hardware engineers to accelerate design and analysis.",
+  "activity_status": "Active",
+  "website": "https://tryforerunner.com",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:manufacturing; industry:aerospace; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Yash Kadadi, Founder",
+      "description": "Prev. Software/Autonomy/ML at Anduril, SpaceX, and NASA |\nStanford BS CS '25, MS CS '26 (on leave)",
+      "linkedin": "https://linkedin.com/in/yashkadadi"
+    },
+    {
+      "name": "Will Nida, Founder",
+      "description": "Stanford BS '25 (Physics + CS). Prev. Starship Propulsion Engineering @ SpaceX, Plasma Propulsion Research @ Stanford",
+      "linkedin": "https://linkedin.com/in/william-nida"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Forerunner AI: Your Aerospace Engineering Copilot**\n\nFounded in 2024 and nestled in the heart of San Francisco, Forerunner AI is on a mission to serve as a copilot for aerospace engineers involved in the complex realms of rocket, munitions, and satellite design. The company emerged as a crucial player in the aerospace and defense industry, especially as the need for rapid innovation and tight deadlines becomes increasingly pressing.\n\nAt its core, Forerunner AI automates essential engineering workflows, allowing engineers to focus on what truly matters: innovation and effective design. By harnessing secure AI agents, Forerunner AI integrates seamlessly with platforms like the Atlassian Suite and Microsoft Office, streamlining data access and enhancing collaboration among hardware engineers. This capability not only accelerates design cycles but also refines analytical processes, ultimately helping to outpace the competition.\n\nForerunner AI is part of Y Combinator's Batch F24, which bolsters its credibility and connects it with a vibrant network of innovative thinkers and resources. Despite its small team of just two employees, the company’s potential is immense, especially with guidance from Dalton Caldwell, their Group Partner.\n\nTagged with keywords like 'artificial-intelligence', 'manufacturing', and 'aerospace', Forerunner AI is poised to redefine the landscape of engineering support. Their website, [tryforerunner.com](https://tryforerunner.com), offers a glimpse into their promising solutions.\n\nIn short, Forerunner AI isn’t just another tech startup; it’s a visionary tool that makes complex engineering workflows simpler and faster, enabling aerospace talent to soar higher than ever before."
+}

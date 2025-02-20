@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/magicode",
+  "name": "MagiCode",
+  "headline": "A Reliable AI Frontend Engineer",
+  "batch": "S24",
+  "description": "MagiCode is an AI-powered frontend agent that writes, reviews, and rigorously tests code before pushing a PR—helping busy frontend teams offload complex, repetitive tasks from their workload.",
+  "activity_status": "Active",
+  "website": "https://www.magicode.ai/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "Stanford, CA",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:b2b; industry:enterprise-software; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Jeff He, Founder",
+      "description": "Before founding MagiCode, Jeff earned a Master’s degree from Stanford, where he contributed to the Stanford AI Lab, and an undergraduate degree from UC Berkeley, where he was part of the Berkeley AI Research Group (BAIR). He has published four papers on self-driving cars and reinforcement learning in top conferences like NeurIPS and ICRA. Previously, Jeff also worked as an SDE & a quant, where he developed his expertise in AI and machine learning.",
+      "linkedin": "https://www.linkedin.com/in/jeff-he-99a96b163/"
+    },
+    {
+      "name": "Anirudh Sriram, Founder",
+      "description": "Before founding MagiCode, I earned a Master’s degree from Stanford University, where I contributed to the Stanford AI Lab and Stanford Vision and Learning Lab. I also hold an undergraduate degree from IIT Madras. I have published six papers on large language models (and NLP in general) in prestigious conferences such as NeurIPS, ACM, and ACL. Prior to MagiCode, I gained extensive experience through my work at Google Research, Microsoft, Walmart Labs, etc.",
+      "linkedin": "https://www.linkedin.com/in/anirudh-sriram-1b136318a/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[Skip to content](https://www.magicode.ai/<#content>)\\n[ ![magicode logo](https://www.magicode.ai/wp-content/uploads/2024/06/magicode-logo-v1.webp) ](https://www.magicode.ai/<https:/www.magicode.ai>)\\n[ Get Access ](https://www.magicode.ai/<https:/calendly.com/jeffhe/quick-connect>)\\nBacked by **Y** Combinator\\n## Clear Front-end tasks**reliably** with **MagiCode,**\\nYour AI  Fron\\nMagiCode writes code, reviews it, and runs e2e tests & visual checks just like a human, before pushing a PR. \\n## Built for\\n![](https://www.magicode.ai/wp-content/uploads/2024/11/nextjs-icon-2048x1234-pqycciiu-1024x617.png)\\n![](https://www.magicode.ai/wp-content/uploads/2024/11/react-1024x344.png)\\n[ Get Access ](https://www.magicode.ai/<https:/calendly.com/jeffhe/quick-connect>)\\n![](https://www.magicode.ai/wp-content/uploads/2024/11/Screenshot-2024-10-17-223004.png)\\n© 2024 MagiCode.ai. All Rights Reserved. \\n' markdown_with_citations='Skip to content⟨1⟩\\n ![magicode logo⟨2⟩ ](https://www.magicode.ai/<https:/www.magicode.ai>)\\n Get Access ⟨3⟩\\nBacked by **Y** Combinator\\n## Clear Front-end tasks**reliably** with **MagiCode,**\\nYour AI  Fron\\nMagiCode writes code, reviews it, and runs e2e tests & visual checks just like a human, before pushing a PR. \\n## Built for\\n![](https://www.magicode.ai/wp-content/uploads/2024/11/nextjs-icon-2048x1234-pqycciiu-1024x617.png)\\n![](https://www.magicode.ai/wp-content/uploads/2024/11/react-1024x344.png)\\n Get Access ⟨3⟩\\n![](https://www.magicode.ai/wp-content/uploads/2024/11/Screenshot-2024-10-17-223004.png)\\n© 2024 MagiCode.ai. All Rights Reserved. \\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.magicode.ai/<#content>: Skip to content\\n⟨2⟩ https://www.magicode.ai/wp-content/uploads/2024/06/magicode-logo-v1.webp:  ![magicode logo\\n⟨3⟩ https://www.magicode.ai/<https:/calendly.com/jeffhe/quick-connect>:  Get Access \\n' fit_markdown='' fit_html=''",
+  "generated_description": "**MagiCode: Your Reliable AI Frontend Engineer**\n\nFounded in 2024 and currently part of Y Combinator's S24 batch, MagiCode is based out of Stanford, CA. With a compact team of just two employees, this startup aims to alleviate the burdens of frontend development through the power of AI.\n\nMagiCode’s mission is straightforward: to serve as a reliable AI frontend engineer. Their innovative platform automates the coding process by writing, reviewing, and rigorously testing code before it hits the pull request stage. This is particularly beneficial for busy frontend teams looking to offload tedious and repetitive tasks. \n\nThe technology integrates seamlessly with popular frameworks like React and Next.js, ensuring that it fits naturally into the existing development workflow. It runs end-to-end tests and visual checks just like a human developer would, making sure that the output remains high quality without compromising speed.\n\nhttp://www.magicode.ai is the gateway to accessing their service and learning more about how they can transform your development process. And if you’re curious about how MagiCode can fit into your stack, they even offer a quick access link to connect with their team.\n\nBacked by Y Combinator and supported by Group Partner Michael Seibel, MagiCode is tagged as part of various tech categories—developer tools, generative AI, SaaS, B2B, enterprise software, and of course, thriving in the San Francisco Bay Area. \n\nIn an age where software development demands both speed and reliability, MagiCode stands out as a forward-thinking solution, promising to transform how teams approach their frontend challenges."
+}

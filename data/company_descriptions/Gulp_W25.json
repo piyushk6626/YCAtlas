@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/gulp",
+  "name": "Gulp",
+  "headline": "Automating build, test, and deploy for real-time data pipelines",
+  "batch": "W25",
+  "description": "Gulp is a developer platform that makes it easy for engineers to build, test, and deploy real-time data pipelines. Our first release is Osmosis: a framework that helps AI agents learn in real-time. | https://gulp.ai/responsive-software.html",
+  "activity_status": "Active",
+  "website": "https://gulp.ai/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:big-data; industry:data-engineering; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Andy Lyu, Founder",
+      "description": "Defining how real time systems should be built. Previously worked on data architecture and ecosystem at TikTok recommendations.",
+      "linkedin": "https://linkedin.com/in/baiqingl"
+    },
+    {
+      "name": "Kasey Zhang, Founder",
+      "description": "Currently: gulp.ai \n\nPreviously: gaming founder, VC",
+      "linkedin": "https://linkedin.com/in/kasey-zhang"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# Gulp\\nGulp is a platform that unlocks the responsive software of tomorrow. Our first release is Osmosis. \\n[[Writing] Responsive Software](https://gulp.ai/<responsive-software.html>)\\n[[Release] Osmosis: Teach AI agents how to learn in real-time ](https://gulp.ai/<https:/x.com/ycombinator/status/1887592103573590435>)\\n[Release] TBA \\nGulp was founded in 2024 by [Kasey](https://gulp.ai/<https:/www.linkedin.com/in/kasey-zhang/>) and [Andy](https://gulp.ai/<https:/www.linkedin.com/in/baiqingl/>), and is based in San Francisco. \\nInterested in learning more? Reach out here. Want to use Osmosis? Chat with us [here](https://gulp.ai/<https:/calendly.com/kasey-gulp/>). \\n' markdown_with_citations='# Gulp\\nGulp is a platform that unlocks the responsive software of tomorrow. Our first release is Osmosis. \\n[[Writing] Responsive Software](https://gulp.ai/<responsive-software.html>)\\n[[Release] Osmosis: Teach AI agents how to learn in real-time ](https://gulp.ai/<https:/x.com/ycombinator/status/1887592103573590435>)\\n[Release] TBA \\nGulp was founded in 2024 by Kasey⟨1⟩ and Andy⟨2⟩, and is based in San Francisco. \\nInterested in learning more? Reach out here. Want to use Osmosis? Chat with us here⟨3⟩. \\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://gulp.ai/<https:/www.linkedin.com/in/kasey-zhang/>: Kasey\\n⟨2⟩ https://gulp.ai/<https:/www.linkedin.com/in/baiqingl/>: Andy\\n⟨3⟩ https://gulp.ai/<https:/calendly.com/kasey-gulp/>: here\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Summary: Gulp**\n\nGulp is a San Francisco-based startup that emerged from Y Combinator's Batch W25 in 2024. It’s a platform designed to simplify the process of building, testing, and deploying real-time data pipelines, specifically tailored for developers. At the heart of Gulp’s offerings is its first product, **Osmosis**—an innovative framework that equips AI agents to learn in real-time. This is a pivotal solution in a world increasingly driven by data, enabling developers to better harness the potential of their data systems.\n\nThe team behind Gulp consists of just two dedicated employees: Kasey Zhang and Andy Baiqing. Their combined passion for automation and efficiency fuels Gulp's mission of automating the entire lifecycle of data pipelines, from build to deploy.\n\nBeyond Osmosis, Gulp is still laying the groundwork for future releases, signaling their ambition to continuously expand and enhance their offerings. Their focus is encapsulated in tags like 'developer-tools', 'big-data', and 'data-engineering', which reflect both the technology sector they operate in and the kind of problems they're tackling.\n\nIf you’re interested in leveraging Osmosis or simply want to learn more about Gulp, they invite inquiries through their website, where you can discover more about the responsive software they are developing.\n\nFor more information, you can visit their website at [gulp.ai](https://gulp.ai).\n\n**Key Highlights:**\n- **Founded:** 2024\n- **Location:** San Francisco, CA\n- **Team Size:** 2 Employees\n- **Incubator:** Y Combinator Batch W25\n- **Product Release:** Osmosis (AI learning framework)\n- **Future Developments:** TBA\n\nIn a nutshell, Gulp is riding the wave of real-time data processing and responsive software innovation—definitely a company to watch in the evolving tech landscape."
+}

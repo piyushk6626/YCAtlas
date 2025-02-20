@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/lucidic-ai",
+  "name": "Lucidic AI",
+  "headline": "See Your Agent's Mind at Work",
+  "batch": "W25",
+  "description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic's Agentlytics provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
+  "activity_status": "Active",
+  "website": "https://lucidic.ai",
+  "founded_date": 2025.0,
+  "team_size": 3.0,
+  "location": "San Francisco",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:automation; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Andy Liang, Founder",
+      "description": "Founder/CTO at Lucidic AI, working on an analytics, testing, and simulations framework for AI agent devs. Stanford BS/MS Computer Science (AI specialization). Ex Citadel, AppLovin.  \n\nPreviously built GrocerCheck, a COVID-19 web app helping shoppers social distance effectively, with over 200,000 users and endorsed by the Government of Canada. \n\nReach me at andy@lucidic.ai",
+      "linkedin": "https://www.linkedin.com/in/andyliang223/"
+    },
+    {
+      "name": "Abhinav Sinha, Founder",
+      "description": "Hi, I’m Abhinav the founder and CEO for Lucidic AI! I’m from Stanford where I studied Computer Science with an AI specialization (both bachelor's and master's) and did research at Stanford's AI Lab.  I’ve worked at Apple as a software engineer and at Citadel Securities and Susquehanna International Group as a quant. \n\nIn my free time, I like to play basketball, pickleball, lift, and rewatch Christopher Nolan movies!\n\nFeel free to reach out, would love to chat -- abhinav@lucidic.ai",
+      "linkedin": "https://www.linkedin.com/in/abhinavsinha15/"
+    },
+    {
+      "name": "Jeremy Tian, Founder",
+      "description": "Hi! I'm Jeremy Tian, one of the founders and the Chief Scientist at Lucidic AI, working to explain your AI models' decisions. I have a BS/MS in Computer Science with an AI specialization from Stanford University. Ex. Quantitative Trader at DRW and software engineering/machine learning engineering at Steel Dynamics. Contact me at jeremy@lucidic.ai!",
+      "linkedin": "https://www.linkedin.com/in/jeremy-tian-a2076a239/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"![](https://framerusercontent.com/images/82FVeWyg1fbzqpzsYJ2s3RDiJY.svg?scale-down-to=1024)\\n[About Us](https://lucidic.ai/<https:/www.ycombinator.com/companies/lucidic-ai>)\\n[Get Started](https://lucidic.ai/<./#signup>)\\n# TheEngine for AI Agents\\n# Analytics & Simulation\\n## Test smarter, debug faster, and simulate at scale. Gain complete visibility into your AI agents to track decisions, catch failures early, and refine agent behavior with precision.See your agent's mind at work.\\n[Book a Demo](https://lucidic.ai/<https:/calendly.com/team-lucidic/30min>)[](https://lucidic.ai/<https:/www.ycombinator.com/companies/lucidic-ai>)\\n![](https://framerusercontent.com/images/GqpgEUHXRR5q1zRQzVcEsPauNk.png)\\n## Join our private beta today.\\nName\\nEmail\\nCompany\\nUse Case\\nSubmit\\nContact us at: **team@lucidic.ai**\\n2025 © All rights reserved.\\n\" markdown_with_citations=\"![](https://framerusercontent.com/images/82FVeWyg1fbzqpzsYJ2s3RDiJY.svg?scale-down-to=1024)\\nAbout Us⟨1⟩\\nGet Started⟨2⟩\\n# TheEngine for AI Agents\\n# Analytics & Simulation\\n## Test smarter, debug faster, and simulate at scale. Gain complete visibility into your AI agents to track decisions, catch failures early, and refine agent behavior with precision.See your agent's mind at work.\\nBook a Demo⟨3⟩[](https://lucidic.ai/<https:/www.ycombinator.com/companies/lucidic-ai>)\\n![](https://framerusercontent.com/images/GqpgEUHXRR5q1zRQzVcEsPauNk.png)\\n## Join our private beta today.\\nName\\nEmail\\nCompany\\nUse Case\\nSubmit\\nContact us at: **team@lucidic.ai**\\n2025 © All rights reserved.\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://lucidic.ai/<https:/www.ycombinator.com/companies/lucidic-ai>: About Us\\n⟨2⟩ https://lucidic.ai/<./#signup>: Get Started\\n⟨3⟩ https://lucidic.ai/<https:/calendly.com/team-lucidic/30min>: Book a Demo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Lucidic AI: See Your Agent's Mind at Work**\n\nFounded in 2025, Lucidic AI is a young company based in San Francisco, proudly emerging from Y Combinator's Batch W25. With a compact team of just three employees, they’re tackling a crucial problem: as AI agents take on more intricate tasks, the need for reliability, accuracy, and efficiency grows exponentially. \n\nLucidic AI's mission can be summed up in their slogan: \"See Your Agent's Mind at Work.\" Their flagship product, **Agentlytics**, serves as a robust toolkit for developers and engineers to test, debug, and optimize AI agents at scale. Imagine having the ability to modify prompts, rerun tests, and get step-by-step video replays of how your agents make decisions. With features that allow you to visualize decision trees and compare different models side-by-side, you're equipped to pinpoint potential failures before they escalate. \n\nThe company's focus is on ensuring that AI agents can smoothly operate, adapt to changes, and meet performance expectations in real-world scenarios – a critical need in today's rapidly evolving tech landscape.\n\nIf you’re curious about what they do, you can join their private beta. Their website, [Lucidic.ai](https://lucidic.ai), offers more snippets of their innovative approach, including an invitation to book a demo. The site captures the essence of their mission: enabling smarter testing, faster debugging, and comprehensive simulation of AI agents.\n\nIn the ever-expanding realm of artificial intelligence, Lucidic AI is poised to make a significant impact, making it easier for engineers to understand and refine the complex behaviors of their AI systems. With partnerships like Brad Flora as their Group Partner and their strategic location in the San Francisco Bay Area, Lucidic AI is well-positioned for growth in the developer tools and automation sectors.\n\nOverall, if you’re developing AI systems and yearning for transparency in how they operate, it's worth keeping an eye on Lucidic AI. They might just be the key to unlocking your agents' potential."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/yarn-2",
+  "name": "Yarn",
+  "headline": "Make sales and marketing videos with AI.",
+  "batch": "W24",
+  "description": "Yarn uses AI to help founders, salespeople, and marketers make product and sales videos.\r\n\nTeams are using Yarn to make sales collateral, launch videos, use-case demos, training guides, and feature updates for Twitter and LinkedIn.\r\n\nNo video experience needed and everything looks great out-of-the-box – think Notion, Linear, or Stripe-quality – but branded for your team.\r\n\nThe magic really comes from AI (TTS, CV, LLMs) – so you can zip through 5x faster than a Loom.",
+  "activity_status": "Active",
+  "website": "https://www.yarn.so",
+  "founded_date": 2023.0,
+  "team_size": 3.0,
+  "location": "New York",
+  "group_partner": "Pete Koomen",
+  "group_partner_yc": "https://www.ycombinator.com/people/pete-koomen",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:b2b; industry:sales; industry:video; industry:marketing; location:new-york",
+  "founders": [
+    {
+      "name": "Jasper Story, Founder",
+      "description": "Co-founder and CEO at Yarn – create pro-level product and sales videos with AI. Before founding Yarn, worked at a bunch of different early-stage startups as a developer, designer, and PM. Also a high-school Math teacher and contractor at Google.",
+      "linkedin": null
+    },
+    {
+      "name": "Nicole Atack, Founder",
+      "description": "Co-founder and CTO at Yarn – create pro-level product and sales videos with AI.",
+      "linkedin": "www.linkedin.com/in/nicole-atack-98194b2b8"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"Yarn\\n![Yarn Logo](https://www.yarn.so)\\nVideo is the most compelling medium ever invented.\\nBut even a single minute of video can take hours to make.\\nAI will change this forever, and how we create and consume video will look completely different in 5 years time.\\nWe're starting by 1000Xing the amount of video made by software companies. Not just more video, but better video – compelling, authentic, entertaining, and beautiful.\\n[Join the waitlist](https://www.yarn.so/<https:/form.typeform.com/to/gZowgb1M>)\\n[Privacy Policy](https://www.yarn.so/<https:/form.typeform.com/to/gZowgb1M>)\\n\" markdown_with_citations=\"Yarn\\n![Yarn Logo⟨1⟩]\\nVideo is the most compelling medium ever invented.\\nBut even a single minute of video can take hours to make.\\nAI will change this forever, and how we create and consume video will look completely different in 5 years time.\\nWe're starting by 1000Xing the amount of video made by software companies. Not just more video, but better video – compelling, authentic, entertaining, and beautiful.\\nJoin the waitlist⟨2⟩\\nPrivacy Policy⟨2⟩\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.yarn.so: Yarn Logo\\n⟨2⟩ https://www.yarn.so/<https:/form.typeform.com/to/gZowgb1M>: Join the waitlist\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Yarn: Revolutionizing Video Creation with AI**\n\nYarn is a fresh startup that’s redefining the way sales and marketing videos are made. Founded in 2023 and part of Y Combinator’s Winter ’24 batch, Yarn is based in New York and operates with a lean team of just three. The mission? To empower founders, salespeople, and marketers to effortlessly create compelling product videos using the power of AI.\n\nIn a world where video is arguably the most engaging medium, Yarn recognizes the reality that even a minute of video content can take hours to produce. By leveraging advanced AI technologies like text-to-speech (TTS), computer vision (CV), and large language models (LLMs), Yarn allows users to speed up their video creation process by five times compared to traditional methods, like Loom.\n\nWhat’s the secret sauce? You don’t need prior video editing experience; everything is designed to look sharp and professional out of the box. Think of platforms like Notion or Stripe—Yarn's videos can achieve that same quality but tailored to your brand.\n\nTeams are already using Yarn to create a variety of sales collateral. This includes launch videos, use-case demos, training guides, and feature updates, specifically tailored for platforms like Twitter and LinkedIn. The goal isn’t just to produce more videos but to enhance the quality, making them more authentic, entertaining, and visually appealing.\n\nYarn is ultimately on a mission to amplify the volume of video created by software companies—aiming to achieve a 1000X increase. The vision here is clear: in five years, the landscape of video creation will be transformed, thanks in large part to AI.\n\nIf you're interested in being part of this revolution, Yarn invites you to join their waitlist [here](https://www.yarn.so/<https:/form.typeform.com/to/gZowgb1M>).\n\nFor more information, check out their website [Yarn](https://www.yarn.so).\n\nSo, to sum it up: Yarn is not just another video tool; it’s a transformative approach to video creation that is simple, sleek, and smart. They’re making sure that video remains at the forefront of effective sales and marketing strategies—because in a world where videos speak volumes, you want yours to stand out."
+}

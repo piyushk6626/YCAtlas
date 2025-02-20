@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/snowpilot",
+  "name": "Snowpilot",
+  "headline": "The connected spreadsheet that destroys data silos",
+  "batch": "S24",
+  "description": "Snowpilot combines a spreadsheet UI with a federated data engine. We get live data from tools like Salesforce, Gong, and Mixpanel, enabling PMs, marketers, and salespeople to run high-impact workflows with data at any scale.\r\n\nBen and Dom met at a Sequoia & a16z-backed data startup, Census. Together, we built the first real-time, warehouse-native customer data platform. Prior to that, Dom led 20+ ML engineers at Adobe to build their internal ad optimization platform, which allocates $1B in annual spend. Ben built the microservices stack powering the new Microsoft Edge, scaling from 0 to hundreds of millions of DAUs.\r\n\nWe started coding Snowpilot in mid-August '24, and we already have a live app that can run sub-second queries on millions of rows, entirely in the user's browser.\r\n\nThe data warehouse market is $10B/yr, growing 23% YOY. We will disrupt incumbents and significantly expand this market by enabling non-engineers to use big data on a daily basis.",
+  "activity_status": "Active",
+  "website": "https://www.snowpilot.com",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:b2b; industry:big-data; industry:data-engineering; industry:ai; industry:databases; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Ben Warren, Co-founder",
+      "description": "Co-founder & CTO of Snowpilot, the data warehouse that's as simple as a spreadsheet. Started as a software engineer at Microsoft, scaling the new Edge browser. After that, built next-gen data tooling at Census (backed by a16z & Sequoia).",
+      "linkedin": "https://linkedin.com/in/ben-h-warren"
+    },
+    {
+      "name": "Dom Crosby, Co-founder & CEO",
+      "description": "Dom Crosby is co-founder & CEO of Snowpilot, the Data Warehouse that's as simple as a spreadsheet. Starting his career as an analyst for the UK Ministry of Defence, he has since worked in Big Data and ML for the last decade leading product for high profile ML and data solutions at Adobe & Census (Sequoia & a16z backed.)",
+      "linkedin": "https://linkedin.com/in/domcrosby/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# Coming Soon\\n# Coming Soon\\n## Your first AI W-2\\n## Your first AI W-2\\n' markdown_with_citations='# Coming Soon\\n# Coming Soon\\n## Your first AI W-2\\n## Your first AI W-2\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Snowpilot**\n\nSnowpilot is a burgeoning startup located in the heart of San Francisco, founded in 2024 by Ben and Dom, two veterans from the data-centric cloud landscape. Their mission? To break down data silos with a connected spreadsheet that empowers users, particularly product managers, marketers, and sales teams, to leverage big data effortlessly. \n\nThe platform marries a friendly spreadsheet interface with a powerful federated data engine that pulls live data from tools like Salesforce, Gong, and Mixpanel. This seamless integration allows users to execute high-impact workflows without the usual complexities associated with big data analytics. \n\n**Founders’ Background:**\nBen and Dom's partnership blossomed at Census, a data startup backed by heavyweights like Sequoia and a16z, where they laid the foundation for a real-time, warehouse-native customer data platform. Each brings a stellar pedigree to Snowpilot: Dom has extensive experience in machine learning from his time at Adobe, where he led a team to create an ad optimization platform capable of managing a billion-dollar budget. Meanwhile, Ben developed the microservices that powered Microsoft Edge, scaling it from zero to hundreds of millions of daily active users.\n\n**What They’ve Built:**\nSince kicking off development in August 2024, Snowpilot has already delivered a live application capable of executing sub-second queries on millions of rows—all in the user’s browser. That's a major feat, especially given the typical hurdles associated with real-time data processing.\n\n**Market Opportunity:**\nSnowpilot enters a competitive landscape, looking to disrupt the $10 billion data warehouse market, which is currently growing at an impressive 23% year over year. Their focus is on democratizing access to big data, enabling not just engineers but everyday users to tap into sophisticated data analytics.\n\nAs a participant in Y Combinator's Batch S24, Snowpilot is poised for rapid growth and innovation. Despite having a lean team of just two, with Aaron Epstein as their Group Partner, they demonstrate a clear commitment to scalability and impact.\n\nIf you’re interested in how Snowpilot is redefining data accessibility, check out their website at [snowpilot.com](https://www.snowpilot.com). It’s clear that they are on an exciting trajectory to revolutionize the way businesses interact with data."
+}

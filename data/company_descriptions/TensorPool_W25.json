@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/tensorpool",
+  "name": "TensorPool",
+  "headline": "The easiest way to execute ML jobs on the cloud",
+  "batch": "W25",
+  "description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
+  "activity_status": "Active",
+  "website": "https://tensorpool.dev",
+  "founded_date": 2025.0,
+  "team_size": 3.0,
+  "location": null,
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:aiops; industry:developer-tools; industry:saas; industry:devops; industry:cloud-computing",
+  "founders": [
+    {
+      "name": "Joshua Martinez, Founder",
+      "description": "Co-Founder & CTO of TensorPool (W25)\nPrev. AI/ML @ Apple, SWE @ CZI\nStanford BS & MS in Computer Science + Statistics",
+      "linkedin": "https://www.linkedin.com/in/joshkmartinez/"
+    },
+    {
+      "name": "Hlumelo Notshe, Founder",
+      "description": "Co-Founder & CPO of TensorPool\nEx-DeepMind & NextDoor",
+      "linkedin": "https://www.linkedin.com/in/hlumelo-notshe"
+    },
+    {
+      "name": "Tycho Svoboda, Founder",
+      "description": "Co-founder & CEO of Tensorpool. Ex-Blackstone, Stanford",
+      "linkedin": "https://www.linkedin.com/in/tycho-svoboda/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**TensorPool: Simplifying Machine Learning in the Cloud**\n\nFounded in 2025 and part of Y Combinator's W25 batch, TensorPool is on a mission to make machine learning (ML) job execution in the cloud as straightforward as possible. With a laser focus on ease-of-use, TensorPool offers a command-line interface (CLI) that simplifies ML model training. Users just need to describe their jobs, and TensorPool takes care of GPU orchestration and execution—doing it all at half the cost of traditional cloud providers.\n\nLocated in [insert location], TensorPool operates with a compact but dedicated team of three employees. The company is spearheaded by Jared Friedman, their Group Partner, who brings valuable expertise in the tech industry.\n\nTensorPool falls within several important categories: AI Operations (AIOps), Developer Tools, Software as a Service (SaaS), DevOps, and Cloud Computing. This diverse tagging reflects their commitment to addressing the varied needs of developers and data scientists looking to streamline their ML workflows.\n\nIn a world where processing power and efficiency are critical, TensorPool is not just another tool—it's a game-changer for anyone looking to harness the power of machine learning without the excessive costs and complexities typically associated with cloud computing.\n\nExplore more about TensorPool on their website: [https://tensorpool.dev](https://tensorpool.dev)."
+}

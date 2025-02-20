@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/delineate",
+  "name": "Delineate",
+  "headline": "Extract meaningful data from research literature and patents atâ¦",
+  "batch": "W25",
+  "description": "90% of drug candidates fail despite billions in pharmaceutical R&D. \r\n\nDelineate extracts and analyzes data from biopharma research papers and patents at scale, including data trapped in figures and plots. \r\n\nLed by Emily (MIT PhD, former Pfizer/AstraZeneca computational researcher) and Jawad (ex-Lockheed Skunkworks AI lead), Delineate has developed custom LLM and computer vision models paired with rigorous QC processes to deliver extremely high quality datasets in a fraction of the time.\r\n\nBy processing 15x more studies than industry standard and reducing months of research into weeks, we're transforming how pharmaceutical companies make evidence based development decisions. \r\n\nDelineate has generated $160K in revenue through data contracts with Sanofi and Roche, conducting some of the largest aggregated research studies to date.",
+  "activity_status": "Active",
+  "website": "https://delineate.pro/",
+  "founded_date": 2024.0,
+  "team_size": 20.0,
+  "location": "Boston",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:saas; industry:biotech; location:boston",
+  "founders": [
+    {
+      "name": "Jawad Iqbal, Founder",
+      "description": "Co-Founder and CTO of Delineate. Masters thesis in Robotics/AI with 2 research publications. Former technical project manager for high impact digital transformation projects within Skunkworks (Advanced Development) division at Lockheed Martin.",
+      "linkedin": "https://www.linkedin.com/in/jawad-iqbal/"
+    },
+    {
+      "name": "Emily Nieves, Founder",
+      "description": "Co-founder at Delineate. Previously she was an MIT PhD Candidate in Biological Engineering and worked at Pfizer and AstraZeneca where she focused on applying AI to modeling and simulation for drug development optimization.",
+      "linkedin": "https://www.linkedin.com/in/emily-nieves-a67b90144/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Summary: Delineate**\n\nFounded in 2024 and hailing from Y Combinator's W25 batch, Delineate is on a mission to revolutionize how biopharma research is conducted by extracting meaningful data from research literature and patents. The founders, Emily, with her MIT PhD and extensive experience at Pfizer and AstraZeneca, and Jawad, a former AI lead at Lockheed Skunkworks, bring a powerful blend of computational expertise to the table.\n\nThe crux of Delineate's innovation lies in tackling a significant challenge in the pharmaceutical industry: 90% of drug candidates fail, usually after staggering investments in R&D. By harnessing advanced large language models (LLMs) and computer vision, Delineate processes an astonishing 15 times more studies than the current industry standard. This means transforming months of painstaking research into mere weeks—a game-changer for pharmaceutical companies aiming to make evidence-based development decisions.\n\nLocated in Boston and comprising a tight-knit team of 20, Delineate has already proven its worth by securing $160K in revenue from data contracts with major players like Sanofi and Roche. They’re conducting some of the largest aggregated research studies seen to date, effectively changing the landscape of biopharma research.\n\nWith tags highlighting their focus areas—artificial intelligence, SaaS, biotech, and Boston—their platform positions itself at the intersection of cutting-edge technology and life sciences. Led by Jared Friedman from Y Combinator, Delineate is not just extracting data; it’s redefining how that data translates into actionable insights for the future of drug development.\n\nFor more information, check out [Delineate’s website](https://delineate.pro/)."
+}

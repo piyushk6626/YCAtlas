@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/zuni",
+  "name": "Zuni",
+  "headline": "Smarter email for founders",
+  "batch": "S24",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://zuni.app",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": null,
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:generative-ai; industry:productivity; industry:email; industry:ai-assistant",
+  "founders": [
+    {
+      "name": "George Seabridge, Founder",
+      "description": "Building AI-powered email.",
+      "linkedin": "https://www.linkedin.com/in/george-seabridge/"
+    },
+    {
+      "name": "Will Taylor, Founder",
+      "description": "Former YC CTO and startup builder, now making the productivity tools that I've always wanted in my career. Previously early eng with GitHub co-founders on their second venture.\n\nhttps://www.willgeorgetaylor.com",
+      "linkedin": "https://www.linkedin.com/in/willgeorgetaylor/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[](https://zuni.app/</>)\\n# Smarter email for founders.\\n### \\nStay on top of your inbox with a little help from Zuni.\\nWatch Demo`D`\\nJoin Waitlist`W`\\n![Zuni App](https://zuni.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdecision.0eee07b5.png&w=3840&q=75)\\n© 2025 Zuni\\nBacked by\\n[Privacy Policy](https://zuni.app/</privacy>)[Terms and Conditions](https://zuni.app/</terms>)\\n' markdown_with_citations='[](https://zuni.app/</>)\\n# Smarter email for founders.\\n### \\nStay on top of your inbox with a little help from Zuni.\\nWatch Demo`D`\\nJoin Waitlist`W`\\n![Zuni App⟨1⟩]\\n© 2025 Zuni\\nBacked by\\nPrivacy Policy⟨2⟩Terms and Conditions⟨3⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://zuni.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdecision.0eee07b5.png&w=3840&q=75: Zuni App\\n⟨2⟩ https://zuni.app/</privacy>: Privacy Policy\\n⟨3⟩ https://zuni.app/</terms>: Terms and Conditions\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Zuni: Smarter Email for Founders**\n\nFounded in 2024 and part of Y Combinator’s S24 batch, Zuni is on a mission to simplify email management for founders. Located in an undisclosed area with a compact team of just two employees, Zuni brings a fresh approach to inbox productivity.\n\nSo what does Zuni offer? In essence, it’s an intelligent email assistant designed to help users stay effortlessly on top of their communications. The tagline “Smarter email for founders” encapsulates their focus on empowering entrepreneurs to manage their busiest lives.\n\nBacked by the expertise of their Group Partner, Aaron Epstein, Zuni is leveraging generative AI technology to enhance productivity and streamline email interactions. The startup's key tags—generative AI, productivity, email, and AI assistant—highlight its cutting-edge focus.\n\nTo see what Zuni can do, you can explore their app by watching a demo or joining their waitlist at [Zuni's website](https://zuni.app). \n\nIn a world inundated with emails, Zuni aims to remove the clutter, making email management not just easier, but smarter. Keep an eye on them as they grow!"
+}

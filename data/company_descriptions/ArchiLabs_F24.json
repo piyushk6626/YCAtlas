@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/archilabs",
+  "name": "ArchiLabs",
+  "headline": "AI Copilot for Architects",
+  "batch": "F24",
+  "description": "ArchiLabs is building an AI co-pilot for architecture. Instead of spending hours on tedious tasks, architects can 10x their design speed with simple AI prompts.\r\n\nBrian and William met at Carnegie Mellon as engineers and separately had their own frustrating new construction experiences. Brian ran a tech-enabled homebuilding factory and found the design iteration process to be a massive bottleneck, while William built ground up homes in Texas and had a similar frustration. However, at the time, there wasn't an easy solution to the many pain points in the design process.\r\n\nAs AI reasoning models improve, Brian and William realized that there was a massive opportunity to fix the long-tail of frustrations and build a new construction design experience by fine tuning existing models, becoming bigger than Autodesk, the $60B company in the space.",
+  "activity_status": "Active",
+  "website": "https://archilabs.ai",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Nicolas Dessaigne",
+  "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:saas; industry:construction; industry:b2b; industry:proptech; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Brian Bakerman, Founder",
+      "description": "Brian is the co-founder & CEO of ArchiLabs. Previously Brian built and sold an AI transcription startup that reached 1 million transcriptions/mo and ran a YC-backed tech-enabled homebuilding factory that scaled to a $10.6M contracted revenue run rate. Brian graduated with a degree in Electrical & Computer Engineering from Carnegie Mellon.",
+      "linkedin": "https://linkedin.com/in/brianbakerman"
+    },
+    {
+      "name": "William Meng, Founder",
+      "description": "William is the co-founder & CTO of ArchiLabs. Previously, William ran an independent homebuilding business in Texas and built his own CAD tool from scratch. Before that, William studied Computer Science and Robotics at Carnegie Mellon and worked as a software engineer at Facebook.",
+      "linkedin": "https://www.linkedin.com/in/william-meng/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"[![Company Logo](https://archilabs.ai/ArchiLabs Logo.png)](https://archilabs.ai/</>)\\n[Sign In](https://archilabs.ai/</login>)[Request Demo](https://archilabs.ai/</#contact>)\\n# AI Copilot for Architects\\nArchitectural workflows at the speed of thought\\n[GET STARTED](https://archilabs.ai/</#contact>)![2D Floorplan Blurred](https://archilabs.ai/images/hero-section-2d-blurred.png)![3D Floorplan Blurred](https://archilabs.ai/images/hero-section-3d-blurred.png)\\n## Let's Talk\\nWant to change the way you work with architectural plans?Fill out the form below and we'll be in touch!\\nFirst Name*Last Name*\\nCompany Name*Team Size*\\nWork Email*\\nMessage*\\nI would like to subscribe to occasional updates about ArchiLabs\\nContact Us \\n![Company Logo](https://archilabs.ai/ArchiLabs Logo.png)\\n© 2025 ArchiLabs. All rights reserved.\\n\" markdown_with_citations=\"![Company Logo⟨1⟩](https://archilabs.ai/</>)\\nSign In⟨2⟩Request Demo⟨3⟩\\n# AI Copilot for Architects\\nArchitectural workflows at the speed of thought\\nGET STARTED⟨3⟩![2D Floorplan Blurred⟨4⟩]![3D Floorplan Blurred⟨5⟩]\\n## Let's Talk\\nWant to change the way you work with architectural plans?Fill out the form below and we'll be in touch!\\nFirst Name*Last Name*\\nCompany Name*Team Size*\\nWork Email*\\nMessage*\\nI would like to subscribe to occasional updates about ArchiLabs\\nContact Us \\n![Company Logo⟨1⟩]\\n© 2025 ArchiLabs. All rights reserved.\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://archilabs.ai/ArchiLabs Logo.png: ![Company Logo\\n⟨2⟩ https://archilabs.ai/</login>: Sign In\\n⟨3⟩ https://archilabs.ai/</#contact>: Request Demo\\n⟨4⟩ https://archilabs.ai/images/hero-section-2d-blurred.png: 2D Floorplan Blurred\\n⟨5⟩ https://archilabs.ai/images/hero-section-3d-blurred.png: 3D Floorplan Blurred\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**ArchiLabs: Your AI Copilot for Architecture**\n\nFounded in 2024 and nestled in the vibrant tech landscape of San Francisco, ArchiLabs is on a mission to revolutionize architectural design. The brainchild of Brian and William, two engineers who met at Carnegie Mellon, ArchiLabs aims to streamline the architectural workflow with an AI co-pilot, enabling architects to increase their design speed by ten times through intuitive AI prompts.\n\nThe inception of ArchiLabs arose from a shared frustration—the lengthy design iteration process which both founders faced in their respective careers. Brian, having run a tech-enabled homebuilding factory, and William, who built homes in Texas, found that the existing design processes were filled with bottlenecks and inefficiencies. They believed that as AI models became more robust, there was a significant opportunity to innovate within the construction design landscape, even looking to surpass industry giants like Autodesk, valued at $60 billion.\n\nWith a two-person team, ArchiLabs is part of Y Combinator's Batch F24 and focuses on creating fast, efficient architectural workflows. Their technology leverages artificial intelligence to address the long-standing pain points in design processes, allowing architects to focus more on creativity rather than tedious tasks. Nicolas Dessaigne serves as their Group Partner, guiding their journey in the highly competitive proptech space.\n\nCurrently tagged as a B2B SaaS solution that caters to the construction industry, ArchiLabs stands at the intersection of technology and design, committed to enhancing productivity through cutting-edge AI. For those eager to experience this new way of working with architectural plans, ArchiLabs invites you to explore their offerings and potentially request a demo through their website: [archilabs.ai](https://archilabs.ai).\n\nIn short, ArchiLabs is not just building an AI tool; they're constructing a new paradigm in architecture, where design can flow as freely as thought."
+}

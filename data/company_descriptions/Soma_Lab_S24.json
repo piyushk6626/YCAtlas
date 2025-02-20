@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/soma-lab",
+  "name": "Soma Lab",
+  "headline": "Conversations with AI patients to scale healthcare training.",
+  "batch": "S24",
+  "description": "Soma Lab creates simulated conversations with AI patients to scale healthcare training. Students and providers practice with AI patients to build skills and get evaluated.",
+  "activity_status": "Active",
+  "website": "https://somalab.ai",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": null,
+  "group_partner": "Nicolas Dessaigne",
+  "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:ai-enhanced-learning; industry:education; industry:healthcare; industry:edtech; industry:ai",
+  "founders": [
+    {
+      "name": "Vrishank Saini, Founder",
+      "description": "Vrishank Saini is a University of Chicago neuroscience undergrad with a knack for blending neuroscience and computer science to drive innovation in medical education. As the founder of Bioscope Wellness and Soma Lab, he's not just studying cross-disciplinary subjects—he's applying them, evidenced by his development of a mental health app that garnered national coverage and over 120,000 downloads.",
+      "linkedin": "https://www.linkedin.com/in/vrishanksaini/"
+    },
+    {
+      "name": "Tiko Bdoyan, Founder",
+      "description": "Founder at Soma Lab passionate about educational technology and the future of learning. Previously, I was a Machine Learning researcher and a varsity wrestler at the University of Chicago.",
+      "linkedin": "https://www.linkedin.com/in/tigran-bdoyan/details/experience/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[Overview](https://somalab.ai/</>)\\n[Features](https://somalab.ai/</features>)\\n[Watch Demo](https://somalab.ai/</demo>)\\nBook a Demo\\nGet Started\\n![Logo](https://somalab.ai/logo_name.png)\\n# Practice counseling by talking to lifelike AI clients. Have full conversations just like real-life sessions.\\nSpeak directly with lifelike AI clients. You can have full conversations, ask questions, and get feedback right after.\\nGet Started\\n![Search Icon](https://somalab.ai/searchl.svg)[somalab.ai](https://somalab.ai/<https:/demo.somalab.ai>)![Search Icon](https://somalab.ai/searchr.svg)\\n![App Screenshot](https://somalab.ai/image.png)\\nLoading images...\\nReal conversations. Real experience. Anytime.\\nGet Started\\n2025 Soma Lab. All rights reserved.\\nhello@somalab.ai\\n[Privacy Policy](https://somalab.ai/</privacy-policy>)[Terms & Conditions](https://somalab.ai/</terms>)\\nBook a Demo\\n' markdown_with_citations='Overview⟨1⟩\\nFeatures⟨2⟩\\nWatch Demo⟨3⟩\\nBook a Demo\\nGet Started\\n![Logo⟨4⟩]\\n# Practice counseling by talking to lifelike AI clients. Have full conversations just like real-life sessions.\\nSpeak directly with lifelike AI clients. You can have full conversations, ask questions, and get feedback right after.\\nGet Started\\n![Search Icon⟨5⟩]somalab.ai⟨6⟩![Search Icon⟨7⟩]\\n![App Screenshot⟨8⟩]\\nLoading images...\\nReal conversations. Real experience. Anytime.\\nGet Started\\n2025 Soma Lab. All rights reserved.\\nhello@somalab.ai\\nPrivacy Policy⟨9⟩Terms & Conditions⟨10⟩\\nBook a Demo\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://somalab.ai/</>: Overview\\n⟨2⟩ https://somalab.ai/</features>: Features\\n⟨3⟩ https://somalab.ai/</demo>: Watch Demo\\n⟨4⟩ https://somalab.ai/logo_name.png: Logo\\n⟨5⟩ https://somalab.ai/searchl.svg: Search Icon\\n⟨6⟩ https://somalab.ai/<https:/demo.somalab.ai>: somalab.ai\\n⟨7⟩ https://somalab.ai/searchr.svg: Search Icon\\n⟨8⟩ https://somalab.ai/image.png: App Screenshot\\n⟨9⟩ https://somalab.ai/</privacy-policy>: Privacy Policy\\n⟨10⟩ https://somalab.ai/</terms>: Terms & Conditions\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Soma Lab: Revolutionizing Healthcare Training through AI Conversations**\n\nSoma Lab is a budding startup founded in 2024, currently making waves as part of Y Combinator's Batch S24. Their mission is straightforward yet impactful: to facilitate healthcare training through simulated conversations with AI patients. This approach allows students and healthcare providers to practice their counseling skills in an environment that mimics real-life interactions.\n\nThe innovative platform enables users to engage in full conversations with lifelike AI clients, providing a unique blend of learning and immediate feedback. Whether you're a student honing your skills or a healthcare professional seeking to enhance your interactions, Soma Lab offers a practical, scalable way to elevate your training experience.\n\nThough it started with a small team of just two employees, the ambition is expansive. Under the guidance of Group Partner Nicolas Dessaigne, Soma Lab is working in a space tagged with keywords such as 'ai-enhanced-learning', 'education', and 'healthcare', underscoring its commitment to improving educational outcomes in the medical field.\n\nCurious about the platform? You can dive into their features or watch a demo by visiting their website at [somalab.ai](https://somalab.ai). The site also offers options to book a demo or get started, making it easy for interested parties to explore how AI can reshape clinical training.\n\nIn a nutshell, Soma Lab is at the intersection of AI, healthcare, and education, proving that when you enhance learning through technology, you’re not just preparing for the future; you’re actively creating it."
+}

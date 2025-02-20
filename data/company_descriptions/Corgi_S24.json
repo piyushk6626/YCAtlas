@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/corgi",
+  "name": "Corgi",
+  "headline": "Corgi is building an AI insurance company",
+  "batch": "S24",
+  "description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
+  "activity_status": "Active",
+  "website": "https://secret.corgi.insure",
+  "founded_date": 2024.0,
+  "team_size": 13.0,
+  "location": "San Francisco",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:insurance; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Nico Laqua, Founder",
+      "description": "CEO/CTO of corgi - we do ai insurance.\n\nI previously founded Basket, a gaming publisher with 200+ million MAU.",
+      "linkedin": "https://www.linkedin.com/in/nico-laqua-302b17233"
+    },
+    {
+      "name": "Emily Yuan, Founder",
+      "description": "Emily is Co-Founder and COO at Corgi 🐕 She dropped out of Stanford as a CS undergrad to co-found Basket Entertainment, a gaming company with over 150 games and 200 million monthly players (including around 1 in 3 American teens).",
+      "linkedin": "https://www.linkedin.com/in/emilyyuan96"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![Lock Image](https://secret.corgi.insure/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fidle-lock.57c08a36.webp&w=640&q=75)\\n# Shhhh... This is a secret!\\nPlease enter the password to unlock this page\\n' markdown_with_citations='![Lock Image⟨1⟩]\\n# Shhhh... This is a secret!\\nPlease enter the password to unlock this page\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://secret.corgi.insure/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fidle-lock.57c08a36.webp&w=640&q=75: Lock Image\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Corgi is an ambitious startup setting its sights on revolutionizing the insurance industry with artificial intelligence. Founded in 2024 and a proud member of Y Combinator’s Batch S24, Corgi is working towards becoming the first full-stack AI insurance carrier. This is a bold target, especially considering that the insurance sector accounts for 12% of the US GDP—a massive pie that they intend to claim a significant slice of.\n\nLocated in the heart of San Francisco, Corgi is a lean operation with a team of 13 employees. With Jared Friedman serving as their Group Partner, the company is in good hands as they navigate the complexities of fintech, insurance, and AI. Their mission emphasizes transforming how insurance is perceived and administered by harnessing advanced technology, making processes smoother and more efficient for users.\n\nWhile there’s some intrigue surrounding the company's offerings (they seem to have a “secret” element that requires a password to unlock further details on their website), it’s clear that Corgi is geared towards delivering innovative solutions in the insurance landscape.\n\nFor those curious to delve deeper, Corgi maintains a website at [secret.corgi.insure](https://secret.corgi.insure), though access to certain information seems to be restricted. In summary, Corgi embodies a modern, tech-forward mentality, making it a company to watch in the evolving world of insurance."
+}

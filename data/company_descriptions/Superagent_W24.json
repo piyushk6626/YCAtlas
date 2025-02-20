@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/superagent",
+  "name": "Superagent",
+  "headline": "The agent workspace",
+  "batch": "W24",
+  "description": "Superagent is a workspace where AI assistants can work together, learn new information, and handle complex tasks on their own. Unlike regular AI tools that can only do basic tasks, Superagent's AI assistants can help teams with ongoing work like compliance, researching markets, and manage R&D - work that usually needs human employees.",
+  "activity_status": "Active",
+  "website": "https://superagent.sh/",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Nicolas Dessaigne",
+  "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:saas; industry:ai-assistant; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Alan Zabihi, Founder",
+      "description": "CEO & Co-founder of Superagent",
+      "linkedin": "https://linkedin.com/in/alanzabihi"
+    },
+    {
+      "name": "Ismail Pelaseyed, Founder",
+      "description": "CTO & Co-founder of Superagent.",
+      "linkedin": "http://se.linkedin.com/in/pelaseyed/en"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"[home](https://superagent.sh/<./>)\\n[blog](https://superagent.sh/<./blog>)\\n[manifesto](https://superagent.sh/<./blog/the-superagent-manifesto>)\\n[login](https://superagent.sh/<https:/app.superagent.sh/sign-in>)\\n[home](https://superagent.sh/<./>)\\n[blog](https://superagent.sh/<./blog>)\\n[manifesto](https://superagent.sh/<./blog/the-superagent-manifesto>)\\n[login](https://superagent.sh/<https:/app.superagent.sh/sign-in>)\\n🥷 The agent workspace\\nSuperagent is a workspace for AI-agents that learn, perform work, and collaborate.\\n[Join waitlist](https://superagent.sh/<./waitlist>)\\nToday's AI tools are limited to simple, one-off tasks. They can't learn from new information, manage complex work independently, or engage meaningfully with humans. It's nearly impossible to solve significant problems with these tools.\\nSuperagent is different. Our workspace lets you add agents that perform complex work for you autonomously. Teams are using Superagent to improve compliance, research markets, and manage R&D —work that previously required adding team members.\\nWe're building a workspace where the right agents can help you tackle ambitious projects. Where agents aren't just tools, but capable collaborators that expand what you can achieve.\\n[![](https://framerusercontent.com/images/MiHcrtOIXk99e3Xt7MLYL2EIjTY.svg)](https://superagent.sh/<https:/www.ycombinator.com/companies/superagent>)\\n[github](https://superagent.sh/<https:/github.com/superagent-ai/superagent>)\\n[legal](https://superagent.sh/<./legal>)\\n© 2025 Superagent Technologies, Inc.\\n[github](https://superagent.sh/<https:/github.com/superagent-ai/superagent>)\\n[legal](https://superagent.sh/<./legal>)\\n© 2025 Superagent Technologies, Inc.\\n\" markdown_with_citations=\"home⟨1⟩\\nblog⟨2⟩\\nmanifesto⟨3⟩\\nlogin⟨4⟩\\nhome⟨1⟩\\nblog⟨2⟩\\nmanifesto⟨3⟩\\nlogin⟨4⟩\\n🥷 The agent workspace\\nSuperagent is a workspace for AI-agents that learn, perform work, and collaborate.\\nJoin waitlist⟨5⟩\\nToday's AI tools are limited to simple, one-off tasks. They can't learn from new information, manage complex work independently, or engage meaningfully with humans. It's nearly impossible to solve significant problems with these tools.\\nSuperagent is different. Our workspace lets you add agents that perform complex work for you autonomously. Teams are using Superagent to improve compliance, research markets, and manage R&D —work that previously required adding team members.\\nWe're building a workspace where the right agents can help you tackle ambitious projects. Where agents aren't just tools, but capable collaborators that expand what you can achieve.\\n![⟨6⟩](https://superagent.sh/<https:/www.ycombinator.com/companies/superagent>)\\ngithub⟨7⟩\\nlegal⟨8⟩\\n© 2025 Superagent Technologies, Inc.\\ngithub⟨7⟩\\nlegal⟨8⟩\\n© 2025 Superagent Technologies, Inc.\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://superagent.sh/<./>: home\\n⟨2⟩ https://superagent.sh/<./blog>: blog\\n⟨3⟩ https://superagent.sh/<./blog/the-superagent-manifesto>: manifesto\\n⟨4⟩ https://superagent.sh/<https:/app.superagent.sh/sign-in>: login\\n⟨5⟩ https://superagent.sh/<./waitlist>: Join waitlist\\n⟨6⟩ https://framerusercontent.com/images/MiHcrtOIXk99e3Xt7MLYL2EIjTY.svg: ![\\n⟨7⟩ https://superagent.sh/<https:/github.com/superagent-ai/superagent>: github\\n⟨8⟩ https://superagent.sh/<./legal>: legal\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Superagent is an innovative startup founded in 2023, based in San Francisco and part of the Y Combinator Batch W24. The company’s mission is to create an “agent workspace” where AI assistants can perform complex tasks collaboratively and autonomously—much like human employees, without being limited by conventional AI capabilities.\n\nThe founders recognized a gap in existing AI tools, which typically handle only simple, repetitive tasks. Superagent seeks to change that by allowing teams to employ AI agents that can engage in ongoing work—such as compliance, market research, and managing research and development. This means that businesses can streamline operations and tackle significant projects without the need to expand their human teams.\n\nWith only a small team of two, Superagent has the ambition to redefine the interaction between humans and AI in the workplace. Their platform is designed to not just improve efficiency but to act as a collaborative partner in achieving complex goals.\n\nYou can learn more about them through their website ([superagent.sh](https://superagent.sh/)), where they offer insights into their philosophy and updates on their technology. They also invite interested users to join their waitlist to be part of this cutting-edge workspace.\n\nIn short, Superagent is carving a niche in the AI landscape by building a workspace that transforms AI from a tool into a collaborative partner, capable of expanding what teams can achieve."
+}

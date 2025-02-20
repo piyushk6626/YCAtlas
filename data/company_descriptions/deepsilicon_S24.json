@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/deepsilicon",
+  "name": "deepsilicon",
+  "headline": "Software and hardware to run neural networks faster and cheaper",
+  "batch": "S24",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://www.deepsilicon.net/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Diana Hu",
+  "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:edge-computing-semiconductors; industry:hard-tech; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Abhinav Reddy, Founder",
+      "description": "Computer Science and Electrical Engineering.\nFocused on creating simple software and fast hardware for running neural networks.",
+      "linkedin": "https://www.linkedin.com/in/abhinav-reddy-387386262/"
+    },
+    {
+      "name": "Alexander Nanda, Founder",
+      "description": "Dartmouth College Computer Science and Physics, building software and hardware for fast neural nets",
+      "linkedin": "https://www.linkedin.com/in/alexander-nanda/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[](https://www.deepsilicon.net/</>)\\nSF 07:15\\nNY 10:15\\nThe next generation of software to run neural networks on device is here. Your model. Faster. Smaller.\\nExperience 8x Less RAM, 20x More Throughput, and 100x Better Power Efficiency.\\n[Get Started →](https://www.deepsilicon.net/</contact>)\\n' markdown_with_citations='[](https://www.deepsilicon.net/</>)\\nSF 07:15\\nNY 10:15\\nThe next generation of software to run neural networks on device is here. Your model. Faster. Smaller.\\nExperience 8x Less RAM, 20x More Throughput, and 100x Better Power Efficiency.\\nGet Started →⟨1⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.deepsilicon.net/</contact>: Get Started →\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Deepsilicon is on a mission to transform the world of artificial intelligence by developing both software and hardware that make running neural networks not just faster, but also more cost-effective. This ambitious startup, founded in 2024, is a fresh face in the tech landscape, currently operating out of the innovative hotbed of San Francisco.\n\nThe company began its journey as part of the influential Y Combinator Batch S24, a program renowned for nurturing startups with promising ideas. With a small team of just two dedicated employees, Deepsilicon is agile and focused. They've garnered the mentorship of Diana Hu, a Group Partner at Y Combinator, which signals a strong backing in both strategic and operational guidance.\n\nTagging itself as part of the cutting-edge mix of **edge computing, semiconductors, hard tech, and AI**, Deepsilicon is at the intersection of several rapidly evolving fields. Their pitch is compelling: a next-generation software that runs neural networks directly on devices, offering significant improvements in efficiency. Specifically, users can expect a whopping 8x reduction in RAM usage, 20x increase in throughput, and an impressive 100x enhancement in power efficiency.\n\nYou can check out what they’re about or get started with their offerings on their website [here](https://www.deepsilicon.net/). They’re shaping a future where power-hungry AI models run seamlessly on-device, without the need for bulky cloud infrastructure. In a world obsessed with optimization, Deepsilicon is promising a streamlined approach to leveraging AI that’s faster, smaller, and undeniably smarter."
+}

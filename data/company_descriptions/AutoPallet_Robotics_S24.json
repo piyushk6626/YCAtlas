@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/autopallet-robotics",
+  "name": "AutoPallet Robotics",
+  "headline": "We make robots that move boxes in warehouses",
+  "batch": "S24",
+  "description": "We’re building the next generation of warehouse robotics.\r\n\nIn the US today, retailers spend approximately $10B per year paying human laborers to pick up and move cardboard boxes in warehouses. Existing solutions for automating this are expensive and difficult to install, which is why manual operation is still so prevalent.\r\n\nOur solution is different. We make swarms of small mobile robots that install into existing warehouses to provide a low-cost and robust automation solution for case picking and mixed-SKU palletization. Our novel technology allows these robots to be installed and operate at significantly lower cost than existing solutions while being both flexible and robust.",
+  "activity_status": "Active",
+  "website": "https://autopallet.bot",
+  "founded_date": 2024.0,
+  "team_size": 3.0,
+  "location": "San Francisco",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:hard-tech; industry:machine-learning; industry:warehouse-management-tech; industry:swarm-robotics; industry:automation; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Nathan Yee, Founder",
+      "description": "Nathan is the co-founder and COO of AutoPallet Robotics.\n\nAt 18, he graduated as the valedictorian of College of Alameda and then studied Engineering with Computing at Olin College where he met Eric. He has since built ML models for MBARI, consulted for the DIU (xView2) and WashU (drug discovery), and built core software for lab automation robotics at Trilobio.",
+      "linkedin": "https://www.linkedin.com/in/nathanielyee/"
+    },
+    {
+      "name": "Eric Miller, Founder",
+      "description": "Eric is the co-founder and CEO of AutoPallet Robotics.\n\nAfter graduating from Olin College in 2019, he led the Subject Tracking and Autonomy Infrastructure teams at Skydio, rapidly growing from individual contributor to lead a team of 6 engineers.\n\nEric is a multidisciplinary robotics engineer with significant experience building modern robotics stacks, from hardware and electronics through perception and high-level software.",
+      "linkedin": "https://www.linkedin.com/in/olin-eric/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![](https://autopallet.bot/static/images/logo.svg)\\nAutoPallet Robotics\\n[Home](https://autopallet.bot/<#>) Contact Invest\\nThe Future of Case Picking in Warehouses\\nconnect@autopallet.bot \\n[ ![](https://autopallet.bot/static/images/yc.png) ](https://autopallet.bot/<https:/www.ycombinator.com/>)\\n' markdown_with_citations='![](https://autopallet.bot/static/images/logo.svg)\\nAutoPallet Robotics\\nHome⟨1⟩ Contact Invest\\nThe Future of Case Picking in Warehouses\\nconnect@autopallet.bot \\n ![⟨2⟩ ](https://autopallet.bot/<https:/www.ycombinator.com/>)\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://autopallet.bot/<#>: Home\\n⟨2⟩ https://autopallet.bot/static/images/yc.png:  ![\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**AutoPallet Robotics: The Future of Warehouse Automation**\n\nFounded in 2024 and part of Y Combinator's Batch S24, AutoPallet Robotics is out to transform the way warehouses operate. Based in San Francisco with a tight-knit team of three, they’re developing an innovative fleet of small mobile robots specifically designed for the warehousing sector. Their mission? To make robots that move boxes in warehouses — a task that costs US retailers around $10 billion a year due to reliance on human labor.\n\nHere's the kicker: existing solutions for warehouse automation are often prohibitively expensive and complex to install. That’s why many companies still depend on manual labor to handle the heavy lifting. AutoPallet Robotics is flipping the script. They are building swarms of flexible, cost-effective robots that can be deployed into existing warehouse setups. This makes their solution not only robust but also much more accessible than the current high-tech offerings on the market.\n\nWhat truly stands out is their cutting-edge approach that combines elements of swarm robotics and machine learning. This novel technology enables easier installation and operation at a fraction of the cost of traditional automation solutions, paving the way for a more efficient future in case picking and mixed-SKU palletization.\n\nWith Jared Friedman, a notable Group Partner, backing them, AutoPallet Robotics is poised to make a significant impact in the field of warehouse management technology, particularly as it is tagged within the hard-tech and automation categories.\n\nFor more information and updates on their journey, you can visit their website at [AutoPallet Robotics](https://autopallet.bot).\n\nIn summary, if you're looking to understand how the future of warehouses looks—leaner, smarter, and filled with nimble robots—keep an eye on AutoPallet Robotics. They're not just building technology; they're redefining how goods move in the modern supply chain."
+}

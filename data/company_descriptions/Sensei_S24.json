@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/sensei",
+  "name": "Sensei",
+  "headline": "Robotic Training Data at Scale",
+  "batch": "S24",
+  "description": "Sensei helps robotics companies scale and outsource their training data collection. Our hardware platform enables the collection of human-demonstration data at a tenth of the cost and twice the speed of current teleop approaches. Our software platform acts like Scale AI for robotics data: a large network of paid human operators use our low-cost collection platform to fulfill data-generation requests.",
+  "activity_status": "Active",
+  "website": "https://senseirobotics.com",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:hard-tech; industry:marketplace; industry:robotics; industry:data-engineering; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Anubhav Guha, Founder",
+      "description": "CEO at Sensei - building the marketplace for robotic training data. Previously MIT Robotics PhD (dropped out) and Chief Engineer & Program Manager of Aurora Flight Science/Boeing's DARPA AlphaDogfight team. I've spent my whole career in robotics, and my goal is to help make AI robotics a reality.",
+      "linkedin": "https://www.linkedin.com/in/anubhav-guha-886445129/"
+    },
+    {
+      "name": "John Piotti, Founder",
+      "description": "CTO at Sensei - scaling robotic training data collection to be 2x faster and 10x cheaper. Previously MIT '19, Robotics Engineer at Aurora Flight Science/Boeing, and full stack web development at UtilityAPI. Also building a house in my free time.",
+      "linkedin": "https://www.linkedin.com/in/john-piotti-51a67412a/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='Toggle navigation menu[![Sensei Robotics](https://senseirobotics.com/_next/image?url=%2Flogo_black.png&w=96&q=75)![Sensei Robotics](https://senseirobotics.com/_next/image?url=%2Flogo_white.png&w=96&q=75)Sensei](https://senseirobotics.com/</>)[Home](https://senseirobotics.com/</>)Toggle theme\\n# Robotic training data, at scale.\\nWe connect robotics companies to a network of human operators collecting in-the-wild training data.\\n[Request Data](https://senseirobotics.com/</request-data>)\\nTell us about your data needs\\n[Become a Sensei](https://senseirobotics.com/</beta>)\\nJoin our beta and teach robots to be human!\\n### Get in Touch\\nFill out the form below to learn more about Sensei.\\nName\\nEmail\\nMessage\\nSubmit\\n' markdown_with_citations='Toggle navigation menu![Sensei Robotics⟨1⟩![Sensei Robotics⟨2⟩]Sensei](https://senseirobotics.com/</>)Home⟨3⟩Toggle theme\\n# Robotic training data, at scale.\\nWe connect robotics companies to a network of human operators collecting in-the-wild training data.\\nRequest Data⟨4⟩\\nTell us about your data needs\\nBecome a Sensei⟨5⟩\\nJoin our beta and teach robots to be human!\\n### Get in Touch\\nFill out the form below to learn more about Sensei.\\nName\\nEmail\\nMessage\\nSubmit\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://senseirobotics.com/_next/image?url=%2Flogo_black.png&w=96&q=75: ![Sensei Robotics\\n⟨2⟩ https://senseirobotics.com/_next/image?url=%2Flogo_white.png&w=96&q=75: Sensei Robotics\\n⟨3⟩ https://senseirobotics.com/</>: Home\\n⟨4⟩ https://senseirobotics.com/</request-data>: Request Data\\n⟨5⟩ https://senseirobotics.com/</beta>: Become a Sensei\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Sensei: Robotic Training Data at Scale**\n\nFounded in 2024 and a proud member of Y Combinator Batch S24, Sensei is a San Francisco-based startup on a mission to revolutionize how robotics companies gather training data. They aim to bridge the gap between robotics innovation and effective, scalable data collection by connecting these companies to a network of human operators dedicated to gathering in-the-wild training data.\n\n### What Makes Sensei Stand Out?\n\nAt its core, Sensei has developed a dual-platform approach. Their hardware platform dramatically lowers the costs and speeds up the process of collecting human-demonstrated data—achieving results at a tenth of the cost and twice the speed compared to traditional teleoperation methods. Meanwhile, their software platform serves as a robust marketplace for robotics data, akin to Scale AI but tailored for the unique challenges of robotics. \n\nThe company’s lean team of just two employees is focused on building this innovative ecosystem, ensuring that data collection is not only efficient but also cost-effective. Whether you’re a robotics company in need of data or someone looking to contribute to this field, Sensei provides avenues to connect and collaborate.\n\n### Key Details:\n- **Website**: [Sensei Robotics](https://senseirobotics.com)\n- **Mission**: Robotic training data at scale\n- **Founders**: Part of Y Combinator’s S24 Batch\n- **Location**: San Francisco, CA\n- **Team Size**: 2 employees\n- **Group Partner**: Jared Friedman\n- **Tagged Areas**: Artificial intelligence, hard tech, marketplace, robotics, data engineering, San Francisco Bay Area\n\nIn essence, Sensei is at the forefront of making robotic training data more accessible and efficient—an essential step toward the advancement of AI and robotics. Their approach not only benefits robotics companies but also opens up new opportunities for individuals to engage in this exciting field. If you're looking to understand or leverage data for robotics, Sensei is definitely a company to watch."
+}

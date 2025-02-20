@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/variant",
+  "name": "Variant",
+  "headline": "Building the state-of-the-art model for software design",
+  "batch": "F24",
+  "description": "Variant is building the state-of-the-art model for software design. Our first milestone, icon generation, already surpasses existing approaches. The company is founded by Ben South Lee, former VP of Product Design at unicorn companies Postmates ($5B exit) and Avara ($2.5B market cap), and Daniel Bulhosa Solórzano, Staff ML engineer at Square and Cruise.",
+  "activity_status": "Active",
+  "website": "https://variant.ai",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Garry Tan",
+  "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:developer-tools; industry:design-tools; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Benjamin South Lee, Founder",
+      "description": "Building Variant. Formerly founded two companies which were acquired by Postmates, where I was VP of Product Design, and Avara, where I was SVP of Product and Design. \n\nExperiments: bensouth.com",
+      "linkedin": "https://linkedin.com/in/hoopla"
+    },
+    {
+      "name": "Daniel Bulhosa Solorzano, Founder",
+      "description": "Formerly led simulation & testing for emergency vehicle, human controlling traffic, and school bus interactions at Cruise. Worked on generative AI for simulating road actor behavior in the same. Previously led machine learning at the Square Ecommerce team, where he built the ML features of the Photo Studio mobile app and the PDF to catalog importer feature.",
+      "linkedin": "https://www.linkedin.com/in/dbulhosa/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Variant: Innovating Software Design through AI**\n\nVariant is a forward-thinking startup aiming to revolutionize software design with cutting-edge models. Founded in 2024 and part of the renowned Y Combinator Batch F24, Variant is spearheaded by Ben South Lee, a seasoned professional with a track record as VP of Product Design at Postmates and Avara, and Daniel Bulhosa Solórzano, a Staff ML engineer with experience at Square and Cruise.\n\nThe company operates out of San Francisco with a lean but talented team of two. Their mission is to build the state-of-the-art model for software design, and they’ve already hit a significant milestone in icon generation, outpacing existing solutions in the market—a promising indicator of their potential.\n\nWith Garry Tan as their Group Partner, Variant is positioned well within the rapidly evolving landscape of artificial intelligence, particularly in the realms of developer tools and design tools. The company is tagged with key identifiers such as ‘artificial-intelligence’, ‘developer-tools’, and ‘design-tools’, highlighting the strategic focus of their innovations.\n\nAs they continue to develop their products, keep an eye on Variant; they’re on a mission to reshape how software is designed, and with their experienced leadership, they’re already making waves in the tech community. If you want to learn more about them, you can check out their website at [variant.ai](https://variant.ai)."
+}

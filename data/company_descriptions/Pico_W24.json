@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/pico",
+  "name": "Pico",
+  "headline": "Pico organizes and takes action on your iPhone screenshots",
+  "batch": "W24",
+  "description": "Screenshots are the fastest way to save something on your phone. Millions of people habitually screenshot things they like or might revisit - even if they never do. It's like throwing a pass to your future self that you aren't going to catch. Pico knows that your plane ticket and hotel listing are for the same trip, to grab the link for that headline so you can read it later, or to find that product online so you can buy it.",
+  "activity_status": "Active",
+  "website": "http://withpico.com",
+  "founded_date": null,
+  "team_size": 2.0,
+  "location": null,
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:consumer",
+  "founders": [
+    {
+      "name": "Taylor Rogalski, Founder",
+      "description": "pico",
+      "linkedin": "https://linkedin.com/in/taylor-rogalski-4b169767"
+    },
+    {
+      "name": "Zach Gotsch, Founder",
+      "description": "Gotta go fast.\n\nprior: Synthesis, Flexport, Universe, Khan Academy, Lore.\ninterests: PL, graphics, math, natural language, video games, dance",
+      "linkedin": "https://www.linkedin.com/in/zach-gotsch-b90a9011/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# Useful screenshots.\\n### Picos are intelligent agents that find events, products, and more in your screenshots.\\n![](https://framerusercontent.com/images/BnCGs3djPXup9Hdc2GLX0qS4ktw.png)\\n© Picopi Co, 2024\\n[Privacy policy](http://withpico.com/<https:/pico0.withpico.com/privacy>)\\nEmail us\\n' markdown_with_citations='# Useful screenshots.\\n### Picos are intelligent agents that find events, products, and more in your screenshots.\\n![](https://framerusercontent.com/images/BnCGs3djPXup9Hdc2GLX0qS4ktw.png)\\n© Picopi Co, 2024\\nPrivacy policy⟨1⟩\\nEmail us\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ http://withpico.com/<https:/pico0.withpico.com/privacy>: Privacy policy\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Pico**\n\nAt its core, Pico is a clever solution to a problem we all face: our overflowing camera rolls filled with screenshots that we promise ourselves we’ll revisit, but rarely do. Founded recently and part of Y Combinator Batch W24, Pico aims to be the organized assistant for your iPhone screenshots, transforming those forgotten snapshots into useful reminders for your future self.\n\n**Mission Statement**  \nPico's mission is simple yet powerful: to organize and take action on your screenshots. When you snap a picture of a plane ticket, a hotel listing, or an intriguing article headline, Pico acts like a digital concierge, ensuring that you connect the dots—like linking your travel details or finding a product you want to buy.\n\n**Team and Location**  \nCurrently consisting of a nimble team of just two employees, Pico operates without a specified location but under the guidance of Jared Friedman, their Group Partner. The compact team highlights their startup agility, allowing for quick pivots based on user needs.\n\n**Technology Focus**  \nWith a clear focus on artificial intelligence and consumer technology, Pico is not just about saving images; it’s about extracting value from them. The company’s intelligent agents are designed to sift through your screenshots, recognizing events, products, and more, to help streamline your digital life.\n\n**Engagement and Communication**  \nInterested users can find more information on their website, [withpico.com](http://withpico.com), or get in touch regarding privacy concerns directly through their [privacy policy](http://withpico.com/<https:/pico0.withpico.com/privacy>).\n\nIn essence, Pico is carving out a niche in the consumer tech space by tackling a simple oversight—screenshot overload—making it smarter, more efficient, and, dare I say, a little more human. It’s all about making sure that every screenshot you take actually serves a purpose in your life."
+}

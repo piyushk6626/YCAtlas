@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/dmodel",
+  "name": "dmodel",
+  "headline": "Look inside the model",
+  "batch": "S24",
+  "description": "dmodel lets companies look inside the mind of an AI model and manipulate its thoughts in real-time. For example, AI-driven customer service platforms can use dmodel to rapidly fine-tune responses for accuracy and brand alignment, without retraining the entire model.",
+  "activity_status": "Active",
+  "website": "https://www.dmodel.ai",
+  "founded_date": 2024.0,
+  "team_size": 3.0,
+  "location": "San Francisco",
+  "group_partner": "David Lieb",
+  "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:generative-ai; industry:saas; industry:compliance; industry:api; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Daniel Moon, Founder",
+      "description": "Founder @ dmodel.\n\n1st Gen MIT, EE BS, EECS MEng.",
+      "linkedin": "https://www.linkedin.com/in/daniel-h-moon"
+    },
+    {
+      "name": "Anish Tondwalkar, Founder",
+      "description": "Founder @ dmodel\n\nI study core problems in artificial intelligence and ontology. I spend most of my time outside work trying to find excuses to move tiny marks around on pieces of paper.",
+      "linkedin": "https://www.linkedin.com/in/ani-sh"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# dmodel\\n**look inside the model**\\ndmodel lets companies look inside the mind of an LLM and manipulate its thoughts in real-time. For example, AI-driven customer service platforms can use  dmodel to rapidly dial in responses for accuracy and brand alignment, without any retraining. \\n[Join the waitlist here >>](https://www.dmodel.ai/<https:/forms.gle/nbs4oQ7WYq7Skwkc9>)\\n[blog](https://www.dmodel.ai/<blog/>) | [anish](https://www.dmodel.ai/<http:/ani.sh>) | [dmoon](https://www.dmodel.ai/<https:/www.linkedin.com/in/d-moon/>)\\n' markdown_with_citations='# dmodel\\n**look inside the model**\\ndmodel lets companies look inside the mind of an LLM and manipulate its thoughts in real-time. For example, AI-driven customer service platforms can use  dmodel to rapidly dial in responses for accuracy and brand alignment, without any retraining. \\nJoin the waitlist here >>⟨1⟩\\nblog⟨2⟩ | anish⟨3⟩ | dmoon⟨4⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.dmodel.ai/<https:/forms.gle/nbs4oQ7WYq7Skwkc9>: Join the waitlist here >>\\n⟨2⟩ https://www.dmodel.ai/<blog/>: blog\\n⟨3⟩ https://www.dmodel.ai/<http:/ani.sh>: anish\\n⟨4⟩ https://www.dmodel.ai/<https:/www.linkedin.com/in/d-moon/>: dmoon\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**dmodel**: Look Inside the Model\n\nFounded in 2024 and based in San Francisco, dmodel is a fresh entrant in the generative AI landscape, having recently joined Y Combinator Batch S24. The mission? To allow companies to peek inside the cognitive processes of their AI models and tweak them on the fly.\n\nImagine this: you have an AI-driven customer service platform that needs to respond accurately and align with your brand's voice. Traditionally, you'd need to retrain the entire model, which is a time-consuming process. With dmodel, you can adjust the model’s responses in real-time, ensuring they hit the mark without the hassle of extensive retraining.\n\nThe company operates with a lean team of three, under the guidance of Group Partner David Lieb. They’re making waves with their innovative approach, and their work is categorized under tags like generative AI, SaaS, compliance, and API, reflecting their multifaceted operations in the AI realm.\n\nIf you’re curious about their offerings, you can join the waitlist [here](https://www.dmodel.ai/<https:/forms.gle/nbs4oQ7WYq7Skwkc9>) or dive into their [blog](https://www.dmodel.ai/<blog/>). For more personal insights, check out their team members Anish and Dmoon on their respective platforms: [anish](https://www.dmodel.ai/<http:/ani.sh>) and [dmoon](https://www.dmodel.ai/<https:/www.linkedin.com/in/d-moon/>).\n\nAs they continue to position themselves in the rapidly evolving world of AI, dmodel is certainly one to watch. Their approach could redefine how businesses interact with AI, streamlining processes and enhancing accuracy in real-time interactions."
+}

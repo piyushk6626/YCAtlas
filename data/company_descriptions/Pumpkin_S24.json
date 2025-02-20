@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/pumpkin",
+  "name": "Pumpkin",
+  "headline": "A web browser built for human and AI collaboration",
+  "batch": "S24",
+  "description": "Pumpkin is a new type of web browser built for daily collaboration with AI.",
+  "activity_status": "Active",
+  "website": "https://www.browsewithpumpkin.com/",
+  "founded_date": 2024.0,
+  "team_size": 1.0,
+  "location": "San Francisco",
+  "group_partner": "David Lieb",
+  "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:automation; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Sam Crombie, Founder",
+      "description": "Sam is the founder of Pumpkin.\n\nHe has deep expertise in web technologies and automation, previously working as a Product Manager on the Microsoft Edge Browser.\n\nSam received his B.A. in Computer Science from Dartmouth College in 2023.",
+      "linkedin": "https://linkedin.com/in/samcrombie"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# 🎃 Pumpkin\\nA web browser built for human and AI collaboration\\nDownload for Windows\\n' markdown_with_citations='# 🎃 Pumpkin\\nA web browser built for human and AI collaboration\\nDownload for Windows\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Pumpkin: The Future of AI-Enhanced Browsing**\n\nFounded in 2024, Pumpkin is an innovative web browser designed to enhance how humans collaborate with artificial intelligence. Located in the heart of the San Francisco Bay Area and currently part of the Y Combinator Batch S24, Pumpkin is on a mission to redefine our online experience by integrating AI into our daily web interactions.\n\nThe idea behind Pumpkin is straightforward yet transformative: it aims to create a browsing environment where users can seamlessly work alongside AI tools, making the web feel more intuitive and collaborative. This is not just about automation—it's about augmenting human intelligence with AI capabilities.\n\nWith its single-employee team, led by the strategic support of David Lieb as Group Partner, Pumpkin is still in its nascent stages but showing great potential. It presents a unique opportunity for those interested in the intersection of automation and AI, promising to streamline browsing and boost productivity.\n\nYou can explore their offering more at [Browse with Pumpkin](https://www.browsewithpumpkin.com/). If you’re fascinated by how AI can change the way we interact with the internet, keep an eye on this promising venture."
+}

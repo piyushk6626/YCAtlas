@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/bayesline",
+  "name": "Bayesline",
+  "headline": "Highly customizable and blazingly fast analytics for asset managers.",
+  "batch": "S24",
+  "description": "Bayesline is building a GPU-powered financial analytics suite for institutional investors, like hedge funds. \r\n\nClients use our cloud deployed solution to build custom analytics in seconds, having previously been frustrated with off the shelf solutions that don't generate any alpha. What used to take weeks or months now happens near instantly. \r\n\nSebastian, CFA (ex Bloomberg Quant & AI Research) and Misha, PhD (ex BlackRock Managing Director) met while working at BlackRock in 2016. With a combined 20 years of experience in the space they set out to change the way the industry uses analytics - from one size doesn't fit all to truly tailored to clients' needs.",
+  "activity_status": "Active",
+  "website": "https://bayesline.com",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "New York",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:finance; industry:b2b; industry:analytics; industry:ai; location:new-york",
+  "founders": [
+    {
+      "name": "Sebastian Janisch, Founder",
+      "description": "Building blazingly fast financial analytics at Bayesline. \nPreviously quant at Bloomberg and BlackRock building investment models running 4T in assets.",
+      "linkedin": "https://www.linkedin.com/in/sebastianjanisch/"
+    },
+    {
+      "name": "Misha van Beek, Founder",
+      "description": "Misha van Beek is a co-founder at Bayesline. Before Bayesline, Misha was a Managing Director at BlackRock where he led innovation on Aladdin’s portfolio risk models spanning tens of trillions in assets. He also led the research on Aladdin’s economic scenario engine, as well as investment models that run roughly $400 billion in strategic asset allocations across all major asset classes. He holds a PhD in Financial Mathematics from the University of Amsterdam.",
+      "linkedin": "https://www.linkedin.com/in/mishavanbeek/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Bayesline: Redefining Financial Analytics for Asset Managers**\n\nFounded in 2024 as part of Y Combinator Batch S24, Bayesline is on a mission to provide highly customizable and lightning-fast analytics for asset managers. The company emerged from the minds of Sebastian, a CFA with experience at Bloomberg as a Quant and AI Researcher, and Misha, a PhD who previously served as a Managing Director at BlackRock. Their shared vision took shape when they met at BlackRock in 2016, drawing from a collective 20 years of industry expertise.\n\nBayesline develops a GPU-powered financial analytics suite tailored for institutional investors, particularly hedge funds. Traditional off-the-shelf solutions often left clients frustrated, unable to generate the alpha they sought. Bayesline changes the game by enabling clients to build custom analytics in seconds—what used to take weeks or even months now occurs almost instantaneously with their cloud-deployed solution.\n\nLocated in New York, the company operates with a lean team of just two employees. They have established partnerships within the finance community, leveraging their deep industry knowledge to innovate and cater specifically to client needs. With their technology firmly embedded in the fintech space, Bayesline bursts into the market with a strong focus on analytics and artificial intelligence, creating a more bespoke experience for financial institutions.\n\nTo learn more about their offerings, visit their website: [Bayesline](https://bayesline.com)."
+}

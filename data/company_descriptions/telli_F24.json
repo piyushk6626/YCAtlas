@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/telli",
+  "name": "telli",
+  "headline": "outbound call automation for B2C companies",
+  "batch": "F24",
+  "description": "telli is building AI voice agents that convert leads into sales opportunities for B2C companies. For example, a leading home-buying platform is using telli to fully automate their pre-qualification.\r\n\nWe are serving customers in energy, real estate, medical products, and home services.\r\n\nYou might think that these B2C companies want to do more self-serve and less outreach. But the truth is outbound calls are what really drive conversion. Historically, managing these calls has been complex and expensive—costing companies hundreds of thousands of dollars. With telli, for the first time, B2C companies can automate the role of a pre-sales agent, end to end.",
+  "activity_status": "Active",
+  "website": "https://telli.com/en/",
+  "founded_date": 2024.0,
+  "team_size": 5.0,
+  "location": "Berlin, Germany",
+  "group_partner": "Nicolas Dessaigne",
+  "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:saas; industry:b2b",
+  "founders": [
+    {
+      "name": "Finn zur Muehlen, co-founder",
+      "description": "co-founder & ceo @ telli.com | prev. scaled heat pump unit of Enpal (largest European solar installer, $2.4bn valuation) as employee #1",
+      "linkedin": "https://www.linkedin.com/in/finnzurmuehlen/"
+    },
+    {
+      "name": "Philipp Baumanns, co-founder",
+      "description": "co-founder (commercial) @ telli.com |\nprev. scaled heat pump unit of Enpal (largest European solar installer, $2.4bn valuation) as employee #2",
+      "linkedin": "https://www.linkedin.com/in/philipp-b-a2986ab9/"
+    },
+    {
+      "name": "Seb Hapte-Selassie, co-founder",
+      "description": "co-founder & cto @ telli.com | prev. software engineering at Pitch.com - computer science @ Stanford",
+      "linkedin": "https://www.linkedin.com/in/sebhs/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"404\\n# Page not found\\nThe page you are looking for doesn't exist or has been moved.\\n\" markdown_with_citations=\"404\\n# Page not found\\nThe page you are looking for doesn't exist or has been moved.\\n\" references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Telli**\n\nFounded in 2024 and based in Berlin, Germany, Telli is a promising startup that emerged from the Y Combinator Batch F24 program. With a lean team of just five employees, Telli is focused on a singular mission: to revolutionize outbound call automation for B2C companies. Their innovative solution primarily targets sectors like energy, real estate, medical products, and home services.\n\n**Mission & Services:**\nTelli's mission is clear: to enable B2C companies to streamline their lead conversion process through intelligent AI voice agents. These agents are designed to act as pre-sales specialists, effectively taking over the traditionally complex and costly management of outbound calls. This is particularly significant in an era where many businesses lean towards self-service solutions. In reality, the direct outreach provided by calls remains a potent driver of conversion. With Telli, companies can harness automation to engage with leads more efficiently and at a fraction of the historical costs—often saving hundreds of thousands of dollars in the process.\n\n**Technology & Impact:**\nThe technology behind Telli focuses on AI-driven voice agents capable of automating the entire pre-qualification stage for leads. A notable example includes their partnership with a leading home-buying platform, which leverages Telli's solution to automate its pre-qualification process fully. This kind of innovation not only enhances efficiency but also transforms the way companies interact with potential customers.\n\n**Market Position:**\nTelli positions itself in the intersection of artificial intelligence and software-as-a-service (SaaS), uniquely tailored for B2B applications within the B2C landscape. As the market evolves, their approach to automating outbound calls places them at a significant advantage, aligning with the needs of modern businesses that seek to maximize efficiency without sacrificing the personal touch that calls can offer.\n\n**Leadership:**\nUnder the guidance of Group Partner Nicolas Dessaigne, Telli is poised for growth. The company's strategic direction and innovative technology reflect an understanding of the challenges faced by B2C companies today.\n\nFor more information, visit Telli's official site at [telli.com](https://telli.com/en/). If you’re interested in how automation can transform customer outreach, Telli is definitely a company to watch."
+}

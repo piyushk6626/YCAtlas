@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/pearson-labs",
+  "name": "Pearson Labs",
+  "headline": "AI agents to automate corporate transactions",
+  "batch": "F24",
+  "description": "Pearson builds AI agents to automate corporate transactions. Large law firms use us to run gigantic books of businesses with AI, reducing their cost of delivery 40-60%. We work with Orrick as our first design partner, starting with M&A due diligence and financings. $3-6T dollars flow through corporate transactions a year and lawyers take home 1-3% as their cut for every transaction ($150B / year). In the long run, we will capture 50% of the corporate transaction market with the top 30 law firms. We will then provide our AI to companies so they can execute these transactions themselves.",
+  "activity_status": "Active",
+  "website": "http://www.pearsonlabs.ai",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Nicolas Dessaigne",
+  "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:generative-ai; industry:legal; industry:legaltech; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Stephanie Young, Founder",
+      "description": "Cofounder and CEO at Pearson, AI to automate corporate legal transactions (M&A, IPOs, financings). Previously built Riva, AI bots to help employees negotiate job offers with the mission to even gender and racial pay gaps. Went through a M&A with that company which inspired this company. ex-Google, Lyft, Stanford (4 degrees from Stanford in just over 6 years).",
+      "linkedin": "https://www.linkedin.com/in/stephanieyoung1/"
+    },
+    {
+      "name": "Qi Yang, Founder",
+      "description": "Qi is the Co-Founder and CTO of Pearson Labs. MIT PhD and former Meta AI researcher, led Themis AI's research team with a focus on mitigating hallucinations in AI systems.",
+      "linkedin": "https://www.linkedin.com/in/qi-yang-mit/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"[](http://www.pearsonlabs.ai/<./>)\\n[](http://www.pearsonlabs.ai/<./>)\\n[What's newReducing hallucinations in LLMs](http://www.pearsonlabs.ai/<https:/arxiv.org/pdf/2311.15451>)\\n# AI Powered Corporate Transactions\\nWe build AI for companies and law firms to execute legal corporate transactions\\n## Automate your corporate transactions with Pearson\\n[](http://www.pearsonlabs.ai/<./>)\\n[Pearson © 2024](http://www.pearsonlabs.ai/<https:/babarogic.com>)\\n## Automate your corporate transactions with Pearson\\n[](http://www.pearsonlabs.ai/<./>)\\n© 2016-2023 VisionIQ - MIT License\\n[](http://www.pearsonlabs.ai/<https:/twitter.com>)[](http://www.pearsonlabs.ai/<https:/discord.com>)[](http://www.pearsonlabs.ai/<https:/github.com>)\\n## Automate your corporate transactions with Pearson\\n[](http://www.pearsonlabs.ai/<./>)\\nBabarogic © 2023. Designed by [Goran Babarogic](http://www.pearsonlabs.ai/<https:/babarogic.com/>)\\n\" markdown_with_citations=\"[](http://www.pearsonlabs.ai/<./>)\\n[](http://www.pearsonlabs.ai/<./>)\\nWhat's newReducing hallucinations in LLMs⟨1⟩\\n# AI Powered Corporate Transactions\\nWe build AI for companies and law firms to execute legal corporate transactions\\n## Automate your corporate transactions with Pearson\\n[](http://www.pearsonlabs.ai/<./>)\\nPearson © 2024⟨2⟩\\n## Automate your corporate transactions with Pearson\\n[](http://www.pearsonlabs.ai/<./>)\\n© 2016-2023 VisionIQ - MIT License\\n[](http://www.pearsonlabs.ai/<https:/twitter.com>)[](http://www.pearsonlabs.ai/<https:/discord.com>)[](http://www.pearsonlabs.ai/<https:/github.com>)\\n## Automate your corporate transactions with Pearson\\n[](http://www.pearsonlabs.ai/<./>)\\nBabarogic © 2023. Designed by Goran Babarogic⟨3⟩\\n\" references_markdown=\"\\n\\n## References\\n\\n⟨1⟩ http://www.pearsonlabs.ai/<https:/arxiv.org/pdf/2311.15451>: What's newReducing hallucinations in LLMs\\n⟨2⟩ http://www.pearsonlabs.ai/<https:/babarogic.com>: Pearson © 2024\\n⟨3⟩ http://www.pearsonlabs.ai/<https:/babarogic.com/>: Goran Babarogic\\n\" fit_markdown='' fit_html=''",
+  "generated_description": "**Pearson Labs: Automating Corporate Transactions with AI**\n\nFounded in 2024 and located in the heart of San Francisco, Pearson Labs is on a mission to revolutionize corporate transactions through the power of AI. The startup emerged from Y Combinator's Batch F24, emphasizing that its technology isn't just fancy software—it's specifically designed to automate and streamline the transactional processes that large law firms typically manage.\n\nThe goal? To help big players like Orrick reduce operational costs by 40-60% while dealing with massive volumes of corporate transactions, which collectively amount to an astonishing $3-6 trillion annually. Lawyers, usually taking a sizable cut of about 1-3% (translating to around $150 billion per year), struggle to manage the scale and complexity of these transactions. Pearson Labs aims to change that by creating AI agents capable of handling M&A due diligence and financing tasks effectively.\n\nLooking ahead, they envision capturing 50% of the corporate transaction market, primarily through partnerships with the top 30 law firms. Eventually, Pearson Labs plans to empower companies themselves to execute these transactions directly, maximizing efficiency and minimizing costs.\n\nCurrently a lean team of two, Pearson Labs is positioned to scale rapidly and capture a share of the growing legal tech market. Under the mentorship of Group Partner Nicolas Dessaigne, they are carving out their niche in an industry ripe for automation.\n\nFor more information about their innovative solutions, check out their website: [Pearson Labs](http://www.pearsonlabs.ai).\n\n**Key Details About Pearson Labs:**\n- **Industry:** Generative AI, LegalTech\n- **Location:** San Francisco Bay Area\n- **Year Founded:** 2024\n- **Team Size:** 2 employees\n- **Vision:** Automate legal corporate transactions to improve efficiency for law firms and eventually empower companies directly.\n\nIn this landscape, where traditional processes often bog down progress, Pearson Labs stands as a beacon of what's possible with the right application of technology."
+}

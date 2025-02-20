@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/million",
+  "name": "Million",
+  "headline": "Make websites fast, automatically",
+  "batch": "W24",
+  "description": "Million is an APM that makes websites fast, automatically. We use AI to automatically find performance issues and write code to fix them.",
+  "activity_status": "Active",
+  "website": "https://million.dev",
+  "founded_date": 2023.0,
+  "team_size": 3.0,
+  "location": "San Francisco",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:open-source; industry:web-development; industry:ai-assistant; industry:ml; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Aiden Bai, Founder",
+      "description": "I work on Million.js! I love to talk about all things web :)",
+      "linkedin": "https://linkedin.com/in/aidenbai"
+    },
+    {
+      "name": "Nisarg Patel, Founder",
+      "description": "Working on infrastructure and web performance",
+      "linkedin": "https://linkedin.com/in/nisargptel"
+    },
+    {
+      "name": "John Yang, Founder",
+      "description": "Automating performance engineering @ Million",
+      "linkedin": "https://www.linkedin.com/in/john-yang-0985b619a/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Summary of Million\n\n**Company Name:** Million  \n**Website:** [million.dev](https://million.dev)  \n**Founded:** 2023  \n**Location:** San Francisco  \n**Team Size:** 3 employees  \n**Y Combinator Batch:** W24  \n\n**Mission:** Million's core mission is straightforward: to make websites faster—automatically. This is rooted in a clear understanding of the modern web, where speed matters significantly for user experience and engagement.\n\n**What They Do:** Originally starting as an Application Performance Management (APM) tool, Million has evolved into a robust AI-powered solution that not only identifies performance issues on websites but also generates the necessary code to resolve them. It's a smart, hands-off fix for developers who need to enhance the speed of their applications without getting bogged down in troubleshooting.\n\n**Tagline:** This company fits neatly into several categories, including developer tools, open source, web development, AI assistants, and machine learning. This aligns perfectly with the current trends towards automation and optimization in software development.\n\n**Leadership:** Jared Friedman serves as the Group Partner, bringing expertise that is crucial in guiding the fledgling company towards its ambitious goals.\n\n**Current Challenges:** Like any startup, Million encounters typical operational hurdles. Recently, they’ve faced some technical issues, hinted at by the mention of application errors. This suggests they are in the throes of iterative development, common within the software world.\n\n### Final Thoughts\n\nMillion exemplifies the potential of marrying AI with web development needs. In an era where the importance of speed cannot be overstated, they’re positioning themselves uniquely in a crowded market. With their focus on automation and developer empowerment, they’re certainly a company to keep an eye on as they scale."
+}

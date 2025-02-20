@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/youshift",
+  "name": "YouShift",
+  "headline": "We automate doctor shift scheduling to save time and reduce burnout.",
+  "batch": "W25",
+  "description": "We make scheduling for doctors fast, easy, and stress-free. By blending complex hospital rules with personal preferences, our algorithm generates smart, conflict-free schedules that save time and improve work-life balance. With seamless shift swaps and real-time updates, schedules remain flexible and always up-to-date.",
+  "activity_status": "Active",
+  "website": "https://www.you-shift.com/",
+  "founded_date": 2024.0,
+  "team_size": 3.0,
+  "location": null,
+  "group_partner": "Tom Blomfield",
+  "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; industry:scheduling; industry:healthcare",
+  "founders": [
+    {
+      "name": "Jota Chamorro, Founder",
+      "description": "Cofounder and CPO at YouShift. Improving doctors' lives through easy, fast, and fair scheduling. Previously at Harvard CS",
+      "linkedin": "https://linkedin.com/in/jotachamorro"
+    },
+    {
+      "name": "Adolfo Roquero Gimenez, Founder",
+      "description": "YouShift, automating shift-scheduling for hospitals\nWorked as a Software Engineer in Google Ads Infrastructure building the largest, low-latency and reliable mechanism to load and serve key-value data across Google Ads.\nStudied Computer Science at Harvard University graduating with honors.",
+      "linkedin": "https://linkedin.com/in/adolfo-roquero-gimenez-a8b853181"
+    },
+    {
+      "name": "Lucía Vives Martorell, Founder",
+      "description": "Originally from Barcelona, I studied Biomedical Science at University College London and Harvard. I am the co-founder of YouShift, a SaaS platform that automates shift scheduling for hospitals, helping healthcare professionals achieve better work-life balance and reduce burnout.",
+      "linkedin": "https://www.linkedin.com/in/luciavivesmartorell/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### YouShift: Revolutionizing Doctor Shift Scheduling\n\nYouShift is a forward-thinking company founded in 2024, focused on transforming the way healthcare professionals manage their work schedules. Based out of a location that remains undisclosed, the company operates with a small but dedicated team of three employees. They're part of the prestigious Y Combinator Batch W25, a testament to their innovative approach and potential.\n\n#### Mission\nThe core mission of YouShift is strikingly clear: \"We automate doctor shift scheduling to save time and reduce burnout.\" Burnout is a significant issue in the healthcare sector, and YouShift recognizes that traditional scheduling methods can exacerbate this problem. \n\n#### What They Do\nInitially, YouShift aimed to make scheduling for doctors fast, easy, and stress-free. They’ve developed an algorithm that deftly blends complex hospital rules with the personal preferences of healthcare workers. This results in smart, conflict-free schedules that not only save time but also enhance the work-life balance for doctors.\n\nThe platform boasts features like seamless shift swaps and real-time updates, ensuring that schedules remain flexible and are always current. This adaptability is crucial in a field where timings can shift frequently.\n\n#### Team and Partnership\nYouShift benefits from the guidance of Tom Blomfield, a Group Partner at Y Combinator, which likely provides them access to invaluable resources and mentorship. \n\n#### Industry Positioning\nTagged in the SaaS, scheduling, and healthcare categories, YouShift is poised to capture a niche within the healthcare industry. Their emphasis on reducing stress while improving efficiency aligns well with the broader shifts happening in healthcare technology today.\n\nTo learn more about their offering, head over to their website [you-shift.com](https://www.you-shift.com/).\n\nIn essence, YouShift is tackling a crucial pain point in the healthcare industry with innovative tech, helping to alleviate the burdens on doctors and promote a healthier work environment."
+}

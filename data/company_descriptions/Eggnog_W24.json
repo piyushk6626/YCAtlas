@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/eggnog",
+  "name": "Eggnog",
+  "headline": "Youtube for AI-generated content",
+  "batch": "W24",
+  "description": "Eggnog is the Youtube for AI-generated content. The initial product is the only AI video platform on the market that generates consistent characters. The vision is to have the largest library of remixable characters and sets for users to collaboratively build and watch AI-generated content. Eggnog launched a week ago, and videos made on the platform are getting 100k views on Twitter.\r\n\nTeam: Sam (BS, Applied Math from Harvard) was a data scientist at Facebook and Quora working on newsfeed and creator monetization. Jitesh (BS, MEng from MIT CS) was a consultant at McKinsey and PM at Flexport.",
+  "activity_status": "Active",
+  "website": "https://www.eggnog.ai",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "New York",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:entertainment; industry:social-media; industry:video; location:new-york",
+  "founders": [
+    {
+      "name": "Jitesh Maiyuran, Founder",
+      "description": "Cofounder of Eggnog. BS and MEng in machine learning from MIT in Computer Science. Masters in machine learning at CSAIL where I trained and fine-tuned language and image models. Previously, I was a PM at Flexport and consultant in McKinsey's New York Office. Excited about helping the most creative people share their ideas.",
+      "linkedin": "https://linkedin.com/in/jitesh-m-62a533b3"
+    },
+    {
+      "name": "Sam Plank, Founder",
+      "description": "Hey, I’m Sam, cofounder of Eggnog! I previously worked at Meta on Facebook’s news feed and at Quora on creator monetization tools. My work on news feed helped reduce 10M+ daily views of hate speech and misinformation in countries at risk of violence. At Quora, I was the main data scientist for a new product that went 0 to $1M revenue in under 12 months. I studied Applied Math at Harvard.",
+      "linkedin": "https://linkedin.com/in/sam-plank-042b1199"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# eggnog.ai\\n## Select a video experience below\\n## Time Portal\\nTravel through time, guess where you are\\n## Remix\\nRemix movie and TV show clips\\n## Editor\\nAI video editor\\n## Infinite\\nWatch infinite TV\\n© 2024 Eggnog. All rights reserved.\\nPrivacy PolicyEULA\\n' markdown_with_citations='# eggnog.ai\\n## Select a video experience below\\n## Time Portal\\nTravel through time, guess where you are\\n## Remix\\nRemix movie and TV show clips\\n## Editor\\nAI video editor\\n## Infinite\\nWatch infinite TV\\n© 2024 Eggnog. All rights reserved.\\nPrivacy PolicyEULA\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Eggnog: The Future of AI-Generated Entertainment**\n\nEggnog is a fresh startup that launched just a week ago with an ambitious mission: to establish itself as the \"YouTube for AI-generated content.\" Think of it as a platform where imagination meets technology, allowing users to create and enjoy videos populated with consistently generated characters. This is not just about watching videos; it’s about a collaborative experience where users can remix and create content together.\n\nFounded in 2024 and part of Y Combinator's W24 batch, Eggnog is spearheaded by a dynamic duo. Sam, who holds a degree in Applied Mathematics from Harvard, brings his experience as a data scientist from Facebook and Quora—where he delved into newsfeeds and creator monetization. Jitesh, with his MEng in Computer Science from MIT, has honed his skills as a consultant at McKinsey and was a PM at Flexport. Together, they are driven to build the largest library of remixable characters and sets, opening up a new world for content creators.\n\nLocated in New York and currently operating with a lean team of just two, Eggnog is drawing attention in the entertainment sector. The platform is already making waves, with videos created on Eggnog racking up 100,000 views on Twitter shortly after launch—a promising indicator of its potential.\n\nEggnog offers several engaging experiences, such as:\n\n- **Time Portal**: A game that challenges users to travel through time and guess their location.\n- **Remix**: A feature that allows users to remix clips from movies and TV shows.\n- **Editor**: An AI-driven video editing tool.\n- **Infinite**: A unique option to watch an endless stream of TV content.\n\nUnder the mentorship of Group Partner Harj Taggar, Eggnog is tagged with essential themes like artificial intelligence, entertainment, social media, and video. The startup is poised to redefine how we view and create content in a rapidly evolving digital landscape.\n\nFor more information, visit their website at [eggnog.ai](https://www.eggnog.ai) and watch this space closely; it seems to be just the beginning of a fascinating journey."
+}

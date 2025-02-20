@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/fortress",
+  "name": "Fortress",
+  "headline": "Globally replicated and sharded Postgres",
+  "batch": "S24",
+  "description": "Fortress is a Postgres developer platform that makes it simple to globally distribute data (replication and sharding) in a cost-effective manner.  \r\n\nDevelopers use Fortress to reduce network latency for their global users, comply with data sovereignty regulations, and for the peace of mind of a platform that manages horizontal scalability.",
+  "activity_status": "Active",
+  "website": "https://fortress.build",
+  "founded_date": 2024.0,
+  "team_size": 3.0,
+  "location": "San Francisco",
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:b2b; industry:security; industry:databases; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "David Chu, Founder",
+      "description": "Recent Brown CS-Econ grad, now building a fortress (metaphorically)",
+      "linkedin": "https://www.linkedin.com/in/dchu17/"
+    },
+    {
+      "name": "Will Hopkins, Founder/CTO",
+      "description": "Self-taught software engineer. Big fan of distributed systems, compilers, Neovim, and Rust.",
+      "linkedin": "https://www.linkedin.com/in/willothy/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Fortress: Simplifying Global Database Management**\n\nFounded in 2024 and nestled in the heart of San Francisco, Fortress is carving a niche as a dynamic developer platform focused on PostgreSQL. Their mission? To provide a globally replicated and sharded Postgres experience that makes data distribution a breeze. \n\nImagine being able to manage your data across the globe without the usual headaches of network latency and compliance issues. That's exactly what Fortress is tackling. Developers use their platform to not only reduce latency for users worldwide but also to ensure they’re in line with data sovereignty regulations—because in today's world, compliance is non-negotiable. Plus, Fortress offers the kind of horizontal scalability that gives developers the peace of mind to grow without limits.\n\nWith a team of just three and backing from notable Group Partner Dalton Caldwell, Fortress is part of Y Combinator's S24 batch, a thrilling validation of their innovative approach. \n\nThe company is positioned in the tech space with tags such as 'developer-tools', 'b2b', 'security', and 'databases'. This highlights their dual focus on helping developers while ensuring that data security remains a priority.\n\nIn a nutshell, Fortress is not just another tool—it's a comprehensive solution addressing the complex challenges of global data management for developers. If you want to streamline your database strategy, check out their offerings at [fortress.build](https://fortress.build)."
+}

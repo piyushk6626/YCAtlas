@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/cracked",
+  "name": "Cracked",
+  "headline": "AI Motion Graphics Copilot",
+  "batch": "S24",
+  "description": "Playground for Movement",
+  "activity_status": "Active",
+  "website": "https://www.cracked.so/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Diana Hu",
+  "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:generative-ai; industry:design-tools; industry:automation; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Kelly Lu, Founder",
+      "description": "I'm Kelly! I care about empathetic code and design. Previously, CS at MIT, infrastructure at Discord, computer graphics at MIT CSAIL, computational design at the MIT Media Lab.",
+      "linkedin": "https://linkedin.com/in/kellylu1"
+    },
+    {
+      "name": "Anirudh Rahul, Founder",
+      "description": "Hey I'm Ani I just graduated from MIT.\nI've worked on high performance trading systems at JaneStreet and FiveRings, and have done ML work at Bytedance.",
+      "linkedin": "https://linkedin.com/in/anirudh-rahul-34a2bb195"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"404\\n# Page not found\\nThe page you are looking for doesn't exist or has been moved.\\n\" markdown_with_citations=\"404\\n# Page not found\\nThe page you are looking for doesn't exist or has been moved.\\n\" references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Cracked is a startup that aims to revolutionize motion graphics with its AI Motion Graphics Copilot. Founded in 2024 and based in San Francisco, it's part of the Y Combinator batch S24. The company originally launched as \"Playground for Movement,\" highlighting its focus on creativity and innovation in the design space.\n\nWith a compact team of just two employees, Cracked epitomizes the startup spirit—small but nimble. They’re focused on leveraging artificial intelligence and generative technologies to streamline the design process, making it accessible to creators of all levels. Their mission revolves around automating and enhancing the generation of motion graphics, a space that’s ripe for disruption.\n\nUnder the guidance of Group Partner Diana Hu, Cracked is positioned to make waves in the intersection of creativity and technology. The company is tagged with terms like artificial intelligence, generative AI, and design tools, reflecting its commitment to harnessing cutting-edge technology for creation.\n\nWhile they currently have some technical hiccups on their website, the vision is clear: Cracked wants to empower designers and artists by making sophisticated motion graphics easier to create and more intuitive to use. As they continue to develop their product, it’ll be interesting to see how they navigate the landscape of design automation in the coming months."
+}

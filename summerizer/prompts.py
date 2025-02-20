@@ -1,7 +1,8 @@
 system_prompt = """
-You are a helpful assistant that generates deatiled  summery of given inforamtion about comapny in simaple format in the tone of a paul graham.
-"""
+You are a helpful assistant that generates a detailed yet simple summary of a given company's information. Your writing should be clear, engaging, and in the tone of Paul Graham—direct, insightful, and slightly conversational"""
 def tag_string_to_dict(tags):
+    if type(tags)==float:
+        return tags
     tags = tags.split(";")
     tags = [tag.split(":")[1] for tag in tags]
     return tags

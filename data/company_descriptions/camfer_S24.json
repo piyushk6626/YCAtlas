@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/camfer",
+  "name": "camfer",
+  "headline": "Building the worldâs first AI mechanical engineer.",
+  "batch": "S24",
+  "description": "Weâre building the first AI mechanical engineer that collaborates with humans to do design tasks end-to-end. Human engineers can talk to camfer to build, test, and iterate 3D designs natively on CAD platforms.",
+  "activity_status": "Active",
+  "website": "https://www.camfer.dev/",
+  "founded_date": 2024.0,
+  "team_size": 3.0,
+  "location": "San Francisco",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:generative-ai; industry:hardware; industry:productivity; industry:manufacturing; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Arya Bastani, Founder/CEO",
+      "description": "Before working at AWS and graduating from UC Berkeley in 2023, I was president of my high school FRC robotics team - ranked 4th in the world. This is where I met Roth Vann.\n\nWhile studying CS @ Berkeley: I was Chief EECS Engineer on the Formula Electric Racing team, I conducted research in Professor Anant Sahaiâs lab doing brainwave (EEG) classification and generation using transformers and stable diffusion, and was President of the Iranian Students Cultural Org.\n\nMore @ aryabastani.com",
+      "linkedin": "https://www.linkedin.com/in/arya-bastani/"
+    },
+    {
+      "name": "Keaton Elvins, Founder",
+      "description": "EECS honors grad @ UC Berkeley, helped launch Amazon Q to millions of users",
+      "linkedin": "https://www.linkedin.com/in/keatonelvins/"
+    },
+    {
+      "name": "Roth Vann, Founder",
+      "description": "Dropped out of UCR to work on ads at Meta. Dropped out of Meta to build Camfer.",
+      "linkedin": "https://www.linkedin.com/in/rothvann/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"[camfer](https://www.camfer.dev/</>) [home](https://www.camfer.dev/</>) • [try](https://www.camfer.dev/</try>) • [blog](https://www.camfer.dev/</blog>) • [join us](https://www.camfer.dev/</careers>)\\nthank you for submitting! we'll be in touch :)\\n# We're building an AI mechanical engineer that collaborates with human engineers to do design tasks end-to-end.\\n### Join the waitlist and use camfer for your CAD tasks.\\n[try camfer](https://www.camfer.dev/</try>)\\n### Learn more about our mission and what we're building!\\n[blog](https://www.camfer.dev/</blog>)\\n[ ![Y Combinator](https://www.camfer.dev/images/social/yc.png) ](https://www.camfer.dev/<https:/www.ycombinator.com/companies/camfer>) [ ![LinkedIn](https://www.camfer.dev/images/social/linkedin.png) ](https://www.camfer.dev/<https:/www.linkedin.com/>) • [ join us ](https://www.camfer.dev/</careers>)\\ncontact us: founders@camfer.dev\\n\" markdown_with_citations=\"camfer⟨1⟩ home⟨1⟩ • try⟨2⟩ • blog⟨3⟩ • join us⟨4⟩\\nthank you for submitting! we'll be in touch :)\\n# We're building an AI mechanical engineer that collaborates with human engineers to do design tasks end-to-end.\\n### Join the waitlist and use camfer for your CAD tasks.\\ntry camfer⟨2⟩\\n### Learn more about our mission and what we're building!\\nblog⟨3⟩\\n ![Y Combinator⟨5⟩ ](https://www.camfer.dev/<https:/www.ycombinator.com/companies/camfer>)  ![LinkedIn⟨6⟩ ](https://www.camfer.dev/<https:/www.linkedin.com/>) •  join us ⟨4⟩\\ncontact us: founders@camfer.dev\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.camfer.dev/</>: camfer\\n⟨2⟩ https://www.camfer.dev/</try>: try\\n⟨3⟩ https://www.camfer.dev/</blog>: blog\\n⟨4⟩ https://www.camfer.dev/</careers>: join us\\n⟨5⟩ https://www.camfer.dev/images/social/yc.png:  ![Y Combinator\\n⟨6⟩ https://www.camfer.dev/images/social/linkedin.png:  ![LinkedIn\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Camfer: The Future of AI Engineering\n\nCamfer is an exciting new venture founded in 2024, based in the vibrant San Francisco Bay Area and proudly a part of Y Combinator's Batch S24. Their mission? To create the world’s first AI mechanical engineer that works alongside human designers to revolutionize the way we approach engineering tasks.\n\nAt its core, Camfer aims to enhance productivity by allowing engineers to communicate directly with an AI model that assists in building, testing, and iterating on 3D designs natively within CAD platforms. Imagine chatting with an AI that understands your design requirements and can guide you through the entire process—this is what Camfer is set to achieve.\n\nDespite being a small team of three, their ambition is sizeable. With mentorship from Group Partner Harj Taggar and a clear focus on generative AI, hardware, and manufacturing productivity, they are targeting a significant transformation in the engineering field.\n\nSo, where can you learn more? You can visit their website at [camfer.dev](https://www.camfer.dev) to join the waitlist and get a first-hand experience with their AI tools. They also offer insights on their mission through their [blog](https://www.camfer.dev/blog) and are actively looking for talent—if you're interested, check out their [careers page](https://www.camfer.dev/careers).\n\nIn a nutshell, Camfer is blending human creativity with AI efficiency, and it's definitely a space to watch. If you're in the engineering field, you might want to get on board with what they’re brewing."
+}

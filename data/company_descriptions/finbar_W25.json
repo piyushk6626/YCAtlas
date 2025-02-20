@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/finbar",
+  "name": "finbar",
+  "headline": "AI-powered financial data & analysis",
+  "batch": "W25",
+  "description": "Global financial data, available seconds after release. Cleaned tabular & time series data from 1000s of companies, maintained by proprietary ML, NLP, and OCR techniques. Seamless integration: update your model in 3 clicks, within 5 minutes of publication.",
+  "activity_status": "Active",
+  "website": "https://finbar.com",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "London, United Kingdom",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:documents; industry:fintech; industry:finance; industry:workflow-automation",
+  "founders": [
+    {
+      "name": "Robin Gan, Founder",
+      "description": "Co-founder and CTO at finbar.com.\n\nPrevious to this I worked on a globally deployed cloud-native banking platform at Thought Machine.",
+      "linkedin": "https://www.linkedin.com/in/robin-gan-180060126"
+    },
+    {
+      "name": "Edward Huang, Founder",
+      "description": "Founder and CEO at finbar. I wrote most of the MVP but now focus product and sales.\nPreviously I was a hedge fund analyst, and before that at Goldman Sachs. CFA charterholder.",
+      "linkedin": "https://www.linkedin.com/in/edward-huang-cfa-8807b4149/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[About](https://finbar.com/</about>) | [Terms of Use](https://finbar.com/</terms-of-use>) | [Privacy Policy](https://finbar.com/</privacy-policy>) | [CEL Technologies Ltd](https://finbar.com/<http:/www.cel.software>). Copyright © 2024. All rights reserved.\\n# fin\\n[Learn more](https://finbar.com/</about>)\\n[](https://finbar.com/</auth/account>)\\n' markdown_with_citations='About⟨1⟩ | Terms of Use⟨2⟩ | Privacy Policy⟨3⟩ | CEL Technologies Ltd⟨4⟩. Copyright © 2024. All rights reserved.\\n# fin\\nLearn more⟨1⟩\\n[](https://finbar.com/</auth/account>)\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://finbar.com/</about>: About\\n⟨2⟩ https://finbar.com/</terms-of-use>: Terms of Use\\n⟨3⟩ https://finbar.com/</privacy-policy>: Privacy Policy\\n⟨4⟩ https://finbar.com/<http:/www.cel.software>: CEL Technologies Ltd\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Finbar: A Quick Overview**\n\nFounded in 2023 and part of Y Combinator Batch W25, Finbar is a London-based fintech startup that's shaking up the financial data space with its AI-powered solutions. In a world where information can feel like a deluge, Finbar stands out by offering global financial data that’s available mere seconds after its release. The aim? To deliver cleaned tabular and time series data from thousands of companies using advanced machine learning, natural language processing, and optical character recognition techniques.\n\nWhat does that mean for you? In just three clicks, your financial models can be updated in under five minutes after new data goes live. It’s the kind of integration that enhances analytical efficiency and keeps you on the cutting edge.\n\nWith only a small team of two employees under the guidance of Group Partner Michael Seibel, the company is nimble and focused. Their ethos is reflected in their tagging as documents, fintech, finance, and workflow-automation — they’re all about making financial data more accessible and actionable.\n\nCurious to learn more about how they're transforming financial data analysis? Explore their offerings at [Finbar's website](https://finbar.com). As they move forward, it will be intriguing to see how they leverage their innovative tech to redefine the financial landscape."
+}

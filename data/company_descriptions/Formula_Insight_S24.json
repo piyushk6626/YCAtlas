@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/formula-insight",
+  "name": "Formula Insight",
+  "headline": "Help Institutional Investors manage, track & query their Excel models",
+  "batch": "S24",
+  "description": "Formula Insight offers Institutional Investors previously inaccessible data. We provide a central repository of financial models so investors can track changes to forecasts, quantify projection accuracy and expedite analysis.  This further systematizes the investment process and enables better investment decisions.",
+  "activity_status": "Active",
+  "website": "https://www.formulainsight.io/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "New York",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:saas; industry:b2b; industry:workflow-automation; industry:enterprise-software; location:new-york",
+  "founders": [
+    {
+      "name": "Will Tong, Founder",
+      "description": "Co-Founder and CEO of Formula Insight.  Will brings a decade of financial expertise to the role.  He spent the past 4 years in public equities investing, most recently managing a healthcare equities portfolio at Citadel.  In 2022, Will distinguished himself as a top 5 equity analyst within Citadel's Global Equities division.",
+      "linkedin": "https://www.linkedin.com/in/will-tong-04046a162/"
+    },
+    {
+      "name": "Stefan Raghavan, Founder",
+      "description": "Co-Founder and CTO at Formula Insight. Background in building complex engineering systems, specializing in rockets and drones, most recently at SpaceX and Zero Aviation.",
+      "linkedin": "https://www.linkedin.com/in/stefan-raghavan-957204a1/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![Formula Insight Logo](https://www.formulainsight.io/assets/images/logo.png)\\n[SIGN IN](https://www.formulainsight.io/<https:/app.formulainsight.io>) INQUIRE\\n# Manage, query, andanalyze Hedge Fund models\\nExpedite investment research by analyzing financial models, SEC filings, estimates, and earnings transcripts in minutes to gain an edge in the public markets.\\nInquire Get Access\\nFounded by former Citadel and SpaceX professionals\\nBacked by\\n![Y Combinator Logo](https://www.formulainsight.io/assets/images/combinator-logo.png)\\n' markdown_with_citations='![Formula Insight Logo⟨1⟩]\\nSIGN IN⟨2⟩ INQUIRE\\n# Manage, query, andanalyze Hedge Fund models\\nExpedite investment research by analyzing financial models, SEC filings, estimates, and earnings transcripts in minutes to gain an edge in the public markets.\\nInquire Get Access\\nFounded by former Citadel and SpaceX professionals\\nBacked by\\n![Y Combinator Logo⟨3⟩]\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.formulainsight.io/assets/images/logo.png: Formula Insight Logo\\n⟨2⟩ https://www.formulainsight.io/<https:/app.formulainsight.io>: SIGN IN\\n⟨3⟩ https://www.formulainsight.io/assets/images/combinator-logo.png: Y Combinator Logo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Formula Insight: Simplifying Financial Analysis for Investors\n\n**Overview:**\nFormula Insight is a fintech startup that aims to streamline how institutional investors manage and analyze their financial models. Founded in 2024 and part of Y Combinator's Batch S24, this New York-based company is on a mission to transform investment research practices by providing tools that make previously hard-to-access financial data readily available.\n\n**Mission:**\nAt its core, Formula Insight's mission is to help institutional investors efficiently manage, track, and query their Excel models. By offering a centralized repository for financial models, investors can easily monitor changes, gauge the accuracy of projections, and conduct analyses faster than ever before—ultimately enabling better-informed investment decisions.\n\n**What They Do:**\nThe platform allows users to expedite investment research by swiftly analyzing not just financial models, but also SEC filings, earnings estimates, and transcripts. This capability gives users a competitive edge in the public markets. With the combined expertise of founders who hail from firms like Citadel and SpaceX, Formula Insight is positioned to be a game-changer in the financial services sector.\n\n**Team and Support:**\nCurrently, Formula Insight operates with a small but dedicated team of two employees. They benefit from the mentorship and network provided by Brad Flora, their Group Partner at Y Combinator, which adds significant credibility to their venture.\n\n**Industry Tagging:**\nThe company is categorized under several relevant tags: fintech, SaaS, B2B, workflow automation, and enterprise software, showcasing its innovative approach to financial services.\n\n**Join the Movement:**\nFor those interested in transforming their investment analysis processes, Formula Insight provides an avenue to not just manage and query hedge fund models, but to significantly enhance the efficiency and effectiveness of their financial research.\n\nFor more insights, check out their website: [Formula Insight](https://www.formulainsight.io/).\n\nBy combining powerful technology with an understanding of market needs, Formula Insight is poised to redefine how institutional investors interact with data in the financial landscape."
+}

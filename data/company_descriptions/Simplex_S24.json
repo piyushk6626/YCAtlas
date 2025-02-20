@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/simplex",
+  "name": "Simplex",
+  "headline": "Web automation for developers",
+  "batch": "S24",
+  "description": "Simplex is an API that allows developers to easily take actions on the web. Customers across real estate, healthcare, and finance use us to reliably fill out forms, upload/download files, and extract data, often as part of a larger AI agent workflow.",
+  "activity_status": "Active",
+  "website": "https://simplex.sh",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:machine-learning; industry:robotic-process-automation; industry:b2b; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Shreya Karpoor, Founder",
+      "description": "Shreya is the co-founder and CEO of Simplex. She holds a BS and MEng in Electrical Engineering and Computer Science from MIT. She previously built software at Tesla and Viam and researched locomotion and dexterous robotic manipulation at MIT.",
+      "linkedin": "https://linkedin.com/in/shreya-karpoor"
+    },
+    {
+      "name": "Marco Nocito, Founder",
+      "description": "Marco is the co-founder and CTO of Simplex. He holds a BS and MEng in Computer Science from MIT. He previously built machine learning models to generate synthetic data at Waymo and built data infrastructure tooling at Viam and Bloomberg.",
+      "linkedin": "https://linkedin.com/in/marco-nocito-716569196"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![Simplex Logo](https://simplex.sh/_next/image?url=%2Flogo.png&w=384&q=75)](https://simplex.sh/</>) [Docs](https://simplex.sh/</docs>)[Playground](https://simplex.sh/</playground>)\\nGet started→\\n# Web automation for developers\\nAutomate the parts of your AI workflows that interact with the web. Simplex lets developers reliably fill out forms, upload/download files, extract data, and more.\\nTry us outGet started→\\nYour browser does not support the video tag.\\n## A team from world class institutions\\n![YCombinator Logo](https://simplex.sh/yc.svg)![MIT Logo](https://simplex.sh/mit.svg)![Waymo Logo](https://simplex.sh/waymo.svg)![Tesla Logo](https://simplex.sh/tesla.svg)\\nBacked by Y Combinator\\nContact Us\\n© 2025 Simplex Labs, Inc.\\nBacked by ![Y Combinator logo](https://simplex.sh/ycombinator.svg)\\nContact Us\\n' markdown_with_citations='![Simplex Logo⟨1⟩](https://simplex.sh/</>) Docs⟨2⟩Playground⟨3⟩\\nGet started→\\n# Web automation for developers\\nAutomate the parts of your AI workflows that interact with the web. Simplex lets developers reliably fill out forms, upload/download files, extract data, and more.\\nTry us outGet started→\\nYour browser does not support the video tag.\\n## A team from world class institutions\\n![YCombinator Logo⟨4⟩]![MIT Logo⟨5⟩]![Waymo Logo⟨6⟩]![Tesla Logo⟨7⟩]\\nBacked by Y Combinator\\nContact Us\\n© 2025 Simplex Labs, Inc.\\nBacked by ![Y Combinator logo⟨8⟩]\\nContact Us\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://simplex.sh/_next/image?url=%2Flogo.png&w=384&q=75: ![Simplex Logo\\n⟨2⟩ https://simplex.sh/</docs>: Docs\\n⟨3⟩ https://simplex.sh/</playground>: Playground\\n⟨4⟩ https://simplex.sh/yc.svg: YCombinator Logo\\n⟨5⟩ https://simplex.sh/mit.svg: MIT Logo\\n⟨6⟩ https://simplex.sh/waymo.svg: Waymo Logo\\n⟨7⟩ https://simplex.sh/tesla.svg: Tesla Logo\\n⟨8⟩ https://simplex.sh/ycombinator.svg: Y Combinator logo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Simplex: Web Automation for Developers\n\n**Founded:** 2024  \n**Location:** San Francisco  \n**Team Size:** 2  \n**Backed by:** Y Combinator (Batch S24)  \n**Group Partner:** Aaron Epstein  \n\n#### Mission\nSimplex is on a mission to simplify web automation for developers. Aimed at enhancing productivity, the platform allows developers to easily interact with web elements, facilitating tasks such as filling out forms, uploading and downloading files, and extracting data. This functionality is particularly valuable when integrated into larger AI agent workflows, making it a favorite across industries like real estate, healthcare, and finance.\n\n#### What They Do\nAt its core, Simplex is an API that automates the messy parts of web interactions. It empowers developers by providing reliable tools to handle actions on the web that can otherwise be tedious and error-prone. Whether you need to automate a file upload or scrape some data, Simplex is designed to streamline those processes. \n\nTheir offerings are embodied in an accessible interface, allowing users to get started quickly via their [Playground](https://simplex.sh/playground) or refer to [Docs](https://simplex.sh/docs) for deeper insights into usage. \n\n#### Team and Backing\nThe Simplex team may be small, but it's backed by some heavy hitters—Y Combinator, MIT, Waymo, and Tesla have all contributed to its foundation. This combination of talent and expertise positions Simplex as a noteworthy player in the fields of automation, machine learning, and AI.\n\n#### Tags\n- Machine Learning\n- Robotic Process Automation\n- B2B\n- AI\n- San Francisco Bay Area\n\n#### Contact & Further Information\nTo explore the capabilities of Simplex or to get started with their automation tools, visit their website at [simplex.sh](https://simplex.sh). \n\nIn a landscape increasingly dominated by AI and automation, Simplex is right at the intersection, poised to help developers navigate and innovate with ease on the web."
+}
