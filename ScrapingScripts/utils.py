@@ -29,11 +29,22 @@ def merge_csv_files(ycdet_path, yc25_path, output_path):
     ycdet_df.to_csv(output_path, index=False)
     print(f"Merged file saved to: {output_path}")
 
+import pandas as pd
+
+def filter_csv(input_file, output_file):
+    # Read the CSV file
+    df = pd.read_csv(input_file)
+    
+    # Filter rows where 'status' column is TRUE
+    filtered_df = df[df['status'] == True]
+    
+    # Save the filtered data to a new CSV file
+    filtered_df.to_csv(output_file, index=False)
+    
+    print(f"Filtered data saved to {output_file}")
+
 # Example usage
 if __name__ == "__main__":
-    # Replace these paths with your actual file paths
-    ycdet_path = "ycdet.csv"
-    yc25_path = "YC25Launch.csv"
-    output_path = "ycdet_merged.csv"
-    
-    merge_csv_files(ycdet_path, yc25_path, output_path)
+    input_csv = "output3.csv"  # Replace with actual input CSV file path
+    output_csv = "filtered_output.csv"  # Replace with desired output file path
+    filter_csv(input_csv, output_csv)
