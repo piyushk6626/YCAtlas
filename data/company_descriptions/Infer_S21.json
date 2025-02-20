@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/infer",
+  "name": "Infer",
+  "headline": "Personalized AI Voice Agents for lead qualification for insurance &â¦",
+  "batch": "S21",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://www.infer.so/",
+  "founded_date": 2021.0,
+  "team_size": 3.0,
+  "location": "San Mateo, CA",
+  "group_partner": "Diana Hu",
+  "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:generative-ai; industry:b2b; industry:api; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Urvin Soneta, Founder",
+      "description": "Building the product that you all will probably use and hopefully love.",
+      "linkedin": "https://www.linkedin.com/in/urvin-soneta-b77925146/"
+    },
+    {
+      "name": "Suneel Matham, Founder",
+      "description": "Alum of IIT Madras and Plaksha AI fellowship.\nHappy to talk about applications of deep learning and language models for retrieval.",
+      "linkedin": "https://www.linkedin.com/in/suneel-matham/"
+    },
+    {
+      "name": "Vaibhav Saxena, Founder",
+      "description": "Designer and Engineer. Worked as an architect and moved to deep learning research. Building a second brain because I realized the limitations of the first one, pretty soon.",
+      "linkedin": "https://www.linkedin.com/in/vaib93/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Infer**\n\nFounded in 2021, Infer is a cutting-edge startup based in San Mateo, CA, that's making waves in the artificial intelligence space. The company specializes in creating personalized AI voice agents specifically designed for lead qualification in the insurance sector and beyond. Basically, they’re leveraging AI to enhance how businesses identify and engage potential clients.\n\nInfer is a proud member of Y Combinator's Batch S21, which is a credible stamp of approval in the startup ecosystem. With a small team of just three employees, they’re operating lean but clearly have big ambitions.\n\nDiana Hu serves as their Group Partner, guiding the company’s strategic direction. Infer is tagged with keywords like 'artificial-intelligence', 'generative-ai', 'b2b', 'api', and 'san-francisco-bay-area', which highlights their focus on innovative tech and new business solutions.\n\nIf you’re intrigued by the potential of AI in transforming customer interactions and lead generation, check them out at [infer.so](https://www.infer.so/). They’re one to watch as they grow their presence in the B2B landscape."
+}

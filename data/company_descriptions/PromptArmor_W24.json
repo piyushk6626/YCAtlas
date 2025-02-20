@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/promptarmor",
+  "name": "PromptArmor",
+  "headline": "LLM Security and Compliance",
+  "batch": "W24",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://promptarmor.com/",
+  "founded_date": 2023.0,
+  "team_size": 5.0,
+  "location": null,
+  "group_partner": "Garry Tan",
+  "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:generative-ai; industry:security; industry:cybersecurity; industry:ai",
+  "founders": [
+    {
+      "name": "Shankar Krishnan, Founder",
+      "description": "Al Security & Compliance. Previously at Snappr, Observe, Tesla. Berkeley Data Science &\nEcon‎",
+      "linkedin": "https://linkedin.com/in/shankar-krishnan"
+    },
+    {
+      "name": "Vikram Jayanthi, Founder",
+      "description": "Co-founder of PromptArmor. Previously infrastructure & security at Google, Roblox, and Symantec. UC Berkeley Computer Science Graduate.",
+      "linkedin": "https://linkedin.com/in/vikramjayanthi"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='Skip to the End\\nSlowerFaster\\nSkip to the End\\nSlowerFaster\\n' markdown_with_citations='Skip to the End\\nSlowerFaster\\nSkip to the End\\nSlowerFaster\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: PromptArmor**\n\nFounded in 2023, PromptArmor is a budding startup on a mission to enhance security and compliance for large language models (LLMs). Based out of Y Combinator's W24 batch—a prestigious accelerator that has helped launch some of the most successful tech companies—PromptArmor is positioning itself at the intersection of generative AI and cybersecurity.\n\n**Core Mission**  \nPromptArmor aims to address the pressing challenges of LLM security. As generative AI continues to evolve, the need for robust security measures and compliance protocols becomes critical. This is where PromptArmor shines, focusing on safeguarding the innovations brought about by AI.\n\n**Team and Leadership**  \nWith a nimble team of five, PromptArmor is small but mighty. They benefit from the guidance of Garry Tan, their Group Partner at Y Combinator, who brings invaluable experience and insight to their journey.\n\n**Focus Areas**  \nPromptArmor is tagged under key categories such as generative AI, security, cybersecurity, and artificial intelligence, reflecting their comprehensive approach to tackling the risks associated with LLMs.\n\n**Website**  \nFor more information, you can visit their official website at [promptarmor.com](https://promptarmor.com/).\n\nIn a nutshell, PromptArmor is a promising venture aimed at securing the future of AI through meticulous attention to language model security and compliance. Given the rapid growth of AI technologies, their focus couldn't be more timely or critical. Keep an eye on this one; they're just getting started."
+}

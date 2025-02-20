@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/sudocode",
+  "name": "sudocode",
+  "headline": "code in plain english",
+  "batch": "S23",
+  "description": "sudocode lets users code in plain english, by turning technical requirements directly into code.\r\n\nBuilt by an ex-Google Brain/GoogleX engineer and an ex-Toast engineer.\r\n\nJoin the pre-launch alpha at info@sudocode.ai",
+  "activity_status": "Active",
+  "website": "https://sudocode.ai",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "Mountain View",
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Randy Song, Founder",
+      "description": "Went to school as an Electrical Computer Engineer, started writing verification code at Nvidia, landed as a SWE at Toast.\n\nAs a staff software engineer, I helped scale the Fintech team from 5 to over 100 engineers. During my tenure, I was responsible for scaling payments to over 10M transactions per day.\n\nNow I work with autonomous AI agents to generate code from plain english.",
+      "linkedin": "https://www.linkedin.com/in/randy-song/"
+    },
+    {
+      "name": "Alex Ngai, Founder",
+      "description": "Previously an engineer in AI research at Google Brain, GoogleX, then Mineral working on perception, NLP, and autonomous agents. Currently improving how we build software with autonomous code generation at sudocode (S23).",
+      "linkedin": "https://linkedin.com/in/alexngai"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![test](https://sudocode.ai/images/crow_solo_small.png)](https://sudocode.ai/</>)\\n[Log In](https://sudocode.ai/</login/>)[Sign Up](https://sudocode.ai/</signup/>)\\n# sudocode\\nDevelop on the bleeding edge with an AI task force that turns your ideas directly into code\\nBuild a custom agent with LangChainProcess a CSVBuild a Flask appWrite a regex that pulls function names from python code\\n[ Join our Discord](https://sudocode.ai/<https:/discord.gg/29MTc39wc6>)\\nContact us at **info@sudocode.ai**\\n[Backed by![Backed by YC](https://sudocode.ai/images/yc_logo_expanded_white.png)](https://sudocode.ai/<https:/www.ycombinator.com/companies/sudocode>)\\n' markdown_with_citations='![test⟨1⟩](https://sudocode.ai/</>)\\nLog In⟨2⟩Sign Up⟨3⟩\\n# sudocode\\nDevelop on the bleeding edge with an AI task force that turns your ideas directly into code\\nBuild a custom agent with LangChainProcess a CSVBuild a Flask appWrite a regex that pulls function names from python code\\n Join our Discord⟨4⟩\\nContact us at **info@sudocode.ai**\\nBacked by![Backed by YC⟨5⟩](https://sudocode.ai/<https:/www.ycombinator.com/companies/sudocode>)\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://sudocode.ai/images/crow_solo_small.png: ![test\\n⟨2⟩ https://sudocode.ai/</login/>: Log In\\n⟨3⟩ https://sudocode.ai/</signup/>: Sign Up\\n⟨4⟩ https://sudocode.ai/<https:/discord.gg/29MTc39wc6>:  Join our Discord\\n⟨5⟩ https://sudocode.ai/images/yc_logo_expanded_white.png: Backed by![Backed by YC\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Sudocode: Bridging the Gap Between Ideas and Code**\n\nFounded in 2023 and nestled in the tech haven of Mountain View, Sudocode is an innovative startup on a mission to revolutionize coding. The company’s mantra, \"code in plain English,\" speaks to its fundamental goal: to make programming accessible by transforming technical requirements directly into code without the usual jargon. Think of it as your intelligent assistant for development—a way to express your ideas in simple terms and watch them come to life through code.\n\nAt the helm of Sudocode are two talented engineers, both coming from illustrious backgrounds: one from Google Brain/GoogleX and the other from Toast. This wealth of experience is the backbone of their product, which leverages artificial intelligence to turn everyday tasks into lines of code instantaneously. \n\nIf you're curious about building custom agents with LangChain, processing CSVs, developing Flask apps, or even pulling function names from Python code through regex, Sudocode has got you covered. They aim to empower developers, whether you're a seasoned pro or just starting, by breaking down the barriers that often keep people from coding effectively.\n\nSudocode is currently in alpha, and they’re looking for early adopters to join the ride. If you want to get in on the action, you can sign up for the pre-launch via their website at [sudocode.ai](https://sudocode.ai) or shoot them an email at [info@sudocode.ai](mailto:info@sudocode.ai). They also have a Discord community where you can connect with like-minded individuals.\n\nAffiliated with Y Combinator’s Batch S23, Sudocode is a startup worth watching. With its promising vision and a small, focused team of two, it’s positioned at the intersection of innovation and practicality in the developer-tools space. Backed by notable minds in the industry, including Group Partner Dalton Caldwell from Y Combinator, the future looks bright.\n\nIn summary, if you've ever felt overwhelmed by the technical aspects of coding, Sudocode might just be the solution you've been waiting for. They're making programming a little less daunting and a lot more approachable—one line of code at a time."
+}

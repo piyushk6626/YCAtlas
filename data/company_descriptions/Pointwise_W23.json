@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/pointwise",
+  "name": "Pointwise",
+  "headline": "App that tells you which credit cards to get and when",
+  "batch": "W23",
+  "description": "People spend hours on blogs and YouTube searching for the best credit card. \r\n\nPointwise makes it easy to know which credit cards to get over time by analyzing your spending patterns and long term goals",
+  "activity_status": "Active",
+  "website": "http://www.getpointwise.com",
+  "founded_date": null,
+  "team_size": 3.0,
+  "location": null,
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Ken Book, Founder",
+      "description": "Building Pointwise: The app that tells you which credit card to get",
+      "linkedin": "https://www.linkedin.com/in/kennethbook/"
+    },
+    {
+      "name": "Benjamin Litvin, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/benlitvin/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Pointwise: Simplifying Your Credit Card Choices**\n\nPointwise is an innovative app aimed at taking the guesswork out of credit card selection. It was founded with the mission of eliminating the extensive hours people waste sifting through blogs and YouTube videos in search of the best credit cards. Instead of this frustrating and often confusing process, Pointwise streamlines your credit card decisions by analyzing your spending habits and long-term financial goals.\n\nWhat’s appealing about Pointwise is its focus on personalization. The app not only tells you which credit cards to consider but also when to apply for them, based on your unique circumstances. This kind of insight can transform how you manage your finances, making credit card rewards far more accessible and effective.\n\nPointwise is part of the Y Combinator Batch W23, which is a testament to its potential in the fintech space. Despite being in the early stages, with a compact team of just three employees, Pointwise is already making strides. The company has Aaron Epstein as its Group Partner, providing valuable guidance and expertise.\n\nFor those interested in learning more about tackling their credit card choices, you can check out their website at [GetPointwise.com](http://www.getpointwise.com).\n\nIn essence, Pointwise is more than just another fintech app; it’s your personal assistant for navigating the often murky waters of credit cards, aimed at maximizing your benefits while simplifying the process."
+}

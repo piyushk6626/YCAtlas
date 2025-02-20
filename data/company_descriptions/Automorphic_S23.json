@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/automorphic",
+  "name": "Automorphic",
+  "headline": "Infuse knowledge into language models with just 10 samples",
+  "batch": "S23",
+  "description": "Automorphic has invented a way to infuse knowledge into LLMs via fine-tuning (surpassing context window limitations), enabling developers to rapidly iterate on and successively improve custom models cheaply and efficiently.",
+  "activity_status": "Active",
+  "website": "https://automorphic.ai/",
+  "founded_date": 2023.0,
+  "team_size": 3.0,
+  "location": "San Francisco",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:aiops; industry:deep-learning; industry:developer-tools; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Govind Gnanakumar, Founder",
+      "description": "Often running away from robots (that I created). Building the next generation of artifical narrow intelligence.",
+      "linkedin": "https://linkedin.com/in/govind-gnanakumar"
+    },
+    {
+      "name": "Maaher Gandhi, Founder",
+      "description": "When not working on Automorphic, I'm building AI to beat me at chess",
+      "linkedin": "https://www.linkedin.com/in/maaher-gandhi-31b40928b"
+    },
+    {
+      "name": "Mahesh Natamai, Founder",
+      "description": "Simplifying the LLM tuning, iteration, and deployment lifecycle. Wrangler of A100s.",
+      "linkedin": "https://linkedin.com/in/mahesh-natamai-b17683188"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[Automorphic](https://automorphic.ai/</>)\\n[Products](https://automorphic.ai/</products>)\\n[Discord](https://automorphic.ai/<https:/discord.com/invite/E8y4NcNeBe>)\\n[Sign In](https://automorphic.ai/</login>)[Request Demo](https://automorphic.ai/<https:/calendly.com/automorphic>)\\nSecure, self-improving\\nlanguage models\\n## Infuse knowledge into language models with just 10 samples\\nJoin our private beta\\n![yc logo](https://automorphic.ai/_next/static/media/backed-by-yc.67ab0158.svg)\\n[](https://automorphic.ai/<#why>)\\n### Conduit\\nGetting knowledge into language models is inefficient.\\nPrompt stuffing can only get you so far, and it costs.\\nInfuse knowledge into language models via fine-tuning, bypassing context-window limitations. Train adapters for behavior or knowledge, and combine and commute them on the fly.\\nRapidly iterate on your models with human-in-the-loop feedback and get them into production.\\nConduit augments your datasets to continuously improve your models.\\nSelf Improving\\nWhen you provide feedback either manually or by labeling your inference requests, Conduit will update your models accordingly.\\nBlazing Fast\\nConduit enables rapid loading/stacking of fine-tuned adapters so you can focus on what matters — tuning and feedback — and stop worrying about performance and deployment.\\nOpenAI API Compatible\\nConduit is compatible with the OpenAI API, so you can use it with no changes to your existing code.\\nDeploy On Premise\\nWe offer deployment for custom models on prem in your VPC so you can keep your data safe.\\nContact Us\\n© 2024 Automorphic Inc. All rights reserved.\\n' markdown_with_citations='Automorphic⟨1⟩\\nProducts⟨2⟩\\nDiscord⟨3⟩\\nSign In⟨4⟩Request Demo⟨5⟩\\nSecure, self-improving\\nlanguage models\\n## Infuse knowledge into language models with just 10 samples\\nJoin our private beta\\n![yc logo⟨6⟩]\\n[](https://automorphic.ai/<#why>)\\n### Conduit\\nGetting knowledge into language models is inefficient.\\nPrompt stuffing can only get you so far, and it costs.\\nInfuse knowledge into language models via fine-tuning, bypassing context-window limitations. Train adapters for behavior or knowledge, and combine and commute them on the fly.\\nRapidly iterate on your models with human-in-the-loop feedback and get them into production.\\nConduit augments your datasets to continuously improve your models.\\nSelf Improving\\nWhen you provide feedback either manually or by labeling your inference requests, Conduit will update your models accordingly.\\nBlazing Fast\\nConduit enables rapid loading/stacking of fine-tuned adapters so you can focus on what matters — tuning and feedback — and stop worrying about performance and deployment.\\nOpenAI API Compatible\\nConduit is compatible with the OpenAI API, so you can use it with no changes to your existing code.\\nDeploy On Premise\\nWe offer deployment for custom models on prem in your VPC so you can keep your data safe.\\nContact Us\\n© 2024 Automorphic Inc. All rights reserved.\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://automorphic.ai/</>: Automorphic\\n⟨2⟩ https://automorphic.ai/</products>: Products\\n⟨3⟩ https://automorphic.ai/<https:/discord.com/invite/E8y4NcNeBe>: Discord\\n⟨4⟩ https://automorphic.ai/</login>: Sign In\\n⟨5⟩ https://automorphic.ai/<https:/calendly.com/automorphic>: Request Demo\\n⟨6⟩ https://automorphic.ai/_next/static/media/backed-by-yc.67ab0158.svg: yc logo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Automorphic: Redefining Knowledge Injection in Language Models**\n\nFounded in 2023 and hailing from the heart of San Francisco, Automorphic is a cutting-edge AI startup that’s part of the Y Combinator Batch S23. With a nimble team of three, the company's mission is to transform how knowledge is infused into language models, achieving this with an elegant approach that requires just 10 samples. \n\nWhat sets Automorphic apart? They’ve developed a technique that goes beyond the conventional context window limitations of large language models (LLMs). Their flagship product, **Conduit**, allows developers to fine-tune models seamlessly, providing the ability to train specific adapters for different behaviors or knowledge. This not only enhances model capabilities but does so efficiently and cost-effectively.\n\nAutomorphic’s approach to knowledge infusion addresses the inefficiencies of traditional methods, like prompt stuffing—techniques that can only take you so far. Instead, Conduit empowers teams to rapidly iterate on their models with human-in-the-loop feedback, drastically cutting down on the time to deploy improvements. The models learn and adapt over time, continuously enhancing performance based on real user inputs.\n\nMoreover, Conduit offers compatibility with the OpenAI API, allowing users to integrate the technology without having to overhaul their existing setups. For those concerned with data privacy, Automorphic also supports on-premises deployments, ensuring that sensitive information remains secure within clients' private cloud environments.\n\nIn a landscape where the demand for intelligent and adaptable language models is ever-increasing, Automorphic is positioned as a frontrunner—simplifying the way knowledge is integrated into AI and promising to empower developers in creating robust, self-improving models that evolve with their needs.\n\nTo keep up with Automorphic's developments or to join their private beta, check out their website at [automorphic.ai](https://automorphic.ai/) and dive into this exciting new frontier."
+}

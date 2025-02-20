@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/aedilic",
+  "name": "Aedilic",
+  "headline": "AI-assisted language learning",
+  "batch": "W24",
+  "description": "AI-assisted language learning.",
+  "activity_status": "Active",
+  "website": "https://www.gpudeploy.com",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Nicholas Waltz, Founder",
+      "description": "Founder and CEO of Aedilic (W24)",
+      "linkedin": "https://linkedin.com/in/nicholas-waltz-b95067211"
+    },
+    {
+      "name": "Lukas Schneider, Founder",
+      "description": "Lukas is the Co-Founder & CTO of Aedilic. Before Aedilic, Lukas conducted machine learning research at the Robotic Systems Lab, a leading research institution on robot autonomy. His research has been published to ICRA, the #1 robotics conference on Google Scholar. Before that, he developed drone control algorithms at the German Aerospace Center (DLR). Lukas holds a Master of Science in Robotics, Automation and Control from ETH Zurich.",
+      "linkedin": "https://linkedin.com/in/lukas-schneider-a27498177"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='**404** : NOT_FOUND Code: `DEPLOYMENT_NOT_FOUND` ID: `bom1::2rjst-1739978383349-e0b8210640b4`\\n[This deployment cannot be found. For more information and troubleshooting, see our documentation.](https://www.gpudeploy.com/<https:/vercel.com/docs/errors/platform-error-codes#deployment_not_found>)\\n' markdown_with_citations='**404** : NOT_FOUND Code: `DEPLOYMENT_NOT_FOUND` ID: `bom1::2rjst-1739978383349-e0b8210640b4`\\nThis deployment cannot be found. For more information and troubleshooting, see our documentation.⟨1⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.gpudeploy.com/<https:/vercel.com/docs/errors/platform-error-codes#deployment_not_found>: This deployment cannot be found. For more information and troubleshooting, see our documentation.\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Aedilic: AI-Assisted Language Learning Startup**\n\nFounded in 2024 and located in the vibrant San Francisco area, Aedilic is an innovative startup dedicated to transforming language learning through artificial intelligence. As an exciting new player in the tech space, Aedilic is part of the Y Combinator Batch W24, benefitting from a network of experienced entrepreneurs and investors.\n\nThe company operates with a lean team of just two employees, indicating a nimble approach to development and execution. Harj Taggar, a notable figure in the startup community, serves as their Group Partner, likely providing valuable mentorship and guidance as they navigate the early stages of their journey.\n\nAedilic’s mission centers on enhancing language acquisition via AI technologies, making the education process more efficient and tailored to individual learning styles. Despite their ambitious goals, it appears that Aedilic is currently dealing with some technical deployment issues, as evidenced by a recent 404 error indicating a `DEPLOYMENT_NOT_FOUND`. This is a common hurdle for startups as they fine-tune their tech and infrastructure.\n\nFor more information about their offerings or potential updates, you can visit their website: [Aedilic Website](https://www.gpudeploy.com).\n\nIn a nutshell, Aedilic is poised to make waves in the language learning landscape, leveraging cutting-edge AI to create engaging, personalized learning experiences. Keep an eye on them as they progress on their mission!"
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/kobalt-labs",
+  "name": "Kobalt Labs",
+  "headline": "AI copilot to automate risk ops for fintechs and banks",
+  "batch": "S23",
+  "description": "Kobalt has built an AI copilot to automate manual risk and compliance operations for fintechs and banks. Given a third party contracts and documentation, Kobalt’s reasoning engine ingests internal policies and procedures, legal commitments, past privacy and compliance assessments, and syncs with external legislation to instantly auto-surface and track risks.\r\n\nWe're helping community/regional/sponsor banks increase revenue and scale their partnership and vendor volume, and we're helping fintechs conduct their partner diligence in 1/10 the time, all without needing to increase headcount.",
+  "activity_status": "Active",
+  "website": "https://www.kobaltlabs.com/",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": null,
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Kalyani Ramadurgam, Founder",
+      "description": "Kalyani is the CEO of Kobalt Labs. She previously conducted AI research at Stanford, built financial security products at Apple, and built health data analysis tools used by governments of 13 countries at Zenysis. She graduated from Stanford with her MS in Computer Science (concentration in AI), and her BS in Computer Science (AI) with a minor in Human Rights.",
+      "linkedin": "https://linkedin.com/in/kalyani-ramadurgam-4a76331b5"
+    },
+    {
+      "name": "Ashi Agrawal, Founder",
+      "description": "Ashi is the CTO of Kobalt Labs. She previously worked on infra tooling as a senior software engineer at Affirm, the launch of Meaningful Matches at Nuna as a KPCB Fellow, and reliability of internal latency tracing at Meta. She graduated from Stanford with her BS in Computer Science (Theory) with a minor in Dance.",
+      "linkedin": "https://linkedin.com/in/ashi-agrawal"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Kobalt Labs is an innovative startup on a mission to transform the way fintechs and banks manage risk operations. Founded in 2023 and part of Y Combinator's Summer Batch (S23), Kobalt Labs has developed an AI copilot designed to automate the often tedious and manual risk and compliance tasks that organizations face when dealing with third-party contracts and documentation.\n\nThe core of Kobalt’s technology lies in its reasoning engine, which intelligently ingests various inputs—like internal policies, legal commitments, and historical compliance assessments—and syncs them with current external regulations. This means that Kobalt can quickly identify and track risks, allowing banks and fintechs to operate more efficiently.\n\nBy streamlining the diligence process, Kobalt Labs helps community, regional, and sponsor banks enhance their revenue and scale their partnerships without the headache of increasing their workforce. Fintechs benefit as well; they can conduct their partner diligence in a fraction of the time—around 1/10th of the usual duration—thanks to Kobalt's solutions.\n\nDespite being a young company with just a two-person team located in an unspecified area (referred to as \"nan\"), Kobalt Labs is positioned to make a significant impact in the financial sector. With Aaron Epstein serving as their Group Partner, they have the guidance and experience needed to navigate the growth trajectory ahead.\n\nTo learn more about Kobalt Labs and their cutting-edge solutions, check out their website: [kobaltlabs.com](https://www.kobaltlabs.com/). Their approach represents a smart leap forward in automating compliance, and it’s exciting to see how they will shape the future of risk operations in finance."
+}

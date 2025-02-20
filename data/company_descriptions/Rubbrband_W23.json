@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/rubbrband",
+  "name": "Rubbrband",
+  "headline": "Roi, your AI artist",
+  "batch": "W23",
+  "description": "Rubbrband is building an AI artist that can imagine and edit beautiful images for you. \r\n\nWe are on a mission to allow anybody to create great art, regardless of skill level.\r\n\nRubbrband is used by creatives all around the world.",
+  "activity_status": "Active",
+  "website": "https://rubbrband.com",
+  "founded_date": 2022.0,
+  "team_size": 3.0,
+  "location": null,
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Jeremy Lee, Founder",
+      "description": "CEO at Rubbrband.\nPreviously: UC Berkeley, Cape Analytics",
+      "linkedin": "https://linkedin.com/in/jeremy-l-a90742b8"
+    },
+    {
+      "name": "Abhinav Gopal, Founder",
+      "description": "CTO @ Rubbrband.\nPrior to Rubbrband, I was a graduate student in UC Berkeley, studying deep reinforcement learning. I have worked on and shipped ML/software products at Google and PayPal.",
+      "linkedin": "https://www.linkedin.com/in/abhinav-gopal/"
+    },
+    {
+      "name": "Darren Hsu, Founder",
+      "description": "COO, Co-Founder Rubbrband, UC Berkeley.\nDarren was previously a graduate student at UC Berkeley studying machine learning and signal processing. He has previously shipped software products at Microsoft and Amazon Lab126.",
+      "linkedin": "https://www.linkedin.com/in/darren-h/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![Rubbrband Logo](https://rubbrband.com/static/media/small_logo.b068632b2d9023517d80.webp)\\n' markdown_with_citations='![Rubbrband Logo⟨1⟩]\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://rubbrband.com/static/media/small_logo.b068632b2d9023517d80.webp: Rubbrband Logo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Rubbrband: Unleashing Creativity with AI**\n\nFounded in 2022 and a proud member of Y Combinator's W23 batch, Rubbrband is on a clear mission: to democratize art creation through the power of AI. At its core, Rubbrband is developing an AI artist named Roi that can not only envision but also edit stunning images, enabling anyone—regardless of their artistic skill—to create beautiful art.\n\nLocated in an undisclosed location, Rubbrband is a small yet ambitious team of three. Their platform is already making waves among creatives globally, allowing users to effortlessly tap into their artistic potential. With a focus on accessibility, Rubbrband's tools are designed to remove barriers, inspiring users to express themselves through art.\n\nThe company is led by Jared Friedman as their Group Partner, who brings valuable experience to the table. As Rubbrband continues to evolve, its commitment to fostering creativity and innovation sets it apart in the rapidly growing AI art space.\n\nFor those curious about Rubbrband and its offerings, you can explore their vision further at [rubbrband.com](https://rubbrband.com). Whether you’re an experienced artist or someone just starting, Rubbrband aims to spark your creativity and unleash your inner artist."
+}

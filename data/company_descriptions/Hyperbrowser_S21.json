@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/hyperbrowser",
+  "name": "Hyperbrowser",
+  "headline": "Web infrastructure for AI agents",
+  "batch": "S21",
+  "description": "Hyperbrowser.ai is the internet infrastructure for AI agents. We provide instant, scalable browser infra with built-in CAPTCHA solving, proxy management, and anti-bot detection. \r\n\nDevelopers use us to power their AI agents for data collection, testing, and web automation at scale.",
+  "activity_status": "Active",
+  "website": "https://hyperbrowser.ai",
+  "founded_date": 2021.0,
+  "team_size": 4.0,
+  "location": "San Francisco",
+  "group_partner": "Diana Hu",
+  "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:developer-tools; industry:b2b; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Shri Sukhani, Founder",
+      "description": "Founder, CEO @ Hyperbrowser. Previously, Eng at Meta.",
+      "linkedin": "https://linkedin.com/in/shrisukhani"
+    },
+    {
+      "name": "Akshay Shekhawat, Founder",
+      "description": "Founder @ hyperbrowser.ai",
+      "linkedin": "https://www.linkedin.com/in/akshay-shekhawat/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Hyperbrowser is a forward-thinking company based in San Francisco, launched in 2021 and a proud member of Y Combinator's Batch S21. At its core, Hyperbrowser aims to revolutionize web infrastructure specifically for AI agents. Think of them as the essential toolkit that developers rely on for AI-driven tasks—like data collection, testing, and automating interactions with the web—at an impressive scale.\n\nOriginally branded as Hyperbrowser.ai, they offer a robust browsing infrastructure that includes automated CAPTCHA solving, proxy management, and advanced anti-bot measures. Essentially, they’re addressing a crucial bottleneck for developers who need reliable and efficient ways to harness the web’s vast resources through their AI agents.\n\nWith a small but mighty team of just four employees, Hyperbrowser is nimble and focused on delivering a powerful solution for its customers in the artificial intelligence and developer tools space. Their offerings are particularly valuable for businesses seeking B2B services aimed at scaling their web automation efforts.\n\nDiana Hu serves as their Group Partner, contributing to the strategic direction of the company. Hyperbrowser stands at the intersection of innovation and practicality, geared towards empowering developers with next-gen browser capabilities.\n\nFor those wanting to dive deeper into what they’re all about, you can visit their website at [hyperbrowser.ai](https://hyperbrowser.ai). In an age where data is king, Hyperbrowser is positioning itself as a crucial ally for AI developers navigating the complexities of the web."
+}

@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/big-smart-ai",
+  "name": "Big Smart AI",
+  "headline": "Bigger, smarter, AI-powered search",
+  "batch": "S23",
+  "description": "Search for anything and get instant up-to-date answers with links, images, videos, and news.",
+  "activity_status": "Active",
+  "website": "https://bigsmart.ai",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "Mountain View",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:consumer; industry:search; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Akash Kashyap, Founder",
+      "description": "Akash Kashyap is Co-Founder & CEO of Big Smart AI. Previously, Akash was an engineer and product manager at Tandem (YC S19), eventually taking on the CEO role. Before that, Akash was an engineer at Google and AWS. At Google he launched the Stadia cloud-gaming platform as part of the social team. At AWS he launched Aurora (the fastest growing service in AWS history) as part of the core engine team.",
+      "linkedin": "https://linkedin.com/in/akashya"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# \\nBig\\nSmart\\nAI\\n## public beta\\n[sign up](https://bigsmart.ai/<https:/app.bigsmart.ai/sign-in>)\\n[](https://bigsmart.ai/<https:/x.com/bigsmartai>)[](https://bigsmart.ai/<https:/www.linkedin.com/company/bigsmartai>)\\n[Privacy Policy](https://bigsmart.ai/</privacy>)[Terms of Service](https://bigsmart.ai/</terms>)© Big Smart AI\\n' markdown_with_citations='# \\nBig\\nSmart\\nAI\\n## public beta\\nsign up⟨1⟩\\n[](https://bigsmart.ai/<https:/x.com/bigsmartai>)[](https://bigsmart.ai/<https:/www.linkedin.com/company/bigsmartai>)\\nPrivacy Policy⟨2⟩Terms of Service⟨3⟩© Big Smart AI\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://bigsmart.ai/<https:/app.bigsmart.ai/sign-in>: sign up\\n⟨2⟩ https://bigsmart.ai/</privacy>: Privacy Policy\\n⟨3⟩ https://bigsmart.ai/</terms>: Terms of Service\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Big Smart AI: A New Era in Search**\n\nFounded in 2023 and proudly part of Y Combinator's Batch S23, Big Smart AI is on a mission to revolutionize the search experience. Located in the tech hub of Mountain View, California, this startup boasts a lean team of two, dedicated to making search not just bigger but smarter — with the power of AI.\n\nBig Smart AI originally set out to provide users with an intuitive search platform that delivers instant, up-to-date answers across various media — links, images, videos, and news. In a world overwhelmed by information, their commitment to streamlined, relevant results is both ambitious and essential.\n\nTheir team is backed by the expertise of Michael Seibel, a well-known figure in the startup ecosystem, ensuring they are well-positioned for growth and innovation. With their focus on artificial intelligence and consumer search, Big Smart AI is tapping into crucial trends that promise to shape the future of how we access information.\n\nCurrently in public beta, they encourage users to sign up on their website [Big Smart AI](https://bigsmart.ai) to be among the first to experience a smarter way to search. Whether you’re looking for quick answers or deep dives into complex topics, Big Smart AI aims to be your go-to resource.\n\nIn a nutshell, Big Smart AI is not just another search tool. It embodies a forward-thinking approach where size meets intelligence, potentially altering how we relate to information in the digital age. Keep an eye on them; they might just redefine your search experience. \n\nFor more details, check out their [Privacy Policy](https://bigsmart.ai/</privacy>) and [Terms of Service](https://bigsmart.ai/</terms>)."
+}

@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/junction-bioscience",
+  "name": "Junction Bioscience",
+  "headline": "AI Hypothesis Engine for Molecular Discovery",
+  "batch": "W24",
+  "description": "Junction Bioscience is building an autonomous AI scientist to navigate the discovery of transformative medicines. Our scientific hypothesis engine iterates upon breakthrough chemistry from the laboratory to achieve clarity and control over the molecular basis of disease. We focus on the intersection of neuroinflammation and immunology where uncommon molecular insights position us to develop best-in-class therapies for millions of patients in need.",
+  "activity_status": "Active",
+  "website": "https://www.junction.bio/",
+  "founded_date": 2024.0,
+  "team_size": 1.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:ai-powered-drug-discovery; industry:biotech; industry:therapeutics; industry:drug-discovery; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Brian Petkov, Founder",
+      "description": "Brian is a theoretical physicist and drug hunter with degrees in mathematics and chemistry from Duke University and doctoral training from NYU. He was previously the first employee and Vice President at a computational drug design startup where he led the Machine Learning operation and grew a 30-person team to success on previously-undruggable targets.",
+      "linkedin": "https://linkedin.com/in/brian-petkov-b2a63680"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![](https://irp.cdn-website.com/568407dc/dms3rep/multi/Color+logo+with+background-498d0f07.svg)](https://www.junction.bio/</>)\\nAlata\\nAlice\\nOpen Sans\\nNoto Sans\\nBebas Neue\\nGreat Vibes\\nRock Salt\\nExo\\nBelgrano\\nOverlock\\nCinzel\\nIndie Flower\\nStaatliches\\nRoboto Slab\\nLato\\nNoto Serif\\nOpen Sans\\nMontserrat\\nUbuntu\\nRubik\\nDelius\\nAmiri\\nMontserrat\\ninfo@junction.bio\\ufeff\\nCopyright Junction Bioscience 2024\\nShare by:\\n' markdown_with_citations='![⟨1⟩](https://www.junction.bio/</>)\\nAlata\\nAlice\\nOpen Sans\\nNoto Sans\\nBebas Neue\\nGreat Vibes\\nRock Salt\\nExo\\nBelgrano\\nOverlock\\nCinzel\\nIndie Flower\\nStaatliches\\nRoboto Slab\\nLato\\nNoto Serif\\nOpen Sans\\nMontserrat\\nUbuntu\\nRubik\\nDelius\\nAmiri\\nMontserrat\\ninfo@junction.bio\\ufeff\\nCopyright Junction Bioscience 2024\\nShare by:\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://irp.cdn-website.com/568407dc/dms3rep/multi/Color+logo+with+background-498d0f07.svg: ![\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Sure! Here’s a succinct overview of Junction Bioscience that captures its essence and ambition:\n\n**Junction Bioscience** is a cutting-edge biotech firm founded in 2024 and based in the vibrant startup hub of San Francisco. The company is on a mission to revolutionize drug discovery using an autonomous AI scientist—essentially an AI Hypothesis Engine designed for molecular discovery. Their approach blends advanced computational techniques with deep scientific insights, particularly focusing on the tough but critical realms of neuroinflammation and immunology.\n\nHere’s where it gets interesting: Junction Bioscience aims to translate complex molecular insights into transformative therapies. They believe that by navigating this intersection thoughtfully, they can develop best-in-class treatments for millions of patients who desperately need them.\n\nBeing part of the Y Combinator Batch W24, they’re backed by a prominent accelerator that has nurtured countless successful startups. Though they currently have a small team with one employee, the potential here is enormous, especially as they harness AI to drive the future of therapeutics.\n\nYou can find more about their journey and ambitions at [Junction Bioscience](https://www.junction.bio/). Their focus on AI-powered drug discovery is certainly a space to watch—if successful, they could change the landscape of medicine as we know it."
+}

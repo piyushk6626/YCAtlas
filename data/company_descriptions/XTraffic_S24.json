@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/xtraffic",
+  "name": "XTraffic",
+  "headline": "Technology for cities to automate and manage their traffic lights.",
+  "batch": "S24",
+  "description": "XTraffic is at the intersection of advancements in sensor technology and affordability. This means entire cities can affordably upgrade their infrastructure - and some already are. We are live in multiple cities, with both ongoing and successful pilots, corridors of multiple intersections, and soon to be entire cities. Our customers enjoy less traffic, better safety, and data on which to build their future.",
+  "activity_status": "Active",
+  "website": "https://XTraffic.com/",
+  "founded_date": 2022.0,
+  "team_size": 5.0,
+  "location": null,
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Everett Ivy, Founder",
+      "description": "Hi! I have studied computer science, worked on control systems/robotics at Amazon, and been a professional gamer. Now with my team at XTraffic where we are making cities and traffic lights smarter.",
+      "linkedin": "https://linkedin.com/in/everett-ivy-b686b0248"
+    },
+    {
+      "name": "Luke Adams, Founder",
+      "description": "Aerospace Engineering + Computer Science. 3 years @ SpaceX wearing many hats on the Starship program. \nNow, working to bring traffic and city infrastructure into the modern age @ XTraffic!",
+      "linkedin": "https://www.linkedin.com/in/luke-adams-8528b72b1"
+    },
+    {
+      "name": "Brian Payne, Founder",
+      "description": "Background in control systems and embedded hardware at Amazon. Love all things robotics, now building hardware and software systems to solve traffic!",
+      "linkedin": "https://linkedin.com/in/brian-payne-a1460511b"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"![XTraffic](https://XTraffic.com/public/logo.png)\\n## AI signal control\\nBacked by ![Backed by YCombinator](https://XTraffic.com/public/y.png) Combinator\\nAre you a city or town interested in reducing your traffic congestion? Fill out our interest form and we'll get back to you. \\n[ Interest Form open_in_new ](https://XTraffic.com/<https:/forms.gle/T7xgsD6PevtLNCmW7>)\\n[City Loginopen_in_new](https://XTraffic.com/<https:/console.xtraffic.com>)\\n[ ](https://XTraffic.com/<https:/x.com/XTrafficAI>) [ ](https://XTraffic.com/<https:/www.instagram.com/xtrafficai/>)\\n\" markdown_with_citations=\"![XTraffic⟨1⟩]\\n## AI signal control\\nBacked by ![Backed by YCombinator⟨2⟩] Combinator\\nAre you a city or town interested in reducing your traffic congestion? Fill out our interest form and we'll get back to you. \\n Interest Form open_in_new ⟨3⟩\\nCity Loginopen_in_new⟨4⟩\\n ⟨5⟩  ⟨6⟩\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://XTraffic.com/public/logo.png: XTraffic\\n⟨2⟩ https://XTraffic.com/public/y.png: Backed by YCombinator\\n⟨3⟩ https://XTraffic.com/<https:/forms.gle/T7xgsD6PevtLNCmW7>:  Interest Form open_in_new \\n⟨4⟩ https://XTraffic.com/<https:/console.xtraffic.com>: City Loginopen_in_new\\n⟨5⟩ https://XTraffic.com/<https:/x.com/XTrafficAI>:  \\n⟨6⟩ https://XTraffic.com/<https:/www.instagram.com/xtrafficai/>:  \\n' fit_markdown='' fit_html=''",
+  "generated_description": "### XTraffic: Innovating Urban Mobility\n\n**Overview**  \nFounded in 2022 and part of Y Combinator's Batch S24, XTraffic is on a mission to revolutionize how cities manage traffic lights—making them smarter, safer, and more efficient. At the core of their technology is an innovative approach that blends cutting-edge sensor technology with affordability, allowing cities of all sizes to upgrade their infrastructure without breaking the bank.\n\n**What They Do**  \nXTraffic provides AI-driven signal control systems that streamline traffic flow and improve safety at intersections. Their technology not only alleviates congestion but also offers cities valuable data to further enhance urban mobility in the future. They’ve already launched successful pilots in multiple cities, and some are even rolling out their solutions across entire urban areas. \n\n**Why It Matters**  \nFor cities grappling with traffic headaches, the benefits are clear: reduced congestion, enhanced safety for pedestrians and drivers alike, and actionable data that can inform better urban planning. The affordability of XTraffic's system means more municipalities can partake in this technological advancement, paving the way for smarter cities.\n\n**Team and Leadership**  \nXTraffic operates with a tight-knit team of five, fostering agility and innovation. Dalton Caldwell, their Group Partner at Y Combinator, brings valuable mentorship and resources as the company navigates its early stages.\n\n**Get Involved**  \nIf you're part of a city or town looking to tackle traffic congestion, XTraffic is eager to hear from you. They encourage cities to fill out their interest form on their website, making it simple to start the conversation about implementing their cutting-edge solutions.\n\n**Connect with XTraffic**  \nFor more information, visit their website at [XTraffic.com](https://XTraffic.com) or check out their social media presence. They are positioned at the forefront of urban traffic innovation, and as they expand their reach, the impact on daily commutes and city life could be transformative.\n\nIn summary, XTraffic is not just about managing traffic; it's about rethinking urban transportation for a smoother, safer future."
+}

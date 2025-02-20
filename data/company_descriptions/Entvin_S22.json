@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/entvin",
+  "name": "Entvin",
+  "headline": null,
+  "batch": "S22",
+  "description": "Entvin helps life sciences companies like pharmaceuticals and biotechs to securely deploy AI, specifically large language models (LLMs), on their own infrastructure. By customizing and integrating LLMs such as Llama, Gemini, GPT-4, and Claude, Entvin enhances workflows in R&D, clinical trials, and regulatory teams. Our platform ensures data security and compliance, eliminating the need to send sensitive information to external servers. \r\n\nFounded by IIT Bombay graduates, Entvin is committed to accelerating research and bringing drugs to patients faster while maintaining the utmost privacy and control over your data. Our solutions empower enterprises to leverage AI without compromising on data security.",
+  "activity_status": "Active",
+  "website": "http://entvin.com?utm_source=yc",
+  "founded_date": 2022.0,
+  "team_size": 3.0,
+  "location": "Bengaluru, India",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; industry:health-tech; industry:b2b; industry:healthcare-it",
+  "founders": [
+    {
+      "name": "Sanskar Jain, Founder",
+      "description": "Sanskar is the Co-founder & CEO of Entvin, previously led Growth & Strategy at andMe (A D2C brand, acquired by GlobalBees). He was also an Analyst with A&M's Strategy and CDD practice in India. \nHe has done Mechanical Engineering from IIT Bombay. He is passionate about innovations in Technology, Ecommerce, and Electric Vehicles.",
+      "linkedin": "http://www.linkedin.com/in/sanskarjain"
+    },
+    {
+      "name": "Hemant Phalak, Founder",
+      "description": "Hemant is the Co-founder & CPO of Entvin, previously he was founding team member at cross-border fintech Zolve. He was also an Associate at Pricewaterhousecoopers, India in the technology consulting practice. He has a B.Tech in Material sciences from IIT Bombay. His motto - 'Build what matters'",
+      "linkedin": "https://www.linkedin.com/in/hemantphalak/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Entvin: Pioneering AI in Life Sciences**\n\nFounded in 2022 by a team of IIT Bombay graduates, Entvin is on a mission to revolutionize the way life sciences companies—particularly those in pharmaceuticals and biotech—utilize artificial intelligence. Imagine being able to harness the power of large language models (LLMs) like Llama, Gemini, GPT-4, and Claude, but without compromising your sensitive data. That’s what Entvin offers: a custom, secure platform that allows enterprises to deploy AI directly on their infrastructure.\n\nThe startup is rooted in a strong commitment to accelerating research and streamlining the process of bringing new drugs to market. By enhancing workflows in R&D, clinical trials, and regulatory teams, Entvin ensures that companies can leverage cutting-edge AI technology while maintaining strict data privacy and compliance. This eliminates the inconvenient and potentially risky practice of outsourcing sensitive data to external servers.\n\nLocated in Bengaluru, India, with a lean team of three employees, Entvin has already made its mark by becoming part of Y Combinator's Batch S22—an indication of its innovative approach and potential for growth. With Harj Taggar as their Group Partner, they’re well-positioned within the Y Combinator ecosystem to scale their impact.\n\nIn summary, Entvin blends state-of-the-art technology with a deep understanding of the healthcare landscape, tagged as a player in the SaaS, health-tech, B2B, and healthcare IT sectors. Their goal? To empower companies in the life sciences domain to tap into AI, drive their research forward, and ultimately deliver better health outcomes—all while keeping data safety and control front and center.\n\nFor more information, you can visit their website at [entvin.com](http://entvin.com?utm_source=yc)."
+}

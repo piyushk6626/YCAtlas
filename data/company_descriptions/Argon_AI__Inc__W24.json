@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/argon-ai-inc",
+  "name": "Argon AI, Inc.",
+  "headline": "AI for Pharma Intelligence",
+  "batch": "W24",
+  "description": "Argon AI is a platform where biopharma and life sciences professionals can execute complex and data driven workflows using natural language. We help professionals get thorough answers to questions about clinical trials, existing treatments, healthcare landscape, and the competitive market in minutes rather than months. \r\n\nPrior to starting Argon, Samy was responsible for Flatiron Health’s (Roche) first data analytics project which eventually led to the start of the Flatiron Services business unit. There, he saw first-hand the heavily manual process that biopharma companies struggle through to get the insights they need to drive forward their drug development programs. He also helped close over $6M+ in ARR and is an expert in enterprise pharma sales.\r\n\nCyrus previously led engineering teams and built 0 to 1 across pre-seed and unicorn startups, managed mission-critical trade generation systems at Bridgewater, and held AI advisory roles at various startups. Cyrus has a duel degree in EE and CS from USC.\r\n\nBreakthroughs in AI present an opportunity to reinvent biopharma and life science workflows to reduce the time and cost of bringing treatments to patients where delays in bringing a drug to market can cost a pharma company $3M / day.",
+  "activity_status": "Active",
+  "website": "https://www.argon-ai.com/",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": null,
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Samy Danesh, Founder",
+      "description": "Prior to Argon, I worked at Flatiron Health (Roche) where I led the company's first Analytics Services pilot with a large biopharma. This eventually turned into a business unit, where I saw the highly manual approach to insights generation across drug development. At Flatiron I was responsible for $6M+ ARR in enterprise sales.\n\nI am a lawyer by training (JD at Univ. of Washington) and prior to law school I started my career at Amazon.",
+      "linkedin": "https://linkedin.com/in/samy-danesh-50890a126"
+    },
+    {
+      "name": "Cyrus Jia, Founder",
+      "description": "Prior to Argon, I led 0 to 1 engineering teams at Gopuff and Bandit (acq by Gopuff), built trade generation systems at Bridgewater, and worked on AI engineering and NLP pipelines at IBM Research. I hold dual degrees in Computer Science and Electrical Engineering from USC.",
+      "linkedin": "https://linkedin.com/in/cyrusjia"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Argon AI, Inc. - Overview**\n\nFounded in 2023 and a proud member of Y Combinator’s W24 batch, Argon AI, Inc. is on a mission to integrate artificial intelligence into the biopharma and life sciences sectors. The goal? To revolutionize how professionals execute complex, data-driven workflows using natural language processing. Simply put, Argon enables users to get comprehensive answers about clinical trials, existing treatments, the healthcare landscape, and competitive market analysis in a matter of minutes rather than the typical months.\n\n### Team and Background\n\nThe leadership of Argon AI is impressive and seasoned:\n\n- **Samy** has a background in data analytics from his stint at Flatiron Health (now part of Roche) where he spearheaded the first analytics project, recognizing the manual bottlenecks biopharma companies face. His insights not only propelled the Flatiron Services business but also helped secure over $6 million in annual recurring revenue (ARR). His expertise lies in enterprise pharma sales, making him acutely aware of the industry's needs.\n\n- **Cyrus** complements this with a robust engineering background, having built and led teams in both early-stage and established startups. He has experience in high-stakes environments, such as managing critical trade generation systems at Bridgewater, and possesses a dual degree in Electrical Engineering and Computer Science from USC.\n\n### The Opportunity\n\nWith AI breakthroughs poised to reshape the biopharma landscape, Argon AI is capitalizing on this momentum. The company understands that delays in bringing a drug to market can cost pharmaceutical companies upwards of $3 million per day. By streamlining workflows, Argon aims to cut down both time and costs significantly, hastening the journey from lab to patient.\n\n### The Future\n\nAs Argon AI continues to evolve, its focus remains firmly on enabling faster, smarter decision-making in biopharma, turning complex data into actionable insights with unprecedented efficiency.\n\nFor more information, you can visit their website at [argon-ai.com](https://www.argon-ai.com)."
+}

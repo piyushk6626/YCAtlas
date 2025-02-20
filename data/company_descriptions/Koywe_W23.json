@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/koywe",
+  "name": "Koywe",
+  "headline": "Crypto On and Off Ramp for Latam",
+  "batch": "W23",
+  "description": "We provide simple, well-documented, and fully compliant payments APIs and interfaces so that any company can instantly start leveraging crypto to offer services like remittances, USD wallets, and investments.",
+  "activity_status": "Active",
+  "website": "https://koywe.com",
+  "founded_date": 2022.0,
+  "team_size": 7.0,
+  "location": "Miami, FL",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:crypto-web3; industry:payments",
+  "founders": [
+    {
+      "name": "Ignacio Detmer, Founder",
+      "description": "Ignacio has vast experience scaling business across Latam as Co-Founder and COO of Americas Car Group, a unicorn sold to Prosus Group. He is also a Co-Founder of Proptech (Opencasa), managing 75M USD in properties in the US",
+      "linkedin": "http://linkedin.com/in/ignaciodetmer"
+    },
+    {
+      "name": "Guillermo Acuña, Founder",
+      "description": "Entrepreneur from Chile, fullstack handyman.",
+      "linkedin": "https://www.linkedin.com/in/gjacuna/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Koywe: Bridging Crypto and Payments in Latin America**\n\nKoywe is a fintech startup on a mission to provide seamless crypto on and off ramps for the Latin American market. Founded in 2022 and a proud participant in Y Combinator's Batch W23, the company is aggressively working to make cryptocurrency accessible and useful in this region.\n\nInitially, Koywe focused on creating straightforward, well-documented payment APIs that allow businesses to tap into the power of crypto effortlessly. Whether it's facilitating remittances, setting up USD wallets, or enabling investment opportunities, Koywe aims to simplify these processes. Their comprehensive interfaces ensure that companies can adopt crypto strategies while remaining compliant with regulations.\n\nBased in Miami, FL, Koywe operates with a lean team of 7 employees, which means they can pivot quickly and remain agile in the fast-paced crypto landscape. Harj Taggar serves as their Group Partner, bringing valuable mentorship and network connections to help scale their operations.\n\nKoywe is positioned at the intersection of fintech, crypto, and payments—an exciting space brimming with opportunities. With their clear focus on Latin America, they’re not just building a product; they’re trying to build the future of financial interactions in a region that is ripe for innovation.\n\nFor more details, check out their website at [koywe.com](https://koywe.com)."
+}

@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/examedi",
+  "name": "Examedi",
+  "headline": "Uber for Healthcare in Latinamerica",
+  "batch": "S21",
+  "description": "Examedi is a healthcare-at-home marketplace in Latin America that sends nurses and lab technicians directly to patients’ homes for appointments. It’s like Uber, but for medical lab work.",
+  "activity_status": "Active",
+  "website": "https://www.examedi.com",
+  "founded_date": 2021.0,
+  "team_size": 3.0,
+  "location": "Santiago, Chile",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:marketplace; industry:consumer-health-services",
+  "founders": [
+    {
+      "name": "Ian Lee, Founder",
+      "description": "Software Engineer from Chile 🇨🇱\n\nGot my first SWE job at 17, where I co-founded the tech area of Houm (YC W21)—all-in-one real estate marketplace. Left two years later.\n\nGave up a scholarship at the University of Waterloo, Software Engineering, by dropping out after my first semester. Admitted 1st in the entire generation.\n\nNow in Examedi, improving the healthcare system by bringing the ease of ordering food online, into healthcare.",
+      "linkedin": "https://www.linkedin.com/in/eunbin-lee-a38868169/"
+    },
+    {
+      "name": "Andres Kemeny, Founder",
+      "description": "Software Engineer from Santiago, Chile.\n\nSecond-youngest LatAm founder in YC, ever.\n\nStarted programming when I was 14. Worked at two startups that went through a local accelerator powered by the Chilean government.\n\nGave up a scholarship and dropped out from Civil Engineering to focus 100% on Examedi.",
+      "linkedin": "https://www.linkedin.com/in/andres-kemeny/"
+    },
+    {
+      "name": "Juan Pablo Zepeda, Founder",
+      "description": "Industrial engineer from Santiago, Chile. Dropped out of my M Sc, in Optimization to build the logistics infrastructure at Houm (YC W21), where I managed ~150 freelancers in Chile, Mexico, and Colombia—on average showing 1 real-estate property every 6 minutes.\n\nNow I'm at Examedi, using logistics to uberize the Healthcare industry.",
+      "linkedin": "https://www.linkedin.com/in/juan-pablo-zepeda-nu%C3%B1ez-38423570/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='#### Bienvenido a\\n#### Examedi\\n### Al parecer no te encuentras en ninguno de los países en los que operamos actualmente\\n### De todas maneras, puedes ingresar a alguno de nuestros sitios\\n' markdown_with_citations='#### Bienvenido a\\n#### Examedi\\n### Al parecer no te encuentras en ninguno de los países en los que operamos actualmente\\n### De todas maneras, puedes ingresar a alguno de nuestros sitios\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Examedi is an innovative startup based in Santiago, Chile, that launched in 2021, aiming to revolutionize healthcare in Latin America. Picture Uber, but for healthcare—this is essentially what Examedi is all about. They have set out to create a seamless marketplace that connects patients with healthcare professionals, specifically nurses and lab technicians, who provide services right at the patient’s home.\n\nTheir mission is clear: make healthcare more accessible and convenient for individuals across Latin America. By providing home appointments for medical lab work, they are directly addressing the challenges many face when trying to receive medical attention. \n\nAs part of the Y Combinator Batch S21, Examedi is part of a vibrant startup community, which helps fuel their growth and innovation. With a tight-knit team of just three employees, the company is still in its early stages but certainly has the potential to grow and scale its impactful service across a broader geographic area.\n\nFounded by a group that includes Aaron Epstein as a Group Partner, Examedi is tagged within the growing sectors of 'marketplace' and 'consumer-health-services'. \n\nIf you're in one of the places where they currently operate, it’s a service worth checking out—after all, who wouldn’t want healthcare delivered right to their doorstep? If you find yourself outside their operational regions, it appears they are working on expanding, so keep an eye on their website: [Examedi](https://www.examedi.com) for future developments. \n\nIn a nutshell, Examedi is on a mission—one that may very well lead to a fundamental shift in how healthcare is delivered in Latin America."
+}

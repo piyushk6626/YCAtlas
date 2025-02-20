@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/bunkyr",
+  "name": "Bunkyr",
+  "headline": "Zero-Knowledge security without seed phrases or backup codes",
+  "batch": "W22",
+  "description": "Bunkyr enables companies to protect their users’ data with a simple, hardware-secured API. When a user forgets their password, applications using Bunkyr can provide them a familiar, robust recovery method to restore access to encrypted data.\r\n\nZero-Knowledge architectures and end-to-end encryption are the only true safeguards against data breaches, but come with large user-experience burdens and engineering overhead. Bunkyr eliminates these obstacles in a way that is friendly to both developers and users, cost-effective, and extremely fast.\r\n\nUsers won’t even know Bunkyr exists, while their data stays protected against both breaches and lost passwords.",
+  "activity_status": "Active",
+  "website": "https://bunkyr.com",
+  "founded_date": 2021.0,
+  "team_size": 3.0,
+  "location": "Denver, CO",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:saas; industry:crypto-web3; industry:b2b; industry:security",
+  "founders": [
+    {
+      "name": "Mike Lewis, Founder",
+      "description": "8+ years software, DevOps, and IT experience including Apple and SpaceX. Started programming in high school in Flash for a small EdTech company, becoming CTO and leading engineering, IT, and sales and marketing. B.S. CmpE with Highest Honors from Georgia Tech, winning Best Project in ECE at the Fall 2019 Capstone Design Expo with the project that has become Bunkyr.\n\nCybersecurity enthusiast from a young age, passionate about stopping the constant data breaches and violations of user privacy.",
+      "linkedin": "https://linkedin.com/in/mplew-is"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "Bunkyr is a fresh, innovative company founded in 2021 and hailing from Y Combinator's Winter 2022 batch. Based in Denver, Colorado, their mission is clear: they aim to provide Zero-Knowledge security, eliminating the need for seed phrases or backup codes. This is a big deal in a world where data breaches are rampant and password recovery methods can often feel archaic.\n\nInitially, Bunkyr launched as a service that allows businesses to protect their users' data through a simple, hardware-secured API. The beauty of their solution is that when users forget their passwords, Bunkyr facilitates a seamless recovery process that restores access to encrypted data without compromising security. \n\nWhat sets Bunkyr apart is their focus on user experience. Zero-Knowledge architectures and end-to-end encryption are the gold standard for data protection, yet they often come with significant burdens for both developers and users. Bunkyr sidesteps these challenges with a solution that is not just effective but also user-friendly and fast. Impressively, most users won’t even realize Bunkyr is in the background, quietly ensuring their data remains safe from breaches and lost passwords.\n\nThough small in size—comprising a team of just three—Bunkyr is tagging itself as a go-to player in developer tools, SaaS, crypto/web3, and security. Their holistic approach means businesses can now secure sensitive user data without sacrificing performance or convenience.\n\nIf you're curious to learn more, visit their website at [bunkyr.com](https://bunkyr.com). They’re definitely worth keeping an eye on in the rapidly evolving landscape of data security."
+}

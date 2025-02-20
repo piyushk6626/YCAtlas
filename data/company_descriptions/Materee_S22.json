@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/materee",
+  "name": "Materee",
+  "headline": "E-commerce platform for construction materials in Indonesia",
+  "batch": "S22",
+  "description": "Materee is an e-commerce platform for construction materials in Indonesia. \r\n\nConstruction is one of the most important industries in Indonesia. Despite its importance, procuring raw materials for construction work involves many phone calls, text messages, as well as back and forth communications. Materee aims to transform and simplify construction material procurement process while assisting contractors to focus on the most important activity, completing their projects.",
+  "activity_status": "Active",
+  "website": "https://materee.id",
+  "founded_date": 2022.0,
+  "team_size": 20.0,
+  "location": "Jakarta, Indonesia",
+  "group_partner": "Gustaf Alstromer",
+  "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:construction; industry:b2b",
+  "founders": [
+    {
+      "name": "Hansel Hansel, Founder",
+      "description": "Hansel was a Senior VP of Strategy & Revenue at GudangAda (Sequoia-funded B2B e-commerce startup in Indonesia that has raised more than $130m) and a BCG consultant focusing on construction value chain. He completed his MBA from MIT Sloan School of Management.",
+      "linkedin": "https://www.linkedin.com/in/hansel-hansel-05247554"
+    },
+    {
+      "name": "Steven Walentino, Founder",
+      "description": "Steven Walentino is the co-founder and Chief Technology Officer of Materee. He spent 7 years as a software engineer in Silicon Valley companies like Google, Yahoo, and Zillow Group. He also led engineering team at Kargo Tech, a Sequoia-funded logistics company in Indonesia. Born and raised in Indonesia, he earned his Bachelor's Degree in Computer Science from UC Berkeley.",
+      "linkedin": "http://www.linkedin.com/in/steven-walentino"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='Loading...\\n[Beranda](https://materee.id/</>)\\n[Pesanan](https://materee.id/</orders>)\\n[Profil](https://materee.id/</profile>)\\n' markdown_with_citations='Loading...\\nBeranda⟨1⟩\\nPesanan⟨2⟩\\nProfil⟨3⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://materee.id/</>: Beranda\\n⟨2⟩ https://materee.id/</orders>: Pesanan\\n⟨3⟩ https://materee.id/</profile>: Profil\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Materee is a promising e-commerce platform dedicated to transforming the procurement of construction materials in Indonesia. Founded in 2022 and based in Jakarta, this startup addresses a critical issue in the construction industry, which is notoriously plagued by a cumbersome process of sourcing materials that usually involves numerous phone calls and messages between contractors and suppliers.\n\nMateree’s mission is straightforward yet impactful: streamline and simplify the procurement process, enabling contractors to concentrate on what truly matters—completing their projects efficiently. It’s an essential service in a country where construction is not just an industry, but a pillar of economic growth.\n\nAs part of the Y Combinator Batch S22, Materee has attracted attention and support, and it operates with a dedicated team of 20 employees. The company is categorized under the 'construction' and 'b2b' tags, reflecting its focus on business-to-business transactions in the construction sector.\n\nYou can learn more about their offerings and services through their website at [materee.id](https://materee.id). Whether you're in the construction business or just interested in how technology is reshaping traditional industries, Materee is a company to watch, as it seeks to make construction procurement less of a hassle and more of a seamless experience."
+}

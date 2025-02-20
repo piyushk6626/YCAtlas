@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/okani",
+  "name": "Okani",
+  "headline": "Preventive healthcare app for Latam.",
+  "batch": "S21",
+  "description": "Okani is a low-cost wellness membership for the 50M Mexicans that spend 25B on healthcare out of pocket. \r\n\nWe become patients' first point of contact with the healthcare system by providing digital primary care through chat and an app, then orchestrate the delivery of secondary healthcare with physicians, labs, pharmacies and clinics. \r\n\nWe're founded by a team of 3 engineers and a doctor with a masters in clinical care. Pepe previously sold a startup to Cabify and ran engineering with Romario for Nubank's first international market.",
+  "activity_status": "Active",
+  "website": "https://www.okani.care",
+  "founded_date": 2021.0,
+  "team_size": 3.0,
+  "location": "Mexico City, Mexico",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:consumer-health-services; industry:primary-care",
+  "founders": [
+    {
+      "name": "Jose Akle, Founder",
+      "description": "Software engineer & engineering manager. \nFounded 3 companies in fintech (Solutrust acq. CIBanco), beverage (Sin Secretos acq. Kua Mex Foods) and ride hailing (Yaxi acq. Cabify).\nWorked at 3 fintechs: Paybook, Resuelve and Nubank.",
+      "linkedin": "https://www.linkedin.com/in/joseakle"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Company Summary: Okani\n\nOkani is a promising startup on a mission to revolutionize preventive healthcare in Latin America, particularly focusing on the 50 million Mexicans who spend a staggering $25 billion out of pocket on healthcare. Founded in 2021 and part of Y Combinator’s S21 batch, Okani is headquartered in Mexico City and operates with a lean team of three—two engineers and a doctor with a master's in clinical care.\n\nInitially birthed as a low-cost wellness membership aimed at making healthcare more accessible, Okani serves as the first point of contact for patients. By leveraging digital technology, they offer primary care solutions through a chat and app interface, enabling users to receive immediate medical support. From there, Okani orchestrates the necessary secondary healthcare services, seamlessly connecting patients with physicians, labs, pharmacies, and clinics. \n\nThe team behind Okani consists of seasoned professionals, including Pepe, who previously sold a startup to Cabify and played a key role in engineering for Nubank's first international market, alongside Romario. Their combined expertise positions Okani to address significant gaps in healthcare access and provision in Latin America.\n\nWith a clear purpose and a robust technological foundation, Okani is well-equipped to transform the healthcare landscape while fostering a healthier future for millions. \n\nFor more details, check out their website: [Okani](https://www.okani.care)."
+}

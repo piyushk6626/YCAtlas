@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/heyfood",
+  "name": "Heyfood",
+  "headline": "Doordash for Africa",
+  "batch": "W22",
+  "description": "Heyfood is building the “Doordash for Africa”.  But unlike Doordash in America, we make a profit on every single delivery, from day 1. \r\n\nWe are targeting Millennials and Gen Z urban professionals in Africa’s top 70 cities, withing 10 years there will be 140m number of these people, we assume they will want to order food once a week, we make $1 per delivery, this represents a $51B market.",
+  "activity_status": "Active",
+  "website": "https://heyfood.africa/",
+  "founded_date": 2021.0,
+  "team_size": 5.0,
+  "location": "Ibadan, Nigeria",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:marketplace; industry:saas; industry:consumer",
+  "founders": [
+    {
+      "name": "Taiwo Akinropo, Founder",
+      "description": "Taiwo Akinropo is the Founder and CEO of Heyfood. Studied Computer Science. Launched a social discovery platform for students while in College, Taiwo has worked on a mobile payment solution for merchants in the past.",
+      "linkedin": "https://www.linkedin.com/in/akinropo-taiwo-3a263b130/"
+    },
+    {
+      "name": "Demilade Odetara, Founder",
+      "description": "Demilade is a Co-Founder and CTO of Heyfood inc. Before starting Heyfood he worked as a software/platform engineer for a few top tech companies in Nigeria including Carbon and Fairmoney.",
+      "linkedin": "https://www.linkedin.com/in/demilade-odetara/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![logo](https://heyfood.africa/icons/circle-heyfood-white-inside.svg)\\nOrder meals from your favorite restaurants\\nContinue in app\\n' markdown_with_citations='![logo⟨1⟩]\\nOrder meals from your favorite restaurants\\nContinue in app\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://heyfood.africa/icons/circle-heyfood-white-inside.svg: logo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Heyfood: The Daring Disruptor in Africa’s Food Delivery Market**\n\nFounded in 2021 and nestled in Ibadan, Nigeria, Heyfood is on a mission to become the “Doordash for Africa.” In a continent where food delivery services are still catching up, Heyfood has carved out a unique position by ensuring profitability from day one on every delivery—a sharp contrast to the struggling delivery models seen elsewhere. \n\nThe startup targets Millennials and Gen Z urban professionals in Africa's top 70 cities. With projections suggesting that this demographic will grow to 140 million over the next decade, Heyfood forecasts a substantial opportunity. They estimate that if each of these individuals orders food just once a week, that creates a potential market worth $51 billion. By charging a modest $1 per delivery, they're tapping into a lucrative pool that is both sizable and increasingly tech-savvy.\n\nHeyfood is part of the Y Combinator Batch W22, placing it among a lineage of successful startups. Despite being a small team of five, they are well-connected, with Michael Seibel as their Group Partner. This lean structure positions them to iterate quickly and respond to the African market's unique challenges and opportunities.\n\nIn simple terms, Heyfood is working to make ordering from your favorite restaurants as easy as clicking a button. They're not just building a delivery service; they’re creating an ecosystem that promises to transform how food is accessed in urban Africa.\n\nFor more information, you can check out their website at [Heyfood](https://heyfood.africa/). \n\nIn summary, Heyfood is a refreshing example of how startups in emerging markets can not only adapt proven models from the West but enhance them by focusing on sustainability and direct profitability. With an eye toward the future, they’re well-positioned to meet the growing demand for food delivery services across the continent."
+}

@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/safer-management",
+  "name": "Safer Management",
+  "headline": "Student Attendance tracking for Public Schools",
+  "batch": "S21",
+  "description": "Safer Management sells attendance software to public school districts and colleges. Public schools receive federal funding based on their average daily attendance, and our software ensures they get the money they need.\r\n\nWe started Safer Mgmt. 12 months ago after I dropped off my twin boys and experienced inefficiencies with the sign-in process. We are now in 75 public schools and two colleges with annual reoccurring revenue of $621,000. We have 82% margins and are profitable. At scale, we will charge $15 per student per year. \r\n\nThere are 70 million public school students in America which is a $1.4 billion dollar market opportunity.",
+  "activity_status": "Active",
+  "website": "https://www.safermgmt.com/",
+  "founded_date": 2020.0,
+  "team_size": 5.0,
+  "location": "Dallas, TX",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:education; industry:machine-learning",
+  "founders": [
+    {
+      "name": "Fredrick Burns, Founder",
+      "description": "I am a Mississippi native with a passion for technology. Prior to founding Safer Management, I worked as a Software Engineer for multiple companies. I have a special place in my heart for iOS development and simplistic user interface designs. When my face is not glued to the computer screen I am spending time with my twin boys who are the reason I started Safer Management initially.",
+      "linkedin": "https://linkedin.com/in/fred-burns-63a8b07b"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![avatar](https://www.safermgmt.com/)\\n##### Check In\\n### N/A\\n##### N/A\\nCheck In\\nCheck In\\nDate\\nStatus\\nN/A\\nReason\\nN/A\\nComment\\nSave\\n' markdown_with_citations='![avatar⟨1⟩]\\n##### Check In\\n### N/A\\n##### N/A\\nCheck In\\nCheck In\\nDate\\nStatus\\nN/A\\nReason\\nN/A\\nComment\\nSave\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.safermgmt.com/: avatar\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Safer Management: Revolutionizing Student Attendance Tracking**\n\n**Overview**\nFounded in 2020 and based in Dallas, Texas, Safer Management addresses a pressing need in public schools: efficient attendance tracking. Conceived after a frustrating experience with a sign-in process while dropping off his twin boys, the founder's vision quickly turned into reality. Now, just 12 months later, the company has already made significant strides, serving 75 public schools and two colleges.\n\n**Mission**\nAt its core, Safer Management’s mission is to streamline student attendance tracking for public educational institutions. Attendance is critical because public schools rely on federal funding tied to student attendance figures. Their software not only ensures that schools maintain accurate records but also safeguards their essential funding.\n\n**Business Model and Growth**\nSafer Management operates on a subscription-based model, charging $15 per student annually. Currently, the company boasts an impressive annual recurring revenue (ARR) of $621,000, with an impressive profit margin of 82%. With 70 million public school students in the U.S., the market potential is immense—estimated at around $1.4 billion.\n\n**Funding and Partnerships**\nAs part of Y Combinator’s Batch S21, Safer Management benefits from the accelerator's expertise and network. Their group partner, Nan, adds further credibility to their venture.\n\n**Team and Commitment**\nDespite a small team of five, Safer Management is making a significant impact in the educational tech space. They leverage artificial intelligence and machine learning in their processes, marking a modern approach to an age-old challenge in education.\n\nIn summary, Safer Management is on a promising path, tackling inefficiencies in school attendance with innovative solutions that not only help educational institutions thrive but also ensure that every student counts towards educational funding. With solid margins and room for substantial growth, they’re definitely a company to watch as they shape the future of student attendance tracking. For more information, visit their website at [Safer Management](https://www.safermgmt.com/)."
+}

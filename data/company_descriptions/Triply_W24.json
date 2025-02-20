@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/triply",
+  "name": "Triply",
+  "headline": "Operating system for travel businesses in Africa with embedded finance",
+  "batch": "W24",
+  "description": "Triply (Formerly Tripitaca) is the operating system for travel businesses in Africa. We eliminate operational chaos by unifying payments, Invoicing, payroll, accounting, operations, and more into a single platform allowing travel businesses to execute and sell more efficiently.",
+  "activity_status": "Active",
+  "website": "https://business.triply.co/",
+  "founded_date": 2021.0,
+  "team_size": 18.0,
+  "location": "Nairobi, Kenya",
+  "group_partner": "Tom Blomfield",
+  "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:marketplace; industry:saas; industry:travel",
+  "founders": [
+    {
+      "name": "Peter Wachira, Founder",
+      "description": "Peter is an entrepreneur with a passion for empowering communities and reshaping the travel industry. Started my first company at 18, focusing on providing essential goods and services to low-income households through a BNPL model, exited. I pivoted to the travel sector, founding a leading vacation rental management company. Recognizing the challenges faced by travel businesses, I am now building Tripitaca, the operating system for travel businesses in Africa.",
+      "linkedin": "https://linkedin.com/in/peter-wachira-tripitaca"
+    },
+    {
+      "name": "Collins Muthinja, Founder",
+      "description": "With over a decade of coding expertise, I'm a seasoned software engineer who cut my teeth at a leading insuretech firm, where I played a key role in building payment rails. Co-founder of a successful BNPL startup later acquired, I now drive innovation as I build the operating system for travel businesses in Africa, seamlessly embedding finance solutions.",
+      "linkedin": "https://linkedin.com/in/collins-muthinja-trippi"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"![](https://business.triply.co/Logos/Triply-Blue-logo.webp)\\nWe're setting things up for you\\n\" markdown_with_citations=\"![](https://business.triply.co/Logos/Triply-Blue-logo.webp)\\nWe're setting things up for you\\n\" references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Triply: Revolutionizing Travel Businesses in Africa**\n\nFounded in 2021 and initially known as Tripitaca, Triply is an innovative operating system designed specifically for travel businesses in Africa. Its mission? To streamline the often chaotic operational processes by integrating various essential functions—payments, invoicing, payroll, accounting, and more—into a single, cohesive platform. This unification aims to help travel companies execute their tasks more efficiently and effectively.\n\nBased in Nairobi, Kenya, Triply is part of Y Combinator's W24 batch, which is a significant indicator of its growth potential and excellence in the competitive startup landscape. The team consists of 18 dedicated employees, all working to make the travel industry smoother and more accessible.\n\nTriply operates at the intersection of several trending sectors: fintech, marketplace, SaaS, and travel. This blend of industries highlights its unique value proposition in both the African market and the global tech ecosystem. With Tom Blomfield as their Group Partner, the company is backed by solid expertise and industry connections.\n\nIf you're interested in how Triply is setting new standards in the travel sector, you can learn more at their official website: [Triply](https://business.triply.co/).\n\nIn a nutshell, Triply is dedicated to eliminating operational chaos and empowering travel businesses across Africa with integrated financial solutions and streamlined operations, pushing the industry into the future."
+}

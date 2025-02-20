@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/tile",
+  "name": "Tile",
+  "headline": "AI-first notebook for building operational data apps",
+  "batch": "W24",
+  "description": "Create production-grade data automations and applications without writing SQL or code",
+  "activity_status": "Active",
+  "website": "https://tile.sh",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "New York",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:saas; industry:analytics; industry:big-data; industry:operations; location:new-york",
+  "founders": [
+    {
+      "name": "Jenica Zhong, Founder",
+      "description": "Cofounder and CEO of Tile. She was previously at Palantir for 4 years as a PM on their big data product (Foundry), Tactical Intelligence Targeting Access Node (TITAN), and AI-Assisted Decisions for Defense (Gotham). She majored in math at Harvard specializing in differential topology. She is also a math olympian who still enjoys solving USAMO problems in her free time as well as running marathons and oil painting (national-award winner!).",
+      "linkedin": "https://linkedin.com/in/jenica-zhong"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"[](https://tile.sh/<#>)\\n# Strategically improve your operational efficiency\\nIt’s hard to know which processes to invest in improving. Tile reveals each process's manual time, repeatability, and cost, helping you identify where to focus.\\nWe are currently in private beta\\n[Backed by ![](https://cdn.prod.website-files.com/65e5f26c15d9bfcbaae78e64/65e6047934caf1d4a9ec101f_ycombinator-logo-37cf030fbc255fc71d19aa21bd5b32076aa206e8fbd0121c9247db2adcbd7851.png)Combinator](https://tile.sh/<#>)\\n![](https://cdn.prod.website-files.com/65e5f26c15d9bfcbaae78e64/65e5f26c15d9bfcbaae78eea_Abstract%20Home%203.webp)\\n![](https://cdn.prod.website-files.com/65e5f26c15d9bfcbaae78e64/65e5f26c15d9bfcbaae78ee9_Abstract%20Hero%20Home%201.webp)\\nfounders@tile.sh\\n© 2024 Tile Technologies. All rights reserved.\\n\" markdown_with_citations=\"[](https://tile.sh/<#>)\\n# Strategically improve your operational efficiency\\nIt’s hard to know which processes to invest in improving. Tile reveals each process's manual time, repeatability, and cost, helping you identify where to focus.\\nWe are currently in private beta\\nBacked by ![⟨1⟩Combinator](https://tile.sh/<#>)\\n![](https://cdn.prod.website-files.com/65e5f26c15d9bfcbaae78e64/65e5f26c15d9bfcbaae78eea_Abstract%20Home%203.webp)\\n![](https://cdn.prod.website-files.com/65e5f26c15d9bfcbaae78e64/65e5f26c15d9bfcbaae78ee9_Abstract%20Hero%20Home%201.webp)\\nfounders@tile.sh\\n© 2024 Tile Technologies. All rights reserved.\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://cdn.prod.website-files.com/65e5f26c15d9bfcbaae78e64/65e6047934caf1d4a9ec101f_ycombinator-logo-37cf030fbc255fc71d19aa21bd5b32076aa206e8fbd0121c9247db2adcbd7851.png: Backed by ![\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Tile is an early-stage startup based in New York that is carving out a niche in the realm of operational efficiency. Founded in 2024 and part of Y Combinator's Winter 2024 batch, the company is spearheading the development of its AI-first notebook designed for building operational data applications. The mission here is pretty straightforward: to enable users to create production-grade data automations and applications without having to write SQL code or learn complex programming skills. \n\nWith a lean team of just two employees, Tile is currently in private beta and has set its sights on helping organizations strategically identify which operational processes are ripe for improvement. Using their platform, users can visualize key metrics such as manual time, repeatability, and costs associated with different processes, giving them the insight needed to make informed decisions about where to invest in improvements.\n\nThe technology landscape is vast, and Tile wants to tap into this with a focus on artificial intelligence, SaaS, analytics, and big data. By doing so, they're not just building a tool; they’re redefining how operational data can be harnessed to drive efficiency in businesses. \n\nIf you’re curious to explore what Tile offers, check out their website at [tile.sh](https://tile.sh). As they continue to develop and refine their platform, keep an eye on this emerging player in the tech space—who knows what innovations they might bring to the table next!"
+}

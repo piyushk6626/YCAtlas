@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/tola",
+  "name": "Tola",
+  "headline": "The simple, fast and free tool for businesses to pay and get paid",
+  "batch": "W22",
+  "description": "Tola is the simple tool for SMBs to pay bills and get paid. On top of that, we help companies better manage their cashflow by allowing them to buy now and pay later expensive bills in exchange for a small fee.",
+  "activity_status": "Active",
+  "website": "https://tolahq.com",
+  "founded_date": 2022.0,
+  "team_size": 12.0,
+  "location": "San Francisco",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:saas; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Alen Cvisic, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/alencvisic/"
+    },
+    {
+      "name": "Guillaume Simard, Founder",
+      "description": "Hey 👋 I'm Guillaume. I'm a nerd who's been building SaaS and Fintech for my entire career.",
+      "linkedin": "https://www.linkedin.com/in/guisim/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=cf1f2ece-3875-4272-a18e-01e0ea9068d1&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=1f586933-b511-41d7-8764-26dc9a06c90e&tw_document_href=https%3A%2F%2Fusetola.com%2F&tw_iframe_status=0&txn_id=ol7v7&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=cf1f2ece-3875-4272-a18e-01e0ea9068d1&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=1f586933-b511-41d7-8764-26dc9a06c90e&tw_document_href=https%3A%2F%2Fusetola.com%2F&tw_iframe_status=0&txn_id=ol7v7&type=javascript&version=2.3.31)\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=cf1f2ece-3875-4272-a18e-01e0ea9068d1&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=1f586933-b511-41d7-8764-26dc9a06c90e&tw_document_href=https%3A%2F%2Fusetola.com%2F&tw_iframe_status=0&txn_id=ol7v7&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=cf1f2ece-3875-4272-a18e-01e0ea9068d1&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=1f586933-b511-41d7-8764-26dc9a06c90e&tw_document_href=https%3A%2F%2Fusetola.com%2F&tw_iframe_status=0&txn_id=ol7v7&type=javascript&version=2.3.31)\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Tola: Simplifying Business Payments\n\nTola is a fintech startup founded in 2022 and hailing from the vibrant San Francisco Bay Area, specifically as part of Y Combinator’s W22 batch. With a small, focused team of 12 employees, Tola is laser-focused on providing an essential service for small and medium-sized businesses (SMBs): a fast, simple, and free tool for managing bill payments.\n\nThe mission is straightforward: help businesses pay and get paid quickly. Tola not only streamlines the payment process but also gives companies an edge in cash flow management. By allowing businesses to buy now and pay later for large expenses, Tola offers a practical solution for managing tight budgets—a small fee for extended payment flexibility goes a long way in the world of business.\n\nLed by Group Partner Jared Friedman, Tola is positioned at the intersection of fintech and SaaS, making its offerings highly relevant in today's evolving financial landscape. The website, [tolahq.com](https://tolahq.com), serves as the gateway for interested businesses to access this innovative tool.\n\nIn short, Tola is more than just a payments platform; it's a partner for SMBs looking to navigate the complexities of cash flow management in a fast-paced economic environment. If you're a business owner seeking an easier way to handle payments, Tola is worth considering."
+}

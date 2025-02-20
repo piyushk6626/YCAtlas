@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/findly",
+  "name": "Findly",
+  "headline": "Co-pilot for Business Intelligence",
+  "batch": "S22",
+  "description": "Findly.ai is the co-pilot for Business Intelligence that revolutionizes how businesses understand and interact with their data. By creating an engaging chat environment, it empowers decision-makers to gain insights, request reports, and generate visualizations based on their company's metrics. This seamless interaction is made possible by integrating a metric layer that comprehends all your company's metrics. The chat-based exploration simplifies complex data analysis, allowing users to generate comprehensive summaries with a single click, which can be exported to various formats. Furthermore, with the introduction of scheduled chats and action-triggered automations, Findly.ai enhances the autonomy and efficiency of decision-makers. It's more than a tool; it's a decision-making operational system aiming to facilitate decision-makers in achieving their KPIs while spending less time waiting for data.",
+  "activity_status": "Active",
+  "website": "https://www.findly.ai/join",
+  "founded_date": 2022.0,
+  "team_size": 6.0,
+  "location": "London, United Kingdom",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:generative-ai; industry:b2b; industry:chatbot; industry:data-engineering; industry:ai",
+  "founders": [
+    {
+      "name": "Jonathan Aeschlimann, Founder",
+      "description": "Swiss-Brazilan entrepreneur starting his third venture. Co-founder of divbrands.io, where we grew to become one of Google's most prominent display and video customers in Europe, reached $40M in yearly revenue bootstrapped and managed a team of 100+ remotely.\nExecutive education at Stanford GSB and Chicago Booth. Member of YPO and WEF Global Shapers.",
+      "linkedin": "https://www.linkedin.com/in/jonaesh47/"
+    },
+    {
+      "name": "Lourenço Maciel, Founder",
+      "description": "Lourenço is a self-made entrepreneur with 12 years of digital marketing experience. He has built and led a successful eCommerce company, selling to over 30 countries in 9 languages. Lourenço specializes in advertising, tracking, and attribution with a strategic focus on driving profitable advertising spend, having spent over 50M in ads throughout his career. In 2021, he taught himself to code and developed a system that kept his business attribution working and helped secure 35M in revenue.",
+      "linkedin": "https://linkedin.com/in/lourencomaciel"
+    },
+    {
+      "name": "Pedro Nascimento, Founder",
+      "description": "Pedro is passionate about creating functional teams, great culture and helping people to become the best version of themselves. He has deep interest in computer science, machine learning and math, having large experience on them in both academic and corporate environments. Pedro expertise is to use a strong theoretical framework to solve real world problems. He is a former Google and Twitter engineer.",
+      "linkedin": "https://www.linkedin.com/in/pedro-paulo-nascimento-5792426b/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=d0280b6d-1381-4dd8-8af7-566ebb7ce1e5&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fb2c1d4d-a5e5-43b9-9275-957815fb48b6&tw_document_href=https%3A%2F%2Fdashboard.findly.ai%2Fsignup&tw_iframe_status=0&txn_id=oi738&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=d0280b6d-1381-4dd8-8af7-566ebb7ce1e5&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fb2c1d4d-a5e5-43b9-9275-957815fb48b6&tw_document_href=https%3A%2F%2Fdashboard.findly.ai%2Fsignup&tw_iframe_status=0&txn_id=oi738&type=javascript&version=2.3.31)\\n' markdown_with_citations='![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=d0280b6d-1381-4dd8-8af7-566ebb7ce1e5&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fb2c1d4d-a5e5-43b9-9275-957815fb48b6&tw_document_href=https%3A%2F%2Fdashboard.findly.ai%2Fsignup&tw_iframe_status=0&txn_id=oi738&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=d0280b6d-1381-4dd8-8af7-566ebb7ce1e5&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fb2c1d4d-a5e5-43b9-9275-957815fb48b6&tw_document_href=https%3A%2F%2Fdashboard.findly.ai%2Fsignup&tw_iframe_status=0&txn_id=oi738&type=javascript&version=2.3.31)\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Summary of Findly\n\n**Name:** Findly  \n**Website:** [findly.ai](https://www.findly.ai/join)  \n**Founded:** 2022  \n**Location:** London, United Kingdom  \n**Team Size:** 6 employees  \n**Y Combinator Batch:** S22  \n**Group Partner:** Brad Flora  \n\n#### Mission\nFindly's mission is to be the co-pilot for business intelligence, transforming how companies perceive and interact with their data. \n\n#### Overview\nOriginally launched as Findly.ai, this innovative platform provides a chat-based environment designed to simplify data exploration. Its primary goal is to empower business decision-makers by enabling them to gain insights, request reports, and visualize important metrics with ease. The integration of a comprehensive metric layer aids in understanding complex datasets without the hassle. \n\nWith features like one-click summaries that export to various formats, scheduled chats, and action-triggered automations, Findly is not just a tool—it functions as an operational system for decision-making. This helps decision-makers focus more on achieving their key performance indicators (KPIs) rather than getting hung up waiting for data.\n\n#### Key Features\n- **Engaging Chat Environment:** Simplifies data interaction and exploration.\n- **Metric Layer Integration:** Understand all company metrics seamlessly.\n- **One-Click Reporting:** Generate and export summaries with minimal effort.\n- **Scheduled Chats & Automations:** Enhances efficiency and autonomy for users.\n\n#### Tags\n- Generative AI\n- B2B\n- Chatbot\n- Data Engineering\n- AI\n\nIn a nutshell, Findly is setting out to make data more accessible and actionable for businesses by turning complex analytics into simple conversations, allowing users to focus on what truly matters: making informed decisions quickly."
+}

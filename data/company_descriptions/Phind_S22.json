@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/phind",
+  "name": "Phind",
+  "headline": "AI search engine",
+  "batch": "S22",
+  "description": "Phind is an AI search engine. It uses multi-step reasoning to find the best answer for your question and generative UI to present it in the most beautiful and interactive way.",
+  "activity_status": "Active",
+  "website": "https://phind.com",
+  "founded_date": 2022.0,
+  "team_size": 4.0,
+  "location": "San Francisco",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:generative-ai; industry:search; industry:ai-assistant; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Michael Royzen, Founder",
+      "description": "Co-founder & CEO at phind.com\nUT Austin Turing Scholar '22\nPreviously an undergrad NLP researcher, as well as ML at Lyft, Cloudflare, and Microsoft.",
+      "linkedin": "https://www.linkedin.com/in/michaelroyzen/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Phind is an innovative AI search engine founded in 2022, positioned as a company that leverages artificial intelligence to deliver precise answers through multi-step reasoning. With its headquarters in San Francisco and a lean team of just four employees, Phind aims to transform the search experience by using generative UI to present information in a visually stunning and interactive manner.\n\nHaving participated in Y Combinator's Batch S22, Phind has gained valuable mentorship and networking opportunities under the guidance of its Group Partner, Michael Seibel. The company's commitment to the realms of artificial intelligence, generative AI, and AI-assisted search positions it well within the tech ecosystem, especially in the bustling San Francisco Bay Area.\n\nEssentially, Phind is about making information accessible and engaging. It’s not just another search engine; it’s designed for those who seek depth and clarity in their inquiries, incorporating AI to sift through data intelligently. Their vision points towards an evolved search landscape, where understanding and presentation go hand in hand. If you want to learn more or try their service, you can visit their website at [phind.com](https://phind.com). Keep an eye on Phind; they’re one of those startups that could redefine how we approach searches in the digital age."
+}

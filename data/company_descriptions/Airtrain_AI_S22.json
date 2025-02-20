@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/airtrain-ai",
+  "name": "Airtrain AI",
+  "headline": "No-code data curation for LLM fine-tuning and evaluation.",
+  "batch": "S22",
+  "description": "Airtrain AI is a no-code data platform for Large Language Models.\r\n\nProprietary AI models such as GPT-4 are very powerful but also very costly, slow, unreliable, and unsecured.\r\n\nAs businesses look to scale their AI prototypes into production-grade products, they struggle with large AI bills, slow APIs and large failure rates.\r\nOn the other hand, smaller language models have been proven to be able to perform on-part with large ones with fine-tuned on high-quality datasets.\r\n\nAirtrain AI lets AI practitioners explore alternatives to proprietary models, build up training datasets, evaluate, fine-tune, and serve a large selection of open-source LLMs.",
+  "activity_status": "Active",
+  "website": "https://airtrain.ai",
+  "founded_date": 2022.0,
+  "team_size": 5.0,
+  "location": "San Francisco",
+  "group_partner": "Nicolas Dessaigne",
+  "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:aiops; industry:developer-tools; industry:saas; industry:cloud-computing; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Emmanuel Turlay, Founder",
+      "description": "Hi, I am Emmanuel.\n\nI spent my foundational years in academia (particle physics research at CERN) then branched out into tech. I built the order and payment infrastructure at Instacart, and lead ML platform at Cruise.\n\nI am the CEO and co-founder of Sematic (S22).\n\nReach out and say hello.",
+      "linkedin": "https://www.linkedin.com/in/emmanuelturlay/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"![](https://airtrain.ai/_next/static/media/navlogo.5027b41e.svg)![](https://airtrain.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwandb.15c1aa64.jpg&w=3840&q=75)\\nI'm excited to announce that Airtrain AI is joining Weights & Biases.\\nW&B has long been a leader in AI developer tools. Combining our expertise in AI safety, model customization, and evaluation with their platform is a natural fit for our shared mission of empowering developers to ship better AI products faster.\\nAs we make this transition, we will be sunsetting Airtrain's products. Thank you to our team, customers, investors, and everyone who has supported us on this journey.\\n– Emmanuel\\n\" markdown_with_citations=\"![](https://airtrain.ai/_next/static/media/navlogo.5027b41e.svg)![](https://airtrain.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwandb.15c1aa64.jpg&w=3840&q=75)\\nI'm excited to announce that Airtrain AI is joining Weights & Biases.\\nW&B has long been a leader in AI developer tools. Combining our expertise in AI safety, model customization, and evaluation with their platform is a natural fit for our shared mission of empowering developers to ship better AI products faster.\\nAs we make this transition, we will be sunsetting Airtrain's products. Thank you to our team, customers, investors, and everyone who has supported us on this journey.\\n– Emmanuel\\n\" references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Airtrain AI is on a mission to streamline the world of AI development with its no-code data curation platform, specifically designed for fine-tuning and evaluating Large Language Models (LLMs). Founded in 2022 and based in San Francisco, this innovative startup emerged from Y Combinator’s Batch S22, gathering a small but skilled team of five under the guidance of Group Partner Nicolas Dessaigne.\n\nThe landscape of AI is crowded with powerhouse models like GPT-4, but these come with significant drawbacks: they’re costly, slow, and not always reliable. Many businesses face mounting challenges as they endeavor to scale AI prototypes into production-level solutions. Enter Airtrain AI, which offers an alternative. It empowers AI practitioners to harness smaller, more efficient open-source LLMs, enabling them to build training datasets, evaluate models, and fine-tune performance without incurring astronomical costs.\n\nThe company recently announced a significant transition: joining forces with Weights & Biases (W&B), a frontrunner in AI developer tools. This partnership aims to merge Airtrain’s insights on AI safety and model customization with W&B's capabilities to enhance the developer experience, allowing them to create better AI products at a faster pace.\n\nAs Airtrain AI integrates into the W&B ecosystem, it will sunset its existing products. This decision reflects a strategic move to consolidate resources and focus on delivering enhanced value through collaboration. The founders express gratitude to their team, customers, and investors for their support during this journey.\n\nFor more details about their offerings and updates, you can visit their website at [airtrain.ai](https://airtrain.ai). With Airtrain AI’s commitment to redefining the AI development space, the future looks promising for developers aiming to leverage the power of language models without the usual complexities."
+}

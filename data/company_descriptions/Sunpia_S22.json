@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/sunpia",
+  "name": "Sunpia",
+  "headline": "Deploy serverless without rewriting code",
+  "batch": "S22",
+  "description": "Sunpia lets developers easily experience the cost and speed benefits of serverless infrastructure, without having to rewrite their code. Developers annotate their code and Sunpia automatically designs a microservice version of it they can deploy on their own cloud.",
+  "activity_status": "Active",
+  "website": "http://sunpia.io",
+  "founded_date": 2022.0,
+  "team_size": 3.0,
+  "location": "San Jose, CA",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:kubernetes; industry:data-engineering; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Alan Pham, Founder",
+      "description": "I graduated from UC Berkeley with Bachelors and Masters in EECS, conducting systems and machine learning research as part of the UC Berkeley RISELab, with interest in cloud and ai workflows.",
+      "linkedin": "https://www.linkedin.com/in/alanlph/"
+    },
+    {
+      "name": "Ivy Pham, Founder",
+      "description": "I graduated from Harvard with my B.A. in Economics and have a professional background in product management and business analytics. I'm interested in building solutions that can streamline workflows and improve efficiency.",
+      "linkedin": null
+    },
+    {
+      "name": "Vikranth Srivatsa, Founder",
+      "description": "I graduated from UC Berkeley EECS doing systems and machine learning research. I do research as part of the UC Berkeley SKY Lab. I am interested in cloud/edge computing.",
+      "linkedin": null
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"[Skip to main content](http://sunpia.io/<#>)\\n[![My Site Logo](http://sunpia.io/img/sunpia_logo.png)](http://sunpia.io/</>)\\n![](http://sunpia.io/img/sunpia_logo.png)\\n# Sunpia is the future of serverless\\nSunpia lets developers easily experience the cost and speed benefits of serverless infrastructure without having to rewrite their code. Developers annotate their code and Sunpia automatically designs a microservice version of it they can deploy on their own cloud.\\n[Join our waitlist](http://sunpia.io/<https:/forms.gle/NzWVGMkMYcmxir8t9>)\\n![](http://sunpia.io/assets/images/logos_vendor_lockin-d28e328b85686e4f2325b4ca99145b97.png)\\n![](http://sunpia.io/assets/images/hi_redudancy-fe47f6096baa3846d92147bd7b2f752a.png)\\n![](http://sunpia.io/assets/images/simplify_complex-daa28c75b8d9c137afe46cf3bd4c1ce9.png)\\n### Vendor Agnostic\\nDon't get stuck using a single cloud provider and support your customers everywhere.\\n### Higher Redudancy\\nIf a cloud provider (AWS/Azure/GCP/IBM) goes down, we help stay up to serve your customers\\n### Simplify Complex Serverless\\nAvoid working with complex and confusing serverless architectures and services. We automatically provide you the best architecture for any cloud.\\nCopyright © Sunpia Inc\\n\" markdown_with_citations=\"Skip to main content⟨1⟩\\n![My Site Logo⟨2⟩](http://sunpia.io/</>)\\n![](http://sunpia.io/img/sunpia_logo.png)\\n# Sunpia is the future of serverless\\nSunpia lets developers easily experience the cost and speed benefits of serverless infrastructure without having to rewrite their code. Developers annotate their code and Sunpia automatically designs a microservice version of it they can deploy on their own cloud.\\nJoin our waitlist⟨3⟩\\n![](http://sunpia.io/assets/images/logos_vendor_lockin-d28e328b85686e4f2325b4ca99145b97.png)\\n![](http://sunpia.io/assets/images/hi_redudancy-fe47f6096baa3846d92147bd7b2f752a.png)\\n![](http://sunpia.io/assets/images/simplify_complex-daa28c75b8d9c137afe46cf3bd4c1ce9.png)\\n### Vendor Agnostic\\nDon't get stuck using a single cloud provider and support your customers everywhere.\\n### Higher Redudancy\\nIf a cloud provider (AWS/Azure/GCP/IBM) goes down, we help stay up to serve your customers\\n### Simplify Complex Serverless\\nAvoid working with complex and confusing serverless architectures and services. We automatically provide you the best architecture for any cloud.\\nCopyright © Sunpia Inc\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ http://sunpia.io/<#>: Skip to main content\\n⟨2⟩ http://sunpia.io/img/sunpia_logo.png: ![My Site Logo\\n⟨3⟩ http://sunpia.io/<https:/forms.gle/NzWVGMkMYcmxir8t9>: Join our waitlist\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Sunpia Overview**\n\nFounded in 2022 and based in San Jose, California, Sunpia is revolutionizing the serverless infrastructure landscape. The company emerged from Y Combinator’s Summer 2022 batch, emphasizing a straightforward mission: to allow developers to deploy serverless applications without the burden of rewriting existing code.\n\n**How It Works**\n\nInstead of starting from scratch, developers can simply annotate their code. Sunpia takes care of the heavy lifting by automatically crafting a microservice version of that code, ready for deployment on the developer's own cloud environment. This approach not only saves time but also leverages the cost and performance advantages of serverless architecture.\n\n**Key Features**\n\n- **Vendor Agnostic:** Sunpia ensures that developers aren’t tied to a single cloud provider, supporting a more flexible deployment strategy.\n  \n- **High Redundancy:** In the event of a cloud provider outage, whether it's AWS, Azure, GCP, or IBM, Sunpia helps keep services running smoothly for customers.\n  \n- **Simplified Serverless Architecture:** Developers can sidestep the complexity often associated with serverless services. Sunpia automatically provides an optimized architecture tailored for any cloud environment.\n\n**Current Status and Team**\n\nSunpia operates with a compact team of three employees, including Group Partner Brad Flora, and is tagged in the realms of developer tools, Kubernetes, and data engineering within the vibrant San Francisco Bay Area ecosystem. \n\nTo learn more and perhaps join the growing interest, you can visit their website at [sunpia.io](http://sunpia.io) or join their waitlist to stay updated on the latest developments.\n\nIn a nutshell, Sunpia is poised as a critical enabler in the world of serverless computing, making it easier for developers to harness the full potential of cloud technologies without the usual headaches of migration or re-architecture."
+}

@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/recipeui",
+  "name": "RecipeUI",
+  "headline": "The open source Postman alternative.",
+  "batch": "S23",
+  "description": "The first version of RecipeUI was a viral project at Robinhood that reached 100% adoption from all engineering and QA teams. When an API broke, anyone from Frontend to QA to PMs could debug without relying on backend engineers",
+  "activity_status": "Active",
+  "website": "https://recipeui.com",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "New York",
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:open-source; industry:api; location:new-york",
+  "founders": [
+    {
+      "name": "Samuel San, Founder",
+      "description": "Hey! I was a product manager at Coinbase and Apple and studied software engineering at the University of Waterloo. I also did a bunch of internships at Meta, Microsoft, Shopify, and startups.",
+      "linkedin": "https://linkedin.com/in/samuelsan"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='This deployment is temporarily paused.\\n`bom1::fwvxr-1739978923541-60cd957d8215`\\n' markdown_with_citations='This deployment is temporarily paused.\\n`bom1::fwvxr-1739978923541-60cd957d8215`\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**RecipeUI: The Open Source Postman Alternative**\n\nFounded in 2023 and hailing from the bustling tech scene of New York, RecipeUI is carving out a niche as the go-to open source alternative to Postman. The mission here is straightforward yet ambitious: to democratize API debugging across teams, making it accessible not just to backend engineers but to everyone from frontend developers to product managers and QA testers.\n\nThe inception of RecipeUI can be traced back to its early days at Robinhood, where it quickly gained traction as the first version was embraced by 100% of the engineering and QA teams. This viral adoption speaks volumes about its utility — when an API breaks, anyone involved can jump in and help identify the issue, reducing bottlenecks and increasing overall efficiency.\n\nCurrently, the company is a lean operation with a team of just two, operating under the guidance of Dalton Caldwell as their Group Partner in the Y Combinator Batch S23. RecipeUI is tagged with important categories like 'developer-tools', 'open-source', 'api', and 'new-york', laying the groundwork for what they hope to build.\n\nHowever, it's worth noting that at this moment, RecipeUI's deployment is temporarily paused, signaling they’re likely refining their product for an even better user experience. \n\nFor more information on their journey and offerings, check out their website: [RecipeUI](https://recipeui.com). If you're looking for a fresh, community-driven approach to API management, keep an eye on RecipeUI; they could very well be the tool you didn’t know you needed."
+}

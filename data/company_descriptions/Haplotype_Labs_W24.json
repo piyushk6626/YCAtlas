@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/haplotype-labs",
+  "name": "Haplotype Labs",
+  "headline": "Personalized prevention using genetics and AI",
+  "batch": "W24",
+  "description": "We're building the HaploHub: a SaaS platform for genetic testing labs, concierge medical practices, and payer/providers to: \r\n * predict disease risk for their patients based on proprietary or publicly available genetic models\r\n * securely host, manage, and interrogate the genetic data of their population\r\n * generate reports and run the most common inference algorithms (phasing, imputation, ibd, etc.) without writing code",
+  "activity_status": "Active",
+  "website": "https://www.haplotypelabs.com/",
+  "founded_date": 2024.0,
+  "team_size": 1.0,
+  "location": null,
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Mike Polcari, Founder",
+      "description": "Mike is the founder of Haplotype Labs.\nPreviously, Mike served as the VP & Chief Architect at 23andMe. Mike's tenure at 23andMe spanned a 15+ year category-defining journey from Series A through IPO and beyond.\nPrior to 23andMe, Mike was an early engineer at Salesforce.com and developed technology at Merrill Lynch.\nMike holds a BS in CS from Cornell, a MS in Biomedical Informatics from Stanford, and multiple patents related to cloud computing, security, genetics, and machine learning.",
+      "linkedin": "https://linkedin.com/in/polcari"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![](https://cdn.prod.website-files.com/65b73d0f7db264a75d5a321b/65c03c2cab3fd8f47cec3a2d_Screenshot%202024-01-16%20at%203.20.17%20PM.png)**Haplotype****Labs**](https://www.haplotypelabs.com/</>)[Home](https://www.haplotypelabs.com/</>)[About](https://www.haplotypelabs.com/</about>)[Contact](https://www.haplotypelabs.com/</contact>)\\n![](https://cdn.prod.website-files.com/65b73d0f7db264a75d5a321b/65b73d0f7db264a75d5a32b6_arrow.svg)\\n# Advanced population genetics\\n# Simplified.\\nWe are building SaaS technology and community to:\\n  * reduce sequencing costs by 50% - 90% \\n  * predict, detect, and prevent disease using polygenic risk models\\n  * accelerate timelines by eliminating bespoke software pipelines\\n\\n\\n© 2024 Haplotype Labs, Inc. All rights reserved.\\n' markdown_with_citations='![⟨1⟩**Haplotype****Labs**](https://www.haplotypelabs.com/</>)Home⟨2⟩About⟨3⟩Contact⟨4⟩\\n![](https://cdn.prod.website-files.com/65b73d0f7db264a75d5a321b/65b73d0f7db264a75d5a32b6_arrow.svg)\\n# Advanced population genetics\\n# Simplified.\\nWe are building SaaS technology and community to:\\n  * reduce sequencing costs by 50% - 90% \\n  * predict, detect, and prevent disease using polygenic risk models\\n  * accelerate timelines by eliminating bespoke software pipelines\\n\\n\\n© 2024 Haplotype Labs, Inc. All rights reserved.\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://cdn.prod.website-files.com/65b73d0f7db264a75d5a321b/65c03c2cab3fd8f47cec3a2d_Screenshot%202024-01-16%20at%203.20.17%20PM.png: ![\\n⟨2⟩ https://www.haplotypelabs.com/</>: Home\\n⟨3⟩ https://www.haplotypelabs.com/</about>: About\\n⟨4⟩ https://www.haplotypelabs.com/</contact>: Contact\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Haplotype Labs: Personalizing Prevention Through Genetics and AI**\n\nFounded in 2024 and backed by Y Combinator’s Batch W24, Haplotype Labs is on a mission to revolutionize healthcare through personalized disease prevention utilizing genetics and artificial intelligence. Located in a currently unspecified city, this lean startup is led by a team of one — an indication perhaps of the agility and focus needed in the early stages of innovative development.\n\nAt the core of their effort is the HaploHub, a Software as a Service (SaaS) platform designed for genetic testing labs, concierge medical practices, and various health payers and providers. The platform aims to democratize access to complex genetic insights by simplifying the process of predicting disease risks using both proprietary and publicly available genetic models. Here's what sets Haplotype Labs apart:\n\n1. **Disease Risk Prediction**: The platform allows medical professionals to assess the potential health risks faced by their patients based on genetic data.\n  \n2. **Data Management**: It offers a secure environment to manage and analyze the genetic information of patient populations. \n\n3. **User-Friendly Reporting**: Users can generate essential reports and utilize common inference algorithms without needing extensive coding skills.\n\nHaplotype Labs also emphasizes cost reduction in genetic sequencing, aiming to cut costs by 50% to 90%. They strive to predict, detect, and prevent diseases proactively through advanced polygenic risk models, all while mitigating the complexity associated with bespoke software pipelines.\n\nFor more information or to get involved with this pioneering company, you can visit their website at [Haplotype Labs](https://www.haplotypelabs.com/).\n\nIn essence, Haplotype Labs isn't just about genetic data; it's about turning that data into actionable insights that can lead to healthier lives. It’s an approach that feels timely and necessary in today’s health landscape, where personalized medicine is becoming the standard."
+}

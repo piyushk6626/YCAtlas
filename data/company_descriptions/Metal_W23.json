@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/metal",
+  "name": "Metal",
+  "headline": "AI Accelerated Deal Flow and Portfolio Intelligence",
+  "batch": "W23",
+  "description": "Metal is an AI application built for fund deal teams and managers. We accelerate a funds deal flow by reducing the effort needed to collect and parse data, perform diligence, and capture key findings.",
+  "activity_status": "Active",
+  "website": "https://metal.ai/",
+  "founded_date": 2023.0,
+  "team_size": 5.0,
+  "location": "New York",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:finance; industry:b2b; industry:ai; industry:ai-assistant; location:new-york",
+  "founders": [
+    {
+      "name": "Taylor Lowe, Founder",
+      "description": "CEO of Metal. Product manager who started in sales. DC native. Big fan of New York so now I live there.",
+      "linkedin": "https://www.linkedin.com/in/taylorlowe11/"
+    },
+    {
+      "name": "James O'Dwyer, Founder",
+      "description": "Co-Founder of Metal",
+      "linkedin": "https://www.linkedin.com/in/jamesxodwyer"
+    },
+    {
+      "name": "Sergio Prada, Founder",
+      "description": "Co founder of Metal (metal.ai)",
+      "linkedin": "https://www.linkedin.com/in/sergiopradamora/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Metal: AI-Driven Deal Flow and Portfolio Intelligence**\n\nFounded in 2023 and hailing from the prestigious Y Combinator Batch W23, Metal is a cutting-edge fintech startup based in New York. The company is on a mission to revolutionize the investment landscape with its AI-enhanced application designed specifically for fund deal teams and managers.\n\n**What Does Metal Do?**\n\nMetal streamlines the deal-making process by drastically reducing the time and effort typically required to collect, analyze, and interpret critical data. This means that investment managers can focus more on making strategic decisions rather than getting bogged down in the nitty-gritty of diligence and data parsing. The goal is simple: to accelerate deal flow using the power of artificial intelligence.\n\n**Meet the Team**\n\nThe Metal team is compact but mighty, comprising five passionate employees. Aaron Epstein serves as their Group Partner, bringing leadership and vision to the endeavor. It’s clear that Metal values agility, innovation, and a targeted approach to solving the multifaceted challenges within finance.\n\n**Why Metal?**\n\nIn a world where data drives decision-making, being able to quickly access and derive insights from relevant information is paramount. Metal is not just another player in the fintech space but a transformative force leveraging AI to empower finance professionals.\n\n**Tagging Along**\n\nMetal finds itself tagged with essential keywords that indicate its potential impact: fintech, finance, B2B, AI, AI assistant, and New York. These tags are more than just labels—they represent the core of what Metal is aiming to achieve as it integrates AI into the financial decision-making process.\n\nFor those interested in pioneering the future of finance, Metal is a company to watch. They're not just pushing the envelope; they're redefining what’s possible in deal flow and investment intelligence.\n\nFor more information, visit their website at [Metal](https://metal.ai/)."
+}

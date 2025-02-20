@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/cabal",
+  "name": "Cabal",
+  "headline": "Private workspace for founders, investors, and advisors to collaborate",
+  "batch": "S21",
+  "description": "Cabal helps founders get more out of their investors and advisors. We do this by providing a private workspace for founders to send asks & updates, track contributions, and get warm intros to prospects and candidates.",
+  "activity_status": "Active",
+  "website": "http://getcabal.com",
+  "founded_date": 2021.0,
+  "team_size": 8.0,
+  "location": "San Francisco",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; industry:b2b; industry:community; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Fahim Ferdous, Founder",
+      "description": "ex-AdQuick, Instacart, Yammer",
+      "linkedin": "https://linkedin.com/in/fahimferdous"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Cabal is a company that provides a private workspace designed specifically for founders, investors, and advisors to collaborate more effectively. Founded in 2021 and part of the Y Combinator Batch S21, Cabal is based in San Francisco and consists of a small but dedicated team of eight employees. \n\nInitially, Cabal set out to help founders maximize their engagements with investors and advisors. The platform enables founders to send requests and updates, track contributions, and facilitate warm introductions to potential prospects and candidates. In essence, it streamlines communication and fosters more productive relationships within the startup ecosystem.\n\nThe mission of Cabal revolves around creating an exclusive space where these key players can connect and collaborate without the noise that often comes with broader networking platforms. This focus on Community is part of what sets Cabal apart in the SaaS and B2B landscape. \n\nSo if you're a founder looking to leverage your relationships with investors and advisors, or an advisor wishing to stay connected with your network, Cabal might just be the right place for you.\n\nFor more information, visit their website at [getcabal.com](http://getcabal.com)."
+}

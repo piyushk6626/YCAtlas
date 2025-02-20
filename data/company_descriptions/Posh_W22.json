@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/posh",
+  "name": "Posh",
+  "headline": "Making sustainable batteries",
+  "batch": "W22",
+  "description": "We design, develop and manufacture sustainable battery solutions.",
+  "activity_status": "Active",
+  "website": "https://www.poshrobotics.com/",
+  "founded_date": 2022.0,
+  "team_size": 4.0,
+  "location": "San Francisco",
+  "group_partner": "Diana Hu",
+  "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:energy-storage; industry:robotics; industry:climate; industry:climatetech; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Wesley Zheng, Founder",
+      "description": "Previously co-founder of Volansi (YC W'17, $75M raised), Stanford PhD focusing on batteries. Named Innovator Under 35 by MIT Technology Review",
+      "linkedin": "https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button"
+    },
+    {
+      "name": "Minh Chung Hoang, Founder",
+      "description": "Love building things that people love.\nRoboticist at heart! Built all sorts of bots (underwater, above water, ground, above ground, etc.).\nGraduated with Aerospace engineering degree. Had years of experience in robotics, embedded systems and computer vision.",
+      "linkedin": "https://www.linkedin.com/in/chung-hoang/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "Posh is a company on a mission to create sustainable battery solutions. Founded in 2022 and incubated in Y Combinator's W22 batch, Posh is located in the heart of San Francisco and operates with a lean team of four.\n\nWhat sets Posh apart is its commitment to environmentally-friendly energy storage, which taps into the increasing demand for sustainability in technology. Their focus is on designing, developing, and manufacturing batteries that don't just power devices but do so in a way that minimizes environmental impact.\n\nDiana Hu serves as their Group Partner, guiding the company towards innovative solutions in the ever-evolving fields of energy storage and climate technology. Posh is at the intersection of robotics and climatetech, embodying the ethos of innovation with a conscience.\n\nFor more information, you can visit their website at [poshrobotics.com](https://www.poshrobotics.com/). \n\nWith the growing need for clean energy alternatives, Posh is not just participating in a trend—it's shaping the future of sustainable technology. Keep an eye on them; they might just be the spark that ignites change in the energy landscape."
+}

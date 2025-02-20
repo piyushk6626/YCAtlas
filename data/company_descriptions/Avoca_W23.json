@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/avoca",
+  "name": "Avoca",
+  "headline": "AI-powered Sales Agent for Service-Based Industries",
+  "batch": "W23",
+  "description": "We specialize in voice and can close customers across every channel 24/7.",
+  "activity_status": "Active",
+  "website": "https://www.avoca.ai/",
+  "founded_date": 2022.0,
+  "team_size": 2.0,
+  "location": null,
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Apurva Shrivastava, Founder",
+      "description": "Apurva is a 2nd time founder who studied CS at MIT and has worked on AI products at Apple, Sunshine, and was most recently at Retool where I did engineering. Growing up in Michigan, he helped his parents handle tiresome communications while establishing their own small business.",
+      "linkedin": "https://www.linkedin.com/in/apurva-shrivastava-138b19a0/"
+    },
+    {
+      "name": "Tyson Chen, Founder",
+      "description": "Cofounder of Avoca. Previously I was an early PM at Nuro for 3 years trying to make self-driving goods delivery a reality. Before that, I worked as a consultant at BCG in NY for 2 years, helping bring AI to multiple F500 companies. I studied CS at MIT where I focused on ML research, specifically using generative AI for drug discovery. As a kid, I helped manage communications for my mom's acupuncturist business in Pennsylvania.",
+      "linkedin": "https://www.linkedin.com/in/tysonchen17/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Avoca is an innovative startup that leverages artificial intelligence to enhance sales processes for service-based industries. Founded in 2022, Avoca initially focused on harnessing the power of voice technology, allowing businesses to close deals through various channels around the clock. \n\nCurrently part of the Y Combinator Batch W23, Avoca is poised for rapid growth, embracing a mission to create an AI-driven sales agent that simplifies and streamlines the customer acquisition process. This tiny but ambitious team of two is supported by Dalton Caldwell, a notable Group Partner at Y Combinator, adding credibility and mentorship to their journey.\n\nThe company has set its eyes on transforming the way service-based industries engage with and close customers, tapping into the potential of AI to redefine sales strategies. For those interested in exploring more about Avoca's offerings or contact details, they maintain a presence online at [Avoca AI](https://www.avoca.ai/).\n\nWhile still in its early days, Avoca's ambition and innovative approach signal a promising future in the realm of sales technology."
+}

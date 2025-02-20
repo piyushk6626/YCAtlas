@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/cleancard",
+  "name": "Cleancard",
+  "headline": "Making cancer detection as easy as a pregnancy test",
+  "batch": "S23",
+  "description": "We are combining synthetic biology and artificial intelligence to make cancer detection as easy as a pregnancy test. Cleancard's mission is to bring lab-grade diagnostics into the comfort of your home. Our novel method enables robust diagnostics and biomarker tracking from the urine. We are currently developing fully at-home, 30-minute tests for cancer using this methodology. We are constantly expanding the number of conditions we can detect from a single sample with our platform technology.",
+  "activity_status": "Active",
+  "website": "https://www.cleancard.bio",
+  "founded_date": 2021.0,
+  "team_size": 10.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:computer-vision; industry:biotech; industry:healthcare; industry:diagnostics; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Luca Springer, Founder",
+      "description": "Luca is an expert in network science and computational game theory. He also has a strong policy background with a focus on healthcare systems. Luca previously worked at Stockdale Street, where he gathered years of experience analyzing, investing in, and helping grow healthcare, consumer, and technology companies. He holds an MSc in Computer Science and an MSc in Global Governance from the University of Oxford where he studied as a Rhodes Scholar. Luca is a Schmidt Futures ISF Fellow.",
+      "linkedin": "https://linkedin.com/in/luca-springer-b3801b8a"
+    },
+    {
+      "name": "Thomas Carroll, Founder",
+      "description": "Clinical cancer researcher with a specialty in bioinformatics, biomarkers, and methods development. Passionate about building better diagnostics and putting a dent in cancer mortality.",
+      "linkedin": "https://linkedin.com/in/thomas-carroll-62a60367"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![nav-logo](https://cdn.prod.website-files.com/64d27b176646af697270a418/64d2a0a6cdade15a90cae7ba_Group.svg)\\nWe are combining synthetic biology and artificial intelligence to make cancer detection as easy as a pregnancy test.\\n![](https://cdn.prod.website-files.com/64d27b176646af697270a418/64d351ceff7e8be4ff0939b5_Tan.svg)\\n![story-image](https://cdn.prod.website-files.com/64d27b176646af697270a418/64d295a38fa353397d3fa91b_fa32acf6-4c03-451d-8539-77788ce0aa68-min.png)\\nContact us\\nPlease contact us if you would like to learn more about Cleancard.\\n![cta-vector](https://cdn.prod.website-files.com/64d27b176646af697270a418/64d29bab7e3c976b5d82f55f_Vectors.svg)\\ncontact@cleancard.bio\\n[![footer-logo](https://cdn.prod.website-files.com/64d27b176646af697270a418/64d2aae121122f481f9fd432_Group%20\\\\(1\\\\).svg)](https://www.cleancard.bio/</>)\\n© 2024 Cleancard. All rights reserved.\\n[Terms](https://www.cleancard.bio/<#>)[Privacy](https://www.cleancard.bio/<#>)[Cookies](https://www.cleancard.bio/<#>)\\n[![](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg)![Made in Webflow](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg)](https://www.cleancard.bio/<https:/webflow.com?utm_campaign=brandjs>)\\n' markdown_with_citations='![nav-logo⟨1⟩]\\nWe are combining synthetic biology and artificial intelligence to make cancer detection as easy as a pregnancy test.\\n![](https://cdn.prod.website-files.com/64d27b176646af697270a418/64d351ceff7e8be4ff0939b5_Tan.svg)\\n![story-image⟨2⟩]\\nContact us\\nPlease contact us if you would like to learn more about Cleancard.\\n![cta-vector⟨3⟩]\\ncontact@cleancard.bio\\n![footer-logo⟨4⟩.svg)](https://www.cleancard.bio/</>)\\n© 2024 Cleancard. All rights reserved.\\nTerms⟨5⟩Privacy⟨5⟩Cookies⟨5⟩\\n![⟨6⟩![Made in Webflow⟨7⟩]](https://www.cleancard.bio/<https:/webflow.com?utm_campaign=brandjs>)\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://cdn.prod.website-files.com/64d27b176646af697270a418/64d2a0a6cdade15a90cae7ba_Group.svg: nav-logo\\n⟨2⟩ https://cdn.prod.website-files.com/64d27b176646af697270a418/64d295a38fa353397d3fa91b_fa32acf6-4c03-451d-8539-77788ce0aa68-min.png: story-image\\n⟨3⟩ https://cdn.prod.website-files.com/64d27b176646af697270a418/64d29bab7e3c976b5d82f55f_Vectors.svg: cta-vector\\n⟨4⟩ https://cdn.prod.website-files.com/64d27b176646af697270a418/64d2aae121122f481f9fd432_Group%20\\\\(1\\\\: ![footer-logo\\n⟨5⟩ https://www.cleancard.bio/<#>: Terms\\n⟨6⟩ https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg: ![\\n⟨7⟩ https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg: Made in Webflow\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Cleancard: Pioneering At-Home Cancer Detection**\n\nFounded in 2021 and currently part of the Y Combinator Batch S23, Cleancard is a San Francisco-based startup on a mission: to make cancer detection as accessible and simple as taking a pregnancy test. Using the powerful combination of synthetic biology and artificial intelligence, Cleancard is redefining the landscape of diagnostics.\n\nTheir core innovation lies in a novel method that allows for robust diagnostics and biomarker tracking using urine samples. This technology aims to put lab-grade diagnostics right in the comfort of your home. Imagine being able to conduct a fully at-home cancer test in just 30 minutes—this is not science fiction; it’s what Cleancard is working towards.\n\nWith a small but focused team of ten employees, Cleancard is rapidly expanding the range of conditions that can be detected from a single sample, pushing the boundaries of what we consider possible in the realm of healthcare. Their approach harnesses cutting-edge technology in artificial intelligence and computer vision, firmly placing them at the intersection of biotech and healthcare innovation.\n\nIf you're intrigued and want to learn more, you can visit their website at [Cleancard.bio](https://www.cleancard.bio) or reach out directly at contact@cleancard.bio. The team is eager to share their journey and innovations that could eventually transform cancer diagnostics globally."
+}

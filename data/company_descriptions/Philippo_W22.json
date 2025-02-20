@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/philippo",
+  "name": "Philippo",
+  "headline": "Get instant access to cash before selling your home in Latam.",
+  "batch": "W22",
+  "description": "Philippo is building the first proptech platform in Latam that provides liquidity to home equity.\r\n\nIn Latam, ~40% of homebuyers need to sell their current property in order to afford their new home. Buying and selling at the same time can be overwhelming.\r\n\nBy implementing a Sale and Leaseback transaction, Philippo enables homeowners to access their home equity before selling their property on the market, avoiding price discounts and eliminating the pain of moving twice and/or losing their dream home.",
+  "activity_status": "Active",
+  "website": "https://philippo.io/",
+  "founded_date": 2021.0,
+  "team_size": 8.0,
+  "location": "Santiago, Chile",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:proptech",
+  "founders": [
+    {
+      "name": "Guido Galanter, Founder",
+      "description": "Guido is co-founder and CEO of Philippo, which he launched with Nicolas and Tomas in 2021. Prior to Philippo, Guido led New Ventures at OLX (Naspers Group's main marketplace) where he launched tech transactional models from India to Latam. Guido was also involved in plenty M&As with Naspers, main was Frontier Car Group's acquisition (~$700M deal)",
+      "linkedin": "https://ar.linkedin.com/in/guido-galanter-61771593"
+    },
+    {
+      "name": "Tomás Gropper, Founder",
+      "description": "Tomás is co-founder and CTO of Philippo. He has a Systems Engineering degree and was Head of Engineering at the largest retailer in Argentina, where he built and managed high-performance engineering teams, helping scale the company's operation, especially during the pandemic quarantine.",
+      "linkedin": "https://www.linkedin.com/in/tomasgropper"
+    },
+    {
+      "name": "Nicolás Piqueras, Founder",
+      "description": "Nicolás is Co-founder and CFO of Philippo, launched with Guido and Tomás in 2021. Prior to Philippo, Nicolás worked in residential Real Estate, leading corporate finance and capital markets in two of the largest home builders in Argentina. He led several transactions and became specialized in IR and fundraising. Among others, he coordinated two IPOs in NYSE as an insider, leading team efforts to reach SEC standards. Nicolás studied Economics and Finance in Universidad Torcuato Di Tella.",
+      "linkedin": "https://www.linkedin.com/in/nicol%C3%A1s-piqueras-38404226/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "**Meet Philippo: Revolutionizing Home Equity in Latam**\n\n**Mission:** Philippo's mission is straightforward yet powerful: to provide homeowners in Latin America with instant access to cash before they sell their homes. This addresses a crucial gap in the home buying and selling process in a region where nearly 40% of homebuyers need to offload their current properties to finance their next purchase.\n\n**What They Do:** Philippo is pioneering the first proptech platform in Latam designed specifically to offer liquidity to home equity. Through a mechanism known as Sale and Leaseback, they empower homeowners to monetize their home equity without the hassle of selling their property first. This means avoiding potential price discounts, the stress of moving twice, and the risk of missing out on a dream home—all common headaches for those buying and selling simultaneously.\n\n**Background:** Founded in 2021 and based in Santiago, Chile, Philippo emerged from Y Combinator's Winter 2022 batch. With a lean team of just 8 employees, they've shown remarkable ambition. Led by Group Partner Michael Seibel, they are positioned to make a significant impact in the fintech and proptech sectors.\n\n**What’s Next:** As Philippo continues its journey, they’re focused on refining their service and expanding their user base. With their innovative approach, they are not just helping homeowners access cash quickly; they’re reshaping the real estate landscape in Latam.\n\nFor more information, you can check out their website at [philippo.io](https://philippo.io/). In a world where buying and selling homes shouldn't be a logistical nightmare, Philippo stands out as a beacon of solutions."
+}

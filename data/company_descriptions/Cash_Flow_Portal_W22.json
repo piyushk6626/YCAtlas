@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/cash-flow-portal",
+  "name": "Cash Flow Portal",
+  "headline": "Investment management platform for real estate",
+  "batch": "W22",
+  "description": "Cash Flow Portal is an investment management platform for real estate. \r\n\nWe launched 5 months ago, and we have 6-figure ARR, growing 50% month over month, with 300 syndicators and 3,000 investors. \r\n\nWe’ve grown quickly because I am a syndicator myself. Having raised $20MM for my own deals, I know how painful it is to manually prepare Docusigns, send wire instructions and wrangle investors. I also happen to be friends with 2,000 other syndicators just like me needing a solution for managing their investors. \r\n\nI’m not just a syndicator. I spent most of my career as an engineering leader at Lyft, Twitter, and Amazon. \r\n\n$20K ARR per syndicator gives us a $2B TAM. Having achieved my own financial freedom through real estate investing, our mission is to serve all real estate investors and help them achieve financial freedom.",
+  "activity_status": "Active",
+  "website": "https://www.cashflowportal.com/",
+  "founded_date": 2020.0,
+  "team_size": 19.0,
+  "location": "Seattle, WA",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:marketplace; industry:saas; industry:real-estate; industry:b2b; industry:proptech; location:seattle",
+  "founders": [
+    {
+      "name": "Perry Zheng, Founder",
+      "description": "Perry Zheng is the founder and CEO of Cash Flow Portal, a modern real estate syndication software. He was an engineering manager at Lyft for 5.5 years, and worked as a software engineer at Twitter and Amazon. Perry is also a lead sponsor on 1,000+ apartment units, having raised 25M+ for real estate projects and generating 30%+ annualized return for investors.",
+      "linkedin": "https://www.linkedin.com/in/perryzheng/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Cash Flow Portal: Simplifying Real Estate Investment Management**\n\nCash Flow Portal is revolutionizing the way real estate investment is managed. Launched just five months ago, this innovative platform specializes in investment management for real estate, providing a seamless experience for syndicators and investors alike. Located in Seattle, Washington, and part of Y Combinator's Batch W22, the company is already boasting impressive metrics: a six-figure annual recurring revenue (ARR), a growth rate of 50% month-over-month, and a robust community with 300 syndicators and 3,000 investors on board.\n\nWhat sets Cash Flow Portal apart? The founder understands the pain points of syndication firsthand. Having raised $20 million for their own real estate deals, they know the struggles of dealing with manual processes like preparing DocuSigns, sending wire instructions, and managing investor communications. It's this experience that drives the development of an efficient, effective platform that caters to the needs of fellow syndicators—many of whom are personal connections.\n\nWith a team of 19 and notable backing from industry veterans like Aaron Epstein, Cash Flow Portal is positioned for substantial growth. Each syndicator, on average, contributes $20,000 to ARR, leading to a total addressable market (TAM) estimated at $2 billion. \n\nThe overarching mission of Cash Flow Portal is to empower real estate investors, helping them achieve financial freedom through streamlined management solutions. With a strong tech background from the founder's tenure at Lyft, Twitter, and Amazon, it's clear that they are not just building a product but a community aimed at transformative investment experiences.\n\nFor those interested in exploring their offerings, you can learn more at [Cash Flow Portal’s website](https://www.cashflowportal.com/)."
+}

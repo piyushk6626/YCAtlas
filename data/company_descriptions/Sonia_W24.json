@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/sonia",
+  "name": "Sonia",
+  "headline": "Conversational AI for Mental Health",
+  "batch": "W24",
+  "description": "Sonia is a conversational AI that conducts entire therapy-like sessions both by voice and text via a phone app. 70 million Americans who struggle with their mental health can now access therapy for $200 per year instead of $200 per session. Founded by a team of MIT researchers who published 9 papers on AI at conferences like NeurIPS.",
+  "activity_status": "Active",
+  "website": "https://soniahealth.com",
+  "founded_date": 2023.0,
+  "team_size": 3.0,
+  "location": null,
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Chris Aeberli, Founder",
+      "description": "Learned to code at ETH Zurich & MIT. Learned to speak and make slides at McKinsey.\nAlso used to play poker professionally, but zero-sum games are pointless so now building an AI to make people happier.\nOriginally from Switzerland :)",
+      "linkedin": "https://linkedin.com/in/chris-aeberli"
+    },
+    {
+      "name": "Dustin Klebe, Founder",
+      "description": "I graduated from ETH Zurich with a degree in Computer Science and conducted AI research at MIT in Boston. Previously, I worked as the first ML engineer at the Series B educational tech startup Knowunity and served as president of the German Excellence Scholarship KAS.",
+      "linkedin": "https://linkedin.com/in/dustin-klebe-679675163"
+    },
+    {
+      "name": "Lukas Wolf, Founder",
+      "description": "I studied CS at ETH and MIT spending most of my time on research in AI and NLP. Worked in research labs (ETH, MIT), at corps (BMW), and startups.",
+      "linkedin": "https://linkedin.com/in/lukas-wolf-14a992143"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![Sonia Logo](https://soniahealth.com/logosoniacoconut.svg)\\n☰\\nSonia\\nWhyHiringSoniaResearchPartnerships\\nSonia is a conversational AI for emotional support that offers 20 minute voice based wellbeing sessions. Download the free research preview to try it out.\\n[Download Sonia](https://soniahealth.com/<https:/apps.apple.com/us/app/sonia-ai-mental-health/id6472111765>)\\n![Sonia Logo](https://soniahealth.com/logosoniabora.svg)\\nhappiness at scale / bloit, inc. / new york / 2025\\n' markdown_with_citations='![Sonia Logo⟨1⟩]\\n☰\\nSonia\\nWhyHiringSoniaResearchPartnerships\\nSonia is a conversational AI for emotional support that offers 20 minute voice based wellbeing sessions. Download the free research preview to try it out.\\nDownload Sonia⟨2⟩\\n![Sonia Logo⟨3⟩]\\nhappiness at scale / bloit, inc. / new york / 2025\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://soniahealth.com/logosoniacoconut.svg: Sonia Logo\\n⟨2⟩ https://soniahealth.com/<https:/apps.apple.com/us/app/sonia-ai-mental-health/id6472111765>: Download Sonia\\n⟨3⟩ https://soniahealth.com/logosoniabora.svg: Sonia Logo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Sonia: Conversational AI for Mental Health**\n\nSonia is a groundbreaking conversational AI designed to provide support for mental health through affordable, tech-driven means. Founded in 2023 by a team of MIT researchers, Sonia aims to bridge the accessibility gap in mental health care. With an impressive background—having published nine papers at top conferences like NeurIPS—this team is clearly not just dabbling in AI; they’re reshaping the landscape.\n\nImagine being able to access therapy-like sessions for just $200 a year, instead of the typical $200 per session. That’s the value Sonia offers to the approximately 70 million Americans grappling with mental health challenges. This solution is delivered via a user-friendly phone app that facilitates 20-minute voice-based wellbeing sessions, allowing users to engage in therapeutic conversations anytime.\n\nCurrently in Y Combinator's Batch W24, Sonia is a lean start-up with a team of only three. Operating from an undisclosed location, they are already making significant strides in the field of emotional support. By democratizing access to mental health resources, Sonia aims to make “happiness at scale” a reality—an ambitious yet vital endeavor in today’s fast-paced world.\n\nFor those interested, Sonia offers a free research preview of their app, inviting users to experience firsthand the kind of emotional support AI can provide. Curious minds can check it out at [Sonia's website](https://soniahealth.com) or directly download the app for trial.\n\nIn summary, Sonia is not just about AI; it’s about making mental health care more accessible and less daunting. In an age where mental well-being is paramount, Sonia stands out as a shining beacon for those seeking help."
+}

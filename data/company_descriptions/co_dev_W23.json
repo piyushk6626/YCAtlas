@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/co-dev",
+  "name": "co.dev",
+  "headline": "Turn your ideas into full-stack apps",
+  "batch": "W23",
+  "description": "Skip the complexity, high costs, and limitations of no-code tools—our AI-powered platform lets you create scalable, modern full-stack apps using natural language, all while keeping full ownership of your code.",
+  "activity_status": "Active",
+  "website": "https://co.dev/?ref=YC",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": null,
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:developer-tools; industry:ai-assistant",
+  "founders": [
+    {
+      "name": "Uladzislau Radkevich, Founder",
+      "description": "Experienced software developer with a background in Computer Security.  \nLed tech side of crypto development at Revolut and scaled their payments infrastructure from 1M to 20M+ users. \nWinner of multiple web3/crypto hackathons, including ethAmsterdam and Polygon Buidl IT 2022.\nHave strong domain expertise in traditional banking and fintech.",
+      "linkedin": "https://www.linkedin.com/in/uladzislauradkevich/"
+    },
+    {
+      "name": "Andrew Kim, Founder",
+      "description": "Andrew started his career in business IT consulting with Accenture, consulting for Google, Cisco, and 3M. After, he worked as a software engineer for Levi Strauss and various startups.  Most recently, he ran his own software development outsourcing agency.",
+      "linkedin": "https://linkedin.com/in/askim89"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Summary: co.dev**\n\n**Mission:** co.dev aims to empower innovators by helping them turn their ideas into fully functional full-stack applications. They focus on simplifying the app development process, tackling the complexity and costs associated with traditional coding.\n\n**Background:** Founded in 2023 and a participant in the Y Combinator Batch W23, co.dev emerged as a solution to the limitations of no-code tools. Their AI-powered platform enables users to create modern, scalable applications using natural language, ensuring that developers retain complete ownership of their code.\n\n**Location and Team:** Based in an unspecified location, co.dev operates with a small team of just two employees, emphasizing agility and innovation. Notably, Dalton Caldwell, a seasoned entrepreneur and investor, serves as their Group Partner, likely providing invaluable guidance.\n\n**Tags:** co.dev is recognized for its contributions towards several key areas, notably: \n- Artificial Intelligence\n- Developer Tools\n- AI Assistants\n\n**Current Status:** As of now, co.dev is facing some challenges which may be reflected in their current website, indicating a client-side application error. This suggests that they are still in the early stages of building out their platform, but that’s a common hurdle for startups aiming to develop robust software.\n\nIn a nutshell, co.dev is an ambitious entrant in the tech landscape, determined to streamline app development through intelligent use of AI, and they resonate well with the modern developer's needs. Follow their journey as they evolve from early challenges to becoming a go-to solution for developers wanting to bring their ideas to life. \n\nFor more information, visit their website: [co.dev](https://co.dev/?ref=YC)."
+}

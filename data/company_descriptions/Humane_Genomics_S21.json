@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/humane-genomics",
+  "name": "Humane Genomics",
+  "headline": "A platform to make artificial viruses as cancer therapeutics.",
+  "batch": "S21",
+  "description": "Humane Genomics has developed a platform to engineer cancer killing viruses. We have taken a first principles approach to design and make oncolytic viral therapies. Using a highly lytic RNA virus engineered with \"2 factor authentication\" (using selective infection and selective replication) they have an on-target to off-target kill ratio > 1000. We are working on our first indication, pediatric liver cancer (hepatoblastoma), with our partners at Texas Children's Hospital, who are world leading experts. We have in vivo (mouse) data showing safety and currently developing efficacy data and are showing 50% reduction in tumor volume.",
+  "activity_status": "Active",
+  "website": "https://humanegenomics.com",
+  "founded_date": 2019.0,
+  "team_size": 5.0,
+  "location": "New York",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:hard-tech; industry:synthetic-biology; location:new-york",
+  "founders": [
+    {
+      "name": "Peter Weijmarshausen, Founder",
+      "description": "Building a highly efficient platform to make artificial viruses as cancer therapeutics.\nSerial entrepreneur. Founder and former CEO of Shapeways. \nHave built and led software and product teams for 3 companies.\nLove to code, grow plants, brew beer, cook Asian food, and more.\nBSc Applied Physics.",
+      "linkedin": "https://www.linkedin.com/in/peterweijmarshausen/"
+    },
+    {
+      "name": "Chad Moles, Founder",
+      "description": "Building a platform to engineer viruses as precision cancer therapies. Previous: Biotech, Columbia & Public Health, Tulane. Interested in sailing and pickleball.",
+      "linkedin": "https://www.linkedin.com/in/chadmoles/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='Toggle navigation [![](https://humanegenomics.com/wp-content/uploads/2025/02/humane-genomics-logo_white.png)](https://humanegenomics.com/<https:/humanegenomics.com/>)\\n  * [Home](https://humanegenomics.com/<https:/humanegenomics.com/>)\\n  * [About](https://humanegenomics.com/<https:/humanegenomics.com/about/>)\\n  * [Team](https://humanegenomics.com/<https:/humanegenomics.com/team/>)\\n  * [Jobs](https://humanegenomics.com/<https:/humanegenomics.com/jobs/>)\\n  * [News](https://humanegenomics.com/<https:/humanegenomics.com/news/>)\\n\\n\\nHome\\n# Engineering Viruses to Target & Destroy Cancer\\n### Precision-designed therapies that seek out and eliminate cancer cells.\\n[Learn more](https://humanegenomics.com/</about/>)\\n© 2025 Humane Genomics Inc \\n' markdown_with_citations='Toggle navigation ![⟨1⟩](https://humanegenomics.com/<https:/humanegenomics.com/>)\\n  * Home⟨2⟩\\n  * About⟨3⟩\\n  * Team⟨4⟩\\n  * Jobs⟨5⟩\\n  * News⟨6⟩\\n\\n\\nHome\\n# Engineering Viruses to Target & Destroy Cancer\\n### Precision-designed therapies that seek out and eliminate cancer cells.\\nLearn more⟨7⟩\\n© 2025 Humane Genomics Inc \\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://humanegenomics.com/wp-content/uploads/2025/02/humane-genomics-logo_white.png: ![\\n⟨2⟩ https://humanegenomics.com/<https:/humanegenomics.com/>: Home\\n⟨3⟩ https://humanegenomics.com/<https:/humanegenomics.com/about/>: About\\n⟨4⟩ https://humanegenomics.com/<https:/humanegenomics.com/team/>: Team\\n⟨5⟩ https://humanegenomics.com/<https:/humanegenomics.com/jobs/>: Jobs\\n⟨6⟩ https://humanegenomics.com/<https:/humanegenomics.com/news/>: News\\n⟨7⟩ https://humanegenomics.com/</about/>: Learn more\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Humane Genomics is a cutting-edge biotech company founded in 2019, based in New York, and part of the Y Combinator Batch S21. Their mission? To revolutionize cancer treatment through the engineering of artificial viruses that specifically target and kill cancer cells. They’ve developed a platform focused on oncolytic viral therapies, utilizing an RNA virus enhanced with a double layer of filtration—think of it as \"2-factor authentication\" for viral therapy. This clever design allows them to achieve a remarkable on-target to off-target kill ratio greater than 1000.\n\nCurrently, their primary focus is on pediatric liver cancer, specifically hepatoblastoma. They’re collaborating with Texas Children’s Hospital, a leader in pediatric oncology, and have already demonstrated promising results in mice, showing a 50% reduction in tumor volume without any safety concerns.\n\nWith a small but dedicated team of five, Humane Genomics exemplifies the potential of hard-tech and synthetic biology to tackle some of the toughest challenges in medicine today. Their approach is grounded in first principles, making them not just an interesting biotech company but a hopeful beacon for innovation in cancer therapy. If you’re intrigued by their work, you can find out more on their [website](https://humanegenomics.com).\n\nIn summary, Humane Genomics is pioneering the next generation of cancer therapeutics—not just playing with theory, but getting results that could change lives."
+}

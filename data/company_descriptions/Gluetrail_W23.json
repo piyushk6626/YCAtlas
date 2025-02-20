@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/gluetrail",
+  "name": "Gluetrail",
+  "headline": "Create step by step articles with screenshots and videos 10x faster",
+  "batch": "W23",
+  "description": "Gluetrail is a chrome extension that allows you to create support/training/marketing assets 10x faster, just from a screen and audio recording. These assets allow you to drive software or process adoption & awareness among prospects, customers or teammates.  \r\n\nFrom one single recording, Gluetrail leverages your screen+clicks+audio transcript, and AI, to:\r\n- automatically create step-by-step articles with screenshots and videos\r\n- adapt the content for & publish it on 3rd party platforms in 1 click: internal or external knowledge bases (Notion, Confluence, Intercom, Zendesk...), community platforms and social media (linkedin, youtube, twitter, discourse...)",
+  "activity_status": "Active",
+  "website": "https://www.gluetrail.com",
+  "founded_date": 2022.0,
+  "team_size": 2.0,
+  "location": "Paris, France",
+  "group_partner": "Nicolas Dessaigne",
+  "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:productivity; industry:sales-enablement; industry:marketing; industry:customer-support",
+  "founders": [
+    {
+      "name": "Anne-Charlotte Chauvet, Founder",
+      "description": "I have 10+ years of experience in building/scaling Revenue Operations at B2B SaaS companies (from <$1M to $150M+ in ARR). Just before founding Gluetrail, I was responsible for Revenue Operations at Algolia (YC W14).",
+      "linkedin": "https://www.linkedin.com/in/annecharlottechauvettissot/"
+    },
+    {
+      "name": "Baptiste Coquelle, Founder",
+      "description": "10+ years in software development applied to Operation and Strategy.\nI had the chance of joining Algolia early stage and to work on many different layers in the data space: data automation, data pipeline, data analytics and most recently, business modeling in sales led and product led motion, where there is still so much to do!",
+      "linkedin": "https://www.linkedin.com/in/baptistecoquelle/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "### Gluetrail: Streamlining Content Creation with AI\n\n**Overview**  \nGluetrail is a promising startup based in Paris, France, that launched in 2022 as part of the Y Combinator Batch W23. The company's mission is straightforward yet ambitious: to create step-by-step articles with screenshots and videos ten times faster than traditional methods.\n\n**What They Do**  \nInitially, Gluetrail emerged as a Chrome extension designed to enhance the creation of support, training, and marketing materials. The magic happens when users record their screen and voice—Gluetrail takes that single recording and cleverly transforms it into robust, detailed articles complete with visuals and videos. This process not only aids in driving software adoption but also enhances awareness among prospects, customers, and team members.\n\n**AI-Powered Efficiency**  \nAt the heart of Gluetrail's innovation is its smart use of AI. By capturing the screen actions, clicks, and audio transcripts, it automatically generates valuable content. What really sets Gluetrail apart is its ability to publish this content seamlessly onto various third-party platforms—think Notion, Confluence, and Zendesk for internal knowledge management, or LinkedIn and YouTube for external sharing—at the click of a button.\n\n**Team & Leadership**  \nWith a lean team of just two employees, Gluetrail maintains a startup agility that allows it to rapidly iterate and improve its offerings. Notably, Nicolas Dessaigne serves as their Group Partner, helping steer the company towards its goals.\n\n**Tags & Focus Areas**  \nGluetrail is tagged with keywords like ‘artificial-intelligence’, ‘productivity’, ‘sales-enablement’, ‘marketing’, and ‘customer-support’, reflecting its multifaceted approach to enhancing user experience in content creation and training.\n\n**The Big Picture**  \nIn a world where effective communication and training materials are critical, Gluetrail positions itself as a game-changer. By making content creation faster and more efficient, they empower organizations to focus on what truly matters—engaging with customers and driving success. You can learn more about them on their website: [Gluetrail](https://www.gluetrail.com). \n\nKeep an eye on Gluetrail; they’re poised to make waves in the productivity and content creation space, helping teams scale up their efforts with ease."
+}

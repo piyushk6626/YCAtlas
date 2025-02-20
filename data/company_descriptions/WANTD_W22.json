@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/wantd",
+  "name": "WANTD",
+  "headline": "A direct to consumer marketplace and influencer network for brands",
+  "batch": "W22",
+  "description": "WANTD is a D2C consumer marketplace for fashion and footwear brands to launch and sell product. We do the things Shopify is unable to do; we provide multiple channels to sell (e.g. live commerce, marketplace, auctions), influencer networks, and order fulfillment in a mobile-first experience. \r\n\nWe solve the cold-start problem for brands and enable them to remain focused on product creation.",
+  "activity_status": "Active",
+  "website": "http://getwantd.com",
+  "founded_date": 2021.0,
+  "team_size": 4.0,
+  "location": "Los Angeles, CA",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:marketplace; industry:e-commerce; location:los-angeles",
+  "founders": [
+    {
+      "name": "Ricky Nariani, Founder / CEO",
+      "description": "President and Co-Founder of WANTD. I'm a New York boy and diehard sneaker collector with almost 30 years experience in the space. Prior to starting WANTD, I spent 15 years in Corporate Strategy and M&A  for various Fortune 500 companies, including IBM, Shell, Xylem, and Suncor.\n\nCurrently, residing in Los Angeles, California. Hold an MBA and an undergraduate in Finance.",
+      "linkedin": "https://www.linkedin.com/in/rickynariani"
+    },
+    {
+      "name": "Quyen Hua, Founder",
+      "description": "My name is Quyen Hua, most people just call me Q for short. I am the Head of Design at WANTD. I currently reside in Annandale, Virginia about 12 miles southwest of Washington, DC with my wife and 9-year-old son. I started my career as a graphic designer for boutique creative agencies for 10 years and spent the second half of my career as a UI/UX designer. My passion lies in designing intuitive and productive software to solve today's complex business and day-to-day problems.",
+      "linkedin": "https://www.linkedin.com/in/quyen-hua-4b088330"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# 403 Forbidden\\nopenresty\\n' markdown_with_citations='# 403 Forbidden\\nopenresty\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "WANTD is an innovative direct-to-consumer marketplace and influencer network designed specifically for brands in the fashion and footwear sectors. Founded in 2021 and currently part of Y Combinator's W22 batch, WANTD is headquartered in Los Angeles, CA. The company comprises a lean team of four and boasts a robust mission: to create a seamless platform that enhances the way brands launch and sell products.\n\nWhat sets WANTD apart from conventional e-commerce solutions like Shopify is its unique blend of sales channels. It enables brands to utilize live commerce, marketplace listings, and even auctions—all while keeping the experience mobile-first. This holistic approach directly addresses the cold-start problem that many brands face, allowing them to concentrate on what they do best: product creation.\n\nWANTD's influencer network adds another layer of value, facilitating connections that drive sales and brand awareness. Essentially, it’s a comprehensive solution for emerging brands that need to scale quickly without getting bogged down by logistical challenges.\n\nIn a landscape where e-commerce competition is fierce, WANTD positions itself as a game-changer, especially for smaller brands looking to gain traction. If you’re interested in learning more, you can check out their website at [getwantd.com](http://getwantd.com)."
+}

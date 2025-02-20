@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/innkeeper",
+  "name": "innkeeper",
+  "headline": "AI-native software stack for running a hotel",
+  "batch": "S23",
+  "description": "Automatic Dynamic Pricing, AI front desk, optimized direct booking site, customer management + analytics, and back office automations\r\n\nthe modern tech stack for hotels",
+  "activity_status": "Active",
+  "website": "https://innkeeper.ai",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Tom Blomfield",
+  "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:generative-ai; industry:workflow-automation; industry:travel; industry:housing; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Tejas Bhakta, Founder",
+      "description": "Founder at innkeeper. former Computer Vision Engineer at Tesla. Born and raised in a hotel until I was 18",
+      "linkedin": "https://linkedin.com/in/tejas-bhakta"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27263%27%20height=%27196%27/%3e)![404](https://innkeeper.ai/_next/static/media/404.3760c37f.svg)\\n## Page not found!\\nLooks like the page you're trying to visit doesn't exist. Please check the URL and try your luck again.\\nReload Page[Go Home](https://innkeeper.ai/</>)\\n\" markdown_with_citations=\"![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27263%27%20height=%27196%27/%3e)![404⟨1⟩]\\n## Page not found!\\nLooks like the page you're trying to visit doesn't exist. Please check the URL and try your luck again.\\nReload PageGo Home⟨2⟩\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://innkeeper.ai/_next/static/media/404.3760c37f.svg: 404\\n⟨2⟩ https://innkeeper.ai/</>: Go Home\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Innkeeper is a fresh face in the hotel tech scene, having been founded in 2023 and already making waves through its participation in Y Combinator's Batch S23. Based in San Francisco, the company is just getting started, operating with a lean team of two. \n\nTheir mission centers around creating an AI-native software stack specifically designed for running hotels. This is more than just a buzzword; Innkeeper combines various smart solutions into one cohesive ecosystem. Initially, they've focused on automatic dynamic pricing, implementing an AI-driven front desk, optimizing direct booking sites, and enhancing customer management with analytics—all while streamlining back-office automation. In other words, they’re aiming to take the chaos out of hotel management and replace it with seamless technology that works in the background.\n\nTom Blomfield serves as the Group Partner, lending his experience to guide the company through its early growth stages.\n\nTagged with keywords like generative AI, workflow automation, travel, and housing, Innkeeper makes it clear which specific issues they aim to tackle in the hospitality industry. Their approach isn’t just innovative—it’s essential for the modern hotel landscape, where efficiency and responsiveness often dictate success.\n\nYou can learn more about them at [innkeeper.ai](https://innkeeper.ai), although it seems they've run into some technical hiccups on their site. Regardless, keep an eye on Innkeeper; they've got the potential to reshape how hotels operate in this increasingly tech-driven world."
+}

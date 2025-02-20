@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/tower",
+  "name": "Tower",
+  "headline": "Legal due diligence platform powered by AI",
+  "batch": "W24",
+  "description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps lawyers stay organized, spot issues earlier, and close deals faster.",
+  "activity_status": "Active",
+  "website": "https://withtower.com",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:workflow-automation; industry:legal; industry:legaltech; industry:ai-assistant; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Adam Dorfman, Founder",
+      "description": "I am the co-founder & CEO of Tower; we're building an AI platform for legal due diligence. Previously I was an early engineer at Float (corporate card for Canada), built software for speaker & microphone manufacturing at Apple, built AI software & performed AI computer-vision research at DarwinAI (acq. Apple). I studied Mathematical Physics at the University of Waterloo, where I co-oped in data-science/ML and software engineering.",
+      "linkedin": "https://linkedin.com/in/adam-dorfman"
+    },
+    {
+      "name": "Andy Zhang, Founder",
+      "description": "Co-founder and CTO @ Tower; we're building joyful software so in-house counsels can leave work at 5PM everyday. Before Tower I was the founding engineer of ArenaX Labs, a Web3 AI Gaming startup, where I helped the company from inception and zero users to Series A and a community of hundreds of thousands. Before this I did research at an investment trust, specializing in reinforcement learning and cool assets like crypto. I graduated from UWaterloo BCS and Laurier BBA.",
+      "linkedin": "https://www.linkedin.com/in/andy-z/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[Close](https://withtower.com/<#>)\\nJoin the Waitlist\\nBy submitting this form, your firm will join our waitlist to get early access to Tower. When your firm has been selected, we will reach out to set up a demo.\\nNameWork Email *\\nThanks, we will be in touch shortly.\\nOops! Something went wrong while submitting the form.\\nfounders@withtower.com\\n![](https://cdn.prod.website-files.com/6732625c336542e5ff5353cb/67339cffa4bd200a8b045b67_yc_white_badge.png)\\n© 2024 Tower Software Labs Inc.\\n[![](https://cdn.prod.website-files.com/6732625c336542e5ff5353cb/673263c32b7011e51c505922_logo.png)](https://withtower.com/<#>)\\n[Join the Waitlist](https://withtower.com/<#>)\\n![](https://cdn.prod.website-files.com/6732625c336542e5ff5353cb/6732632f687a3189e8cfbefc_tower_hero.png)\\n## Legal Due Diligence Powered by AI\\n' markdown_with_citations='Close⟨1⟩\\nJoin the Waitlist\\nBy submitting this form, your firm will join our waitlist to get early access to Tower. When your firm has been selected, we will reach out to set up a demo.\\nNameWork Email *\\nThanks, we will be in touch shortly.\\nOops! Something went wrong while submitting the form.\\nfounders@withtower.com\\n![](https://cdn.prod.website-files.com/6732625c336542e5ff5353cb/67339cffa4bd200a8b045b67_yc_white_badge.png)\\n© 2024 Tower Software Labs Inc.\\n![⟨2⟩](https://withtower.com/<#>)\\nJoin the Waitlist⟨1⟩\\n![](https://cdn.prod.website-files.com/6732625c336542e5ff5353cb/6732632f687a3189e8cfbefc_tower_hero.png)\\n## Legal Due Diligence Powered by AI\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://withtower.com/<#>: Close\\n⟨2⟩ https://cdn.prod.website-files.com/6732625c336542e5ff5353cb/673263c32b7011e51c505922_logo.png: ![\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Tower: Revolutionizing Legal Due Diligence with AI**\n\nFounded in 2024 and part of Y Combinator's Batch W24, Tower is a promising startup based in San Francisco that aims to transform the legal due diligence landscape. Its mission centers around creating a centralized diligence platform powered by artificial intelligence, which streamlines and accelerates transactional due diligence for legal professionals.\n\nThe problem Tower addresses is all too familiar in the legal field: the complexity and disorganization of traditional diligence workflows. By consolidating these disparate processes into one intuitive platform, Tower helps lawyers keep their tasks organized, identify issues much earlier in the transaction process, and ultimately close deals faster. In a world where speed and efficiency are paramount, Tower positions itself as a critical tool for law firms looking to optimize operations.\n\nWith a compact team of just two employees and supported by Group Partner Harj Taggar, Tower's nimble structure allows it to innovate and respond rapidly to the needs of its users. They're building something crucial for the legal tech space—a spot dedicated to artificial intelligence, workflow automation, and comprehensive legal solutions.\n\nCurrently, users interested in the platform can join a waitlist for early access, indicating a growing demand for what Tower is offering. As they continue to develop their capabilities, Tower is poised to become a key player in the legaltech arena.\n\nFor more information or to express interest, check out their website at [Tower](https://withtower.com).\n\nIn summary, Tower is not just another legal tech tool; it’s an ambitious endeavor with the potential to reshape how legal diligence is approached, all thanks to the power of AI. If you're in the legal field and feeling bogged down by the traditional processes, this might just be the innovation you’ve been waiting for."
+}

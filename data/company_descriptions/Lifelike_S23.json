@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/lifelike",
+  "name": "Lifelike",
+  "headline": null,
+  "batch": "S23",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://lifelike.app/",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:generative-ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Alec Xiang, Founder",
+      "description": "I'm the co-founder of Lifelike. I have a background in engineering and research, specifically in AI and systems. In the past, I have worked at Facebook (Instagram Equity), Snorkel AI (Infrastructure), and Actively.",
+      "linkedin": "https://linkedin.com/in/alecxiang"
+    },
+    {
+      "name": "Jonathan Yin, Founder",
+      "description": "Co-founder @ Lifelike. My interests lie at the intersection of machine learning, data science, and software development. Previously, I studied computer science and statistics at Yale and worked at Benchling, Octant, and the Broad Institute.",
+      "linkedin": "https://linkedin.com/in/jonathan-yin"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![Logo](https://lifelike.app/logo.png)](https://lifelike.app/</>)\\n[Create](https://lifelike.app/</create>)[Search](https://lifelike.app/</search>)\\n' markdown_with_citations='![Logo⟨1⟩](https://lifelike.app/</>)\\nCreate⟨2⟩Search⟨3⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://lifelike.app/logo.png: ![Logo\\n⟨2⟩ https://lifelike.app/</create>: Create\\n⟨3⟩ https://lifelike.app/</search>: Search\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Lifelike: A Quick Overview\n\n**Founded**: 2023  \n**Location**: San Francisco  \n**Team Size**: 2 employees  \n**Y Combinator Batch**: S23  \n**Group Partner**: Jared Friedman  \n**Website**: [lifelike.app](https://lifelike.app/)\n\n---\n\nLifelike is an emerging player in the generative AI space, launched in 2023 and already making waves as part of Y Combinator's Summer 2023 batch. Based in the vibrant tech hub of San Francisco, Lifelike operates with a compact team of just two—this isn't just frugality, it's an agile approach to innovation.\n\n### What They Do\n\nWhile their mission isn’t explicitly stated, Lifelike is actively focused on nurturing the capabilities of generative AI. Their website features options to \"Create\" and \"Search\"—indicating a platform aimed at empowering users to generate new content or insights effortlessly. \n\nTheir branding is sleek, and if you visit their website, you’ll notice a simple yet effective user interface that reflects their modern ethos.\n\n![Logo](https://lifelike.app/logo.png)\n\n### Key Tags\n\n- **Generative AI**: They’re tapping into the potential of AI to create and innovate.\n- **San Francisco Bay Area**: Being in one of the hottest startup ecosystems helps them stay connected with cutting-edge developments and talent.\n\n---\n\nIn essence, Lifelike is a startup to watch. Despite its infancy, it’s positioned itself strategically within a high-growth sector, and with the backing of Y Combinator, it’s likely to make significant strides in the coming years. If you're interested in AI and innovation, keeping an eye on Lifelike could yield interesting insights."
+}

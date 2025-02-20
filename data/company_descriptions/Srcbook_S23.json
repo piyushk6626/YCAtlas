@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/srcbook",
+  "name": "Srcbook",
+  "headline": "Build and publish web applications in minutes. No coding required.",
+  "batch": "S23",
+  "description": "What if you could build web apps as easily as you make a Figma design or edit a Google Doc?\r\n\nEnter Srcbook. We've reimagined app development with a state-of-the-art coding agent that builds for our users.\r\n\nWant to launch that app idea? Need to build something for your community? Looking to prototype faster? Start here. We've removed the barriers between idea and execution.\r\n\nOur mission is to empower everyone to build for the web, our vision is personal software.",
+  "activity_status": "Active",
+  "website": "https://srcbook.com",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Diana Hu",
+  "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:no-code; industry:web-development; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Nicholas Charriere, Founder",
+      "description": "Currently building Srcbook: an AI app builder\n\nFrench & British, been a developer in the valley for 12 years in smaller & larger startups (Pinterest, Cruise).\nGeneralist but most of my recent experience is in distributed systems / AI platforms, I am curious and optimistic.\n\nhttps://nicholascharriere.com",
+      "linkedin": "https://linkedin.com/in/nicholas-charriere"
+    },
+    {
+      "name": "Ben Reinhart, Founder",
+      "description": "Software engineer and entrepreneur. Previously ML infra at Cruise, cofounder at Fam (acquihired by Nextdoor), and Groupon.",
+      "linkedin": "https://linkedin.com/in/bereinhart"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[Manifesto](https://srcbook.com/</manifesto>)[Pricing](https://srcbook.com/</pricing>)\\n[](https://srcbook.com/</>)\\nSign inSign up\\n# Think It.\\n# Build It.\\n## From words to working app. Instantly.\\nMake a Spotify cloneMake a weather dashboardBuild a chat interface\\n[GitHub](https://srcbook.com/<https:/github.com/srcbookdev>)[Twitter](https://srcbook.com/<https:/x.com/srcbookcom>)[Discord](https://srcbook.com/<https:/discord.gg/shDEGBSe2d>)[YouTube](https://srcbook.com/<https:/www.youtube.com/@srcbook>)\\n[Privacy](https://srcbook.com/</privacy>)\\n•\\n[Terms](https://srcbook.com/</terms>)\\n' markdown_with_citations='Manifesto⟨1⟩Pricing⟨2⟩\\n[](https://srcbook.com/</>)\\nSign inSign up\\n# Think It.\\n# Build It.\\n## From words to working app. Instantly.\\nMake a Spotify cloneMake a weather dashboardBuild a chat interface\\nGitHub⟨3⟩Twitter⟨4⟩Discord⟨5⟩YouTube⟨6⟩\\nPrivacy⟨7⟩\\n•\\nTerms⟨8⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://srcbook.com/</manifesto>: Manifesto\\n⟨2⟩ https://srcbook.com/</pricing>: Pricing\\n⟨3⟩ https://srcbook.com/<https:/github.com/srcbookdev>: GitHub\\n⟨4⟩ https://srcbook.com/<https:/x.com/srcbookcom>: Twitter\\n⟨5⟩ https://srcbook.com/<https:/discord.gg/shDEGBSe2d>: Discord\\n⟨6⟩ https://srcbook.com/<https:/www.youtube.com/@srcbook>: YouTube\\n⟨7⟩ https://srcbook.com/</privacy>: Privacy\\n⟨8⟩ https://srcbook.com/</terms>: Terms\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Srcbook: Easy App Development for Everyone**\n\nFounded in 2023 and born out of Y Combinator’s Batch S23, Srcbook is shaking up the app development game, making it accessible to anyone without a coding background. Imagine being able to create a web application as effortlessly as you would design a mockup in Figma or compose a Google Doc. That’s the vision behind Srcbook.\n\n**Mission and Vision**\n\nAt its core, Srcbook aims to empower individuals to build robust web applications with minimal effort and zero coding skills. Their mission is straightforward: help users turn ideas into functioning applications in mere minutes—removing traditional barriers to entry in software development. The company's vision extends further into the future with the concept of \"personal software,\" where everyone can create bespoke applications tailored to their unique needs.\n\n**How It Works**\n\nWith Srcbook’s cutting-edge coding agent, users can think up their app ideas—be it a Spotify clone, a weather dashboard, or a chat interface—and see them come to life instantly. This simplified development process caters to those who want to launch their projects quickly, whether for business, community needs, or personal experimentation.\n\n**Location and Team**\n\nBased in the vibrant tech hub of San Francisco, Srcbook operates with a lean team of just two employees, showcasing agility and efficiency—traits that resonate with their user-centric approach. The company is led by Diana Hu, their Group Partner, who brings valuable insights and direction.\n\n**Engagement and Resources**\n\nFor those interested in exploring what Srcbook has to offer, the company provides various resources:\n\n- [Manifesto](https://srcbook.com/manifesto): Learn about the ethos behind Srcbook.\n- [Pricing](https://srcbook.com/pricing): Understand the cost of utilizing their platform.\n- Connect with Srcbook on [GitHub](https://github.com/srcbookdev), [Twitter](https://x.com/srcbookcom), [Discord](https://discord.gg/shDEGBSe2d), and [YouTube](https://www.youtube.com/@srcbook) for the latest updates and community engagement.\n\nIn a world where the ability to build and innovate defines success, Srcbook stands out by democratizing web development. With their clear mission and innovative approach, they’re well-positioned to make a significant impact in the tech landscape. If you’ve got an idea, let Srcbook help you bring it to fruition—because building your app should be as simple as thinking it."
+}

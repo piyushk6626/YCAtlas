@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/stack-ai",
+  "name": "Stack AI",
+  "headline": "AI Agents for the Enterprise",
+  "batch": "W23",
+  "description": "With Stack AI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\nHundreds of companies use Stack AI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
+  "activity_status": "Active",
+  "website": "https://www.stack-ai.com/",
+  "founded_date": 2022.0,
+  "team_size": 16.0,
+  "location": "San Francisco",
+  "group_partner": "Nicolas Dessaigne",
+  "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:enterprise; industry:automation; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Bernardo Aceituno, Founder",
+      "description": "Co-Founder of Stack AI (W23). MIT PhD. AI for Enterprise.",
+      "linkedin": "https://www.linkedin.com/in/baceituno/"
+    },
+    {
+      "name": "Antoni Rosinol, Co-Founder & Customer Support",
+      "description": "Co-Founder of Stack AI (W23). MIT PhD. Bringing us one step closer to AGI.",
+      "linkedin": "https://www.linkedin.com/in/rosinol/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![Stack AI logo](https://www.stack-ai.com/stack-logo/stack.svg)\\n# Oops, something went wrong :(\\nPlease, contact our support team to help you with this issue.\\n[Go back home](https://www.stack-ai.com/</>)[Contact support →](https://www.stack-ai.com/<https:/discord.gg/sSbwawtNsV>)\\n' markdown_with_citations='![Stack AI logo⟨1⟩]\\n# Oops, something went wrong :(\\nPlease, contact our support team to help you with this issue.\\nGo back home⟨2⟩Contact support →⟨3⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.stack-ai.com/stack-logo/stack.svg: Stack AI logo\\n⟨2⟩ https://www.stack-ai.com/</>: Go back home\\n⟨3⟩ https://www.stack-ai.com/<https:/discord.gg/sSbwawtNsV>: Contact support →\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Stack AI: Empowering Enterprises with Custom AI Solutions**\n\nFounded in 2022 and hailing from Y Combinator's W23 batch, Stack AI is a San Francisco-based startup with a mission to democratize the deployment of AI agents in enterprise settings. Their innovative low-code platform empowers organizations—regardless of technical expertise—to effortlessly automate back-office operations. \n\nThink of it as giving every team member the toolkits to create their own knowledge-based AI assistants. This approach has attracted hundreds of companies keen on improving their workflows by automating tasks such as filling RFPs, conducting due diligence research, content quality assurance, and data extraction from various documents.\n\nWith a lean but talented team of 16, Stack AI is making waves in the enterprise automation space. They’re not just about tech; they’re about enabling teams. As Nicolas Dessaigne leads the charge, Stack AI is solidly positioned at the intersection of artificial intelligence and enterprise efficiency—a combination that promises to reshape how businesses operate.\n\nFor more details about their offerings and vision, check out their website: [Stack AI](https://www.stack-ai.com/)."
+}

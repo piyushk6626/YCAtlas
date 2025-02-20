@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/egress-health",
+  "name": "Egress Health",
+  "headline": "End-To-End Revenue Cycle Automation",
+  "batch": "S23",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://tryegress.com",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:workflow-automation; industry:healthcare; industry:health-insurance; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Matthew Kiflu, Founder",
+      "description": "Cofounder of Egress. Prev Harvard, Pear VC",
+      "linkedin": "https://www.linkedin.com/in/matthewkiflu/"
+    },
+    {
+      "name": "Alex Pedersen, Founder",
+      "description": "Co-founder of Egress. Prev Microsoft, Harvard CS",
+      "linkedin": "https://linkedin.com/in/alex-pedersen-30340915a"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"Egress Health \\nWe're building AI agents to automate insurance tasks: benefits verification, prior-authorization, and posting EOBs. \\nWe've processed 106,222 appointments and counting. \\nReady to automate your practice? Please [join the waitlist.](https://tryegress.com/<https:/forms.gle/aJRFLZ8ogjRHX5Xy9>)\\nWe're changing the way people get paid in a $4.5 trillion industry. Want to join? \\nEmail us at founders@tryegress.com\\n\" markdown_with_citations=\"Egress Health \\nWe're building AI agents to automate insurance tasks: benefits verification, prior-authorization, and posting EOBs. \\nWe've processed 106,222 appointments and counting. \\nReady to automate your practice? Please join the waitlist.⟨1⟩\\nWe're changing the way people get paid in a $4.5 trillion industry. Want to join? \\nEmail us at founders@tryegress.com\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://tryegress.com/<https:/forms.gle/aJRFLZ8ogjRHX5Xy9>: join the waitlist.\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Egress Health: Revolutionizing Healthcare Revenue Cycles**\n\nFounded in 2023 and part of Y Combinator's Batch S23, Egress Health is a budding startup based in San Francisco. With a compact team of just two people, the company is ambitiously tackling a colossal challenge in the healthcare sector: automating the entire revenue cycle process.\n\nTheir mission? End-to-end revenue cycle automation. They're leveraging AI to streamline insurance-related tasks, which include benefits verification, prior authorizations, and posting Explanation of Benefits (EOBs). This is not just technical jargon; Egress Health has already processed over 106,000 appointments, showcasing a strong traction in a market that's desperate for efficiency. \n\nThink about it: the healthcare industry is a $4.5 trillion juggernaut. Egress is looking to change how payments are processed and how practices get compensated, which is no small feat. If you’re a healthcare provider ready to revolutionize your practice with automation, you might want to join their waitlist.\n\nHarj Taggar is involved as their Group Partner, lending valuable experience to the young team. Egress Health is tagged under key categories like workflow-automation, healthcare, health-insurance, and is firmly situated within the San Francisco Bay Area's vibrant startup ecosystem.\n\nIf you're interested in being part of this transformation, you can reach out to them at founders@tryegress.com. \n\nFor now, the opportunity lies in waiting – but this is definitely a company to keep an eye on as they continue to scale and innovate in the complex world of health finance. \n\nJoin the waitlist [here](https://tryegress.com/<https:/forms.gle/aJRFLZ8ogjRHX5Xy9>)."
+}

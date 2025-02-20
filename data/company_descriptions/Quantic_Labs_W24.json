@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/quantic-labs",
+  "name": "Quantic Labs",
+  "headline": "Automated data entry for CRM",
+  "batch": "W24",
+  "description": "Everyone hates their CRM, but why? Data entry is monotonous, distracting, and error-prone. CRMs are great in theory but are only as good as their data. Enter Quantic, Quantic takes your unstructured data (customer activities, like calls, emails, meetings, & documents) and automatically updates your CRM. Saving you time, covering your ass, and improving your data.",
+  "activity_status": "Active",
+  "website": "https://www.quanticlabs.ai?utm_source=yc",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:sales; industry:sales-enablement; industry:automation; industry:ai; industry:databases; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Grant Margerum, Founder",
+      "description": "- Studied CS \n- Worked at Salesforce as a dev for two years then as an SE (pre-sales engineer) for two years\n- Joined Northbeam as the 1st employee and Head of Sales; grew the business from $200k -> $10m in 15 months",
+      "linkedin": "https://linkedin.com/in/grantmargerum"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![crmCopilot Logo](https://www.quanticlabs.ai/crmCopilot.svg)](https://www.quanticlabs.ai/</>)Sign InSign Up\\n' markdown_with_citations='![crmCopilot Logo⟨1⟩](https://www.quanticlabs.ai/</>)Sign InSign Up\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.quanticlabs.ai/crmCopilot.svg: ![crmCopilot Logo\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Quantic Labs: Revolutionizing CRM with Automated Data Entry**\n\nFounded in 2023 and part of Y Combinator's Winter 2024 batch, Quantic Labs is on a mission to tackle a common frustration in the business world: the burdensome task of CRM data entry. Based in San Francisco, this lean startup consists of a dynamic duo of employees who are committed to simplifying how businesses interact with their data.\n\nThe problem they're addressing is one many know all too well—most people dislike their CRM because data entry is monotonous, distracting, and prone to errors. While CRMs are incredible tools, they’re only as effective as the data fed into them. Enter Quantic Labs. Their innovative solution automatically ingests unstructured data from customer interactions—think calls, emails, meetings, and documents—and seamlessly updates your CRM. \n\nBy minimizing the time spent on data entry, Quantic not only streamlines your workflow but also enhances the accuracy of your data. This means fewer errors and a smoother operation, allowing businesses to focus on what truly matters: their customers.\n\nWith support from notable figures such as Harj Taggar, a Group Partner at Y Combinator, Quantic Labs is positioned at the forefront of the sales enablement and automation sectors. They’re tagged in key areas like AI and databases, indicating a strong alignment with the technology-driven future.\n\nIf you're tired of the data entry grind and want to improve your CRM experience, Quantic Labs might just be the solution you've been looking for.\n\nFor more information, check out their website: [Quantic Labs](https://www.quanticlabs.ai?utm_source=yc)."
+}

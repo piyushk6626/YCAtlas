@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/enlightra",
+  "name": "Enlightra",
+  "headline": "Multicolor lasers for ultrafast data transmission",
+  "batch": "W22",
+  "description": "Enlightra develops mass-manufacturable fingertip-size multicolor lasers enabling ultrafast data communication and optical computing while providing up to 10x improvement in energy efficiency and cost reduction.",
+  "activity_status": "Active",
+  "website": "https://www.enlightra.com/",
+  "founded_date": 2021.0,
+  "team_size": 10.0,
+  "location": "Ecublens, Switzerland",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:hard-tech; industry:hardware",
+  "founders": [
+    {
+      "name": "John Jost, Founder",
+      "description": "John has more than 20 years of experience in quantum, atomic, and optical physics and authored more than 70 publications while working with 2 Nobel Prize winners in physics (2012,2005). Dr. Jost has raised more than $2mio in non-dilutive funding for Enlightra",
+      "linkedin": "http://www.linkedin.com/in/john-jost"
+    },
+    {
+      "name": "Maxim Karpov, Founder",
+      "description": "Entrepreneur with a strong research background, PhD in Physics, and >8 years of experience in photonics and laser technologies. Maxim has co-authored >40 research papers in top peer-reviewed journals including Nature and Science and has received multiple international awards for his research work. He has a successful track record of managing international research projects and fundraising.",
+      "linkedin": "https://www.linkedin.com/in/maximkarpov/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# Extreme-bandwidth data transmissionenabled by light\\nContact Us\\n### ∙ Chipscale photonic engine∙ 100 data transmission channels from a single laser∙ Equidistant frequency spacing∙ And much much more... get in touch to find out\\n## Multicolor laser technology\\n### Say Hi and tell us how we can help you:\\n## hi@enlightra.com\\nFounded by [Maxim ](https://www.enlightra.com/<https:/www.linkedin.com/in/maximkarpov/>)and [John](https://www.enlightra.com/<https:/www.linkedin.com/in/john-jost/>) in Lausanne, Switzerland\\n' markdown_with_citations='# Extreme-bandwidth data transmissionenabled by light\\nContact Us\\n### ∙ Chipscale photonic engine∙ 100 data transmission channels from a single laser∙ Equidistant frequency spacing∙ And much much more... get in touch to find out\\n## Multicolor laser technology\\n### Say Hi and tell us how we can help you:\\n## hi@enlightra.com\\nFounded by Maxim ⟨1⟩and John⟨2⟩ in Lausanne, Switzerland\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://www.enlightra.com/<https:/www.linkedin.com/in/maximkarpov/>: Maxim \\n⟨2⟩ https://www.enlightra.com/<https:/www.linkedin.com/in/john-jost/>: John\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Enlightra is a pioneering company that began its journey in 2021, focusing on the development of multicolor lasers tailored for ultrafast data transmission. Based in Ecublens, Switzerland, and part of the Y Combinator Batch W22, Enlightra stands out in the hard-tech sector with its innovative approach to optical computing.\n\nThe mission? To revolutionize data communication with compact, mass-manufacturable lasers that significantly enhance energy efficiency—promising up to a 10x improvement—while also slashing costs. This isn't just about transmitting data faster; it's about doing it smarter and more sustainably.\n\nAt the heart of Enlightra's technology is their chip-scale photonic engine, capable of supporting 100 data transmission channels from a single laser with precise frequency spacing. This level of sophistication positions them uniquely in a market that craves speed and efficiency.\n\nThe company is led by founders Maxim Karpov and John Jost, both of whom bring a wealth of expertise and vision to the team of 10. With a strong foundation and a clear focus on advancing laser technology, Enlightra is not just aiming for incremental improvements; they're looking to transform how we think about data transmission entirely.\n\nIf you're intrigued by the possibilities of extreme-bandwidth data transmission enabled by light, you can reach out to them through their website at [enlightra.com](https://www.enlightra.com/) or connect via email at hi@enlightra.com. This is a company that could very well shape the future of communication technology."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/stairs-financial",
+  "name": "Stairs Financial",
+  "headline": "Find a home you can actually afford",
+  "batch": "W22",
+  "description": "Stairs helps young Americans buy their first home. Our home search identifies homes based on their finances, and connects them to government grants, loans and tax breaks.",
+  "activity_status": "Active",
+  "website": "https://stairsfinancial.com",
+  "founded_date": 2021.0,
+  "team_size": null,
+  "location": "New York",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:govtech; industry:proptech; location:new-york",
+  "founders": [
+    {
+      "name": "Malcolm-Wiley Floyd, Founder",
+      "description": "CEO and Cofounder at Stairs Financial (W22)\n2x Founder, ex: McKinsey, Catalant and B12\nNew York Forever",
+      "linkedin": "https://www.linkedin.com/in/mwfloyd/"
+    },
+    {
+      "name": "Scott Fritz, Founder",
+      "description": "CTO and Cofounder at Stairs Financial (W22)\nex: Wealthfront, Apex, PEAK6, Harvard CS/Football",
+      "linkedin": "https://www.linkedin.com/in/scott-fritz/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"# We’re Closing Our Doors—Your Path to Homeownership Continues\\nWe've made the difficult decision to shut down our service, but we remain hopeful for all first-time homebuyers chasing their dream.\\nFor help finding local homebuyer programs, please visit the U.S. Department of Housing and Urban Development at <https://www.hud.gov/buying/localbuying>. \\nThank you all for being part of our journey. We wish you all the best in your path to homeownership.\\nTeam Stairs\\n\" markdown_with_citations=\"# We’re Closing Our Doors—Your Path to Homeownership Continues\\nWe've made the difficult decision to shut down our service, but we remain hopeful for all first-time homebuyers chasing their dream.\\nFor help finding local homebuyer programs, please visit the U.S. Department of Housing and Urban Development at <https://www.hud.gov/buying/localbuying>. \\nThank you all for being part of our journey. We wish you all the best in your path to homeownership.\\nTeam Stairs\\n\" references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Stairs Financial, founded in 2021 and located in New York, is a fintech startup that set out on an ambitious mission: to help young Americans find homes that they could realistically afford. By tailoring the home search experience to align with individual finances, Stairs Financial aimed to connect first-time homebuyers with critical resources like government grants, loans, and tax breaks, essentially making the daunting process of homeownership more navigable.\n\nEmerging from the notable Y Combinator Batch W22, Stairs was tagged across several industries including fintech, govtech, and proptech, reflecting its innovative blend of financial technology and real estate solutions.\n\nHowever, despite its vision and potential, Stairs Financial has recently announced the difficult decision to shut down operations. They have encouraged users seeking assistance with homebuyer programs to look towards the U.S. Department of Housing and Urban Development for continued support. \n\nWhile their journey may be ending, the team still expresses hope for all aspiring homeowners, underscoring the longstanding quest for affordable housing—a mission that continues beyond their own doors.\n\nTo learn more about their journey or for resources on homeownership, you can check their website at [stairsfinancial.com](https://stairsfinancial.com)."
+}

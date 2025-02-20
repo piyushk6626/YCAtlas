@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/sage-ai",
+  "name": "Sage AI",
+  "headline": "Your self-generating, self-maintaining code knowledge base.",
+  "batch": "W23",
+  "description": "Sage is a self-generating, self-maintaining knowledge base for your code with in-built chat, accelerating expertise, and comprehension of any codebase.\r\n\nDocumentation is perpetually stale, codebases become increasingly old, large, and complex, and knowledge remains siloed within individuals and teams. As a result, engineers take 8-12 months to become fully operational, enterprise code becomes slow and unmaintainable, and core knowledge is continually lost upon engineer turnover.\r\n\nSage is changing this reality. We take your code and automatically generate a symbol-level knowledge base that self-updates to remain forever fresh. We integrate with source control to pull your code and generate a symbolic graph representation of functions, classes, interfaces, types, etc., automatically determining the relevant context for each symbol, and using LLMs to annotate and propagate documentation via traversals of the symbol graph. \r\n\nSage revolutionizes the way teams and individuals interact with and understand their code, ensuring that knowledge is always accessible, up-to-date, and interactive.",
+  "activity_status": "Active",
+  "website": "https://sage-ai.dev",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:ai-assistant; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Joshua Ying, Founder",
+      "description": "Ex-Google co-founder at sage-ai.dev.\nLet's get in touch: joshua@emblem.software",
+      "linkedin": "https://www.linkedin.com/in/joshua-ying-7a0032138/"
+    },
+    {
+      "name": "Akhil Murthy, Founder",
+      "description": "Ex-IBM Software Engineer building Sage AI",
+      "linkedin": "https://www.linkedin.com/in/akhil-m-12b45a98"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "**Sage AI: Empowering Code Knowledge**\n\nFounded in 2023 as part of the Y Combinator Batch W23, Sage AI is shaking up the software development landscape. Based in San Francisco and operated by a compact yet capable team of two, Sage AI is on a mission to transform the way developers interact with their codebases. Its core proposition is straightforward yet powerful: a self-generating, self-maintaining code knowledge base.\n\n### The Problem\nIn the modern software environment, documentation often lags, codebases grow unwieldy, and critical knowledge tends to be trapped within individual team members. This situation results in engineers spending anywhere from 8 to 12 months to reach full operational efficiency. As code becomes sluggish and unmanageable, the loss of core knowledge due to team turnover exacerbates these issues.\n\n### The Solution\nEnter Sage AI. By automatically generating a symbol-level knowledge base from your code, Sage ensures that crucial information is always fresh and readily accessible. The company integrates seamlessly with your source control, pulling in your code to create a symbolic graph representation of its various components—functions, classes, and other interfaces. Leveraging large language models (LLMs), Sage annotates and propagates documentation throughout this graph, continually updating the knowledge base with the context necessary for understanding.\n\n### The Impact\nSage AI is set to revolutionize how both teams and individuals comprehend their code. With its innovative approach, the platform guarantees that knowledge remains not only accessible but interactive and continuously relevant—a game-changer in a world where information silos can hinder progress and innovation.\n\nIn a nutshell, Sage AI is here to help developers overcome common pitfalls associated with legacy code management and knowledge retention, fostering an environment where expertise can thrive. \n\nYou can check them out at [sage-ai.dev](https://sage-ai.dev) and watch how they redefine developer tools with AI. \n\nIn a space marked by complexity, Sage AI promises to simplify, enhance, and sustain your coding expertise."
+}

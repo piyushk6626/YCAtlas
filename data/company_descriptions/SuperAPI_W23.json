@@ -1,0 +1,21 @@
+{
+  "links": "https://www.ycombinator.com/companies/superapi",
+  "name": "SuperAPI",
+  "headline": "Programmable API gateway that makes APIs cacheable",
+  "batch": "W23",
+  "description": "SuperAPI is a programmable API gateway that makes all your fetch APIs cacheable, reducing the response time 10x. \r\nOur customers use SuperAPI to cache their critical APIs without spending 6-9 months rewriting their code.",
+  "activity_status": "Active",
+  "website": "https://trysuperapi.com",
+  "founded_date": 2022.0,
+  "team_size": 2.0,
+  "location": "Chennai, India",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:api",
+  "founders": [],
+  "status": true,
+  "markdown": "raw_markdown='# SuperAPI\\nMake all your fetch APIs instantly cacheable\\n  * [Arrow RightJoin Waitlist](https://trysuperapi.com/<https:/forms.gle/LPAiguUL6aMpB1fH7>)\\n\\n\\n' markdown_with_citations='# SuperAPI\\nMake all your fetch APIs instantly cacheable\\n  * Arrow RightJoin Waitlist⟨1⟩\\n\\n\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://trysuperapi.com/<https:/forms.gle/LPAiguUL6aMpB1fH7>: Arrow RightJoin Waitlist\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### SuperAPI: Transforming the Way We Handle APIs\n\nFounded in 2022 and based in Chennai, India, SuperAPI is on a mission to revolutionize how developers interact with APIs. Imagine a programmable API gateway that makes your fetch APIs instantly cacheable—this is what SuperAPI does. By leveraging their technology, customers can reduce their API response time by an impressive 10x, which is no small feat in today’s fast-paced development environment.\n\nIf you’re a developer, you probably know the struggle of slow APIs or the monumental effort it takes to rewrite existing code to achieve better performance. That's where SuperAPI steps in: it allows you to cache critical APIs without requiring six to nine months of re-engineering. It’s a huge time-saver and attention-saver.\n\nSuperAPI is part of Y Combinator's Winter 2023 batch, which speaks volumes about its potential and the quality of its team—albeit a small one of just two employees. They’re currently backed by Brad Flora as their Group Partner, which should give you confidence in their trajectory.\n\nTheir website, [trysuperapi.com](https://trysuperapi.com), offers a straightforward way to get started. If you’re interested in being part of this innovative journey, there's even a waitlist you can join.\n\nIn a nutshell, SuperAPI is making strides in the developer tools space, specifically in API management. With just a couple of dedicated team members, they stand poised to make a significant impact. If you’re looking for a smarter way to handle your APIs, keep an eye on SuperAPI."
+}

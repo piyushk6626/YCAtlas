@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/supercraft",
+  "name": "SuperCraft",
+  "headline": "Figma for designing physical products",
+  "batch": "S23",
+  "description": "SuperCraft lets anyone create professional designs with natural language\r\n\nJoin thousands of designers using SuperCraft to craft compelling visual narratives via on-brand creatives, packaging, product design, architectural design, gaming and more",
+  "activity_status": "Active",
+  "website": "https://supercraft.ai",
+  "founded_date": 2024.0,
+  "team_size": 1.0,
+  "location": "New York",
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:generative-ai; industry:productivity; industry:design-tools; location:new-york",
+  "founders": [
+    {
+      "name": "Sarang Zambare, Founder",
+      "description": "Founder & CEO at SuperCraft (S23). Previously Sarang was at Peloton as the ML lead on Peloton Guide and Caper (W16) (acquired) as their founding ML engineer.\nHe has multiple patents in computer vision and has shipped AI products at scale with more than 10,000 users. Sarang has bachelors + double masters in Physics from IIT Bombay and UC Berkeley. He loves playing music and is also a certified pilot.",
+      "linkedin": "https://linkedin.com/in/sarang-zambare"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "SuperCraft is an innovative startup launched in 2024, nestled in the vibrant tech scene of New York. Think of it as the Figma for physical product design—where creativity meets user-friendly technology. \n\nTheir mission is straightforward yet ambitious: to empower anyone, regardless of their design background, to craft professional-quality designs using natural language. Imagine being able to tell a computer what you want, and it produces a beautifully designed product for you. That's the magic SuperCraft aims to bring into the hands of designers and creators.\n\nThe platform supports a diverse range of applications, allowing users to create everything from compelling visual narratives and packaging to architectural designs and even gaming assets. It’s all about enabling creativity through intuitive tools that help streamlining the design process.\n\nFounded as part of Y Combinator's Batch S23, SuperCraft is making waves with a team of just one—yes, a humble but powerful start. Under the guidance of their Group Partner, Dalton Caldwell, they are poised to grow and evolve in an era hungry for innovative design tools.\n\nWith tags like 'artificial-intelligence', 'generative-ai', and 'design-tools', it’s clear they’re leveraging cutting-edge technology to enhance productivity in the design world. \n\nIf you’re curious to see where design meets AI, or if you’re one of the thousands of designers looking to elevate your work, check them out at [supercraft.ai](https://supercraft.ai). They’re here to help you bring your creative visions to life effortlessly."
+}

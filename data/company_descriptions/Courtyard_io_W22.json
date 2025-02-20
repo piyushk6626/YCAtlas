@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/courtyard-io",
+  "name": "Courtyard.io",
+  "headline": "A frictionless, safe, and fun experience to invest in collectibles",
+  "batch": "W22",
+  "description": "Courtyard.io (YC W’22) is a marketplace and tokenization service that enables anyone to easily own and trade physical collectibles on the blockchain, unlocking greater transparency, liquidity, and a powerful new form of ownership. For vaulting, we’re partnered with Brink’s – one of the global leaders in security and logistics. We’re currently focused on graded cards, and offer a variety of slab Vending Machines along with curated mystery pack Drops to provide a fun, fair, and transparent way for enthusiasts and new collectors alike to grow their collections.",
+  "activity_status": "Active",
+  "website": "https://courtyard.io",
+  "founded_date": 2021.0,
+  "team_size": 13.0,
+  "location": "San Francisco",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:marketplace; industry:sports-tech; industry:consumer; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Nicolas le Jeune, Founder",
+      "description": "Nicolas is the co-founder & CEO of Courtyard. He has 8+ years of experience in Sales and Partnerships at Google and YouTube.",
+      "linkedin": "https://www.linkedin.com/in/nicolas-le-jeune/"
+    },
+    {
+      "name": "Paulin Andurand, Founder",
+      "description": "Paulin is the co-founder & CTO of Courtyard.io. Before building Courtyard, he spent 8 years as a Software Engineer at Apple.",
+      "linkedin": "https://www.linkedin.com/in/pandurand/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Courtyard.io is redefining how we invest in collectibles by making it frictionless, safe, and fun. Founded in 2021 and hailing from the Y Combinator W22 batch, this San Francisco-based company is carving out a niche in the collectibles marketplace through innovative tokenization services. Their mission is straightforward: they want to enable anyone to own and trade physical collectibles seamlessly on the blockchain, which introduces greater transparency, liquidity, and a fresh form of ownership.\n\nThe focus is currently on graded cards, and they offer some exciting ways for both enthusiasts and newcomers to engage. With their slab Vending Machines and curated mystery pack Drops, Courtyard.io creates a dynamic environment where collecting becomes both an enjoyable and equitable experience. To ensure the safety and security of these collectibles, they've partnered with Brink’s, a name synonymous with security and logistics.\n\nCourtyard.io operates with a lean team of 13 dedicated employees, and with Harj Taggar as their Group Partner, they're well-positioned to navigate the evolving landscape of collectibles investing. Their strategic approach has put them at the intersection of marketplace, sports-tech, and consumer-focused innovations, making them a noteworthy player in the San Francisco Bay Area.\n\nIf you're keen to dive into the world of collectibles with a modern twist, check them out at [courtyard.io](https://courtyard.io)."
+}

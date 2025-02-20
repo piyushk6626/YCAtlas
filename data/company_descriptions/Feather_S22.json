@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/feather-2",
+  "name": "Feather",
+  "headline": "AI Employees for the Mortgage Industry",
+  "batch": "S22",
+  "description": "Feather is a building a suite of AI employees for the mortgage industry. We are automating most manual human tasks with the use of AI.",
+  "activity_status": "Active",
+  "website": "https://featherhq.com",
+  "founded_date": 2022.0,
+  "team_size": 2.0,
+  "location": "Seattle, WA",
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:fintech; industry:lending; location:seattle",
+  "founders": [
+    {
+      "name": "Aahan Sawhney, Founder",
+      "description": "I am a co-founder @ Feather. Previously, I have worked at Goldman Sachs on equities derivatives trading desk. And most recently, I was a Staff Engineer leading Voice platform team at outreach, responsible for over 1.2 million calls happening every month. I studied CS and Finance at University of Texas at Dallas",
+      "linkedin": "http://linkedin.com/in/aahansawhney"
+    },
+    {
+      "name": "Saurabh Jain, Founder",
+      "description": "Co-founder @ Feather. Opinionated developer. Travel points hacking. Immigrant. Ex-Faang. Graduated from University of Southern California ✌🏼",
+      "linkedin": "https://www.linkedin.com/in/saurabhj80"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Feather: Revolutionizing the Mortgage Industry with AI**\n\nFounded in 2022 and hailing from the Northwest in Seattle, WA, Feather is taking a bold step into the mortgage industry by introducing a suite of AI employees designed specifically to automate manual tasks that typically require human intervention. Think of it as giving the mortgage sector a much-needed digital upgrade—streamlining processes, reducing error, and improving efficiency.\n\nFeather began its journey as part of the Y Combinator Batch S22, which is a stamp of validation in the startup world. With a compact team of just two employees, they're laser-focused on building technology that empowers lenders and enhances the borrowing experience.\n\nDalton Caldwell, a well-respected figure in the tech community, serves as their Group Partner, lending his experience and insights to guide their strategy and growth.\n\nWith an emphasis on artificial intelligence, fintech, and lending, Feather is positioned not just as another startup but as a potential game-changer in how mortgages are processed and managed. By automating more of the manual tasks that bog down the industry, they are setting the stage for a future where AI handles the legwork, allowing professionals to focus on what truly matters.\n\nIf you're curious about their approach and offerings, you can check out their website at [featherhq.com](https://featherhq.com).\n\nIn summary, Feather is on a mission to make the mortgage industry smarter and more efficient through AI, ultimately reducing friction for both lenders and borrowers. They may be small now, but their ambitions are anything but. Keep an eye on them; they’re just getting started."
+}

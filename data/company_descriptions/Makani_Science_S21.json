@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/makani-science",
+  "name": "Makani Science",
+  "headline": "Reinventing respiration monitoring",
+  "batch": "S21",
+  "description": "Makani Science is a medical device company based in Irvine, California. We have created the world's first wireless patch that can accurately and continuously monitor breathing. The company is co-founded by Dr. Michelle Khine and Dr. Michael Chu, two experts in the wearable monitoring space from the University of California, Irvine. \r\n\nThe Makani Science system will collect unique breathing waveforms from patients in everyday environments to create the first large database of respiratory patterns associated with different diseases. Data will be collected through systems sold to our initial beachhead market, where we will help improve monitoring safety in patients being sedated for medical procedures. Our long-term goal is to combine machine learning with this database to identify and predict respiratory complications for different patient populations. \r\n\nWe have a highly experienced team and will be FDA cleared in our beachhead market within a year.",
+  "activity_status": "Active",
+  "website": "http://makaniscience.net/",
+  "founded_date": 2018.0,
+  "team_size": 2.0,
+  "location": "Irvine, CA",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:health-tech; industry:medical-devices",
+  "founders": [
+    {
+      "name": "Michael Chu, Founder",
+      "description": "Michael graduated, PhD, from the Department of Biomedical Engineering at the University of California Irvine, where he worked in Dr. Michelle Khine’s lab. His research focused on developing and using soft wearable sensors for noninvasive monitoring of physiologic vital signs. Michael has helped author over 10 peer reviewed papers and is also inventor of 3 patents submitted by the lab. His dissertation work served as the foundation for the Makani Science technology.",
+      "linkedin": "https://www.linkedin.com/in/mchu8/"
+    },
+    {
+      "name": "Michelle Khine, Founder",
+      "description": "Professor of Biomedical Engineering and Serial Entrepreneur",
+      "linkedin": "https://www.linkedin.com/in/michelle-khine-a7111315/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Makani Science: Reinventing Respiration Monitoring**\n\nMakani Science is a medical device company based in Irvine, California, founded in 2018. Co-founded by Dr. Michelle Khine and Dr. Michael Chu—experts in wearable monitoring from the University of California, Irvine—Makani aims to transform how we monitor respiration. They’ve developed the world’s first wireless patch designed for accurate and continuous breathing monitoring.\n\nThe mission? To create a comprehensive database of respiratory patterns linked to various diseases by collecting unique breathing waveforms from patients in everyday environments. Starting with a focus on improving safety in patients undergoing sedation during medical procedures, Makani's technology promises to usher in an era of smarter healthcare. The goal is to leverage machine learning on this database to identify and predict respiratory complications across different patient demographics.\n\nCurrently part of Y Combinator’s Batch S21, Makani Science consists of a small but highly experienced team of two employees. They are on a fast track to receiving FDA clearance for their initial market within the year, establishing a solid foundation for future growth.\n\nWith health-tech and medical devices as their core tags, Makani Science shows immense potential in addressing a crucial aspect of patient care—monitoring respiration. Their cutting-edge approach not only meets a pressing healthcare need but also opens avenues for advanced predictive analytics in respiratory health.\n\nFor more information, you can check their website at [Makani Science](http://makaniscience.net/)."
+}

@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/remy-2",
+  "name": "Remy",
+  "headline": "Ask any question and get answers from the worldâs videos",
+  "batch": "S23",
+  "description": "Remy is a free AI-powered video answer engine that changes the way you consume the worldâs videos. Unlike traditional video search engines that provide a list of full-length videos, Remy finds the exact moments within these videos that answer your questions.",
+  "activity_status": "Active",
+  "website": "https://useremy.com/",
+  "founded_date": 2023.0,
+  "team_size": 3.0,
+  "location": "San Francisco",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:generative-ai; industry:consumer; industry:entertainment; industry:search; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Flynn Traeger, Founder",
+      "description": "Software engineer by training but cut my teeth in headhunting so can't stop talking to people. Ex-Stanford rower. 2x All-American. Now I'm trying to make search better.",
+      "linkedin": "https://linkedin.com/in/flynn-traeger"
+    },
+    {
+      "name": "Moe Khalil, Founder",
+      "description": "Stanford CS '23",
+      "linkedin": "https://linkedin.com/in/moe-khalil-73a2371a1"
+    },
+    {
+      "name": "Porter Weisberg, Founder",
+      "description": "Previously a C.S. major and all-academic rower at Stanford, and has been building startups since.",
+      "linkedin": "https://linkedin.com/in/porter-weisberg"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"![Logo](https://useremy.com/_next/image?url=%2Ficon.png&w=64&q=75&dpl=dpl_BoRa12EzFRXf9C17q9ta9qTkmHfi)Remy\\nNew SearchTrendingHistorySaved Clips\\nLegacy Tools\\nPlaylist Maker\\n![Logo](https://useremy.com/_next/image?url=%2Ficon.png&w=48&q=75&dpl=dpl_BoRa12EzFRXf9C17q9ta9qTkmHfi)\\nRemy\\n[✨ What's new: Feb 3 updates](https://useremy.com/</blog/feb-3-2025>)\\n[Blog](https://useremy.com/</blog>)[About](https://useremy.com/</blog/what-is-remy-v2>)[Contact](https://useremy.com/</feedback>)\\nVideo Search\\nVideo Search\\nKnowledge Base\\nAsk any question and get answers from the world's videos\\n[Join Our Discord!](https://useremy.com/<https:/discord.gg/ehst2tqvrE>)\\n[Terms and Conditions](https://useremy.com/</terms-and-conditions>)•[Privacy Policy](https://useremy.com/</privacy>)\\n\" markdown_with_citations=\"![Logo⟨1⟩]Remy\\nNew SearchTrendingHistorySaved Clips\\nLegacy Tools\\nPlaylist Maker\\n![Logo⟨2⟩]\\nRemy\\n✨ What's new: Feb 3 updates⟨3⟩\\nBlog⟨4⟩About⟨5⟩Contact⟨6⟩\\nVideo Search\\nVideo Search\\nKnowledge Base\\nAsk any question and get answers from the world's videos\\nJoin Our Discord!⟨7⟩\\nTerms and Conditions⟨8⟩•Privacy Policy⟨9⟩\\n\" references_markdown=\"\\n\\n## References\\n\\n⟨1⟩ https://useremy.com/_next/image?url=%2Ficon.png&w=64&q=75&dpl=dpl_BoRa12EzFRXf9C17q9ta9qTkmHfi: Logo\\n⟨2⟩ https://useremy.com/_next/image?url=%2Ficon.png&w=48&q=75&dpl=dpl_BoRa12EzFRXf9C17q9ta9qTkmHfi: Logo\\n⟨3⟩ https://useremy.com/</blog/feb-3-2025>: ✨ What's new: Feb 3 updates\\n⟨4⟩ https://useremy.com/</blog>: Blog\\n⟨5⟩ https://useremy.com/</blog/what-is-remy-v2>: About\\n⟨6⟩ https://useremy.com/</feedback>: Contact\\n⟨7⟩ https://useremy.com/<https:/discord.gg/ehst2tqvrE>: Join Our Discord!\\n⟨8⟩ https://useremy.com/</terms-and-conditions>: Terms and Conditions\\n⟨9⟩ https://useremy.com/</privacy>: Privacy Policy\\n\" fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Remy**\n\nFounded in 2023, Remy has quickly established itself as an innovative player in the world of information retrieval, especially in the realm of video content. Based in San Francisco and a proud member of Y Combinator's Batch S23, Remy's mission is straightforward yet ambitious: to allow users to \"ask any question and get answers from the world’s videos.\"\n\nAt its core, Remy is a free AI-powered video answer engine that transforms how we consume video content. Instead of sifting through hours of footage or scrolling endlessly through traditional video search results, Remy cuts to the chase. It intelligently identifies the precise moments in videos that provide answers to users' questions, making video search not just easy, but remarkably efficient.\n\n**Key Features:**\n- **Video Search:** Find answers specifically tailored to your inquiries by pinpointing relevant segments within videos.\n- **Trending History:** A reflective feature that helps users catch up on what’s currently popular in video discussions.\n- **Saved Clips:** Allowing users to bookmark important sections for easy access later.\n- **Playlist Maker:** Curate your own playlists from the videos you find.\n- **Community Engagement:** Join their Discord for discussions and updates.\n\nThe company operates with a nimble team of three and benefits from the guidance of Michael Seibel as their Group Partner. Remy is tagged with important themes such as artificial intelligence, generative AI, consumer applications, and entertainment.\n\nIf you want to experience how video content can be made more navigable and useful, check out their website at [useremy.com](https://useremy.com/). \n\nIn a landscape where information is overflowing, Remy's approach to video search could very well streamline how we extract knowledge from the vast repositories of video online. \n\nSo, if you have a question, why not ask Remy? By utilizing cutting-edge technology, it’s likely to lead you directly to the answer in a way you’ve never experienced before."
+}

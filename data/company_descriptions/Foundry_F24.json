@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/foundry",
+  "name": "Foundry",
+  "headline": "RL Gym for Browser Agents",
+  "batch": "F24",
+  "description": "We're building the first end-to-end testing platform for web agents, including a Browser Gym for RL-driven optimization. Our platform helps teams run pre-production evaluations, benchmarking, and reinforcement learning to make web agents more reliable. With synthetic user simulations, automated evaluations, and large-scale benchmarking, we make sure web agents can handle dynamic environments with confidence.",
+  "activity_status": "Active",
+  "website": "https://www.foundryrl.com/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": null,
+  "group_partner": "David Lieb",
+  "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Manil Lakabi, Founder",
+      "description": "ex operator on the Gen AI team at Scale AI and FRL team at Meta",
+      "linkedin": "https://linkedin.com/in/manillakabi"
+    },
+    {
+      "name": "Pranav Raja, Founder",
+      "description": "ex Machine Learning Research Engineer on the Gen AI team as Scale.\n\nBuilding the world model for you agent.",
+      "linkedin": "https://www.linkedin.com/in/pranav-raja-590052182?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Unexpected Application Error!\\n### Error creating WebGL context.\\n```\\nError: Error creating WebGL context.\\n  at new b2 (https://www.foundryrl.com/assets/index-D5E_18U9.js:3895:20583)\\n  at lW (https://www.foundryrl.com/assets/index-D5E_18U9.js:3937:24416)\\n  at Object.configure (https://www.foundryrl.com/assets/index-D5E_18U9.js:3937:25680)\\n  at https://www.foundryrl.com/assets/index-D5E_18U9.js:3937:36031\\n  at Mg (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:24283)\\n  at qM (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:31623)\\n  at VC (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:31479)\\n  at z3 (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:31029)\\n  at G3 (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:40920)\\n  at Ca (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:40278)\\n```\\n\\n' markdown_with_citations='## Unexpected Application Error!\\n### Error creating WebGL context.\\n```\\nError: Error creating WebGL context.\\n  at new b2 (https://www.foundryrl.com/assets/index-D5E_18U9.js:3895:20583)\\n  at lW (https://www.foundryrl.com/assets/index-D5E_18U9.js:3937:24416)\\n  at Object.configure (https://www.foundryrl.com/assets/index-D5E_18U9.js:3937:25680)\\n  at https://www.foundryrl.com/assets/index-D5E_18U9.js:3937:36031\\n  at Mg (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:24283)\\n  at qM (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:31623)\\n  at VC (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:31479)\\n  at z3 (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:31029)\\n  at G3 (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:40920)\\n  at Ca (https://www.foundryrl.com/assets/index-D5E_18U9.js:40:40278)\\n```\\n\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Foundry Overview**\n\n**Company Name:** Foundry  \n**Founded:** 2024  \n**Location:** Currently unspecified  \n**Team Size:** 2 employees  \n**Y Combinator Batch:** F24  \n**Website:** [foundryrl.com](https://www.foundryrl.com/)  \n\n### Mission\nFoundry is on a mission to create a \"*RL Gym for Browser Agents*.\" The focus is on building the first comprehensive end-to-end testing platform tailored for web agents, specifically through reinforcement learning (RL) strategies.\n\n### What They Do\nInitially, they’re setting out to enhance reliability in web agents. Foundry’s platform enables teams to conduct pre-production evaluations, benchmarking, and employs reinforcement learning to optimize web agent performance. They achieve this by utilizing synthetic user simulations and automated evaluations, ensuring that web agents can navigate dynamic environments effectively and confidently.\n\n### Current Work\nWhile there are some critical hitches—like unexpected application errors regarding WebGL context creation—these are typical growing pains for a startup venturing into complex tech. It’s evident that Foundry is shaping an innovative approach in a niche area of tech that deserves attention.\n\n### Team Leadership\nThe company is backed by David Lieb, a Group Partner at Y Combinator, highlighting their potential and industry connections.\n\nIn a nutshell, Foundry is carving out a space in the realm of testing platforms for web agents. With their ambitious mission and innovative approach, they’re contributing to making AI-driven solutions not only smarter but also more reliable in real-world applications. Keep an eye on them as they evolve."
+}

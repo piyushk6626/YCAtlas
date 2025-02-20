@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/berilium",
+  "name": "Berilium",
+  "headline": "Invest in top Private Equity and Private Credit starting at $10k",
+  "batch": "W23",
+  "description": "Berilium is a digital wealth management platform for investors to access actively managed portfolios of alternative strategies (i.e. private equity, private credit etc.).",
+  "activity_status": "Active",
+  "website": "https://berilium.com/",
+  "founded_date": 2022.0,
+  "team_size": 3.0,
+  "location": "Los Angeles, CA",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:investing; location:los-angeles",
+  "founders": [
+    {
+      "name": "Dominic Spinozzi, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/dominic-spinozzi-912936117/"
+    },
+    {
+      "name": "Cedric Priscal, Founder",
+      "description": "Embedded Software developer for 20 years, SDR design for 5 years and 5 years of web and AWS cloud development. Originally from France, I joined NASA in 2012 to help integrating Android phones in Space (PhoneSat), I later on migrated from embedded software to RF and web development (back-end and front-end). When not at work, you will find me on the road on my motorcycle or my 77 VW bus.",
+      "linkedin": "https://www.linkedin.com/in/cedric-priscal-83330a8/"
+    },
+    {
+      "name": "Alberto Guillen, Founder",
+      "description": null,
+      "linkedin": "http://www.linkedin.com/in/alberto-guillen-759035115"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Summary: Berilium**\n\n*Founded*: 2022  \n*Location*: Los Angeles, CA  \n*Team Size*: 3 employees  \n*Website*: [berilium.com](https://berilium.com/)  \n*Y Combinator Batch*: W23  \n\n**Mission**: Berilium sets out to democratize access to private equity and private credit investments, allowing individuals to invest starting at just $10,000. This opens the door for a wider range of investors to tap into actively managed portfolios of alternative strategies, which have traditionally been reserved for high-net-worth individuals and institutional investors.\n\n**Background**: Initially conceived as a digital wealth management platform, Berilium combines fintech savvy with investment expertise to streamline the process of accessing complex investment opportunities. The platform’s design focuses on giving users a straightforward entry point into areas like private equity and credit—all while maintaining the quality of management you would expect from seasoned professionals.\n\n**Team**: At the helm is Aaron Epstein, who serves as the Group Partner. His experience and vision are vital as Berilium navigates the nuanced world of alternative investments.\n\n**Industry**: Positioned at the intersection of fintech and investing, Berilium is part of a burgeoning trend towards more accessible investment solutions, particularly for those who may not have the typical wealth to participate in such markets.\n\nBerilium is making waves in L.A.'s financial scene, and with the combination of a reduced investment barrier and a solid management approach, they offer a compelling alternative for aspiring investors. Keep an eye on them as they rise in the fintech landscape."
+}

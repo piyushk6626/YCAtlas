@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/malloc",
+  "name": "Malloc",
+  "headline": "AI-driven startup focused on mobile and app security.",
+  "batch": "S21",
+  "description": "Malloc aims to help people companies and organisations protect their apps, their devices and their data. The Malloc app available in AppStore and PlayStore helps you stay safe and private online by blocking spyware and online threats. Malloc App Security is an SDK library that other app owners can use to protect their app from hacking attempts.",
+  "activity_status": "Active",
+  "website": "https://mallocprivacy.com/",
+  "founded_date": 2021.0,
+  "team_size": 7.0,
+  "location": "Nicosia, Cyprus",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:machine-learning; industry:saas; industry:consumer; industry:security",
+  "founders": [
+    {
+      "name": "Maria Terzi, Founder",
+      "description": "Maria Terzi is the co-founder and CEO of Malloc. Maria holds a Ph.D. in Machine Learning and Recommender Systems. During her Ph.D., she won two Google hackathons and has previously worked at Google. Maria holds extensive experience in R&D in the areas of data analysis, machine learning, secure and private AI.",
+      "linkedin": "https://www.linkedin.com/in/maria-terzi/"
+    },
+    {
+      "name": "Liza Charalambous, Founder",
+      "description": "Liza Charalambous is a Digital Security expert with 8+ years of experience in the ideation and implementation of (cyber) security projects. Liza holds a PhD in machine learning, as well as academic titles in signal processing and AI and digital communications. Over the years, she collaborated with various privately owned and public organizations to provide solutions that improve users’ quality of life.",
+      "linkedin": "https://www.linkedin.com/in/lzcharalambous/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[ ](https://mallocprivacy.com/<#top>)\\n[ ![Post image](https://www.mallocprivacy.com/assets/img/landing/ios/Asset 2.svg) ![Post image](https://www.mallocprivacy.com/assets/img/landing/ios/malloc_full_logo.svg) ](https://mallocprivacy.com/<https:/www.mallocprivacy.com/>)\\n  * [Why Malloc? ](https://mallocprivacy.com/<https:/www.mallocprivacy.com/why-malloc>)\\n  * [Products](https://mallocprivacy.com/<https:/www.mallocprivacy.com/mobile-security>)\\n    * [Mobile Security](https://mallocprivacy.com/<https:/www.mallocprivacy.com/mobile-security>)\\n    * [For Android](https://mallocprivacy.com/<https:/www.mallocprivacy.com/mobile-security/android>)\\n    * [For iOS](https://mallocprivacy.com/<https:/www.mallocprivacy.com/mobile-security/ios>)\\n  * [Business](https://mallocprivacy.com/<https:/www.mallocprivacy.com/enterprises>)\\n  * [Help](https://mallocprivacy.com/<https:/help.mallocprivacy.com/>)\\n\\n\\n  * [Login](https://mallocprivacy.com/</login>)\\n\\n\\n' markdown_with_citations=' ⟨1⟩\\n ![Post image⟨2⟩ ![Post image⟨3⟩] ](https://mallocprivacy.com/<https:/www.mallocprivacy.com/>)\\n  * Why Malloc? ⟨4⟩\\n  * Products⟨5⟩\\n    * Mobile Security⟨5⟩\\n    * For Android⟨6⟩\\n    * For iOS⟨7⟩\\n  * Business⟨8⟩\\n  * Help⟨9⟩\\n\\n\\n  * Login⟨10⟩\\n\\n\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://mallocprivacy.com/<#top>:  \\n⟨2⟩ https://www.mallocprivacy.com/assets/img/landing/ios/Asset 2.svg:  ![Post image\\n⟨3⟩ https://www.mallocprivacy.com/assets/img/landing/ios/malloc_full_logo.svg: Post image\\n⟨4⟩ https://mallocprivacy.com/<https:/www.mallocprivacy.com/why-malloc>: Why Malloc? \\n⟨5⟩ https://mallocprivacy.com/<https:/www.mallocprivacy.com/mobile-security>: Products\\n⟨6⟩ https://mallocprivacy.com/<https:/www.mallocprivacy.com/mobile-security/android>: For Android\\n⟨7⟩ https://mallocprivacy.com/<https:/www.mallocprivacy.com/mobile-security/ios>: For iOS\\n⟨8⟩ https://mallocprivacy.com/<https:/www.mallocprivacy.com/enterprises>: Business\\n⟨9⟩ https://mallocprivacy.com/<https:/help.mallocprivacy.com/>: Help\\n⟨10⟩ https://mallocprivacy.com/</login>: Login\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Malloc is a promising AI-driven startup specializing in mobile and app security. Founded in 2021 and hailing from Nicosia, Cyprus, Malloc is part of the Y Combinator Batch S21, a testament to its innovative approach and potential for impact.\n\nAt its core, Malloc aims to empower individuals and organizations to safeguard their apps, devices, and personal data. This is particularly crucial in today's digital landscape, where online threats are increasingly prevalent. Their flagship product, the Malloc app, is designed to enhance online safety by blocking spyware and various cyber threats, available for download on both the App Store and Play Store. \n\nFurthermore, Malloc provides an SDK library known as Malloc App Security, which app developers can integrate into their applications to fortify them against hacking attempts. This dual offering caters effectively to both consumers looking for personal security and businesses aiming to protect their applications from vulnerabilities.\n\nWith a compact team of seven and supported by Group Partner Nan, Malloc is making strides in the fields tagged as machine learning, SaaS, consumer security, and more. If you want to learn more about what Malloc has to offer, you can visit their website at [mallocprivacy.com](https://mallocprivacy.com/) where you'll find resources on their products, business opportunities, and support services.\n\nIn essence, Malloc represents a thoughtful step towards making the ever-expanding mobile ecosystem safer for everyone, proving that strong security can, and should, be accessible to all."
+}

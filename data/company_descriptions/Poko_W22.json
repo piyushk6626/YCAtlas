@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/poko",
+  "name": "Poko",
+  "headline": "Seamless Fiat Payments for Web3",
+  "batch": "W22",
+  "description": "Poko enables seamless transfers from local payment rails to web3 infrastructure enabling web3 wallets, marketplaces, games and DApps to acquire more users. With Poko’s SDK, web3 builders can easily enable fiat-to-crypto onramping with 100+ common local payment methods or easily pay for NFTs with local payment methods. Poko's fiat-to-cryptoonramp aggregator reduces onramping costs by up to 70% and increases transaction success rates by up to 5x through a smart routing logic and a single integration to multiple onramps. It's Direct Checkout solution enables one step purchasing from fiat payment rails from any smart contract for 79% higher user conversion. The co-founders’ experience includes being chief strategy officer of a $2.4B coincap protocol, leading technical implementation of Singapore’s central bank’s experiment in cross-border payments on blockchain rails, policy experience as payments task force member at the World Economic Forum, ex-Ethereum Foundation Fellow, and CTO of a 2M+ user play to earn game.",
+  "activity_status": "Active",
+  "website": "http://www.pokoapp.xyz",
+  "founded_date": 2021.0,
+  "team_size": 10.0,
+  "location": "Singapore, Singapore",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:crypto-web3; industry:payments; industry:gaming; industry:creator-economy",
+  "founders": [
+    {
+      "name": "Geoffrey See, Founder",
+      "description": "Chief Strategy Officer and founding team of $2.4B coin cap (at peak) protocol Zilliqa. Launched a digital identity product and onboarded 20M users in India/Vietnam in 1 year. I am a former Ethereum Foundation Fellow, World Economic Forum Council member for Cross-Border Digital Payments and Digital Currency, and a Kauffman Fellow. At Bain & Co., I worked on private equity, technology and retail. I graduated from Wharton and Yale.",
+      "linkedin": "https://www.linkedin.com/in/geoffreysee/"
+    },
+    {
+      "name": "Van Tran, Founder",
+      "description": "Van Tran has spent the last 3 years leading marketing strategy and growth for Netflix Southeast Asia and Australia to establish Netflix presence and build up fan communities in the region. Previously, she worked on building student communities for the first liberal art college in Singapore Yale-NUS. She also has experience working in management consulting at Bain & Co. and product manager at Amazon.",
+      "linkedin": "https://www.linkedin.com/in/tranngocvan210/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "**Poko: Making Web3 Accessible through Seamless Fiat Payments**\n\nFounded in 2021 and hailing from Singapore, Poko is on a mission to bridge the gap between traditional finance and the decentralized world of Web3. As part of Y Combinator's W22 batch, the company has quickly established itself as an innovative player in the crypto landscape, focusing on simplifying fiat-to-crypto transactions.\n\nPoko empowers web3 developers with its robust SDK, enabling them to integrate fiat onramps with over 100 local payment methods. This is a game-changer for wallets, marketplaces, games, and decentralized apps (DApps) looking to expand their user base. What sets Poko apart is its powerful aggregator that slashes onramping costs by up to 70% and boosts transaction success rates by up to 5x, thanks to smart routing logic and a streamlined integration process.\n\nOne of the standout features of Poko is its Direct Checkout solution. This enables users to purchase directly from any smart contract with a single fiat transaction, leading to a remarkable 79% increase in conversion rates. That's significant—especially in the often-fragmented world of digital currencies.\n\nThe co-founders bring a wealth of experience to the table. Their backgrounds include high-level positions at a $2.4 billion protocol, significant contributions to Singapore's blockchain-based cross-border payments experiment, and advisory roles at the World Economic Forum. With a team of just 10, they are lean but loaded with expertise—perfect for navigating the complex world of crypto payments.\n\nPoko is sitting at the intersection of several exciting domains, categorized under developer tools, crypto, Web3 payments, gaming, and the creator economy. \n\nIn summary, if you're a developer looking to enhance your platform's onboarding process or a user wanting to make crypto transactions as smooth as possible, Poko is definitely one to watch. You can check them out at [pokoapp.xyz](http://www.pokoapp.xyz)."
+}

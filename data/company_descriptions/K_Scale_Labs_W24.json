@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/k-scale-labs",
+  "name": "K-Scale Labs",
+  "headline": "Open-source humanoid robots",
+  "batch": "W24",
+  "description": "We're building humanoid robots to do most of what you find boring or tedious. We have an open-source design which we are releasing to the public, which is capable of walking, talking and manipulating objects.",
+  "activity_status": "Active",
+  "website": "https://kscale.dev/",
+  "founded_date": 2024.0,
+  "team_size": 10.0,
+  "location": "Palo Alto",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:machine-learning; industry:robotics; industry:consumer; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Benjamin Bolte, Founder",
+      "description": "AI researcher and engineer from Tesla, Meta, Google and Amazon",
+      "linkedin": "https://linkedin.com/in/benjaminbolte"
+    },
+    {
+      "name": "Pawel Budzianowski, Founder",
+      "description": "ML in research and production, previously head of ML at PolyAI, Cambridge PhD.",
+      "linkedin": null
+    },
+    {
+      "name": "Matthew Freed, Founder",
+      "description": "MechE + AI",
+      "linkedin": null
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' markdown_with_citations='## Application error: a client-side exception has occurred (see the browser console for more information).\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "K-Scale Labs is a forward-thinking company that emerged from the bustling tech hub of Palo Alto in 2024, part of the Y Combinator Batch W24. Their mission? To unleash the potential of open-source humanoid robots capable of tackling all those boring and tedious tasks that fill our days. \n\nWith a team of just ten dedicated employees, K-Scale Labs is ambitiously designing robots that can walk, talk, and interact with their environment — all based on an open-source framework that they’re eager to share with the world. By democratizing access to their technology, they aim not just to innovate, but to inspire a larger movement in robotics.\n\nThe company is skillfully navigating intersections in machine learning, AI, and consumer robotics. They’re tagged in several key areas: 'machine-learning', 'robotics', 'consumer', 'ai', and they’re rooted in the vibrant San Francisco Bay Area. Harj Taggar, their Group Partner, is providing invaluable guidance as they push the boundaries of what humanoid robots can achieve.\n\nFor more information or to explore their work, check out their website at [K-Scale Labs](https://kscale.dev/). With the open-source model, who knows? You might just get inspired to build the next generation of robots alongside them."
+}

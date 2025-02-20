@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/baserun",
+  "name": "Baserun",
+  "headline": "Observability and evaluation platform for LLM apps.",
+  "batch": "S23",
+  "description": "LLMs are incredibly powerful, but latency, cost, and unpredictable outputs have made productionizing LLM features challenging. Baserun is a testing and observability platform that helps AI teams streamline their development cycle from identifying an issue to evaluating their solution, so that teams ship faster with confidence.",
+  "activity_status": "Active",
+  "website": "https://baserun.ai",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:b2b; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Effy Zhang, Founder",
+      "description": "CEO and co-founder of Baserun",
+      "linkedin": "https://linkedin.com/in/effyz"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "**Baserun: Revolutionizing LLM Development**\n\nBaserun, founded in 2023, is carving out its niche in the realm of Large Language Models (LLMs) with a mission to enhance observability and evaluation for LLM applications. Recognizing the immense potential of LLMs, the team at Baserun is acutely aware of the hurdles faced in production environments—namely latency, cost, and the unpredictability of outputs. This is where Baserun steps in, offering a robust testing and observability platform designed to streamline the development process for AI teams.\n\nLocated in the heart of San Francisco, Baserun is part of the Y Combinator Batch S23, which adds a layer of credibility and innovation to their venture. The company, while small with just two employees, has ambitious plans to build a tool that empowers teams to identify issues and evaluate their solutions effectively, enabling quicker and more confident shipping of LLM features.\n\nTheir focus on developer tools and AI operations positions Baserun as a player in the B2B landscape, catering specifically to those who are pushing the boundaries of artificial intelligence.\n\nWith Harj Taggar as their Group Partner, Baserun is in good hands as they navigate the complex AI ecosystem in the San Francisco Bay Area. For more insights into their journey and offerings, check out their website at [baserun.ai](https://baserun.ai).\n\nIn essence, Baserun is tackling the real pains of LLM production, making it easier for developers to harness the power of AI without getting bogged down by the technical challenges. Keep an eye on them—this small team is poised to make a significant impact in the AI landscape."
+}

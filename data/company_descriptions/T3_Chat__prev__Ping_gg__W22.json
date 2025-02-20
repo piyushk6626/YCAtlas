@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/t3-chat-prev-ping-gg",
+  "name": "T3 Chat (prev. Ping.gg)",
+  "headline": "Tools for creators and developers",
+  "batch": "W22",
+  "description": "We made:\r\nT3.Chat - The fastest AI chat bot ever\r\nUploadThing - File uploads for full-stack developers\r\nPicThing - Background removal for content creators\r\nPing.gg - Live collaboration for streamers and podcasters",
+  "activity_status": "Active",
+  "website": "https://t3.chat",
+  "founded_date": 2021.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:video; industry:media; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Theo Browne, Founder",
+      "description": "CEO @ Ping Labs\n\nIf you're a developer, you've probably seen me on YouTube or Twitter. I care deeply about software tools and media, and I run into a lot of issues with both.\n\nUsed to work at Twitch. Built tools creators needed on my own. Those tools got popular, and now I'm a CEO?",
+      "linkedin": "https://www.linkedin.com/in/t3gg/"
+    },
+    {
+      "name": "Mark Florkowski, Founder",
+      "description": "CTO @ Ping Labs\nPreviously - Support Engineer @ Retool (W17)\n\nOnly member of the Ping Labs founding team whose name is a valid scrabble word.",
+      "linkedin": "https://www.linkedin.com/in/mark-r-florkowski/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**T3 Chat: Empowering Creators and Developers**\n\nT3 Chat, formerly known as Ping.gg, launched in 2021 with a mission to provide essential tools for creators and developers. Founded in the heart of San Francisco and backed by Y Combinator's Batch W22, this agile startup is shaping the landscape of digital collaboration.\n\n### What They Offer\n\nUnder the T3 Chat umbrella, they’ve developed a suite of innovative products:\n\n- **T3.Chat**: Claimed to be the fastest AI chatbot on the market, it leverages advanced technology to enhance user interactions.\n  \n- **UploadThing**: A smooth file upload service tailored for full-stack developers, making data handling seamless.\n  \n- **PicThing**: A tool designed for content creators that simplifies background removal, adding a professional touch to visuals effortlessly.\n\n- **Ping.gg**: Initially focused on live collaboration tailored for streamers and podcasters, the core philosophy remains rooted in enhancing interactive experiences.\n\nWith a small but dedicated team of two, T3 Chat is nimble enough to adapt quickly while still focusing on making a significant impact in the realms of video and media, particularly in the San Francisco Bay Area. They are partnered with nan, which suggests they have some solid backing as they navigate the ever-evolving tech landscape.\n\nFor more insights and to explore their offerings, visit [T3.Chat](https://t3.chat). \n\nIn a nutshell, T3 Chat isn't just about tools; they're about empowering the creative process for developers and content creators alike."
+}

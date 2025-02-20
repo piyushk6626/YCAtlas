@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/gojom",
+  "name": "GoJom",
+  "headline": "One-stop-shop for Real Estate Solutions.",
+  "batch": "W22",
+  "description": "GoJom is a One Stop Shop for Real Estate Solutions. It’s technology creates a  faster and easier way to buy, sell and rent properties in LaTam.",
+  "activity_status": "Active",
+  "website": "https://gojom.com",
+  "founded_date": 2020.0,
+  "team_size": 140.0,
+  "location": "Lima, Peru",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:machine-learning; industry:proptech",
+  "founders": [
+    {
+      "name": "Andrés González - Olaechea, Founder",
+      "description": "Entrepreneur with experience as investment banker and asset manager in U.S and LaTam.",
+      "linkedin": "https://linkedin.com/in/andr%C3%A9s-gonz%C3%A1lez-olaechea-837736b4"
+    },
+    {
+      "name": "Horacio Faudella, Founder",
+      "description": "Serial digital entrepreneur since 1997:\nAdonde.com 1997, first search engine in Peru for 10 years.\nAdondeVivir.com, Peru's leading real estate portal, first exit in Peru.\nTurismoi.com, global distribution platform for tours in +10 countries.\n\nAward-winning startups such as the BID Challenge Network with AdondeCompras.com in 2005, Digi Award (IAB PE) 2010 - AdondeVivir.com, 1st place of the Venture Day of IE Business School (Madrid) 2014 - Turismoi.es, Creatividad Empresarial 2019 - Turismoi.pe.",
+      "linkedin": "https://www.linkedin.com/in/horacio-faudella/"
+    },
+    {
+      "name": "William Wong Garay, Founder",
+      "description": "I am an entrepreneur and self-taught, with more than 15 years of experience in Web Developer.  I have worked in high-impact and highly scalable startups such as AdondeVivir.com and Turismoi.  I am currently Co-Founder and CTO of GoJom (part of Y Combinator W22) - one-stop-shop for real estate in Latam.",
+      "linkedin": "https://www.linkedin.com/in/willywg/"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "GoJom is an innovative real estate platform that positions itself as a one-stop-shop for all property needs in Latin America. Established in 2020 and based in Lima, Peru, this company was part of Y Combinator's W22 batch, which gave it a significant boost in both credibility and resources.\n\nThe essence of GoJom lies in its technology-driven approach that simplifies the processes of buying, selling, and renting properties. By leveraging machine learning and fintech solutions, the company aims to make real estate transactions faster and more user-friendly, particularly in a region where such transformations are much needed.\n\nWith a team of around 140 employees, GoJom is poised for growth and expansion in the proptech landscape. The company seeks to modernize real estate interactions by offering innovative solutions that make transactions smoother for all parties involved. You can check them out at [gojom.com](https://gojom.com).\n\nOverall, GoJom is not just about real estate; it's about reshaping how people engage with property in Latin America, making it more accessible and efficient."
+}

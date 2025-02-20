@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/solstar",
+  "name": "SolStar",
+  "headline": "Buy and send crypto to friends on Discord.",
+  "batch": "S22",
+  "description": "SolStar makes it possible for anyone to use crypto—even your grandpa!\r\n\nAll you need to get started is a credit card. Skip the confusing steps above and dive in right away with a secure, approachable tool that makes crypto fun. You can add SolStar Tip Bot to your Discord, check your balance, and send a tip to a friend all within a few minutes.",
+  "activity_status": "Active",
+  "website": "https://solstar.finance",
+  "founded_date": 2021.0,
+  "team_size": 2.0,
+  "location": "Monterey, CA",
+  "group_partner": "Harj Taggar",
+  "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:crypto-web3; industry:consumer; industry:community; industry:no-code",
+  "founders": [
+    {
+      "name": "Ryan Endacott, Founder",
+      "description": "Co-Founder and CEO of SolStar, Ryan is an engineer with a longtime history as a community builder. Before SolStar, he was a Senior Software Engineer at Loon (Google X), where he worked on Mission Control systems. He helped found the annual University of Missouri hackathon TigerHacks and rebuilt the Mizzou Computing Association from the ground up to empower students to learn coding skills not taught in the classroom. He loves building community tools, and is the creator of solfaucet.com.",
+      "linkedin": "https://www.linkedin.com/in/ryan-endacott-26786255/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='This service has been suspended by its owner. \\n' markdown_with_citations='This service has been suspended by its owner. \\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "SolStar is a unique player in the growing world of cryptocurrency, particularly aimed at making it accessible for everyone, even those who might be intimidated by the technology—like your grandpa. Founded in 2021 and part of the Y Combinator Batch S22, SolStar is based in Monterey, CA, and operates with a lean team of just two employees.\n\nThe company’s mission is clear: to simplify the process of buying and sending cryptocurrency through the popular platform Discord. They designed the SolStar Tip Bot to enable users to easily check their balances and send tips to friends using just a credit card. This makes diving into the crypto world a straightforward and enjoyable experience, eliminating the usual confusing steps associated with crypto transactions.\n\nSolStar is classified under tags like fintech, crypto-web3, consumer, community, and no-code, highlighting its focus on user-friendliness and accessibility in the financial technology space. Harj Taggar serves as their Group Partner, lending experience and guidance as they navigate the complexities of the fintech ecosystem.\n\nWith its innovative approach and dedication to inclusivity, SolStar is paving the way for a broader audience to participate in the cryptocurrency movement. You can find more about them at their website: https://solstar.finance."
+}

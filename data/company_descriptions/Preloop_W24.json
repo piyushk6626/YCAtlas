@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/preloop",
+  "name": "Preloop",
+  "headline": "Translate your experimental scripts into production ML services",
+  "batch": "W24",
+  "description": "Only 2 out of 10 ML models make it from experiment to production. Preloop helps automate the process of deployment, helping companies realize more value from their machine learning teams, while focusing teams' attention on science instead of engineering.",
+  "activity_status": "Active",
+  "website": "https://www.preloop.com",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": null,
+  "group_partner": "Diana Hu",
+  "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:deep-learning; industry:developer-tools; industry:machine-learning; industry:data-science",
+  "founders": [
+    {
+      "name": "Tejas Hosangadi, Founder",
+      "description": "Tejas is the co-founder and CEO of Preloop, a product that automatically translates ML experimental scripts into production services. Before Preloop, he worked at Amazon where he scaled a data science team from 0-1, delivering 4 projects in the first year and leading the expansion of the team. He also worked as a senior MLE at EvolutionIQ, where he made significant improvements to a predictive model in his first month, helping them land a long term contract with Prudential.",
+      "linkedin": "https://linkedin.com/in/tejashosangadi"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"404\\n# Page not found\\nThe page you are looking for doesn't exist or has been moved.\\n\" markdown_with_citations=\"404\\n# Page not found\\nThe page you are looking for doesn't exist or has been moved.\\n\" references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Preloop: Streamlining ML Deployment**\n\nFounded in 2023 and part of the Y Combinator Batch W24, Preloop is on a mission to bridge the gap between experimental machine learning (ML) models and their deployment into production. The company was born from the compelling observation that only about 20% of ML models successfully transition from experimentation to real-world application. With a team of just two employees, Preloop focuses on automating the deployment process, allowing companies to extract more value from their ML teams. \n\nThe ethos at Preloop is to keep the spotlight on scientific exploration rather than the engineering nuances of deployment. This lets data scientists devote their energy to refining algorithms while Preloop takes care of getting those models into action. \n\nLocated in an undisclosed area (nan), Preloop’s work speaks to the challenges many companies face in the AI landscape. They are tagged with keywords like 'artificial-intelligence', 'deep-learning', 'developer-tools', 'machine-learning', and 'data-science', highlighting their multi-faceted approach to the ML ecosystem.\n\nOn the advisory front, they have Diana Hu as their Group Partner, lending her expertise to guide the budding startup. If you're interested in learning more about their offerings and vision, check out their website at [preloop.com](https://www.preloop.com). \n\nIn a nutshell, Preloop is positioned at the intersection of AI automation and practical deployment, a key contender in a field that's growing increasingly crucial in the tech landscape."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/medium-biosciences",
+  "name": "Medium Biosciences",
+  "headline": "AI-designed Protein Therapeutics",
+  "batch": "S21",
+  "description": "We develop AI models & new assays to create functional, therapeutic proteins.",
+  "activity_status": "Active",
+  "website": "http://medium.bio",
+  "founded_date": 2021.0,
+  "team_size": 6.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:ai-powered-drug-discovery; industry:machine-learning; industry:biotech; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Adil Yusuf, Founder",
+      "description": "MIT Computer Science and Electrical Engineering alum with a focus in machine learning and protein design. I'm particularly interested in applications in industrial chemicals, drug development, and agriculture. Working on Medium Biosciences to accelerate protein design 🚀",
+      "linkedin": "https://www.linkedin.com/in/adil-yusuf"
+    },
+    {
+      "name": "Mohamed Hassan Kane, Founder",
+      "description": "I studied Computer Science at MIT before diving in the startup world. Over the past few years, I have published 8 AI papers and led engineering & ML teams. I am attracted to solving challenging technical problems with a positive impact on human and planetary health.",
+      "linkedin": "https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a?trk=nav_responsive_tab_profile"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[Home](http://medium.bio/<#home>) [Contact](http://medium.bio/<#contact>) [Careers](http://medium.bio/<https:/mediumbio.notion.site/Join-Us-0ed1a7aa955144f2944db325902afb74>)\\nMedium Biosciences \\nAI-designed Protein Therapeutics \\nYour browser does not support the video tag. \\nOur Backers: \\n![Y Combinator](http://medium.bio/imgs_invert/yc_inv.png) ![AIX Ventures](http://medium.bio/imgs_invert/aix_inv.png) ![E14](http://medium.bio/imgs_invert/e14_inv.png) ![Village Global](http://medium.bio/imgs_invert/village_inv.png) ![Emily LeProust](http://medium.bio/imgs_invert/emily_inv.png)\\nCONTACT at: founders@medium.bio\\n' markdown_with_citations='Home⟨1⟩ Contact⟨2⟩ Careers⟨3⟩\\nMedium Biosciences \\nAI-designed Protein Therapeutics \\nYour browser does not support the video tag. \\nOur Backers: \\n![Y Combinator⟨4⟩] ![AIX Ventures⟨5⟩] ![E14⟨6⟩] ![Village Global⟨7⟩] ![Emily LeProust⟨8⟩]\\nCONTACT at: founders@medium.bio\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ http://medium.bio/<#home>: Home\\n⟨2⟩ http://medium.bio/<#contact>: Contact\\n⟨3⟩ http://medium.bio/<https:/mediumbio.notion.site/Join-Us-0ed1a7aa955144f2944db325902afb74>: Careers\\n⟨4⟩ http://medium.bio/imgs_invert/yc_inv.png: Y Combinator\\n⟨5⟩ http://medium.bio/imgs_invert/aix_inv.png: AIX Ventures\\n⟨6⟩ http://medium.bio/imgs_invert/e14_inv.png: E14\\n⟨7⟩ http://medium.bio/imgs_invert/village_inv.png: Village Global\\n⟨8⟩ http://medium.bio/imgs_invert/emily_inv.png: Emily LeProust\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Medium Biosciences: Redefining Protein Therapeutics with AI**\n\nFounded in 2021 and hailing from the bustling innovation hub of San Francisco, Medium Biosciences is on a mission to revolutionize the field of biomedicine with its AI-designed protein therapeutics. As part of Y Combinator’s Summer 2021 batch, the company has gained a solid footing in the biotech landscape, armed with a team of six talented individuals dedicated to transforming the way therapeutic proteins are developed.\n\nAt its core, Medium Biosciences combines cutting-edge artificial intelligence and advanced assays to create functional therapeutic proteins. This approach not only streamlines the discovery process but also enhances the precision and efficacy of the treatments they develop. They are tagged with keywords like 'AI-powered drug discovery', 'machine learning', and 'biotech', reflecting their forward-thinking ethos and technological backbone.\n\nThe company has attracted notable backers including Y Combinator, AIX Ventures, E14, Village Global, and Emily LeProust, which highlights the confidence investors have in their vision and capabilities.\n\nTo learn more or explore career opportunities, visit their website at [medium.bio](http://medium.bio). For inquiries, you can reach out to them at founders@medium.bio. If you're interested in the intersection of AI and life sciences, this is a company worth keeping an eye on."
+}

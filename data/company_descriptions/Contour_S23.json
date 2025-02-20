@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/contour",
+  "name": "Contour",
+  "headline": "Stealth",
+  "batch": "S23",
+  "description": null,
+  "activity_status": "Active",
+  "website": "https://",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:generative-ai; industry:b2b; industry:workflow-automation; industry:enterprise-software; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Arvind Subramanian, Founder",
+      "description": "Co-founder/CEO @ Contour",
+      "linkedin": "https://linkedin.com/in/arvind-subramanian"
+    },
+    {
+      "name": "Vamsi Saladi, Founder",
+      "description": "I'm a Software Engineer and Data Scientist, am the cofounder of a new startup. I graduated from Stanford University in June 2021 with a BS in Computer Science, and in June 2022 with an MS in Computer Science - Machine Learning and Artificial Intelligence. My research focused primarily on computer vision and natural language processing, and applying new technologies in both fields to solve practical problems.",
+      "linkedin": "https://linkedin.com/in/vamsisaladi99"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "**Contour: A Brief Overview**\n\nFounded in 2023, Contour is a fresh player in the tech scene, emerging from the dynamic Y Combinator Batch S23. Based in San Francisco, this agile startup operates with a lean team of just two employees, allowing them to stay nimble and focused.\n\nContour is all about \"Stealth\"—a mission that suggests they're working on something groundbreaking behind the scenes. While details on their current activities are sparse, the company is positioned in the vibrant intersection of generative AI and workflow automation. Their area of expertise caters primarily to B2B (business-to-business) scenarios, making them a potential game-changer in enterprise software solutions.\n\nJared Friedman leads the charge as the Group Partner, bringing experience and mentorship from Y Combinator, which often nurtures some of Silicon Valley's most innovative startups.\n\nWith tags like 'generative-ai', 'b2b', and 'enterprise-software', Contour is set up for exciting growth in an industry ripe with opportunity. Keep an eye on them—their stealth mode could mean they're developing something worth talking about soon!"
+}

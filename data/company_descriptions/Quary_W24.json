@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/quary",
+  "name": "Quary",
+  "headline": "The first in-browser analytics engineering platform",
+  "batch": "W24",
+  "description": "Quary is the first analytics engineering platform that brings the entire model-test-deploy workflow into the browser. \r\n\nAt our first customer, a fast-growing fintech company, Quary empowers analysts in the growth team to self-serve, contribute, and reduce reliance on the data engineering team, letting teams ship metrics faster & executives get answers sooner",
+  "activity_status": "Active",
+  "website": "https://www.quary.dev",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": "London, United Kingdom",
+  "group_partner": "Brad Flora",
+  "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:analytics; industry:data-science; industry:data-engineering; industry:ai",
+  "founders": [
+    {
+      "name": "Benjamin King, Founder",
+      "description": "American and British Luxembourger. Failed physicist. Cofounder and ex-CTO of Tumelo. Now working on Quary.",
+      "linkedin": "https://linkedin.com/in/benfking"
+    },
+    {
+      "name": "Louis Jordan, Founder",
+      "description": "Ex-Amazon (Data/Fintech)",
+      "linkedin": "https://www.linkedin.com/in/louisjor/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Quary is an innovative company that positions itself as the first in-browser analytics engineering platform. Founded in 2023 and based in London, United Kingdom, Quary emerged out of the Y Combinator Batch W24, which is a notable incubator known for fostering startups with high potential.\n\nAt its core, Quary simplifies the workflow involved in analytics by bringing the entire model-test-deploy process directly into users' browsers. This approach makes it easier for analysts—especially in fast-paced environments like fintech—to self-serve their analytics needs. By doing this, Quary reduces the reliance on data engineering teams, allowing organizations to ship metrics more swiftly and enable executives to get answers without unnecessary delays.\n\nCurrently, Quary operates with a small but focused team of two employees. Under the guidance of their Group Partner, Brad Flora, the company is carving a niche in the realms of artificial intelligence, analytics, data science, and data engineering. Their mission resonates with a broader trend in tech: empowering users with tools that streamline workflows and enhance decision-making.\n\nFor anyone interested in exploring their offerings further, you can check out their website at [quary.dev](https://www.quary.dev). It’s worth keeping an eye on Quary as they develop their platform and continue to evolve in the competitive landscape of data analytics.\n"
+}

@@ -1,0 +1,37 @@
+{
+  "links": "https://www.ycombinator.com/companies/dawn",
+  "name": "dawn",
+  "headline": "Analytics for AI products.",
+  "batch": "W24",
+  "description": "Make meaning out of billions of tokens.\r\n\nDawn is the analytics platform for AI products.\r\nWe transform user requests and model outputs into metrics you'll actually care about.",
+  "activity_status": "Active",
+  "website": "https://www.dawnai.com/",
+  "founded_date": 2023.0,
+  "team_size": 5.0,
+  "location": null,
+  "group_partner": "Diana Hu",
+  "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Zubin Koticha, Founder",
+      "description": "Building Dawn – analytics for AI products.\n\nPrev. cofounder & CEO of Opyn, the first and largest DeFi options platform, which grew to Series B stage with $15 + billion volume.\n\nStudied UC Berkeley.",
+      "linkedin": "https://linkedin.com/in/zkoticha"
+    },
+    {
+      "name": "Alexis Gauba, Founder",
+      "description": "Building Dawn -- a platform + api where companies can categorize anything. Previously Co-Founder at Opyn, the first and largest DeFi options platform (series B, $15b+ volume), inventing a new financial asset class known as the power perpetual (an option that has no expiry). Dropped out of UC Berkeley EECS",
+      "linkedin": "https://linkedin.com/in/alexisgauba"
+    },
+    {
+      "name": "Ben Hylak, Founder",
+      "description": "building dawn -- a platform + api where companies can categorize anything.\n\nI was previously on the Human Interface team at Apple for 4 years, building out visionOS. \n\nbefore that, dabbled with robotics + avionics",
+      "linkedin": "https://linkedin.com/in/benhylak"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Dawn: Analytics for the AI Age**\n\nFounded in 2023 and proudly a part of Y Combinator's Batch W24, Dawn is carving a niche for itself in the rapidly evolving realm of artificial intelligence. At its core, Dawn is all about making sense of vast amounts of data—specifically, it focuses on transforming billions of tokens into meaningful insights for AI products.\n\nTheir mission? To create an analytics platform that translates user requests and model outputs into actionable metrics that really matter. In simpler terms, they're taking complex AI data and distilling it down to insights that users will actually find useful. This isn’t just about data; it’s about using data to drive better AI products and user experiences.\n\nDawn operates out of a small but dedicated team of five, led by Group Partner Diana Hu. This lean structure suggests they're agile and focused, which is often a hallmark of startups that aim to innovate at speed.\n\nIf you’re curious to see how they’re changing the game with analytics for AI, check them out at [dawnai.com](https://www.dawnai.com/). This is a company that's not just observing the AI landscape; they're actively helping to shape it."
+}

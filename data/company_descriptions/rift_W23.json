@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/rift",
+  "name": "rift",
+  "headline": "The sales platform built to help you focus",
+  "batch": "W23",
+  "description": "rift is a sales platform that helps salespeople focus on what they do best – selling.\r\n\nOn rift, you can accomplish everything you have to do to close deals - send emails, run sequences, cold call, and book meetings.\r\n\nThe difference is that rift automates everything in between. If your data is a bit messy - we’ll clean it for you. If it takes a long time to figure out who to reach out to - our platform will flag the most likely leads to engage. If your emails are landing in spam - rift will set up the infrastructure to make sure that you're not landing in spam because of incorrect setup.\r\n\nSales teams today spend 70% of their time not selling. rift’s mission is to give that time back to them so they can focus on selling again.",
+  "activity_status": "Active",
+  "website": "https://rift.com",
+  "founded_date": 2022.0,
+  "team_size": 8.0,
+  "location": "San Francisco",
+  "group_partner": "Gustaf Alstromer",
+  "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; industry:b2b; industry:sales; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Fil Twarowski, Founder",
+      "description": "CEO @ rift (W23)  ||  first biz hire @ Pulley (W20)  ||  CEO @ Point API (W18)  |  MIT '17",
+      "linkedin": "https://www.linkedin.com/in/filip-twarowski-00996a54/"
+    },
+    {
+      "name": "Edvard Eriksson, Founder",
+      "description": "Product and Growth at Rift. Formerly Growth at Samsara and Pulley.",
+      "linkedin": "https://www.linkedin.com/in/edvarderiksson/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# rift\\n## Sales platform coming soon.\\n' markdown_with_citations='# rift\\n## Sales platform coming soon.\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Rift: Streamlining Sales for Maximum Impact**\n\nRift is a dynamic sales platform revolutionizing the way sales professionals operate. Founded in 2022 and currently part of the Y Combinator Batch W23, Rift is based in San Francisco and boasts a talented team of 8 employees. The company is on a mission to help salespeople concentrate on what they do best: closing deals.\n\nIn the world of sales, inefficiency can be a significant roadblock. Research indicates that sales teams can spend up to 70% of their time on tasks that don't directly generate revenue. Rift addresses this issue head-on by automating the myriad tasks that salespeople need to manage—emailing, cold calling, sending sequences, and scheduling meetings. Instead of getting bogged down in administrative duties, sales reps can refocus their efforts on engaging with potential clients.\n\nOne of the standout features of Rift is its ability to clean and organize messy data. Sales professionals often struggle with identifying who to reach out to; Rift intelligently flags the most promising leads, making it easier to pinpoint high-value prospects. Plus, many sales emails get lost in spam filters due to improper setup. Rift ensures that your outreach lands in inboxes, not junk folders, by providing the necessary infrastructure to optimize email delivery.\n\nSo, if you're in sales, think of Rift as your new best friend—a tool designed to reclaim valuable time and enhance your selling strategy. With its innovative approach to automation and organization, Rift is poised to change the game for sales teams everywhere.\n\nFor more about Rift and to stay updated, visit [rift.com](https://rift.com)."
+}

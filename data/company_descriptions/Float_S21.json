@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/float",
+  "name": "Float",
+  "headline": "Supply chain finance for consumer brands",
+  "batch": "S21",
+  "description": "Float is Pipe for supply chain finance. We help fast-growing consumer brands unlock capital from their inventory. We pay their supplier invoices up front and enable them to pay for their inventory after they’ve sold it.",
+  "activity_status": "Active",
+  "website": "https://float.xyz",
+  "founded_date": 2021.0,
+  "team_size": 2.0,
+  "location": "Honolulu, HI",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:b2b; industry:e-commerce",
+  "founders": [
+    {
+      "name": "Rob LaFave, Founder",
+      "description": "Rob is a technologist, entrepreneur, investor, and urban farmer.\n\nHe also founded and sold one of Fast Company's Most Innovative Food Companies, Foodzie.com — an online marketplace for artisan foodcrafters.\n\nRob has been named an Inc Magazine Top 30 Under 30 Entrepreneur, BusinessWeek's Best Young Tech Entrepreneur, and Food & Wine Magazine's 40 Big Food Thinkers Under 40.",
+      "linkedin": "https://www.linkedin.com/in/roblafave"
+    },
+    {
+      "name": "Zachary Kim, Founder",
+      "description": "Founder and CTO of Float (S21). Zack started coding professionally in high school, was formerly the CTO of Zaarly, and was a founding member of the Ojemann Neurosurgical Research Group at the University of Colorado Health Sciences Center.",
+      "linkedin": "https://www.linkedin.com/pub/zachary-kim/3/a48/456"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# Site not found\\nLooks like you followed a broken link or entered a URL that doesn’t exist on Netlify.\\nIf this is your site, and you weren’t expecting a 404 for this path, please visit Netlify’s [“page not found” support guide](https://float.xyz/<https:/answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking>) for troubleshooting tips.\\nNetlify Internal ID: `01JMFDVYT23HTQVQMS2PH1FCMF`\\n' markdown_with_citations='# Site not found\\nLooks like you followed a broken link or entered a URL that doesn’t exist on Netlify.\\nIf this is your site, and you weren’t expecting a 404 for this path, please visit Netlify’s “page not found” support guide⟨1⟩ for troubleshooting tips.\\nNetlify Internal ID: `01JMFDVYT23HTQVQMS2PH1FCMF`\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://float.xyz/<https:/answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking>: “page not found” support guide\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Float: Simplifying Supply Chain Finance for Consumer Brands**\n\nFloat is a fintech startup on a mission to revolutionize supply chain finance specifically for fast-growing consumer brands. Founded in 2021 and part of the Y Combinator Batch S21, Float began life as a company focused on providing innovative solutions for unlocking capital tied up in inventory. \n\nThe fundamental idea behind Float is straightforward but powerful: they pay suppliers' invoices upfront, allowing brands to defer payment for their inventory until after they've successfully sold their products. This creates a smoother cash flow for brands, enabling them to grow without the typical financial constraints that often hold them back.\n\nFloat operates out of Honolulu, Hawaii, with a lean team of just two employees. The company is backed by Gan, its Group Partner, bringing valuable insight and support. \n\nIn terms of focus, Float sits at the intersection of B2B e-commerce and fintech—tagging itself as a solution provider that facilitates easier financial transactions for brands needing to manage their supply chain and inventory effectively.\n\nWhile their website seems to have encountered some issues recently, the core service that Float provides is undoubtedly beneficial for emerging consumer brands looking to optimize their financial strategy.\n\nFor more information about Float, you can check out their [website](https://float.xyz), although you may need to be patient while they resolve their site issues."
+}

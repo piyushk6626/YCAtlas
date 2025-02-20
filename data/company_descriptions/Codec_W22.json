@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/codec",
+  "name": "Codec",
+  "headline": "Tools and APIs for video intelligence",
+  "batch": "W22",
+  "description": "Codec provides access to video intelligence tools and APIs covering use cases like search, annotation, classification and analytics.",
+  "activity_status": "Active",
+  "website": "https://codec.io",
+  "founded_date": 2022.0,
+  "team_size": 2.0,
+  "location": "Palo Alto",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:video; industry:ai; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Merwane Drai, Founder",
+      "description": "merwane.com",
+      "linkedin": null
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown=\"[](https://codec.io/</>)\\n[Talk to us](https://codec.io/</start>)\\n# Tools and APIs for video intelligence\\nCodec provides access to video intelligence tools and APIs covering use cases like search, annotation, classification and analytics.\\n[Talk to us](https://codec.io/</start>)\\n![a video timeline](https://codec.io/_next/image?url=%2Fimages%2Fhero.png&w=3840&q=75)\\n[Get started on Codec](https://codec.io/</start>)\\n## FAQ\\nHow much does it cost?We'll charge you depending on your usage.\\nSo how much?Say you want to search through 1000 hours of video. We'll charge you $5/hr indexed.\\nWhat's an example use case?Semantic search over terabytes of video.\\nWhat's another use case?Data extraction and analytics from large amounts of video.\\nDo you support live video?Not yet. If you need it, reach out and we'll ship it for you.\\nCan it be used to automatically annotate video?Yeah.\\nCodec is a [Y Combinator](https://codec.io/<https:/www.ycombinator.com>) company run by [Merwane Drai](https://codec.io/<https:/x.com/merwanedr>) and [Connor Lurring](https://codec.io/<https:/x.com/connorl__>).\\n© 2025 Armada Labs Inc\\ncontact[updates](https://codec.io/<https:/x.com/codec_hq>)\\n\" markdown_with_citations=\"[](https://codec.io/</>)\\nTalk to us⟨1⟩\\n# Tools and APIs for video intelligence\\nCodec provides access to video intelligence tools and APIs covering use cases like search, annotation, classification and analytics.\\nTalk to us⟨1⟩\\n![a video timeline⟨2⟩]\\nGet started on Codec⟨1⟩\\n## FAQ\\nHow much does it cost?We'll charge you depending on your usage.\\nSo how much?Say you want to search through 1000 hours of video. We'll charge you $5/hr indexed.\\nWhat's an example use case?Semantic search over terabytes of video.\\nWhat's another use case?Data extraction and analytics from large amounts of video.\\nDo you support live video?Not yet. If you need it, reach out and we'll ship it for you.\\nCan it be used to automatically annotate video?Yeah.\\nCodec is a Y Combinator⟨3⟩ company run by Merwane Drai⟨4⟩ and Connor Lurring⟨5⟩.\\n© 2025 Armada Labs Inc\\ncontactupdates⟨6⟩\\n\" references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://codec.io/</start>: Talk to us\\n⟨2⟩ https://codec.io/_next/image?url=%2Fimages%2Fhero.png&w=3840&q=75: a video timeline\\n⟨3⟩ https://codec.io/<https:/www.ycombinator.com>: Y Combinator\\n⟨4⟩ https://codec.io/<https:/x.com/merwanedr>: Merwane Drai\\n⟨5⟩ https://codec.io/<https:/x.com/connorl__>: Connor Lurring\\n⟨6⟩ https://codec.io/<https:/x.com/codec_hq>: updates\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Overview of Codec\n\n**Mission:** Codec is on a mission to deliver powerful tools and APIs for video intelligence. Their services span key areas like search, annotation, classification, and analytics, allowing users to extract meaningful insights from videos.\n\n**Founded:** 2022  \n**Y Combinator Batch:** W22  \n**Location:** Palo Alto, California  \n**Team Size:** 2 Employees  \n**Group Partner:** Nan\n\nCodec specializes in simplifying the way businesses engage with video content. If you have terabytes of video lying around, Codec can help you make sense of it. They offer an interesting pricing model based on usage—for example, indexing video for searching costs about $5 per hour of video processed.\n\n### Current Capabilities\n\n#### Services:\n- **Semantic Search:** Enable users to search vast amounts of video content.\n- **Data Extraction & Analytics:** Pull valuable data from extensive video libraries.\n- **Automatic Annotation:** The system can automatically tag and classify video content to streamline workflows.\n\n#### Future Prospects:\nWhile live video support isn't on the slate yet, the team is proactive; if you need it, they’re ready to develop that functionality for you.\n\n### Team\n\nCodec is spearheaded by co-founders Merwane Drai and Connor Lurring, both of whom bring their unique skills and vision to the company. \n\n### Conclusion\n\nCodec sits at the intersection of AI and video technology, harnessing the power of video intelligence to address modern challenges in data management and analytics. With a focus on accessibility and efficiency, they’re poised to become a go-to solution for video content utilization in various industries.\n\nFor more information, visit their website at [codec.io](https://codec.io)."
+}

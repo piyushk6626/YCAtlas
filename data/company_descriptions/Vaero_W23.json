@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/vaero",
+  "name": "Vaero",
+  "headline": "AI for Human Writing",
+  "batch": "W23",
+  "description": "Vaero's AI produces the most human sounding writing in the world. User's input their own writing, and Vaero automatically trains custom models to write exactly like the user. It writes emails, reports, brand content, and anything else. Vaero bolts on to any existing foundation model, such as GPT-4o and Claude Sonnet 3.5, so you can always use the latest model in your writing style.",
+  "activity_status": "Active",
+  "website": "https://vaero.ai",
+  "founded_date": 2023.0,
+  "team_size": 1.0,
+  "location": "San Francisco",
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:saas; industry:consumer; industry:b2b; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Bryant Lee, Founder",
+      "description": "Co-founder of Vaero (YC W23) and 2nd time YC founder. Led prior company to $2M revenue run rate. Ph.D. Candidate in Computer Science at Carnegie Mellon, where I worked with my advisor Luis von Ahn on early iterations of Duolingo. Graduated from Harvard Law School, where I was on law review. Undergraduate double degree in Computer Science and Math.",
+      "linkedin": "https://www.linkedin.com/in/bryant-lee/"
+    },
+    {
+      "name": "Earl Hathaway, Founder",
+      "description": null,
+      "linkedin": "https://linkedin.com/in/earlhathaway"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='Select Style\\nLog inSign up\\n## Personalized AI to write like you\\nBy messaging Vaero, you agree to our [Terms](https://vaero.ai/<https:/vaeroai.com/terms>) and have read our [Privacy Policy](https://vaero.ai/<https:/vaeroai.com/privacy-policy>)\\nCreate StyleYour Styles\\nStyle Library\\nLoading styles...\\n' markdown_with_citations='Select Style\\nLog inSign up\\n## Personalized AI to write like you\\nBy messaging Vaero, you agree to our Terms⟨1⟩ and have read our Privacy Policy⟨2⟩\\nCreate StyleYour Styles\\nStyle Library\\nLoading styles...\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://vaero.ai/<https:/vaeroai.com/terms>: Terms\\n⟨2⟩ https://vaero.ai/<https:/vaeroai.com/privacy-policy>: Privacy Policy\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Vaero: AI for Human Writing**\n\nFounded in 2023 and based in the heart of San Francisco, Vaero is on a mission to revolutionize how we communicate through writing. Their central claim? They produce the most human-sounding writing in the world, powered by AI. The idea is simple yet powerful: users can input their own writing, and Vaero's technology automatically trains custom models to replicate that individual style. Whether you need to craft emails, reports, or brand content, Vaero has you covered.\n\nWhat sets Vaero apart is its flexibility. The platform can seamlessly integrate with existing foundation models like GPT-4 and Claude Sonnet 3.5, ensuring that users always have access to the latest in AI writing technology while still maintaining their unique voice.\n\nThe company is part of the prestigious Y Combinator Batch W23, which gives it a strong backing in the startup ecosystem. Despite having a small team of just one employee for now, they are ambitiously innovating in the fields of artificial intelligence, SaaS, and consumer and business applications.\n\nIf you're looking to enhance your writing with a personal touch, Vaero offers a user-friendly interface where you can create and manage your own writing styles. It’s a forward-thinking solution for anyone wanting to make their written communication more authentic without sacrificing time or effort.\n\nFor more info, you can check out their website at [vaero.ai](https://vaero.ai).\n\nIn summary, Vaero is an exciting new player in the AI space, promising to make your writing sound just like you—only better."
+}

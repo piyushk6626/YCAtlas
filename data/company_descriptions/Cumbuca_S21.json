@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/cumbuca",
+  "name": "Cumbuca",
+  "headline": "Multiplayer banking with bill splitting for Brazilian families.",
+  "batch": "S21",
+  "description": "Cumbuca is the first digital group account for Brazilian families. By grouping individual accounts with a shared permission system that's completely customizable, Cumbuca mimics the experience of American joint accounts - which aren't available in Brazil - providing features such as shared savings, debt tracking and bill splitting on everything from utilities to groceries and online delivery, so you don't ever have to argue with your loved ones again.",
+  "activity_status": "Active",
+  "website": "https://www.cumbuca.com",
+  "founded_date": 2021.0,
+  "team_size": 18.0,
+  "location": "São Paulo, Brazil",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:community",
+  "founders": [
+    {
+      "name": "Daniel Ruhman, Founder",
+      "description": "Self taught developer, released first iPhone app when 14y - currently 23y. Dropped out of Computer Engineering degree in Brazil after brief time doing Cog Sci @ UC Berkeley to become an entrepreneur focused on improving the lives of Brazil's lower income population, and have been working with low income households and gig economy workers for the past 2.5 years.\nI’m a huge enthusiast on all things human behavior, gig economy, fintech, and above all in ways to unlock LATAM full potential.",
+      "linkedin": "http://linkedin.com/in/daniel-ruhman-0b739353"
+    }
+  ],
+  "status": true,
+  "markdown": null,
+  "generated_description": "Cumbuca is an innovative fintech company based in São Paulo, Brazil, founded in 2021. It tackles a problem that many families face: managing shared finances effortlessly. Think of it as a multiplayer banking solution that makes bill splitting and collective savings a breeze for Brazilian families.\n\nAt its core, Cumbuca offers the first digital group account tailored to Brazilian users. Unlike the American model of joint accounts—which aren’t available in Brazil—Cumbuca brings that same functionality to the table. Users can create individualized accounts under a shared permission system that is fully customizable. This means families can enjoy shared savings, track debts, and split bills for everything from utilities to groceries. The goal is simple: eliminate the friction and arguments that often accompany shared expenses.\n\nCumbuca's work has not gone unnoticed; they are part of the prestigious Y Combinator Batch S21, which provides them with valuable mentorship and resources to scale their innovative solution. With a dedicated team of 18, including notable figures like Michael Seibel as their Group Partner, Cumbuca is positioned to make a significant impact in the fintech landscape.\n\nIf you're curious to learn more about this pioneering company, you can check out their website at [cumbuca.com](https://www.cumbuca.com). In a world where family finances can often become contentious, Cumbuca is working to help families build a seamless and collaborative financial experience."
+}

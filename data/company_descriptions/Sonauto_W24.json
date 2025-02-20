@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/sonauto",
+  "name": "Sonauto",
+  "headline": "Create hit songs with AI",
+  "batch": "W24",
+  "description": "Sonauto is an AI music editor that turns prompts, lyrics, or melodies into full songs in any style. For example, in a few minutes with Sonauto you can make an original birthday song for your friend, sung by Frank Sinatra.",
+  "activity_status": "Active",
+  "website": "https://sonauto.ai/",
+  "founded_date": 2023.0,
+  "team_size": 2.0,
+  "location": null,
+  "group_partner": "Jared Friedman",
+  "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": null,
+  "founders": [
+    {
+      "name": "Ryan Tremblay, Founder",
+      "description": "Studied Computer Science (focus: ML) and History (focus: authoritarian regimes) at Cornell. Previously, I worked on core engineering teams at early and growth stage AI and creator economy startups. My goal is to help people be more creative by making GPUs go brrr.",
+      "linkedin": "https://linkedin.com/in/ryan-tremblay-62429a86"
+    },
+    {
+      "name": "Hayden Housen, Founder",
+      "description": "Currently, building a platform to share AI generated music and researching AI song generation. Previously, a software engineering intern at Vocode (YC W23) and an intern on the Machine Learning Team at Ada.",
+      "linkedin": "https://linkedin.com/in/hhousen"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Sonauto: Crafting Songs with AI\n\nSonauto is a fresh entrant in the music technology scene, launched in 2023 and currently making waves as part of Y Combinator's Winter 2024 batch. The mission? Simple but bold: to create hit songs with the help of artificial intelligence.\n\nImagine this: you're at a birthday party, and you want to surprise your friend with a custom song. With Sonauto, you can input prompts, lyrics, or even melodies, and in just a few minutes, you've got an original song—let's say, a birthday tune styled like it’s sung by Frank Sinatra. This is the kind of magic Sonauto brings to the table with its AI music editor.\n\nThe company is based in [location unspecified], operates with a compact team of two, and is led with guidance from Jared Friedman as their Group Partner. While they are still small, their aspirations are large, channeling creativity and technology to disrupt the way music is composed.\n\nTo explore Sonauto’s innovative offerings, check out their website: [sonauto.ai](https://sonauto.ai/).\n\nIn essence, Sonauto is not just about making music; it's about redefining the process of song creation, making it accessible and fun for everyone—whether you’re an aspiring songwriter or someone who just wants to add a personal touch to a celebration."
+}

@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/nash-2",
+  "name": "Nash",
+  "headline": "All in one finance platform for borderless businesses in Africa",
+  "batch": "W22",
+  "description": "Nash enables finance teams to manage all their finance flows in one place and craft their money flow experiences globally.  Our ledger-based operating system allows your borderless business to connect all your money accounts, accounting systems, payment service providers, treasury operations, spend management in one place. \r\n\nOur mission is to enable borderless commerce in Africa. We achieve this initially by providing your team with all the finance tools needed to build, scale, and grow your borderless business without the need for a costly and complex in-house infrastructure.",
+  "activity_status": "Active",
+  "website": "https://getnashglobal.com/",
+  "founded_date": 2021.0,
+  "team_size": 11.0,
+  "location": "Nairobi, Kenya",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:banking-as-a-service; industry:finops; industry:fintech; industry:b2b",
+  "founders": [
+    {
+      "name": "Anthony Wagacha, Founder",
+      "description": "Anthony is a Stanford MBA & trained Quant Actuary who has designed and rolled out multiple financial products for financial institutions in Africa.  He is an ex-investment banker @Bank of America Merrill Lynch, New York; ex- Financial Services Consultant @KPMG East Africa.",
+      "linkedin": "https://www.linkedin.com/in/wagachaanthony"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "Nash is an innovative finance platform designed specifically for borderless businesses in Africa. Founded in 2021 and based in Nairobi, Kenya, the company emerged from the Y Combinator Batch W22 with a clear mission: to simplify and enhance financial management for organizations that operate across borders.\n\nAt its core, Nash provides a comprehensive solution for finance teams to seamlessly manage all their financial flows in a single, integrated space. Imagine a ledger-based operating system where businesses can connect all their money accounts, accounting systems, payment service providers, treasury operations, and spend management tools. This means no more juggling between different systems or dealing with cumbersome infrastructures. Instead, teams can focus on what really matters: building and scaling their business without the heavy lifting of managing complex financial setups.\n\nNash’s approach is particularly relevant in the African context, where borderless commerce is pivotal for growth. The platform equips companies with essential financial tools that empower them to operate effectively in a dynamic market. With a tight-knit team of 11, Nash is nimble yet robust, ready to tackle the challenges of cross-border finance.\n\nThe company is tagged under categories such as banking-as-a-service, finops, fintech, and B2B, which reflects its modern, tech-driven approach to financial services. As they continue to grow and refine their offerings, Nash stands at the forefront of a financial revolution, dedicated to making borderless commerce as seamless as possible for African businesses.\n\nFor more information on Nash and its services, you can visit their website at [getnashglobal.com](https://getnashglobal.com/)."
+}

@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/leaping",
+  "name": "Leaping",
+  "headline": "Automate bug resolution",
+  "batch": "W24",
+  "description": "When bad software gets shipped, software companies burn a lot of money and customer trust fixing it. Most software engineers will tell you they spend more time fixing code than writing it, which will only become more true as AI code assistants gain adoption. Leaping autonomously root causes bugs and generates tested code fixes.",
+  "activity_status": "Active",
+  "website": "https://www.leaping.io/",
+  "founded_date": 2024.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:developer-tools; industry:ai-assistant; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Kanav Petkar, Founder",
+      "description": "Co-Founder at Leaping",
+      "linkedin": "https://linkedin.com/in/kvptkr"
+    },
+    {
+      "name": "Adrien Philardeau, Founder",
+      "description": "Co-Founder at Leaping",
+      "linkedin": "https://linkedin.com/in/adrienphilardeau"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='### Fix your bugs, automatically.\\n' markdown_with_citations='### Fix your bugs, automatically.\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Leaping: Automating Bug Resolution for Software Companies**\n\nFounded in 2024 as part of Y Combinator's Winter 2024 batch, Leaping is tackling a problem that plagues software engineers everywhere: the time and resources wasted on bug fixing. Based in San Francisco, this fledgling startup has a lean team of just two employees, but they are on a mission that resonates with many in the tech industry.\n\nThe premise is simple yet powerful: when poorly written software hits the market, it can cost companies dearly in both finances and reputation. Many software engineers often find themselves spending more time fixing code than actually writing it. As AI-powered coding assistants become more prevalent, this trend is likely to worsen unless something changes. That's where Leaping steps in.\n\nLeaping's approach focuses on autonomously diagnosing the root causes of bugs and generating tested code fixes automatically. This could save developers a significant amount of time and streamline the debugging process, allowing them to concentrate more on writing innovative code and less on fixing issues.\n\nTheir tagline, \"Fix your bugs, automatically,\" encapsulates their unique value proposition in the burgeoning fields of developer tools and AI-assisted programming. It's a bold aim, and with backing from influential figures like Michael Seibel as their Group Partner, they seem well-positioned to disrupt the traditional debugging landscape.\n\nIf you're a software engineer tired of the endless cycle of bug fixes or a company looking to improve your software reliability without burning through cash and trust, keep an eye on Leaping. You can learn more about them at [leaping.io](https://www.leaping.io/).\n\nIn summary, Leaping isn’t just another startup; it’s a beacon for a future where software bugs can be handled with the ease of a few keystrokes."
+}

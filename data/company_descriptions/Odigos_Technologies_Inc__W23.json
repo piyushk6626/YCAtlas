@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/odigos-technologies-inc",
+  "name": "Odigos Technologies Inc.",
+  "headline": "Enterprise-Grade OpenTelemetry",
+  "batch": "W23",
+  "description": "Odigos leverages eBPF technology to create an open-source solution that can automatically generate distributed traces for any application without any engineering work.\r\nDevelopers are struggling with extracting and delivering high-quality monitoring data.\r\nCurrently, building a pipeline is a manual process that takes months to implement, is an error-prone process that requires tons of code changes across multiple R&D teams, and demands collaboration.",
+  "activity_status": "Active",
+  "website": "https://odigos.io",
+  "founded_date": 2023.0,
+  "team_size": 16.0,
+  "location": "Boston",
+  "group_partner": "Diana Hu",
+  "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "location:boston",
+  "founders": [
+    {
+      "name": "Ari Recht, Founder",
+      "description": null,
+      "linkedin": "https://www.linkedin.com/in/arirecht/"
+    },
+    {
+      "name": "Eden Federman, Founder",
+      "description": "I love eBPF and OpenTelemetry. Working on helping developers fix issues faster.",
+      "linkedin": "https://www.linkedin.com/in/edenfed/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='[![logo](https://odigos.io/images/logo/text-logo.svg)](https://odigos.io/</>)\\n  * [About](https://odigos.io/</about>)\\n  * [Blog](https://odigos.io/</blog>)\\n  * [Pricing](https://odigos.io/</pricing>)\\n  * [Documentation](https://odigos.io/<https:/docs.odigos.io>)\\n  * ![github](https://odigos.io/icons/common/github.svg)\\n[GITHUB](https://odigos.io/<https:/github.com/odigos-io/odigos>)\\n\\n\\nContact Us\\n![hamburger](https://odigos.io/icons/common/hamburger.svg)\\n# Enterprise-Grade \\n# OpenTelemetry \\nAccelerate OpenTelemetry implementation with Odigos, an eBPF-based solution providing zero-code, zero-performance overhead for deeper tracing\\nQUICK STARTOPEN SOURCE\\nQUICK STARTOPEN SOURCE\\n![play](https://odigos.io/icons/hero/play.svg)\\nWATCH DEMO\\n# TRUSTED BY\\n![access-bank](https://odigos.io/images/hero/access.svg)\\n![hp](https://odigos.io/images/hero/hp.svg)\\n' markdown_with_citations='![logo⟨1⟩](https://odigos.io/</>)\\n  * About⟨2⟩\\n  * Blog⟨3⟩\\n  * Pricing⟨4⟩\\n  * Documentation⟨5⟩\\n  * ![github⟨6⟩]\\nGITHUB⟨7⟩\\n\\n\\nContact Us\\n![hamburger⟨8⟩]\\n# Enterprise-Grade \\n# OpenTelemetry \\nAccelerate OpenTelemetry implementation with Odigos, an eBPF-based solution providing zero-code, zero-performance overhead for deeper tracing\\nQUICK STARTOPEN SOURCE\\nQUICK STARTOPEN SOURCE\\n![play⟨9⟩]\\nWATCH DEMO\\n# TRUSTED BY\\n![access-bank⟨10⟩]\\n![hp⟨11⟩]\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://odigos.io/images/logo/text-logo.svg: ![logo\\n⟨2⟩ https://odigos.io/</about>: About\\n⟨3⟩ https://odigos.io/</blog>: Blog\\n⟨4⟩ https://odigos.io/</pricing>: Pricing\\n⟨5⟩ https://odigos.io/<https:/docs.odigos.io>: Documentation\\n⟨6⟩ https://odigos.io/icons/common/github.svg: github\\n⟨7⟩ https://odigos.io/<https:/github.com/odigos-io/odigos>: GITHUB\\n⟨8⟩ https://odigos.io/icons/common/hamburger.svg: hamburger\\n⟨9⟩ https://odigos.io/icons/hero/play.svg: play\\n⟨10⟩ https://odigos.io/images/hero/access.svg: access-bank\\n⟨11⟩ https://odigos.io/images/hero/hp.svg: hp\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### Odigos Technologies Inc. Summary\n\n**Founded:** 2023  \n**Location:** Boston, Massachusetts  \n**Team Size:** 16 Employees  \n**Batch:** Y Combinator W23  \n**Group Partner:** Diana Hu\n\n**Mission:**  \nOdigos Technologies Inc. is determined to redefine monitoring data quality with its enterprise-grade OpenTelemetry solution. They're leveraging advanced eBPF technology to create an open-source approach that automates the generation of distributed traces for any application—no engineering work required. This is a game-changer for developers who have long struggled with gathering and delivering high-quality monitoring data efficiently.\n\n**The Problem:**  \nToday’s developers face enormous hurdles when it comes to implementing monitoring pipelines. The traditional process can take months, is fraught with errors, and often involves extensive code changes across multiple research and development teams. Collaboration is key, and it’s a tedious endeavor.\n\n**What They Offer:**  \nOdigos simplifies the OpenTelemetry implementation process. By using their eBPF-based solution, they provide a zero-code, zero-performance overhead approach that enables deeper tracing. This drastically reduces the time and effort typically required for deployment. On their website, you can find resources including:\n\n- [About](https://odigos.io/about)\n- [Blog](https://odigos.io/blog)\n- [Pricing](https://odigos.io/pricing)\n- [Documentation](https://docs.odigos.io)\n- [GitHub](https://github.com/odigos-io/odigos)\n\n**Why It Matters:**  \nIn essence, Odigos is addressing a critical pain point in the developer community, enabling teams to focus on building rather than maintaining complex monitoring systems. With backing from Y Combinator and an innovative approach grounded in cutting-edge technology, they are poised to make significant waves in the tech landscape.\n\nFor more details, check out their [website](https://odigos.io)."
+}

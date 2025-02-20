@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/poplarml",
+  "name": "PoplarML",
+  "headline": "Deploy Machine Learning Models with One Command",
+  "batch": "W23",
+  "description": "PoplarML lets you deploy any machine learning model to a fleet of GPUs as a ready-to-use and scalable API endpoint with one command.",
+  "activity_status": "Active",
+  "website": "http://poplarml.com",
+  "founded_date": 2022.0,
+  "team_size": 2.0,
+  "location": "San Francisco",
+  "group_partner": "Dalton Caldwell",
+  "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:aiops; industry:artificial-intelligence; industry:machine-learning; industry:b2b; industry:api; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Danna Liu, Founder",
+      "description": "Co-Founder of PoplarML, Previously Research @ Snap, SWE @ Stripe, Coinbase, Microsoft, PagerDuty",
+      "linkedin": "https://linkedin.com/in/dnaliu"
+    },
+    {
+      "name": "Evan Chu, Founder",
+      "description": "Co-Founder @ PoplarML. Previously SWE @ Stripe, Amazon, AWS",
+      "linkedin": "https://www.linkedin.com/in/evan-j-chu/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='`NoSuchBucket`The specified bucket does not existpoplarml.com-content1RRFP415JQN1S73TbvFW5Le7Nu+xHMMAmNZTBGTDYEkLbtqtlols1huzARsRkjIAKSIkkLZPcIC77y4Y4LJFwfGjBTLDxz/7t9IHgQ==\\nThis XML file does not appear to have any style information associated with it. The document tree is shown below.\\n<Error>\\n<Code>NoSuchBucket</Code>\\n<Message>The specified bucket does not exist</Message>\\n<BucketName>poplarml.com-content</BucketName>\\n<RequestId>1RRFP415JQN1S73T</RequestId>\\n<HostId>bvFW5Le7Nu+xHMMAmNZTBGTDYEkLbtqtlols1huzARsRkjIAKSIkkLZPcIC77y4Y4LJFwfGjBTLDxz/7t9IHgQ==</HostId>\\n...\\n</Error>\\n' markdown_with_citations='`NoSuchBucket`The specified bucket does not existpoplarml.com-content1RRFP415JQN1S73TbvFW5Le7Nu+xHMMAmNZTBGTDYEkLbtqtlols1huzARsRkjIAKSIkkLZPcIC77y4Y4LJFwfGjBTLDxz/7t9IHgQ==\\nThis XML file does not appear to have any style information associated with it. The document tree is shown below.\\n<Error>\\n<Code>NoSuchBucket</Code>\\n<Message>The specified bucket does not exist</Message>\\n<BucketName>poplarml.com-content</BucketName>\\n<RequestId>1RRFP415JQN1S73T</RequestId>\\n<HostId>bvFW5Le7Nu+xHMMAmNZTBGTDYEkLbtqtlols1huzARsRkjIAKSIkkLZPcIC77y4Y4LJFwfGjBTLDxz/7t9IHgQ==</HostId>\\n...\\n</Error>\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "### PoplarML: Deploy Machine Learning with Ease\n\n**Overview**  \nPoplarML is an innovative startup founded in 2022 and based in San Francisco. As part of the Y Combinator Batch W23, they have a clear mission: to allow users to deploy machine learning models with just one command. This streamlines the often complicated process of model deployment, making it accessible and efficient.\n\n**What They Do**  \nAt its core, PoplarML provides a seamless way to deploy machine learning models to a fleet of GPUs, transforming them into ready-to-use and scalable API endpoints. This means companies can more easily integrate advanced machine learning capabilities into their applications without getting bogged down in the technical details of deployment.\n\n**Team and Leadership**  \nPoplarML operates with a small but focused team of just two employees. They are under the guidance of Dalton Caldwell, a respected Group Partner, who adds considerable expertise and industry insight to the venture.\n\n**Tags and Focus Areas**  \nThe company is positioned within several critical tech domains, categorized under tags such as AI Ops, artificial intelligence, machine learning, B2B services, and API development. This reflects their dual focus on cutting-edge technology and practical business solutions.\n\n**Website**  \nFor more information, check out their website at [poplarml.com](http://poplarml.com).\n\nIn short, if you’re looking for an efficient, one-command solution to machine learning deployment, PoplarML is certainly worth keeping an eye on. They’re entering the market at a time when such solutions are not just desirable but necessary for businesses looking to leverage AI."
+}

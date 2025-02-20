@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/narrative",
+  "name": "Narrative",
+  "headline": "AI powered data tools",
+  "batch": "W23",
+  "description": "We're building AI powered data tooling for logistics and beyond!",
+  "activity_status": "Active",
+  "website": "https://www.trynarrative.com/",
+  "founded_date": 2023.0,
+  "team_size": 3.0,
+  "location": "San Francisco",
+  "group_partner": "Aaron Epstein",
+  "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:logistics; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Suchit Dubey, Founder",
+      "description": "CEO@Narrative. Previously Uber Freight, Crew, Thumbtack, Palantir and Ridecell.",
+      "linkedin": "https://www.linkedin.com/in/dubeysuchit/"
+    },
+    {
+      "name": "Akshit Khurana, Founder",
+      "description": "CTO Narrative. Prev, Engineering at Pytorch/Meta, Ambient AI, Housecanary, Ginger.io, LinkedIn/SlideShare",
+      "linkedin": "https://www.linkedin.com/in/axitkhurana"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Narrative**\n\n**Mission:** Narrative is on a mission to revolutionize the way businesses utilize data by harnessing the power of AI. Their focus is on developing cutting-edge data tools that make logistics and beyond more efficient and insightful.\n\n**Foundation:** Founded in 2023, Narrative is already making waves in the tech ecosystem, having secured a spot in Y Combinator's Winter 2023 batch (W23). It’s clear they're not just building products; they’re building a company with vision.\n\n**Location and Team:** Based in the heart of San Francisco, Narrative is a lean startup with a nimble team of three skilled individuals. The small size allows them to remain agile, adapting quickly to market needs and opportunities.\n\n**Leadership:** Aaron Epstein leads the charge as the Group Partner, guiding the team with insights and experience. His role is crucial, especially in navigating the competitive landscape of AI and SaaS technologies.\n\n**Tags:** Narrative is positioned within several key industry categories: artificial intelligence, SaaS (Software as a Service), B2B (business to business), logistics, and the innovative San Francisco Bay Area tech scene. This alignment reflects their commitment not only to tech but specifically to improving logistics through smart data usage.\n\n**Current Focus:** As they carve out their niche in the data tooling sector, Narrative is actively developing AI-powered solutions tailored for logistics. Although they are still in the early stages, their vision is ambitious enough to make an impact across various sectors.\n\nIn summary, Narrative is poised for growth as they innovate data solutions that leverage AI to optimize logistics and potentially much more. With strong backing from Y Combinator and a focused team in one of the tech hubs of the world, they are definitely a startup to watch."
+}

@@ -1,0 +1,27 @@
+{
+  "links": "https://www.ycombinator.com/companies/aldara",
+  "name": "Aldara",
+  "headline": "HOA manager with automated operations",
+  "batch": "S22",
+  "description": "Aldara is a modern, efficient HOA manager.\r\nWe achieve that by automating back-office and operations with our in-house technology, powered by AI.",
+  "activity_status": "Active",
+  "website": "https://aldara.com",
+  "founded_date": 2022.0,
+  "team_size": 10.0,
+  "location": "Barcelona, Spain",
+  "group_partner": "Gustaf Alstromer",
+  "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:fintech; industry:real-estate; industry:proptech",
+  "founders": [
+    {
+      "name": "Daniel Carmona, Founder",
+      "description": "Aerospace engineer. Previously founded a software import business with $15M in annual sales, automating a heavily manual cross border tax and accounting operation - very similar to the problems that we have to solve at Aldara.",
+      "linkedin": "https://www.linkedin.com/in/danielcarmonaserrat/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# 403 Forbidden\\nopenresty\\n' markdown_with_citations='# 403 Forbidden\\nopenresty\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Company Overview: Aldara**\n\nFounded in 2022 and hailing from Barcelona, Spain, Aldara is shaping the future of homeowners association (HOA) management. The company is part of the Y Combinator Batch S22, a strong endorsement that lends credibility and a wealth of networking opportunities. With a compact team of ten dedicated employees, Aldara has a clear mission: to revolutionize HOA management through advanced automation.\n\nAldara leverages in-house technology and artificial intelligence to streamline back-office operations, making HOA management not just modern but also efficient. This blend of fintech and proptech is a smart move, addressing a market often bogged down by outdated processes. By automating tedious tasks, Aldara empowers HOA managers to focus on what really matters: fostering community and enhancing resident experiences.\n\nThe team benefits from the guidance of Gustaf Alstromer, a seasoned Y Combinator partner who brings invaluable insights into scaling startups in the competitive real estate landscape.\n\nIn summary, Aldara stands at the intersection of real estate innovation and emerging technology, positioning itself as a transformative force in HOA management. If you're interested, check out their website at [aldara.com](https://aldara.com)."
+}

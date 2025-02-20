@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/bridgecard",
+  "name": "Bridgecard",
+  "headline": "Card issuer for Africa",
+  "batch": "S22",
+  "description": "Bridgecard makes it easy for fintechs to issue MasterCard or Visa cards that work anywhere in the world. We provide easy-to-integrate APIs to issue virtual and physical cards and we can get you started in weeks instead of months.\r\n\nFor nearly three years, we’ve supported Africa’s top startups with stable, high-growth card solutions. Thanks to our stability, over 50% of our clients have grown their volumes by more than 5X within 6 months. Our commitment is to deliver great cards that work, provide reliable support, and unbeatable uptime so that your users can be satisfied.",
+  "activity_status": "Active",
+  "website": "https://bridgecard.cards",
+  "founded_date": 2021.0,
+  "team_size": 5.0,
+  "location": "Lagos, Nigeria",
+  "group_partner": "Michael Seibel",
+  "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:banking-as-a-service; industry:fintech; industry:payments; industry:b2b; industry:api",
+  "founders": [
+    {
+      "name": "Tunde Adewole, Founder",
+      "description": "Previously I built open banking APIs connecting large banks to fintech in Nigeria. I turned down a job at google to build Bridgecard.",
+      "linkedin": "https://www.linkedin.com/in/tunde-adewole-b223729a/"
+    },
+    {
+      "name": "Festus Owumi, Founder",
+      "description": "Festus is a Senior Software Engineer with experiences ranging from Mobile, Machine Learning and Backend Development. He has 5 years experience with companies offering financial services in Africa including TradeDepot, Kippa e.t.c.",
+      "linkedin": "https://linkedin.com/in/owumi-festus-3151aa172/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='![bridgecard-launch-image](https://bridgecard.cards/media/images/preloader.png)\\n' markdown_with_citations='![bridgecard-launch-image⟨1⟩]\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://bridgecard.cards/media/images/preloader.png: bridgecard-launch-image\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Bridgecard: Revolutionizing Card Issuing in Africa**\n\nFounded in 2021 and hailing from the vibrant tech scene of Lagos, Nigeria, Bridgecard is carving out a niche as a leading card issuer tailored for Africa. The company's mission is straightforward: empower fintechs across the continent to easily issue MasterCard and Visa cards that can be used globally.\n\nAt its core, Bridgecard offers simple, easy-to-integrate APIs that enable the swift issuance of both virtual and physical cards. While most financial solutions can take months to deploy, Bridgecard prides itself on getting startups off the ground in weeks—a significant advantage in today's fast-paced market.\n\nFor nearly three years, Bridgecard has been a critical partner for some of Africa's most ambitious startups. Their stability and support have proven effective, with over 50% of their clients experiencing volume growth exceeding five times within just six months. This rapid expansion stems from Bridgecard's unwavering commitment to not just supply cards, but to ensure that they work reliably, backed by exceptional support and impressive uptime.\n\nBridgecard is also part of the Y Combinator Batch S22, placing them at the forefront of innovative startups. With a lean team of just five employees, they are agile and focused on scaling their offerings to meet the needs of a burgeoning market.\n\nTheir focus areas include banking-as-a-service, fintech, payments, B2B solutions, and robust API integrations. With Michael Seibel as their group partner, Bridgecard has the mentorship and oversight to navigate the complexities of the fintech landscape.\n\nFor those interested in learning more about Bridgecard and their services, visit their website at [bridgecard.cards](https://bridgecard.cards). In a region ripe for financial innovation, Bridgecard is not just participating in the change; they’re driving it."
+}

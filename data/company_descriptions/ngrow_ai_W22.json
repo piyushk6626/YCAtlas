@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/ngrow-ai",
+  "name": "ngrow.ai",
+  "headline": "Low-code SaaS for marketing in push notifications",
+  "batch": "W22",
+  "description": "AI-driven push marketing tool for mobile apps, that can be integrated in hours, without any code writing.\r\n\nnGrow connects to behavioral data from analytical systems like Amplitude, Google Firebase, Mixpanel etc. and allows to setup auto push campaigns with an hours.\r\n\nIt's as simple as running  Google or Facebook but in push notifications channel. \r\nnGrow.ai customers usually got their up to 30% incremental Revenue lift.\r\n\nWe got Amplitude COO and ex-Google advisors on board",
+  "activity_status": "Active",
+  "website": "http://ngrow.ai",
+  "founded_date": 2020.0,
+  "team_size": 11.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:saas; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Alex Sergeev, Founder",
+      "description": "CEO at ngrow.ai\n\nPast:\n>Analytics and marketing advisor and consultant at  30+ mobile products from US, Europe\n> Marketing and analytics director $15B Valuation Easter European tech giant",
+      "linkedin": "https://www.linkedin.com/in/adsergeev/"
+    },
+    {
+      "name": "Marat Zhanabekov, Founder",
+      "description": "CTO @ ngrow.ai\n\nPast:\n> Head of Growth & Analytics @ Donut Lab (https://donut.games)\n> Growth & Marketing Analytics @ Scentbird (https://scentbird.com, YC S15)\n\nMakin' marketing of mobile apps as tech- and analytics-driven as possible for 10 years, 30+ apps & services. Was born fluent in Python. Hobbies: swimming in data lakes, plumbing data pipelines.",
+      "linkedin": "https://www.linkedin.com/in/marat-zhanabekov/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='\\n' markdown_with_citations='\\n' references_markdown='\\n\\n## References\\n\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**ngrow.ai: Revolutionizing Push Notifications with Low-Code Solutions**\n\nngrow.ai, founded in 2020 and based in San Francisco, is on a mission to simplify marketing through push notifications with its low-code SaaS platform. Initially launched as an AI-driven push marketing tool tailored for mobile applications, ngrow.ai allows businesses to set up automated push campaigns in just a few hours—no coding required. \n\nImagine running marketing campaigns as effortlessly as you would on Google or Facebook, but within the push notifications channel. That’s precisely what ngrow.ai brings to the table. The platform integrates seamlessly with leading analytical systems like Amplitude, Google Firebase, and Mixpanel, tapping into behavioral data to facilitate personalized and efficient marketing outreach.\n\nOne standout aspect of ngrow.ai is the tangible impact it has on its customers: many report an impressive incremental revenue lift of up to 30%. This performance is bolstered by a strong advisory team, including the COO of Amplitude and former Google advisors, lending both credibility and expertise to the venture.\n\nPart of Y Combinator’s Winter 2022 batch, ngrow.ai has rapidly grown to a team of 11 talented employees. Their focus on leveraging advanced technology for push notifications positions them as a key player in the SaaS landscape. With an impactful mission and a promising trajectory, ngrow.ai is laying the groundwork for the future of marketing communications. \n\nTo learn more, visit their website at [ngrow.ai](http://ngrow.ai)."
+}

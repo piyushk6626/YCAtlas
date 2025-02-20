@@ -1,0 +1,32 @@
+{
+  "links": "https://www.ycombinator.com/companies/ankr-health",
+  "name": "Ankr Health",
+  "headline": "Virtualizing brick-mortar infrastructures of clinics w/ generative AI",
+  "batch": "W22",
+  "description": "Adoption of Telehealth 1.0 has dropped to <5% because it's inefficient and unintelligent. Ankr uses generative AI to recreate functions of clinic staff including front desk, medical assistants and scribe. This allows Doctors to \"spin-up\" virtual clinics on-demand, anytime, anywhere. \r\n\nAn average clinic using Ankr generates $1M in new revenue/year.  We integrate with all top EHRs and work with all types of clinics in mid- to large-sized healthcare organizations.",
+  "activity_status": "Active",
+  "website": "https://ankr.us",
+  "founded_date": 2022.0,
+  "team_size": 30.0,
+  "location": "San Francisco",
+  "group_partner": null,
+  "group_partner_yc": null,
+  "company_linkedin": null,
+  "company_twitter": null,
+  "tags": "industry:generative-ai; industry:telehealth; industry:b2b; industry:digital-health; industry:telemedicine; location:san-francisco-bay-area",
+  "founders": [
+    {
+      "name": "Arpit Rao, Founder",
+      "description": "Award-winning oncologist who has led large research projects and multiple FDA approvals for cancer drugs. He founded Ankr after his patient nearly died from a preventable brain bleed because they forgot to monitor their blood pressure at home.",
+      "linkedin": "https://www.linkedin.com/in/arpit-rao"
+    },
+    {
+      "name": "Shivani Rao, Founder",
+      "description": "An operations mastermind who ran $135 million ARR subspecialty clinics and led telehealth deployment in a top 20 health system before joining Ankr.",
+      "linkedin": "https://www.linkedin.com/in/shivani-brahambhatt/"
+    }
+  ],
+  "status": true,
+  "markdown": "raw_markdown='# ankr.us\\nVerifying you are human. This may take a few seconds.\\nankr.us needs to review the security of your connection before proceeding.\\nPlease unblock challenges.cloudflare.com to proceed.\\nVerification successful\\nWaiting for ankr.us to respond...\\nRay ID: `914757e4eaa547e8`\\nPerformance & security by [Cloudflare](https://ankr.us/<https:/www.cloudflare.com?utm_source=challenge&utm_campaign=m>)\\n' markdown_with_citations='# ankr.us\\nVerifying you are human. This may take a few seconds.\\nankr.us needs to review the security of your connection before proceeding.\\nPlease unblock challenges.cloudflare.com to proceed.\\nVerification successful\\nWaiting for ankr.us to respond...\\nRay ID: `914757e4eaa547e8`\\nPerformance & security by Cloudflare⟨1⟩\\n' references_markdown='\\n\\n## References\\n\\n⟨1⟩ https://ankr.us/<https:/www.cloudflare.com?utm_source=challenge&utm_campaign=m>: Cloudflare\\n' fit_markdown='' fit_html=''",
+  "generated_description": "**Ankr Health: Revolutionizing Virtual Clinics with AI**\n\nFounded in 2022 and part of Y Combinator's Batch W22, Ankr Health is based in San Francisco and is on a mission to transform healthcare delivery through generative AI. The company's aim is clear: to virtualize the traditional, brick-and-mortar infrastructures of clinics, making healthcare more efficient, intelligent, and accessible.\n\nThe context for Ankr Health's inception is compelling. Telehealth 1.0, once seen as a frontier for innovation in healthcare, has seen adoption rates plummet to under 5%. Why? It's largely due to inefficiencies and a lack of intelligent systems that can support clinic operations. Ankr Health swoops in with a game-changing solution: by using generative AI to automate and enhance the roles of clinic staff—think front desk personnel, medical assistants, and scribes—they enable doctors to launch virtual clinics as needed, from anywhere in the world.\n\nThis approach is not just about tech for tech's sake. The numbers speak volumes. Clinics utilizing Ankr generate an average of $1 million in new revenue annually. That's not just a significant boost for individual practices—it's a meaningful contribution to the healthcare ecosystem as a whole.\n\nAnkr Health integrates seamlessly with all the top Electronic Health Record (EHR) systems and caters to a diverse clientele, focusing primarily on mid- to large-sized healthcare organizations. With a dedicated team of 30 employees, Ankr is positioned to scale its operations and impact.\n\nAs the company continues to develop its services, it stands firmly in the realms of generative AI, telehealth, and digital health, making waves in the B2B space. As we look toward the future of healthcare, Ankr Health is certainly a company to keep an eye on.\n\nFor more information, check out their website at [ankr.us](https://ankr.us)."
+}
