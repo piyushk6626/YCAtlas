@@ -28,6 +28,10 @@ def process_json_file(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
+        # Skip if embedding already exists
+        if 'embedding' in data:
+            return
+            
         description = data.get('generated_description', '')
         if not description:
             print(f"No generated_description found in {file_path}")
@@ -48,9 +52,16 @@ def main():
     directory = r"D:\DEV\YC25\YC25\data\company_descriptions"
     json_files = [os.path.join(directory, f) for f in os.listdir(directory) if f.endswith('.json')]
     
-    # Process files with progress bar
-    for file_path in tqdm(json_files, desc="Generating embeddings"):
-        process_json_file(file_path)
+    # Calculate number of processes (use 75% of available CPUs)
+    num_processes = max(1, int(cpu_count() * 0.75))
+    
+    # Create a process pool and process files in parallel with progress bar
+    with Pool(num_processes) as pool:
+        list(tqdm(
+            pool.imap(process_json_file, json_files),
+            total=len(json_files),
+            desc=f"Generating embeddings (using {num_processes} processes)"
+        ))
     
     print("Completed generating embeddings")
 
