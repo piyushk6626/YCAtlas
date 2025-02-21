@@ -1,12 +1,9 @@
 import os
 from openai import OpenAI
 from dotenv import load_dotenv
-from prompts import system_prompt, user_prompt
-import pandas as pd
 from tqdm import tqdm
 import json
 from multiprocessing import Pool, cpu_count
-import functools
 
 
 def openai_client():    
