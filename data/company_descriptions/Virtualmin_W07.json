@@ -3091,5 +3091,10 @@
     -0.0008081828127615154,
     -0.01219420786947012,
     0.008341790176928043
+  ],
+  "logo": "/logos/medium/missing.png",
+  "social_links": [
+    "https://www.crunchbase.com/organization/virtualmin",
+    "https://github.com/virtualmin"
   ]
 }

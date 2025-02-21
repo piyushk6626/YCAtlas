@@ -3091,5 +3091,10 @@
     0.002204631920903921,
     -0.018449073657393456,
     -0.0006587504758499563
+  ],
+  "logo": "/logos/medium/missing.png",
+  "social_links": [
+    "https://www.crunchbase.com/organization/eligible-api",
+    "https://github.com/eligible"
   ]
 }
