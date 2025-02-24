@@ -1,6 +1,72 @@
 import streamlit as st
 import json
 from serachAgent.search import find_similar_items
+import os
+
+# Add custom CSS for styling
+st.markdown("""
+    <style>
+        /* Main background color */
+        .stApp {
+            background-color: #F5F5EE;
+            color: black;
+        }
+        
+        /* Accent color for buttons and interactive elements */
+        .stButton>button {
+            background-color: #F26522;
+            color: white;
+        }
+        
+        /* Style for company name buttons */
+        .stButton>button:hover {
+            background-color: #d55416;
+            color: white;
+        }
+        
+        /* Accent color for links */
+        a {
+            color: #F26522 !important;
+        }
+        
+        /* Container styling */
+        .stMarkdown {
+            background-color: #F5F5EE;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            margin: 0.5rem 0;
+            color: black;
+        }
+
+        /* Ensure all text elements are black */
+        p, h1, h2, h3, h4, h5, h6, span, div {
+            color: black !important;
+        }
+
+        /* Style the search input */
+        .stTextInput input {
+            background-color: white;
+            color: black;
+            border: 1px solid #ddd;
+        }
+
+        /* Style all other Streamlit components */
+        .stSelectbox, 
+        .stMultiSelect,
+        .stSlider,
+        .stDateInput,
+        .stTimeInput,
+        .stNumberInput,
+        .stTextArea,
+        .stRadio,
+        .stCheckbox,
+        .stMetric,
+        .stDataFrame {
+            background-color: #F5F5EE !important;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
 # Load JSON data
 def load_data():
     try:
@@ -22,6 +88,8 @@ def search_companies(query,companies):
 def main():
     st.title("YC Companies Explorer")
     
+    # Ensure the logos directory exists
+    
     # Search bar
     search_query = st.text_input("Search companies", "")
     
@@ -29,7 +97,7 @@ def main():
     companies = load_data()
     
     # Filter companies based on search
-    filtered_companies = search_companies(search_query, companies)
+    filtered_companies = companies
     
     # Display companies
     for company in filtered_companies:
@@ -37,30 +105,56 @@ def main():
         
         # Create a card-like container for each company
         with st.container():
-            # Make the company name clickable
-            if st.button(metadata['name'], key=f"btn_{company['id']}", use_container_width=True):
-                show_company_details(company)
-                return  # Exit main to show only company details
+            # Create columns for logo and company name
+            logo_col, name_col = st.columns([1, 4])
+            
+            with logo_col:
+                if metadata.get('name') :
+                    name = metadata['name'].replace(' ', '_')
+                    logo_path = os.path.join("data", "logos", f"{name}_logo.png")
+                    
+                    if os.path.exists(logo_path):
+                        try:
+                            st.image(logo_path, width=150)
+                        except Exception as e:
+                            st.write("🏢")  # Show building emoji as fallback
+                    else:
+                        st.write("🏢")  # Show building emoji when logo doesn't exist
+            
+            with name_col:
+                # Make the company name clickable
+                if st.button(metadata['name'], key=f"btn_{company['id']}", use_container_width=True):
+                    show_company_details(company)
+                    return  # Exit main to show only company details
+                # Add subtitle styling to make it look prominent
+                if metadata.get('headline'):
+                    st.subheader(metadata['headline'])
             
             # Create columns for layout
             col1, col2 = st.columns([2, 1])
             
             with col1:
-                st.write("**Description:**", metadata['description'])
-                st.write("**Batch:**", metadata['batch'])
-                st.write("**Location:**", metadata['location'])
-                st.write("**Team Size:**", metadata['team_size'])
+                
+                
+                # Create columns for company info
+                info_cols = st.columns(3)
+                with info_cols[0]:
+                    st.write("**Batch:**", metadata['batch'])
+                with info_cols[1]:
+                    st.write("**Location:**", metadata['location'])
+                with info_cols[2]:
+                    st.write("**Team Size:**", str(int(float(metadata['team_size']))))
                 
                 # Display tags
                 if metadata.get('tags'):
-                    st.write("**Tags:**", ", ".join(metadata['tags']))
+                    st.write(" ".join(metadata['tags']))
             
             with col2:
                 if metadata.get('website'):
                     st.write("🔗 [Website](" + metadata['website'] + ")")
-            
-            # Add a separator between companies
-            st.markdown("---")
+                if metadata.get('ycpage'):
+                    st.write("🏢 [YC Page](" + metadata['ycpage'] + ")")
+                
 
 def show_company_details(company):
     # Add a back button
@@ -73,8 +167,17 @@ def show_company_details(company):
     col1, col2 = st.columns([1, 3])
     
     with col1:
-        if metadata.get('logo'):
-            st.image(metadata['logo'], width=150)
+        if metadata.get('name'):
+            name = metadata['name'].replace(' ', '_')
+            logo_path = os.path.join("data", "logos", f"{name}_logo.png")
+            
+            if os.path.exists(logo_path):
+                try:
+                    st.image(logo_path, width=150)
+                except Exception as e:
+                    st.write("🏢")  # Show building emoji as fallback
+            else:
+                st.write("🏢")  # Show building emoji when logo doesn't exist
     
     with col2:
         st.title(metadata['name'])
@@ -135,3 +238,4 @@ def show_company_details(company):
 
 if __name__ == "__main__":
     main() 
+    
