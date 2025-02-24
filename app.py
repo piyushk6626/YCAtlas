@@ -1,204 +1,137 @@
 import streamlit as st
-import networkx as nx
-from pyvis.network import Network
-import streamlit.components.v1 as components
-from neo4j import GraphDatabase
 import json
-import tempfile
-import os
-import colorsys  # New import to generate dynamic colors
-from dotenv import load_dotenv
-
-# Load environment variables
-load_dotenv()
-
-# Get Neo4j connection details from environment variables
-NEO4J_URI = os.getenv('NEO4J_URI', 'bolt://localhost:7687')
-NEO4J_USER = os.getenv('NEO4J_USERNAME', 'neo4j')
-NEO4J_PASSWORD = os.getenv('NEO4J_PASSWORD', '')
-
-class Neo4jConnection:
-    def __init__(self, uri, user, password):
-        self.driver = GraphDatabase.driver(uri, auth=(user, password))
-
-    def close(self):
-        self.driver.close()
-
-    def query(self, query):
-        with self.driver.session() as session:
-            result = session.run(query)
-            return [dict(record) for record in result]
-
-def generate_color_palette(n):
-    """
-    Generate a list of n distinct hex colors.
-    """
-    colors = []
-    for i in range(n):
-        hue = i / float(n)
-        lightness = 0.5
-        saturation = 0.95
-        rgb = colorsys.hls_to_rgb(hue, lightness, saturation)
-        rgb = tuple(int(x * 255) for x in rgb)
-        colors.append('#{:02X}{:02X}{:02X}'.format(*rgb))
-    return colors
-
-def create_graph_from_neo4j(records):
-    """
-    Build a NetworkX graph from records returned by Neo4j.
-    Each node is identified by its Neo4j id (as string) and its labels (types) are stored.
-    Each relationship edge will also include its type.
-    """
-    G = nx.Graph()
+from serachAgent.search import find_similar_items
+# Load JSON data
+def load_data():
+    try:
+        with open('search_results.json', 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except (json.JSONDecodeError, UnicodeDecodeError) as e:
+        st.error(f"Error loading data: {str(e)}")
+        # Return empty list as fallback
+        return []
     
-    for record in records:
-        # Extract nodes and relationship
-        start_node = record['n']  # source node
-        end_node = record['m']    # target node
-        relationship = record.get('r', None)  # relationship between the nodes
-        
-        # Extract node properties
-        start_props = dict(start_node)
-        end_props = dict(end_node)
-        
-        # Use the actual Neo4j id as identifier (as string)
-        start_id = str(start_node.id)
-        end_id = str(end_node.id)
-        
-        # Extract node labels (i.e. types) and store them as a property
-        start_labels = list(start_node.labels)
-        end_labels = list(end_node.labels)
-        start_props['labels'] = start_labels
-        end_props['labels'] = end_labels
-        
-        # Add nodes to the graph
-        G.add_node(start_id, **start_props)
-        G.add_node(end_id, **end_props)
-        
-        # Process relationship properties and add the relationship type
-        if relationship is not None:
-            rel_props = dict(relationship)
-            rel_props['type'] = relationship.type
-        else:
-            rel_props = {}
-        
-        G.add_edge(start_id, end_id, **rel_props)
     
-    return G
 
-def visualize_graph(G):
-    """
-    Visualize the NetworkX graph using a Pyvis network.
+def search_companies(query,companies):
+    if not query:
+        return companies
     
-    Modifications:
-    1. Each node is colored based on its type (using its first label).
-    2. Each node displays its id (Neo4j id) as its label.
-    3. Each edge displays its relationship type.
-    """
-    # Initialize Pyvis network
-    net = Network(notebook=True, width="100%", height="600px")
-    
-    # Generate a palette of 200 colors
-    color_palette = generate_color_palette(200)
-    color_map = {}
-    
-    # Build a mapping from primary node label to a color
-    for node in G.nodes(data=True):
-        node_data = node[1]
-        node_labels = node_data.get('labels', [])
-        if node_labels:
-            primary_label = node_labels[0]
-        else:
-            primary_label = "default"
-        if primary_label not in color_map:
-            color_map[primary_label] = color_palette[len(color_map) % len(color_palette)]
-    
-    # Add nodes to the Pyvis network
-    for node in G.nodes(data=True):
-        node_id = node[0]
-        node_data = node[1]
-        node_labels = node_data.get('labels', [])
-        
-        # Get the display label from the id property, fallback to Neo4j ID if not found
-        display_label = node_data.get('id', node_id)
-        
-        if node_labels:
-            primary_label = node_labels[0]
-        else:
-            primary_label = "default"
-        node_color = color_map.get(primary_label, "#777777")
-        
-        # Build a tooltip from the node properties
-        title = '<br>'.join([f"{k}: {v}" for k, v in node_data.items()])
-        net.add_node(node_id, label=str(display_label), title=title, color=node_color)
-    
-    # Add edges to the Pyvis network and display the relationship type as edge label
-    for edge in G.edges(data=True):
-        edge_data = edge[2]
-        title = '<br>'.join([f"{k}: {v}" for k, v in edge_data.items()])
-        edge_label = edge_data.get("type", "")
-        net.add_edge(edge[0], edge[1], title=title, label=edge_label)
-    
-    # Generate HTML file for visualization
-    with tempfile.NamedTemporaryFile(delete=False, suffix='.html') as tmpfile:
-        net.save_graph(tmpfile.name)
-        return tmpfile.name
+    return find_similar_items(query)
 
 def main():
-    st.title("Neo4j Graph Viewer")
+    st.title("YC Companies Explorer")
     
-    # Sidebar for Neo4j connection settings
-    st.sidebar.header("Neo4j Connection Settings")
-    uri = st.sidebar.text_input("Neo4j URI", NEO4J_URI)
-    user = st.sidebar.text_input("Username", NEO4J_USER)
-    password = st.sidebar.text_input("Password", type="password", value=NEO4J_PASSWORD)
+    # Search bar
+    search_query = st.text_input("Search companies", "")
     
-    # Custom Cypher query input
-    st.sidebar.header("Query Settings")
-    cypher_query = st.sidebar.text_area(
-        "Cypher Query",
-        """
-        MATCH (n)-[r]->(m)
-        RETURN n, r, m
-        LIMIT 100
-        """
-    )
+    # Load data
+    companies = load_data()
     
-    if st.sidebar.button("Connect and Visualize"):
-        try:
-            # Connect to Neo4j
-            conn = Neo4jConnection(uri, user, password)
+    # Filter companies based on search
+    filtered_companies = search_companies(search_query, companies)
+    
+    # Display companies
+    for company in filtered_companies:
+        metadata = company['metadata']
+        
+        # Create a card-like container for each company
+        with st.container():
+            # Make the company name clickable
+            if st.button(metadata['name'], key=f"btn_{company['id']}", use_container_width=True):
+                show_company_details(company)
+                return  # Exit main to show only company details
             
-            with st.spinner("Fetching data from Neo4j..."):
-                # Execute query
-                records = conn.query(cypher_query)
+            # Create columns for layout
+            col1, col2 = st.columns([2, 1])
+            
+            with col1:
+                st.write("**Description:**", metadata['description'])
+                st.write("**Batch:**", metadata['batch'])
+                st.write("**Location:**", metadata['location'])
+                st.write("**Team Size:**", metadata['team_size'])
                 
-                if not records:
-                    st.warning("No data returned from the query.")
-                    return
-                
-                # Create a NetworkX graph from the records
-                G = create_graph_from_neo4j(records)
-                
-                # Visualize the graph using Pyvis
-                html_file = visualize_graph(G)
-                
-                # Display graph in Streamlit
-                with open(html_file, 'r', encoding='utf-8') as f:
-                    html_data = f.read()
-                components.html(html_data, height=600)
-                
-                # Display graph statistics
-                st.subheader("Graph Statistics")
-                st.write(f"Number of nodes: {G.number_of_nodes()}")
-                st.write(f"Number of edges: {G.number_of_edges()}")
-                
-                # Cleanup
-                os.unlink(html_file)
-                conn.close()
-                
-        except Exception as e:
-            st.error(f"Error: {str(e)}")
+                # Display tags
+                if metadata.get('tags'):
+                    st.write("**Tags:**", ", ".join(metadata['tags']))
+            
+            with col2:
+                if metadata.get('website'):
+                    st.write("🔗 [Website](" + metadata['website'] + ")")
+            
+            # Add a separator between companies
+            st.markdown("---")
+
+def show_company_details(company):
+    # Add a back button
+    if st.button("← Back to Companies"):
+        st.rerun()
+    
+    metadata = company['metadata']
+    
+    # Company header with logo
+    col1, col2 = st.columns([1, 3])
+    
+    with col1:
+        if metadata.get('logo'):
+            st.image(metadata['logo'], width=150)
+    
+    with col2:
+        st.title(metadata['name'])
+        if metadata.get('headline'):
+            st.subheader(metadata['headline'])
+    
+    # Company details
+    st.markdown("### Company Information")
+    st.write("**Batch:**", metadata.get('batch', 'N/A'))
+    st.write("**Location:**", metadata.get('location', 'N/A'))
+    st.write("**Team Size:**", metadata.get('team_size', 'N/A'))
+    st.write("**Founded:**", metadata.get('founded_date', 'N/A'))
+    
+    # Links section
+    st.markdown("### Links")
+    cols = st.columns(3)
+    
+    with cols[0]:
+        if metadata.get('website'):
+            st.write("🔗 [Website](" + metadata['website'] + ")")
+    with cols[1]:
+        if metadata.get('ycpage'):
+            st.write("🏢 [YC Page](" + metadata['ycpage'] + ")")
+    
+    # Social links
+    if metadata.get('social_links'):
+        st.markdown("### Social Links")
+        for link in metadata['social_links']:
+            st.write("- " + link)
+    
+    # Description
+    st.markdown("### Description")
+    st.write(metadata.get('description', 'No description available.'))
+    
+    # Generated description (if available)
+    if metadata.get('generated_description'):
+        st.markdown("### Additional Information")
+        st.markdown(metadata['generated_description'])
+    
+    # Founders information
+    st.markdown("### Founders")
+    for i in range(1, 3):  # Support up to 2 founders
+        founder_name = metadata.get(f'founder_{i}_name')
+        founder_desc = metadata.get(f'founder_{i}_description')
+        founder_linkedin = metadata.get(f'founder_{i}_linkedin')
+        
+        if founder_name:
+            st.write(f"**{founder_name}**")
+            if founder_desc:
+                st.write(founder_desc)
+            if founder_linkedin:
+                st.write(f"[LinkedIn Profile]({founder_linkedin})")
+    
+    # Tags
+    if metadata.get('tags'):
+        st.markdown("### Tags")
+        st.write(", ".join(metadata['tags']))
 
 if __name__ == "__main__":
-    main()
+    main() 

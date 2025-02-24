@@ -187,7 +187,7 @@ def explain_UserQuery(query: str) -> str :
     
 
 if __name__ == "__main__":
-    Output = find_similar_items("Company that works on RAG(Retrieval Augmented Generation)")
+    Output = find_similar_items("Company that works on intigrating AI LLM in education ")
     print(Output)
     
     # Save output to JSON file
