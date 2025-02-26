@@ -4,9 +4,29 @@ import json
 import os
 import logging
 from dotenv import load_dotenv
+from prompts import *
+from concurrent.futures import ThreadPoolExecutor
 
+# Load environment variables
+load_dotenv()
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-def normalize_restaurant_data(result):
+# Initialize clients
+pc = Pinecone(api_key=PINECONE_API_KEY)
+client = OpenAI(api_key=OPENAI_API_KEY)
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler("restaurant_process.log"),
+        logging.StreamHandler()
+    ]
+)
+
+def normalize_data(result):
     # If the result object has a 'matches' attribute, use it
     if hasattr(result, 'matches'):
         data = result.matches
@@ -28,24 +48,6 @@ def normalize_restaurant_data(result):
 
     return normalized_data
 
-# Load environment variables
-load_dotenv()
-PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-# Initialize clients
-pc = Pinecone(api_key=PINECONE_API_KEY)
-client = OpenAI(api_key=OPENAI_API_KEY)
-
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-    handlers=[
-        logging.FileHandler("restaurant_process.log"),
-        logging.StreamHandler()
-    ]
-)
 
 def create_embeddings(content):
     """Generate embeddings using OpenAI API."""
@@ -100,7 +102,7 @@ def query_index(index, query_vector, number_of_results):
     else:
         return response
 
-def find_similar_items(query: str) -> list:
+def search_companies(query: str) -> list:
    
     """
     Find similar items based on a query string using Pinecone.
@@ -130,40 +132,10 @@ def find_similar_items(query: str) -> list:
     results = query_index(index, vector, number_of_results)
 
     # Return the list of results
-    data= normalize_restaurant_data(results)
-    # dicto={
-    #     "type": "restaurant",
-    #     "data": data
-    # }
+    data= normalize_data(results)
+    
     return data
 
-SystemPrompt="""Write a concise description to help the user find a company based on their query. Ensure the description incorporates the following points:
-
-- **Mission of the company**: Clearly articulate the company's mission.
-- **Tech Stack of the company**: Highlight the technologies the company utilizes.
-
-Your writing should be clear, engaging, and in the tone of Paul Graham—direct, insightful, and slightly conversational.
-
-# Steps
-
-1. Analyze the user's query to understand their needs.
-2. Identify the key aspects of the company's mission and tech stack.
-3. Write a clear, concise, and engaging description that reflects these aspects.
-4. Ensure the tone is direct, insightful, and conversational, resembling Paul Graham's style.
-
-# Output Format
-
-- A short paragraph comprising 100-150 words.
-- Ensure the language is clear and easy to understand.
-- Use a tone that is direct, insightful, and slightly conversational.
-
-# Examples
-
-**Input**: User is looking for a company that has a strong mission related to sustainability and uses innovative technology.
-
-**Output Example**: "a company passionately driven to make the world sustainable by integrating cutting-edge technology into everyday life. Their mission is simple yet powerful: to reduce carbon footprints globally. Leveraging a multi-faceted tech stack that includes AI-driven solutions and IoT devices, they are continuously innovating to create more sustainable practices. It's all about impact here—transforming our planet for the better, one tech solution at a time."
-
-(Note: The output should be tailored according to the specific company's mission and tech stack, ensuring it reflects the tone and style specified above.)"""
 
 def explain_UserQuery(query: str) -> str :
     messages=[
@@ -181,17 +153,74 @@ def explain_UserQuery(query: str) -> str :
         
     
     return Explained_Qury.choices[0].message.content
-    
-    
-    
-    
 
-if __name__ == "__main__":
-    Output = find_similar_items("Company that Works in Ecommerce USING AI SPECIFICALLY using AI search ")
-    print(Output)
+
+
+def deep_Question(query: str) -> list:
+    """
+    Generate a list of questions based on the query.
+
+    This function takes a query string, generates a list of questions.
     
-    # Save output to JSON file
+    Args:
+        query (str): The query string to find similar items for.
+
+    Returns:
+        list: A list of results that are most similar to the query string.
+    """
+    completion = client.beta.chat.completions.parse(
+    model="gpt-4o",
+    messages=[
+        {"role": "system", "content": SystemPrompt_Question},
+        {"role": "user", "content": query}
+    ],
+    response_format=QuestionGeneration,
+    )
+
+    research_paper = completion.choices[0].message.parsed    
+    return research_paper.questions
+
+def deep_research(query: str) -> list:
+    Questions = deep_Question(query)
+    Datafinal = []
+    
+    # Use ThreadPoolExecutor to parallelize the find_similar_items calls
+    with ThreadPoolExecutor() as executor:
+        # Map the questions to find_similar_items function in parallel
+        results = list(executor.map(search_companies, Questions))
+    
+    # Process all results
+    for Data in results:
+        for item in Data:
+            # Check if an item with the same ID exists in Datafinal
+            existing_item = next((x for x in Datafinal if x['id'] == item['id']), None)
+            
+            if existing_item is None:
+                Datafinal.append(item)
+            else:
+                # Add the scores for items with matching IDs
+                existing_item['score'] += item['score']
+    
+    # Sort the list based on the score attribute
+    Datafinal.sort(key=lambda x: x['score'], reverse=True)
+    return Datafinal
+        
+        
+        
+if __name__ == "__main__":
+    # Output = find_similar_items("Company that Works in Ecommerce USING AI SPECIFICALLY using AI search ")
+    # print(Output)
+    
+    # # Save output to JSON file
+    # with open('search_results.json', 'w', encoding='utf-8') as f:
+    #     json.dump(Output, f, indent=4, ensure_ascii=False)
+    
+    # print("Results saved to search_results.json")
+    
+    output=deep_research("Company that Works in RAG (retrieval-augmented generation) using AI")
+    
     with open('search_results.json', 'w', encoding='utf-8') as f:
-        json.dump(Output, f, indent=4, ensure_ascii=False)
+        json.dump(output, f, indent=4, ensure_ascii=False)
     
     print("Results saved to search_results.json")
+    

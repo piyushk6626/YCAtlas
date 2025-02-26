@@ -1,6 +1,6 @@
 import streamlit as st
 import json
-from serachAgent.search import find_similar_items
+from serachAgent.search import search_companies,deep_research
 import os
 
 
@@ -14,13 +14,22 @@ def load_data():
         # Return empty list as fallback
         return []
     
-def search_companies(query, companies):
+def search_companie(query, companies):
     if not query:
         return companies
     
-    return find_similar_items(query)
+    return deep_research(query)
 
 def main():
+    # Hide streamlit sidebar
+    st.markdown("""
+        <style>
+        [data-testid="stSidebar"] {
+            display: none;
+        }
+        </style>
+    """, unsafe_allow_html=True)
+    
     # Initialize session state
     if 'page' not in st.session_state:
         st.session_state.page = 'home'
@@ -48,7 +57,7 @@ def show_home_page():
     
     # Filter companies based on search
     if search_query:
-        filtered_companies = search_companies(search_query, companies)
+        filtered_companies = search_companie(search_query, companies)
     else:
         filtered_companies = companies
     
@@ -74,7 +83,7 @@ def show_home_page():
             
             with name_col:
                 # Create a button that will navigate to company details
-                if st.button(metadata["name"], key=f"company_{company['id']}"):
+                if st.button(metadata['name'], key=f"company_{company['id']}", use_container_width=True):
                     # Store the selected company in session state
                     st.session_state.selected_company = company
                     # Change the page
@@ -82,8 +91,18 @@ def show_home_page():
                     # Force a rerun to show the new page
                     st.rerun()
                 
-                if metadata.get('headline'):
-                    st.subheader(metadata['headline'])
+                # Add custom CSS to make the button text bigger
+                st.markdown("""
+                    <style>
+                    .stButton button {
+                        font-size: 24px;
+                        font-weight: bold;
+                    }
+                    </style>
+                    """, unsafe_allow_html=True)
+            
+            if metadata.get('headline'):
+                st.subheader(metadata['headline'])
             
             # Create columns for layout
             col1, col2 = st.columns([2, 1])
