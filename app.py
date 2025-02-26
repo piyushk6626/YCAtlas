@@ -18,7 +18,10 @@ def search_companie(query, companies):
     if not query:
         return companies
     
-    return deep_research(query)
+    data= deep_research(query)
+    with open('search_results.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+    return data
 
 def main():
     # Hide streamlit sidebar
@@ -58,6 +61,7 @@ def show_home_page():
     # Filter companies based on search
     if search_query:
         filtered_companies = search_companie(search_query, companies)
+        filtered_companies = load_data()
     else:
         filtered_companies = companies
     

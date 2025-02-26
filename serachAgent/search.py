@@ -4,11 +4,11 @@ import json
 import os
 import logging
 from dotenv import load_dotenv
-from prompts import *
+from .prompts import *
 from concurrent.futures import ThreadPoolExecutor
 
 # Load environment variables
-load_dotenv()
+load_dotenv(override=True)
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
