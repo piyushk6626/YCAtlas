@@ -50,7 +50,7 @@ def main():
             st.rerun()
 
 def show_home_page():
-    st.title("YC Companies Explorer")
+    st.title("YC ATLAS")
     
     # Search bar
     search_query = st.text_input("Search companies", "")
