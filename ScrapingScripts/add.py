@@ -54,20 +54,6 @@ async def process_dataframe(df, max_concurrent=10):
     return df
 
 def main():
-    input_csv = 'output.csv'
-    output_csv = 'output3.csv'
-    df = pd.read_csv(input_csv)
-    
-    if 'status' not in df.columns:
-        df['status'] = False
-    if 'markdown' not in df.columns:
-        df['markdown'] = None
-
-    # Set max_concurrent to control how many tasks run at once.
-    df = asyncio.run(process_dataframe(df, max_concurrent=20))
-    
-    df.to_csv(output_csv, index=False)
-    print(f"Updated CSV has been saved to {output_csv}.")
-
+    print(asyncio.run(crawl_website("https://www.leeroo.com/")))
 if __name__ == "__main__":
     main()

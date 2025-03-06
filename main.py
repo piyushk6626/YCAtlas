@@ -84,7 +84,7 @@ async def crawl_website(url):
                 url=url,
                 config=run_config
             )
-            return result.markdown_v2
+            return result.markdown_v2.raw_markdown
     except Exception as e:
         print(f"Error crawling {url}: {e}")
         return None
