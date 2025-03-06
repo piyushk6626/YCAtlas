@@ -1,5 +1,5 @@
 from .links import scrape_links
-from .scrape import process_csv
+from .scrape import process_csv_to_json
 
 def run_scraping_pipeline(website_url):
     """
@@ -19,7 +19,7 @@ def run_scraping_pipeline(website_url):
     print("Link scraping completed.")
 
     print("Starting company details scraping...")
-    process_csv(links_csv, details_csv)
+    process_csv_to_json(links_csv, details_csv)
     print("Company details scraping completed.")
 
 if __name__ == "__main__":

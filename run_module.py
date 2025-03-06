@@ -18,4 +18,18 @@ if __name__ == "__main__":
     for i in A:
         website_url = "https://www.ycombinator.com/companies?batch="+i
         run_scraping_pipeline(website_url)
-    
+#Crteate Complet Piple Line fromthis code whwere i can run this Module From Main And It will do Follwing Things 
+
+# go to the 
+
+# 1.go to the YC PAGE SCRAPE ALL OF THE LINKS
+
+# Open Each Page get All OF the Data Like Link And all
+
+# Now it will Go And Open The Website Of that startup AND Retrun The RAW MarkDown wIth The Help of Crawl4AI
+
+# Now It Will Pass that DATA to Summerizer LLM to create Human Redable Data
+
+# Now Save ADD VECTOR EMBBEDING FOR THIS 
+
+# NOW SAVE THE DATA IN CHROMADB DONT USE PINCONE AS IN current Code Use ChromaDB 

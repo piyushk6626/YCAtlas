@@ -25,7 +25,7 @@ def scroll_page(driver):
     numb = 0
     while numb < 5000:
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(10)  # Adjust the sleep time as per the loading speed of the page
+        time.sleep(5)  # Adjust the sleep time as per the loading speed of the page
         numb = Number_of_Loaded_Product(driver.page_source)
         new_height = driver.execute_script("return document.body.scrollHeight")
         if new_height == last_height:
@@ -43,7 +43,8 @@ def scrape_links(url, output_file):
     scroll_page(driver)
 
     # Find all anchor tags with the specified class
-    links = driver.find_elements(By.XPATH, '//a[@class="_company_1pgsr_355"]')
+    links = driver.find_elements(By.XPATH, '//a[@class="_company_i9oky_355"]')
+    print(f"Found {len(links)} links on the page.")
     for link in links:
         href = link.get_attribute('href')
         if href:
@@ -60,6 +61,6 @@ def scrape_links(url, output_file):
     driver.quit()
 
 if __name__ == "__main__":
-    website_url = "https://www.ycombinator.com/companies?batch=W25"  # Replace with your target website
+    website_url = "https://www.ycombinator.com/companies?batch=X25"  # Replace with your target website
     output_csv = "yc25.csv"
     scrape_links(website_url, output_csv) 
