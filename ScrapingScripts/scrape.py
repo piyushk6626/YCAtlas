@@ -1,8 +1,11 @@
 import csv
 import requests
 import os
+import json
 from lxml import html
 from concurrent.futures import ThreadPoolExecutor
+from PIL import Image
+import io
 
 def scrape_page(url):
     try:
@@ -60,6 +63,44 @@ def scrape_page(url):
                 "LinkedIn": linkedin
             })
 
+        # ---------------------
+        # Extract Logo URL, download and process the image
+        # ---------------------
+        logo_url = ''.join(tree.xpath('//img[@class="h-full w-full rounded-xl"]/@src')).strip()
+        if logo_url:
+            try:
+                response_logo = requests.get(logo_url)
+                response_logo.raise_for_status()
+                img_bytes = io.BytesIO(response_logo.content)
+                img = Image.open(img_bytes)
+
+                # Add a white background if the image has transparency.
+                if img.mode in ('RGBA', 'LA'):
+                    background = Image.new("RGB", img.size, (255, 255, 255))
+                    background.paste(img, mask=img.split()[-1])
+                    img = background
+                else:
+                    img = img.convert("RGB")
+
+                # Prepare the logos directory.
+                logos_dir = os.path.join("data", "logos")
+                if not os.path.exists(logos_dir):
+                    os.makedirs(logos_dir)
+
+                # Use company name as the filename with spaces replaced by underscores.
+                company_name = data.get("Name", "default_company").replace(" ", "_")
+                logo_filename = f"{company_name}.png"
+                logo_path = os.path.join(logos_dir, logo_filename)
+
+                # Save the processed image.
+                img.save(logo_path)
+                data["logo_path"] = logo_path
+            except Exception as e:
+                print(f"Error processing logo from {logo_url}: {e}")
+                data["logo_path"] = ""
+        else:
+            data["logo_path"] = ""
+
         print(f"Scraped: {url}")
         return data
 
@@ -76,7 +117,7 @@ def process_row(row):
     The scraped data is added to the row.
     """
     url = row.get("Links")
-    row["Links"] = url  # Ensure the link is saved in the output CSV
+    row["Links"] = url  # Ensure the link is saved in the output JSON
     if url:
         try:
             scraped_data = scrape_page(url)
@@ -86,58 +127,33 @@ def process_row(row):
                     if key != "Active_Founders":
                         row[key] = scraped_data[key]
 
-                # Fill founder columns (up to 7 founders)
-                for i, founder in enumerate(scraped_data.get("Active_Founders", [])[:7], 1):
-                    row[f"Founder{i}_Name"] = founder.get("Name", "")
-                    row[f"Founder{i}_Description"] = founder.get("Description", "")
-                    row[f"Founder{i}_LinkedIn"] = founder.get("LinkedIn", "")
+                # Add the list of active founders to the row
+                row["Active_Founders"] = scraped_data.get("Active_Founders", [])
         except Exception as e:
             print(f"Error scraping {url}: {e}")
     return row
 
-def process_csv(input_file, output_file):
-    # Define up to 7 founder columns (columns 1-7 for each of Name, Description, LinkedIn)
-    founder_columns = [
-        f"Founder{i}_{attr}"
-        for i in range(1, 8)
-        for attr in ["Name", "Description", "LinkedIn"]
-    ]
-
+def process_csv_to_json(input_file, output_file):
     rows = []
     # Read all rows from the input CSV
     with open(input_file, mode='r', newline='', encoding='utf-8') as infile:
         reader = csv.DictReader(infile)
         for row in reader:
             rows.append(row)
-        # Prepare the fieldnames for the output CSV
-        fieldnames = reader.fieldnames + [
-            "Name", "Headline", "Batch", "Description", "Activity_Status", "Website",
-            "Founded_Date", "Team_Size", "Location",
-            "Group_Partner", "Group_Partner_YC", "Company_Linkedin",
-            "Company_Twitter", "Tags"
-        ] + founder_columns
 
     # Use a ThreadPoolExecutor to process rows in parallel.
     with ThreadPoolExecutor(max_workers=10) as executor:
         processed_rows = list(executor.map(process_row, rows))
 
-    # Check if the output file already exists
-    file_exists = os.path.exists(output_file)
-    with open(output_file, mode='a', newline='', encoding='utf-8') as outfile:
-        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
-        # If the file does not exist, write the header first
-        if not file_exists:
-            writer.writeheader()
-
-        # Write each processed row to the CSV
-        for row in processed_rows:
-            writer.writerow(row)
+    # Save the processed rows as a JSON file.
+    with open(output_file, mode='w', encoding='utf-8') as outfile:
+        json.dump(processed_rows, outfile, indent=4)
 
 if __name__ == "__main__":
     # Input and output file paths
     input_csv = "yclinks.csv"
-    output_csv = "ycdet.csv"
+    output_json = "ycdet.json"
 
-    # Process the CSV by appending new data in parallel
-    process_csv(input_csv, output_csv)
-    print(f"Processed CSV saved to {output_csv}")
+    # Process the CSV and save the data to JSON in parallel.
+    process_csv_to_json(input_csv, output_json)
+    print(f"Processed data saved to {output_json}")
