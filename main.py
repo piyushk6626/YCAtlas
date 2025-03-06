@@ -3,7 +3,6 @@ import json
 import time
 import pandas as pd
 import asyncio
-import chromadb
 from dotenv import load_dotenv
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
@@ -58,6 +57,15 @@ def generate_user_prompt(markdown, name, headline, batch, description, activity_
     """
     return output
 
+# Helper function to get file path for a company
+def get_company_json_path(company, output_folder):
+    """Generate the JSON file path for a company"""
+    name = company.get('Name', 'Unknown')
+    safe_name = "".join(c if c.isalnum() else "_" for c in str(name))
+    batch = company.get('Batch', 'unknown')
+    filename = f"{safe_name}_{batch}.json"
+    return os.path.join(output_folder, filename)
+
 # 1 & 2. Scraping YC page and getting company details
 def scrape_yc_companies(batch_url, links_csv, details_json):
     """
@@ -89,13 +97,31 @@ async def crawl_website(url):
         print(f"Error crawling {url}: {e}")
         return None
 
-async def crawl_all_websites(companies_data, max_concurrent=10):
-    """Crawl all company websites in parallel"""
+async def crawl_all_websites(companies_data, output_folder, max_concurrent=10):
+    """Crawl all company websites in parallel, skip if already processed"""
     semaphore = asyncio.Semaphore(max_concurrent)
     crawl_tasks = []
     
     async def crawl_with_semaphore(company):
         async with semaphore:
+            # Check if company JSON already exists
+            file_path = get_company_json_path(company, output_folder)
+            
+            if os.path.exists(file_path):
+                print(f"Skipping {company.get('Name', 'Unknown')}: Already processed")
+                try:
+                    # Load existing data
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        existing_data = json.load(f)
+                    # Merge any new basic info but keep processed data
+                    for key in company:
+                        if key not in existing_data:
+                            existing_data[key] = company[key]
+                    return existing_data
+                except Exception as e:
+                    print(f"Error loading existing data for {company.get('Name', 'Unknown')}: {e}")
+                    # Continue with crawling if loading fails
+            
             website = company.get('Website')
             if website and isinstance(website, str) and website.strip():
                 try:
@@ -123,92 +149,7 @@ async def crawl_all_websites(companies_data, max_concurrent=10):
     
     return await asyncio.gather(*crawl_tasks)
 
-# 4. Generate summaries using an LLM
-def generate_company_description(company_data):
-    """Generate a company description using LLM"""
-    client = get_openai_client()
-    
-    # Extract required fields
-    markdown = company_data.get('markdown', '')
-    name = company_data.get('Name', '')
-    headline = company_data.get('Headline', '')
-    batch = company_data.get('Batch', '')
-    description = company_data.get('Description', '')
-    activity_status = company_data.get('Activity_Status', '')
-    website = company_data.get('Website', '')
-    founded_date = company_data.get('Founded_Date', '')
-    team_size = company_data.get('Team_Size', '')
-    location = company_data.get('Location', '')
-    group_partner = company_data.get('Group_Partner', '')
-    tags = company_data.get('Tags', '')
-    
-    if not markdown:
-        print(f"No markdown content for {name}, skipping summary generation")
-        return None
-    
-    try:
-        user_prompt = generate_user_prompt(
-            markdown, name, headline, batch, description, activity_status,
-            website, founded_date, team_size, location, group_partner, tags
-        )
-        
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",  # or another model of your choice
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": user_prompt}
-            ]
-        )
-        
-        return response.choices[0].message.content
-    except Exception as e:
-        print(f"Error generating description for {name}: {e}")
-        return None
-
-def generate_all_descriptions(companies_data, output_folder, num_processes=None):
-    """Generate descriptions for all companies and save to JSON files"""
-    os.makedirs(output_folder, exist_ok=True)
-    
-    if num_processes is None:
-        num_processes = max(1, int(cpu_count() * 0.75))
-    
-    def process_company(company):
-        try:
-            # Skip if the company wasn't crawled successfully
-            if not company.get('crawl_status', False):
-                print(f"Skipping {company.get('Name', 'Unknown')}: No crawl data")
-                return company
-            
-            # Generate description
-            company['generated_description'] = generate_company_description(company)
-            
-            # Save as individual JSON
-            if company.get('generated_description'):
-                safe_name = "".join(c if c.isalnum() else "_" for c in str(company.get('Name', 'unknown')))
-                batch = company.get('Batch', 'unknown')
-                filename = f"{safe_name}_{batch}.json"
-                file_path = os.path.join(output_folder, filename)
-                
-                with open(file_path, 'w', encoding='utf-8') as f:
-                    json.dump(company, f, ensure_ascii=False, indent=2)
-                
-                print(f"Saved description for {company.get('Name', 'Unknown')}")
-            
-            return company
-        except Exception as e:
-            print(f"Error processing {company.get('Name', 'Unknown')}: {e}")
-            return company
-    
-    with ThreadPoolExecutor(max_workers=num_processes) as executor:
-        processed_companies = list(executor.map(process_company, companies_data))
-    
-    # Save all processed companies to a single JSON file
-    with open(os.path.join(output_folder, "all_companies.json"), 'w', encoding='utf-8') as f:
-        json.dump(processed_companies, f, ensure_ascii=False, indent=2)
-    
-    return processed_companies
-
-# 5. Generate embeddings for companies
+# Generate embeddings for text
 def generate_embedding(text):
     """Generate embedding for text using OpenAI API"""
     client = get_openai_client()
@@ -222,85 +163,93 @@ def generate_embedding(text):
         print(f"Error generating embedding: {e}")
         return None
 
-def generate_all_embeddings(companies_data, num_processes=None):
-    """Generate embeddings for all companies with descriptions"""
+# 4. Generate summaries and embeddings, then save each company individually
+def process_company(company, output_folder):
+    """Process a single company: generate description, embedding, and save to JSON"""
+    try:
+        name = company.get('Name', 'Unknown')
+        file_path = get_company_json_path(company, output_folder)
+        
+        # Check if already processed
+        if os.path.exists(file_path):
+            print(f"Skipping processing for {name}: Already exists")
+            return company
+        
+        # Skip if the company wasn't crawled successfully
+        if not company.get('crawl_status', False):
+            print(f"Skipping {name}: No crawl data")
+            return company
+        
+        client = get_openai_client()
+        
+        # Extract required fields
+        markdown = company.get('markdown', '')
+        headline = company.get('Headline', '')
+        batch = company.get('Batch', '')
+        description = company.get('Description', '')
+        activity_status = company.get('Activity_Status', '')
+        website = company.get('Website', '')
+        founded_date = company.get('Founded_Date', '')
+        team_size = company.get('Team_Size', '')
+        location = company.get('Location', '')
+        group_partner = company.get('Group_Partner', '')
+        tags = company.get('Tags', '')
+        
+        if not markdown:
+            print(f"No markdown content for {name}, skipping")
+            return company
+        
+        # Generate description
+        user_prompt = generate_user_prompt(
+            markdown, name, headline, batch, description, activity_status,
+            website, founded_date, team_size, location, group_partner, tags
+        )
+        
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",  # or another model of your choice
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt}
+            ]
+        )
+        
+        company['generated_description'] = response.choices[0].message.content
+        
+        # Generate embedding for the description
+        if company['generated_description']:
+            company['embedding'] = generate_embedding(company['generated_description'])
+            print(f"Generated embedding for {name}")
+        
+        # Save as individual JSON
+        if company.get('generated_description'):
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(company, f, ensure_ascii=False, indent=2)
+            
+            print(f"Saved description and embedding for {name}")
+        
+        return company
+    except Exception as e:
+        print(f"Error processing {company.get('Name', 'Unknown')}: {e}")
+        return company
+
+def process_all_companies(companies_data, output_folder, num_processes=None):
+    """Process all companies and save individual JSON files"""
+    os.makedirs(output_folder, exist_ok=True)
+    
     if num_processes is None:
         num_processes = max(1, int(cpu_count() * 0.75))
     
-    def process_company_embedding(company):
-        try:
-            description = company.get('generated_description', '')
-            if description:
-                company['embedding'] = generate_embedding(description)
-                print(f"Generated embedding for {company.get('Name', 'Unknown')}")
-            return company
-        except Exception as e:
-            print(f"Error generating embedding for {company.get('Name', 'Unknown')}: {e}")
-            return company
+    # Partial function with fixed output_folder parameter
+    process_func = functools.partial(process_company, output_folder=output_folder)
     
     with ThreadPoolExecutor(max_workers=num_processes) as executor:
-        return list(tqdm(
-            executor.map(process_company_embedding, companies_data),
+        processed_companies = list(tqdm(
+            executor.map(process_func, companies_data),
             total=len(companies_data),
-            desc="Generating embeddings"
+            desc="Processing companies"
         ))
-
-# 6. Store in ChromaDB
-def store_in_chromadb(companies_data, collection_name="yc_companies"):
-    """Store company data in ChromaDB"""
-    # Initialize ChromaDB client
-    chroma_client = chromadb.Client()
     
-    # Create or get collection
-    try:
-        collection = chroma_client.get_or_create_collection(name=collection_name)
-        print(f"Working with ChromaDB collection: {collection_name}")
-        
-        # Prepare data for ChromaDB
-        ids = []
-        documents = []
-        embeddings = []
-        metadatas = []
-        
-        for i, company in enumerate(companies_data):
-            if not company.get('embedding') or not company.get('generated_description'):
-                continue
-                
-            company_id = f"company_{i}"
-            ids.append(company_id)
-            
-            # Add description as document
-            documents.append(company.get('generated_description', ''))
-            
-            # Add embedding
-            embeddings.append(company.get('embedding'))
-            
-            # Add metadata
-            metadata = {
-                "name": company.get('Name', ''),
-                "batch": company.get('Batch', ''),
-                "website": company.get('Website', ''),
-                "location": company.get('Location', ''),
-                "tags": company.get('Tags', '')
-            }
-            metadatas.append(metadata)
-        
-        # Add data to collection
-        if ids:
-            collection.add(
-                ids=ids,
-                documents=documents,
-                embeddings=embeddings,
-                metadatas=metadatas
-            )
-            print(f"Added {len(ids)} companies to ChromaDB")
-        else:
-            print("No valid companies to add to ChromaDB")
-        
-        return True
-    except Exception as e:
-        print(f"Error storing in ChromaDB: {e}")
-        return False
+    return processed_companies
 
 # Main pipeline function
 async def run_pipeline(batch_url, output_dir="data"):
@@ -311,7 +260,8 @@ async def run_pipeline(batch_url, output_dir="data"):
     os.makedirs(output_dir, exist_ok=True)
     links_csv = os.path.join(output_dir, "yc_links.csv")
     details_json = os.path.join(output_dir, "yc_details.json")
-    descriptions_dir = os.path.join(output_dir, "company_descriptions")
+    company_jsons_dir = os.path.join(output_dir, "company_jsons")
+    os.makedirs(company_jsons_dir, exist_ok=True)
     
     # Step 1 & 2: Scrape YC page for links and company details
     details_json = scrape_yc_companies(batch_url, links_csv, details_json)
@@ -322,32 +272,21 @@ async def run_pipeline(batch_url, output_dir="data"):
     
     print(f"Loaded details for {len(companies_data)} companies")
     
-    # Step 3: Crawl company websites
+    # Step 3: Crawl company websites (with skip for already processed)
     print("Crawling company websites...")
-    companies_data = await crawl_all_websites(companies_data, max_concurrent=10)
+    companies_data = await crawl_all_websites(companies_data, company_jsons_dir, max_concurrent=10)
     
-    # Save intermediate results
-    with open(os.path.join(output_dir, "companies_with_markdown.json"), 'w', encoding='utf-8') as f:
-        json.dump(companies_data, f, ensure_ascii=False, indent=2)
-    
-    # Step 4: Generate descriptions
-    print("Generating company descriptions...")
-    companies_data = generate_all_descriptions(companies_data, descriptions_dir)
-    
-    # Step 5: Generate embeddings
-    print("Generating embeddings...")
-    companies_data = generate_all_embeddings(companies_data)
-    
-    # Save companies with embeddings
-    with open(os.path.join(output_dir, "companies_with_embeddings.json"), 'w', encoding='utf-8') as f:
-        json.dump(companies_data, f, ensure_ascii=False, indent=2)
-    
-    # Step 6: Store in ChromaDB
-    print("Storing data in ChromaDB...")
-    store_in_chromadb(companies_data)
+    # Step 4: Process companies (generate descriptions, embeddings, and save individual JSONs)
+    print("Processing companies...")
+    processed_companies = process_all_companies(companies_data, company_jsons_dir)
     
     end_time = time.time()
     print(f"Complete pipeline executed in {end_time - start_time:.2f} seconds")
+    
+    # Count how many companies were processed and how many were skipped
+    processed_count = len([c for c in processed_companies if c.get('generated_description')])
+    skipped_count = len(companies_data) - processed_count
+    print(f"Processed {processed_count} companies, skipped {skipped_count} already existing companies")
 
 # Main entry point
 def main():
@@ -359,6 +298,8 @@ def main():
                         help="Output directory")
     parser.add_argument("--max-concurrent", type=int, default=10,
                         help="Maximum concurrent requests")
+    parser.add_argument("--force-refresh", action="store_true",
+                        help="Force refresh all companies, ignoring existing files")
     
     args = parser.parse_args()
     
