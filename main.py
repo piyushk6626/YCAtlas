@@ -292,7 +292,7 @@ async def run_pipeline(batch_url, output_dir="data"):
 def main():
     """Main entry point for running the YC scraper pipeline"""
     parser = argparse.ArgumentParser(description="YC Company Scraper Pipeline")
-    parser.add_argument("--batch", type=str, default="X25", 
+    parser.add_argument("--batch", type=str, default="W25", 
                         help="YC batch to scrape (e.g., W25, S24)")
     parser.add_argument("--output", type=str, default="data",
                         help="Output directory")
