@@ -48,6 +48,21 @@ def scrape_page(url):
                 tags.append(f"{major}:{minor}")
         data["Tags"] = "; ".join(tags)
 
+        # --------------------
+        # Extract Social Links
+        # --------------------
+        social_links=[]
+        Socail_Media = tree.xpath('//div[@class="flex items-center gap-4 pt-2"]/a')
+        for social in Socail_Media:
+            social_media = ''.join(social.xpath('.//@href')).strip()
+            social_links.append(social_media)
+            if "linkedin" in social_media:
+                data["Company_Linkedin"] = social_media
+            elif "twitter" in social_media:
+                data["Company_Twitter"] = social_media
+        
+        data['social_links']=social_links
+        
         # ---------------------
         # Extract Active Founders details
         # ---------------------

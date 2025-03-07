@@ -260,7 +260,7 @@ async def run_pipeline(batch_url, output_dir="data"):
     os.makedirs(output_dir, exist_ok=True)
     links_csv = os.path.join(output_dir, "yc_links.csv")
     details_json = os.path.join(output_dir, "yc_details.json")
-    company_jsons_dir = os.path.join(output_dir, "company_jsons")
+    company_jsons_dir = os.path.join(output_dir, "company_descriptions")
     os.makedirs(company_jsons_dir, exist_ok=True)
     
     # Step 1 & 2: Scrape YC page for links and company details
