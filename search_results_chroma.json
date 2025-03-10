@@ -1,392 +1,152 @@
 [
     {
         "id": "SciPhi_W24",
-        "score": 0.6769744753837585,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W24",
-            "founded_date": 2023.0,
-            "location": "San Francisco",
-            "name": "SciPhi",
-            "tags": "industry:artificial-intelligence; industry:search; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
-            "team_size": 2.0
-        }
-    },
-    {
-        "id": "Ragas_W24",
-        "score": 0.6510965824127197,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W24",
-            "founded_date": 2023.0,
-            "location": "San Francisco",
-            "name": "Ragas",
-            "tags": "industry:developer-tools; industry:generative-ai; industry:open-source; industry:ai; location:san-francisco-bay-area",
-            "team_size": 2.0
-        }
+        "score": 0.6936721801757812,
+        "metadata": {}
     },
     {
         "id": "Chima_W23",
-        "score": 0.6399087905883789,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W23",
-            "founded_date": 2022.0,
-            "location": "San Francisco",
-            "name": "Chima",
-            "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:b2b; industry:ai; location:san-francisco-bay-area",
-            "team_size": 7.0
-        }
+        "score": 0.6464658379554749,
+        "metadata": {}
     },
     {
         "id": "Circlemind_F24",
-        "score": 0.6372603178024292,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "F24",
-            "founded_date": 2024.0,
-            "location": "",
-            "name": "Circlemind",
-            "tags": "industry:artificial-intelligence; industry:deep-learning; industry:developer-tools; industry:generative-ai; industry:saas",
-            "team_size": 3.0
-        }
-    },
-    {
-        "id": "Lucidic_AI_W25",
-        "score": 0.6309440732002258,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W25",
-            "founded_date": 2025.0,
-            "location": "San Francisco",
-            "name": "Lucidic AI",
-            "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:automation; location:san-francisco-bay-area",
-            "team_size": 3.0
-        }
+        "score": 0.6377084851264954,
+        "metadata": {}
     },
     {
         "id": "Superpowered_AI_S22",
-        "score": 0.6296600103378296,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S22",
-            "founded_date": 2021.0,
-            "location": "Salt Lake City, UT",
-            "name": "Superpowered AI",
-            "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:saas; industry:b2b",
-            "team_size": 4.0
-        }
-    },
-    {
-        "id": "Scale_AI_S16",
-        "score": 0.6294617652893066,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S16",
-            "founded_date": 2016.0,
-            "location": "San Francisco",
-            "name": "Scale AI",
-            "tags": "industry:artificial-intelligence; industry:machine-learning; location:san-francisco-bay-area",
-            "team_size": 500.0
-        }
-    },
-    {
-        "id": "AnswerGrid_S24",
-        "score": 0.6241423487663269,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S24",
-            "founded_date": 2024.0,
-            "location": "San Francisco",
-            "name": "AnswerGrid",
-            "tags": "industry:artificial-intelligence; industry:generative-ai; industry:productivity; location:san-francisco-bay-area",
-            "team_size": 2.0
-        }
+        "score": 0.6290228366851807,
+        "metadata": {}
     },
     {
         "id": "Sourceress_S17",
-        "score": 0.6223326325416565,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S17",
-            "founded_date": 2021.0,
-            "location": "San Francisco",
-            "name": "Sourceress",
-            "tags": "industry:artificial-intelligence; industry:machine-learning; industry:data-engineering; location:san-francisco-bay-area",
-            "team_size": 35.0
-        }
+        "score": 0.6209301948547363,
+        "metadata": {}
     },
     {
-        "id": "SID_S23",
-        "score": 0.6176788806915283,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S23",
-            "founded_date": 2023.0,
-            "location": "",
-            "name": "SID",
-            "tags": "",
-            "team_size": 3.0
-        }
+        "id": "Lucidic_AI_W25",
+        "score": 0.6192712187767029,
+        "metadata": {}
     },
     {
-        "id": "Storia_AI_S24",
-        "score": 0.6170634627342224,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S24",
-            "founded_date": 2023.0,
-            "location": "Millbrae, CA",
-            "name": "Storia AI",
-            "tags": "industry:artificial-intelligence; industry:developer-tools; industry:machine-learning; industry:saas; location:san-francisco-bay-area",
-            "team_size": 2.0
-        }
-    },
-    {
-        "id": "Superb_AI_W19",
-        "score": 0.6162387728691101,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W19",
-            "founded_date": 2018.0,
-            "location": "San Mateo, CA",
-            "name": "Superb AI",
-            "tags": "industry:deep-learning; industry:saas; industry:b2b; location:san-francisco-bay-area",
-            "team_size": 90.0
-        }
+        "id": "Ragas_W24",
+        "score": 0.6184184551239014,
+        "metadata": {}
     },
     {
         "id": "Inventive_AI_S23",
-        "score": 0.6160133481025696,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S23",
-            "founded_date": 2023.0,
-            "location": "Mountain View",
-            "name": "Inventive AI",
-            "tags": "industry:generative-ai; industry:saas; industry:b2b; industry:sales; industry:ai; location:san-francisco-bay-area",
-            "team_size": 5.0
-        }
-    },
-    {
-        "id": "dmodel_S24",
-        "score": 0.6132830381393433,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S24",
-            "founded_date": 2024.0,
-            "location": "San Francisco",
-            "name": "dmodel",
-            "tags": "industry:generative-ai; industry:saas; industry:compliance; industry:api; industry:ai; location:san-francisco-bay-area",
-            "team_size": 3.0
-        }
-    },
-    {
-        "id": "Deasy_Labs_S23",
-        "score": 0.612065315246582,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S23",
-            "founded_date": 2023.0,
-            "location": "",
-            "name": "Deasy Labs",
-            "tags": "industry:artificial-intelligence; industry:data-labeling; industry:big-data; industry:ai-assistant; industry:databases",
-            "team_size": 3.0
-        }
-    },
-    {
-        "id": "Tavus_S21",
-        "score": 0.6111220121383667,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S21",
-            "founded_date": 2021.0,
-            "location": "San Francisco",
-            "name": "Tavus",
-            "tags": "industry:artificial-intelligence; industry:generative-ai; industry:b2b; industry:video; industry:infrastructure; location:san-francisco-bay-area",
-            "team_size": 30.0
-        }
-    },
-    {
-        "id": "Relari_W24",
-        "score": 0.610027015209198,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W24",
-            "founded_date": 2023.0,
-            "location": "",
-            "name": "Relari",
-            "tags": "",
-            "team_size": 2.0
-        }
+        "score": 0.6178105473518372,
+        "metadata": {}
     },
     {
         "id": "Hegel_AI_S23",
-        "score": 0.6087440848350525,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S23",
-            "founded_date": 2023.0,
-            "location": "",
-            "name": "Hegel AI",
-            "tags": "",
-            "team_size": 2.0
-        }
+        "score": 0.6102145910263062,
+        "metadata": {}
+    },
+    {
+        "id": "AnswerGrid_S24",
+        "score": 0.6084871292114258,
+        "metadata": {}
+    },
+    {
+        "id": "Tavus_S21",
+        "score": 0.6084101796150208,
+        "metadata": {}
+    },
+    {
+        "id": "dmodel_S24",
+        "score": 0.6049409508705139,
+        "metadata": {}
     },
     {
         "id": "Leaping_AI_W25",
-        "score": 0.6060800552368164,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W25",
-            "founded_date": 2023.0,
-            "location": "San Francisco",
-            "name": "Leaping AI",
-            "tags": "industry:generative-ai; industry:customer-service; industry:conversational-ai; location:san-francisco-bay-area",
-            "team_size": 6.0
-        }
-    },
-    {
-        "id": "AXAR_AI_W21",
-        "score": 0.6060336828231812,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W21",
-            "founded_date": 2025.0,
-            "location": "Mountain View",
-            "name": "AXAR AI",
-            "tags": "industry:artificial-intelligence; industry:developer-tools; industry:open-source; location:san-francisco-bay-area",
-            "team_size": 3.0
-        }
-    },
-    {
-        "id": "Deepgram_W16",
-        "score": 0.6051337718963623,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W16",
-            "founded_date": 2015.0,
-            "location": "San Francisco",
-            "name": "Deepgram",
-            "tags": "industry:ai-enhanced-learning; industry:artificial-intelligence; industry:api; location:san-francisco-bay-area",
-            "team_size": 115.0
-        }
-    },
-    {
-        "id": "Stack_AI_W23",
-        "score": 0.603169322013855,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W23",
-            "founded_date": 2022.0,
-            "location": "San Francisco",
-            "name": "Stack AI",
-            "tags": "industry:artificial-intelligence; industry:enterprise; industry:automation; location:san-francisco-bay-area",
-            "team_size": 16.0
-        }
-    },
-    {
-        "id": "Defog_ai_W23",
-        "score": 0.6024295091629028,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W23",
-            "founded_date": 2023.0,
-            "location": "Mountain View",
-            "name": "Defog.ai",
-            "tags": "industry:developer-tools; industry:generative-ai; industry:machine-learning; industry:open-source; industry:enterprise; location:san-francisco-bay-area",
-            "team_size": 5.0
-        }
-    },
-    {
-        "id": "Tara_AI_W15",
-        "score": 0.6006865501403809,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W15",
-            "founded_date": 2018.0,
-            "location": "San Jose, CA",
-            "name": "Tara AI",
-            "tags": "industry:artificial-intelligence; industry:generative-ai; industry:saas; industry:devops; industry:ai; location:san-francisco-bay-area",
-            "team_size": 13.0
-        }
+        "score": 0.6044430136680603,
+        "metadata": {}
     },
     {
         "id": "Gait_F24",
-        "score": 0.6006295680999756,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "F24",
-            "founded_date": 2024.0,
-            "location": "San Francisco",
-            "name": "Gait",
-            "tags": "industry:developer-tools; industry:ai; location:san-francisco-bay-area",
-            "team_size": 2.0
-        }
+        "score": 0.6029694080352783,
+        "metadata": {}
     },
     {
-        "id": "General_Analysis_S24",
-        "score": 0.5999398231506348,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S24",
-            "founded_date": 2024.0,
-            "location": "San Francisco",
-            "name": "General Analysis",
-            "tags": "industry:artificial-intelligence; industry:saas; industry:trust-&-safety; location:san-francisco-bay-area",
-            "team_size": 2.0
-        }
+        "id": "SID_S23",
+        "score": 0.6025167107582092,
+        "metadata": {}
     },
     {
-        "id": "Sage_AI_W23",
-        "score": 0.5995609760284424,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W23",
-            "founded_date": 2023.0,
-            "location": "San Francisco",
-            "name": "Sage AI",
-            "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:ai-assistant; location:san-francisco-bay-area",
-            "team_size": 2.0
-        }
+        "id": "Storia_AI_S24",
+        "score": 0.6020335555076599,
+        "metadata": {}
     },
     {
-        "id": "DAGWorks_Inc__W23",
-        "score": 0.5985767841339111,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W23",
-            "founded_date": 2022.0,
-            "location": "San Francisco",
-            "name": "DAGWorks Inc.",
-            "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:open-source; location:san-francisco-bay-area",
-            "team_size": 2.0
-        }
+        "id": "Deasy_Labs_S23",
+        "score": 0.6017919778823853,
+        "metadata": {}
     },
     {
-        "id": "Exa_S21",
-        "score": 0.5974632501602173,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "S21",
-            "founded_date": 2021.0,
-            "location": "San Francisco",
-            "name": "Exa",
-            "tags": "industry:search; industry:ai; industry:apis; location:san-francisco-bay-area",
-            "team_size": 7.0
-        }
+        "id": "Dataleap_S24",
+        "score": 0.6009229421615601,
+        "metadata": {}
     },
     {
-        "id": "Nuanced_W24",
-        "score": 0.5961789488792419,
-        "metadata": {
-            "activity_status": "Active",
-            "batch": "W24",
-            "founded_date": 2023.0,
-            "location": "San Francisco",
-            "name": "Nuanced",
-            "tags": "industry:artificial-intelligence; industry:developer-tools; industry:ai-assistant; location:san-francisco-bay-area",
-            "team_size": 2.0
-        }
+        "id": "Decohere_W23",
+        "score": 0.5995553731918335,
+        "metadata": {}
+    },
+    {
+        "id": "Relari_W24",
+        "score": 0.5985246300697327,
+        "metadata": {}
+    },
+    {
+        "id": "Superb_AI_W19",
+        "score": 0.5982924699783325,
+        "metadata": {}
+    },
+    {
+        "id": "ZeroEntropy_W25",
+        "score": 0.5982436947533261,
+        "metadata": {}
+    },
+    {
+        "id": "Artificial_Societies_W25",
+        "score": 0.5975770354270935,
+        "metadata": {}
+    },
+    {
+        "id": "Taylor_AI_S23",
+        "score": 0.5965757369995117,
+        "metadata": {}
+    },
+    {
+        "id": "Reworkd_S23",
+        "score": 0.5959222316741943,
+        "metadata": {}
+    },
+    {
+        "id": "Vaero_W23",
+        "score": 0.5948507785797119,
+        "metadata": {}
+    },
+    {
+        "id": "IvyCheck_S22",
+        "score": 0.5943293571472168,
+        "metadata": {}
+    },
+    {
+        "id": "Deepgram_W16",
+        "score": 0.5942202210426331,
+        "metadata": {}
+    },
+    {
+        "id": "Automorphic_S23",
+        "score": 0.5941476225852966,
+        "metadata": {}
+    },
+    {
+        "id": "Augento_W25",
+        "score": 0.5930700302124023,
+        "metadata": {}
     }
 ]

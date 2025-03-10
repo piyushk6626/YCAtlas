@@ -10,8 +10,8 @@ from multiprocessing import Pool, cpu_count
 import functools
 
 # Import modules from ScrapingScripts
-from ScrapingScripts.links import scrape_links, setup_driver, Number_of_Loaded_Product, scroll_page
-from ScrapingScripts.scrape import scrape_page, process_csv_to_json
+from ScrapingScripts.links import scrape_links
+from ScrapingScripts.scrape import process_csv_to_json
 
 # Import for AsyncWebCrawler
 from crawl4ai import AsyncWebCrawler

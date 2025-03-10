@@ -85,7 +85,7 @@ def query_collection(collection, query_vector, number_of_results):
     results = collection.query(
         query_embeddings=[query_vector],
         n_results=number_of_results,
-        include=["metadatas", "distances"]
+        include=["distances"]
     )
     
     return results
@@ -151,7 +151,8 @@ def deep_Question(query: str) -> list:
         list: A list of questions derived from the query.
     """
     completion = client.beta.chat.completions.parse(
-        model="gpt-4o",
+        model="o3-mini",
+        reasoning_effort="low",
         messages=[
             {"role": "system", "content": SystemPrompt_Question},
             {"role": "user", "content": query}

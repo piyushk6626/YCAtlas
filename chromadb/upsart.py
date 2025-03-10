@@ -70,15 +70,32 @@ def process_json_files(directory: str) -> List[Dict[str, Any]]:
             if 'tags' in data:
                 document_content += f"\nTags: {data['tags']}"
                 
-            # Prepare metadata for filtering - ensure no None values
+            # Add social links if available
+            if 'social_links' in data and isinstance(data['social_links'], list):
+                social_links_str = ", ".join(data['social_links'])
+                document_content += f"\nSocial Links: {social_links_str}"
+                
+            # Prepare metadata for filtering - ensure no None values and convert complex types to strings
             metadata = {
                 "name": data.get('name', '') or '',
+                "headline": data.get('headline', '') or '',
                 "batch": data.get('batch', '') or '',
                 "location": data.get('location', '') or '',
                 "founded_date": float(data.get('founded_date', 0)) if data.get('founded_date') is not None else 0,
                 "team_size": float(data.get('team_size', 0)) if data.get('team_size') is not None else 0,
                 "tags": data.get('tags', '') or '',
-                "activity_status": data.get('activity_status', '') or ''
+                "activity_status": data.get('activity_status', '') or '',
+                "description": data.get('description', '') or '',
+                "generated_description": data.get('generated_description', '') or '',
+                "website": data.get('website', '') or '',
+                "group_partner": data.get('group_partner', '') or '',
+                "group_partner_yc": data.get('group_partner_yc', '') or '',
+                "links": json.dumps(data.get('links', '')) if isinstance(data.get('links'), (list, dict)) else (data.get('links', '') or ''),
+                # Convert social_links to a string
+                "social_links": json.dumps(data.get('social_links', [])) if isinstance(data.get('social_links'), list) else '',
+                "logo_path": data.get('logo_path', '') or '',
+                # Convert founders to a JSON string
+                "founders": json.dumps(data.get('founders', [])) if isinstance(data.get('founders'), list) else ''
             }
             
             # Get the embedding - this should be in all your data files
@@ -107,16 +124,6 @@ def add_to_chroma(collection, processed_data: List[Dict[str, Any]]):
     
     for i in range(0, len(processed_data), batch_size):
         batch = processed_data[i:i+batch_size]
-        
-        # Clean metadata to ensure no None values
-        for item in batch:
-            for key in item["metadata"]:
-                if item["metadata"][key] is None:
-                    # Replace None with appropriate default value based on expected type
-                    if key in ["founded_date", "team_size"]:
-                        item["metadata"][key] = 0.0
-                    else:
-                        item["metadata"][key] = ""
         
         # Add items with embeddings
         collection.add(

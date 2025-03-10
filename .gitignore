@@ -82,6 +82,9 @@ target/
 profile_default/
 ipython_config.py
 
+chroma_db/
+898e3dd5-649e-41b9-8222-480bee9c46fc
+chroma.sqlite3
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
