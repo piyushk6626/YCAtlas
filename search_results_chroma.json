@@ -1,152 +1,692 @@
 [
     {
         "id": "SciPhi_W24",
-        "score": 0.6936721801757812,
-        "metadata": {}
-    },
-    {
-        "id": "Chima_W23",
-        "score": 0.6464658379554749,
-        "metadata": {}
-    },
-    {
-        "id": "Circlemind_F24",
-        "score": 0.6377084851264954,
-        "metadata": {}
-    },
-    {
-        "id": "Superpowered_AI_S22",
-        "score": 0.6290228366851807,
-        "metadata": {}
-    },
-    {
-        "id": "Sourceress_S17",
-        "score": 0.6209301948547363,
-        "metadata": {}
-    },
-    {
-        "id": "Lucidic_AI_W25",
-        "score": 0.6192712187767029,
-        "metadata": {}
+        "score": 0.6567634344100952,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W24",
+            "description": "Start your AI application with agentic RAG, ingestion, document management, and more.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Owen Colegrove, Founder\", \"description\": \"2nd YC Founder, prev @ Algofi,\\nFormer quant @ Citadel,\\nPhD in Particle Physics, research @ CERN (UCSB, 2019).\", \"linkedin\": \"https://linkedin.com/in/owencolegrove\"}]",
+            "generated_description": "**SciPhi: Pioneering Advanced AI Retrieval**\n\nWelcome to SciPhi, a fresh face in the vibrant tech scene, founded in 2023 and already making waves as part of Y Combinator Batch W24. Situated in San Francisco and comprised of just two sharp minds, SciPhi is on a mission to redefine how we interact with data and AI through its groundbreaking retrieval system, known as R2R.\n\n### What’s the Buzz About?\n\nSciPhi emerged with a clear focus: to create the most advanced Retrieval-Augmented Generation (RAG) system on the market. This isn’t just tech jargon; R2R is designed to bridge the gap from RAG prototypes to robust production environments. By tackling challenges related to infrastructure, retrieval speed, and scalability, they aim to empower enterprises to build reliable, context-aware AI applications. \n\n### Enterprise Solutions at Your Fingertips\n\nThe team at SciPhi understands the need for effective data management in today’s AI-driven world. Their platform promises quick document ingestion—handling over 40 formats ranging from PDFs to audio files—and advanced document intelligence, which automatically uncovers hidden relationships within your data through knowledge graphs. They focus on three core features:\n\n1. **Universal Document Processing**: Process millions of documents swiftly. \n2. **Enterprise Access Control**: Secure document sharing with detailed permission settings, making collaboration seamless.\n3. **Advanced Document Intelligence**: Enrich context and automate insights extraction, turning raw data into actionable knowledge.\n\n### Why SciPhi Stands Out\n\nBacked by Dalton Caldwell as their Group Partner, and a strong emphasis on developer-friendliness, SciPhi is crafted with real-world applications in mind. Their R2R API simplifies the deployment and scaling of RAG pipelines, offering a streamlined setup that reduces traditional configuration time to mere minutes.\n\nWith a commitment to improving accuracy through their HybridRAG technology, which combines knowledge graphs and vector retrieval, SciPhi has marked impressive performance stats, like significant reductions in setup time and costs—a no-brainer for enterprises scrambling to optimize their workflows.\n\n### Join the Revolution\n\nAs they continue to make strides in AI infrastructure and document management, SciPhi invites you to transform your AI projects. Whether you're looking to accelerate your data management or capsize traditional RAG frameworks, SciPhi's tools promise to redefine your approach to AI workflows. \n\nCurious to see what SciPhi can do for your next project? Visit [SciPhi.ai](https://www.sciphi.ai) to learn more or schedule a demo and step into the future of intelligent retrieval. \n\nIn a space getting increasingly crowded with competitors, SciPhi isn't just another startup—it's a visionary outfit ready to lead us into a new era of AI-powered data management.",
+            "group_partner": "Dalton Caldwell",
+            "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+            "headline": "SciPhi is building R2R, the most advanced retrieval system.",
+            "links": "https://www.ycombinator.com/companies/sciphi",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\SciPhi_logo.png",
+            "name": "SciPhi",
+            "social_links": "[\"https://www.linkedin.com/company/sciphi-ai/\", \"https://github.com/SciPhi-AI\"]",
+            "tags": "industry:artificial-intelligence; industry:search; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+            "team_size": 2.0,
+            "website": "https://www.sciphi.ai"
+        }
     },
     {
         "id": "Ragas_W24",
-        "score": 0.6184184551239014,
-        "metadata": {}
-    },
-    {
-        "id": "Inventive_AI_S23",
-        "score": 0.6178105473518372,
-        "metadata": {}
-    },
-    {
-        "id": "Hegel_AI_S23",
-        "score": 0.6102145910263062,
-        "metadata": {}
+        "score": 0.6302037835121155,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W24",
+            "description": "The fragmented and proprietary evaluation tools today are leading to significant inefficiencies and confusion among developers. The world needs a standard everyone can rely on and that is why we are building Ragas as the open-source standard. \r\n\nWe have 4k stars on GitHub, 1.3k members in our discord community, and over 80+ external contributors. We also have partnerships with key AI companies like Langchain, Llamaindex, Arize, Weaviate and more to help create a standard.\r\n\nWe already process 5 million evaluations monthly for engineers from companies like AWS, Microsoft, Databricks, and Moody’s and it is growing at 70% month over month.\r\n\nWe are building LLM application testing and evaluation infrastructure for Enterprises.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Jithin James, Founder\", \"description\": \"Jithin James (jjmachan), believes that life's purpose is found in the toil in mastering a craft and the fulfilment one gets from using it for the greater good. For him, this means excelling in software development, particularly in open-source and AI tooling, to empower fellow developers and help materialize their ambitious visions into reality. His journey is a testament to skill, dedication, and a commitment to community enrichment.\", \"linkedin\": \"https://linkedin.com/in/jjmachan\"}, {\"name\": \"Shahul ES, Founder\", \"description\": \"Shahul (aka ikka) discovered his fascination for AI in his sophomore year while pursuing his computer science degree. This early interest laid the foundation for his journey to becoming a Kaggle GrandMaster and led to his significant contributions to open-source AI, particularly in initiatives like OpenAssistant AI.\", \"linkedin\": \"https://linkedin.com/in/shahules\"}]",
+            "generated_description": "**Company Overview: Ragas**\n\nFounded in 2023 and based in San Francisco, Ragas is on a mission to establish an open-source standard for evaluating large language model (LLM) applications. The founders recognized a significant issue: the current landscape of fragmented and proprietary evaluation tools is causing confusion and inefficiencies among developers. By building a unified framework, Ragas aims to create a reliable standard that the developer community can depend on.\n\n**Key Highlights:**\n\n- **Community Engagement:** The Ragas project has resonated well with the developer community, evident from its impressive traction: over 4,000 stars on GitHub, 1,300 members in its Discord community, and contributions from more than 80 external collaborators.\n  \n- **Partnerships:** Ragas has secured strategic partnerships with prominent AI companies such as Langchain, Llamaindex, Arize, and Weaviate, all working together to refine and promote this evaluation standard.\n  \n- **Growth Metrics:** The service is already processing a staggering 5 million evaluations monthly for industry giants like AWS, Microsoft, Databricks, and Moody's, with a growth rate of 70% month-over-month. This rapid expansion illustrates the demand for cohesive evaluation tools in the AI space.\n\n- **Product Offering:** Ragas provides a comprehensive testing and evaluation infrastructure for enterprises, enhancing the performance and reliability of their LLM applications. Features include automated performance metrics, synthetic evaluation data generation, and online monitoring to ensure quality in production environments.\n\n- **Team and Support:** The company is small but ambitious, consisting of just two employees, Shahul (an applied AI researcher and Kaggle GM) and Jithin James (Chief Maintainer, previously at BentoML). The team actively encourages collaboration and support through their Discord platform.\n\n- **Recognition:** Ragas has gained recognition in the industry, being the only RAG framework directly recommended by OpenAI at their Dev Day, which speaks volumes about its credibility and potential impact.\n\nIn a world where developers grapple with disparate evaluation tools, Ragas stands out as a beacon of clarity, aiming to streamline the evaluation process for LLM applications. With its vibrant community, strategic partnerships, and innovative solutions, Ragas is gearing up to shape the future of AI application evaluation.\n\nFor more information about Ragas, visit their website: [Ragas.io](https://www.ragas.io).",
+            "group_partner": "Nicolas Dessaigne",
+            "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+            "headline": "Building the open source standard for evaluating LLM Applications",
+            "links": "https://www.ycombinator.com/companies/ragas",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Ragas_logo.png",
+            "name": "Ragas",
+            "social_links": "[\"https://www.linkedin.com/company/ragas/\", \"https://twitter.com/ragas_io\", \"https://github.com/explodinggradients\"]",
+            "tags": "industry:developer-tools; industry:generative-ai; industry:open-source; industry:ai; location:san-francisco-bay-area",
+            "team_size": 2.0,
+            "website": "https://www.ragas.io"
+        }
     },
     {
         "id": "AnswerGrid_S24",
-        "score": 0.6084871292114258,
-        "metadata": {}
+        "score": 0.6270420551300049,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S24",
+            "description": "AnswerGrid is an AI-powered enterprise search platform purpose-built for consultants to leverage their firm’s institutional knowledge.",
+            "founded_date": 2024.0,
+            "founders": "[{\"name\": \"Bolu Ben-Adeola, Founder\", \"description\": \"Bolu is the Co-Founder and CEO of AnswerGrid. Before AnswerGrid, he built ML infrastructure for the fixed-income markets at Bloomberg and led teams at Palantir, South Korea, tackling problems in heavy industry manufacturing.\", \"linkedin\": \"https://www.linkedin.com/in/ben-adeola\"}, {\"name\": \"Noah \\u00d6hrner, Founder\", \"description\": \"Noah is the Co-Founder and CTO of AnswerGrid. Before AnswerGrid, he was a Tech lead on the Security & Governance team at Palantir. He got his BA in Computer Science from the University of Cambridge.\", \"linkedin\": \"https://www.linkedin.com/in/noah-ohrner\"}]",
+            "generated_description": "**AnswerGrid**: Revolutionizing Knowledge for Consultants with Gen AI\n\nFounded in 2024 and nestled in the vibrant tech hub of San Francisco, AnswerGrid is a dynamic startup born out of Y Combinator's Batch S24. The company is on a mission to empower consultants through Generative AI, transforming the way they access and utilize their firm’s institutional knowledge.\n\nAt its core, AnswerGrid is an AI-powered enterprise search platform meticulously designed for consultants. It allows them to harness their firm’s knowledge like never before. Imagine integrating vast amounts of data from various sources—CRMs, Document Stores, and more—into a single, cohesive platform. That’s exactly what AnswerGrid does, providing a \"rich picture\" of operations and knowledge, enhancing decision-making and productivity.\n\n**What Sets AnswerGrid Apart?**\n1. **Robust Data Integration**: With an extensive list of source connectors, AnswerGrid seamlessly integrates data from diverse systems, whether they're on-premise or in the cloud.\n   \n2. **Enterprising Security**: Security is paramount. AnswerGrid ensures that model providers don't train on client data—your data stays yours. They're committed to industry-leading security practices and are in the process of obtaining significant certifications such as SOC 2 and ISO 27001.\n\n3. **Designed Specifically for Consultants**: The platform is not a one-size-fits-all solution. It’s built from the ground up for the unique needs of consultants, making it a vital tool in their arsenal.\n\nWith a small, agile team and leadership that includes David Lieb as Group Partner, AnswerGrid is well-positioned to disrupt the consulting industry. Currently, the team is focused on refining their platform to elevate workflow efficiency and answer critical business use cases.\n\n### Explore More\nCurious about how generative AI can work for your firm? You can book a demo through their website [here](https://answergrid.ai/), and start a conversation about leveraging AI to not just keep up with consulting challenges, but to thrive amidst them.\n\nIn summary, if you're a consultant looking to supercharge access to your firm’s knowledge, AnswerGrid is a company that’s keen to change the game.",
+            "group_partner": "David Lieb",
+            "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+            "headline": "Gen AI for Consultants",
+            "links": "https://www.ycombinator.com/companies/answergrid",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\AnswerGrid_logo.png",
+            "name": "AnswerGrid",
+            "social_links": "[\"https://www.linkedin.com/company/answergrid/\", \"https://x.com/AnswerGrid\"]",
+            "tags": "industry:artificial-intelligence; industry:generative-ai; industry:productivity; location:san-francisco-bay-area",
+            "team_size": 2.0,
+            "website": "https://answergrid.ai/"
+        }
     },
     {
-        "id": "Tavus_S21",
-        "score": 0.6084101796150208,
-        "metadata": {}
+        "id": "Sage_AI_W23",
+        "score": 0.6216723918914795,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W23",
+            "description": "Sage is a self-generating, self-maintaining knowledge base for your code with in-built chat, accelerating expertise, and comprehension of any codebase.\r\n\nDocumentation is perpetually stale, codebases become increasingly old, large, and complex, and knowledge remains siloed within individuals and teams. As a result, engineers take 8-12 months to become fully operational, enterprise code becomes slow and unmaintainable, and core knowledge is continually lost upon engineer turnover.\r\n\nSage is changing this reality. We take your code and automatically generate a symbol-level knowledge base that self-updates to remain forever fresh. We integrate with source control to pull your code and generate a symbolic graph representation of functions, classes, interfaces, types, etc., automatically determining the relevant context for each symbol, and using LLMs to annotate and propagate documentation via traversals of the symbol graph. \r\n\nSage revolutionizes the way teams and individuals interact with and understand their code, ensuring that knowledge is always accessible, up-to-date, and interactive.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Joshua Ying, Founder\", \"description\": \"Ex-Google co-founder at sage-ai.dev.\\nLet's get in touch: joshua@emblem.software\", \"linkedin\": \"https://www.linkedin.com/in/joshua-ying-7a0032138/\"}, {\"name\": \"Akhil Murthy, Founder\", \"description\": \"Ex-IBM Software Engineer building Sage AI\", \"linkedin\": \"https://www.linkedin.com/in/akhil-m-12b45a98\"}]",
+            "generated_description": "**Sage AI: Empowering Code Knowledge**\n\nFounded in 2023 as part of the Y Combinator Batch W23, Sage AI is shaking up the software development landscape. Based in San Francisco and operated by a compact yet capable team of two, Sage AI is on a mission to transform the way developers interact with their codebases. Its core proposition is straightforward yet powerful: a self-generating, self-maintaining code knowledge base.\n\n### The Problem\nIn the modern software environment, documentation often lags, codebases grow unwieldy, and critical knowledge tends to be trapped within individual team members. This situation results in engineers spending anywhere from 8 to 12 months to reach full operational efficiency. As code becomes sluggish and unmanageable, the loss of core knowledge due to team turnover exacerbates these issues.\n\n### The Solution\nEnter Sage AI. By automatically generating a symbol-level knowledge base from your code, Sage ensures that crucial information is always fresh and readily accessible. The company integrates seamlessly with your source control, pulling in your code to create a symbolic graph representation of its various components—functions, classes, and other interfaces. Leveraging large language models (LLMs), Sage annotates and propagates documentation throughout this graph, continually updating the knowledge base with the context necessary for understanding.\n\n### The Impact\nSage AI is set to revolutionize how both teams and individuals comprehend their code. With its innovative approach, the platform guarantees that knowledge remains not only accessible but interactive and continuously relevant—a game-changer in a world where information silos can hinder progress and innovation.\n\nIn a nutshell, Sage AI is here to help developers overcome common pitfalls associated with legacy code management and knowledge retention, fostering an environment where expertise can thrive. \n\nYou can check them out at [sage-ai.dev](https://sage-ai.dev) and watch how they redefine developer tools with AI. \n\nIn a space marked by complexity, Sage AI promises to simplify, enhance, and sustain your coding expertise.",
+            "group_partner": "Brad Flora",
+            "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+            "headline": "Your self-generating, self-maintaining code knowledge base.",
+            "links": "https://www.ycombinator.com/companies/sage-ai",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Sage_AI_logo.png",
+            "name": "Sage AI",
+            "social_links": "[\"https://www.linkedin.com/company/sage-ai-dev/\", \"https://twitter.com/sage_ai_app\", \"https://github.com/sage-ai-dev\"]",
+            "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:ai-assistant; location:san-francisco-bay-area",
+            "team_size": 2.0,
+            "website": "https://sage-ai.dev"
+        }
     },
     {
-        "id": "dmodel_S24",
-        "score": 0.6049409508705139,
-        "metadata": {}
+        "id": "Circlemind_F24",
+        "score": 0.6202466487884521,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "F24",
+            "description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology based on Knowledge Graphs and PageRank, allows for efficient, interpretable, and context-aware reasoning and retrieval.",
+            "founded_date": 2024.0,
+            "founders": "[{\"name\": \"Antonio Vespoli, Founder\", \"description\": \"Antonio is the co-founder and CEO of Circlemind. He holds a Master\\u2019s degree in Computing from Imperial College London, specializing in AI and Machine Learning. He spent three years as a Software Engineer at AWS, working on real-time streaming technology.\", \"linkedin\": \"https://linkedin.com/in/antonio-vespoli-895727121\"}, {\"name\": \"Luca Pinchetti, Founder\", \"description\": \"Luca is the co-founder and CTO of Circlemind. He holds a Master's degree in  Computer Science from the University of Oxford, where he researched alternative biologically-inspired methods to build neural networks for his PhD studies.\", \"linkedin\": \"https://www.linkedin.com/in/luca-pinchetti-414230222/\"}, {\"name\": \"Yuhang Song, Founder\", \"description\": \"\\ud83e\\udd77 Yuhang was awarded J.P. Morgan AI Research Award, first-authored a Nature Neuroscience paper, cofounded Fractile, raised $15M in two years and exited.\", \"linkedin\": \"https://www.linkedin.com/in/yuhang-song/\"}]",
+            "generated_description": "## Circlemind: The Next Generation of AI Memory Systems\n\nFounded in 2024 and backed by Y Combinator's Batch F24, Circlemind is an ambitious startup based in San Francisco, California, focusing on evolving Retrieval Augmented Generation (RAG) methods through open-source innovations. At its core, Circlemind leverages the power of Knowledge Graphs and PageRank to enable efficient, context-aware, and interpretable AI reasoning and retrieval.\n\n### Mission and Vision\n\nCirclemind's mission is simple yet profound: to develop a next-generation memory system for AI that goes beyond the limitations of current RAG methodologies. By adopting a unique approach that combines vector databases with knowledge graphs, Circlemind can create intelligent systems that adapt to user-specific contexts, data, and queries.\n\n### What Makes Circlemind Unique?\n\nThe cornerstone of Circlemind's technology is what's known as **GraphRAG**, a highly adaptable retrieval framework. Unlike traditional static RAG approaches, Circlemind's system continuously learns and evolves based on new data and interactions. This self-improving capability allows it to provide more nuanced and relevant responses to complex queries. Here are some of the standout features:\n\n- **Promptable GraphRAG**: Users can command the AI's graph construction in plain English, ensuring the technology aligns closely with the user's intent and data specifics.\n- **Multi-Hop Retrieval**: The system can reason across a network of memories, retrieving highly relevant information seamlessly.\n- **Whole Dataset Reasoning**: Capable of handling complex queries that require an aggregate understanding of data, unlike naïve RAG systems that may struggle with holistic insights.\n- **Dynamic Data Adaptation**: GraphRAG excels with evolving information, making it ideal for applications that require updated context retrieval.\n\n### Pricing and Accessibility\n\nCirclemind aims to democratize access to advanced AI tools. They offer a **Community Edition** that is free for self-hosting, making it accessible for hobbyists and small projects. For businesses needing advanced features and support, there’s a subscription model priced at **$300 per month**. Custom enterprise solutions are also available, catering to scalable team needs.\n\n### The Team\n\nWith a compact team of three, Circlemind's efforts are supported by a robust partnership with industry expert **Diana Hu**, who brings valuable insights from her experience in cutting-edge technology development. \n\n### Conclusion\n\nCirclemind is positioned to push the boundaries of AI technology by harnessing the strengths of most modern systems while addressing their deficiencies. Their innovative approach could redefine how AI interacts with the vast amounts of information available today, allowing for more sophisticated and intuitive applications. For a closer look or to experiment with their offerings, check out their website at [Circlemind](https://circlemind.co) and don’t hesitate to **book a demo** or start with **100 free credits** to explore their capabilities firsthand. \n\nIn a world that craves smarter AI solutions, Circlemind's advancements could very well chart a new path forward.",
+            "group_partner": "Diana Hu",
+            "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+            "headline": "Circlemind is an open-source RAG using knowledge graphs and PageRank.",
+            "links": "https://www.ycombinator.com/companies/circlemind",
+            "location": "",
+            "logo_path": "data/logos\\Circlemind_logo.png",
+            "name": "Circlemind",
+            "social_links": "[]",
+            "tags": "industry:artificial-intelligence; industry:deep-learning; industry:developer-tools; industry:generative-ai; industry:saas",
+            "team_size": 3.0,
+            "website": "https://circlemind.co"
+        }
     },
     {
-        "id": "Leaping_AI_W25",
-        "score": 0.6044430136680603,
-        "metadata": {}
-    },
-    {
-        "id": "Gait_F24",
-        "score": 0.6029694080352783,
-        "metadata": {}
-    },
-    {
-        "id": "SID_S23",
-        "score": 0.6025167107582092,
-        "metadata": {}
+        "id": "Superpowered_AI_S22",
+        "score": 0.6181423664093018,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S22",
+            "description": "Superpowered AI makes it easy to build production-ready LLM applications with access to external knowledge.\r\n\nOur API lets you connect external sources of knowledge (like regulatory archives, for example) to LLMs. We leverage proprietary RAG technology to dramatically improve retrieval performance and reliability for a wide variety of use cases.\r\n\nIf you have an LLM-based application in mind, please reach out! We've helped companies build real-world applications, ranging from internal productivity tools to complete external products.",
+            "founded_date": 2021.0,
+            "founders": "[{\"name\": \"Justin Clark, Founder\", \"description\": \"System Architect at Superpowered.ai\\n\\nProfessional interests: AI systems, software architecture, Python, IaC\\nPersonal interests: biological systems, skiing, mountain biking, and just about anything outside\", \"linkedin\": \"https://www.linkedin.com/in/justin-m-clark/\"}, {\"name\": \"Dillon Martin, Founder\", \"description\": \"Dillon Martin is the co-CEO of Superpowered AI, a startup that provides a developer API for building sophisticated LLM-based applications. Previously, he worked as a Financial Advisor at Bank of America Merrill Lynch before co-founding a quantitative hedge fund with the same team that later founded Superpowered AI. When Dillon is not conversing with AI models, he can be found skating the streets of Salt Lake City.\", \"linkedin\": \"https://www.linkedin.com/in/dillon-t-martin-8809b6126\"}, {\"name\": \"Nicholas McCormick, Founder\", \"description\": \"Nick McCormick is the lead developer at Superpowered AI. He studied engineering at the University of Tennessee. Prior to starting Superpowered, he worked as a developer at a quant hedge fund where he developed the backtesting system. Outside of work, Nick's main passions are mountain biking and running, where he frequently competes in races.\", \"linkedin\": \"https://www.linkedin.com/in/nick-mccormick-6813828b/\"}, {\"name\": \"Zach McCormick, Founder\", \"description\": \"Zach is the co-CEO of Superpowered AI. Prior to starting Superpowered, he was the Chief Investment Officer at a small quant hedge fund that he ran with his future Superpowered co-founders, where he put his Applied Mathematics degree to good use. When he\\u2019s not working, Zach enjoys spending time in the mountains, usually either skiing or biking.\", \"linkedin\": \"https://www.linkedin.com/in/zach-mccormick-295a5953/\"}]",
+            "generated_description": "### Superpowered AI: Your Go-To for LLM Application Development\n\nFounded in 2021 and hailing from Y Combinator’s Batch S22, Superpowered AI is based in Salt Lake City, UT, and operates with a nimble team of four. This innovative company is on a mission to enhance the development of production-ready applications utilizing Large Language Models (LLMs), all while tapping into external knowledge sources through their API.\n\n#### What Sets Superpowered AI Apart?\n\nAt its core, Superpowered AI focuses on Retrieval Augmented Generation (RAG) technology, a smart move that greatly boosts retrieval performance and reliability. Their API enables developers to connect LLMs to diverse external knowledge bases, such as regulatory archives, making it easier than ever to build applications that leverage both AI and real-world data.\n\nWhether it’s an internal productivity tool or a customer-facing application, Superpowered AI has already partnered with numerous companies to realize their ideas. If you have an LLM-based project in mind, they’re eager to collaborate with you. \n\n#### Who's Behind It?\n\nThe company is guided by Harj Taggar, their Group Partner from Y Combinator. This pedigree alone suggests a focus on ambition and potential.\n\n#### Services Offered\n\nSuperpowered AI caters to both technical and non-technical users:\n- For developers, their **REST API** provides unparalleled flexibility, and a **Python SDK** simplifies integration. They also offer customizable React components for rapid deployment.\n- Non-coders can utilize their user-friendly web interface, which requires no programming skills—just input your data and get results.\n\n**Use Cases:**\n- Building vertical AI products, like marketing tools and workflow automation.\n- Crafting long-form content, including complete chapters for books.\n- Developing customer support solutions and ERPs that enhance productivity.\n- Creating educational apps that serve as personal tutors for students.\n\n#### Why Trust Superpowered AI?\n\nSecurity is paramount here. They uphold industry-standard best practices, using robust 256-bit AES encryption to keep data secure and ensuring that your data is never used to train models. They also feature scoped API keys for granular control over data access and seamless fallback options.\n\n#### Join the Superpowered Movement\n\nBacked by over 10,000 users and boasting over 5 million uploaded pages of text, Superpowered AI is poised for rapid growth. If you're interested, their platform offers a **14-day free trial**—a perfect opportunity to explore the power of RAG technology yourself.\n\nIn short, Superpowered AI is altering the landscape for LLM-based applications and making sophisticated AI integrations more accessible to anyone with a vision. So, if you’re ready to turn your ideas into reality, they might just be the partners you’re looking for.\n\n**Check them out at** [superpowered.ai](https://superpowered.ai).",
+            "group_partner": "Harj Taggar",
+            "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+            "headline": "API for Retrieval Augmented Generation",
+            "links": "https://www.ycombinator.com/companies/superpowered-ai",
+            "location": "Salt Lake City, UT",
+            "logo_path": "data/logos\\Superpowered_AI_logo.png",
+            "name": "Superpowered AI",
+            "social_links": "[\"https://twitter.com/superpowered_ai\", \"https://github.com/SuperpoweredAI\"]",
+            "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:saas; industry:b2b",
+            "team_size": 4.0,
+            "website": "https://superpowered.ai"
+        }
     },
     {
         "id": "Storia_AI_S24",
-        "score": 0.6020335555076599,
-        "metadata": {}
+        "score": 0.6113252639770508,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S24",
+            "description": "With AI increasingly automating away code generation, software engineers will spend more time reading, judging, and architecting code rather than writing it. Storia is building an open-source copilot that knows a company's codebase and its context.\r\n\nWe are starting with Sage, a Perplexity-like agent for helping developers understand, judge, and generate software. Given an existing codebase, developers can ask Sage questions such as:\r\n1) Given my project’s SLA and latency constraints, what is the appropriate underlying vector database to use? How would I incorporate it into my existing codebase?\r\n2) Why should I pick Redis over Milvus as my underlying vector store?\r\n3) Does this codebase in our organization still work and what steps are required for a complex integration with another library?\r\n\nSage’s answers are directly supported by documentation and external references like GitHub, Stack Overflow, technical design documents, and project management software, preventing hallucinations. Today, Sage has up-to-date knowledge about open-source repositories (indexed daily). Tomorrow it will have a deep understanding of every line of code on the Internet. For teams, Sage will know about your private codebase too.\r\n\nNo group has yet solved how to build an AI system that comprehends a codebase and its context and can empower every developer to architect better code, faster. This requires new research advances because vanilla RAG and out-of-the-box LLMs aren’t going to cut it. \r\n\nWe have 20+ years of software engineering and AI research experience. Julia worked on precursors of Gemini using contextual neural techniques before they were called “RAG” (and applied it to products like Google Keyboard and Pixel phones). Mihail built the earliest LLMs at Amazon Alexa and launched the first contextual deep learning conversational AI system in production at Alexa.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Julia Turc, Founder\", \"description\": \"Cofounder @ Storia & previously at Google Research.\\n\\n10+ years in NLP. Built the first bidirectional RNN for machine translation at Oxford. At Google, I helped build pivotal technologies like federated learning, the AI layer on top of Android, and RAG for precursors of Gemini. Excited about how NLP is now redefining software engineering.\", \"linkedin\": \"https://www.linkedin.com/in/iulia-raluca-turc/\"}]",
+            "generated_description": "**Storia AI: Revolutionizing Code Understanding with an Open-Source AI Copilot**\n\nIn the ever-evolving landscape of software engineering, Storia AI is carving out a unique niche. Founded in 2023 and currently part of Y Combinator Batch S24, Storia AI is on a mission to transform how developers interact with code. Their vision is straightforward yet ambitious: to build an open-source AI copilot that comprehensively understands a company's code and its broader context. \n\nAs the industry moves towards automating code generation, software engineers increasingly find themselves in roles that require deep comprehension of existing code rather than just writing new lines. Storia AI tackles this shift head-on with a tool named Sage. Think of Sage as a smart assistant for developers—an AI that not only generates suggestions but truly understands the nuances of a specific codebase.\n\n### What Can Sage Do?\n\nSage acts as a powerful resource for developers, capable of answering complex questions that go beyond simple coding tasks. Here’s what it offers:\n\n1. **Contextual Recommendations**: Developers can consult Sage on technical choices, like determining the right vector database that meets project constraints.\n2. **Comparative Analysis**: It can clarify why one database option might be more suitable than another—say, Redis versus Milvus.\n3. **Integration Queries**: Sage assesses codebases for compatibility with other libraries and provides actionable steps for integration.\n\nWhat sets Sage apart is its reliance on verified sources. Instead of generating potentially misleading information (a common issue known as \"hallucination\"), Sage provides answers anchored in a wealth of documentation from GitHub, Stack Overflow, and internal technical documents. This places reliable, contextualized knowledge directly in the hands of developers.\n\n### A Strong Foundation\n\nStoria AI was founded by a small but formidable team with deep roots in both AI and software engineering. Julia has extensive experience with contextual neural networks, having worked on foundational technologies at Google, while Mihail was instrumental in developing early LLMs (Large Language Models) at Amazon Alexa. Their 20+ years of combined experience positions them uniquely to tackle the challenges of building an AI that comprehends complex codebases.\n\n### Where They’re Headed\n\nCurrently located in Millbrae, CA, Storia AI operates with a compact team of two talented individuals, backed by David Lieb as their Group Partner. The tagging of their work in areas like ‘artificial intelligence’, ‘developer tools’, and ‘machine learning’ indicates a focused strategy that resonates deeply within the tech community. As they progress, there are ambitious goals to deepen Sage’s understanding of not just private codebases but potentially every line of code available online.\n\nIn a nutshell, Storia AI is not just another tech startup; it's a thoughtful response to the inevitable evolution of software development. By building a bridge between AI and developers, they’re paving the way for more efficient, informed, and high-quality code architecture. If you’re interested in learning more or seeking support for your own codebase, check out their website at [storia.ai](https://storia.ai). \n\nStoria AI is a company to watch, not just for what they are building today but for how they will shape the future of coding.",
+            "group_partner": "David Lieb",
+            "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+            "headline": "Open source AI copilot that knows your company's code and its context",
+            "links": "https://www.ycombinator.com/companies/storia-ai",
+            "location": "Millbrae, CA",
+            "logo_path": "data/logos\\Storia_AI_logo.png",
+            "name": "Storia AI",
+            "social_links": "[\"https://www.linkedin.com/company/storia-ai/\", \"https://x.com/StoriaAI\", \"https://github.com/Storia-AI\"]",
+            "tags": "industry:artificial-intelligence; industry:developer-tools; industry:machine-learning; industry:saas; location:san-francisco-bay-area",
+            "team_size": 2.0,
+            "website": "https://storia.ai"
+        }
     },
     {
-        "id": "Deasy_Labs_S23",
-        "score": 0.6017919778823853,
-        "metadata": {}
+        "id": "Unriddle_S24",
+        "score": 0.6084598302841187,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S24",
+            "description": "We build tools to help people think and work better.\r\n\nToday, Unriddle helps researchers and students quickly find insights in documents, video and audio so they can learn and write faster. \r\n\nWe started working on Unriddle 18 months ago. In that time:\r\n- we’ve grown to 3M users spanning hundreds of major colleges and research-led companies,\r\n- we hit $1.5M in yearly revenue and are fast approaching our next milestone of $2M,\r\n- 100M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised a $2.4M seed with checks from YC and the founders of Github and Reddit.\r\n\nLooking ahead, we're expanding beyond just summarization and writing assistance to address the broader challenges of information overload faced by researchers and students.\r\n\nWe're a small, tight-knit team with huge ambitions. As a founding member of the team, you'll be instrumental in helping us scale revenue from $1M to $10M and then $10M to $100M+.\r\n\nIf you’re excited by the idea of being a part of that, definitely apply.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Naveed Janmohamed, Founder\", \"description\": \"Naveed graduated top of his class from University College London with a master\\u2019s degree in Human-Computer Interaction. He has 10+ years of experience in product design and HCI research. He built and grew Unriddle to $800K ARR entirely solo before making his first hire.\", \"linkedin\": \"https://linkedin.com/in/naveedjanmo\"}]",
+            "generated_description": "Unriddle is a promising startup with a clear mission: to leverage AI for enhancing the research capabilities of students, scientists, and academics. Founded in 2023 and currently part of Y Combinator's Batch S24, Unriddle started out with the idea of building tools to help people think and work better. In just 18 months, they've made impressive strides—growing to 3 million users across major colleges and research institutions, generating $1.5 million in annual revenue, and catching the attention of notable investors including YC and the founders of GitHub and Reddit.\n\nAt its core, Unriddle provides a suite of AI-driven solutions that help users swiftly glean insights from documents, videos, and audio materials. Whether you're trying to write faster, manage citations, or convert handwriting, their tools promise clear and actionable results in an instant. The platform supports various formats like PDFs and audio recordings, making it an adaptable ally for diverse academic needs. \n\nBut they're not stopping there. Unriddle is addressing the broader issue of information overload that many researchers face. They plan to expand their offerings beyond just summarization and writing assistance, increasing the value they provide to their user base.\n\nThe company currently operates with a small, passionate team of five, and they have strong ambitions to scale further, eyeing revenue milestones of $10 million and beyond. Their growth trajectory is bolstered by the visibility they've gained on social media, with over 100 million people engaging with their content across platforms like Instagram, TikTok, and YouTube.\n\nIn essence, Unriddle is making waves in the EdTech and AI spheres—transforming how research is conducted and empowering its users to work smarter, not harder. So if the thought of diving into AI for academia excites you, it might just be the perfect time to get involved with Unriddle as they continue to shape the future of research. For more insights, check out their website at [Unriddle](https://www.unriddle.ai/).",
+            "group_partner": "Tom Blomfield",
+            "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+            "headline": "AI for researchers, students and scientists",
+            "links": "https://www.ycombinator.com/companies/unriddle",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Unriddle_logo.png",
+            "name": "Unriddle",
+            "social_links": "[\"https://www.linkedin.com/company/unriddle-ai/\", \"https://twitter.com/unriddle_ai\"]",
+            "tags": "industry:consumer; industry:b2b; industry:ai; location:san-francisco-bay-area",
+            "team_size": 5.0,
+            "website": "https://www.unriddle.ai/"
+        }
     },
     {
-        "id": "Dataleap_S24",
-        "score": 0.6009229421615601,
-        "metadata": {}
+        "id": "Chima_W23",
+        "score": 0.6081099510192871,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W23",
+            "description": "Companies struggle to customize their generative AI models by taking advantage of their existing customer and enterprise data, in real-time. Chima solves for this through a sleek, interoperable layer before the standard generative AI models are applied.",
+            "founded_date": 2022.0,
+            "founders": "[{\"name\": \"Nikhara Nirghin, Founder\", \"description\": \"Nikhara Nirghin is co-founder and CEO at Chima. She started Chima with Kiara, her sister after working at both Goldman Sachs and Deloitte Consulting and understanding the difficulties of activating enterprise data with AI. Nikhara earned her MBA at London Business School and did her undergrad and postgrad in Mathematical Statistics and Actuarial Science. Awards: International best paper on stochastic data modeling by the Reinsurance Group of America. Email: nikhara@withchima.com.\", \"linkedin\": \"https://www.linkedin.com/in/nikharanirghin/\"}, {\"name\": \"Kiara Nirghin, Founder\", \"description\": \"Kiara Nirghin is co-founder and CTO at Chima. She started Chima based on her experience of the importance in building robust, smarter ways of bringing raw business data to generative AI models. She both studied and taught at Stanford (CS / AI) and is a Thiel Fellow. Kiara won the International Google Science Grand Prize with her data first approach to algorithms and predictive modeling. She worked at Meta and Google. Awards: Time Magazine's Most Influential people.\", \"linkedin\": \"https://www.linkedin.com/in/kiara-nirghin/\"}]",
+            "generated_description": "Let's talk about Chima, a fascinating player in the generative AI space that’s not standing still. Founded in 2022 and nestled in the heart of San Francisco, Chima’s mission is clear: to build infrastructure tools that enable large companies to effectively customize their generative AI models by leveraging their existing customer and enterprise data in real-time.\n\nThe challenge companies face in customizing their AI models is significant. That's where Chima steps in, providing a sleek, interoperable layer that sits before standard generative AI models are applied. This not only simplifies the integration process but also enhances efficiency across various business operations. With just a tiny team of seven, including notable backing from Y Combinator—specifically from Group Partner Michael Seibel—Chima is punching well above its weight.\n\nSo, what exactly is Chima up to? They've developed an impressive array of products designed to transform entire systems through what they call \"Compound Human Reasoning.\" This innovative approach allows enterprises to automate processes across operations, marketing, support, and compliance, among others. By implementing these intelligent AI systems, Chima boasts some staggering stats: they've saved between 600 to 700,000 hours in labor and helped generate over $40 million in profit across their customer deployments.\n\nTheir platform is built for security, adhering to stringent standards including SOC 2, ISO 27001, HIPAA, and GDPR compliance, ensuring that client data is well-protected. They're not just tall claims; these protocols are what you’d expect from a startup founded in the well-regarded cradle of innovation that is San Francisco.\n\nChima’s offerings range from *Sid*, *Chi Core*, and *Chi Nexus* to *Frontier*, each tailored to optimize different aspects of enterprise functionalities. They pride themselves on easy integration and real-time optimization—two critical efficiency drivers in today’s rapidly changing business environment. \n\nIf you want to dive deeper, you can check out their [website](https://www.withchima.com/) for resources like case studies, a blog, and even career opportunities. Chima is on a solid trajectory, building the future of enterprise AGI and making waves with their unique approach to transforming business processes with generative AI. It's an exciting time to watch them grow and redefine what's possible in enterprise automation!",
+            "group_partner": "Michael Seibel",
+            "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+            "headline": "Building infrastructure tools to help large companies customize theirâ¦",
+            "links": "https://www.ycombinator.com/companies/chima",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Chima_logo.png",
+            "name": "Chima",
+            "social_links": "[\"https://www.linkedin.com/company/withchima\", \"https://www.twitter.com/withchima\", \"https://www.crunchbase.com/organization/chima  \"]",
+            "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:b2b; industry:ai; location:san-francisco-bay-area",
+            "team_size": 7.0,
+            "website": "https://www.withchima.com/"
+        }
     },
     {
-        "id": "Decohere_W23",
-        "score": 0.5995553731918335,
-        "metadata": {}
+        "id": "Peppr_AI_W25",
+        "score": 0.606850802898407,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W25",
+            "description": "We turn scattered company data into a dynamic, self-improving knowledge hub to fuel faster decisions across your organization",
+            "founded_date": 2025.0,
+            "founders": "[{\"name\": \"Nitya Arora, Founder\", \"description\": \"Improving the data layer for agentic AI systems\", \"linkedin\": \"https://linkedin.com/in/nityaarora108\"}, {\"name\": \"Sachitt Arora, Founder\", \"description\": \"Improving the data layer for agentic AI systems\", \"linkedin\": \"https://www.linkedin.com/in/sachittarora/\"}]",
+            "generated_description": "### Peppr AI: Revolutionizing Knowledge Capture\n\nFounded in 2025 and part of Y Combinator's Batch W25, Peppr AI is positioned to be the world's first AI-powered knowledge capture platform. Based in San Francisco and operated by a nimble team of just two, Peppr AI addresses a colossal problem many organizations face: the loss and inefficiency of critical knowledge in the workplace.\n\n#### The Problem\n\nIn today's fast-paced business environment, organizations struggle with lost knowledge, inefficient onboarding processes, and limited visibility into workflows. Here are some eye-opening statistics that underscore the challenge:\n\n- **90% of critical work remains undocumented**: Key insights get buried in chats, meetings, and project management tools like Jira.\n- **$47 million in annual productivity loss**: Stemming from inefficiencies in sharing knowledge and process delays.\n- **5.3 hours wasted each week**: Employees spend excessive time searching for information that should be readily accessible.\n\n#### The Solution: A Virtual Employee Mind\n\nPeppr AI's innovative platform provides a solutions-oriented approach to this issue through a three-step process:\n\n1. **Data Collection & Integration**: Peppr’s AI engine seamlessly connects with existing tools such as Slack, Jira, and Confluence to capture conversations, documentation, and workflow patterns in real-time.\n   \n2. **AI Analysis & Processing**: Advanced Natural Language Processing (NLP) models analyze the captured data to understand context and relationships, building comprehensive knowledge graphs.\n\n3. **Knowledge Synthesis & Distribution**: The system generates searchable documentation and interactive guides, while also equipping teams with AI-powered assistants that facilitate the efficient use of institutional knowledge.\n\n#### Key Benefits\n\nWhy should organizations consider Peppr AI? Here’s what they bring to the table:\n\n- **Knowledge Capture**: By integrating with essential tools, Peppr identifies inefficiencies and captures vital data.\n- **Accelerated Onboarding**: New employees can access institutional knowledge from their very first day, enhancing efficiency by over 70%.\n- **Organizational Insights**: The insights gleaned from AI help companies pinpoint bottlenecks and optimize processes, making AI agents operate ten times better.\n\n#### Pricing Structure\n\nPeppr AI offers straightforward pricing. The free starter version is a great entry point, while the Professional package is priced at $29 per employee per month, with custom solutions available for larger enterprises.\n\n### Conclusion\n\nIf your organization is wrestling with knowledge retention and inefficiencies, Peppr AI offers a sophisticated solution that not only captures information but also transforms it into actionable wisdom. Book a demo and see how they can future-proof your organization today. For more information, visit [Peppr AI's website](https://www.usepeppr.ai/). \n\nBacked by Y Combinator, Peppr AI is primed to make waves in how organizations capture and leverage their knowledge.",
+            "group_partner": "Harj Taggar",
+            "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+            "headline": "The world's first AI-powered knowledge capture platform",
+            "links": "https://www.ycombinator.com/companies/peppr-ai",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Peppr_AI_logo.png",
+            "name": "Peppr AI",
+            "social_links": "[]",
+            "tags": "industry:machine-learning; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+            "team_size": 2.0,
+            "website": "https://www.usepeppr.ai/"
+        }
     },
     {
-        "id": "Relari_W24",
-        "score": 0.5985246300697327,
-        "metadata": {}
-    },
-    {
-        "id": "Superb_AI_W19",
-        "score": 0.5982924699783325,
-        "metadata": {}
-    },
-    {
-        "id": "ZeroEntropy_W25",
-        "score": 0.5982436947533261,
-        "metadata": {}
-    },
-    {
-        "id": "Artificial_Societies_W25",
-        "score": 0.5975770354270935,
-        "metadata": {}
+        "id": "Inventive_AI_S23",
+        "score": 0.6023229956626892,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S23",
+            "description": "Inventive is an AI-powered RFP & questionnaire response management platform that drives 70%+ efficiency in sales response workflows.\r\n\n**Core benefits and features:**\r\n\n- **10X Faster Drafts With Highly Accurate Responses**: Using Inventive’s proprietary AI-system you can get first drafts 10 times faster, with accurate responses rooted in your knowledge sources, that you and your team can collaborate on to refine.\r\n- **Single Hub for All Your Knowledge Sources:** Inventive offers a centralized hub for all your knowledge sources. You can upload previous RFPs and relevant documents; integrate with your internal data systems such as gDrive. Sharepoint & more; upload Q&A from legacy tools or spreadsheets; and even add information from your websites.\r\n- **Fight Stale Content With AI Content Manager:** Inventive’s AI content manager proactively flags conflicting content by identifying issues within your sources, so you only use fresh and relevant content in your responses.\r\n- **Higher Productivity & Competitive Advantage With AI Agents:** Inventive offers a suite of AI agents designed to boost productivity and give you a competitive advantage. These agents can help with researching competitors, brainstorming ideas, and more.\r\n\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and ex-AI team from Google & Stanford. Backed by top Silicon Valley investors including YCombinator.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Dhiren Bhatia, Founder\", \"description\": \"Co-founder & CEO at Inventive AI. Most recently, Founder & CEO at Viewics (acquired by Roche) - a SaaS analytics platform and suite of applications for health systems and clinical laboratories. MBA (UC Berkeley) | MS (Texas A&M University) | BE (University of Mumbai)\", \"linkedin\": \"https://linkedin.com/in/dhiren9\"}, {\"name\": \"Vishakh Hegde, Founder\", \"description\": \"I previously led ML efforts at Ambient AI (yc17 / a16z). Studied ML and AI at Stanford. Went to IIT Madras for undergrad. I've published papers in ML/AI and have also authored a book deep learning (link: https://a.co/d/07ZnJwZ). Always looking to solve *real* problems. Love tinkering with technology.\", \"linkedin\": \"https://linkedin.com/in/vishakhhegde\"}, {\"name\": \"Gaurav Nemade, Founder\", \"description\": \"Previously, Product Manager at Google AI & Google Brain and the first PM on Google's LLM platform - LaMDA that powered Google Bard. Studied CS from IIT Roorkee.\", \"linkedin\": \"https://linkedin.com/in/gauravnemade\"}]",
+            "generated_description": "**Company Overview: Inventive AI**\n\n**Founded:** 2023  \n**Location:** Mountain View, CA  \n**Team:** 5 employees  \n**Y Combinator Batch:** S23  \n**Group Partner:** Nicolas Dessaigne  \n\n**Website:** [inventive.ai](https://www.inventive.ai)  \n**Tags:** generative-ai, saas, b2b, sales, ai, san-francisco-bay-area\n\n### Mission\nInventive AI is on a mission to redefine how organizations manage RFPs (Requests for Proposals) and sales questionnaires. With a GenAI-first approach, their platform aims to improve response efficiency by more than 70%—something that translates into significant time and cost savings for businesses.\n\n### Core Benefits & Features\n1. **Speedy Drafts and Accuracy:** Imagine creating first drafts ten times faster than before. Inventive’s proprietary AI helps teams navigate through responses with lightning-fast precision, drawing from established knowledge bases.\n\n2. **Centralized Knowledge Hub:** This isn't just any platform. It acts as a unified hub where your previous RFPs, documents, and data can be integrated seamlessly—whether that's from Google Drive, SharePoint, or legacy systems. Everything you need is in one place.\n\n3. **AI Content Management:** Gone are the days of using outdated or conflicting information. Their AI content manager actively scans your content pool to flag inconsistencies, ensuring you utilize only the most relevant and fresh material.\n\n4. **AI Agents for a Competitive Edge:** Inventive includes a suite of AI agents that help boost team productivity. From competitor analysis to idea generation, these tools empower sales teams to focus on winning rather than worrying about logistics.\n\n### The Team\nCrafted by a customer-centric team with experience at Fortune 500 companies, Google, and Stanford—Inventive is built on solid foundations. Their focus on customer need is echoed by their backing from prominent Silicon Valley investors, including Y Combinator, emphasizing trustworthiness and potential.\n\n### Notable Integrations\nInventive AI makes it easy to connect with your existing stack, offering compatibility with tools like Jira, Notion, Confluence, Google Drive, Slack, and Salesforce. This ensures a smooth transition into your day-to-day workflows.\n\n### Why Inventive AI?\nIn a world crowded with traditional RFP tools, Inventive AI stands out due to its emphasis on automation and contextual accuracy. The AI adapts to your historical data, ensuring that not just any response is crafted, but one that's finely attuned to your industry's vernacular and compliance demands.\n\nWhether you're a small startup or a large enterprise, Inventive AI is designed to streamline the RFP process, foster collaboration, and enhance overall productivity.\n\nIf this sounds like a tool you'd like to explore further, their [demo page](https://www.inventive.ai/demo) is the next stop. Check it out—your future workflow might just thank you!",
+            "group_partner": "Nicolas Dessaigne",
+            "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+            "headline": "GenAI-First RFP & Sales Questionnaire Response Platform",
+            "links": "https://www.ycombinator.com/companies/inventive-ai",
+            "location": "Mountain View",
+            "logo_path": "data/logos\\Inventive_AI_logo.png",
+            "name": "Inventive AI",
+            "social_links": "[\"https://www.linkedin.com/company/inventive-ai/\", \"https://twitter.com/inventive_ai\"]",
+            "tags": "industry:generative-ai; industry:saas; industry:b2b; industry:sales; industry:ai; location:san-francisco-bay-area",
+            "team_size": 5.0,
+            "website": "https://www.inventive.ai/"
+        }
     },
     {
         "id": "Taylor_AI_S23",
-        "score": 0.5965757369995117,
-        "metadata": {}
+        "score": 0.6018001437187195,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S23",
+            "description": "Taylor is the control panel for enriching unstructured text in real-time. Business leaders and developers use Taylor to label and build products around their free text without the infrastructure and maintenance overhead. \r\n\nWhy Taylor? Our customers previously relied on LLMs for tagging, extracting, and enriching data. They soon hit rate limits, high latency, and accuracy issues (LLMs are optimized for generative tasks, not structured high-accuracy workflows). With Taylor, teams get access to our proprietary models purpose-built for text classification and entity extraction.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Brian Kim, Founder\", \"description\": \"Cofounder at Taylor AI. Previously at HomeLight, Niantic Labs, and Disney Strategy. Stanford School of Engineering.\", \"linkedin\": \"https://linkedin.com/in/brian-kim-463a50142\"}, {\"name\": \"Benjamin Anderson, Founder\", \"description\": \"Machine learning researcher and engineer interested in making AI useful for everyone.\", \"linkedin\": \"https://linkedin.com/in/andersonbcdefg\"}]",
+            "generated_description": "**Taylor AI: Empowering Text Enrichment**\n\nTaylor AI is a burgeoning startup established in 2023 and proudly part of Y Combinator's Batch S23. Located in the heart of San Francisco, the company operates with a lean team of just two employees. Their mission is to create a *Unified Platform for Text Enrichment*, acting as a control panel that streamlines the process of enriching unstructured text in real-time.\n\n**Why Taylor?**  \nMany businesses have turned to large language models (LLMs) for tasks like tagging and extracting data, only to find themselves facing limitations like rate caps, high latency, and issues with accuracy. LLMs are tailored for generative tasks, not the rigorous requirements of structured workflows that demand precision. Enter Taylor AI, which offers proprietary models specifically designed for text classification and entity extraction—providing teams with the tools they need without the burdens of infrastructure or maintenance.\n\n**What They Do:**  \nTaylor AI is all about enabling business leaders and developers to build powerful products around free text. This involves fast and accurate classification and extraction that can support live workflows and real-time data pipelines. They emphasize easy customization—clients can use their own taxonomy and set confidence thresholds tailored to their needs. Integration is smooth too, with the solution compatible with popular platforms like CRM systems and Slack.\n\nTaylor's platform facilitates varied applications, from content moderation to product feature development, helping businesses harness the potential of their unstructured text right away. Their user-friendly design allows teams to set up and get started swiftly, making data enrichment accessible to everyone.\n\n**Key Attributes:**\n- **Foundation:** 2023\n- **Location:** San Francisco, CA\n- **Team Size:** 2 Employees\n- **Investment:** Supported by Y Combinator, General Catalyst, and other notable investors.\n- **Focus Areas:** Developer tools, SaaS, B2B, data labeling, and big data.\n\nThe company’s website offers additional resources for potential users—ranging from a [get started](https://trytaylor.ai/login?signup=true) option to comprehensive [pricing](https://trytaylor.ai/pricing) and [blog](https://trytaylor.ai/blog) content. \n\nIn sum, if you're seeking to make sense of unstructured data with rapid and reliable tools, Taylor AI emerges as a promising ally. Their platform not only simplifies the entanglement of text but amplifies your ability to derive actionable insights from the data you already have. For more information, visit [Taylor AI](https://trytaylor.ai).",
+            "group_partner": "Diana Hu",
+            "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+            "headline": "Unified Platform for Text Enrichment",
+            "links": "https://www.ycombinator.com/companies/taylor-ai",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Taylor_AI_logo.png",
+            "name": "Taylor AI",
+            "social_links": "[\"https://www.linkedin.com/company/taylor-ai/about/\", \"https://twitter.com/TryTaylor_AI\"]",
+            "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:data-labeling; industry:big-data; location:san-francisco-bay-area",
+            "team_size": 2.0,
+            "website": "https://trytaylor.ai"
+        }
     },
     {
-        "id": "Reworkd_S23",
-        "score": 0.5959222316741943,
-        "metadata": {}
+        "id": "Exa_S21",
+        "score": 0.5993533134460449,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S21",
+            "description": "Exa is a search engine built for AIs. We enable developers to filter the internet's content with complex queries in order to bring the world's knowledge into their AI apps.",
+            "founded_date": 2021.0,
+            "founders": "[{\"name\": \"Will Bryk, co-founder/CEO\", \"description\": \"I grew up in NYC, then studied CS and physics at Harvard, where I did some ML research and led the robotics club. Then I was a software engineer at ML startup Cresta, while also writing a book about the history of civilization in my spare time. When I realized the future of civilization depends almost entirely on the quality of information we consume, I left to start Exa.\", \"linkedin\": \"https://www.linkedin.com/in/william-bryk\"}]",
+            "generated_description": "**Company Overview: Exa**\n\nFounded in 2021 and hailing from the Y Combinator Batch S21, Exa is making waves in the San Francisco Bay Area. The company is on a mission to revolutionize web search for large language models (LLMs)—essentially, they're building a search engine tailored for AIs. This mission revolves around enabling developers to filter through the vast expanses of the internet, using complex queries to harness the world's information for their AI applications. Currently, they operate with a lean team of seven employees and are led by Nicolas Dessaigne, their Group Partner.\n\n**What Exa Offers**\n\nExa’s key products are designed to enhance how applications interact with web data:\n\n1. **Exa API**: This is a powerful tool that provides AI applications with high-quality web data through a meaning-based search process, streamlining the integration of web content into various applications.\n\n2. **Websets**: A newly launched web research agent that not only finds data but also enriches it, catering to sales teams, recruiters, and analysts, among others. \n\nTheir web presence is comprehensive, featuring an intuitive [website](https://exa.ai), where users can access documentation, pricing details, and demo experiences. \n\n**Key Use Cases**\n\nExa’s technology is versatile, appealing to a range of applications:\n- **News Summarization**: Users can quickly gain insights into recent news topics, making it a perfect tool for information aggregation.\n- **Q&A Solutions**: The platform allows the development of chatbots that can contextualize responses with up-to-date information.\n- **Competitor Analysis**: Conveniently aggregates web data on companies within specific sectors.\n- **Research Assistance**: Helps in sourcing reliable content for varied research needs.\n\n**Customer Testimonials**\n\nExa's impact has resonated with users across industries. For instance:\n- Rabi Gupta, CEO of EvaBot, notes that \"Exa feeds our deep research AI,\" emphasizing the speed and quality of data it provides.\n- Jonathan Frankle, Chief Scientist at Databricks, reinforces this by stating, \"Models are only as good as the data they’re trained on, and Exa’s search allowed us to get high-quality data we couldn’t find any other way.\"\n\n**Conclusion**\n\nExa is not just another startup; it embodies the future of how web data can be integrated into AI tools. By focusing on the unique needs of AI-driven applications, they're carving out a niche that positions them as a frontrunner in the realm of intelligent search solutions. If you're curious about how Exa can enhance AI applications or streamline your web research, head over to [their website](https://exa.ai) and check out what they have to offer.",
+            "group_partner": "Nicolas Dessaigne",
+            "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+            "headline": "Web search rebuilt for LLMs",
+            "links": "https://www.ycombinator.com/companies/exa",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Exa_logo.png",
+            "name": "Exa",
+            "social_links": "[\"https://www.linkedin.com/company/exa-ai/\", \"https://twitter.com/ExaAILabs\"]",
+            "tags": "industry:search; industry:ai; industry:apis; location:san-francisco-bay-area",
+            "team_size": 7.0,
+            "website": "https://exa.ai"
+        }
     },
     {
-        "id": "Vaero_W23",
-        "score": 0.5948507785797119,
-        "metadata": {}
+        "id": "Deasy_Labs_S23",
+        "score": 0.5981688499450684,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S23",
+            "description": "Deasy Labs provides metadata orchestration for AI workflows. Deasie's platform provides the best way for AI teams to create and embed high-quality, customized metadata into their AI workflows (e.g., RAG, Agentic frameworks).\r\n\nOur three founders (from Amazon, McKinsey/QuantumBlack & MIT) previously built an ML data governance tool from 0 to 1 within McKinsey, which we deployed with 11 Fortune 500 companies. We saw in early 2023 the ability to create high-quality metadata (without reliance on domain experts) would be a key factor in achieving the accuracy & speed in GenAI applications required for production.  \r\n\nOur investors include General Catalyst, Y Combinator, RTP Global and world experts in enterprise data. Website: https://deasylabs.com",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Reece Griffiths, Founder\", \"description\": \"Co-founder of Deasie: Data governance for language models in the enterprise. \\n\\nPrior experience: QuantumBlack: Product Manager for AI for Data Governance product (1.5 yrs); McKinsey & Company: Management consultant (2 yrs); X26: Founder of X26 (global entrepreneurs community); University of Cambridge: Masters in information engineering. Personal blog: https://reecewgriffiths.com\", \"linkedin\": \"https://linkedin.com/in/reece-william-griffiths\"}, {\"name\": \"Mikko Peiponen, Founder\", \"description\": \"Mikko is the co-founder of Deasie. He is a technologist with deep experience (5+ years) in data and machine learning space from McKinsey and QuantumBlack, where he implemented and deployed models at large enterprises. Prior to moving into the world of data governance for language models with Deasie, he was the Lead data scientist building AI data quality tool at QuantumBlack. Mikko holds a graduate degree from MIT.\", \"linkedin\": \"https://linkedin.com/in/mikkopeiponen\"}, {\"name\": \"Leonard Platzer, Founder\", \"description\": \"Co-founder of Deasie: Data governance for unstructured data. \\n\\nPrior experience: QuantumBlack: Software Engineer, Machine Learning at AI for Data Quality product; Previous Engineer at Amazon, Mercedes-Benz and ChatBot Startup (E-Bot 7); Bachelor from National University of Singapore and Graduate from UWC Mostar\", \"linkedin\": \"https://linkedin.com/in/leonardplatzer\"}]",
+            "generated_description": "Deasy Labs is carving out a crucial niche in the burgeoning landscape of generative AI by focusing on metadata orchestration for AI workflows. Founded in 2023 and part of Y Combinator’s Batch S23, the company was birthed from the experiences of three founders who previously built a machine learning data governance tool at McKinsey from the ground up. They deployed this tool with 11 Fortune 500 companies, which provided them keen insights into the importance of high-quality metadata in enhancing AI applications.\n\nThe mission here is straightforward: empower teams to seamlessly create and integrate customized metadata into their workflows—think RAG and Agentic frameworks. By eliminating the need for constant reliance on domain experts, Deasy Labs aims to optimize the accuracy and speed necessary for production in generative AI.\n\nTheir platform offers several standout features:\n\n1. **Direct Connection to Vector Embeddings**: It interfaces with any vector database, allowing metadata generation from embeddings or underlying documents.\n2. **Auto-Suggested Metadata**: Leveraging sophisticated models to derive the most relevant metadata schema from a set of documents.\n3. **Multi-Modal Metadata at Scale**: Extracting metadata from both chunks and entire documents in a way that's both hierarchical and standardized.\n4. **Intelligent Information Retrieval**: Their system utilizes metadata for efficient agent or node selection, ensuring that users access the right information when it matters most.\n\nThe confidence in Deasy Labs is echoed by their clientele. Companies like Octopus Legacy and Decision Science Advisors highlight the transformative impact of the platform on automating processes and accelerating time-to-value.\n\nBacked by credible investors such as General Catalyst, Y Combinator, and RTP Global, Deasy Labs combines expertise from notable institutions like Amazon, McKinsey, and MIT. They emphasize that creating high-quality metadata efficiently is no longer a luxury; it’s an essential part of modern AI deployment strategies.\n\nWith a lean team of three, they already show promise in fundamentally changing how businesses approach data governance and operational intelligence. If you’re looking to dive deeper, check out their [website](https://www.deasylabs.com) and consider requesting a demo to see their solution in action.\n\nOverall, Deasy Labs stands out not just because of its technological offerings, but because it addresses a critical gap in the AI landscape, ensuring teams can focus on what they do best: innovating.",
+            "group_partner": "Nicolas Dessaigne",
+            "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+            "headline": "Metadata for GenAI workflows",
+            "links": "https://www.ycombinator.com/companies/deasy-labs",
+            "location": "",
+            "logo_path": "data/logos\\Deasy_Labs_logo.png",
+            "name": "Deasy Labs",
+            "social_links": "[\"https://www.linkedin.com/company/deasie\"]",
+            "tags": "industry:artificial-intelligence; industry:data-labeling; industry:big-data; industry:ai-assistant; industry:databases",
+            "team_size": 3.0,
+            "website": "https://www.deasylabs.com/"
+        }
     },
     {
-        "id": "IvyCheck_S22",
-        "score": 0.5943293571472168,
-        "metadata": {}
+        "id": "Stack_AI_W23",
+        "score": 0.597393274307251,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W23",
+            "description": "With Stack AI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\nHundreds of companies use Stack AI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
+            "founded_date": 2022.0,
+            "founders": "[{\"name\": \"Bernardo Aceituno, Founder\", \"description\": \"Co-Founder of Stack AI (W23). MIT PhD. AI for Enterprise.\", \"linkedin\": \"https://www.linkedin.com/in/baceituno/\"}, {\"name\": \"Antoni Rosinol, Co-Founder & Customer Support\", \"description\": \"Co-Founder of Stack AI (W23). MIT PhD. Bringing us one step closer to AGI.\", \"linkedin\": \"https://www.linkedin.com/in/rosinol/\"}]",
+            "generated_description": "**Stack AI: Empowering Enterprises with Custom AI Solutions**\n\nFounded in 2022 and hailing from Y Combinator's W23 batch, Stack AI is a San Francisco-based startup with a mission to democratize the deployment of AI agents in enterprise settings. Their innovative low-code platform empowers organizations—regardless of technical expertise—to effortlessly automate back-office operations. \n\nThink of it as giving every team member the toolkits to create their own knowledge-based AI assistants. This approach has attracted hundreds of companies keen on improving their workflows by automating tasks such as filling RFPs, conducting due diligence research, content quality assurance, and data extraction from various documents.\n\nWith a lean but talented team of 16, Stack AI is making waves in the enterprise automation space. They’re not just about tech; they’re about enabling teams. As Nicolas Dessaigne leads the charge, Stack AI is solidly positioned at the intersection of artificial intelligence and enterprise efficiency—a combination that promises to reshape how businesses operate.\n\nFor more details about their offerings and vision, check out their website: [Stack AI](https://www.stack-ai.com/).",
+            "group_partner": "Nicolas Dessaigne",
+            "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+            "headline": "AI Agents for the Enterprise",
+            "links": "https://www.ycombinator.com/companies/stack-ai",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Stack_AI_logo.png",
+            "name": "Stack AI",
+            "social_links": "[\"https://www.linkedin.com/company/stackai/\", \"https://twitter.com/StackAI_HQ\"]",
+            "tags": "industry:artificial-intelligence; industry:enterprise; industry:automation; location:san-francisco-bay-area",
+            "team_size": 16.0,
+            "website": "https://www.stack-ai.com/"
+        }
     },
     {
         "id": "Deepgram_W16",
-        "score": 0.5942202210426331,
-        "metadata": {}
+        "score": 0.5967565178871155,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W16",
+            "description": "Deepgram is a foundational AI company on a mission to understand human language. We give any developer access to the most advanced speech AI transcription and understanding with just an API call.\r\n\nOur models deliver the fastest, most accurate transcription alongside contextual features like summarization, sentiment analysis, and topic detection. Beyond that, developers can:\r\n🔊 Process live-streaming or pre-recorded audio\r\n🌎 Transcribe in dozens of languages\r\n⚙️ Train custom models for unique use cases\r\n🔑 Access deep NLU with a unified API\r\n💻 Build in any programming language with our SDKs\r\n✅ Deploy on-prem or on DG’s managed cloud\r\n📈 Get scalable GPU infra for training and inference\r\n\nDeepgram is a proud NVIDIA partner and Y Combinator company, and we recently completed a $72M Series B to define the future of AI Speech Understanding, making us the most-funded speech AI company at its stage.",
+            "founded_date": 2015.0,
+            "founders": "[{\"name\": \"Scott Stephenson, Founder/CEO\", \"description\": \"Technical CEO, DL person, particle physicist.\", \"linkedin\": \"https://www.linkedin.com/profile/view?id=AAMAABp1p9YBj-vzJ-6PnwBthOxU-SSancWwG5w\"}]",
+            "generated_description": "**Company Overview: Deepgram**\n\n**Mission:** Deepgram aims to build foundational AI for speech transcription and understanding, democratizing access to advanced speech technology for developers worldwide.\n\n**Background:** Founded in 2015 as part of Y Combinator’s Batch W16, Deepgram has rapidly grown to become a leader in the AI-driven speech processing space. Headquartered in San Francisco, the company employs a team of about 115 talented individuals and has secured a notable position in the industry, as evidenced by its recent $72 million Series B funding round.\n\n**What They Offer:**\nDeepgram's platform provides an array of powerful tools and APIs that developers can tap into with just a simple API call. Key features include:\n\n- **Speech-to-Text API:** Exceptional transcription speed and accuracy, allowing for real-time and pre-recorded audio processing.\n- **Text-to-Speech API:** Natural-sounding voices that enhance user interaction.\n- **Voice Agent API:** Facilitates real-time communication between users and AI agents, perfect for customer service automation.\n- **Audio Intelligence API:** Offers capabilities like summarization, sentiment analysis, and topic detection, enriching the way audio data is utilized.\n\n**Technical Highlights:**\n- Supports live-streaming and transcribed audio in multiple languages.\n- Custom model training for unique use cases, enabling tailored solutions.\n- Unified API for deep Natural Language Understanding (NLU).\n- Accessibility across various programming languages through SDKs.\n\n**Scalability:** Deepgram provides scalable GPU infrastructure for training and inference, making it ideal for businesses of all sizes, from startups to enterprises. The company prides itself on being cost-effective—often described as 3-5 times cheaper than its competitors—while delivering superior accuracy and speed, reportedly up to 40 times faster for tasks like transcription.\n\n**Reputation and Partnerships:** Trust and reliability are underscored by partnerships with industry heavyweights, including NVIDIA. Their technology is used by major organizations such as NASA, Twilio, and Citi.\n\n**Community Engagement:** With over 200,000 developers utilizing its platform, Deepgram has built a vibrant community. They offer resources like documentation, tutorials, and an API playground for hands-on experimentation.\n\n**Conclusion:** Deepgram stands out not just as a speech AI company, but as a visionary player in the future of language processing. With a focus on accuracy, scalability, and developer accessibility, they are well-positioned to define the next generation of AI speech technology. Whether you’re looking to enhance customer service solutions, automate transcription, or innovate in the AI space, Deepgram provides the tools and support to make it happen. \n\nFor more information, check out their [website](https://www.deepgram.com).",
+            "group_partner": "Jared Friedman",
+            "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+            "headline": "Building foundational AI for speech transcription and understanding.",
+            "links": "https://www.ycombinator.com/companies/deepgram",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Deepgram_logo.png",
+            "name": "Deepgram",
+            "social_links": "[\"https://www.linkedin.com/company/deepgram\", \"https://www.twitter.com/DeepgramAI\", \"https://www.facebook.com/deepgram\", \"https://www.crunchbase.com/organization/deepgram\", \"https://github.com/deepgram\"]",
+            "tags": "industry:ai-enhanced-learning; industry:artificial-intelligence; industry:api; location:san-francisco-bay-area",
+            "team_size": 115.0,
+            "website": "https://www.deepgram.com"
+        }
+    },
+    {
+        "id": "Narrative_W23",
+        "score": 0.5960683822631836,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W23",
+            "description": "We're building AI powered data tooling for logistics and beyond!",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Suchit Dubey, Founder\", \"description\": \"CEO@Narrative. Previously Uber Freight, Crew, Thumbtack, Palantir and Ridecell.\", \"linkedin\": \"https://www.linkedin.com/in/dubeysuchit/\"}, {\"name\": \"Akshit Khurana, Founder\", \"description\": \"CTO Narrative. Prev, Engineering at Pytorch/Meta, Ambient AI, Housecanary, Ginger.io, LinkedIn/SlideShare\", \"linkedin\": \"https://www.linkedin.com/in/axitkhurana\"}]",
+            "generated_description": "**Company Overview: Narrative**\n\n**Mission:** Narrative is on a mission to revolutionize the way businesses utilize data by harnessing the power of AI. Their focus is on developing cutting-edge data tools that make logistics and beyond more efficient and insightful.\n\n**Foundation:** Founded in 2023, Narrative is already making waves in the tech ecosystem, having secured a spot in Y Combinator's Winter 2023 batch (W23). It’s clear they're not just building products; they’re building a company with vision.\n\n**Location and Team:** Based in the heart of San Francisco, Narrative is a lean startup with a nimble team of three skilled individuals. The small size allows them to remain agile, adapting quickly to market needs and opportunities.\n\n**Leadership:** Aaron Epstein leads the charge as the Group Partner, guiding the team with insights and experience. His role is crucial, especially in navigating the competitive landscape of AI and SaaS technologies.\n\n**Tags:** Narrative is positioned within several key industry categories: artificial intelligence, SaaS (Software as a Service), B2B (business to business), logistics, and the innovative San Francisco Bay Area tech scene. This alignment reflects their commitment not only to tech but specifically to improving logistics through smart data usage.\n\n**Current Focus:** As they carve out their niche in the data tooling sector, Narrative is actively developing AI-powered solutions tailored for logistics. Although they are still in the early stages, their vision is ambitious enough to make an impact across various sectors.\n\nIn summary, Narrative is poised for growth as they innovate data solutions that leverage AI to optimize logistics and potentially much more. With strong backing from Y Combinator and a focused team in one of the tech hubs of the world, they are definitely a startup to watch.",
+            "group_partner": "Aaron Epstein",
+            "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+            "headline": "AI powered data tools",
+            "links": "https://www.ycombinator.com/companies/narrative",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Narrative_logo.png",
+            "name": "Narrative",
+            "social_links": "[\"https://www.linkedin.com/company/trynarrative/\", \"https://twitter.com/trynarrative\"]",
+            "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:logistics; location:san-francisco-bay-area",
+            "team_size": 3.0,
+            "website": "https://www.trynarrative.com/"
+        }
+    },
+    {
+        "id": "ZeroEntropy_W25",
+        "score": 0.595804417319216,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W25",
+            "description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents.\r\n\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate.",
+            "founded_date": 2024.0,
+            "founders": "[{\"name\": \"Ghita Houir Alami, Founder\", \"description\": \"cofounder & CEO @ ZeroEntropy (YC W25)\\n-\\nmoroccan founder with 2 masters in applied maths from \\u00c9cole Polytechnique and UC Berkeley\", \"linkedin\": \"https://linkedin.com/in/ghita-houir-alami\"}, {\"name\": \"Nicholas Pipitone, Founder\", \"description\": \"Cofounder & CTO @ ZeroEntropy (YC W25) -\\n\\nMy background is in theoretical mathematics and computer science.\\n\\nDropped out of CMU to pursue startups. Worked on low-level C/C++/Assembly/GPU Code. CTO and/or main dev for 5 different startups. Created stat-arb algorithms and audited blockchains for bug bounties and hedge fund due diligence.\\n\\nBuilt the AI @ myko.ai, manifestapp.xyz, magibook.co\", \"linkedin\": \"https://www.linkedin.com/in/nicholas-pipitone-5736a2107/\"}]",
+            "generated_description": "**ZeroEntropy: Revolutionizing Search for AI**\n\nZeroEntropy is a San Francisco-based startup on a bold mission—to create the world’s most accurate search engine tailored for dealing with complex, unstructured documents. Founded in 2024 and part of the Y Combinator Batch W25, this two-person team is setting out to tackle a pervasive issue in the world of AI.\n\nIn an age where AI products like Q&A bots and virtual assistants rely heavily on retrieval systems, the limitations of current methods are glaring. Most existing systems employ basic semantic or hybrid search techniques that often miss the mark, leading to inaccuracies and frustrating hallucinations generated by large language models (LLMs). This isn't just a minor inconvenience; it can derail entire projects and erode trust in AI capabilities.\n\nZeroEntropy aims to change all that. By infusing its search API with enhanced intelligence, the company is empowering developers to build AI applications that are not only more reliable but also significantly more accurate. This dual focus on precision and user experience sets ZeroEntropy apart in a crowded field of Developer Tools.\n\nWith Harj Taggar as their Group Partner, the startup is poised to make waves in the realms of search, AI, and developer tools. If you’re interested in learning more or diving into the details of their offerings, check out their website at [zeroentropy.dev](https://www.zeroentropy.dev).\n\nIn summary, ZeroEntropy is tackling a core problem in AI—search accuracy over unstructured data—with a fresh perspective that aims to elevate the capabilities of AI products everywhere. Watch this space; they may just be the solution the industry has been waiting for.",
+            "group_partner": "Harj Taggar",
+            "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+            "headline": "High accuracy search API over unstructured data.",
+            "links": "https://www.ycombinator.com/companies/zeroentropy",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\ZeroEntropy_logo.png",
+            "name": "ZeroEntropy",
+            "social_links": "[\"https://www.linkedin.com/company/zeroentropy-inc/\", \"https://x.com/zeroentropy_ai\", \"https://github.com/ZeroEntropy-AI\"]",
+            "tags": "industry:developer-tools; industry:api; industry:search; industry:ai; location:san-francisco-bay-area",
+            "team_size": 2.0,
+            "website": "https://www.zeroentropy.dev"
+        }
     },
     {
         "id": "Automorphic_S23",
-        "score": 0.5941476225852966,
-        "metadata": {}
+        "score": 0.5955222845077515,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S23",
+            "description": "Automorphic has invented a way to infuse knowledge into LLMs via fine-tuning (surpassing context window limitations), enabling developers to rapidly iterate on and successively improve custom models cheaply and efficiently.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Govind Gnanakumar, Founder\", \"description\": \"Often running away from robots (that I created). Building the next generation of artifical narrow intelligence.\", \"linkedin\": \"https://linkedin.com/in/govind-gnanakumar\"}, {\"name\": \"Maaher Gandhi, Founder\", \"description\": \"When not working on Automorphic, I'm building AI to beat me at chess\", \"linkedin\": \"https://www.linkedin.com/in/maaher-gandhi-31b40928b\"}, {\"name\": \"Mahesh Natamai, Founder\", \"description\": \"Simplifying the LLM tuning, iteration, and deployment lifecycle. Wrangler of A100s.\", \"linkedin\": \"https://linkedin.com/in/mahesh-natamai-b17683188\"}]",
+            "generated_description": "**Automorphic: Redefining Knowledge Injection in Language Models**\n\nFounded in 2023 and hailing from the heart of San Francisco, Automorphic is a cutting-edge AI startup that’s part of the Y Combinator Batch S23. With a nimble team of three, the company's mission is to transform how knowledge is infused into language models, achieving this with an elegant approach that requires just 10 samples. \n\nWhat sets Automorphic apart? They’ve developed a technique that goes beyond the conventional context window limitations of large language models (LLMs). Their flagship product, **Conduit**, allows developers to fine-tune models seamlessly, providing the ability to train specific adapters for different behaviors or knowledge. This not only enhances model capabilities but does so efficiently and cost-effectively.\n\nAutomorphic’s approach to knowledge infusion addresses the inefficiencies of traditional methods, like prompt stuffing—techniques that can only take you so far. Instead, Conduit empowers teams to rapidly iterate on their models with human-in-the-loop feedback, drastically cutting down on the time to deploy improvements. The models learn and adapt over time, continuously enhancing performance based on real user inputs.\n\nMoreover, Conduit offers compatibility with the OpenAI API, allowing users to integrate the technology without having to overhaul their existing setups. For those concerned with data privacy, Automorphic also supports on-premises deployments, ensuring that sensitive information remains secure within clients' private cloud environments.\n\nIn a landscape where the demand for intelligent and adaptable language models is ever-increasing, Automorphic is positioned as a frontrunner—simplifying the way knowledge is integrated into AI and promising to empower developers in creating robust, self-improving models that evolve with their needs.\n\nTo keep up with Automorphic's developments or to join their private beta, check out their website at [automorphic.ai](https://automorphic.ai/) and dive into this exciting new frontier.",
+            "group_partner": "Harj Taggar",
+            "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+            "headline": "Infuse knowledge into language models with just 10 samples",
+            "links": "https://www.ycombinator.com/companies/automorphic",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Automorphic_logo.png",
+            "name": "Automorphic",
+            "social_links": "[\"https://www.linkedin.com/company/automorphic\", \"https://twitter.com/AutomorphicAI\", \"https://github.com/automorphic-ai\"]",
+            "tags": "industry:aiops; industry:deep-learning; industry:developer-tools; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+            "team_size": 3.0,
+            "website": "https://automorphic.ai/"
+        }
     },
     {
-        "id": "Augento_W25",
-        "score": 0.5930700302124023,
-        "metadata": {}
+        "id": "Capitol_AI_S24",
+        "score": 0.5953345894813538,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S24",
+            "description": "As Perplexity or Gemini replaces the Google Search we all use today, it will remove the need to ever visit a website. This is an existential risk to all media brands, which is why Capitol went from zero to $1.68M in revenue during YC: all media companies need to offer THEIR OWN Perplexity-like experience to maintain their direct relationship with customers. The most trusted brand in political news and analysis, Politico, chose us to power their Politico Pro Subscription product.\r\n\nConsumers expect instant personalized answers. Publishers won’t build this on their own.\r\n\nCapitol’s API lights up publishers' websites and apps so their end users can generate personalized search results, cited research reports, and even tweet storms using the publisher’s proprietary data—all within their paywall. \r\n\nCapitol is the new last mile of content delivery for publishing. This market is $16b in 2023, and will grow to $85.6b in 2030.\r\n\nGemini and Perplexity are the imperial forces. Capitol is arming the rebels.",
+            "founded_date": 2021.0,
+            "founders": "[{\"name\": \"Shaun Modi, Founder & CEO\", \"description\": \"Shaun Modi is the founder and CEO of Capitol AI, an infinitely smart research assistant that instantly generates high-quality content from your documents. One of the founding designers of Airbnb, Shaun has been named one of Business Insider\\u2019s Top 75 Designers in Technology. Shaun has designed software products for technology giants, the government, and its agencies, including Google, the White House, DoD, NASA, CDC, and Motorola. At Airbnb, Shaun worked side by side with CEO Brian Chesky.\", \"linkedin\": \"https://www.linkedin.com/in/shaunmodi/\"}, {\"name\": \"thomas hallaran, Founder\", \"description\": \"Software engineer and technical manager with a product mindset. Two decades of experience, including IC and Director positions in academia, venture backed startups, and the US Federal Government.\", \"linkedin\": \"https://www.linkedin.com/in/tomhallaran/\"}]",
+            "generated_description": "**Capitol AI: Revolutionizing Content Delivery**\n\nFounded in 2021 and based in Washington, DC, Capitol AI is on a mission to create a “custom perplexity” solution for every website in the world. Initially launching as As Perplexity or Gemini—innovative tools aiming to replace traditional Google searches—Capitol AI is addressing a looming existential threat faced by media brands. By offering a sophisticated API, Capitol empowers publishers to deliver personalized search results, research reports, and even social media content all within their paywalls, thereby enhancing their relationship with users.\n\nCapitol AI experienced rapid growth, generating $1.68 million in revenue during its time at Y Combinator. It became a vital partner for Politico, helping power their Politico Pro Subscription product, and positioned itself directly in the fight against generic search engines that strip publishers of direct customer engagement. \n\nThe demand for instant, personalized answers has never been higher, and Capitol aims to bridge the gap where publishers can't—or won't—develop these capabilities on their own. With an expansive market currently valued at $16 billion, projected to grow to $85.6 billion by 2030, Capitol AI is poised to become the critical last mile of content delivery for publishers. \n\nWith a lean team of 11 and under the guidance of Y Combinator Group Partner Garry Tan, Capitol AI is tagged in fields like artificial intelligence, workflow automation, analytics, and media. They are armed and ready; while Gemini and Perplexity may dominate the landscape, Capitol is empowering the rebellion of content creators.\n\nFor more about Capitol AI and their offerings, you can visit their website at [capitol.ai](https://www.capitol.ai/).",
+            "group_partner": "Garry Tan",
+            "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+            "headline": "Capitol is a custom perplexity for every website in the world.",
+            "links": "https://www.ycombinator.com/companies/capitol-ai",
+            "location": "Washington, DC",
+            "logo_path": "data/logos\\Capitol_AI_logo.png",
+            "name": "Capitol AI",
+            "social_links": "[\"https://www.linkedin.com/company/capitolai/\", \"https://x.com/usecapitol\"]",
+            "tags": "industry:ai-enhanced-learning; industry:artificial-intelligence; industry:workflow-automation; industry:analytics; industry:media",
+            "team_size": 11.0,
+            "website": "https://www.capitol.ai/"
+        }
+    },
+    {
+        "id": "SID_S23",
+        "score": 0.5936447381973267,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S23",
+            "description": "We make it easy for developers to connect data to their LLM apps. Instead of spending months on integrations and retrieval pipelines, Reworkd's AgentGPT added our button in an afternoon and let thousands of people connect their Notion, email and Drive instantly.\r\n\nEvery single AI company is building data retrieval. Currently, they're doing this from scratch â we don't think they should have to. Just like OpenAI made working with LLMs as simple as an API call, SID makes it easy for every AI company to access data the same way.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Maximilian-David Rumpf, Founder\", \"description\": \"Max is the CEO of SID.ai. Previously, he was a researcher at ETH Z\\u00c3\\u00bcrich, where he worked on AI accelerator design with the professor who developed Google's TPU architecture. In early 2023, he developed MultiGPT, the first multi-agent AI that garnered thousands of users and ~500 Github stars in a single week. Max was awarded a German national excellence scholarship, awarded to 0.5% of German students.\", \"linkedin\": \"https://linkedin.com/in/maximiliandavid\"}, {\"name\": \"Lukas Ruflair, Founder\", \"description\": \"Lukas Ruflair is co-founder and CIO at SID.ai. He studied Computer Science at ETH Zurich, loves hacking and previously built one of the first multi-agent AI simulations, racking up millions of views on Twitter.\", \"linkedin\": \"https://www.linkedin.com/in/ruflair/\"}, {\"name\": \"Lotte Seifert, Founder\", \"description\": \"Lotte is determined to let people use their data for their own good. She holds a degree in CS from ETH Z\\u00c3\\u00bcrich and a degree in Economics from the University of St. Gallen. In early 2023, she developed MultiGPT, the first multi-agent AI that garnered thousands of clones and ~500 Github stars in a single week. Previously, Lotte worked at Europe\\u00e2\\u0080\\u0099s first AI venture studio Merantix and organized the continent's largest student-run startup conference with guests such as Matt Cohler & Esther Wojcicki.\", \"linkedin\": \"https://linkedin.com/in/lotte-seifert\"}]",
+            "generated_description": "**Company Overview: SID**\n\nFounded in 2023 and part of Y Combinator's Batch S23, SID aims to make the integration of AI with company-specific data seamless and efficient. The mission is straightforward: provide a serverless Retrieval-Augmented Generation (RAG) solution that empowers AI to tap into relevant information tailored to both industries and individual users.\n\nInitially, SID began by easing the path for developers who struggled with setting up data connections to their large language model (LLM) applications. Instead of enduring a lengthy integration process or grappling with cumbersome data retrieval pipelines, developers could simply add SID’s button to their tools—much like Reworkd's AgentGPT did in just a day. This leap has allowed countless users to instantly link their Notion, email, and Google Drive to their AI functionalities.\n\nAs the AI landscape continues to expand, every new player seems to be reinventing the wheel when it comes to data retrieval. SID believes this shouldn’t be the case. In the same vein that OpenAI democratized access to LLMs through a simple API call, SID aspires to do the same for data accessibility. They’re not just another tech solution; they’re fundamentally changing how AI companies interact with data.\n\n**Current Focus and Offerings**\n\nSID is currently working on the following key initiatives:\n- **Developer Accessibility**: They provide resources and documentation to help developers get started quickly. With tools designed to enhance product functionality, SID invites devs to explore their offerings through demos and user-friendly guides.\n- **RAG Solutions**: The focus on Retrieval-Augmented Generation displays SID's intent to be at the forefront of AI technology advancements, ensuring that AI applications are informed and contextually aware based on user, industry, or company-specific data.\n\nWith a compact team of 3, SID is nimble and focused. They are geared toward building out their product and expanding their capabilities, guided under the expertise of their group partner, Dalton Caldwell.\n\n**Concluding Thoughts**\n\nIn a landscape where data retrieval is a crucial enabler of AI's capabilities, SID is positioning itself as a key player to simplify this process. It’s a bold move—just when it seems like AI's evolution might plateau, companies like SID remind us that the race is not just about intelligence but also about how effectively we can connect that intelligence to the real world.\n\nFor more information, you can visit their website at [SID.ai](https://www.sid.ai), or check out their [blog](https://www.sid.ai/blog), [docs](https://www.sid.ai/docs), and [hiring](https://www.sid.ai/hiring) pages to explore opportunities and insights further.",
+            "group_partner": "Dalton Caldwell",
+            "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+            "headline": "Serverless RAG to connect AI to company, industry, or person-specificâ¦",
+            "links": "https://www.ycombinator.com/companies/sid",
+            "location": "",
+            "logo_path": "data/logos\\SID_logo.png",
+            "name": "SID",
+            "social_links": "[\"https://www.linkedin.com/company/sidai/\", \"https://twitter.com/try_sid\", \"https://github.com/sidhq\"]",
+            "tags": "",
+            "team_size": 3.0,
+            "website": "https://www.sid.ai"
+        }
+    },
+    {
+        "id": "Nuanced_W24",
+        "score": 0.5925863981246948,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W24",
+            "description": "We're building tools that combine static analysis with AI to obtain a deeper understanding of code behavior. By doing so, we help both humans and machines understand code behavior at a fundamental level.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Ayman Nadeem, Founder\", \"description\": \"Founder and CEO of Nuanced. Formerly at GitHub for 7+ years. \\n\\nMSc in CS from University of Oxford + engineering valedictorian from University of Waterloo. \\n\\nhttps://www.aymannadeem.com/about/\", \"linkedin\": \"https://linkedin.com/in/aymannadeem\"}]",
+            "generated_description": "**Company Overview: Nuanced**\n\nFounded in 2023 and based in San Francisco, Nuanced is an emerging player in the world of AI-driven development tools. With a sharp focus on static analysis, Nuanced aims to enhance AI coding tools by giving them a deeper understanding of code behavior. Their mission is straightforward yet ambitious: to make AI tools smarter, enabling both developers and machines to better grasp what the code is really doing.\n\n**The Team and Support**\n\nNuanced is a small but experienced team, comprising just two dedicated employees, including ex-GitHub engineers who have worked on some of the largest developer platforms out there. Their background gives them unique insights into the potential and challenges of AI in coding. They are currently part of Y Combinator's Batch W24, a robust accelerator that provides both mentorship and resources for high-growth startups.\n\n**What They Offer**\n\nAt its core, Nuanced combines static analysis with AI to create a semantic understanding layer that promises to enhance decision-making for tool builders, whether they're developing an integrated development environment (IDE) or a new AI assistant. This approach aims to address limitations faced by existing AI coding tools, making them not just more intelligent but also truly empowering for developers.\n\n**Current Initiatives and Thoughts**\n\nNuanced is actively engaged in both research and practical applications. They're sharing insights through a blog that touches on relevant topics for today’s coding landscape, including system-wide context for AI tools and the reliability of AI-generated code. Their latest posts explore significant themes in the AI coding space, inviting readers to consider how to better trust and leverage AI in their work.\n\n**Get Involved**\n\nFor those intrigued by their promise of smarter coding tools, Nuanced is offering early access sign-ups on their website. You can check them out at [Nuanced](https://www.nuanced.dev/) to learn more and stay tuned as they develop their innovative approach to AI in tech.\n\nUltimately, Nuanced isn’t just building another AI tool; it's redefining how we understand and interact with code through a fresh lens of semantic analysis, making them one to watch in the ever-evolving realm of developer tools.",
+            "group_partner": "Nicolas Dessaigne",
+            "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+            "headline": "Nuanced makes AI coding tools smarter with static analysis.",
+            "links": "https://www.ycombinator.com/companies/nuanced",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Nuanced_logo.png",
+            "name": "Nuanced",
+            "social_links": "[\"https://www.linkedin.com/company/nuanced-inc\", \"https://twitter.com/nuanced_dev\", \"https://www.facebook.com/people/Nuanced-Inc/61555805690159/\", \"https://www.crunchbase.com/organization/nuanced-e5d3\", \"https://github.com/nuanced-dev\"]",
+            "tags": "industry:artificial-intelligence; industry:developer-tools; industry:ai-assistant; location:san-francisco-bay-area",
+            "team_size": 2.0,
+            "website": "https://www.nuanced.dev/"
+        }
+    },
+    {
+        "id": "Defog_ai_W23",
+        "score": 0.5924127697944641,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W23",
+            "description": "Defog lets your business users query data in seconds, using everyday language.\r\n\nWe are powered by SQLCoder – our state of the art open-source model that can search and visualise structured data (like SQL databases or Data Warehouses), and can be further fine-tuned and and deployed on-prem on your servers.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Rishabh Srivastava, Founder\", \"description\": \"ML developer. Previously bootstrapped data APIs co to 100M+ monthly end users. I blog at rish.blog and am fairly active on Twitter (@rishdotblog)\", \"linkedin\": \"https://linkedin.com/in/rishsriv\"}, {\"name\": \"Medha Basu, Founder\", \"description\": \"Co-Founder of Defog.ai. Former journalist/editor/content marketing person. Grew an enterprise content marketing firm from $0 to 7 figures in yearly revenue. Once interviewed a terrorist.\", \"linkedin\": \"https://www.linkedin.com/in/medha-basu/\"}]",
+            "generated_description": "Defog.ai is a fresh contender in the data analysis space, having launched in 2023 and quickly becoming a part of Y Combinator Batch W23. Nestled in the heart of Mountain View, the company is on a mission to empower enterprises with fine-tuned large language models (LLMs) that make data querying effortless and intuitive.\n\nOriginally, Defog aimed to let business users query data in plain language, effectively lowering the barrier to accessing insights. This promise is now powered by their flagship product, SQLCoder, an open-source model that specializes in searching and visualizing structured data—think SQL databases and data warehouses. One of the key selling points of SQLCoder is its adaptability; it can be fine-tuned and deployed on-premises, putting privacy and control back into the hands of enterprises.\n\nDefog's small but mighty team of five is riding the generative AI wave along with a robust portfolio of developer tools aimed at machine learning and open-source solutions. They’ve already managed to grab the attention of industry giants like Toyota and Macmillan, showcasing their product’s prowess in tackling real-world data challenges at scale.\n\nAt its core, Defog is about speed and accessibility. It enables users to get immediate answers without the usual waits that come with traditional data querying methods. Users can drill down for specifics or explore broad hypotheses, all while knowing their data remains private and secure—an increasingly crucial selling point in today’s world.\n\nWhat’s more, their technology is getting noticed in the industry for its accuracy and ease of use. SQLCoder has been lauded for surpassing even some of the leading models on the market, earning endorsements from industry experts who highlight its interpretability and reliability.\n\nDefog isn’t just about traditional data exploration; it actively learns from user interactions, adapting to feedback to improve its responses over time. As more companies recognize the potential of harnessing AI for data analysis, Defog.ai seems poised to become a go-to solution for enterprises looking to leverage their data effectively.\n\nFor a deeper dive into what they offer, check them out at [defog.ai](https://defog.ai).",
+            "group_partner": "Brad Flora",
+            "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+            "headline": "Fine-tuned LLMs for enterprise data analysis",
+            "links": "https://www.ycombinator.com/companies/defog-ai",
+            "location": "Mountain View",
+            "logo_path": "data/logos\\Defog.ai_logo.png",
+            "name": "Defog.ai",
+            "social_links": "[\"https://www.linkedin.com/company/defog-ai/\", \"https://twitter.com/defogdata\", \"https://github.com/defog-ai/\"]",
+            "tags": "industry:developer-tools; industry:generative-ai; industry:machine-learning; industry:open-source; industry:enterprise; location:san-francisco-bay-area",
+            "team_size": 5.0,
+            "website": "https://defog.ai"
+        }
+    },
+    {
+        "id": "Scale_AI_S16",
+        "score": 0.5917313694953918,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S16",
+            "description": "Scale accelerates the development of AI within organizations of any size to deliver critical business insights and operational efficiency. Its data-centric infrastructure platform leverages RLHF (Reinforced Learning with Human Feedback) to help organizations build the strongest AI models that supercharge their business, with customers across industries including Meta, Microsoft, U.S. Army, DoD’s Defense Innovation Unit, Open AI, General Motors, Toyota Research Institute, Brex, Instacart and Flexport.",
+            "founded_date": 2016.0,
+            "founders": "[]",
+            "generated_description": "**Overview of Scale AI**\n\n**Company Name:** Scale AI  \n**Website:** [scale.com](http://scale.com)  \n**Founded:** 2016 (Y Combinator Batch S16)  \n**Location:** San Francisco, CA  \n**Employee Count:** 500  \n**Group Partner:** Jared Friedman  \n\n**Mission:** To provide data-centric infrastructure that accelerates the development of AI for organizations of all sizes, delivering crucial business insights and enhancing operational efficiency.\n\n### What They Do\n\nScale AI is a powerhouse in the AI infrastructure space. Their primary offering is a data-centric platform that boosts the performance of AI models using **Reinforcement Learning with Human Feedback (RLHF)**. This methodology empowers companies to construct robust AI systems tailored to their needs.\n\nThey cater to a diverse clientele including giants like Meta, Microsoft, OpenAI, General Motors, and the U.S. Army, indicating their broad appeal across various industries. \n\n### Key Products and Services\n\n1. **Scale Data Engine:** A powerful tool for training AI models.\n2. **Generative AI Solutions:** Supervised fine-tuning and RLHF for generative models.\n3. **Government-Focused Services:** High-quality data and platforms for public sector use.\n4. **Automotive Solutions:** Supporting levels of autonomy in vehicles.\n5. **Scale Donovan:** An AI platform tailored for the government sector.\n6. **Scale GenAI Platform:** A full-stack generative AI solution for enterprises.\n7. **Evaluation Tools:** Comprehensive evaluation services for AI models and applications.\n\n### Commitment to Quality\n\nScale AI's approach to quality centers around data curation and labeling, blending AI methodologies with human oversight to create impactful datasets. They've established the SEAL (Safety, Evaluations, and Alignment Lab) to drive research and improve AI assessment methodologies.\n\n### Industry Recognition\n\nTheir innovative work hasn't gone unnoticed. Prominent figures like Mark Zuckerberg (Meta), Demis Hassabis (DeepMind), and Andrej Karpathy (EurekaLabs AI) have acknowledged Scale AI's contributions to enhancing AI model evaluations and robustness.\n\n### Conclusion\n\nScale AI stands at the intersection of cutting-edge AI technology and practical enterprise applications. With a data-centric approach, they empower organizations to unlock the full potential of AI while maintaining a strong commitment to quality and safety in model evaluations. If you’re looking to harness AI for your business, Scale AI is a formidable partner to consider.",
+            "group_partner": "Jared Friedman",
+            "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+            "headline": "Data-centric infrastructure to accelerate the development of AI",
+            "links": "https://www.ycombinator.com/companies/scale-ai",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Scale_AI_logo.png",
+            "name": "Scale AI",
+            "social_links": "[\"https://www.linkedin.com/company/scaleai/\", \"https://twitter.com/scale_AI\", \"https://www.facebook.com/scaleapi/\", \"https://www.crunchbase.com/organization/scale-2\", \"https://github.com/scaleapi\"]",
+            "tags": "industry:artificial-intelligence; industry:machine-learning; location:san-francisco-bay-area",
+            "team_size": 500.0,
+            "website": "http://scale.com"
+        }
+    },
+    {
+        "id": "NuMind_S22",
+        "score": 0.5910767316818237,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S22",
+            "description": "NuMind is a tool for data scientists, data analysts, but also software engineers to create custom NLP models. For example, a recruiting company uses NuMind to find which job offers best match a given resume. Etienne (CEO) was head of Machine Learning at Wolfram Research, and Samuel (CTO) co-founded Make.org (8M users). NuMind originated from our own frustration when developing NLP models. Leveraging large language models similar to GPT-3, NuMind allows to complete NLP projects at least 10x faster than before. We launched a private beta August 2 and had 9 paying customers one month later.",
+            "founded_date": 2022.0,
+            "founders": "[{\"name\": \"Etienne Bernard, Founder\", \"description\": \"Etienne is an expert in AI & machine learning. After a PhD (ENS) & postdoc (MIT) in statistical physics, Etienne joined Wolfram Research where he became the head of machine learning for 7 years. During this time, Etienne led the development of automatic learning tools, a user-friendly deep learning framework, and various machine learning applications. Etienne founded NuMind in 2022.\", \"linkedin\": \"https://www.linkedin.com/in/etiennebcp/\"}, {\"name\": \"Samuel Bernard, Founder\", \"description\": \"After a PhD in Distributed Systems, Samuel was an early employee of Criteo, the Technology Innovation leader at S4M, co-founder & CTO at Make.org, and an independent coach/advisor of start-ups & data teams.  Over the years he refined his skills and became an expert in DevOps/DataOps and at managing tech teams.\\nHe is now founder & CTO at Numind.ai.\", \"linkedin\": \"https://www.linkedin.com/in/samuelbernardphd/\"}]",
+            "generated_description": "### NuMind: Simplifying Custom NLP Model Creation\n\n**Overview:**\nNuMind is a fresh player in the artificial intelligence space, launched in 2022 and currently part of Y Combinator's Batch S22. Based in Cambridge, MA, this nimble startup is tackling the common frustrations encountered during the development of Natural Language Processing (NLP) models. With a small team of six, including seasoned leaders Etienne, the CEO who formerly led machine learning at Wolfram Research, and CTO Samuel, a co-founder of Make.org with millions of users, NuMind is primed to leave its mark.\n\n**Mission:**\nThe core mission of NuMind is straightforward: empower users to create custom NLP models swiftly and efficiently. They aim to significantly reduce the time and effort required to complete NLP projects, offering tools that make this possible—often achieving results at least ten times faster than traditional methods.\n\n**Product Offering:**\nNuMind specializes in creating custom models particularly suited for tasks like job matching in recruitment. For instance, a recruiting firm can utilize NuMind's technology to match job postings with candidate resumes effectively. Their proprietary model, NuExtract, focuses on extracting high-quality information from various document formats (PDFs, images, tables, and text), ensuring that users can build robust databases with clean, reliable data.\n\n**Key Features and Use Cases:**\nNuMind's platform is packed with features that cater to a wide array of applications—from structured data extraction to domain-specific tasks such as medical coding. Their API allows users with some technical expertise to harness the power of their models and extract information at scale. Additionally, NuMind provides an enterprise solution that caters to organizations needing enhanced privacy and on-prem deployment.\n\n**Traction:**\nSince launching their private beta on August 2, 2022, NuMind has already secured nine paying customers within the first month—a promising indication of demand and readiness in the market.\n\n**Why It Matters:**\nIn a world increasingly driven by data, the need for customizable, fast, and efficient NLP solutions is ever-present. NuMind not only acknowledges this necessity but seeks to streamline the process, making powerful tools accessible to data scientists, analysts, and software engineers alike. Their focus on user-friendly models signifies a shift towards democratizing machine learning applications.\n\n**Conclusion:**\nIf you're curious about their offerings or want to dive into custom NLP model-making, NuMind stands at the ready. They’re not just building a product; they’re reshaping how businesses interact with data through intelligent automation and tailored solutions. You can visit them at [NuMind.ai](https://www.numind.ai).",
+            "group_partner": "Nicolas Dessaigne",
+            "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+            "headline": "Create custom NLP models",
+            "links": "https://www.ycombinator.com/companies/numind",
+            "location": "Cambridge, MA",
+            "logo_path": "data/logos\\NuMind_logo.png",
+            "name": "NuMind",
+            "social_links": "[\"https://www.linkedin.com/company/numind-ai\", \"https://twitter.com/numind_ai\", \"https://www.crunchbase.com/organization/numind\"]",
+            "tags": "industry:aiops; industry:artificial-intelligence; industry:machine-learning; industry:nlp",
+            "team_size": 6.0,
+            "website": "https://www.numind.ai"
+        }
+    },
+    {
+        "id": "Lucidic_AI_W25",
+        "score": 0.590368926525116,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W25",
+            "description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic's Agentlytics provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
+            "founded_date": 2025.0,
+            "founders": "[{\"name\": \"Andy Liang, Founder\", \"description\": \"Founder/CTO at Lucidic AI, working on an analytics, testing, and simulations framework for AI agent devs. Stanford BS/MS Computer Science (AI specialization). Ex Citadel, AppLovin.  \\n\\nPreviously built GrocerCheck, a COVID-19 web app helping shoppers social distance effectively, with over 200,000 users and endorsed by the Government of Canada. \\n\\nReach me at andy@lucidic.ai\", \"linkedin\": \"https://www.linkedin.com/in/andyliang223/\"}, {\"name\": \"Abhinav Sinha, Founder\", \"description\": \"Hi, I\\u2019m Abhinav the founder and CEO for Lucidic AI! I\\u2019m from Stanford where I studied Computer Science with an AI specialization (both bachelor's and master's) and did research at Stanford's AI Lab.  I\\u2019ve worked at Apple as a software engineer and at Citadel Securities and Susquehanna International Group as a quant. \\n\\nIn my free time, I like to play basketball, pickleball, lift, and rewatch Christopher Nolan movies!\\n\\nFeel free to reach out, would love to chat -- abhinav@lucidic.ai\", \"linkedin\": \"https://www.linkedin.com/in/abhinavsinha15/\"}, {\"name\": \"Jeremy Tian, Founder\", \"description\": \"Hi! I'm Jeremy Tian, one of the founders and the Chief Scientist at Lucidic AI, working to explain your AI models' decisions. I have a BS/MS in Computer Science with an AI specialization from Stanford University. Ex. Quantitative Trader at DRW and software engineering/machine learning engineering at Steel Dynamics. Contact me at jeremy@lucidic.ai!\", \"linkedin\": \"https://www.linkedin.com/in/jeremy-tian-a2076a239/\"}]",
+            "generated_description": "**Lucidic AI: See Your Agent's Mind at Work**\n\nFounded in 2025, Lucidic AI is a young company based in San Francisco, proudly emerging from Y Combinator's Batch W25. With a compact team of just three employees, they’re tackling a crucial problem: as AI agents take on more intricate tasks, the need for reliability, accuracy, and efficiency grows exponentially. \n\nLucidic AI's mission can be summed up in their slogan: \"See Your Agent's Mind at Work.\" Their flagship product, **Agentlytics**, serves as a robust toolkit for developers and engineers to test, debug, and optimize AI agents at scale. Imagine having the ability to modify prompts, rerun tests, and get step-by-step video replays of how your agents make decisions. With features that allow you to visualize decision trees and compare different models side-by-side, you're equipped to pinpoint potential failures before they escalate. \n\nThe company's focus is on ensuring that AI agents can smoothly operate, adapt to changes, and meet performance expectations in real-world scenarios – a critical need in today's rapidly evolving tech landscape.\n\nIf you’re curious about what they do, you can join their private beta. Their website, [Lucidic.ai](https://lucidic.ai), offers more snippets of their innovative approach, including an invitation to book a demo. The site captures the essence of their mission: enabling smarter testing, faster debugging, and comprehensive simulation of AI agents.\n\nIn the ever-expanding realm of artificial intelligence, Lucidic AI is poised to make a significant impact, making it easier for engineers to understand and refine the complex behaviors of their AI systems. With partnerships like Brad Flora as their Group Partner and their strategic location in the San Francisco Bay Area, Lucidic AI is well-positioned for growth in the developer tools and automation sectors.\n\nOverall, if you’re developing AI systems and yearning for transparency in how they operate, it's worth keeping an eye on Lucidic AI. They might just be the key to unlocking your agents' potential.",
+            "group_partner": "Brad Flora",
+            "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+            "headline": "See Your Agent's Mind at Work",
+            "links": "https://www.ycombinator.com/companies/lucidic-ai",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Lucidic_AI_logo.png",
+            "name": "Lucidic AI",
+            "social_links": "[]",
+            "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:automation; location:san-francisco-bay-area",
+            "team_size": 3.0,
+            "website": "https://lucidic.ai"
+        }
+    },
+    {
+        "id": "Tavus_S21",
+        "score": 0.5888082385063171,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S21",
+            "description": "At Tavus, we're building the human layer of AI. Our mission is to make human-AI interaction as natural as face-to-face interaction, enabling the human touch where it has been previously unscalable. We achieve this through pioneering research in multi-modal AI models for human perception and understanding, combined with state-of-the-art human avatar rendering and conversation models that we make accessible to developers worldwide. Our models and APIs power everything from text-to-video AI avatars to real-time conversational video experiences across industries like healthcare, recruiting, sales, education, and more. By enabling AI to see, hear, and communicate with human-like authenticity, we're creating the foundation for developers to create the next generation of AI employees, assistants, and companions.",
+            "founded_date": 2021.0,
+            "founders": "[{\"name\": \"Hassaan Raza, Founder\", \"description\": \"Building the human layer of AI\", \"linkedin\": \"http://linkedin.com/in/hassaanraza/\"}, {\"name\": \"Quinn Favret, Founder\", \"description\": \"Building the human layer of AI\", \"linkedin\": \"https://www.linkedin.com/in/quinn-favret/\"}]",
+            "generated_description": "**Tavus: Building the Human Layer of AI**\n\nFounded in 2021 and part of Y Combinator's Batch S21, Tavus is ramping up the way we interact with AI by making it feel more human. The company, based in San Francisco and employing around 30 people, is on a mission to enhance human-AI interaction to be as seamless and natural as face-to-face communication.\n\n### What They Do\n\nEssentially, Tavus provides powerful tools that allow developers to create truly innovative AI experiences. This includes everything from text-to-video AI avatars to real-time conversational interfaces. Their technology focuses on replicating human perception and understanding using multi-modal AI models—think of them as the behind-the-scenes nerds turning the sci-fi dream of digital twins into reality.\n\nThe flagship offerings include:\n- **Video Generation**: Create videos from scripts using realistic AI avatars.\n- **Conversational Video Interface**: Engage in real-time conversations with AI that feels genuine.\n- **AI Models**: Access advanced, highly realistic digital replicas through their API, powered by their innovative Phoenix model.\n\n### Target Markets\n\nTavus' technology is applicable across various industries, including:\n- Healthcare\n- Recruiting\n- Sales\n- Education\n\nIt’s clear that Tavus wants to enable businesses to leverage AI for tasks that had previously been too complex or unscalable.\n\n### Why Tavus Stands Out\n\nTavus emphasizes a developer-first approach, providing extensive resources, documentation, and support to ensure smooth integration. Its models are not just about generating cool content; they're engineered for realism and responsiveness. According to feedback from users, their technology offers impressively low latency and high fidelity—making AI interactions almost indistinguishable from real human contacts.\n\nThey are also considerate about privacy and security, ensuring that user experiences are safeguarded with comprehensive protocols. With features like safety checks and content moderation, they’re aiming for an ethical approach in AI deployment.\n\n### Looking Ahead\n\nTavus is not just stopping at what they have; they’re constantly evolving their offering—dubbing APIs and language support enhancements are on the horizon. Their ambition signals a strong belief in the future where AI can uphold the \"human touch,\" responsibly and authentically.\n\nIn conclusion, Tavus is carving a niche in the AI landscape, driven by innovation and a clear vision for future interactions. They offer not just tools, but a pathway to a more genuine integration of technology into our daily lives. You can explore their offerings further at [Tavus.io](https://www.tavus.io).",
+            "group_partner": "Michael Seibel",
+            "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+            "headline": "Building the human layer of AI",
+            "links": "https://www.ycombinator.com/companies/tavus",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Tavus_logo.png",
+            "name": "Tavus",
+            "social_links": "[\"https://www.linkedin.com/company/tavus-io/\", \"https://twitter.com/heytavus\", \"https://www.crunchbase.com/organization/tavus\"]",
+            "tags": "industry:artificial-intelligence; industry:generative-ai; industry:b2b; industry:video; industry:infrastructure; location:san-francisco-bay-area",
+            "team_size": 30.0,
+            "website": "https://www.tavus.io"
+        }
+    },
+    {
+        "id": "Spine_AI_S23",
+        "score": 0.588229775428772,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S23",
+            "description": "Customized AI analysts that understand your business, and can handle your data in any format.\r\nTeach it the context from your business, and test improvements at scale as you expand your use cases. \r\nFind answers in databases, documents, pdfs, slide decks, and spreadsheets. \r\nGather your insights from every source in one place, to align teams and drive decisions.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Akshay Budhkar, Founder\", \"description\": \"Founder and CEO at Spine AI. Previously @ Georgian Partners (Helped 40+ B2B SaaS, led Gen AI & 5 Applied research initiatives, released a few open-source toolkits to help companies at scale), Scribd (YC S06) and FarmLogs (YC W12). Did Gen AI in my Masters @ UofT before it was cool :)\", \"linkedin\": \"https://linkedin.com/in/akshay-budhkar-06259041\"}, {\"name\": \"Ashwin Venkatesh Raman, Founder\", \"description\": \"Founder and CTO at Spine AI. Previously at Instacart, AWS, Alexa, Nvidia and UWaterloo.\", \"linkedin\": \"https://linkedin.com/in/avraman\"}]",
+            "generated_description": "**Company Overview: Spine AI**\n\nFounded in 2023, Spine AI is a San Francisco-based startup that's already making waves in the AI space. Backed by Y Combinator's Batch S23, it operates with a nimble team of five, aiming to revolutionize how businesses handle their data.\n\n**Mission:**\nSpine AI's core mission is to provide reliable AI data analysts that understand your unique business context. Initially launched as customized AI analysts, the company has quickly escalated to help organizations leverage their data more effectively—regardless of the format.\n\n**Key Features:**\n- **Conversational Analytics**: With Spine AI, users can engage with their data using natural language, allowing for a seamless and intuitive experience when extracting insights.\n- **Data Integration**: The platform can interact with a variety of data sources, from databases and documents to PDFs and spreadsheets. This gives teams a unified view of all their insights.\n- **Continuous Improvement**: By incorporating both human feedback and AI assessments, Spine AI ensures that its analytics capabilities improve over time, adapting to the changing needs of businesses.\n- **Custom Reporting**: It enables real-time reporting and data visualization, eliminating the need for tedious custom reports.\n\n**Product in Action:**\nImagine being able to ask, \"How is Acme's customer acquisition going?\" and getting an immediate analysis of metrics broken down by channels, all without having to wrestle with complex queries or rigid dashboards. This is what Spine AI promises—instant insights that empower decision-making throughout your organization.\n\n**Long-Term Vision:**\nSpine AI isn’t just about current offerings; it’s about building a future where data-driven decisions are the norm. The platform is designed to drill deep into both structured and unstructured data, providing users with timely insights that can drive their business forward.\n\n**Why It Matters:**\nIn an era where data is paramount, Spine AI positions itself as a necessary tool for enterprises aiming to harness the full potential of their data assets without overwhelming their teams. As businesses increasingly rely on sharp insights for strategic moves, Spine AI stands out as a pivotal partner in this journey.\n\nFor more information or to experience a demo, visit their website at [Spine AI](https://www.getspine.ai).",
+            "group_partner": "Harj Taggar",
+            "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+            "headline": "Reliable AI data analysts that know your business",
+            "links": "https://www.ycombinator.com/companies/spine-ai",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Spine_AI_logo.png",
+            "name": "Spine AI",
+            "social_links": "[\"https://www.linkedin.com/company/spine-ai\", \"https://x.com/Spine_AI\", \"https://www.crunchbase.com/organization/spine-ai\"]",
+            "tags": "industry:artificial-intelligence; industry:generative-ai; industry:saas; industry:analytics; industry:conversational-ai; location:san-francisco-bay-area",
+            "team_size": 5.0,
+            "website": "https://www.getspine.ai"
+        }
+    },
+    {
+        "id": "OmniAI_W24",
+        "score": 0.5881001949310303,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "W24",
+            "description": "Omni turns documents, slide decks, websites and more into the data you need. You'll never need to copy + paste data into spreadsheets again.\r\n- Connect to a database or document store. We support Snowflake, Postgres, Google Drive, S3 and more.\r\n- Transform your data - Define type safe schemas to run against your unstructured data. We’ll run those models against your data, and keep your warehouse in sync as new rows/fields are added/deleted.\r\n- Query with SQL - All the transformed data stays in your warehouse. Surface this data in your product, or analyze with your existing BI tools.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Tyler Maran, Founder\", \"description\": \"Tyler is the co-founder and CEO of OmniAI. Before OmniAI, he played a pivotal role in developing AI and ML applications within the healthcare and mental health domains. His experience in establishing ML structures in stringently regulated sectors gives him a unique perspective on the tradeoffs of tech, business, and regulatory considerations.\", \"linkedin\": \"https://linkedin.com/in/tyler-maran\"}, {\"name\": \"Anna Pojawis, Founder\", \"description\": \"Anna is the co-founder and CTO of OmniAI, a data infrastructure layer for AI. Prior to OmniAI, Anna contributed to growth initiatives at Hightouch, a YC-backed reverse ETL company. She has a background in investment banking and graduated from the University of Connecticut.\", \"linkedin\": \"https://linkedin.com/in/anna-pojawis-b30662230\"}]",
+            "generated_description": "OmniAI is a forward-thinking company established in 2023, driven by the mission to automate document workflows. They essentially take documents—whether they're traditional text files, slide decks, or even websites—and transform them into structured data, eliminating the tedious task of manual data entry into spreadsheets. Their tagline could be: \"No more copy-pasting; let us handle your data.\"\n\n### What They Do\n\nAt its core, OmniAI connects seamlessly with a variety of data sources, including Snowflake, Postgres, Google Drive, and S3, allowing users to pull unstructured data from multiple formats and locations. Once connected, users define type-safe schemas—think of these as blueprints for how to manage the raw data. OmniAI then runs sophisticated models against this data, ensuring that your analytics warehouse stays updated as the data evolves.\n\nOne of the standout features is its SQL querying capabilities. Users can query transformed data directly from their data warehouse, making it easy to integrate insights into existing BI tools or even live within products.\n\n### Use Cases\n\nOmniAI serves various industries, including finance and e-commerce, by automating tasks such as financial report extraction, earnings call analysis, and expense categorization. This means that complex documents can be rapidly transformed and analyzed, helping companies streamline their operations and make informed decisions faster.\n\n### The Team and Their Backing\n\nLocated in San Francisco and currently boasting a small team of four, OmniAI was recently bootstrapped under the Y Combinator Batch W24. With Gustaf Alstromer as their Group Partner, the company is positioned to leverage Y Combinator’s extensive network and resources to accelerate its growth.\n\n### Advanced Features\n\n- **Multiple Data Sources**: OmniAI works with a variety of data storage solutions to simplify integration.\n- **API Ease of Access**: Developers love the fact that setting up document pipelines requires just a few lines of code.\n- **Robust Privacy Measures**: They emphasize strong data privacy protocols, including options for private cloud hosting and role-based access control.\n- **Regular Updates**: The company stays at the forefront of technology by integrating the latest models for natural language processing, ensuring users have access to cutting-edge tools.\n\n### Conclusion\n\nIf you're tired of the manual paperwork grind and want to scale your document workflows, OmniAI might just be the solution you need. By automating tedious processes and equipping businesses with real-time data, they're not just another tech startup—they’re redefining how we interact with our documents. \n\nFor more information, you can visit them at [getomni.ai](https://getomni.ai).",
+            "group_partner": "Gustaf Alstromer",
+            "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+            "headline": "Automate document workflows",
+            "links": "https://www.ycombinator.com/companies/omniai",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\OmniAI_logo.png",
+            "name": "OmniAI",
+            "social_links": "[\"https://www.linkedin.com/company/getomni-ai/\", \"https://twitter.com/getomni_ai\", \"https://www.crunchbase.com/organization/omniai\", \"https://github.com/getomni-ai\"]",
+            "tags": "industry:documents; industry:artificial-intelligence; industry:finance; industry:automation; location:san-francisco-bay-area",
+            "team_size": 4.0,
+            "website": "https://getomni.ai"
+        }
+    },
+    {
+        "id": "Dataleap_S24",
+        "score": 0.5868656635284424,
+        "metadata": {
+            "activity_status": "Active",
+            "batch": "S24",
+            "description": "Dataleap is a GenAI-powered market research platform for management consulting firms and corporate strategy departments. Think Perplexity for Consultants.\r\n\nWe combine the natural language interface from chatGPT with trusted, verifiable market data from best-in-class data providers. We do the heavy lifting of aggregating all data sources into a single interface.\r\n\nWe optimize the whole market research workflow from finding the right information, managing the internal knowledge base as well as sharing information with team members. \r\n\nWe already work with leading consultancies like BCG and industry giants like Siemens Energy and Uniper.",
+            "founded_date": 2023.0,
+            "founders": "[{\"name\": \"Jan Damm, Founder\", \"description\": \"Co-founder and CEO at Dataleap. Before Dataleap, I worked as an APM in the Google search team as well as a consultant at McKinsey and the Siemens AI Lab.\", \"linkedin\": \"https://linkedin.com/in/jandamm\"}, {\"name\": \"Jan-Hendrik Ruettinger, Founder\", \"description\": \"Cofounder and CTO at Dataleap. Before Dataleap, I worked as an AI researcher at Oxford University and Volkswagen. I also had a brief stint in consulting at BCG.\", \"linkedin\": \"https://linkedin.com/in/janruettinger\"}]",
+            "generated_description": "**Dataleap: The Future of Market Research for Consultants**\n\nFounded in 2023 and based in San Francisco, Dataleap is a fresh face in the market research landscape, specifically tailored for management consulting firms and corporate strategy divisions. Often described as \"Perplexity for Consultants,\" Dataleap leverages generative AI to streamline the research workflow, providing a user experience reminiscent of ChatGPT while ensuring access to data from reputable sources.\n\n### What Makes Dataleap Stand Out?\n\n1. **Natural Language Interface**: Dataleap uniquely blends the conversational abilities of ChatGPT with a vast repository of reliable market data. This means users can not only ask questions in plain language but also receive answers linked directly to the credible sources they come from.\n\n2. **Workflow Optimization**: Dataleap simplifies the research process, whether it's locating the right insights, managing a team’s internal knowledge base, or sharing findings seamlessly. Collaboration is baked into the platform, making it easier for teams to bolster their strategic decisions with sound data.\n\n3. **Enterprise-Grade Security**: With robust data encryption (AES-256) and strict access controls, Dataleap ensures that sensitive information is well protected. As they work towards SOC 2 Type 2 compliance, they’re committed to the highest standards of data security.\n\n4. **Trusted Collaborators**: The company has already formed partnerships with industry giants like BCG, Siemens Energy, and Uniper, standing testament to its reliability and effectiveness in the field.\n\n5. **Small Team, Big Impact**: Currently with just two employees, including Group Partner Harj Taggar from Y Combinator (part of Batch S24), Dataleap embodies the lean startup ethos. They’re focusing on making their AI assistant an indispensable tool for consultants everywhere.\n\n### What’s Next for Dataleap?\n\nWith aspirations to continue building on its solid foundation, Dataleap is looking at expanding its integrations and features to meet the high-paced demands of the consulting world. They are currently working on seamless SharePoint integrations and expanding their data extraction capabilities.\n\n### Conclusion\n\nDataleap is shaking up how consultants conduct market research by marrying AI with practical, verifiable data access. As more professionals recognize the value of high-quality, actionable insights—faster and more efficiently—Dataleap is on track to become a vital player in the generative AI space for enterprise research.\n\nFor more exploration, check out their website at [Dataleap.ai](https://dataleap.ai/) and book a demo to see their AI research assistant in action.",
+            "group_partner": "Harj Taggar",
+            "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+            "headline": "Perplexity for Consultants",
+            "links": "https://www.ycombinator.com/companies/dataleap",
+            "location": "San Francisco",
+            "logo_path": "data/logos\\Dataleap_logo.png",
+            "name": "Dataleap",
+            "social_links": "[\"https://www.linkedin.com/company/dataleap-inc/\", \"https://x.com/dataleapHQ\"]",
+            "tags": "industry:generative-ai; industry:marketplace; industry:market-research; industry:enterprise-software; industry:ai-assistant; location:san-francisco-bay-area",
+            "team_size": 2.0,
+            "website": "https://dataleap.ai/"
+        }
     }
 ]

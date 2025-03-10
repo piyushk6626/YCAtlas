@@ -85,13 +85,13 @@ def query_collection(collection, query_vector, number_of_results):
     results = collection.query(
         query_embeddings=[query_vector],
         n_results=number_of_results,
-        include=["distances"]
+        include=["distances","metadatas"]   
     )
     
     return results
 
 
-def search_companies(query: str) -> list:
+def search_companies(query: str, Batch:int) -> list:
     """
     Find similar items based on a query string using ChromaDB.
 
@@ -164,7 +164,7 @@ def deep_Question(query: str) -> list:
     return research_paper.questions
 
 
-def deep_research(query: str) -> list:
+def deep_research(query: str,Batch:int) -> list:
     """
     Perform deep research by generating questions and searching for each.
     

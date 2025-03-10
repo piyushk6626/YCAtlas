@@ -12,11 +12,19 @@ def load_data():
         st.error(f"Error loading data: {str(e)}")
         return []
 
-# Search companies based on the query and update the search_results.json file
-def search_companies_query(query, companies):
+# Quick search using the search_companies function
+def quick_search(query, companies):
     if not query:
         return companies
+    data = search_companies(query)
+    with open('search_results.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+    return data
 
+# Deep search using the deep_research function
+def deep_search(query, companies):
+    if not query:
+        return companies
     data = deep_research(query)
     with open('search_results.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
@@ -25,16 +33,21 @@ def search_companies_query(query, companies):
 def show_home_page():
     st.title("YC ATLAS")
     
-    # Search bar
+    # Search bar and search mode selection
     search_query = st.text_input("Search companies", "", key="search_companies_input")
-
-    # Load data
+    search_mode = st.radio("Select Search Type", ("Quick Search", "Deep Search"), index=0)
+    
+    # Load initial data
     companies = load_data()
     
-    # Filter companies based on search query
-    if search_query:
-        filtered_companies = search_companies_query(search_query, companies)
-        filtered_companies = load_data()  # reload updated data
+    # If the Search button is pressed, execute the chosen search and clear the search bar
+    if st.button("Search"):
+        if search_mode == "Quick Search":
+            filtered_companies = quick_search(search_query, companies)
+        else:
+            filtered_companies = deep_search(search_query, companies)
+        # Clear the search bar text after searching
+        st.session_state["search_companies_input"] = ""
     else:
         filtered_companies = companies
     
