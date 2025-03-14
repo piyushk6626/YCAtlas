@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/enso",
+    "name": "Enso",
+    "headline": "Self-Service Data Prep and Blend Built for Data Teams.",
+    "batch": "S21",
+    "description": "Enso Analytics is a self-service data prep and analysis platform for data teams. It transforms complex processes into repeatable workflows, saving users 7 hours weekly. With full configuration visibility, seamless environment transitions, and real-time updates, Enso caters to both non-programmers and developers, offering cloud and desktop options.\r\n\nDEMO: https://www.youtube.com/watch?v=OBrYjpgCSEE",
+    "activity_status": "Active",
+    "website": "https://ensoanalytics.com",
+    "founded_date": 2018.0,
+    "team_size": 20.0,
+    "location": "Krak\u00f3w, Poland",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:open-source",
+    "founders": [
+        {
+            "name": "Wojciech Danilo, Founder",
+            "description": "Author of data processing tools used by Pixar and Dreamworks.  Haskeller, experienced in building compilers and GPU computing. Passionate about visual programming, aesthetics, and ergonomics. On a mission to empower people with tools to innovate and advance. Loves dogs.",
+            "linkedin": "http://linkedin.com/in/wojciechdanilo/"
+        },
+        {
+            "name": "Sylwia Brodacka, Founder",
+            "description": "Leader, software developer, physicist. Used to design materials to build \ud83d\ude80  Now creates tools to open up new possibilities for people.\nAddicted to sports, \ud83d\udc15 lover.",
+            "linkedin": "https://www.linkedin.com/in/sylwia-brodacka/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Enso\u2014once known as Enso Analytics\u2014is a promising startup that\u2019s all about making data preparation and analysis a whole lot easier for data teams. It was founded in 2018 and is part of Y Combinator's Batch S21, which is a stamp of approval in the startup world. Based in Krak\u00f3w, Poland, Enso operates with a team of about 20 employees.\n\nThe company has a straightforward mission: to provide a self-service data preparation and blending tool designed specifically for data teams. Their platform simplifies complex processes into repeatable workflows, promising to save users an average of seven hours each week. It\u2019s a big deal because time is usually the most scarce resource for data teams.\n\nEnso enables both non-programmers and developers to engage with data easily. It offers full visibility into configuration, real-time updates, and seamless transitions between environments\u2014all in a user-friendly interface. Users can adopt the platform through cloud or desktop versions across various operating systems including Windows, Mac (Intel and Apple Silicon), and Linux.\n\nIf we dive into what Enso actually does, it provides functionalities to catalog, prepare, analyze, and deploy data workflows efficiently. What stands out is the platform\u2019s emphasis on collaboration, enabling team members to quickly access and share data and documentation. They also offer sophisticated capabilities for both structured and unstructured data, from databases to APIs.\n\nNow, let's talk leadership. With founders who have backgrounds in functional programming, data analytics, and software engineering, the team is led by Wojciech Danilo (CEO), Sylwia Brodacka (COO), and other data veterans who have built reputable careers at firms like Alteryx. \n\nSo, what about the future? Enso is looking to expand its functionalities\u2014think scheduling workflows and exposing them as REST APIs. It\u2019s clear they are determined to shape the future of data collaboration and analytics.\n\nIf you want to delve deeper, you can check out a demo of their platform [here](https://www.youtube.com/watch?v=OBrYjpgCSEE) and visit their [website](https://ensoanalytics.com) to explore more about what they have to offer. Enso is indeed an exciting player in the data management sphere, and it\u2019s worth keeping an eye on as they grow.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d0292ffc8c13228fb578304de4d0fb44ff9be58d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191317Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cac9ad1e759ad608087879aefd67055d79c10f7139287cbae19259a51f6eff60",
+    "social_links": [
+        "https://www.linkedin.com/company/enso-analytics",
+        "https://twitter.com/enso_org",
+        "https://github.com/enso-org"
+    ],
+    "logo_path": "data/logos\\Enso_logo.png"
+}

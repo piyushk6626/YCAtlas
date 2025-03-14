@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/dioptra",
+    "name": "Dioptra",
+    "headline": "Automated contract review with AI",
+    "batch": "W22",
+    "description": "We help founders and in-house counsels streamline their contract negotiations to close deals faster. We do this by building your contract negotiation playbooks and automating them with AI.",
+    "activity_status": "Active",
+    "website": "https://dioptra.ai/",
+    "founded_date": 2021.0,
+    "team_size": null,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:legal; industry:legaltech; location:new-york",
+    "founders": [
+        {
+            "name": "Pierre Arnoux, Founder",
+            "description": "Pierre has 8+ years of hands-on experience both at IBM Watson and smaller startups. He trained and deployed the first pre-trained  IBM Watson service (personality insights). Pierre worked on different types of models (NLP, Computer Vision, Automated Speech Recognition). He taught a master\u2019s degree class on MLOps at Columbia University. Pierre has a MS in Electrical Engineering from Columbia University.",
+            "linkedin": "https://www.linkedin.com/in/pierrehadrienarnoux/"
+        },
+        {
+            "name": "Jacques Arnoux, Founder",
+            "description": "Jacques is a systems and software engineer with 10+ years of experience in web-scale consumer and enterprise software. He\u2019s an ex-Yahoo and was employee number 8 and lead engineer at Netsil, an application monitoring start-up that was acquired by Nutanix. He built Nutanix\u2019s AiOps business and cloud data-pipeline. Jacques has a Masters degree in Computer Science from the University of Pennsylvania.",
+            "linkedin": "https://www.linkedin.com/in/jacquesarnoux/"
+        },
+        {
+            "name": "Farah Gasmi, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/farahgasmi/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Dioptra: Revolutionizing Contract Review with AI**\n\nFounded in 2021 and backed by Y Combinator\u2019s W22 batch, Dioptra is based in New York and aims to transform the way businesses handle contract negotiations. With a mission to automate contract review processes using AI, Dioptra helps founders and in-house counsel close deals faster by streamlining negotiations and providing customizable playbooks.\n\n### What They Do\n\nDioptra leverages AI to facilitate contract review, allowing users to generate accurate redlines directly in Microsoft Word. The platform is designed to derive playbooks from existing agreements, ensuring that reviews are consistent and aligned with organizational guidelines. \n\nA standout feature is their new tool, PromptIQ, designed to offer accurate AI assistance at your fingertips. This tool, combined with Dioptra's ability to integrate seamlessly with document repositories, makes contract management more efficient and less labor-intensive.\n\n### Features That Stand Out\n\n- **Playbooks & Customization**: Whether you have a playbook or need to create one, Dioptra can accommodate both, enhancing your review process.\n- **Word Add-in**: Users can work comfortably within familiar environments, integrating their operations directly into Microsoft Word.\n- **Accuracy Metrics**: Dioptra boasts impressive accuracy rates\u201495% for first-party documents, 92% for third-party papers, and 94% for issue detection.\n\n### Why It Matters\n\nContract review is traditionally seen as a tedious and time-consuming task. Dioptra\u2019s AI-powered solution significantly reduces the time it takes to analyze contracts, turning hours of work into mere minutes. As one user noted, a review that usually took 45 minutes of \u201cpainful intellectual labor\u201d was completed in just 10 minutes with Dioptra. \n\nThis efficiency is underpinned by Dioptra\u2019s commitment to security, being SOC 2 Type II compliant and ensuring strong data protection practices.\n\n### Who\u2019s Using Dioptra?\n\nDioptra counts an array of clients among its supporters, from boutique law firms to big tech companies. Testimonials highlight its effectiveness in producing high-quality redlines and providing valuable insights during the review process.\n\n### Conclusion\n\nIf you're involved in contract negotiations and looking for a quicker, more reliable way to ensure accuracy and compliance, it's worth exploring what Dioptra has to offer. With a robust combination of AI-driven technology and user-focused features, Dioptra stands as a significant player in the legal tech space.\n\nFor more information, check out [Dioptra\u2019s website](https://dioptra.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b8932e616d2f1024d66a38fd45f500f5c0c80cd7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191123Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ea3d4f00bfa508079ab2ccd27e688b5895c17f94c112b86a3dca4e98cdbb0c43",
+    "social_links": [
+        "https://twitter.com/Dioptra_ai"
+    ],
+    "logo_path": "data/logos\\Dioptra_logo.png"
+}

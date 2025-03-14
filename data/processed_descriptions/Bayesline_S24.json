@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/bayesline",
+    "name": "Bayesline",
+    "headline": "Highly customizable and blazingly fast analytics for asset managers.",
+    "batch": "S24",
+    "description": "Bayesline is building a GPU-powered financial analytics suite for institutional investors, like hedge funds. \r\n\nClients use our cloud deployed solution to build custom analytics in seconds, having previously been frustrated with off the shelf solutions that don't generate any alpha. What used to take weeks or months now happens near instantly. \r\n\nSebastian, CFA (ex Bloomberg Quant & AI Research) and Misha, PhD (ex BlackRock Managing Director) met while working at BlackRock in 2016. With a combined 20 years of experience in the space they set out to change the way the industry uses analytics - from one size doesn't fit all to truly tailored to clients' needs.",
+    "activity_status": "Active",
+    "website": "https://bayesline.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:finance; industry:b2b; industry:analytics; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Sebastian Janisch, Founder",
+            "description": "Building blazingly fast financial analytics at Bayesline. \nPreviously quant at Bloomberg and BlackRock building investment models running 4T in assets.",
+            "linkedin": "https://www.linkedin.com/in/sebastianjanisch/"
+        },
+        {
+            "name": "Misha van Beek, Founder",
+            "description": "Misha van Beek is a co-founder at Bayesline. Before Bayesline, Misha was a Managing Director at BlackRock where he led innovation on Aladdin\u2019s portfolio risk models spanning tens of trillions in assets. He also led the research on Aladdin\u2019s economic scenario engine, as well as investment models that run roughly $400 billion in strategic asset allocations across all major asset classes. He holds a PhD in Financial Mathematics from the University of Amsterdam.",
+            "linkedin": "https://www.linkedin.com/in/mishavanbeek/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Bayesline: Redefining Financial Analytics for Asset Managers**\n\nFounded in 2024 as part of Y Combinator Batch S24, Bayesline is on a mission to provide highly customizable and lightning-fast analytics for asset managers. The company emerged from the minds of Sebastian, a CFA with experience at Bloomberg as a Quant and AI Researcher, and Misha, a PhD who previously served as a Managing Director at BlackRock. Their shared vision took shape when they met at BlackRock in 2016, drawing from a collective 20 years of industry expertise.\n\nBayesline develops a GPU-powered financial analytics suite tailored for institutional investors, particularly hedge funds. Traditional off-the-shelf solutions often left clients frustrated, unable to generate the alpha they sought. Bayesline changes the game by enabling clients to build custom analytics in seconds\u2014what used to take weeks or even months now occurs almost instantaneously with their cloud-deployed solution.\n\nLocated in New York, the company operates with a lean team of just two employees. They have established partnerships within the finance community, leveraging their deep industry knowledge to innovate and cater specifically to client needs. With their technology firmly embedded in the fintech space, Bayesline bursts into the market with a strong focus on analytics and artificial intelligence, creating a more bespoke experience for financial institutions.\n\nTo learn more about their offerings, visit their website: [Bayesline](https://bayesline.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cb975aef4ee0ac33cb9fcf875cb7380991edd33c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191018Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=06f22b76e49dd726b9f9379fdd977b16b2f002ab772af7efc5c0a268d238984f",
+    "social_links": [
+        "https://www.linkedin.com/company/bayesline",
+        "https://github.com/orgs/Bayesline"
+    ],
+    "logo_path": "data/logos\\Bayesline_logo.png"
+}

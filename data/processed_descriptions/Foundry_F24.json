@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/foundry",
+    "name": "Foundry",
+    "headline": "RL Gym for Browser Agents",
+    "batch": "F24",
+    "description": "We're building the first end-to-end testing platform for web agents, including a Browser Gym for RL-driven optimization. Our platform helps teams run pre-production evaluations, benchmarking, and reinforcement learning to make web agents more reliable. With synthetic user simulations, automated evaluations, and large-scale benchmarking, we make sure web agents can handle dynamic environments with confidence.",
+    "activity_status": "Active",
+    "website": "https://www.foundryrl.com/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Manil Lakabi, Founder",
+            "description": "ex operator on the Gen AI team at Scale AI and FRL team at Meta",
+            "linkedin": "https://linkedin.com/in/manillakabi"
+        },
+        {
+            "name": "Pranav Raja, Founder",
+            "description": "ex Machine Learning Research Engineer on the Gen AI team as Scale.\n\nBuilding the world model for you agent.",
+            "linkedin": "https://www.linkedin.com/in/pranav-raja-590052182?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Foundry Overview**\n\n**Company Name:** Foundry  \n**Founded:** 2024  \n**Location:** Currently unspecified  \n**Team Size:** 2 employees  \n**Y Combinator Batch:** F24  \n**Website:** [foundryrl.com](https://www.foundryrl.com/)  \n\n### Mission\nFoundry is on a mission to create a \"*RL Gym for Browser Agents*.\" The focus is on building the first comprehensive end-to-end testing platform tailored for web agents, specifically through reinforcement learning (RL) strategies.\n\n### What They Do\nInitially, they\u2019re setting out to enhance reliability in web agents. Foundry\u2019s platform enables teams to conduct pre-production evaluations, benchmarking, and employs reinforcement learning to optimize web agent performance. They achieve this by utilizing synthetic user simulations and automated evaluations, ensuring that web agents can navigate dynamic environments effectively and confidently.\n\n### Current Work\nWhile there are some critical hitches\u2014like unexpected application errors regarding WebGL context creation\u2014these are typical growing pains for a startup venturing into complex tech. It\u2019s evident that Foundry is shaping an innovative approach in a niche area of tech that deserves attention.\n\n### Team Leadership\nThe company is backed by David Lieb, a Group Partner at Y Combinator, highlighting their potential and industry connections.\n\nIn a nutshell, Foundry is carving out a space in the realm of testing platforms for web agents. With their ambitious mission and innovative approach, they\u2019re contributing to making AI-driven solutions not only smarter but also more reliable in real-world applications. Keep an eye on them as they evolve.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/25720b74b615197cc9165f28119ff55e1bb87bfd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191349Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c0816315b8cffd2b9a0cdce6cd7abb76f5192fcf90e7299ac5487fb41ec6c4be",
+    "social_links": [
+        "https://www.linkedin.com/company/thefoundryai"
+    ],
+    "logo_path": "data/logos\\Foundry_logo.png"
+}

@@ -1,0 +1,50 @@
+{
+    "links": "https://www.ycombinator.com/companies/quiknode",
+    "name": "QuickNode",
+    "headline": "Tools & infra to build and scale high-quality blockchain applications.",
+    "batch": "W21",
+    "description": "Web3 developer platform to build, test, and scale blockchain applications. Lightning fast access to 44+ chains like Ethereum, Bitcoin, Solana, Polygon, Optimism, Arbitrum, Avalanche, Near, Stacks, Flow, Tron, zkSync and more. Elastic APIs, advanced ETL, storage (IPFS), powerful tools, analytics, and a 3rd-party marketplace -- all at your command through a simple control panel. Build your next big thing on-chain! Build it with QuickNode.",
+    "activity_status": "Active",
+    "website": "https://www.quicknode.com",
+    "founded_date": 2017.0,
+    "team_size": 107.0,
+    "location": "Miami, FL",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:crypto-web3; industry:api",
+    "founders": [
+        {
+            "name": "Dmitry Shklovsky, Founder",
+            "description": "Co-Founder QuickNode.com",
+            "linkedin": "https://www.linkedin.com/in/dshklovsky/"
+        },
+        {
+            "name": "Auston Bunsen, Founder",
+            "description": "Founder @ AccessGrid.com / Previously, Co-founder @ QuickNode.com",
+            "linkedin": "https://linkedin.com/in/austonbunsen"
+        },
+        {
+            "name": "Manuel Kreutz, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/manuelkreutz/"
+        },
+        {
+            "name": "Alexander Nabutovsky, Founder",
+            "description": null,
+            "linkedin": "http://linkedin.com/in/nabutovsky"
+        }
+    ],
+    "status": true,
+    "generated_description": "### QuickNode Overview\n\n**Founded**: 2017  \n**Location**: Miami, FL  \n**Team Size**: 107 employees  \n**Y Combinator Batch**: W21  \n\n**Website**: [QuickNode](https://www.quicknode.com)\n\n#### Mission\nQuickNode aims to empower developers by providing the necessary tools and infrastructure to build and scale high-quality blockchain applications seamlessly across the ever-growing blockchain landscape.\n\n#### What They Do\nInitially starting as a Web3 developer platform, QuickNode has evolved into a robust service offering **lightning-fast access** to over **44+ blockchain networks**, including Ethereum, Bitcoin, Solana, and more. They provide an array of services, including:\n\n- **Core RPC API**: For blockchain data access.\n- **Data Streams**: For backfilling and streaming data.\n- **Rollups**: Fully managed chains.\n- **Clusters**: Dedicated redundancy solutions.\n- **IPFS Services**: Custom gateways and pinning.\n- **Alerts**: Instant on-chain alerts.\n- **Functions**: Serverless computing.\n\nTheir platform boasts **elastic APIs**, advanced ETL capabilities, and analytics tools, all manageable via a user-friendly control panel.\n\n#### Use Cases\nQuickNode serves a wide array of sectors and use cases, including:\n\n- **Wallets**: Efficient management of blockchain accounts.\n- **DeFi (Decentralized Finance)**: Building decentralized financial applications.\n- **Gaming**: Infrastructure for high-performance web3 games.\n- **Financial Services**: Supporting numerous financial applications.\n\n#### Performance and Reliability \nQuickNode\u2019s architecture is designed with scalability in mind and claims to handle **over 200 billion API requests monthly** with a **99.99% uptime** guarantee. They have established a reputation for faster response times, being **2.5x quicker** than most competitors in processing requests.\n\n#### Security and Compliance\nThe company has achieved prestigious certifications (AICPA SOC 1 Type 2, SOC 2 Type 2, and ISO 27001) assuring clients of top-notch security standards, making it a trusted service provider within the blockchain space.\n\n#### Conclusion\nIn a world that craves innovation and efficiency, QuickNode positions itself as the backbone for blockchain developers. By simplifying complex processes and reducing the overhead associated with building blockchain applications, it opens pathways for creators to focus on refining their core ideas. So if you're a builder in the blockchain space, QuickNode is more than just an option; it\u2019s a fundamental tool to help you leave a mark.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3443d39f61ef627214929f1daaec9177d1756bd6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191702Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a8c5ad397b99f3a02d152b5ffea1ad15a4c123bf457c493901d3f1ea6599fa25",
+    "social_links": [
+        "http://linkedin.com/company/quicknode",
+        "https://twitter.com/quicknode",
+        "https://www.facebook.com/QuikNode/",
+        "https://www.crunchbase.com/organization/quiknode",
+        "https://github.com/quiknode-labs"
+    ],
+    "logo_path": "data/logos\\QuickNode_logo.png"
+}

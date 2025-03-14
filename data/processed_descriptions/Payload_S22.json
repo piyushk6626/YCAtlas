@@ -1,0 +1,45 @@
+{
+    "links": "https://www.ycombinator.com/companies/payload",
+    "name": "Payload",
+    "headline": "Developer-First Headless CMS and Application Framework",
+    "batch": "S22",
+    "description": "Payload is a developer-first headless CMS and application framework built to finally give developers a better choice in the world of CMS. From documentation to design, Payload is crafted from the ground-up to save engineers time and effort while building the backend and admin panel for websites, native apps, ecommerce, SaaS, and any other product that needs to manage content. Payload is changing the CMS status quo\u2014working to give developers the tools they want to build the CMS they need, all in clean and well-structured code.\r\n\nLearn more at https://payloadcms.com.",
+    "activity_status": "Active",
+    "website": "https://payloadcms.com",
+    "founded_date": 2018.0,
+    "team_size": 3.0,
+    "location": "Grand Rapids, MI",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:api",
+    "founders": [
+        {
+            "name": "James Mikrut, Founder",
+            "description": "James Mikrut is the founder and CEO of Payload CMS. He plays a leading role in shaping the future and vision of Payload, and is responsible for product design, marketing initiatives, and user experience design. He has been a full-stack engineer for over a decade, and has also founded the digital design agency TRBL, where he leads a team of user experience designers and full-stack TypeScript developers.",
+            "linkedin": "https://www.linkedin.com/in/james-mikrut-3202985a/"
+        },
+        {
+            "name": "Elliot DeNolf, Founder",
+            "description": "Elliot DeNolf is founder and CTO of Payload CMS. He has worked extensively in design, development, and delivery of large, distributed, back-end services. His specializations include resilient, high-availability web services, containerization technologies, and CI/CD pipelines.",
+            "linkedin": "https://linkedin.com/in/elliotdenolf"
+        },
+        {
+            "name": "Dan Ribbens, Founder",
+            "description": "Dan Ribbens is founder and COO of Payload CMS, the best TypeScript CMS for developers. He has focused on database engineering and developer experience. While at Payload and throughout his career Dan has served as a senior developer, team lead, and architect for dozens of software teams. Dan earned his Masters in Computer Science at GVSU in 2013 and worked as a freelance consultant prior to Payload.",
+            "linkedin": "https://www.linkedin.com/in/danribbens/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Payload: The Developer-First Headless CMS Revolution**\n\nFounded in 2018 and part of Y Combinator's Batch S22, Payload is shaking up the content management game from its base in Grand Rapids, MI. With a nimble team of just three, they\u2019ve set out to redefine what a headless CMS can be\u2014creatively and technically designed to give developers the tools they want without the frustration often associated with these systems.\n\n**The Mission**  \nPayload aims to provide a developer-first headless CMS and application framework that streamlines the content management process. It\u2019s crafted from the ground up to save engineers time while building backend systems and admin panels for anything that needs to manage content\u2014websites, apps, e-commerce, SaaS products, and beyond. \n\n**Why Payload?**  \nSimply put, it\u2019s about flexibility and ownership. Payload is not just another CMS locked behind a convoluted API. Instead, it embraces open-source principles to offer developers and marketing teams the control they need. You can build your own solutions in clean, well-structured code that grows with your team's needs, rather than forcing your team into a rigid platform.\n\n**Key Features and Use Cases**  \nPayload is built for various audiences, from developers who appreciate the code-first approach to marketing teams and enterprise companies looking for powerful tools at their disposition. Some standout features include:\n- **Multi-Tenancy**: Deploy applications across multiple clients effortlessly.\n- **Localization**: Cater to diverse markets with ease.\n- **Visual Editing**: Create and visualize content beautifully without needing extensive coding skills.\n- **Digital Asset Management**: Organize and manage your digital assets effectively.\n\nPayload caters to a vast range of use cases: Headless CMS, Enterprise App Builder, Headless E-Commerce, and Digital Asset Management among others.\n\n**The Community and Resources**  \nWith a focus on community engagement, Payload offers extensive documentation, examples, and a roadmap for users to stay involved in the platform's growth. Developers can find help on platforms such as Discord, while also having access to a rich repository of templates on GitHub.\n\n**Partnered Success**  \nCompanies like Microsoft and Blue Origin are already leveraging Payload to enhance their content management flows. These case studies illustrate how Payload can accelerate development processes and deliver custom solutions rapidly.\n\nAs companies and developers alike navigate the tumultuous landscape of digital content, Payload stands out as a beacon for those tired of the status quo\u2014distinctly developer-first yet user-friendly, ready to build the web of tomorrow. If you're intrigued, you can explore more about them at [PayloadCMS](https://payloadcms.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a9bf6fe34782a3bc2e189891097f78879152e79c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191628Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8487dffca8c1a5ad82f9c443375f5833248c4ba3a3393af0cc7fe89cd1ee78b6",
+    "social_links": [
+        "https://www.linkedin.com/company/payload-cms",
+        "https://twitter.com/payloadcms",
+        "https://www.facebook.com/payloadcms",
+        "https://www.crunchbase.com/organization/payload-cms",
+        "https://github.com/payloadcms"
+    ],
+    "logo_path": "data/logos\\Payload_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/kite",
+    "name": "Kite",
+    "headline": "Apple-style product videos in minutes",
+    "batch": "S23",
+    "description": "Kite helps software companies create Apple-style product videos. We turn a screen recording of your app into a stunning polished, professional video\u2014no expensive agencies or complicated tools required. Video marketing is a massive, $104B industry, but the workflow for creating professional product videos hasn't changed in decades. Kite uses WebGL and AI to dramatically lower the cost of professional-grade video production.",
+    "activity_status": "Active",
+    "website": "https://kite.video",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:video; industry:media; industry:marketing; industry:advertising; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Derek Feehrer, Founder",
+            "description": "Co-founder and CEO at Kite (YC S23)",
+            "linkedin": "https://linkedin.com/in/feehrer"
+        },
+        {
+            "name": "Todd Ashley, Founder",
+            "description": "Co-founder & CTO @ Kite",
+            "linkedin": "https://www.linkedin.com/in/toddashley/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Kite: Simplifying Video Marketing**\n\nKite is a fresh entrant in the video marketing space, launched in 2023 and currently part of Y Combinator's Batch S23. Headquartered in San Francisco, the company boasts a lean team of just two employees. Their mission? To empower software companies to create stunning, Apple-style product videos in mere minutes without the need for pricey agencies or complex tools.\n\nIn an industry worth a staggering $104 billion, the process of making professional product videos has remained stagnant for years. Kite is here to change that. By leveraging advanced technologies like WebGL and AI, they significantly reduce the costs and complexity traditionally associated with video production. Just imagine turning a simple screen recording of your app into a polished, professional video effortlessly.\n\nGuided by Group Partner Tom Blomfield, Kite is positioned uniquely in the market, tagged as a blend of video, media, marketing, advertising, and AI innovation. If you're in the software industry and seeking to spruce up your promotional game with captivating video content, Kite might just be the answer you\u2019ve been looking for.\n\nFor more details, check out their website: [Kite](https://kite.video).",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.linkedin.com/company/kitevideo",
+        "https://twitter.com/kitevideohq"
+    ]
+}

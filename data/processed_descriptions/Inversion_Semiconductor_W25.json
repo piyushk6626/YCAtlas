@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/inversion-semiconductor",
+    "Name": "Inversion Semiconductor",
+    "Headline": "Manufacturing the most powerful chips, 15x faster",
+    "Batch": "W25",
+    "Description": "Inversion Semiconductor is developing the next-generation chip fabrication machine, to create the most powerful chips 15x faster. Our vision is to reshore advanced chip fabrication capabilities in the West.\r\n\nWe're building a lithography machine. Lithography uses light to pattern circuit features on silicon. We're scaling transistors to their physical limits by shrinking particle accelerators 1000x, to create a high power light source. \r\n\nUsing our light source we will double transistor density for a given numerical aperture and 3x throughput.",
+    "Activity_Status": "Active",
+    "Website": "https://www.inversionsemi.com",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/aaron-epstein",
+    "Group_Partner": "Aaron Epstein",
+    "Company_Linkedin": "https://www.linkedin.com/company/inversion-semiconductor/",
+    "Company_Twitter": "",
+    "Tags": "industry:hardware; industry:manufacturing; industry:semiconductors; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/inversion-semiconductor/",
+        "https://x.com/inversionsemi"
+    ],
+    "logo_path": "data\\logos\\Inversion_Semiconductor.png",
+    "Active_Founders": [
+        {
+            "Name": "Rohan Karthik, Founder",
+            "Description": "Co-founder & CEO of Inversion Semiconductor (W25), developing next-gen semiconductor lithography machines. \nMasters in Mechanical Engineering from Imperial College London & Royal Academy of Engineering awardee. \nPreviously automated chip design at Arm and led the Karman Space Programme to build record-breaking high power rockets.",
+            "LinkedIn": "https://www.linkedin.com/in/rohan-karthik-60a0b61b7/"
+        },
+        {
+            "Name": "Daniel Vega, Founder",
+            "Description": "Co-founder & CTO of Inversion Semiconductor (W25), developing next-gen lithography machines. \nMasters in Applied Physics from University College London, with a focus on applications of particle physics. \nPreviously created novel ML models for stability optimization of tabletop particle accelerators at CERN, and developed particle accelerators for cancer treatment at Lumitron Technologies",
+            "LinkedIn": "https://www.linkedin.com/in/daniel-r-vega/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Inversion Semiconductor: Revolutionizing Chip Fabrication**\n\nFounded in 2024 and based in the heart of San Francisco, Inversion Semiconductor is on a bold mission to reshape the semiconductor landscape. Their goal? To manufacture the most powerful chips 15 times faster than current industry standards. Sounds ambitious? It is, and that's what makes it exciting.\n\n**What They\u2019re Doing**\n\nAt the core of Inversion's innovation is a next-generation lithography machine. Lithography, in simple terms, is a technique that uses light to imprint intricate circuit designs onto silicon chips. Inversion is not just tweaking this process; they're fundamentally transforming it by dramatically scaling down particle accelerators \u2014 by an impressive factor of 1000, to be precise. This reduction allows them to create a high-power light source that not only doubles the transistor density at a given numerical aperture but also triples the throughput of existing machines. \n\nThis leap in technology addresses a critical need: as the demand for powerful chips grows, so does the necessity for more efficient fabrication methods. Their platform promises to bring advanced chip manufacturing capabilities back to the West, countering the widespread offshoring that has defined the industry for decades.\n\n**The Team Behind the Vision**\n\nThe small but mighty team comprises two driven innovators: Rohan Karthik, the CEO, and Daniel Vega, the CTO. Rohan has a robust background in system architecture from his time at Arm and experience in robotics and aerospace. Daniel brings his deep expertise from researching beam dynamics at CERN to the table, making them a complementary duo poised to tackle the challenges of semiconductor fabrication.\n\nThey're backed by Y Combinator, which adds a layer of validation to their strategy and potential. Aaron Epstein serves as their Group Partner at YC, providing mentorship and guidance as Inversion navigates the world of tech startups.\n\n**The Bottom Line**\n\nInversion Semiconductor is not just another tech startup. With its innovative approach to semiconductor fabrication, they're set to make a significant impact on the industry. By potentially doubling transistor density and increasing throughput drastically, they could enable the next wave of computing advancements. They\u2019re at the forefront of reshoring critical manufacturing capabilities while being fueled by a vision that embraces both ambition and practicality.\n\nFor more details, check out their website: [Inversion Semiconductor](https://www.inversionsemi.com). \n\nIn summary, Inversion Semiconductor represents a fresh wave of innovation in hardware, manufacturing, and the semiconductor scene, aiming to make a substantial mark in San Francisco and beyond."
+}

@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/denormalized",
+    "name": "Denormalized",
+    "headline": "serverless platform for real-time data",
+    "batch": "S22",
+    "description": "Denormalized is a serverless real-time data platform that allows users to query data quickly while eliminating the need to manage complex infrastructure. It enhances developer productivity by automating schema inference from sample data and simplifying data stream creation allowing engineers to go from idea to production fast. Denormalized supports SQL for data transformations without needing complex stream processing systems like Flink.",
+    "activity_status": "Active",
+    "website": "https://www.denormalized.io/",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Amey Chaugule, Founder",
+            "description": "Spent 10+ years working at the intersection of ML & Data Infra.\n\nWorking on Uber's Marketplace Dynamics 2016-2020 was an honour of a lifetime. I can nerd out about pricing algorithms and marketplace optimizations till kingdom come.",
+            "linkedin": "https://www.linkedin.com/in/ameychaugule/"
+        },
+        {
+            "name": "Matt Green, Founder",
+            "description": "Data things.",
+            "linkedin": "https://www.linkedin.com/in/mgreen9"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Denormalized** is a fresh player in the realm of real-time data processing, birthed from the fertile grounds of Y Combinator Batch S22 in 2022. Nestled in the vibrant tech ecosystem of **San Francisco**, it\u2019s a lean operation with a team of just two. Their mission? To create a **serverless platform** that revolutionizes how developers interact with data.\n\nAt its core, Denormalized enables users to query data swiftly without the hassle of complex infrastructure management. The platform shines by automating schema inference from sample data, which significantly boosts developer productivity. Gone are the days when engineers had to grapple with intricate stream processing systems like Flink; instead, they can focus on transforming data using straightforward SQL commands.\n\nSo, what sets Denormalized apart? A few key points:\n\n1. **Efficiency and Simplicity**: It\u2019s built on Apache DataFusion, allowing for efficient, in-memory vectorized computation. This means users can process millions of events per second without the burden of managing complicated distributed clusters.\n\n2. **Continuous Compute**: With SlateDB, Denormalized offloads state management to cloud object stores, supporting massive data processing on a single node, making it easier to deploy and maintain.\n\n3. **Reliability**: Users can checkpoint jobs to the cloud, ensuring that processing can seamlessly resume from where it left off.\n\n4. **Performance**: The unique architecture allows for phenomenal speed without the headaches of distributed systems. Developers can create locally and confidently run in production.\n\nGetting started is a breeze\u2014just a simple `pip install denormalized` unlocks the potential for powerful data streaming. Available as both a Python SDK and a Rust crate, the platform invites developers to dive in with minimal overhead, enabling them to move from idea to production in record time.\n\nTo explore more about Denormalized, check out their website [here](https://www.denormalized.io/) or read their [Blog](https://www.denormalized.io/blog) and [Docs](https://probably-nothing-labs.github.io/denormalized/denormalized.html) for additional insights.\n\nIn a nutshell, Denormalized is all about making **stream processing** accessible for the average developer, saving time and resources while paving the way for innovative data solutions.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9a00709259c42cafe5ac4f630bc4048c7ed0dd9c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191118Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a2e1342101b96a136ae0b553970ac2f16486d2274101112dde19a312e984b51a",
+    "social_links": [
+        "https://www.linkedin.com/company/probably-nothing-labs"
+    ],
+    "logo_path": "data/logos\\Denormalized_logo.png"
+}

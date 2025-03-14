@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/covie",
+    "name": "Covie",
+    "headline": "Programmatic building blocks for transacting with insurance",
+    "batch": "S21",
+    "description": "Interacting with insurance across a variety of carriers should be undifferentiated heavy lifting - a piece of infrastructure like Stripe, Twilio, or AWS that \"just works\"in the background while your business focuses on what makes it different. We provide programmatic building blocks to make this a reality, putting a carrier-neutral API and tooling on top of insurance, starting with policy access (think Plaid, but for your insurance company) and monitoring.\r\n\nOur technology has a variety of use cases that range from insurance verification and tracking, financial advising, compliance & risk management, and marketing/distribution of insurance products.",
+    "activity_status": "Active",
+    "website": "https://www.covie.com",
+    "founded_date": 2020.0,
+    "team_size": 14.0,
+    "location": "Austin, TX",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:health-tech; industry:insurance; location:austin",
+    "founders": [
+        {
+            "name": "Trent Harvey, Founder",
+            "description": "Motivated and forward thinking, I love to take on challenging problems and find innovative solutions to overcome them. I aim to inspire and lead others and hope that through my work I can move people, businesses and industries forward.\n\nMy background includes a mixture of IT support, software engineering, and product development. I began with open-source software initiatives at a very young age and developed a passion for creating. I would later turn that passion of creating into a career.",
+            "linkedin": "https://www.linkedin.com/in/trentharvey/"
+        },
+        {
+            "name": "William Dearie, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/william-dearie-202403209/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Covie: Simplifying Insurance Transactions**\n\nCovie, a fintech startup based in Austin, Texas, is on a mission to revolutionize the way businesses interact with insurance. Founded in 2020 and part of the Y Combinator Batch S21, Covie builds programmatic tools that make transactions with various insurance carriers effortless\u2014think of it as the Stripe or Twilio of the insurance world.\n\n### What They Do\nCovie provides a carrier-neutral API that wraps complex insurance interactions into simple, programmatic building blocks. Their technology streamlines functions like insurance verification, tracking, compliance, and marketing of insurance products. They are all about integrating insurance data into your existing applications without hassle. Their products currently include:\n\n- **Access**: Get details on policy limits and coverage.\n- **Monitor**: Receive updates when there are changes in policy status or limits.\n\nCovie positions itself as the background infrastructure\u2014allowing companies to focus on what makes them unique while leveraging the heavy lifting that Covie does.\n\n### Who They Serve\nCovie's solutions are intended for a variety of stakeholders, including agents and financial advisors, making it easier to incorporate insurance products into their services. By automating verification and monitoring, businesses can ensure compliance and manage risks more effectively.\n\n### The Team and Culture\nWith a compact and dedicated team of 14 employees, Covie keeps its operations lean and focused. Their Group Partner is Nan, adding another layer of strategic insight.\n\n### Future Prospects\nCurrently, Covie is expanding its offerings with features like **Fabric**, which promises to enhance their existing product suite. They emphasize accessibility and integration, highlighting how easy it is to get started\u2014just a quick sign-up.\n\n### Conclusion\nIn a complex insurance landscape, Covie stands out by simplifying the tools that businesses need to operate smoothly. They are an exciting player in the fintech and health-tech space, continually working to make insurance less of a burden and more of a seamless experience as they evolve.\n\n**For more information, visit [Covie's website](https://www.covie.com)**.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5157bf71c4c4d7753e2d774574f2f804707d41fb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191105Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=34fea5f5f6615030e3cc2223c71c08181864bb8fc202f85e07b2255ef1339539",
+    "social_links": [
+        "https://www.linkedin.com/company/covie-io",
+        "https://twitter.com/usecovie",
+        "https://www.crunchbase.com/organization/covie-systems"
+    ],
+    "logo_path": "data/logos\\Covie_logo.png"
+}

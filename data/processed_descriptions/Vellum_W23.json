@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/vellum",
+    "name": "Vellum",
+    "headline": "The AI Product Development Platform",
+    "batch": "W23",
+    "description": "Prompt Engineering: Super powers for prompt engineers\r\n- Compare prompts, models, and even LLM providers side-by-side\r\n- Curate a library of test cases to evaluate prompts against\r\n- Quantitatively evaluate the output of your prompts using industry-standard ML metrics (Bleu, Meteor, Levenshtein distance, Semantic similarity)\r\n\nDeployments: Confidently iterate on models in production\r\n- Simple API interface that proxies requests to any model provider\r\n- Back-testing & version control\r\n- Observability of all your inputs and outputs; UI & API to submit explicit or implicit user feedback\r\n\nDocuments: Use your proprietary data in LLM applications\r\n- Robust API endpoint to submit documents (\u201ccorpus of text\u201d) for querying against\r\n- Configurable chunking and semantic search strategies\r\n- Ability to query against corpus of text at run time\r\n\nContinuous Improvement: Continuously fine-tune to improve quality and lower cost\r\n- Passively accumulate training data to fine-tune your own proprietary models\r\n- Swap model providers or parameters under the hood \u2013 no code changes required\r\n\nWe\u2019re a team of MIT engineers and McKinsey consultants who\u2019ve been building apps on GPT-3 for 3 years since it first came out. We\u2019ve built similar tools in MLOps for 4 years and have closely experienced the pain we\u2019re solving for our customers today.\r\n\nWe believe that AI is the greatest technological leap since the internet. Our mission is to help companies adopt AI by taking their prototypes to production. If you have an AI use-case in mind, please reach out!",
+    "activity_status": "Active",
+    "website": "https://www.vellum.ai/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Akash Sharma, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/akash-sharma53/"
+        },
+        {
+            "name": "Sidd Seethepalli, Founder",
+            "description": "Vellum (W23)\n\nFounding Eng at Dover (S19)",
+            "linkedin": "https://www.linkedin.com/in/siddseethepalli/"
+        },
+        {
+            "name": "Noa Flaherty, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/noaflaherty/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Vellum: The AI Product Development Platform**  \n\nFounded in 2023, Vellum is a Y Combinator-backed startup, located at the intersection of advanced AI technology and user-friendly development tools. Their mission? To provide a comprehensive platform that elevates AI product development, making it faster and more efficient for companies of all sizes.\n\n### The Core Offerings\n\n1. **Prompt Engineering: Enhancing Creativity and Precision**  \n   Vellum initially focused on prompt engineering, empowering developers to create robust AI interactions. Users can compare prompts, models, and even various LLM (Large Language Model) providers side-by-side. The platform offers tools to curate libraries of test cases to evaluate these prompts against, using industry-standard metrics like BLEU, METEOR, and semantic similarity to ensure output quality.\n\n2. **Seamless Deployments and Observability**  \n   Deploying AI models in a production environment has never been easier. With a straightforward API that connects to any model provider, Vellum facilitates back-testing and version control. It also includes observability features, allowing teams to monitor AI inputs, outputs, and gather user feedback\u2014essentially reworking models in real time without fracturing the user experience.\n\n3. **Document Utilization: Leveraging Proprietary Data**  \n   Vellum enables users to make the most out of their proprietary data with a robust API for document submission, facilitating semantic searching strategies at runtime. This makes querying against large datasets intuitive and efficient.\n\n4. **Continuous Improvement**  \n   One of the standout features of Vellum is its capacity for continuous learning. The platform passively gathers training data to refine proprietary models and even allows users to swap model providers without any code changes, ensuring ongoing quality improvements while keeping costs competitive.\n\n### Who\u2019s Behind Vellum?\n\nThe Vellum team is composed of MIT engineers and seasoned consultants from McKinsey, bringing years of experience in MLOps and firsthand knowledge of the pain points developers face in the AI landscape. Their foundation in GPT-3 development has only strengthened their resolve to make AI technology accessible and manageable.\n\n### Market Position and Engagement\n\nVellum is positioned as a go-to solution for businesses eager to integrate AI into their workflows. The platform is geared toward helping teams quickly validate ideas and focus on what truly matters\u2014building and refining AI-based features. With case studies demonstrating significant enhancements in speed and efficiency for companies like Drata and Woflow, it's clear that Vellum\u2019s offerings are resonating with the market.\n\n### A Call to Innovators\n\nIn a rapidly evolving tech landscape, Vellum sees AI as the next major breakthrough after the internet. They invite innovative companies to connect and explore how Vellum can help transform their AI prototypes into cutting-edge products.\n\nIf you\u2019re looking to streamline AI development and execution, then Vellum might just be the partner you need. Explore more on [Vellum's Website](https://www.vellum.ai) and take the first step towards building more reliable AI applications.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/27163969e7270b81080093c04ad7d3b58049a251.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192043Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b886870676b266aa605876052e249b05dd522d82383f86c103e93c4df656ddbe",
+    "social_links": [
+        "https://www.linkedin.com/company/vellumai/"
+    ],
+    "logo_path": "data/logos\\Vellum_logo.png"
+}

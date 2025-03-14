@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/selectiq",
+    "name": "SelectIQ",
+    "headline": "Empowering every doctor and every patient to participate in research",
+    "batch": "W23",
+    "description": "SelectIQ addresses the primary bottleneck in drug development: recruiting patients into clinical trials.\r\n\nWe analyze electronic health records to help doctors find clinical trials for their patients, and to help trial sites find patients for their studies. 72% of doctors want to inform their patients of clinical trials, but only 5% do. We're on a mission to close that gap, ultimately bringing safer, more effective drugs to the patients who need them.",
+    "activity_status": "Active",
+    "website": "https://www.selectiq.com",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:health-tech; industry:b2b; industry:healthcare; industry:enterprise-software; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Ethan Bond, Founder",
+            "description": "Ethan is the co-founder and CEO of SelectIQ. Prior to SelectIQ, Ethan was a product strategist at Palantir where he led product development into multiple new verticals, most recently helping to build Palantir's nascent life sciences division. Ethan is a product designer and software engineer by training, having *almost* graduated from Rensselaer Polytechnic Institute.",
+            "linkedin": "https://www.linkedin.com/in/ethanbond/"
+        },
+        {
+            "name": "Jason Marmon, Founder",
+            "description": "Jason is the co-founder and CTO of SelectIQ.\n\nPrior to SelectIQ, Jason worked at Palantir on life sciences software and led Palantir's Data Governance product team. Previously, he co-founded Skylight, an NYC real estate app acquired by Common Living. He's also a 2015 Thiel Fellow.",
+            "linkedin": "https://www.linkedin.com/in/jtmarmon/"
+        }
+    ],
+    "status": true,
+    "generated_description": "SelectIQ is a burgeoning health-tech company based in New York, founded in 2022 as part of Y Combinator Batch W23. Their mission is clear and impactful: they aim to empower both doctors and patients to actively participate in clinical research, ultimately improving drug development processes and patient care.\n\nThe company tackles a significant bottleneck in the pharmaceutical world\u2014patient recruitment for clinical trials. Surprisingly, while 72% of doctors express a desire to inform their patients about clinical trials, only a mere 5% actually do. SelectIQ seeks to close this gap by harnessing electronic health records (EHRs) to connect physicians with relevant clinical trials for their patients, making it easier for trial sites to recruit participants.\n\nSelectIQ has two main offerings currently in the works: \n\n1. **Patient Identification Service**: This tool helps healthcare providers efficiently identify eligible patients using their EHR data, aiming to reduce screening failures by automatically pre-screening based on patient records.\n\n2. **Rapid Feasibility Tool**: Set to showcase unique patient populations, this tool will assist trial sites in assessing their capacity to conduct research effectively.\n\nWith a nimble team of just two employees, SelectIQ is led by the insights of strategic advisor Dan Sfera, who brings substantial knowledge about the clinical trial landscape. Besides solving practical challenges in patient recruitment, they're also building a provider activation platform that reduces the burdens on trial sites and the providers working with them.\n\nIf you're a healthcare provider looking to streamline clinical trial participation, SelectIQ offers an inviting pathway to explore. You can find out more and get involved on their website [here](https://www.selectiq.com). \n\nIn summary, SelectIQ is poised to transform clinical trial recruitment through smart use of technology, and in doing so, they\u2019re working to bring safer, more effective drugs to the patients who need them. It\u2019s a mission worth watching.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d9e1ff607260b920545155b79439ede643b7f9b4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191915Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8fcefc192efdeabea0967adeed011f6344bfe3e2b76a93501a0355d70aed224f",
+    "social_links": [
+        "https://www.linkedin.com/company/selectiq-ai"
+    ],
+    "logo_path": "data/logos\\SelectIQ_logo.png"
+}

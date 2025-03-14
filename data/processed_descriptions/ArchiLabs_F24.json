@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/archilabs",
+    "name": "ArchiLabs",
+    "headline": "AI Copilot for Architects",
+    "batch": "F24",
+    "description": "ArchiLabs is building an AI co-pilot for architecture. Instead of spending hours on tedious tasks, architects can 10x their design speed with simple AI prompts.\r\n\nBrian and William met at Carnegie Mellon as engineers and separately had their own frustrating new construction experiences. Brian ran a tech-enabled homebuilding factory and found the design iteration process to be a massive bottleneck, while William built ground up homes in Texas and had a similar frustration. However, at the time, there wasn't an easy solution to the many pain points in the design process.\r\n\nAs AI reasoning models improve, Brian and William realized that there was a massive opportunity to fix the long-tail of frustrations and build a new construction design experience by fine tuning existing models, becoming bigger than Autodesk, the $60B company in the space.",
+    "activity_status": "Active",
+    "website": "https://archilabs.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:construction; industry:b2b; industry:proptech; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Brian Bakerman, Founder",
+            "description": "Brian is the co-founder & CEO of ArchiLabs. Previously Brian built and sold an AI transcription startup that reached 1 million transcriptions/mo and ran a YC-backed tech-enabled homebuilding factory that scaled to a $10.6M contracted revenue run rate. Brian graduated with a degree in Electrical & Computer Engineering from Carnegie Mellon.",
+            "linkedin": "https://linkedin.com/in/brianbakerman"
+        },
+        {
+            "name": "William Meng, Founder",
+            "description": "William is the co-founder & CTO of ArchiLabs. Previously, William ran an independent homebuilding business in Texas and built his own CAD tool from scratch. Before that, William studied Computer Science and Robotics at Carnegie Mellon and worked as a software engineer at Facebook.",
+            "linkedin": "https://www.linkedin.com/in/william-meng/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**ArchiLabs: Your AI Copilot for Architecture**\n\nFounded in 2024 and nestled in the vibrant tech landscape of San Francisco, ArchiLabs is on a mission to revolutionize architectural design. The brainchild of Brian and William, two engineers who met at Carnegie Mellon, ArchiLabs aims to streamline the architectural workflow with an AI co-pilot, enabling architects to increase their design speed by ten times through intuitive AI prompts.\n\nThe inception of ArchiLabs arose from a shared frustration\u2014the lengthy design iteration process which both founders faced in their respective careers. Brian, having run a tech-enabled homebuilding factory, and William, who built homes in Texas, found that the existing design processes were filled with bottlenecks and inefficiencies. They believed that as AI models became more robust, there was a significant opportunity to innovate within the construction design landscape, even looking to surpass industry giants like Autodesk, valued at $60 billion.\n\nWith a two-person team, ArchiLabs is part of Y Combinator's Batch F24 and focuses on creating fast, efficient architectural workflows. Their technology leverages artificial intelligence to address the long-standing pain points in design processes, allowing architects to focus more on creativity rather than tedious tasks. Nicolas Dessaigne serves as their Group Partner, guiding their journey in the highly competitive proptech space.\n\nCurrently tagged as a B2B SaaS solution that caters to the construction industry, ArchiLabs stands at the intersection of technology and design, committed to enhancing productivity through cutting-edge AI. For those eager to experience this new way of working with architectural plans, ArchiLabs invites you to explore their offerings and potentially request a demo through their website: [archilabs.ai](https://archilabs.ai).\n\nIn short, ArchiLabs is not just building an AI tool; they're constructing a new paradigm in architecture, where design can flow as freely as thought.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ade0041f89ac1f3b8001f2d9d333bb95da90742f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191002Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=45eafe085da49ffb7f0d972fa6ddb9d8a395e7c2ee179e0476c6d62a8c470927",
+    "social_links": [
+        "https://www.linkedin.com/company/archilabs-ai/"
+    ],
+    "logo_path": "data/logos\\ArchiLabs_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/axal",
+    "name": "Axal",
+    "headline": "Untangle Your Legacy Monolith",
+    "batch": "W25",
+    "description": "Axal decreases the risk of modernization by automating the identification of architectural technical debt in monolithic codebases and prioritizing refactoring opportunities based on business goals.\r\n\nWe provide observability into your codebase, finding anti-patterns that stop your team from reaching their goals. By identifying domains (logical areas of functionality) within the monolith, Axal quantifies areas of technical debt into KPIs, helping executives pinpoint where modernization efforts will be most effective so your team can focus on the important work first.",
+    "activity_status": "Active",
+    "website": "https://www.axal.ai/",
+    "founded_date": 2025.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:enterprise-software; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Samai Patel, Founder",
+            "description": "Studied CS and Cybersecurity. At the age of 20 I started the largest student contracting group on the East Coast (App Dev Club) that has  several Fortune 500 clients and makes life saving software for hospitals. My technical knowledge is great for development, but better for selling.",
+            "linkedin": "https://www.linkedin.com/in/samaipatel"
+        },
+        {
+            "name": "Nand Vinchhi, Founder",
+            "description": "Co-founder and CTO of Axal - https://axal.ai. Previously - 30x Hackathon Winner, Engineer at Airchat, Research at MIT CSAIL.",
+            "linkedin": "https://www.linkedin.com/in/nandvinchhi"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Axal**\n\n**Website:** [axal.ai](https://www.axal.ai)  \n**Founded:** 2025  \n**Location:** San Francisco, CA  \n**Team Size:** 2  \n**Y Combinator Batch:** W25  \n\n### Mission\nAxal\u2019s mission is straightforward yet vital: **\"Untangle Your Legacy Monolith.\"** In a world where speed and innovation are essential, Axal helps organizations cut through the complexity of outdated monolithic codebases.\n\n### What They Do\nAxal aims to modernize software architecture by automating the identification of technical debt in monolithic structures. Their platform offers key insights into code behavior, revealing anti-patterns that hinder teams from achieving their goals. By breaking down these codebases into manageable domains\u2014essentially logical areas of functionality\u2014Axal quantifies technical debt using KPIs. This enables executives to focus their modernization efforts where they matter most, ensuring that teams tackle the most critical work first.\n\n### How It Works\nThe **Axal Observability Platform** simplifies codebase modernization through a three-step process:\n1. **Observe:** The platform analyzes runtime behavior and static dependencies to map out business domain boundaries, pinpointing where improvements can make the most impact.\n2. **Diagnose:** It identifies specific technical barriers, such as domain exclusivity violations or circular dependencies, creating a clear roadmap for architectural updates.\n3. **Fix:** Leveraging autonomous AI, Axal implements required code changes while ensuring that all tests pass, streamlining the transition process.\n\n### Key Features\n- **Auto-mapping:** Documenting every class and interaction for full visibility.\n- **Strategic Planning:** Associating classes and methods with business domains to expedite decision-making.\n- **Continuous Adaptation:** Adjusting to code changes seamlessly, removing the stress of constant re-architecting.\n- **Supports Various Technologies:** Works with popular languages including Java, C#, JavaScript, Go, and Python.\n\n### Core Principles\nAxal advocates for using established design patterns like **Domain-Driven Design** and the **Strangler Fig Pattern**. These methodologies facilitate an incremental and less risky transition from monolithic architectures to modular systems, enhancing both team autonomy and application scalability.\n\n### Who Benefits?\n- **Executives** gain insights into resource allocation and effort expectations for architectural transitions.\n- **Architects** receive automated mapping and a structured roadmap, making planning meetings a thing of the past.\n- **Engineers** can focus on delivering features faster, freeing them from tedious architectural refactoring.\n\n### Conclusion\nIn the fast-paced tech environment, organizations can\u2019t afford to let legacy systems hold them back. Axal steps up to the plate by demystifying the challenges of modernization, turning what once was a daunting task into a systematic process. With their clear focus on reducing technical debt, they empower organizations to innovate more effectively.\n\nFor more on how Axal facilitates architectural clean-up, visit their [website](https://www.axal.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fca784615976adaf12559624d8748e73dba8402c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191015Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b8d817bee498a3c3f732f812c82a2679ce1b0acfe34e286845eadf3b9363b2c2",
+    "social_links": [
+        "https://www.linkedin.com/company/axalai/?viewAsMember=true"
+    ],
+    "logo_path": "data/logos\\Axal_logo.png"
+}

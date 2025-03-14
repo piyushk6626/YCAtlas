@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/sorcerer",
+    "name": "Sorcerer",
+    "headline": "We build weather balloons that collect 1000x more data",
+    "batch": "S24",
+    "description": "Sorcerer builds weather balloons that collect 1000x more data than traditional systems. We have $5.5+ of signed LOIs with the US National Weather Service, the Department of Defense, and the government of El Salvador.",
+    "activity_status": "Active",
+    "website": "https://sorcerer.earth",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:hard-tech; industry:hardware; industry:climate; industry:aerospace; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Austin Tindle, Founder/CEO",
+            "description": "CEO at Sorcerer. Engineering and product leader of  decacorn hardware teams. Previously Head of Product at SumUp, led acquisition of Fivestars (YC W11).",
+            "linkedin": "https://www.linkedin.com/in/austintindle"
+        },
+        {
+            "name": "Maxmillion McLaughlin, Founder/CTO",
+            "description": "CTO of Sorcerer. Previously founding engineer at aerospace startup Urban Sky where I developed the world\u2019s first stratospheric ballooning systems for ultra high-resolution imaging and real-time wildfire tracking. All things industrial and aerospace hardware for the last decade.",
+            "linkedin": "https://www.linkedin.com/in/maxmclau/"
+        },
+        {
+            "name": "Alessandro Vecchi, Founder/CPO",
+            "description": "CPO of Sorcerer. I was employee #3 at Urban Sky, where I built their mission control software (\"the best in the world\" - US Secretary of Defense) and prediction engine from the ground up. Over 5 years of experience working with/dealing with forecast and weather data. Building software products since I was in high school.",
+            "linkedin": "https://www.linkedin.com/in/avecchi/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Sorcerer: Transforming Weather Data Collection\n\n**Founding Year:** 2024  \n**Location:** San Francisco, CA  \n**Y Combinator Batch:** S24  \n**Team Size:** 3 employees  \n**Group Partner:** Diana Hu  \n\n**Website:** [sorcerer.earth](https://sorcerer.earth)\n\n---\n\n#### Mission  \nSorcerer aims to revolutionize weather data collection by building weather balloons that gather **1000 times more data** than traditional systems. This ambitious mission responds to a global need for improved weather forecasting, particularly in regions that currently lack adequate meteorological infrastructure.\n\n#### The Problem  \nAround **80% of the world** faces inadequate or no weather forecasting, primarily in vast oceanic regions and the global south. Sorcerer\u2019s innovative approach offers a solution to this by utilizing a network of balloons that can collect valuable data from any point on the planet.\n\n#### Current Engagements  \nSorcerer has already secured over **$5.5 million** in signed Letters of Intent (LOIs) with notable organizations, including the **US National Weather Service, the Department of Defense**, and the **Government of El Salvador**. \n\n#### Technology and Impact  \nSorcerer's technology isn't just about collecting data. It\u2019s about using that data to train advanced AI models, leading to weather forecasts that are **up to 50% more accurate** than today\u2019s leading models. The integration of artificial intelligence with their extensive data collection enables regional forecasts with significantly better spatial and temporal resolution, directly addressing the gaps in current weather prediction methods.\n\n#### Target Market  \nWith a focus on sectors tagged as **artificial-intelligence, hard-tech, hardware, climate,** and **aerospace**, Sorcerer positions itself at the intersection of technology and environmental science.\n\n#### Get Involved  \nInterested parties can request a demo through their website, ensuring a timely response to inquiries. Sorcerer\u2019s direct line is **+1 (707) 400-0651**, and they can be reached via email at **team@sorcerer.earth**.\n\n---\n\nIn a climate where data is king, Sorcerer is a clear contender in the race for better forecasting capabilities, harnessing the power of balloons and AI to create a more informed and prepared world.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3e916f60e0a98abd8dd5001ccd7d3e96a5e97841.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191937Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a6eeb1e7302229c9fa6ce07b18ee7581e48e72f8caf72a1a6ed9e49553dc3bc3",
+    "social_links": [
+        "https://www.linkedin.com/company/sorcerercorp",
+        "https://www.crunchbase.com/organization/sorcerer",
+        "https://github.com/sorcerer-corp"
+    ],
+    "logo_path": "data/logos\\Sorcerer_logo.png"
+}

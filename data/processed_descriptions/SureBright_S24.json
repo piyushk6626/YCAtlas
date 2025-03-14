@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/surebright",
+    "name": "SureBright",
+    "headline": "Apple Care-like warranty program for every retailer",
+    "batch": "S24",
+    "description": "SureBright lets e-commerce merchants embed \"Apple Care\u201d like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.\r\n\nSanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.\r\n\nUntil now, finding the right policy for any product and pricing it at the right price wasn\u2019t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
+    "activity_status": "Active",
+    "website": "https://surebright.com/",
+    "founded_date": 2022.0,
+    "team_size": 11.0,
+    "location": "New York",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:e-commerce; industry:insurance; industry:retail; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Manish Chauhan, Founder",
+            "description": "Manish is the CEO and co-founder of SureBright. He holds an MBA from INSEAD (France) and an MMath (CS) from the University of Waterloo, where he researched and published on low-latency real-time systems.\n\nHe has previously worked at Amazon and startups like Applyboard, where he built products handling over 180 billion requests per day, contributing to $100M+ in ARR.",
+            "linkedin": "https://www.linkedin.com/in/manishchauhan01/"
+        },
+        {
+            "name": "Sanket Munjal, Co-Founder",
+            "description": "CTO & Co-Founder @ SureBright. Led Engineering at an InsurTech, PolicyBazaar.com that went public (8Bn USD). 2x Founder. Ex-Philips, Ex-Samsung",
+            "linkedin": "https://www.linkedin.com/in/sanketmunjal/"
+        }
+    ],
+    "status": true,
+    "generated_description": "SureBright is a startup founded in 2022, currently operating out of New York and part of Y Combinator\u2019s Batch S24. The company's mission? To revolutionize the warranty experience for retailers with a sleek, Apple Care-like program that is easy to implement. They allow e-commerce merchants to embed warranty services directly into their checkout process\u2014think of it as offering peace of mind with just a click.\n\nThe technology behind SureBright is impressive. They've utilized AI, particularly large language models (LLMs), to automate and streamline the often cumbersome task of finding and pricing warranties at scale. This innovation has enabled them to tap into a massive opportunity, claiming a market potential exceeding $50 billion. Currently, over 5 million consumers interact with SureBright's warranty offerings each month.\n\nThe team leading this charge has a strong pedigree. Sanket, who spearheaded engineering at PolicyBazar\u2014a major insurance tech company valued at over $8 billion\u2014brings a wealth of experience. Meanwhile, Manish has an impressive background from Amazon, where he developed products generating $100 million in annual revenue and processed over 180 billion requests daily.\n\nSureBright's platform is designed to be merchant-friendly, requiring no coding to integrate and promising a seamless upsell for customers. Retailers can see an increase in their Average Order Value by as much as 14% alongside shared revenue on each warranty policy sold. With customization options available, the service can be tailored to match each merchant's branding seamlessly, helping businesses build customer loyalty and trust.\n\nWhat\u2019s more, SureBright covers a broad array of product categories. From cell phones to wellness equipment, its warranty options cater to diverse markets. And with a dedicated support team, SureBright ensures that both merchants and customers feel cared for throughout their experience.\n\nIn summary, SureBright is tackling the warranty space with a blend of cutting-edge technology and user-centric design, aiming not just to provide warranties, but to create a seamless experience that enhances profitability and customer satisfaction along the way. Want to learn more? Check them out at [surebright.com](https://surebright.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9d06e39c8db823dfbba5747cf53c96f7546de9dc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191958Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=99243982f7f8051735b65cf9abc0038020705f176c2b6ff5fffd35baa70b9ce9",
+    "social_links": [
+        "https://www.linkedin.com/company/surebright/"
+    ],
+    "logo_path": "data/logos\\SureBright_logo.png"
+}

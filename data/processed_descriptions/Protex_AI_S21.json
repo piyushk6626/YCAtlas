@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/protex-ai",
+    "name": "Protex AI",
+    "headline": "Computer vision that makes the industrial workplace, safer",
+    "batch": "S21",
+    "description": "Tl;dr: We\u2019re building software that monitors existing cameras in the port, logistics, and manufacturing industries to ensure compliance and identify safety issues.\r\n\nAt Protex AI, we\u2019re on a mission to protect the industrial workforce! We\u2019re building a proactive computer vision tool for workplace safety - empowering industrial Health and Safety (HS) teams to identify risk and danger before it becomes a problem.\r\n\n\ud83e\udd15 The Problem:\r\nKeeping people safe at work is extremely hard. In the U.S. alone, there were over 5,000 deaths in the workplace in 2019, mainly in the heavy industry space.\r\n\nSerious workplace injuries cost U.S. businesses circa $62 Billion annually. Until now, safety has been reactive, someone has to get injured, and in some cases fatally before something is done about it.\r\n\n\u2705 Problem Solved:\r\nProtex AI\u2019s platform uses privacy-preserving camera monitoring software to provide companies with an always-on guardian angel, protecting their workforce.\r\n\nThe platform plugs into existing CCTV infrastructure and enables HS teams to flexibly translate their document-based safety rules into the real world.\r\n\nProtex AI takes these rules and autonomously audits the customer\u2019s facility to identify areas of high risk and non-compliance.\r\n\nHS teams can access this data via a reporting engine and use it in weekly safety meetings, external safety audits, insurance discussions, and legal claims.\r\n\nThe tool integrates seamlessly with existing safety workflows to augment data produced by any manual incident logging system in place.",
+    "activity_status": "Active",
+    "website": "https://www.protex.ai",
+    "founded_date": 2020.0,
+    "team_size": 5.0,
+    "location": "Limerick, Ireland",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:industrial-workplace-safety; industry:machine-learning; industry:b2b",
+    "founders": [
+        {
+            "name": "Dan Hobbs, Founder",
+            "description": "Hey there! My name is Dan, it's nice to meet you! I am the co founder and CEO of Protex AI. We provide proactive AI vision for workplace safety. I love to network and meet new people so get in touch for a virtual coffee to talk about all things start up!",
+            "linkedin": "https://www.linkedin.com/in/dan-hobbs-258998ab/"
+        },
+        {
+            "name": "Ciar\u00e1n O'Mara, Founder",
+            "description": "Connecting the dots. Will look back later. \u270c",
+            "linkedin": "https://www.linkedin.com/in/ciaranomara/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Protex AI is a forward-thinking startup based in Limerick, Ireland, on a mission to enhance workplace safety in industrial environments through cutting-edge computer vision technology. Founded in 2020 and a member of Y Combinator's S21 batch, Protex AI focuses on transforming how health and safety (EHS) teams identify and manage risks.\n\n### The Challenge\n\nWorkplace safety is a daunting task, especially in high-risk industries like manufacturing and logistics. In the U.S., over 5,000 workplace fatalities occurred in 2019, and injuries cost businesses a staggering $62 billion annually. Most safety measures have been reactive\u2014waiting for incidents to happen before acting.\n\n### The Solution\n\nProtex AI is flipping the script with their innovative platform that acts as a digital guardian angel, using existing CCTV infrastructure to monitor safety compliance in real-time. Their software helps EHS teams translate documentation into actionable insights, automatically auditing facilities for safety risks and compliance issues. This data can be used during safety meetings, audits, and discussions about insurance claims.\n\n### Key Features\n\n1. **Seamless Integration:** The platform easily integrates with existing camera systems, allowing companies to utilize their current infrastructure without extensive investment.\n   \n2. **Customizable Safety Rules:** EHS teams can tailor safety rules and reporting dashboards to fit unique workplace needs.\n\n3. **Real-Time Insights:** The system provides actionable intelligence on unsafe behaviors and incidents, enabling proactive adjustments to safety protocols.\n\n4. **Empowered Decision-Making:** Through intuitive reporting tools and a Gen-AI feature called Copilot, teams can swiftly identify issues and take corrective actions.\n\n### Impact and Results\n\nProtex AI has demonstrated impressive results with their clients. For example, Marks and Spencer saw an 80% reduction in overall incidents within the first 10 weeks of deploying the system, while a global food distributor reduced area control risks by 76%.\n\n### The Future\n\nAs Protex AI continues to expand and refine their offering\u2014having recently secured $36M in Series B funding\u2014they are poised to make substantial waves in the industrial workplace safety sector. Their vision of a safer workplace aligns seamlessly with the increasing need for proactive safety measures in industries where hazards are prevalent.\n\nYou can learn more about Protex AI and their solutions [here](https://www.protex.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a82f5507c00a744e59f557ba3576d37a4ff758bf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191656Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6ca9fc24025c6b14d5b570e15ce128b6c7864862c686cede718c10cd6dfb578f",
+    "social_links": [
+        "https://www.linkedin.com/company/protex-ai/about/"
+    ],
+    "logo_path": "data/logos\\Protex_AI_logo.png"
+}

@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/buildbuddy",
+    "name": "BuildBuddy",
+    "headline": "BuildBuddy provides enterprise features for Bazel \u00e2\u0080\u0094 the open source\u00e2\u0080\u00a6",
+    "batch": "W20",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://buildbuddy.io",
+    "founded_date": 2019.0,
+    "team_size": 15.0,
+    "location": "Palo Alto",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Siggi Simonarson, Founder",
+            "description": "BuildBuddy co-founder & CEO, ex-Googler",
+            "linkedin": "https://www.linkedin.com/in/siggisim"
+        },
+        {
+            "name": "Tyler Williams, Founder",
+            "description": "BuildBuddy co-founder & CTO, ex-Googler, ex-Echo Nest",
+            "linkedin": "https://www.linkedin.com/in/tyler-williams-80480519b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "BuildBuddy is a young, innovative company founded in 2019 that focuses on enhancing the popular open-source build system, Bazel, with enterprise-level features. Situated in Palo Alto and emerging from Y Combinator's W20 batch, they aim to make software building significantly faster \u2014 often claiming up to 10 times quicker \u2014 and delight developers in the process.\n\nThe company's core offerings revolve around improving build processes through tools such as a Build & Test UI, Remote Execution, Remote Cache, and the BuildBuddy Command Line Interface (CLI). These features streamline not only the coding but also the testing phases of software development, providing deep visibility into build logs and collaboration tools that keep teams connected. This is especially vital for organizations that want to reduce build time significantly. In fact, BuildBuddy reports that its Cloud remote caching has saved users a staggering 9.8 billion compute minutes, translating to 18,646 years of time not spent waiting for builds \u2014 that\u2019s a powerful selling point.\n\nAt its core, BuildBuddy is designed as an open-core product, offering robust features for individual developers for free, while larger enterprises can benefit from the more comprehensive tools and 24/7 support. This dual approach not only serves to build community trust but also aligns with the growing trend of making advanced technology accessible to smaller teams and open-source projects.\n\nCurrently, BuildBuddy operates with a compact but effective team of 15, led by Group Partner Dalton Caldwell, which allows for agile responses to customer needs and a nurturing of the company\u2019s culture. They\u2019ve attracted impressive clientele, including renowned engineering teams from companies like Spotify, Cisco, and Asana, solidifying their reputation in the developer tools space.\n\nIf you want to give BuildBuddy a whirl, they provide options to get started for free and a demo is just a request away. Their site (https://buildbuddy.io) offers a treasure trove of resources, documentation, and community engagement platforms to get developers onboard and building better today.\n\nIn summary, if you\u2019re looking to supercharge your development process with a tool aimed at removing the headaches associated with build systems, BuildBuddy might just be your new best friend.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/953fcc3d3f7b11c04e7a5c628b796328244b4267.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191033Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=efce702476abd3899d71e5c7b730dcf300a94444c3d3057fdfad4a4068f8515b",
+    "social_links": [
+        "https://www.linkedin.com/company/buildbuddy",
+        "https://twitter.com/buildbuddy_io",
+        "https://www.facebook.com/buildbuddy.io/",
+        "https://www.crunchbase.com/organization/buildbuddy",
+        "https://github.com/buildbuddy-io"
+    ],
+    "logo_path": "data/logos\\BuildBuddy_logo.png"
+}

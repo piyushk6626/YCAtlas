@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/quivr",
+    "name": "Quivr",
+    "headline": "Open Source Chat-Powered Second Brain",
+    "batch": "W24",
+    "description": "Quivr is an AI open-source platform where enterprises connect to their tools, docs, APIs and databases to chat with them. \r\n\nThe app can be deployed to the cloud, or self-hosted on existing infrastructure to answer any data privacy concerns.\r\n\nQuivr has built an open source community of 100+ contributors and has reached 31k+ Github stars!\r\n\nEffortlessly retrieve any available information and let Quivr generate for you new usable content.",
+    "activity_status": "Active",
+    "website": "https://www.quivr.app/",
+    "founded_date": 2024.0,
+    "team_size": 6.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Stan Girard, Founder",
+            "description": "Co-founder @Quivr - The Open Source Chat-Powered Second Brain. Graduated from EPITA Computer Science school in France. Worked in Blockchain before it was called Web3. Moved to DevOps (AWS, Kubernetes, Terraform) before becoming Head of GenAI in a web dev agency with 100m$ of turnover and leading the GenAI Thought Leadership of the group.",
+            "linkedin": "https://linkedin.com/in/stanislas-girard"
+        },
+        {
+            "name": "Antoine Dewez, Founder",
+            "description": "Co-founder @Quivr - The Open Source Chat-Powered Second Brain. Graduated from La Sorbonne with a focus on history and political science before transitioning into engineering.\nI then worked as a software engineer at IBM, gaining experience with various technologies.\nAt Stockly (raised 17M), I was the first front-end developer at a company that saw a 15-fold increase in GMV over two years.",
+            "linkedin": "https://linkedin.com/in/antoine-dewez-367774157"
+        },
+        {
+            "name": "Brian Laleye, Founder",
+            "description": "Co-founder @Quivr - The Open Source Chat-Powered Second Brain.\nGraduated from ESCP Business School and dropped out from Centrale Paris to start my first exited company. \nFormer Head of Low Code and Head of GenAI in a web dev agency with 100m$ of turnover and leading Enterprises sales.",
+            "linkedin": "https://linkedin.com/in/brian-laleye-31433386"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Quivr**\n\n**Mission:** Quivr aims to be an open-source, chat-powered second brain for its users.\n\n**Founded:** 2024  \n**Y Combinator Batch:** W24  \n**Location:** Not specified  \n**Team Size:** 6 employees  \n\nQuivr started as an AI-driven platform that enables enterprises to interact with their own tools, documents, APIs, and databases through chat. This chat-based interface simplifies the retrieval of information and allows the generation of new, useful content. Notably, users can deploy Quivr in the cloud or self-host it, addressing any concerns related to data privacy.\n\nThe company has built a vibrant open-source community with over 100 contributors, achieving an impressive 31,000+ stars on GitHub. This enthusiasm is a testament to its potential and the strong interest around making knowledge retrieval both seamless and intelligent.\n\n**Key Features:**\n- **Data Privacy:** Users can choose to self-host the application for added security.\n- **Integration Flexibility:** Quivr connects with various tools and systems, allowing users to tailor it to their specific workflows.\n- **Continuous Learning:** Over time, Quivr learns from user interactions, enhancing its ability to serve as a personal AI assistant.\n\n**Community Engagement:** Quivr is not just a platform but a growing community. Its Discord channel provides a space for users to connect and share experiences, while its documentation and GitHub repository offer support for developers looking to contribute or utilize Quivr.\n\n**Current Focus:** Quivr is actively involved in refining its offerings, ensuring that it remains at the forefront of AI and knowledge management solutions.\n\n**Website:** For more information and to get started, visit [Quivr's official website](https://www.quivr.app/).\n\nIn a world where information overload is common, Quivr's approach to transforming enterprise knowledge into a personal, accessible AI experience could be a game changer. It marries the power of community-driven open-source development with cutting-edge AI technology, aiming to make knowledge not just retrievable but truly engaging and useful.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/67a2ce287d885b6adbd2f4a5284857e381afcd65.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191702Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=980791ac996acb1a82dd6f6d9eef6e7102be1db56666c3d1405c86eb5d075036",
+    "social_links": [
+        "https://www.linkedin.com/company/getquivr/",
+        "https://twitter.com/quivr_brain",
+        "https://github.com/quivrhq/quivr"
+    ],
+    "logo_path": "data/logos\\Quivr_logo.png"
+}

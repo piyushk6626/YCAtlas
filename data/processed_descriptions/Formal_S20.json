@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/formal",
+    "name": "Formal",
+    "headline": "Take control of your data in real-time.",
+    "batch": "S20",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://joinformal.com",
+    "founded_date": 2022.0,
+    "team_size": 10.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:cybersecurity; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Mokhtar Bacha, Founder",
+            "description": "At 17 Mokhtar Bacha became the youngest employee at ConsenSys, hired by Ethereum co-founder Joseph Lubin. There, he gained expertise in cryptography, consensus algorithms, and distributed systems.\nMokhtar launched Formal in 2022 with the mission to secure the world's data. Today thanks to an incredible team, we are proud to secure the data of customers like Notion.com, Ramp.com, and Gusto.com",
+            "linkedin": "https://www.linkedin.com/in/ahmb84"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Formal: Taking Control of Your Data in Real-Time**\n\nFounded in 2022 and hailing from Y Combinator's Summer 2020 batch, Formal is a young yet ambitious startup based in San Francisco. With a small team of 10, they're on a mission to revolutionize how security teams manage and control their data. You can find them at [joinformal.com](https://joinformal.com), where they offer a suite of tools aimed at simplifying data access and enhancing security protocols.\n\n### What They Do\n\nFormal serves as a **protocol-aware reverse proxy for data stores and APIs**, empowering organizations to understand their data flows and enforce access policies effectively. The challenge they've tackled is clear: as data stacks grow increasingly complex, managing data access without clear oversight has become a significant risk for many enterprises. Formal aims to mitigate these risks by providing real-time insights into data consumption, facilitating collaboration among teams, and ensuring compliance with stringent data protection standards.\n\n### Key Features\n\n1. **Real-Time Data Understanding**: Formal\u2019s tools help organizations map out and monitor their data usage, ensuring that security teams always know who is accessing what data.\n   \n2. **Dynamic Policy Enforcement**: Their platform can automatically recommend and enforce least-privilege policies, minimizing the risks of unauthorized access and data breaches.\n\n3. **Integration with Modern Tools**: Formal supports seamless integrations with popular platforms like Jira, Slack, and AWS, which means it can fit smoothly into existing workflows.\n\n4. **Developer-Friendly Options**: With an API-first design, Formal allows DevOps teams to implement data security measures in a way that's efficient and familiar. They can integrate with tools like Terraform and Pulumi, allowing both code and no-code environments for maximum flexibility.\n\n5. **Robust Security**: Their architecture prioritizes high availability and security, ensuring that data will be controlled strictly by the organization without falling into the wrong hands.\n\n### The Bigger Picture\n\nIn a world where the sophistication of cyber threats is ever-increasing, Formal responds to the demand for improved data security while streamlining the processes that technology teams rely on. As they continue to grow, their focus on enabling organizations to maintain clear oversight over their data will likely resonate with an increasing number of enterprises facing similar challenges.\n\nWith backing from notable partners and a clear vision for the future, Formal is not just a cybersecurity solution; it\u2019s a proactive step toward empowered data management in an increasingly complex digital landscape. \n\nIf you want to see their platform in action, don\u2019t hesitate to [get a demo](https://joinformal.com/</demo-request/>).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/63489ed9bc14804a14ab24b2394240b80be3505e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191348Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b1d413d99ed38c3c3cb39a9e309671d53e94287f6a6bca3c540538b88bb93971",
+    "social_links": [
+        "https://www.linkedin.com/company/formalhq",
+        "https://x.com/joinformal",
+        "https://github.com/orgs/formalco/"
+    ],
+    "logo_path": "data/logos\\Formal_logo.png"
+}

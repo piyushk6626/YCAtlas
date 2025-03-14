@@ -1,0 +1,45 @@
+{
+    "links": "https://www.ycombinator.com/companies/netbeez",
+    "name": "NetBeez",
+    "headline": "Network monitoring from the end-user perspective",
+    "batch": "W16",
+    "description": "NetBeez is the Digital Experience Monitoring platform enabling IT teams to easily support remote users by quickly troubleshooting communication and network performance issues from the user\u2019s perspective.",
+    "activity_status": "Active",
+    "website": "https://netbeez.net",
+    "founded_date": 2013.0,
+    "team_size": 12.0,
+    "location": "Pittsburgh, PA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Stefano Gridelli, Founder/CEO",
+            "description": "Stefano Gridelli is Co-founder and CEO of NetBeez. He has several years of experience as a network engineer, working on design projects for large and complex network environments. He holds a M.S. degree in Computer Science from the Universit\u00e0 degli Studi di Milano, Italy, and an MBA from Carnegie Mellon University.",
+            "linkedin": "https://www.linkedin.com/in/stefanogridelli/en"
+        },
+        {
+            "name": "Panickos Neophytou, Founder/CTO",
+            "description": "Co-founder and CTO at NetBeez.",
+            "linkedin": "http://www.linkedin.com/in/panickos/en"
+        },
+        {
+            "name": "Panos Vouzis, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/pvouzis"
+        }
+    ],
+    "status": true,
+    "generated_description": "**NetBeez: A Quick Overview**\n\nNetBeez is a company focused on network monitoring from the end-user perspective. Founded in 2013 and part of Y Combinator's Batch W16, they're based in Pittsburgh, PA. With a small but capable team of 12 employees, they\u2019ve carved out a niche in the tech industry, enabling IT teams to effectively troubleshoot communication and network performance issues, especially for remote users.\n\nTheir mission revolves around enhancing digital experience monitoring. Simply put, they provide tools that allow organizations to see their networks through the eyes of the user, addressing the shifting landscape of work\u2014especially as remote work becomes the norm.\n\n### What They Do\n\nNetBeez specializes in a variety of monitoring solutions, including but not limited to:\n\n- **Network Performance Monitoring**\n- **Remote Worker Network Monitoring**\n- **Wi-Fi Monitoring**\n- **Hybrid-Cloud Network Monitoring**\n- **Digital Experience Monitoring**\n- **SaaS and Application Performance**\n\nTheir technology performs high-frequency polling to ensure that network issues can be detected and resolved rapidly, thereby minimizing downtime and ensuring consistent user satisfaction. The platform is designed to perform real-time testing and provide granular data to IT teams, helping them pinpoint and rectify issues autonomously.\n\n### Why It Matters\n\nIn a landscape where organizations rely increasingly on remote services, having the ability to monitor network performance effectively is critical. NetBeez helps businesses enhance their operational efficiency by identifying network bottlenecks and performance degradations before users even notice them.\n\n### Client Base and Industries Served\n\nTheir solutions cater to a range of industries including:\n\n- Remote Contact Centers\n- Technology\n- Financial Services\n- Telecommunications\n- Healthcare\n- Higher Education\n\nThese sectors require strong network reliability, and NetBeez allows them to maintain that even with the diverse challenges each industry faces.\n\n### Get Involved\n\nWant to delve deeper? You can visit their website [NetBeez.net](https://netbeez.net) to check out their offerings, request a demo, or learn more about how to enhance your network visibility.\n\nIn summary, NetBeez stands out by focusing on the user experience, making them a pivotal resource for companies trying to navigate the complexities of network performance in today's digital-driven world.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f62bf947c0b3648d1d1c65c7437f91036bad8f3d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191556Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1414814def77a19720b860cfd63b9358226429e9d19431cac1a5c8acf4908621",
+    "social_links": [
+        "https://www.linkedin.com/company/2937752/",
+        "https://twitter.com/NetBeez",
+        "https://facebook.com/NetBeez",
+        "https://www.crunchbase.com/organization/netbeez",
+        "https://github.com/netbeez"
+    ],
+    "logo_path": "data/logos\\NetBeez_logo.png"
+}

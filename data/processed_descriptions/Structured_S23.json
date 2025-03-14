@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/structured",
+    "name": "Structured",
+    "headline": "Build data apps with AI",
+    "batch": "S23",
+    "description": "Structured is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing complexity while maintaining flexibility for both prototyping and production-grade use cases.",
+    "activity_status": "Active",
+    "website": "https://www.structuredlabs.com/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:analytics; industry:open-source; industry:data-visualization; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Amrutha Gujjar, Founder",
+            "description": "Structured",
+            "linkedin": "https://www.linkedin.com/in/amruthagujjar/"
+        },
+        {
+            "name": "Shivam Singhal, Founder",
+            "description": "data infrastructure",
+            "linkedin": "https://linkedin.com/in/shivam-singhal"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Structured: Simplifying Data Apps with AI**\n\n**Overview**  \nFounded in 2023 and hailing from Y Combinator Batch S23, Structured is a fresh face in the technology scene, located in San Francisco. With a compact yet talented team of three, they're set on a mission: building data applications that harness the power of AI. You can check them out at [structuredlabs.com](https://www.structuredlabs.com/).\n\n**What They Do**  \nStructured operates as a full-stack platform designed for constructing, deploying, and managing interactive data applications. Their solution identifies the common pain points in data manipulation\u2014like ingestion, storage, transformation, and visualization\u2014and wraps them into a user-friendly SDK. The goal? Minimize complexity for developers while retaining the flexibility needed for both rapid prototyping and robust production use cases.\n\n**Key Features**  \n- **Integrated Workflow**: Built to streamline the entire data pipeline process, allowing users to ingest, transform, and visualize data in a matter of minutes without heavy infrastructure or a steep learning curve.\n- **AI-Powered Suggestions**: Their platform, utilizing its assistant \u201cPreswald,\u201d provides context-aware help, suggesting solutions for common data processing issues and generating clear documentation to facilitate ease of use.\n- **Team Empowerment**: Designed to upskill current teams rather than requiring expensive hires, it helps teams manage data more effectively without the hassle of using multiple disparate tools.\n\n**Why It Matters**  \nStructured addresses a critical challenge in modern tech stacks: the fragmented nature of data management. They offer a centralized solution for dealing with data definitions, KPIs, and transformation logic\u2014essentially reducing chaos and improving clarity for teams. \n\n**Recent Highlights**  \n- Structured has been recognized and chosen to showcase its innovation at the TechCrunch Disrupt 2024 Startup Battlefield.\n- They recently achieved SOC 2 Type 1 compliance, underscoring their commitment to security and data protection.\n- The company has also had the thrill of being featured in Times Square, a testament to their growing presence in the tech industry.\n\n**In Conclusion**  \nStructured isn\u2019t just building another coding platform; they are reshaping how data applications are formed and utilized. With their AI-integration and a keen focus on enhancing developer efficiency, they're poised to make significant waves in the data analytics sector. If you're tired of juggling various tools and want to simplify your data processes, Structured might just be the ally you need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e6b425c2c43ad3b5b559b51e154a99e2a9c3324f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=92ee2659e8109b89d0da783915560adb9f52d93ecde2faea5c682ee22775a594",
+    "social_links": [
+        "https://www.linkedin.com/company/structuredlabs/",
+        "https://twitter.com/StructuredLabs",
+        "https://www.crunchbase.com/organization/structured-labs",
+        "https://github.com/StructuredLabs/preswald"
+    ],
+    "logo_path": "data/logos\\Structured_logo.png"
+}

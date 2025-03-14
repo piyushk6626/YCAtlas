@@ -1,0 +1,35 @@
+{
+    "Links": "https://www.ycombinator.com/companies/verbiflow",
+    "Name": "Verbiflow",
+    "Headline": "AI-powered CRM that finds leads and closes deals for you.",
+    "Batch": "W25",
+    "Description": "Verbiflow is the all-in-one platform for sales teams to capture, manage, and automate their entire process. Capture leads with intelligent prospecting that identifies high-potential prospects based on real-time events and smart scheduling & routing that instantly assigns those leads to the best-suited sales rep. Manage your pipeline with complete flexibility, defining and tracking custom KPIs across all your sales interactions. Automate reminders and workflows to keep deals moving forward, all within a single, unified platform.",
+    "Activity_Status": "Active",
+    "Website": "https://verbiflow.com",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "https://www.linkedin.com/company/verbiflow/",
+    "Company_Twitter": "",
+    "Tags": "industry:artificial-intelligence; industry:saas; industry:analytics; industry:sales; industry:sales-enablement; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/verbiflow/"
+    ],
+    "logo_path": "data\\logos\\Verbiflow.png",
+    "Active_Founders": [
+        {
+            "Name": "Kashyab Ambarani, Founder",
+            "Description": "Co-founder of Verbiflow",
+            "LinkedIn": "https://www.linkedin.com/in/kashyab-ambarani/"
+        },
+        {
+            "Name": "Rishi Mahadevan, Founder",
+            "Description": "Co-founder Verbiflow",
+            "LinkedIn": "https://www.linkedin.com/in/rishi-mahadevan-625844109/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Verbiflow: The AI-Powered Sales Companion**\n\nFounded in 2024 and part of Y Combinator\u2019s Batch W25, Verbiflow aims to transform how sales teams operate through advanced artificial intelligence. Based in San Francisco, this nimble startup is currently a small team of two, but their ambition is vast. Their mission? To create an all-in-one CRM platform that doesn't just capture leads but actively finds them and helps close deals.\n\nAt its core, Verbiflow is designed to streamline the entire sales process. Think of it as a Swiss Army knife for sales teams. It offers intelligent prospecting that identifies high-potential leads by analyzing real-time data\u2014be it hiring trends, social media activity, or even conference attendance. Rather than sifting through endless data points, sales reps are armed with insights that matter, enabling them to focus on what they do best: selling.\n\nManaging a sales pipeline is more straightforward with Verbiflow's customizable KPIs and automated workflows. Teams can define unique metrics to track their performance across various interactions without the headache of manual data entry. Every interaction is logged automatically, liberating sales professionals from tedious updates.\n\nWith features like smart scheduling and automated reminders, Verbiflow ensures that no opportunity slips through the cracks. Sales reps can connect on the right terms, at the right time, thanks to industry-specific routing and intelligent automation.\n\nOverall, Verbiflow is a fresh take on sales enablement, blending cutting-edge technology with practical functionality. If you're looking to optimize your sales strategy without the usual fuss, keep an eye on Verbiflow\u2014they might just be your next secret weapon in the game of sales.\n\nFor more information, check out their website at [verbiflow.com](https://verbiflow.com)."
+}

@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/saphira-ai",
+    "name": "Saphira AI",
+    "headline": "Vanta for Hardware",
+    "batch": "S24",
+    "description": "Saphira is the easiest way for hardware products to get safety certified and reach market faster, such as industrial robots and heavy machinery.",
+    "activity_status": "Active",
+    "website": "https://saphira.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Akshay Chalana, Founder",
+            "description": "Co-Founder, CEO - Saphira AI\n - \nAutomating Safety+Systems Engineering: ex-Citadel (real-time trading workflow configuration), Apple (pb-scale dataset management for Siri and Vision Pro), Tesla (made sure batteries didn't explode in the heat of the sun), Meta (PyTorch/ONNX), Hyperloop (blew up and crashed pods)",
+            "linkedin": "https://linkedin.com/in/akshay-chalana"
+        },
+        {
+            "name": "Oscar Avatare, Founder",
+            "description": "Saphira AI (S24)\n\nFormerly at Amazon and Twitter. \n\nPassionate about helping the next generation of innovative hardware companies build safe and compliant products faster. \n\nPer aspera ad astra.",
+            "linkedin": "https://linkedin.com/in/oavatare"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Saphira AI: The Future of Hardware Safety Certification\n\nSaphira AI, founded in 2024 and part of Y Combinator's Batch S24, is embarking on an ambitious mission: to become the \"Vanta for Hardware.\" Their vision seeks to streamline the safety certification process for hardware products\u2014from industrial robots to heavy machinery\u2014making it faster and easier to get to market. \n\n#### What They Do\n\nSaphira AI automates the often tedious and costly work involved in safety compliance, covering a wide range of standards, including **ISO 26262**, **ISO 10218**, **FAA DO-334**, and **UL/CE Mark**. Their platform essentially does what safety consultants historically spent thousands on: assembling test plans, retrieving technical details, and producing essential safety reports like T\u00dcV, UL, CB, ETL, and more.\n\nWith just a team of two, Saphira has already made significant strides, trusted by names across the aerospace and robotics sectors. They save companies time\u2014reporting and validation workflows can be shortened by 20%\u2014and enhance decision-making by consolidating data into a manageable format.\n\n#### Key Features\n\n1. **Automated Compliance**: Evaluates safety requirements during incremental releases, automating labor-intensive tasks.\n2. **Improved Documentation**: Centralizes information, making it easier to find what you need when you need it.\n3. **Enhanced Insights**: Provides personalized data to help teams allocate resources effectively.\n4. **Streamlined Collaboration**: Integrates seamlessly with popular engineering tools, meaning teams work in their preferred environments.\n5. **Path to Autonomy**: Simplifies data linkage for future AI applications, paving the way towards greater autonomy in hardware systems.\n\n#### Customer Love\n\nFeedback from partners has been overwhelmingly positive. For instance, Michael from RobCo praised the partnership's potential for overcoming future certification challenges, while Max, a Senior Consultant at Invensity, highlighted Saphira's ability to streamline data analyses. \n\n#### The Team\n\nSaphira\u2019s small but mighty team brings expertise from tech giants like Amazon, Tesla, and Apple, ensuring they are well-equipped to tackle the unique challenges of hardware safety compliance.\n\n#### Modern Integrations\n\nSaphira supports a range of engineering tools, from Jira and Microsoft Excel to MATLAB and SolidWorks, allowing for a broad application across different industries.\n\nIf you\u2019re involved in developing hardware products and are looking for ways to simplify safety certification, Saphira AI is worth considering. Book a demo on their [website](https://saphira.ai) and see how they can help accelerate your compliance journey.\n\nIn a landscape where safety is paramount but processes remain cumbersome, Saphira AI represents a promising step toward innovative solutions that will empower hardware developers everywhere.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3744629c0b7955a31815b8a7856fd6d0cfeac3e7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191910Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0fc673e05d2e5b1cd492bcbf4c9602444d178188106bfbdfbec6fdd7cb569db7",
+    "social_links": [
+        "https://linkedin.com/company/saphira-ai",
+        "https://twitter.com/saphira_ai"
+    ],
+    "logo_path": "data/logos\\Saphira_AI_logo.png"
+}

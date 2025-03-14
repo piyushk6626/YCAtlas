@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/dili",
+    "name": "dili",
+    "headline": "The Most Reliable LLM for Diligence on High-Stakes Deals",
+    "batch": "S23",
+    "description": "Dili (YC S23) is building the most reliable AI workforce for diligence on high-stakes deals. Across tax credit diligence, real estate loan & lease abstraction, private equity and private credit, Dili has run diligence for leading firms on 3000+ high-stakes deals to provide instant diligence reports and red flags.\r\n\ntoday\u2019s AI models are not accurate enough for mission-critical use cases like underwriting $60M+ tax credit transactions, $100M+ loan & lease abstraction, deal screening and drafting investment memos. Dili is built to be the most reliable automated platform that provides confidence scores on every output so you know when something needs your attention.\r\n\nFirms can now tune Dili using their domain-specific knowledge and instructions to fit their custom templates, reports and SOPs. Dili has found and fixed critical red flags and human errors on several multi-million dollar transactions using this fine-tuned expertise.",
+    "activity_status": "Active",
+    "website": "https://www.dili.ai",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "New York",
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:finance; industry:b2b; industry:investing; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Anand Chaturvedi, Co-Founder, CEO",
+            "description": "Anand Chaturvedi is the Co-Founder & CEO of Dili working in New York, NY. Anand led engagement growth at Coinbase (S12) to increase revenue by $50M, and built out KYC/AML systems. Previously, Anand has published ML research at Apple, working on the Apple Vision Pro headset & other new products. Anand is a fellow at Kleiner Perkins, and holds a Bachelor's & Master's in Machine Learning from Georgia Tech.",
+            "linkedin": "https://linkedin.com/in/anandchaturvedi1"
+        },
+        {
+            "name": "Brian Fernandez, Founder",
+            "description": "Co-founder and CTO of Dili (YC S23), building the AI copilot for capital markets due diligence. Former Software Engineer at Coinbase. Passionate about 1) leveraging AI and LLMs to transform enterprise software and 2) creating quirky AI-art mashups.",
+            "linkedin": "https://linkedin.com/in/brianfernandez1"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Dili**  \nFounded in 2023 and part of Y Combinator Batch S23, Dili is a tech startup based in New York that\u2019s on a mission to create \"The Most Reliable LLM for Diligence on High-Stakes Deals.\" With just a small team of four, Dili is already making significant waves in the AI and fintech sectors.\n\n**What Dili Does**  \nDili aims to revolutionize the diligence process in high-stakes financial transactions\u2014think tax credits, real estate loans, and private equity deals. Conventional AI models often fall short when it matters most, particularly in complex underwriting scenarios that command millions of dollars. Dili\u2019s platform provides instant diligence reports that highlight red flags and offer confidence scores on every output. This feature allows firms to discern when they need to delve deeper into certain findings.\n\nThe platform is particularly versatile; firms can tailor Dili using their domain-specific knowledge, enabling the AI to generate custom templates, reports, and SOPs that align with their operational workflows. So far, Dili has facilitated diligence processes for over 3,000 deals.\n\n**Core Features**  \n- **Instant Data Extraction**: Pull key terms and metrics from various documents swiftly and accurately.\n- **Spreadsheet Support**: Dili can handle diverse document types, including complex tabular data that other AI tools struggle with.\n- **Red Flag Alerts**: Tailor alerts for specific issues based on user-defined criteria.\n- **Comprehensive Document Search**: The platform allows users to interrogate their documents intelligently, ensuring thorough research.\n- **Custom Workflows**: Users can mirror their existing processes with Dili\u2019s AI, which is trained to catch errors that humans might overlook.\n\n**Why It Matters**  \nThe diligence process in finance is critical and can be fraught with risks stemming from human errors or oversights. By deploying AI that learns and adapts to a firm\u2019s specific needs, Dili offers a safeguard against these risks, essentially acting as a supercharged copilot in financial transactions.\n\n**User Testimonials and Endorsements**  \nDili has garnered positive feedback from industry leaders. Garry Tan, the CEO of Y Combinator, lauds Dili's ability to transform diligence efforts from a labor-intensive process into something nearly instantaneous. Users have noted that Dili has uncovered significant errors in multi-million dollar transactions that even seasoned legal teams missed, emphasizing the need for such technology in today's fast-paced financial landscape.\n\n**Tags**: fintech, finance, b2b, investing, AI, New York  \n**Website**: [Dili](https://www.dili.ai)\n\nIn summary, Dili is positioning itself as a game-changer in AI-assisted diligence, delivering precision, efficiency, and confidence in high-stakes financial dealings. If you're in finance and dealing with complex transactions, keeping an eye on Dili could very well be worth your while.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/27852334a0fd547d21b825249c6dc6b6e0586df7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191122Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2477479f13e3dea460b9023d40dc9323e6faa6787a7f7307314086340a08cfe1",
+    "social_links": [
+        "https://www.linkedin.com/company/dili-ai/",
+        "https://twitter.com/dili_ai",
+        "https://www.crunchbase.com/organization/dili-e466"
+    ],
+    "logo_path": "data/logos\\dili_logo.png"
+}

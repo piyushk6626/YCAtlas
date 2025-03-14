@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/airtrain-ai",
+    "name": "Airtrain AI",
+    "headline": "No-code data curation for LLM fine-tuning and evaluation.",
+    "batch": "S22",
+    "description": "Airtrain AI is a no-code data platform for Large Language Models.\r\n\nProprietary AI models such as GPT-4 are very powerful but also very costly, slow, unreliable, and unsecured.\r\n\nAs businesses look to scale their AI prototypes into production-grade products, they struggle with large AI bills, slow APIs and large failure rates.\r\nOn the other hand, smaller language models have been proven to be able to perform on-part with large ones with fine-tuned on high-quality datasets.\r\n\nAirtrain AI lets AI practitioners explore alternatives to proprietary models, build up training datasets, evaluate, fine-tune, and serve a large selection of open-source LLMs.",
+    "activity_status": "Active",
+    "website": "https://airtrain.ai",
+    "founded_date": 2022.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:saas; industry:cloud-computing; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Emmanuel Turlay, Founder",
+            "description": "Hi, I am Emmanuel.\n\nI spent my foundational years in academia (particle physics research at CERN) then branched out into tech. I built the order and payment infrastructure at Instacart, and lead ML platform at Cruise.\n\nI am the CEO and co-founder of Sematic (S22).\n\nReach out and say hello.",
+            "linkedin": "https://www.linkedin.com/in/emmanuelturlay/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Airtrain AI is on a mission to streamline the world of AI development with its no-code data curation platform, specifically designed for fine-tuning and evaluating Large Language Models (LLMs). Founded in 2022 and based in San Francisco, this innovative startup emerged from Y Combinator\u2019s Batch S22, gathering a small but skilled team of five under the guidance of Group Partner Nicolas Dessaigne.\n\nThe landscape of AI is crowded with powerhouse models like GPT-4, but these come with significant drawbacks: they\u2019re costly, slow, and not always reliable. Many businesses face mounting challenges as they endeavor to scale AI prototypes into production-level solutions. Enter Airtrain AI, which offers an alternative. It empowers AI practitioners to harness smaller, more efficient open-source LLMs, enabling them to build training datasets, evaluate models, and fine-tune performance without incurring astronomical costs.\n\nThe company recently announced a significant transition: joining forces with Weights & Biases (W&B), a frontrunner in AI developer tools. This partnership aims to merge Airtrain\u2019s insights on AI safety and model customization with W&B's capabilities to enhance the developer experience, allowing them to create better AI products at a faster pace.\n\nAs Airtrain AI integrates into the W&B ecosystem, it will sunset its existing products. This decision reflects a strategic move to consolidate resources and focus on delivering enhanced value through collaboration. The founders express gratitude to their team, customers, and investors for their support during this journey.\n\nFor more details about their offerings and updates, you can visit their website at [airtrain.ai](https://airtrain.ai). With Airtrain AI\u2019s commitment to redefining the AI development space, the future looks promising for developers aiming to leverage the power of language models without the usual complexities.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a29f47cc3e597690c35e8341fdc1c586e2ffa6e8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=81b2c9ff7472835725e41d816321f7cb0c5a7a01802d704bbe757deec48f469a",
+    "social_links": [
+        "https://www.linkedin.com/company/airtrain-ai/",
+        "https://twitter.com/AirtrainAI",
+        "https://github.com/sematic-ai"
+    ],
+    "logo_path": "data/logos\\Airtrain_AI_logo.png"
+}

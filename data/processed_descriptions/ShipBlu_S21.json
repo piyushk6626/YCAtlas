@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/shipblu",
+    "name": "ShipBlu",
+    "headline": "Amazon Level Logistics for eCommerce Companies in MENA.",
+    "batch": "S21",
+    "description": "ShipBlu provides Amazon level logistics for eCommerce companies in MENA - one of the fastest growing eCommerce markets in the world. As it stands, the majority of delivery providers are still using pen and paper to manage delivery and fulfillment operations, leading to 5x the rate of failed deliveries and 3x the operating costs as compared to global benchmarks.\r\n\nAt ShipBlu, we've built an infrastructure that handles every aspect of delivery and fulfillment operations. We've also added some unique features that tie in various business functions, allowing us to realize significant efficiencies compared to other players. Our platform is managed by ShipBlu AutoPilot - our collection of Artificial Intelligence and Machine Learning algorithms that constantly make operational predictions and decisions to reduce costs, meet delivery constraints, and refine our operating assumptions. Designed by ShipBlu's CTO, Abdelrahman is currently completing his PhD at Brown University where he explores the applications of AI and ML in optimization problems.\r\n\nWe built a nationwide delivery network in Egypt in about 2.5 months, kicking off operations on Aug 1st, 2021. In under 4 weeks, we have signed on over 40 merchants, and when those merchants fully go live in October, we will be making over $40k in MRR.",
+    "activity_status": "Active",
+    "website": "http://www.shipblu.com",
+    "founded_date": 2020.0,
+    "team_size": 300.0,
+    "location": "Cairo, Egypt",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:delivery; industry:ai",
+    "founders": [
+        {
+            "name": "Ali Nasser, Founder",
+            "description": "Born and raised in Cairo Egypt, I have a B.Sc. in Construction Engineering from the American University in Cairo. I then went on to get my M.Eng. from Cornell University, and soon after my MBA from Cornell as well. I ended up working on Wall Street as an Investment Banker for Citibank, where I covered the fertilizer sector globally. After Citi, I moved back to Egypt to join the family business and work on some projects of my own. A couple of years later, I came up with the idea for ShipBlu!",
+            "linkedin": "https://www.linkedin.com/in/alifnasser"
+        },
+        {
+            "name": "Ahmed ElKawass, Founder",
+            "description": "I have a BA in Politics and Economics from Northumbria University, UK. Prior to founding ShipBlu, I worked at Unilever, Nestle and Reckitt Benckiser between the Sales and Supply Chain departments. I then took a leap of faith and decided to move to Leo Burnett followed by JWT where I gained plenty of experience in the marketing and advertising field.",
+            "linkedin": "https://www.linkedin.com/in/ahmad-kawass-56b65815/"
+        },
+        {
+            "name": "Abdelrahman Hosny, Founder",
+            "description": "I'm mainly interested in combinatorial optimization problems, with efficient implementations. This lies at the heart of ShipBlu operations. To that end, I investigate the use of machine learning techniques to come up with novel implementations that offers new solutions.\nI'm pursuing a PhD in Computer Science at Brown University. Prior to that, I had a Master's in Computer Science and Engineering from UConn. I have been enjoying building cloud apps for ~8 years now.",
+            "linkedin": "https://www.linkedin.com/in/abdelrahmanhosny/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**ShipBlu Overview**\n\nFounded in 2020 and part of Y Combinator's Summer 2021 batch, ShipBlu is based in Cairo, Egypt, and is on a mission to revolutionize logistics for eCommerce in the MENA region. The founders recognized that many delivery providers were still stuck in the Dark Ages, relying on outdated methods like pen and paper to handle operations. This inefficiency resulted in five times the failed deliveries and tripled operating costs compared to global standards. Clearly, something had to change.\n\n**What ShipBlu Does**\n\nShipBlu aims to bring Amazon-level logistics to the fast-growing eCommerce landscape in MENA, where the market is expanding rapidly. With a keen understanding of the local environment and a vision for efficiency, they've built a comprehensive logistics infrastructure that addresses every aspect of delivery and fulfillment. \n\nAt the core of ShipBlu's operational efficiency is their proprietary ShipBlu AutoPilot\u2014a cutting-edge suite of Artificial Intelligence and Machine Learning algorithms. This technology not only predicts and makes operational decisions but also works tirelessly to lower costs, adhere to delivery timelines, and streamline their operational strategies. This tech-driven approach is highlighted by the expertise of their CTO, Abdelrahman, who is deep into a PhD at Brown University, focusing on the practical applications of AI and ML in optimizations.\n\n**Rapid Growth and Future Prospects**\n\nShipBlu has made remarkable strides since launching operations on August 1, 2021, establishing a nationwide delivery network in Egypt in just 2.5 months. Within weeks, they secured over 40 merchants to partner with, anticipating revenues of over $40k in monthly recurring revenue (MRR) when these merchants fully roll out operations by October.\n\nWith a growing team of 300 employees, ShipBlu is positioning itself as a key player in the eCommerce logistics space within MENA. Their unique blend of innovative technology and an understanding of local needs has the potential to reshape how deliveries are managed in the region. \n\nFor more information, check out their website at [shipblu.com](http://www.shipblu.com).\n\n**In Summary**\n\nShipBlu is not just another logistics provider; they're redefining logistics in MENA with technology at the forefront. If they continue on their current path, we might just see a transformation in the way eCommerce deliveries are executed across the region\u2014bringing efficiencies that local merchants sorely need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2b4262b710752ccaf9f1a21e2de96ed6be9254a6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191921Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5256600c51fc3fcc9b21348908e898130f39dc57af7d71688268d36413b5e356",
+    "social_links": [
+        "https://www.linkedin.com/company/shipblu",
+        "https://mobile.twitter.com/_shipblu",
+        "https://www.facebook.com/shipblu",
+        "https://www.crunchbase.com/organization/shipblu"
+    ],
+    "logo_path": "data/logos\\ShipBlu_logo.png"
+}

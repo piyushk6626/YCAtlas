@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/promptless",
+    "name": "Promptless",
+    "headline": "Automatic updates for your customer-facing docs",
+    "batch": "W25",
+    "description": "Promptless automatically updates your customer-facing documentation, including tutorials, how-to guides, API specs, knowledge bases, support articles, and blog posts. This content is often one of the first points of contact between your product and its users. Clear, accurate, and up-to-date docs are critical, influencing buying decisions, reducing support overhead, and increasing LTV. \r\n\nProviders like Readme and Mintlify effectively host your docs, but keeping them updated remains a serious challenge. Working alongside your hosting provider, Promptless lets you configure triggers so that your docs get automatically updated upon new feature releases, developer support questions, or internal use-case discussions. \r\n\nPromptless integrates directly with your organization\u2019s entire knowledge ecosystem \u2013 issue trackers, internal knowledge bases, support ticket systems, and more \u2013 leading to holistic doc updates without expensive coordination between product, engineering, and support teams. \r\n\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability.",
+    "activity_status": "Active",
+    "website": "https://gopromptless.ai/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:b2b; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Frances Liu, Founder",
+            "description": "Frances is building Promptless, helping companies keep customer-facing content up-to-date. Prior to Promptless, Frances led product, ML/AI engineering, and LLM ops on petabyte scale at Cloudflare, OneSignal, and Graft. Yale undergrad. Stanford PhD drop-out. Has published LLM research.",
+            "linkedin": "https://linkedin.com/in/frances-liu-1a426057"
+        },
+        {
+            "name": "Prithvi Ramakrishnan, Founder",
+            "description": "Prithvi co-founded Promptless.\n\nBefore Promptless, he served as VP of Product & Engineering at Bond, a fintech infrastructure startup acquired by NYSE:FIS in 2023. There he saw firsthand the effort required to maintain hundreds of tutorials and guides and the outsized business impact of world-class documentation.\n\nPrithvi graduated from Stanford in 2015 (B.S. CS, AI track). He was also a 4-time International Mathematical Olympiad (IMO) participant, including as the youngest participant in 2008.",
+            "linkedin": "https://www.linkedin.com/in/prithvi-r"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Promptless: Revolutionizing Documentation for Tech Teams**\n\nFounded in 2024 and a proud member of Y Combinator's Batch W25, Promptless is carving out a niche in the tech landscape from its base in San Francisco. With only two passionate team members, the company is on a mission to ensure that customer-facing documentation\u2014think how-to guides, tutorials, API specs, and support articles\u2014stays up-to-date automatically. \n\nDocumentation is often the first touchpoint between a product and its users; clear, accurate, and current docs can sway buying decisions, lighten the support load, and ultimately enhance a company\u2019s long-term value. Companies like Readme and Mintlify have made strides in hosting docs, but the real challenge has been keeping them fresh as products evolve. This is where Promptless steps in.\n\nPromptless supercharges documentation by integrating seamlessly with an organization's entire knowledge ecosystem\u2014be it issue trackers like Jira, internal databases like Confluence, or ticket systems. By configuring triggers, anything from feature releases to developer inquiries can prompt an automatic documentation update. This holistic approach minimizes the costly back-and-forth often required between product, engineering, and support teams, transforming documentation from a bottleneck into a strategic asset.\n\nWhether it's updating API references, keeping changelogs fresh, or ensuring the knowledge base reflects the latest product features, Promptless automates the mundane so that teams can focus on what truly matters. Plus, its AI capabilities help gather context across different tools, providing crucial insights that keep documentation relevant.\n\nFor those interested, Promptless is starting to make a wave in the developer tools space, leveraging generative AI, SaaS, and B2B principles. It\u2019s the kind of leap that can simplify lives and make documentation an area of strength rather than a headache.\n\nIf you want to explore their platform more or have questions, check out [Promptless's website](https://gopromptless.ai/). It's time to let AI take the reins on document upkeep\u2014your team and users will be grateful.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4110eaeeed445887dcd713b5ab9a8822e17ce37d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191655Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bf04ec79a6de18c8660503e662c4f2b3b4130c212326f89f9e54150e5f294bcd",
+    "social_links": [
+        "https://www.linkedin.com/company/promptless",
+        "https://x.com/promptlessai"
+    ],
+    "logo_path": "data/logos\\Promptless_logo.png"
+}

@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/milio",
+    "name": "Milio",
+    "headline": "B2B-2C real-time account to account payments",
+    "batch": "W23",
+    "description": "Milio is a fully interoperable and immediate payment system for Colombia through a single API connected to millions of accounts. Milio allows companies to perform payable and receivable in real time without ACH rails.\r\n\nWe provide our solution through two Plug and Play integrations:\r\n\nPID payment button:\r\nEnd-to-end, white label, native, non-redirection payment technology for your customers to pay you account-to-account more efficiently than PSE, without heavy and inefficient ACH cycles and fixed rates.\r\n\nTechnology: API, SDK, Checkout UI.\r\n\nImmediate disbursement:\r\nSingle API connection to all banks, allowing any company or person to disburse 24/7, in real-time, with immediate crediting of funds to third parties at any bank or digital wallet.\r\n\nTechnology: API, Dashboard UI.",
+    "activity_status": "Active",
+    "website": "http://www.miliopay.com",
+    "founded_date": 2022.0,
+    "team_size": 16.0,
+    "location": "Bogot\u00e1, Colombia",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:payments; industry:b2b",
+    "founders": [
+        {
+            "name": "Daniel Gomez, Founder",
+            "description": "Product Manager and Strategist, UX freak, and Project Manager. Passionate about building digital projects from the ground up across different industries, including Fintech, Mobility and Healthcare. I'm currently building a comprehensive lending and payments infrastructure solution for the B2B commerce in Latin America. When I'm not designing prototypes and workflows, I love skateboarding and spending time at the beach with my daughter.",
+            "linkedin": "https://www.linkedin.com/in/daniel-g\u00f3mez-86954a58/"
+        },
+        {
+            "name": "Juan Luis Perez E, Founder",
+            "description": "Co-founder and CEO at Milio",
+            "linkedin": "https://www.linkedin.com/in/juan-luis-perez-escobar-079869104"
+        },
+        {
+            "name": "Toni Riera",
+            "description": "Founder at Milio, a B2B payments and treasury automation platform for emerging markets. Previously, I was a tech operator at Uber and SumUp, and a BCG consultant.",
+            "linkedin": "https://www.linkedin.com/in/triera/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Milio: Bridging Payments with Ease**\n\nFounded in 2022 and emerging from Y Combinator's Batch W23, Milio is reshaping the payments landscape in Colombia. Based in Bogot\u00e1, this fintech startup of 16 dedicated employees focuses on facilitating real-time account-to-account payments, transforming how businesses interact with their financial operations.\n\nMilio's core mission is straightforward yet ambitious: create an immediate, fully interoperable payment system that connects millions of accounts through a simple API. Forget about clunky ACH rails. Milio streamlines payables and receivables, enabling companies to settle transactions instantly, 24/7.\n\n### The Product Offering\n\nMilio's solutions come in two main packages:\n\n1. **PID Payment Button**: This white-label payment technology allows customers to conduct transactions efficiently without the traditional hassles associated with other platforms like PSE. This integration includes API, SDK, and a Checkout UI.\n\n2. **Immediate Disbursement**: With a single API, any business or individual can disburse funds in real-time to any bank or digital wallet. Say goodbye to lag times with immediate crediting of funds.\n\n### Key Features\n\n- 10,000+ transactions per second   \n- 99.99% network stability  \n- Real-time fund availability (under 1 minute)  \n- Seamless integration for businesses across different industries\n\n### Target Markets\n\nMilio stands as a versatile solution for various entities:\n- **Banks** can enhance services, providing smooth P2P interactions and remittances.\n- **Wallets** can offer instantaneous fund transfers, effectively becoming super apps.\n- **Fintech firms** can automate and streamline funds disbursements and collections.\n- **Corporations** can manage payroll and vendor payments from a single dashboard.\n\n### Customer Testimonials\n\nMilio's users are attesting to its impact:\n- \"With Milio, all employees receive their payroll on time,\" says Luis.\n- \"The money arrives instantly, without waiting days,\" shares Mariana.\n- \"Milio is an alternative to Transfiya and PSE,\" remarks Camila.\n\nIn a nutshell, Milio isn\u2019t just about transferring money; it\u2019s about redefining financial interactions within businesses and between consumers. By stripping away outdated systems and bringing things into real-time, Milio empowers its users to operate with unprecedented efficiency and speed.\n\nFor more insights and to experience what Milio has to offer, check out their [website](http://www.miliopay.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/39c49cf31f4abaef77929f9484d6bf6628252cf4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191536Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b33cbfb9eb9ef441bb2979a06b830547a899eb27d904e91c17a8844d520a7540",
+    "social_links": [
+        "https://www.linkedin.com/company/miliopay/",
+        "https://www.crunchbase.com/organization/milio-393b"
+    ],
+    "logo_path": "data/logos\\Milio_logo.png"
+}

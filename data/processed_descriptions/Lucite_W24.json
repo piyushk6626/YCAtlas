@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/lucite",
+    "name": "Lucite",
+    "headline": "Supercharging Insurance Brokers & Advisors",
+    "batch": "W24",
+    "description": "Lucite is building the first AI-native platform to help insurance brokers and advisors automate the most complex and time consuming parts of their job. We ingest unstructured carrier documents to accurately extract and analyze data, create insights, and generate deliverables, saving firms hours of time each day.",
+    "activity_status": "Active",
+    "website": "https://www.lucite.ai/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "New York",
+    "group_partner": "Pete Koomen",
+    "group_partner_yc": "https://www.ycombinator.com/people/pete-koomen",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:new-york",
+    "founders": [
+        {
+            "name": "Jason Spector, Founder",
+            "description": "Jason is the Co-Founder and CEO of Lucite. Jason was previously a Growth Equity Investor at WestCap. He started his career as an Investment Banking Analyst at J.P. Morgan. He holds a bachelor's degree from Cornell University.",
+            "linkedin": "https://www.linkedin.com/in/spectorjason/"
+        },
+        {
+            "name": "Richard Greenbaum, Founder",
+            "description": "Richard is the Co-Founder and CTO of Lucite. He has deep experience working with data and ML intensive systems, having spent 3 years as a software engineer and technical lead in Meta's ads privacy and transparency division. Richard graduated with a BS in Computer Science from Cornell.",
+            "linkedin": "https://linkedin.com/in/richard-greenbaum-a735b183"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Lucite: Supercharging Insurance Brokers & Advisors\n\nLucite is an innovative startup based in New York, founded in 2024 as part of Y Combinator's Batch W24. With a compact team of just three people, the company has set out on an ambitious mission: to supercharge insurance brokers and advisors by leveraging the power of artificial intelligence.\n\nAt its core, Lucite is creating the first AI-native platform specifically designed to automate the most complex and time-consuming aspects of the insurance process. They tackle the often daunting task of processing unstructured carrier documents, employing cutting-edge optical character recognition (OCR) technology to extract and analyze data efficiently. This allows brokers and advisors to condense what might normally take hours into mere minutes, ultimately freeing them up to focus on better serving their clients. \n\nThe company provides features that include:\n\n- **Precise Document Analysis**: Transforming hours of manual work into a streamlined experience with advanced data extraction capabilities.\n- **Insights at Your Fingertips**: A powerful search function that helps users quickly find key data points tailored specifically for benefits insurance.\n- **Tailored Deliverables**: Automatically generating client-ready reports that adhere to specific design and formatting standards.\n\nLucite places a significant emphasis on data security and privacy. Their commitment ensures that user data is never used to train their models, and they actively monitor their development processes to safeguard against vulnerabilities. This includes stringent protocols for data protection and compliance.\n\nOverall, Lucite is on a mission to eliminate the busywork that often bogs down insurance brokers, allowing them to work more efficiently and effectively. If you\u2019re in the insurance field, it might be worth booking a demo to see how Lucite can transform your operations.\n\nFor more information, you can visit their website at [Lucite.ai](https://www.lucite.ai/). ",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b8210e3a6252e3028d54828a0282f102a313d1d8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191514Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d008e05acd568e17b81c8dfdf72604407881a91f15cb324fcb4346e29ed85889",
+    "social_links": [
+        "https://linkedin.com/company/lucitetechnologysolutions/about/"
+    ],
+    "logo_path": "data/logos\\Lucite_logo.png"
+}

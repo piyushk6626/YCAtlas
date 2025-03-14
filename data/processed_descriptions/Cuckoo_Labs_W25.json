@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/cuckoo-labs",
+    "name": "Cuckoo Labs",
+    "headline": "AI interpreter for global sales, marketing, and sales.",
+    "batch": "W25",
+    "description": "Cuckoo is a real-time AI translator for global sales, marketing, and support. Companies like Snowflake and PagerDuty use Cuckoo in Zoom and in-person meetings for even the most technical discussions.\r\n\nCuckoo instantly learns the technical details of your conversation from your keywords and documents and interprets into over 20 languages\u2014customized for your specific industry and organization.",
+    "activity_status": "Active",
+    "website": "https://www.cuckoo.so/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Gunwoo Kim, Founder",
+            "description": "Co-founder, CEO & Engineer at Cuckoo, AI interpreter for global teams.\n\nBefore Cuckoo, I was a software engineer at Korean startups, including South Korea's fastest-growing ride-hailing app at the time (1M users in 9 months). Studied CS at KAIST.",
+            "linkedin": "https://www.linkedin.com/in/gunwooterry/"
+        },
+        {
+            "name": "Yong Hee Lee, Founder",
+            "description": "Co-founder & COO, GTM at Cuckoo, AI interpreter for global teams.\n\nBefore Cuckoo, I was the first GTM at two startups in Korea\u2014one focused on online programming and the other on AI infrastructure\u2014where I also led event marketing involving international speakers. I studied Electrical Engineering and Science & Technology Policy at KAIST.",
+            "linkedin": "https://www.linkedin.com/in/harryyongheelee/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Cuckoo Labs: Breaking Language Barriers in Real-Time\n\n**Founding Overview:**\nCuckoo Labs, established in early 2024 and part of Y Combinator's W25 batch, has quickly carved out a niche in the bustling tech landscape of San Francisco. With just a two-person team, they\u2019re set to redefine how global sales, marketing, and support teams communicate across languages.\n\n**Core Mission:**\nCuckoo's primary aim is straightforward: to create an AI interpreter that makes multilingual conversations seamless for businesses engaged in global commerce. Their flagship product, initially branded as Cuckoo, acts as a real-time translator, adept at handling technical discussions in environments like Zoom and in-person meetings. Prominent companies such as Snowflake and PagerDuty have adopted their technology, indicating its efficacy in the business realm.\n\n**How It Works:**\nCuckoo is designed to learn dynamically. When you engage in a conversation, it captures industry-specific technical details derived from your keywords and documents, enabling it to interpret discussions into over 20 different languages. This customization is particularly valuable for sectors that require precise technical language, allowing businesses to communicate without barriers.\n\n**Technology and Features:**\nThe power of Cuckoo lies in its foundation of large language models (LLMs), allowing it to understand the context and nuances of conversations effectively. Notably, Cuckoo can:\n\n- **Detect Languages Automatically:** The platform intelligently picks up and interprets all spoken languages during a meeting without needing manual input.\n- **Integrate Effortlessly:** Whether it\u2019s Zoom, Google Meet, Slack, or Microsoft Teams, Cuckoo fits right in\u2014making it accessible for teams to set up on-the-fly without complicated procedures.\n\n**User Experience:**\nUsing Cuckoo is as easy as it gets. In four simple steps:\n1. **Select Languages:** Tell Cuckoo which languages might be in play.\n2. **Invite to Your Meeting:** Add Cuckoo like any other participant in your virtual meeting space.\n3. **Brief the System:** Provide a bit of context to help Cuckoo understand the technical details it needs to capture.\n4. **Speak Freely:** Converse naturally, and Cuckoo handles the rest.\n\n**Accessibility and Reliability:**\nCuckoo\u2019s design philosophy centers around ease of use and availability. It\u2019s built to function anywhere\u2014no need for rehearsal or warm-ups. This kind of accessibility is crucial in today\u2019s fast-paced global economy.\n\n**Team and Support:**\nWith a backing from Y Combinator and oversight from experienced leaders like Michael Seibel as their group partner, Cuckoo Labs is positioned for growth. The tiny but mighty team is dedicated to evolving their product as they gather more insights from users and real-world applications.\n\n**Conclusion:**\nIn an increasingly connected world, Cuckoo Labs stands out for its commitment to \"speaking the language of your customers,\" proving that great technology isn't just about innovation\u2014it's about connection. If you\u2019re looking to bridge communication gaps and enhance your interactions on the global stage, giving Cuckoo a try is undoubtedly worth your while. Check out their offerings at [Cuckoo Labs](https://www.cuckoo.so/) today!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c5cd51fc5fadaa80f4f39b4510afbbf5c073e8d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191108Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1aaff23ef1d02cc53daadbc13e3bcff396cbe2c4e058461a85fb8794d68dc417",
+    "social_links": [
+        "https://www.linkedin.com/company/cuckoo-labs",
+        "https://x.com/cuckoohq",
+        "https://www.crunchbase.com/organization/cuckoo-27e2"
+    ],
+    "logo_path": "data/logos\\Cuckoo_Labs_logo.png"
+}

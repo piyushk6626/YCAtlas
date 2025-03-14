@@ -1,0 +1,35 @@
+{
+    "Links": "https://www.ycombinator.com/companies/tamlabs",
+    "Name": "TamLabs",
+    "Headline": "Transforming Word into an AI Editor",
+    "Batch": "W25",
+    "Description": "TamLabs transforms Microsoft Word into an AI-native document editor. Our plugin enables instant document changes with git-style previews, automated comment implementation, and formatting preservation.",
+    "Activity_Status": "Active",
+    "Website": "https://tamlabs.ai",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/jared-friedman",
+    "Group_Partner": "Jared Friedman",
+    "Company_Linkedin": "https://www.linkedin.com/company/tamlabs",
+    "Company_Twitter": "",
+    "Tags": "industry:finance; industry:productivity; industry:legal; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/tamlabs"
+    ],
+    "logo_path": "data\\logos\\TamLabs.png",
+    "Active_Founders": [
+        {
+            "Name": "Ben Doolan, COO & Founder",
+            "Description": "Founder at TamLabs. Consumer PE data scientist @ L Catterton. PE consultant @ EY-Parthenon. Lobbyist & policy analyst in DC @ Brownstein. Studied physics, classics & data science @ Georgetown.",
+            "LinkedIn": "https://www.linkedin.com/in/ben-doolan-66aa64204/"
+        },
+        {
+            "Name": "Joshua Doolan, CEO & Founder",
+            "Description": "Founder & CEO at TamLabs (W25). Previously, Blackstone Data Science, deployed AI solutions across PE portfolio and led data science diligence for PE. Harvard AB/SM in Computer Science, focus in AI.",
+            "LinkedIn": "https://www.linkedin.com/in/joshua-doolan"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**TamLabs: Transforming Document Editing with AI**\n\nFounded in 2025 and hailing from the tech hub of San Francisco, TamLabs is on a mission to revolutionize how we work with documents by turning Microsoft Word into an AI-centric editing powerhouse. As part of Y Combinator's Winter 2025 batch, this startup, currently comprised of just two employees, is nimble enough to innovate rapidly while backed by a reputable accelerator.\n\nTamLabs' plugin integrates seamlessly into Microsoft Word, allowing users to make instant document edits through a natural chat interface. It's as if your document editing just got a personal AI assistant\u2014just describe the changes you want, and voil\u00e0! Whether it\u2019s automating comment implementation or preserving formatting, TamLabs takes the chaos out of document revisions. Think of it as a smart meeting of Git\u2019s version control and the user-friendly interface of Word.\n\nTheir features are built with efficiency in mind. You can edit documents via chat, preview changes side-by-side for context, and maintain impeccable formatting. Even better, soon-to-launch features like smart rewrites and predictive navigation are poised to further streamline your workflow, making it easier to focus on what really matters\u2014your content.\n\nTamLabs caters to a variety of use cases. Whether you're drafting professional documents, collaborating with a team, or just keeping your resume in tip-top shape, their AI helps you refine your messaging while keeping everything consistent. \n\nTo put it simply, TamLabs is not just another productivity tool; it's a game-changer for anyone who spends time editing documents by making tedious tasks smoother and more intuitive. You can get started and see the AI in action through their website [TamLabs](https://tamlabs.ai). \n\nWith this smart integration, the future of document editing is not just bright\u2014it's brilliantly efficient."
+}

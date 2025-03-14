@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/konstructly",
+    "name": "Konstructly",
+    "headline": "The Modern Operating System for Construction",
+    "batch": "W24",
+    "description": "Konstructly is the first piece of software for general contractors which ties payments to work approvals. It makes it possible to accurately assess what's been built on site and how much should be paid. \r\n\nKonstructly prevents overspend in construction by bridging the gap between those responsible for the payments in construction (back office) and those responsible for completing and managing the build (production). \r\n\nWe digitise invoicing and payment approvals and connect them to the respective quality checks of the works, trade handovers and live progress. All of which are currently managed by unlinked, separate processes and data structures. \r\n\nThe visibility we provide not only streamlines manual processes and allows much better schedule and payment management, it also incentivises productivity from subcontractors to ensure they get paid on time, in full.",
+    "activity_status": "Active",
+    "website": "https://konstructly.com/",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:construction; industry:b2b; industry:enterprise",
+    "founders": [
+        {
+            "name": "Stefan Vukcevic, Founder",
+            "description": "Ex-Revolut pirate turned construction romantic.  \n\nHell-bent on getting construction to levels of productivity and efficiency seen in industries like IT, media and professional services. \n\n#makeconstructiongreatagain",
+            "linkedin": "https://linkedin.com/in/stefanvukcevic"
+        },
+        {
+            "name": "John Hesler, Founder",
+            "description": "Embarked on my construction journey at the age of 16, I've relentlessly climbed the industry ladder, starting from the grassroots and ascending to the summit. With a profound commitment to excellence,I've cultivated a wealth of knowledge that spans the entire construction spectrum. Now, as a pivotal force behind Konstructly, I'm excited to channel my expertise towards revolutionising the construction Industry worldwide.",
+            "linkedin": "https://www.linkedin.com/in/john-hesler/"
+        },
+        {
+            "name": "Dima Mikhailovich, Founder",
+            "description": "MIPT, Bostongene, Revolut, JPMorgan Chase, Konstructly\nToo soft for a Software Developer\nToo tech for a Product Manager",
+            "linkedin": "https://linkedin.com/in/dmitryvim"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Konstructly: Revolutionizing Construction Payments**\n\nFounded in 2023 and based in London, Konstructly is carving out a niche in the construction industry. Their mission? To build \u201cThe Modern Operating System for Construction.\u201d They\u2019re not just another startup; they\u2019re tackling one of the biggest pain points in construction: the disconnect between payment processes and actual work done.\n\n### The Problem They're Solving\n\nConstruction projects often fall victim to overspending. Why? Because the back office\u2014the folks handling payments\u2014often doesn\u2019t have real-time visibility into what\u2019s happening on-site. Konstructly bridges that gap. By linking payment approvals directly to work quality checks and live progress updates, they offer a clearer view into what\u2019s been built and how much should be paid.\n\n### What They Offer\n\nAt its core, Konstructly provides a suite of smart software tools that digitize invoicing and payment approval processes:\n- **Change Management**: Effortlessly link subcontractor Site Instructions to variations and costs. Everything\u2019s in one place, so nothing falls through the cracks.\n- **Valuations & Payment Applications**: Streamlined payment applications mean you can value them in just two clicks. Automation takes care of the tedious stuff.\n- **Live Build Progress**: Capture real-time updates, ensuring that the valuation process is robust and reflective of true site progress.\n- **Quality Assurance**: Hold back payments if necessary, tying quality issues directly to payment stages. This creates a productive environment for subcontractors, incentivizing them to maintain high standards.\n\n### The Team and Support\n\nWith a lean team of just six, Konstructly is part of the Y Combinator Batch W24, under the guidance of Group Partner Brad Flora. They\u2019re building a community around this innovative software, already trusted by various contractors across the UK. \n\n### Looking Ahead\n\nThe construction industry is ripe for disruption, and with Konstructly\u2019s approach, they\u2019re not just photobombing the space; they\u2019re redesigning the whole framework. If you\u2019re involved in construction, this is a tool that promises efficiency, transparency, and ultimately, savings. Curious to see it in action? Head over to their [website](https://konstructly.com/) and request a demo.\n\nIn a nutshell, Konstructly is not just another software solution; it's a transformative approach to managing construction processes that emphasizes clarity, accountability, and efficiency. In a world where complex projects often lead to chaos, Konstructly aims to bring order.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/829d2d492090c2f94c05a0aa314977b97fbca7a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191454Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=72591b34367ec0dc53b075a287a902affa6b0be1cce6abb2c4c007f385e77303",
+    "social_links": [
+        "https://www.linkedin.com/company/konstructly/",
+        "https://www.google.com/search?q=konstructly+crunchbase&rlz=1C5CHFA_enRS948RS948&oq=konstructly+crunchbase&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhBFGEAyBggDEEUYPdIBCDMzNzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+    ],
+    "logo_path": "data/logos\\Konstructly_logo.png"
+}

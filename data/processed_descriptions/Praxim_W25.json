@@ -1,0 +1,33 @@
+{
+    "Links": "https://www.ycombinator.com/companies/praxim",
+    "Name": "Praxim",
+    "Headline": "AI-native email and office file editing on one platform",
+    "Batch": "W25",
+    "Description": "Praxim is an AI-native workspace that organizes all your communications and documents into one unified platform. Praxim is the first such platform that can AI edit formatted files and documents like DOCX and PDF directly, reply to emails and text, and answer queries, all with company and user specific knowledge in mind.",
+    "Activity_Status": "Active",
+    "Website": "https://www.praxim.ai/",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/jared-friedman",
+    "Group_Partner": "Jared Friedman",
+    "Company_Linkedin": "",
+    "Company_Twitter": "",
+    "Tags": "industry:artificial-intelligence; industry:saas; industry:consumer; industry:b2b; industry:databases",
+    "social_links": [],
+    "logo_path": "data\\logos\\Praxim.png",
+    "Active_Founders": [
+        {
+            "Name": "Richie Hsiung, Founder",
+            "Description": "Richie is the Co-Founder of Praxim. He studied Math/CS/Philosophy at Yale.\n\nHe was a USA Math Olympian and won the American Invitational Math Examination with a perfect score. The AIME is now one of the most commonly used math benchmarks for AI models.",
+            "LinkedIn": "https://www.linkedin.com/in/richiehsiung/"
+        },
+        {
+            "Name": "Frank Li, Founder",
+            "Description": "Frank is the Co-Founder of Praxim. He studied pure mathematics and computer science at Yale.\n\nHe was a USA Math Olympian and an ML/AI researcher at the Yale NLP Lab and the Fields Institute in Toronto.",
+            "LinkedIn": "https://www.linkedin.com/in/frank-li-6866411b0/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Praxim: Redefining Your Digital Workspace with AI**\n\nFounded in 2025 and a proud member of Y Combinator's Batch W25, Praxim is on a mission to revolutionize the way we handle emails and office documents. With a laser focus on integrating AI into daily tasks, Praxim offers a unified platform that simplifies communication and document management.\n\nAt its core, Praxim combines the capabilities of AI with traditional office tools. It allows users to edit formatted files like DOCX and PDFs directly, respond to emails, and answer queries\u2014all while drawing on company and user-specific knowledge. This means your workspace is not just smarter; it\u2019s tailored to you.\n\nCurrently, Praxim operates with a compact team of just two employees, yet they\u2019re tackling a big challenge in the tech landscape. Their service categorizes neatly within the realms of artificial intelligence, SaaS, consumer products, B2B solutions, and databases\u2014signaling a versatile application across various sectors.\n\nWant to see Praxim in action? They invite potential users to join their waitlist, highlighting their commitment to bringing this innovative platform to a broader audience.\n\nIf you\u2019re ready to reinvent your workspace and embrace the future of office productivity, check out [Praxim's website](https://www.praxim.ai/) for more information.\n\nIn a world clawing for efficiency, Praxim isn't just a step forward; it\u2019s a leap into the future of work."
+}

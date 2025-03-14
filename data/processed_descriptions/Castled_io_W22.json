@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/castled-io",
+    "name": "Castled.io",
+    "headline": "Customer Engagement software on top of BigQuery/Snowflake",
+    "batch": "W22",
+    "description": "Castled.io is a Customer Engagement Platform (CEP) that brings the power of data in the warehouse to the marketer.  \r\n\nEssentially, Castled.io is similar in feature set to Braze, CustomerIO or MoEngage with a major difference - We don't store your customer data. Instead Castled sits on top of your cloud data warehouse to create segments and engage them across channels.",
+    "activity_status": "Active",
+    "website": "https://castled.io/",
+    "founded_date": 2021.0,
+    "team_size": 8.0,
+    "location": "Bengaluru, India",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas",
+    "founders": [
+        {
+            "name": "Franklin George, Founder",
+            "description": "My background is in engineering. I have extensive experience building and scaling enterprise-grade storage systems. I enjoy going deep into a problem and spending days or even weeks thinking about it.\n\nI am starting my entrepreneurial journey with Castled Data and I am fortunate to have the right set of people by my side.\n\nOutside of work I enjoy biking and doing a little bit of whatever it takes to keep me fit. I also like cooking and am always happy to try anything new.",
+            "linkedin": "https://www.linkedin.com/in/frgeorge"
+        },
+        {
+            "name": "Abhilash Thulaseedharan, Founder",
+            "description": "As a coder by chance and an entrepreneur by choice, I love to design systems which is to make an impact on the people around me.\n\n15 years of experience in enterprise product development, leading the development of mission-critical systems like flight operations and cargo handling for one of the biggest airlines in the world, where downtime of even a minute meant grounded flights and millions of dollars in loss.\n\nCycling, running and working out keep me sane.",
+            "linkedin": "https://www.linkedin.com/in/abhilash-thulaseedharan-3a3a451a/"
+        },
+        {
+            "name": "Arun Thulasidharan, Founder",
+            "description": "I was the founding engineer of leading startups like MediaIQ and Hevodata and was among the initial 10 employees of both these companies. I have also spent considerable time in large companies like Flipkart and Applied Materials. \n\nBesides that, I am a huge movie buff and like watching and playing cricket.",
+            "linkedin": "https://www.linkedin.com/in/arun-thulasidharan-53a1322b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Castled.io: Revolutionizing Customer Engagement through Data Warehouses**\n\nFounded in 2021 and hailing from Bengaluru, India, Castled.io is a customer engagement platform that's redefining how marketers interact with their data. Being part of Y Combinator's Winter 2022 batch, this startup is making waves with its innovative approach to customer engagement by leveraging existing data in cloud data warehouses like BigQuery and Snowflake.\n\n**What Makes Castled.io Different?**\n\nUnlike conventional platforms like Braze, CustomerIO, or MoEngage, Castled.io doesn\u2019t store your customer data. Instead, it operates on top of your existing data warehouse. This means marketers can create intricate customer segments and engage with their audience effectively across various channels without compromising data security. The platform safeguards your data by keeping it securely within your own infrastructure.\n\n**Key Features:**\n\n1. **Visual Audience Builder**: Easily create tailored customer segments.\n2. **Workflow Automation**: Design omnichannel customer journeys.\n3. **Data Activation**: Sync your warehouse data with external tools effortlessly.\n4. **Engagement Actions**: Gain insights and unlock powerful engagement strategies.\n5. **Push Delivery Booster**: Achieve industry-leading delivery rates for push notifications.\n\n**Channels of Engagement:**\nCastled.io supports a plethora of channels for customer interaction, including mobile push notifications, email messaging, in-app messaging, app inbox, and even SMS and WhatsApp messaging. This flexibility allows brands to engage their customers where they are, ensuring a cohesive communication strategy.\n\n**Addressing Pain Points:**\n\nCastled.io was born out of necessity, addressing the glaring inadequacies of traditional customer engagement platforms:\n- **Data Fragmentation**: It helps unify customer data scattered across multiple platforms.\n- **Cost Efficiency**: The platform does not charge based on the volume of customer data stored, allowing companies to save on costs.\n- **Vendor Lock-In**: By allowing companies to maintain control over their data, Castled helps avoid the pitfalls of being locked into a single vendor.\n- **Data Security**: The customer data remains protected and never leaves your own data warehouse.\n\n**Why Choose Castled.io?**\n\nWith a small but dedicated team of eight, Castled.io has already made significant strides, empowering brands across ten countries. Its unique warehouse-native approach and focus on helping marketers create effective, personalized engagement campaigns set it apart. Customers report significant savings\u2014up to 70%\u2014on their engagement costs thanks to its efficient model.\n\nIn a world where customer interactions matter more than ever, Castled.io offers a compelling solution that combines the power of your data with smart, flexible tools to enhance customer engagement. If you want to stay ahead in marketing while keeping your customer data secure, Castled.io is a platform worth exploring.\n\nFor a deeper dive into what they offer, check out their website: [Castled.io](https://castled.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1903bd82722de35a61f2c70be5f8802ef562f102.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191044Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f8f5b37a36eca821bffb4d90e7e603f333fccebac46bf55aa56748e9b24b1fdc",
+    "social_links": [
+        "https://www.linkedin.com/company/castled-data",
+        "https://twitter.com/CastledHQ",
+        "https://www.crunchbase.com/organization/castled-data"
+    ],
+    "logo_path": "data/logos\\Castled.io_logo.png"
+}

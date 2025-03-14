@@ -1,0 +1,46 @@
+{
+    "Links": "https://www.ycombinator.com/companies/augento",
+    "Name": "Augento",
+    "Headline": "Improving Agents through Reinforcement Learning",
+    "Batch": "W25",
+    "Description": "Augento is the platform for DeepSeek R1 (like) fine tuning as a service. A user gives us an Agent and where it went wrong and we'll improve it.\r\nWe provide a turn key solution to customers to act on poorly performing agents, by providing feedback in our UI to the agent and we'll take care of improving the model with reinforcement learning.\r\nImagine a startup developing a tool for law firms, enhanced with an AI to assist lawyers in selecting clients. Currently, this startup would face significant challenges in building such a tool, as it\u2019s crucial to provide accurate and consistent responses every time. With our technology, the startup can enhance the initial model by incorporating its own experience and feedback from beta users, eventually surpassing the initial model and delivering reliable results on every query.",
+    "Activity_Status": "Active",
+    "Website": "https://augento.ai",
+    "Founded_Date": "2024",
+    "Team_Size": "4",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "Group_Partner": "Gustaf Alstromer",
+    "Company_Linkedin": "https://www.linkedin.com/company/augento/",
+    "Company_Twitter": "",
+    "Tags": "industry:aiops; industry:developer-tools; industry:ai; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/augento/",
+        "https://github.com/augento"
+    ],
+    "logo_path": "data\\logos\\Augento.png",
+    "Active_Founders": [
+        {
+            "Name": "Lukas Ego, Founder",
+            "Description": "Co-founder & Chief Research Officer @ Augento. Previously developed deep learning optimizers at ETH Zurich, improving SGD's generalization performance across CV. Former Engineer at SMA working on databases.\nStudied CS B.S. at ETH Zurich, and was enrolled in Data Science M.S. at ETH Zurich.",
+            "LinkedIn": "https://www.linkedin.com/in/ego-lukas"
+        },
+        {
+            "Name": "Hannes Furmans, Founder",
+            "Description": "Co-founder & CTO @ Augento\nDid CS at ETH Z\u00fcrich. Did open source work on libp2p. \nBuilding high performance AI systems and real life reinforcement learning.",
+            "LinkedIn": "https://www.linkedin.com/in/hannes-furmans-52923625a/"
+        },
+        {
+            "Name": "Linus Meierh\u00f6fer, Founder",
+            "Description": "Co-founder & CEO @ Augento. Previously researched quantified complexity theory. Worked in Quantitative Engineering @ DRW. Studied CS @ ETH Zurich.",
+            "LinkedIn": "https://linkedin.com/in/linus-meierh\u00f6fer-7a4596259"
+        },
+        {
+            "Name": "Josef Zoller, Founder",
+            "Description": "Co-founder & Chief Engineering Officer @ Augento. CS @ ETH Z\u00fcrich. I\u2019m a full-stack software engineer but specialize in networks, systems programming, and ML.",
+            "LinkedIn": "https://www.linkedin.com/in/zollerboy1"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Augento: Transforming Agent Learning with Reinforcement Learning**\n\nFounded in 2024 and part of Y Combinator's W25 batch, Augento operates from the tech hub of San Francisco. With a compact team of four, including Group Partner Gustaf Alstromer, Augento is on a mission to enhance AI agents through reinforcement learning, ultimately making artificial intelligence more reliable and responsive.\n\n**What Does Augento Do?**\nAt its core, Augento is an end-to-end platform designed for fine-tuning large language model (LLM) agents. Think of it as a tool that not only improves AI models based on user feedback but also acts as a bridge to optimize model performance for various applications. For instance, if a startup is trying to build an AI tool for law firms to assist in client selection, Augento can step in wherever the existing AI falls short. It helps gather user feedback on failures and integrates that into model training, ensuring the AI learns and improves continuously.\n\nYou simply feed Augento the agents that need fixing, along with insights on where they went wrong, and it takes it from there\u2014leveraging reinforcement learning to recalibrate the model. This is particularly appealing for those who might be using existing LLMs and are concerned about consistent output quality.\n\n**How It Works**\nGetting started with Augento is straightforward. Users only need to add two lines of code to intercept requests to an LLM provider. This allows Augento to collect data and feedback effortlessly in the background. Its platform continuously fine-tunes the model while monitoring performance, ensuring that when feedback is provided, it contributes to immediate improvements. Additionally, users can switch to a refined model without messing with the underlying code\u2014talk about convenience.\n\n**Current Tagline**\n\u201cYell at Your AI Models So They Learn\u201d\u2014that's Augento's cheeky way of putting it. Here, the emphasis is on interaction; users are not just passive observers, but active participants in their AI's learning journey. The platform is engineered to be intuitive, easing the burden on developers and allowing them to focus on more significant tasks.\n\n**The Vision**\nIn a world where AI failure can lead to costly mistakes\u2014especially in fields like law where stakes are high\u2014Augento aims to turn that narrative around. By incorporating user feedback into a dynamic learning loop, they go beyond mere adjustments to fine-tuning; they aspire to create agents that truly understand and meet user needs.\n\n**Want to Get Involved?**\nIf you're intrigued by the potential of Augento, you can request to join their beta and start transforming your AI experience today.\n\nIn a nutshell, Augento isn't just improving agents; it's revolutionizing how we interact with AI, making it more accountable and adaptable, all while keeping it simple for developers. If you\u2019re in the San Francisco Bay area, or even just remotely curious, this is a company worth watching. Visit them at [augento.ai](https://augento.ai) to learn more."
+}

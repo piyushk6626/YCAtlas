@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/nyckel",
+    "name": "Nyckel",
+    "headline": "Classify Anything",
+    "batch": "W22",
+    "description": "Use Nyckel to train and integrate state of the art machine learning into your application. Our ML platform can be used by anyone and it only takes minutes to train your first model. Once trained, your functions is immediately deployed to production grade infrastructure.",
+    "activity_status": "Active",
+    "website": "https://www.nyckel.com",
+    "founded_date": 2021.0,
+    "team_size": 4.0,
+    "location": "CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:api; industry:ai",
+    "founders": [
+        {
+            "name": "Oscar Beijbom, Founder",
+            "description": "Oscar is the co-founder of Nyckel. He is a ML engineer and researcher with 9k citations and 20+ patents. He spent 5 years as a leader in the AV industry, been a researcher at UC Berkeley, and developed the AI behind the Hovding airbag bicycle helmet. He also developed CoralNet - the largest AI platform for coral reef image analysis. \n\nOscar has a M.S. in Eng. Physics from Lund, and a PhD in Computer Science from UCSD.",
+            "linkedin": "https://www.linkedin.com/in/oscar-beijbom-696aa6/"
+        },
+        {
+            "name": "George Mathew, Founder",
+            "description": "George is the co-founder of Nyckel. Before Nyckel, George spent 5 years at Oracle Cloud, where he led teams building Functions-as-a-Service and Application Performance Management services. He started his career at Microsoft, after which he was an early engineer at CareEvolution, where he led the development of one of the largest health information exchanges in the US.\n\nGeorge is passionate about distributed systems, data systems, and building high-performing engineering organizations.",
+            "linkedin": "https://www.linkedin.com/in/georgemathew/"
+        },
+        {
+            "name": "Dan Ott, Founder",
+            "description": "Dan Ott is the cofounder and CEO of Nyckel, the platform that is democratizing machine learning.  Since writing his first apps for Intel's 286 in the early '80s, Dan has always had a love for building great products; and through his career has gained a passion for building great organizations.",
+            "linkedin": "https://www.linkedin.com/in/danott/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Nyckel: Classify Anything with Ease\n\nFounded in 2021, Nyckel is a machine learning platform that's democratizing access to advanced ML capabilities. It emerged from Y Combinator's W22 batch and is based in California, supported by a small but dedicated team of four.\n\n#### Mission\nAt its core, Nyckel\u2019s mission is straightforward: to allow anyone to classify anything using machine learning. It enables users to train, integrate, and deploy custom ML models swiftly, often in just minutes. There's no need for a Ph.D.\u2014just a few clicks, and you're using state-of-the-art technology.\n\n#### Product and Features\nThe Nyckel platform is designed to be intuitive and user-friendly. Users can:\n- Start by uploading data and automatically test numerous models against it.\n- Receive real-time suggestions for improving accuracy through active learning.\n- Enjoy the benefits of robust infrastructure, as Nyckel handles server costs, scaling, and GPU optimization to alleviate common pains in ML development.\n\n#### Security and Compliance\nData security is paramount. Nyckel ensures that each customer's data remains isolated and confidential, boasting SOC2 and HIPAA compliance, which is critical for sectors dealing with sensitive information.\n\n#### Current Use Cases\nNyckel is making waves across various industries. Clients include eCommerce platforms utilizing auto-tagging, IoT devices for image classification, sales automation tools with intent detection, and content moderation for user-generated media. Examples include companies like Retailhub, Gardyn, LinkedClient, and Taimi, showcasing the versatility of Nyckel's offerings.\n\n#### Community and Resources\nNyckel also fosters a community through extensive documentation, blogs, and resources related to machine learning. This allows users to continuously learn and improve their understanding of ML classifications.\n\nIf you\u2019re looking to integrate machine learning into your application without the heavy lifting typically associated with it, Nyckel is worth a look. You can [book a demo](https://www.nyckel.com/<https:/meetings.hubspot.com/jtrip/nyckel-intro-chat>) or [get started](https://www.nyckel.com/</contact/>) on their website.\n\nNyckel is positioned to be a significant player in the machine learning space, providing tools that make ML accessible to everyone. Whether you're a developer or a business leader, this is a platform that can significantly cut down the time and expertise needed to build powerful, intelligent applications.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bb7f8ff262d89141c0ccb9a6eb5f2089e83ed456.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191604Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=719c9e0ce3c842274a5fe1df2e381bbb0d1d20c51d981312b21f9b68cd1bb7f1",
+    "social_links": [
+        "https://www.linkedin.com/company/nyckelai/",
+        "https://twitter.com/nyckelai",
+        "https://www.facebook.com/nyckelai"
+    ],
+    "logo_path": "data/logos\\Nyckel_logo.png"
+}

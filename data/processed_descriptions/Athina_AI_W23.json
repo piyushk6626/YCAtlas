@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/athina-ai",
+    "name": "Athina AI",
+    "headline": "Prototype, Experiment & Evaluate AI Pipelines in a Spreadsheet-like UI",
+    "batch": "W23",
+    "description": "Athina is an end-to-end platform for product teams building production-grade AI features.\r\n\n1. Prototype: Dynamic Columns let you run LLM prompts, execute code, make API calls, retrieve data, run transformations, and more (in a spreadsheet UI)\r\n\n2. Evaluate: Run evaluations within the sheet itself - there are 50+ preset evaluation metrics or you can create your own custom evals (no-code).\r\n\n3. Experiment: Change your prompt, model, retriever, or chain in just a few clicks. Technical users can run even more experiments programmatically.\r\n\n4. Compare:  Compare any number of datasets side-by-side with a diff view, and run evaluations on all of them simultaneously\r\n\n5. Observability: Monitor your LLM features in production with continuous evaluations and granular analytics.\r\n\nAthina can be used by non-technical users as well as technical users. This means PMs, QA, Data Scientists, and Engineers can collaborate to build great AI products.",
+    "activity_status": "Active",
+    "website": "https://athina.ai",
+    "founded_date": 2022.0,
+    "team_size": 5.0,
+    "location": null,
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:artificial-intelligence; industry:machine-learning; industry:ai",
+    "founders": [
+        {
+            "name": "Himanshu Bamoria, Founder",
+            "description": "Co-founder, Athina AI | Himanshu is a graduate from IIT Delhi and has been a serial entrepreneur. Before Athina, he co-founded a hyperlocal grocery delivery startup, Atcost, and scaled it from 0 -> $8M in revenue.",
+            "linkedin": "https://www.linkedin.com/in/hbamoria/"
+        },
+        {
+            "name": "Shiv Sakhuja, Founder",
+            "description": "Co-founder, Athina AI (https://athina.ai)\n\nPreviously worked as an engineer on Google Ad Recommendations, and Nest Platform. Prior to that, worked at Troops.ai (acq. by Salesforce), building natural language chatbots for work.",
+            "linkedin": "https://www.linkedin.com/in/shivsakhuja/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Athina AI: Streamlining AI Development With a Spreadsheets Twist**\n\nFounded in 2022 and hailing from Y Combinator's W23 batch, Athina AI is a collaborative platform built specifically to help product teams prototype, evaluate, and experiment with AI pipelines\u2014all through a user-friendly, spreadsheet-like interface. The company is based in a remote, dynamic environment with a lean team of five employees, and it has recently attracted $3M in funding to further enhance its capabilities.\n\n**Mission Statement:**\nAthina AI aims to democratize AI development by making it accessible for both technical and non-technical users. This means allowing product managers, QA specialists, data scientists, and engineers to work seamlessly together.\n\n### Key Features\n\n- **Prototype:** With dynamic columns, you can execute LLM prompts, run code, make API calls, and more\u2014all while enjoying the familiar layout of a spreadsheet.\n  \n- **Evaluate:** You can assess AI outputs directly in the sheet using more than 50 preset evaluation metrics or create your custom ones, all with no coding necessary.\n\n- **Experiment:** Adjust your prompts, models, or retrievers effortlessly\u2014technical users can also dive deeper with programmable experiments.\n\n- **Compare:** Easily juxtapose multiple datasets using a diff view, executing evaluations on each simultaneously.\n\n- **Observability:** Keep track of your AI features in real-time with continuous evaluations and detailed analytics to ensure optimal performance.\n\n### Collaboration Made Easy\nAthina AI champions collaboration by bridging the gap between technical coders and less technical PMs, allowing teams to engage in AI experiments, dataset evaluations, and prompt management collectively. \n\n### Core Audience\nWhether you\u2019re a data scientist needing advanced analytics, a product manager looking for a no-code solution, or a QA specialist ensuring the quality of your AI outputs, Athina fits the bill. Its design empowers diverse teams to enhance AI product development without getting bogged down by complexity.\n\n### Why Athina?\nAthina is designed to accelerate the shipping of AI projects to production tenfold. In an age where speed and adaptability are paramount, this platform stands out for its user-centric approach and cutting-edge functionality, enabling users to build powerful AI applications faster and more efficiently.\n\nIn short, if your team is working on AI projects, Athina AI is worth exploring. With a robust set of features geared towards making AI accessible, it might just be the tool that can transform how your team works with artificial intelligence.\n\nCheck them out on their website: [Athina AI](https://athina.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/839180a0162ee7f4f61aca8ea06c41fab3feeb09.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191008Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=16639335955acf57081ce1b6013996dea03ff6ed5efa80a752b3f1091b1bc9fe",
+    "social_links": [
+        "https://www.linkedin.com/company/athina-ai",
+        "https://github.com/athina-ai"
+    ],
+    "logo_path": "data/logos\\Athina_AI_logo.png"
+}

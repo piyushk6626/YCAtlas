@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/spherecast",
+    "name": "Spherecast",
+    "headline": "AI Supply Chain Manager for Ecommerce",
+    "batch": "S24",
+    "description": "Spherecast is an AI-powered inventory management software for omni-channel e-commerce brands, supporting supply chain managers with demand planning, inventory optimization, and supplier communication.\r\n\nSpherecast tells brands when to reorder, how much, which warehouse to stock, and at what cost. It then autonomously executes these decisions by communicating with suppliers and manufacturers.\r\n\nSpherecast helps avoid stockouts and overstock, improve inventory visibility, and save time.",
+    "activity_status": "Active",
+    "website": "https://www.spherecast.ai/",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": null,
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:e-commerce; industry:supply-chain",
+    "founders": [
+        {
+            "name": "Leon Hergert, Founder",
+            "description": "Leon is the Co-founder and CEO of Spherecast (S24). He has worked in supply chain and logistics planning twice (aviation and e-commerce) and is now doubling down on the problem space with Spherecast. He has a background in Information Systems from the Technical University of Munich and Technology Management from CDTM. Besides that, he loves playing basketball.",
+            "linkedin": "https://linkedin.com/in/leonhergert"
+        },
+        {
+            "name": "Paul Dietrich, Founder",
+            "description": "Paul always wanted to work on his own projects. After building some small apps as side projects, he co-founded a software agency alongside his studies and scaled it to multiple 100k in total revenue. This helped him sharpen his skill set in full-stack development, design, and entrepreneurship. Now at Spherecast, he's responsible for building a product our customers love.",
+            "linkedin": "https://linkedin.com/in/pauldietrich98"
+        },
+        {
+            "name": "Pascal Schindler, Founder",
+            "description": "Growing up with an affinity for building, he developed a passion for the intersection of operations, machine learning, and optimization. From building robotics automation at Deadalus (YC W20) to completing his academic research with a focus on non-linear optimization at British Columbia, these experiences led him to pursue his passion as the CTO of Spherecast",
+            "linkedin": "https://linkedin.com/in/pascal-schindler"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Spherecast: Revolutionizing E-Commerce Supply Chains with AI\n\n**Company Overview**\n\nFounded in 2023 and currently part of Y Combinator's Batch S24, Spherecast is a budding company on a mission: to become the ultimate AI Supply Chain Manager for e-commerce businesses. With a compact team of just five employees, Spherecast integrates artificial intelligence into inventory management to empower omnichannel brands in managing demand, optimizing stock levels, and enhancing supplier communication.\n\n**What Spherecast Does**\n\nAt its core, Spherecast automates the intricate dance of inventory management. The software tells e-commerce brands when to reorder stock, how much to procure, and where to allocate it\u2014all while negotiating costs. The magic happens through intelligent algorithms that not only suggest optimal orders but also automate the execution by liaising directly with suppliers and manufacturers. This approach is designed to minimize issues like stockouts, reduce overstock, and increase visibility within the supply chain\u2014all critical factors in today's fast-paced e-commerce world.\n\n### Key Features\n\n1. **Automated Replenishment**: Spherecast can autonomously execute replenishment orders, drastically reducing the manual burden on supply chain teams.\n  \n2. **Inventory Optimization**: It provides strategic recommendations across multiple warehouses, ensuring optimal stock levels tailored to future demand and lead times.\n\n3. **Omni-Channel Demand Planning**: Spherecast allows brands to forecast demand effectively across various sales channels, considering seasonal trends and anomalies in past sales data.\n\n4. **Integration with NetSuite**: Spherecast syncs seamlessly with leading ERP systems like NetSuite, enhancing its utility for businesses already using these platforms.\n\n5. **Availability of Metrics**: Users can gauge the health of their inventory and supply chain through accessible metrics, helping maintain a proactive approach.\n\n### Why It Matters\n\nIn a world where e-commerce has become a staple, and consumer expectations are higher than ever, brands need robust tools to keep their supply chains agile. By eliminating tedious spreadsheet work and human error, Spherecast arms brands with the insights and automation necessary to stay competitive.\n\n### Team and Support\n\nUnder the guidance of Group Partner Tom Blomfield, Spherecast promotes a culture of innovation and responsiveness to customer needs. The company pledges to improve its users' efficiency through customized solutions tailored to their unique inventory challenges.\n\n### Conclusion\n\nIf you're looking to streamline your e-commerce supply chain and eliminate unnecessary headaches, Spherecast is setting the stage for a new era of AI-driven inventory management. They back their service with a 30-day money-back guarantee, making it easier for brands to test the waters and see the benefits for themselves.\n\n**Catch them online at** [Spherecast.ai](https://www.spherecast.ai/) to book a demo or dive deeper into their offerings. This is one company to keep an eye on as they reshape the landscape of e-commerce logistics.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f6836da71941252549e64399b0a4e0c3ea1f7e2c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191940Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ba94860714676312cb976c943edfc29d4cde7d8b71c84c17e231f0f36ad42841",
+    "social_links": [
+        "https://www.linkedin.com/company/spherecast-ai/"
+    ],
+    "logo_path": "data/logos\\Spherecast_logo.png"
+}

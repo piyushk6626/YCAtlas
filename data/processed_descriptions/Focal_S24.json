@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/focal-2",
+    "name": "Focal",
+    "headline": "AI-powered compliance operations for banks and fintechs",
+    "batch": "S24",
+    "description": "Focal enables f to effectively leverage AI to automate traditionally manual workflows. Our initial focus is geared towards helping financial institutions automate compliance, risk, and dispute operations.",
+    "activity_status": "Active",
+    "website": "https://usefocal.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:fintech; industry:saas; industry:b2b; industry:operations; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ray Morgan, CEO / Co-Founder",
+            "description": "Ray is the CEO of Focal, building AI automation for enterprise companies.\n\nBefore Focal, Ray spent 10 years at Stripe leading and scaling the core payments engineering teams (<$10B payments volume to well over $100B a year), launching new products (Stripe Issuing, new payment methods), and worked on Stripe\u2019s enterprise readiness efforts to enable enterprise accounts like Amazon. Prior to Stripe, Ray started a company that got acquired by Ebay and led the frontend engineering team at Zappos.",
+            "linkedin": "https://www.linkedin.com/in/raycmorgan/"
+        },
+        {
+            "name": "Katia Bazzi, Co-Founder",
+            "description": "Katia is the CTO of Focal, building AI automation for enterprises. \n\nPreviously, Katia was an engineering leader at Stripe -- there, she launched new financial products such as credit cards and banking as a service, processing >$6B per year. Before that, she led engineering teams at a distributed tracing startup (Lightstep) and Eventbrite after graduating from CMU.",
+            "linkedin": "https://www.linkedin.com/in/katiabazzi/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Focal is a fresh player in the fintech landscape, jumping onto the scene in 2024. Located in San Francisco and part of the Y Combinator Batch S24, the company is poised to reshape how banks and fintechs handle compliance operations using AI.\n\n**Mission and Vision**  \nFocal\u2019s mission is straightforward yet ambitious: to automate compliance, risk, and dispute operations for financial institutions. The founders, Ray Morgan and Katia Bazzi, both former Stripe executives, witnessed firsthand the inefficiencies in manual reviews cutting across the banking sector. They\u2019re tackling a pressing challenge that many in finance face\u2014balancing human resources against increasing demands from fraud, regulatory scrutiny, and operational inefficiencies.\n\n**The Problem**  \nAs the regulatory landscape grows more complex, financial institutions are relying heavily on human reviewers to comb through activities. This not only leads to slow turnaround times but also increases the likelihood of errors. Often, good accounts get falsely flagged, while harmful ones slip through the cracks. Focal aims to change this by integrating AI into these workflows, reducing reliance on humans for tasks that, while clearly defined, don\u2019t necessarily translate well to traditional software solutions.\n\n**How It Works**  \nFocal automates repetitive tasks while seamlessly integrating with existing operational frameworks. It learns from a business's unique playbooks and employs browser automation to collect critical information from various sources. This not only aids human agents in making informed decisions but helps eliminate common errors\u2014effectively streamlining operations and boosting efficiency.\n\n**Founders and Support**  \nRay Morgan, who led payments engineering at Stripe as it ballooned from $5 billion to over $500 billion in volume, and Katia Bazzi, who was instrumental in launching several new Stripe products, lead Focal. They\u2019re supported by notable backers like General Catalyst and Y Combinator, which signals strong confidence in their vision.\n\nIn essence, Focal is not just another tech startup; it\u2019s addressing real pain points in financial operations with cutting-edge solutions aimed at transforming compliance processes from cumbersome to streamlined. With a small team of just two but a big idea, they\u2019re set to make waves in the financial industry. For more details, you can visit their [website](https://usefocal.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/37026299ffdfa01baa40867c1c8a04ca632ee304.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e1e0cb68d84dab4cb728563fdb9eb29c07943c83c354f9f0a4c4175efa1968c0",
+    "social_links": [],
+    "logo_path": "data/logos\\Focal_logo.png"
+}

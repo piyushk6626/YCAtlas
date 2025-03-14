@@ -1,0 +1,38 @@
+{
+    "Links": "https://www.ycombinator.com/companies/strike",
+    "Name": "Strike",
+    "Headline": "Transforming betting into a sophisticated asset class",
+    "Batch": "W25",
+    "Description": "Strike is a daily fantasy sports platform that leverages options-style contracts to reward user conviction. By offering continuous payouts instead of binary outcomes, we aim to help transform daily fantasy sports and ultimately all event contracts from a casual pastime into a sophisticated asset class.",
+    "Activity_Status": "Active",
+    "Website": "http://strikebet.app",
+    "Founded_Date": "2024",
+    "Team_Size": "3",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "",
+    "Company_Twitter": "",
+    "Tags": "industry:marketplace; industry:sports-tech; industry:gaming; industry:trading; location:san-francisco-bay-area",
+    "social_links": [],
+    "logo_path": "data\\logos\\Strike.png",
+    "Active_Founders": [
+        {
+            "Name": "Ronit Jain, Founder",
+            "Description": "Cofounder and COO of Strike",
+            "LinkedIn": "https://www.linkedin.com/in/ronitjain5"
+        },
+        {
+            "Name": "Aarav Patel, Founder",
+            "Description": "I have experience in full stack development, shallow ML, computer vision, and LLMs/RAG. Currently focused on building a sports betting platform to offer leverage to bettors.",
+            "LinkedIn": "https://www.linkedin.com/in/aaravpatel04"
+        },
+        {
+            "Name": "Ankit Raparthi, Founder",
+            "Description": "CEO and Co-Founder of Strike. Interested in sports analytics and prediction markets.",
+            "LinkedIn": "https://www.linkedin.com/in/ankitraparthi/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Company Summary: Strike**\n\n**Mission:** Strike aims to redefine betting as a sophisticated asset class rather than a mere gamble. The goal is to transform daily fantasy sports and event contracts into something more robust by leveraging options-style contracts that reward user conviction with continuous payouts.\n\n**Overview:** Founded in 2024 and part of Y Combinator\u2019s Batch W25, Strike is based in San Francisco and operates with a lean team of three. This innovative platform initially launched as a daily fantasy sports service but is evolving to offer a broader range of betting experiences that are more nuanced and engaging. They offer features like real-time payout calculations and a user interface designed for serious bettors. \n\n**Key Features:**\n- **Continuous Payouts:** Unlike traditional betting, where the outcome is binary, Strike allows for ongoing payouts based on player performances. This model encourages users to engage with the betting process more deeply.\n- **User Engagement:** The platform is geared toward providing a player-focused experience, positioning itself as a tool for bettors who want more than just luck on their side.\n\n**Backed by Y Combinator:** This connection not only provides credibility but also opens up a network of resources and support crucial for a startup in the tech and sports gaming space.\n\n**Team and Partners:** Notably, they have Harj Taggar as their Group Partner, bringing valuable expertise and a network to the table.\n\n**Tags:** Strike is categorized under multiple relevant tags, including marketplace, sports-tech, gaming, and trading, situating it at the intersection of various booming industries in the San Francisco Bay Area.\n\n**Current Offerings:** Users can currently join a waitlist for an upcoming mobile app that promises exclusive access and features. Meanwhile, the platform engages users with a dynamic payout calculator, showcasing players like Stephen Curry and LeBron James, allowing them to estimate potential payouts based on specific performance lines.\n\nIn a nutshell, Strike is not just another betting platform; it\u2019s an ambitious attempt to elevate betting to a whole new level of sophistication\u2014turning casual gambling into a serious venture. If you\u2019re intrigued by how this will reshape the industry, keep an eye on what they roll out next! For more information, check out their website at [strikebet.app](http://strikebet.app)."
+}

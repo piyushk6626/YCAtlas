@@ -1,0 +1,49 @@
+{
+    "links": "https://www.ycombinator.com/companies/notabene",
+    "name": "Notabene",
+    "headline": "Software to manage risk  in crypto transactions",
+    "batch": "S20",
+    "description": "Notabene helps businesses perform crypto transactions in a regulatory compliant way. Think of us as the SWIFT network for Crypto.\r\n\nNew global regulations for crypto transactions are here and will be enforced over the next year. Businesses now have to follow strict rules similar to banks, or shut down. \r\n\nWe provide a SaaS platform that allows businesses to perform due-diligence on their counter-parties and manage the risk of incoming and outgoing transactions.",
+    "activity_status": "Active",
+    "website": "https://notabene.id",
+    "founded_date": 2020.0,
+    "team_size": 33.0,
+    "location": "New York",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:crypto-web3; industry:regtech; location:new-york",
+    "founders": [
+        {
+            "name": "Pelle Braendgaard, Founder",
+            "description": "Pelle Braendgaard is a co-founder of Notabene. He was the co-founder of uPort, the Identity platform from ConsenSys built on Ethereum. Has more than 25 years experience Europe, US, Africa, Caribbean, and Latin America. From being Alta Vista\u2019s first webmaster to developing secure communication platforms for doctors at Doximity.  As an early member of the Financial Crypto community, he built pre blockchain crypto platforms, helped develop OAuth, and brought Bitcoin to Africa with Kipochi.",
+            "linkedin": "https://www.linkedin.com/in/pelleb/"
+        },
+        {
+            "name": "Andres Junge, Founder",
+            "description": "Developer since 1985. Yaykuy Bitcoin Chile founder. Consensys / uPort co-founder. Notabene co-founder and CTO. Micael Waldorf School co-founder. Have a lovely wife and two awesome kids.",
+            "linkedin": "https://www.linkedin.com/in/ajunge"
+        },
+        {
+            "name": "Ania Lipinska, Founder",
+            "description": "Ania is a UX designer and Head of Product at Notabene.   She has experience leading a variety of design projects for both start-ups and established companies (Comcast, Booking.com, Blade). \nShe brings an unapologetically customer-centric approach to the team.",
+            "linkedin": "https://www.linkedin.com/in/ania-lipinska/"
+        },
+        {
+            "name": "Alice Nawfal, Founder",
+            "description": "Alice Nawfal is COO of Notabene. Her role is to combine business strategy with hands-on execution, while navigating a complex regulatory landscape. Prior to Notabene, she co-lead uPort, a platform for user-controlled data. She comes from a management consulting and policy background, having worked at Bain and the Economist, as well as fintechs like Prodigy Finance and norbloc. She has an MBA from Wharton, a policy degree from the Harvard Kennedy School, and Math/Economics degrees from MIT.",
+            "linkedin": "https://www.linkedin.com/in/alicenawfal/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Notabene: Your Key to Crypto Compliance**\n\nNotabene is a fintech startup founded in 2020 and proudly part of Y Combinator's Batch S20. Based in New York, with a growing team of 33 employees, Notabene positions itself as the bridge between crypto transactions and regulatory compliance\u2014essentially the SWIFT network for crypto.\n\nAs businesses scramble to adapt to new global regulations for crypto transactions, Notabene steps in with its smart SaaS platform. It's designed to help companies conduct due diligence on their counterparties and manage transaction risks\u2014both incoming and outgoing. In a time when failure to comply with regulations could mean the end for many crypto businesses, Notabene provides an essential lifeline.\n\nIn the wake of rapidly evolving regulatory landscapes similar to traditional banks, companies can no longer afford to operate under the old guard of anonymity that crypto once championed. Notabene enables these businesses to identify and halt illicit activities before they manifest. \n\nWith access to a robust network of over 1,500 Virtual Asset Service Providers (VASPs), 200 customers, and coverage across 85 jurisdictions, they've already facilitated an astounding $600 billion in transaction volume. They offer various features like the **SafeTransact** platform which integrates tools for complete compliance with the FATF's travel rule\u2014ensuring that businesses can exchange encrypted data securely without the technical pain of integration. \n\nNotabene's mission is clear: to simplify compliance in a world that's only going to demand more transparency. Their solutions come equipped with high-grade security protocols and a user-friendly interface, allowing businesses to start screening their transactions in minutes.\n\nFor crypto companies looking to thrive in this regulatory environment, Notabene is more than just a tool; it\u2019s a strategic partner. If you're aiming to ensure compliance and safeguard your operations in the crypto space, you might want to take a closer look at what Notabene has to offer.\n\nExplore more at [notabene.id](https://notabene.id) to realize the full potential of compliant crypto transactions.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7efea6e97a8c6dc1a6dddf17317ad133c8e611e1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191601Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8479445abbcd72655a85abc7e925713d8e46f98d49e660bdabc2499c97282109",
+    "social_links": [
+        "https://www.linkedin.com/company/notabene-id",
+        "https://twitter.com/notabene_id",
+        "https://www.crunchbase.com/organization/notabene-86d2",
+        "https://github.com/Notabene-id"
+    ],
+    "logo_path": "data/logos\\Notabene_logo.png"
+}

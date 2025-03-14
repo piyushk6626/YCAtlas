@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/superglue",
+    "name": "superglue",
+    "headline": "a proxy server for automated data transformation",
+    "batch": "W25",
+    "description": "superglue is an open-source tool that sits as a proxy in front of your API calls, automatically transforming data into exactly the format your system needs. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
+    "activity_status": "Active",
+    "website": "https://superglue.cloud/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:open-source; industry:api; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Stefan Faistenauer, Founder",
+            "description": "Building superglue, an open source tool to automate data transformation. Former Software engineer and Google APM with a master\u2019s from Stanford.",
+            "linkedin": "https://www.linkedin.com/in/stefan-faistenauer/"
+        },
+        {
+            "name": "Adina Goerres, Founder",
+            "description": "Building superglue. Previously worked on GTM at Scalable Capital and commercial projects at Farfetch. Built wantviva.com, a community marketplace for aesthetically pleasing objects. Write girlveryonline.substack.com to dissect how culture affects business. \nB.B.A. from Reichman University, Master's in CS and Finance from TUM and CDTM",
+            "linkedin": "https://linkedin.com/in/adinagoerres"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Superglue**\n\nFounded in 2024 and hailing from the vibrant tech nest of San Francisco, Superglue is a promising player in the realm of data integration, currently participating in Y Combinator's Batch W25. With a lean team of just two, they're moving fast to change the way businesses handle data transformation.\n\n**Mission and Vision**\n\nSuperglue's mission is straightforward yet powerful: act as a proxy server for automated data transformation. Imagine a tool that takes the hassle out of data integration by automatically converting and structuring information from various systems into a format your applications require. Developers no longer need to write and maintain complex code for every data integration task; they can simply define their needs, and Superglue will do the heavy lifting.\n\n**What They Do**\n\nSuperglue operates as an open-source tool, positioned strategically in front of your API calls. It extracts, maps, and transforms data seamlessly. This means integration engineers can focus on more strategic coding tasks rather than slogging through mundane data formatting. Think of it as the translator for your technical needs, ensuring that data speaks the language your systems understand.\n\nIn more practical terms, Superglue allows developers to simplify the convoluted processes involved in handling different data structures and inconsistent formats. It effectively normalizes the chaos, automating transformations that would otherwise require extensive manual coding.\n\n**Key Features**\n\n- **Automated Transformation**: Automatically adjusts the data format as per user specifications.\n- **Open Source**: Encourages contributions and adaptations from the developer community.\n- **User-Friendly Tools**: Offers straightforward documentation and pricing plans to facilitate easy adoption.\n\n**Getting Involved**\n\nAre you interested in diving in? Superglue provides various options for potential users:\n- **Try it out**: You can test the service via their [app](https://superglue.cloud/<https:/app.superglue.cloud>).\n- **Book a demo**: Experience how Superglue can transform your data workflow.\n- **Join the community**: Engage with other users on Discord to exchange ideas and tips.\n\n**Future Prospects**\n\nWith its current focus on providing efficient data transformations, Superglue is positioned well in the markets of artificial intelligence, developer tools, and application programming interfaces (APIs). Their continuing evolution\u2014especially under the guidance of Group Partner Tom Blomfield\u2014holds promise for developers looking to streamline their workflow and foster innovation without being bogged down by the intricacies of data formats.\n\nFor more information, check out their website at [Superglue.cloud](https://superglue.cloud/). It's a startup that's not just about gluing data together but ensuring that it talks fluently and understandably across different platforms\u2014an essential tool for modern developers.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/008c3723418954b3816572db11ea68276e326843.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191958Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a1878cc581eb48a3a66f758fe53786bdfa0ca40fec4717e7da7df2dc69e8894c",
+    "social_links": [
+        "https://www.linkedin.com/company/superglue-ai/",
+        "https://x.com/superglue_d"
+    ],
+    "logo_path": "data/logos\\superglue_logo.png"
+}

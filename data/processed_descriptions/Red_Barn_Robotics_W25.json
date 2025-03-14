@@ -1,0 +1,40 @@
+{
+    "Links": "https://www.ycombinator.com/companies/red-barn-robotics",
+    "Name": "Red Barn Robotics",
+    "Headline": "A Roomba for weeds on a farm.",
+    "Batch": "W25",
+    "Description": "We are building an autonomous robot to precisely eliminate weeds and leave crops untouched. Despite $100 billion being spent annually on weed control, weeds still cost the US economy $46B/year. Weeds steal sunlight and nutrients from crops, forcing farmers to choose between higher costs and lower yields. Moreover, many farms still rely on hand labor to control weed growth. The process is slow, expensive, and increasingly difficult due to constant labor shortages (1 out of every 5 US farm positions go unfilled each year). Our robot nicknamed the Field Hand is able to automate one of the worst jobs on a farm and will help healthily feed the world.",
+    "Activity_Status": "Active",
+    "Website": "https://www.redbarnrobotics.com",
+    "Founded_Date": "2023",
+    "Team_Size": "3",
+    "Location": "Seattle, WA",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/brad-flora",
+    "Group_Partner": "Brad Flora",
+    "Company_Linkedin": "https://www.linkedin.com/company/red-barn-robotics",
+    "Company_Twitter": "",
+    "Tags": "industry:robotics; industry:agriculture; industry:sustainable-agriculture; location:seattle",
+    "social_links": [
+        "https://www.linkedin.com/company/red-barn-robotics"
+    ],
+    "logo_path": "data\\logos\\Red_Barn_Robotics.png",
+    "Active_Founders": [
+        {
+            "Name": "Adam Iseman, Founder",
+            "Description": "I'm an electrical engineer by schooling but I'm the CEO of Red Barn Robotics where we are building an autonomous weeding robot to help healthily feed the world.",
+            "LinkedIn": "https://linkedin.com/in/adamiseman"
+        },
+        {
+            "Name": "Ilya Kelner, Founder",
+            "Description": "CTO/cofounder at Red Barn Robotics. Previously worked on:\nFlight software and testing architecture @ Relativity Space - Flight software lead. Built: triple string fault tolerant flight computer architecture, Dockerized flight software deployments, CI/CD for HOOTL, HITL, VITL.\nAutonomous cars @ Nvidia.\nStarlink @ SpaceX.\nXbox @ Microsoft.\nEarly employee at 2 other startups in the past.",
+            "LinkedIn": "https://www.linkedin.com/in/ilyakelner/"
+        },
+        {
+            "Name": "Alex Neff, Founder",
+            "Description": "Co-founder and COO of Red Barn Robotics",
+            "LinkedIn": "https://www.linkedin.com/in/alex-neff-2245732b/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Red Barn Robotics: A New Era in Weeding Technology**\n\nFounded in 2023 and nestled in Seattle, WA, Red Barn Robotics is on a mission to revolutionize weed control in agriculture with an innovative solution that\u2019s simple yet powerful\u2014think of it as a Roomba, but for weeds. Officially part of the Y Combinator Batch W25, this startup is tackling a pervasive issue in farming: the $100 billion industry dedicated to weed control, which still leads to a staggering economic burden of $46 billion annually in the U.S. due to decreased crop yields.\n\nWeeds are not just a nuisance; they siphon off essential sunlight and nutrients from crops, and with labor shortages plaguing the agriculture sector\u2014one in five farm jobs remains unfilled\u2014farmers often find themselves in a tough bind, either paying more or yielding less. Enter the \u201cField Hand,\u201d Red Barn's autonomous robot designed specifically to weed crops with precision, all while leaving the crops untouched. This automation frees up farmers from one of the most labor-intensive and costly burdens of farming, paving the way for more sustainable practices.\n\nWith a lean team of three, including their Group Partner Brad Flora, Red Barn Robotics embodies the sprint of modern startups, combining innovative robotics with a commitment to sustainable farming practices. They emphasize using lightweight machinery to minimize soil compaction, ensuring health for both the crops and the ecosystem.\n\nRed Barn Robotics isn't just about pulling weeds; it's about creating a reliable, efficient, and sustainable way for farmers to manage their land. Their service model includes a tailored approach where they consult with farmers to devise custom weeding plans, ensuring that their technology aligns with the unique needs of each farm. Through regular seasonal services, they promise to keep fields weed-free without the need for additional labor or heavy equipment.\n\nIn an industry often stuck in outdated methods, Red Barn Robotics is more than just a tech company\u2014it\u2019s a forward-thinking solution that aims to help farmers feed a growing world sustainably. Curious about their approach or want to learn more? Check them out at [Red Barn Robotics](https://www.redbarnrobotics.com)."
+}

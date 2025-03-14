@@ -1,0 +1,48 @@
+{
+    "links": "https://www.ycombinator.com/companies/runway",
+    "name": "Runway",
+    "headline": "Easier and more reliable mobile app releases for teams.",
+    "batch": "W21",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://runway.team",
+    "founded_date": 2020.0,
+    "team_size": 18.0,
+    "location": "New York",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; location:new-york",
+    "founders": [
+        {
+            "name": "Gabriel Savit, Founder",
+            "description": "Co-founder and CEO at Runway (runway.team)",
+            "linkedin": "https://linkedin.com/in/gsavit"
+        },
+        {
+            "name": "Matt Varghese, Founder",
+            "description": "UI/UX Lead @ Runway",
+            "linkedin": "https://www.linkedin.com/in/mattvarghese/"
+        },
+        {
+            "name": "Isabel Barrera, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/isabel-barrera-48b0941b8"
+        },
+        {
+            "name": "David Filion, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/david-filion-bb050249"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Runway: Revolutionizing Mobile App Releases**\n\nFounded in 2020 and hailing from the Y Combinator Batch W21, Runway is a New York-based startup on a mission: to make mobile app releases easier and more reliable for teams. With a compact team of 18, led by the insightful Aaron Epstein as their Group Partner, Runway is shaking up the mobile release management landscape.\n\nAt its core, Runway is a SaaS platform designed specifically for mobile engineering teams. It eliminates the chaotic manual processes often associated with releasing apps. No one wants to sift through endless checklists or wade through Slack channels filled with release commotion. Instead, Runway offers a unified control center that coordinates releases seamlessly.\n\n### Key Features\n\nRunway\u2019s platform boasts several key features, including:\n\n- **Release Management:** A single source of truth for all your releases.\n- **End-to-End Automation:** Automate releases to keep teams hands-free.\n- **Monitoring Rollouts:** Keep track of your releases while automating the process.\n- **Rollbacks:** Quick recovery options if things go south.\n- **Hassle-Free Distribution:** Simplified distribution of builds without the usual headaches.\n- **Mobile Insights:** Tools to measure your team\u2019s performance effectively.\n\n### Transformative Use Cases\n\nRunway isn\u2019t just a tool; it solves specific pain points. Its functionalities are designed for:\n\n- Teams using Fastlane, enhancing their efficiency.\n- Automating release trains, which can save valuable time.\n- Integrating Mobile DevOps practices, creating a more collaborative environment.\n- Unified dashboards for cross-platform management.\n\n### A Trusted Partner\n\nCompanies like DoorDash, monday.com, Mercari, and many others trust Runway. Their software enables teams to release 20% more often than average apps, and recover from mishaps 15% quicker. In essence, they are building great apps instead of sweating over fastlane scripts.\n\n### Why Choose Runway?\n\nRunway simplifies app releases, allowing mobile engineers to focus on creativity and development rather than logistical nightmares. You get visibility into your entire release cycle, monitoring health, stability, and user feedback all from one dashboard. This approach not only frees up bandwidth but fosters collaboration across teams. \n\n**Join the Future of Mobile Releases**\n\nIf your team is ready to break free from antiquated release practices and improve your mobile app processes, Runway presents an all-in-one solution tailored for the modern engineer. Explore Runway for yourself at [Runway Team](https://runway.team). \n\n**Embrace more reliable releases. Ship faster. Let Runway take care of the chaos.**",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b2e113d3128baf1a0b4a8797041f573edbc0d880.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191904Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=391dc28003cefe114ef37d5694a92b7e93be96abf6989424018b0d6bf01401b2",
+    "social_links": [
+        "https://www.linkedin.com/company/runway-team/",
+        "https://twitter.com/RunwayTeam",
+        "https://www.crunchbase.com/organization/runway-5d78"
+    ],
+    "logo_path": "data/logos\\Runway_logo.png"
+}

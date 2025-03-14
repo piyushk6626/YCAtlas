@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/secoda",
+    "name": "Secoda",
+    "headline": "The second brain for your data team",
+    "batch": "S21",
+    "description": "Secoda helps data teams deliver trustworthy data for AI and analytics. With Secoda\u2019s search-first approach, your data catalogue won\u2019t collect dust\u2014easily search across all columns, tables, dashboards, events, and metrics. Ask any question and get fast, contextual answers powered by AI.\r\n\nBuilt to empower teams, Secoda combines data cataloging, governance, and observability into one seamless platform that\u2019s accessible, intuitive, and even self-hosted if needed. Whether you need a data dictionary, column-level lineage, or AI-powered insights, Secoda makes discovering, understanding, and trusting your data effortless for every employee.",
+    "activity_status": "Active",
+    "website": "https://secoda.co",
+    "founded_date": 2021.0,
+    "team_size": 27.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:analytics; industry:data-engineering",
+    "founders": [
+        {
+            "name": "Etai Mizrahi, Founder",
+            "description": "Founder of Secoda",
+            "linkedin": "https://www.linkedin.com/in/etai-mizrahi-07656aa1/"
+        },
+        {
+            "name": "Andrew McEwen, Founder",
+            "description": "https://secoda.co",
+            "linkedin": "https://www.linkedin.com/in/armcewen"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: Secoda\n\n**Founded:** 2021  \n**Location:** Toronto, Canada  \n**Team Size:** 27 employees  \n**Website:** [secoda.co](https://secoda.co)  \n**Y Combinator Batch:** S21  \n**Group Partner:** Nicolas Dessaigne  \n**Tags:** Developer Tools, SaaS, B2B, Analytics, Data Engineering  \n\n---\n\n**Mission:**  \nSecoda aims to become \"the second brain for your data team.\" At its core, it helps data teams deliver trustworthy information essential for powering AI and analytics initiatives.\n\n**What They Do:**  \nSecoda empowers data teams by providing a unified platform that combines data cataloging, governance, and observability. Their approach is search-first, ensuring that data is not just stored but is easily accessible and actionable. You can effortlessly search across columns, tables, dashboards, events, and metrics, asking any question and receiving fast, contextual answers powered by AI.\n\n### Key Features:\n- **Data Catalog**: A comprehensive repository for all data assets.\n- **Secoda AI**: AI-driven insights and search capabilities to streamline data access.\n- **Data Governance**: Tools to enforce policies and secure data access.\n- **Observability**: Monitoring tools to ensure data quality and compliance.\n- **Custom Roles**: Define user permissions tightly aligned with business needs.\n\n**Products Offered:**  \n- Data Lineage\n- Data Quality Score\n- Data Analysis\n- Data Ticketing\n- Automations for mundane tasks\n\n### Who It\u2019s For:\nSecoda serves a variety of roles including:\n- Data Leads\n- Data Engineers\n- Data Analysts\n- Business Operations personnel\n\nIt addresses use cases across enterprises, focusing on:\n- Metadata Management\n- Data Onboarding\n- Data Enablement\n- Self-service Business Intelligence\n\n### Why Secoda?\nIn today's data-rich environment, effective data governance and quality assurance are paramount. Secoda steps in where disjointed solutions create confusion and inefficiencies, providing a centralized platform that ensures clarity, trust, and compliance.\n\n### The Future of Data Governance:\nSecoda is paving the way for businesses to manage their data landscapes better. With its platform, teams can explore meticulously crafted data insights, track lineage, and implement robust governance in a manner that's intuitive.\n\n### Security First:\nSecoda also emphasizes security with its SOC 2 compliance, data encryption, and options for self-hosting, making it a strong candidate for companies that prioritize data integrity and compliance.\n\n---\n\nIn a nutshell, Secoda is more than just another data cataloging tool; it\u2019s a forward-thinking solution designed to drive data transparency and empower teams. By uniting various data management functions in a seamless experience, they\u2019re helping organizations trust their data - and ultimately, make better decisions.\n\nIf you're grappling with data challenges in your company, check out Secoda, and see what the buzz is about!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bc709d54781e7d0c2510af4b690002630389e0c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191914Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d9a2df47808a1e2f3c6bf3c9755c21f54f3b5be979720e6b782b5c542960a9dc",
+    "social_links": [
+        "https://www.linkedin.com/company/secodahq",
+        "https://twitter.com/SecodaHQ",
+        "https://www.crunchbase.com/organization/secoda",
+        "https://github.com/secoda"
+    ],
+    "logo_path": "data/logos\\Secoda_logo.png"
+}

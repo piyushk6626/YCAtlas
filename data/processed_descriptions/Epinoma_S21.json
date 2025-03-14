@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/epinoma",
+    "name": "Epinoma",
+    "headline": "We engineer proteins that control the operating system of biology.",
+    "batch": "S21",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://www.epinoma.com/",
+    "founded_date": 2020.0,
+    "team_size": 8.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:synthetic-biology; industry:biotech; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Varun Govil, Founder",
+            "description": "Background in translational medicine with previous biotech and medtech development experience. Passionate about developing technologies that will change patients' lives.",
+            "linkedin": "https://www.linkedin.com/in/varun-govil/"
+        },
+        {
+            "name": "Ishan Goyal, Founder & Chief Operating Officer",
+            "description": "Building with the goal of improving patient outcomes in oncology & neurodegenerative diseases. Previous roles include global business development biopharma, leading data science teams utilizing EMR & wet/dry lab research in synthetic biology. In my free time, I enjoy spending time with my husky, traveling when possible & buying NFTs.",
+            "linkedin": "https://www.linkedin.com/in/ishan-goyal/"
+        },
+        {
+            "name": "Zhijian Li, Founder",
+            "description": "Background in chemistry and biomedical science. In depth experience in developing novel methods for diagnosis and prognosis. Passionate about improving patient outcome with innovative sciences and technologies.",
+            "linkedin": "https://www.linkedin.com/in/zhl223/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Epinoma: Pioneering the Future of Epigenetic Health\n\nFounded in 2020 and hailing from the Y Combinator Batch S21, Epinoma is a San Francisco-based biotech company with a clear mission: *We engineer proteins that control the operating system of biology.* With a small team of just 8 innovative minds, Epinoma is tackling the intricate world of epigenetics, where subtle changes in gene expression can have profound implications for health and disease.\n\n#### What They Do\n\nEpinoma is at the forefront of synthetic biology, leveraging advanced protein engineering to develop epigenetic-driven diagnostics and therapeutics. Their focus is on understanding and manipulating epigenetic marks\u2014those chemical modifications of DNA and proteins that regulate gene expression without altering the underlying genetic code.\n\nIn their pursuit to unlock this next frontier of biology, Epinoma is exploring three main avenues:\n\n1. **Disease Detection**: Current methods for detecting diseases, especially early signs of cancer and neurodegenerative disorders, are often noisy and imprecise. Epinoma aims to refine these techniques, using methylation\u2014an influential epigenetic cue\u2014to enhance diagnostic accuracy.\n\n2. **Precision Epigenetic Medicine**: By acting as programmable switches for gene expression, Epinoma is developing therapies that can modulate epigenetic sites, providing an innovative approach to treatment that retains the genomic sequence intact.\n\n3. **Biopharma Acceleration**: Epinoma\u2019s insights into the differences between healthy and diseased epigenetic states are crucial for drug development. Their work allows for better screening of preclinical compounds and improves patient stratification in clinical settings based on methylation patterns.\n\n#### Why It Matters\n\nThe power of epigenetics lies in its potential to change our understanding of diseases and lead to breakthroughs in treatment. Epinoma\u2019s work not only promises advancements in diagnostics but also points to a future where therapies could be tailored with remarkable precision, revolutionizing how we approach health and medicine.\n\nSo, whether you\u2019re a potential partner, investor, or just a curious mind, Epinoma is a name to watch as it navigates the complex waters of synthetic biology. To learn more about their technology and current opportunities, check out their website: [Epinoma](https://www.epinoma.com/). \n\nIn essence, Epinoma embodies the essence of innovation\u2014a small team with big ambitions to reshape the biological landscape through the lens of epigenetics.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/80beff3de53842741aac094c4b4922c826593dcd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191318Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=798d246912836ed227e8b01966cc2bfa89e26142d43fec776c2aae1412c04bab",
+    "social_links": [
+        "https://www.linkedin.com/company/epinoma/"
+    ],
+    "logo_path": "data/logos\\Epinoma_logo.png"
+}

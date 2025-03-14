@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/lysto-ai",
+    "name": "Lysto AI",
+    "headline": "Task automation platform for GTM teams",
+    "batch": "S23",
+    "description": "Lysto is a task automation platform built for go-to-market (GTM) teams, designed to streamline workflows and reduce time spent on administrative tasks. By aggregating data from your video calls, emails, and other data sources like internal documents and product analytics, Lysto automates key GTM tasks such as updating CRM records, drafting personalized follow-up emails, and logging customer issues in tools like Slack or JIRA. Each task can be fully automated or flagged for final review in Lysto\u2019s task inbox, providing both efficiency and oversight.",
+    "activity_status": "Active",
+    "website": "https://lysto.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:workflow-automation; industry:customer-success; industry:sales; location:new-york",
+    "founders": [
+        {
+            "name": "Kyle Archie, Founder",
+            "description": "CEO of Lysto AI. Previously worked at Meta on early LLM product research (2019-2020), Conversational AI Voice Interfaces (2021-2022), and started IMU Gestural Interface product group (2022-2023) for Meta Smart Glasses. Prior to Meta, led Product at Tripod AI, processing 500+ images/second using 20+ ML models for brands including Flickr, Yahoo and Verizon. Holds two patents in Conversational AI. BS in Computer Science from Stanford University.",
+            "linkedin": "https://linkedin.com/in/kylearchie"
+        },
+        {
+            "name": "Manuel Diaz-Granados, Founder",
+            "description": "CTO of Lysto AI. Previously led Ads Web Team at Rokt (Series D startup), developing ML pipeline integrations that optimized 100M+ in ad traffic. Prior to Rokt, led Enrichment Team at Tripod AI, processing 500+ images/second using 20+ ML models for brands including Flickr, Yahoo and Verizon. Master's in ECE from Carnegie Mellon with publications in cloud computing, big data, and computer vision.",
+            "linkedin": "https://www.linkedin.com/in/manuel-dg/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Lysto AI: Automating Success for Go-To-Market Teams**\n\nFounded in 2023 and based in New York, Lysto AI is a groundbreaking task automation platform specifically designed for go-to-market (GTM) teams. As part of Y Combinator's Batch S23, Lysto aims to simplify and enhance the workflows of sales and customer success teams by reducing the time spent on administrative tasks.\n\n**What Does Lysto Do?**\n\nAt its core, Lysto AI aggregates data from various sources\u2014everything from video calls to emails, CRM updates, and internal documents. The platform automates a variety of essential tasks, including:\n- Updating CRM records,\n- Drafting personalized follow-up emails,\n- Logging customer issues in tools like Slack and JIRA.\n\nYou have the flexibility to fully automate these tasks or review them before finalization, thanks to Lysto\u2019s intuitive task inbox.\n\n**Key Features:**\n- **Meeting Intelligence:** Automatically records detailed notes and action items from meetings.\n- **Deal 360\u00b0:** Aggregates data from emails, calls, and CRM updates to give a comprehensive view of your deals.\n- **Custom Workflows:** Combines triggers, customer data, and software integrations into seamless automated tasks.\n- **AI Companion - Leo:** A smart assistant that transforms sales data into actionable insights, allowing users to ask specific questions about customer interactions and sales performance.\n\n**Integrations Galore:**\nLysto seamlessly integrates with a wide range of tools that teams already use, including HubSpot, Salesforce, Slack, Jira, and Google Drive, enabling smooth data synchronization and improved productivity across the board.\n\n**Conclusion:**\nWith just a team of two, Dalton Caldwell as their Group Partner, and backed by the prestige of Y Combinator, Lysto AI is poised to redefine task automation for GTM teams. Their mantra, \u201cDo more, type less,\u201d encapsulates their commitment to enhancing efficiency in sales and customer success operations. \n\nFor more information, you can visit their website at [lysto.ai](https://lysto.ai) or book a demo to see Lysto AI in action.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/75ff67e3d00d0fbdbe74faea4d10a1e174fe9272.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191518Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2e42673b23947d557f91626400df9d146060850fbadabadaafc032d89c111250",
+    "social_links": [
+        "https://www.linkedin.com/company/lystoai",
+        "https://x.com/LystoAI",
+        "https://www.crunchbase.com/organization/lysto-ai"
+    ],
+    "logo_path": "data/logos\\Lysto_AI_logo.png"
+}

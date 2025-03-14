@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/recall-ai",
+    "name": "Recall.ai",
+    "headline": "The universal API for meeting video, audio and metadata",
+    "batch": "W20",
+    "description": "Recall is the universal API for meeting bots. We offer a unified API to capture data from meeting platforms like Zoom, Microsoft Teams, and Google Meet. \r\n\nOver 1000 companies rely on our API today to process millions of hours of meeting data. We provide stable infrastructure that typically takes engineering teams 6+ months of time to build, and help our customers get up and running in days instead of months.",
+    "activity_status": "Active",
+    "website": "https://www.recall.ai",
+    "founded_date": 2020.0,
+    "team_size": 20.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:api; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "David Gu, Founder",
+            "description": "Co-founder and CEO of Recall.ai",
+            "linkedin": "https://www.linkedin.com/in/david-gu/"
+        },
+        {
+            "name": "Amanda Zhu, Founder",
+            "description": "Co-founder and COO at Recall.ai",
+            "linkedin": "https://www.linkedin.com/in/zhu-amanda/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Recall.ai is a rising star in the tech ecosystem, founded in 2020 and hailing from the Y Combinator Batch W20. Based in San Francisco with a nimble team of just 20 employees, Recall.ai is on a mission to streamline how companies interact with meeting data via their universal API for all meeting platforms\u2014think Zoom, Microsoft Teams, Google Meet, and more.\n\nWhat sets Recall.ai apart? They enable over 1,000 companies to efficiently process millions of hours of meeting data, providing a robust infrastructure that typically takes engineering teams six months to develop\u2014only their clients can get it set up in just a matter of days. By offering a unified API for meeting bots, they effectively offload the engineering burden from companies, allowing teams to focus on core product development instead of infrastructure maintenance. \n\nThe platform captures everything from video and audio to metadata, making it easy for developers to gain access to conversation data and integrate it into their applications with just a few lines of code. This isn't just theoretical\u2014companies of all sizes, from nimble startups to large enterprises, rely on Recall.ai to enhance their productivity and streamline workflows.\n\nIn terms of security and reliability, Recall.ai doesn't cut corners. They boast compliance with regulations like SOC 2, GDPR, CCPA, and HIPAA, which is especially critical in today's world where data privacy is paramount.\n\nWith testimonials from satisfied partners like Instacart and BrightHire, one thing is clear: Recall.ai is not just another API provider; they are redefining how companies can harness the power of their meeting data to drive productivity and collaboratively improve service offerings. \n\nIf you're looking to integrate robust meeting functionalities into your workflow, Recall.ai is definitely worth a look. Explore their offerings through their website, [www.recall.ai](https://www.recall.ai), and see how they can transform your meeting experience into actionable insights.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e4471f6e0b9517d1440ee7d1401d72a4fca21dec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191710Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=add1f314d91ab038f6a15b68b666cbc1f6fea4ab8fbcce39feb04437d0d01916",
+    "social_links": [
+        "https://www.linkedin.com/company/recall-ai/",
+        "https://twitter.com/recallai",
+        "https://github.com/recallai/"
+    ],
+    "logo_path": "data/logos\\Recall.ai_logo.png"
+}

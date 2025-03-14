@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/algosurg-inc",
+    "name": "AlgoSurg Inc",
+    "headline": "We make AI technology for Robotic and AR Surgeries",
+    "batch": "W18",
+    "description": "AlgoSurg makes AI software solutions, for various next-generation surgical applications ranging from Robotics-surgeries, AR-based-navigation/training, cloud-based 3D surgery planning and automatic patient-specific instrument/implant design.",
+    "activity_status": "Active",
+    "website": "http://www.algosurg.com",
+    "founded_date": 2018.0,
+    "team_size": 8.0,
+    "location": "India",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:augmented-reality; industry:robotic-surgery; industry:medical-devices",
+    "founders": [
+        {
+            "name": "Amit Maurya, Founder",
+            "description": "I am an innovator, entrepreneur and technology enthusiast. Y-combinator backed startup company founder with more than 10 years of experience in medical software development, AI/ML based medical image processing, surgical simulations (AR/VR), robotics, medical software, FDA, etc. (https://scholar.google.com/citations?user=EtBY6MQAAAAJ)",
+            "linkedin": "https://www.linkedin.com/in/amitdmaurya/"
+        },
+        {
+            "name": "Vikas Karade, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/vikaskarade/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**AlgoSurg Inc: Innovating the Future of Surgery**\n\nFounded in 2018 and part of Y Combinator\u2019s W18 batch, AlgoSurg Inc is an Indian startup dedicated to transforming surgical practices with cutting-edge AI technology. The company specializes in artificial intelligence software solutions and is on a mission to enhance robotic and augmented reality (AR) surgeries. \n\n### What Does AlgoSurg Do? \n\nAlgoSurg offers a diverse range of innovative surgical applications designed for the next generation:\n\n1. **AI-Powered 3D Planning**: Their software facilitates precise 3D modeling for various surgeries, including maxillofacial, cardiovascular, and orthopedic procedures. For instance, the AI-based **CTto3D** tool delivers near-instant CT segmentation, greatly speeding up pre-operative planning.\n  \n2. **Personalized Surgery Instruments**: Their **X3DPSI** technology designs automated, patient-specific instruments using 3D printing, optimizing implant placements for knee, hip, and deformity surgeries.\n\n3. **Cloud-Based Solutions**: **Tabplan3D** stands out as the world\u2019s first web-based software for 3D orthopedic surgical planning, relying on AI to generate accurate bone models from CT or X-ray data.\n\n4. **AR Training Solutions**: The **OpenSurgiSim** platform utilizes AR and cloud-based technology to enhance surgical training for orthopedic surgeons, particularly in low and middle-income countries. \n\n5. **Surgical Robotics Integration**: In collaboration with international MedTech company **Meril**, AlgoSurg is integrating its AI technologies into surgical robotics to refine procedures like knee and hip replacements.\n\n### The Team Behind the Vision\n\nAlgoSurg is spearheaded by CEO Dr. Vikas Karade and CTO Amit Maurya, both of whom bring unique expertise to the company. They are supported by a skilled team of eight, including renowned surgeons who actively contribute to the development and testing of AlgoSurg\u2019s technologies.\n\n### The Bigger Picture\n\nAlgoSurg\u2019s innovative solutions are tagged under crucial areas such as augmented reality, robotic surgery, and medical devices. By enhancing surgical precision and efficiency, they not only improve surgical outcomes but also reduce operational costs and time, paving the way for safer, more effective healthcare practices.\n\nIn conclusion, AlgoSurg Inc stands at the forefront of surgical innovation. With a strong mix of talent, advanced technology, and a clear mission for the future, they\u2019re not just reshaping surgeries \u2013 they\u2019re redefining what\u2019s possible in the medical field.  Check out their work at [AlgoSurg.com](http://www.algosurg.com) to see how they're making waves in the world of health technology.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/68b45ffcfb844f833aac0fe43089155aef5a14b1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=91e00fabe94796065a701a20c3d809864b4e79c7021180cfce34f44fd7eb99b9",
+    "social_links": [
+        "https://www.linkedin.com/company/10368877/admin/dashboard/",
+        "https://www.facebook.com/algosurg/",
+        "https://www.crunchbase.com/organization/algosurg"
+    ],
+    "logo_path": "data/logos\\AlgoSurg_Inc_logo.png"
+}

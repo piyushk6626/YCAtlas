@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/triplit",
+    "name": "Triplit",
+    "headline": "The best database for app developers",
+    "batch": "W21",
+    "description": "Triplit is complete full-stack solution to data persistence, state management, and realtime synchronization for web applications that want to go fast",
+    "activity_status": "Active",
+    "website": "https://www.triplit.dev",
+    "founded_date": 2020.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:web-development; industry:cloud-computing; industry:databases",
+    "founders": [
+        {
+            "name": "Matthew Linkous, Founder",
+            "description": "Used to launch new features on the Google Search page and now building the best database for application developers!",
+            "linkedin": "https://www.linkedin.com/in/matthewlinkous/"
+        },
+        {
+            "name": "Will Ernst, Founder",
+            "description": "Software engineer with a background in finance and performant web applications. Building Triplit - the full-stack database platform for application developers. Middlebury College graduate.",
+            "linkedin": "https://www.linkedin.com/in/will-ernst-71557297/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Triplit: A Real-time Database for the Fast-Paced World of App Development**\n\nFounded in 2020 and backed by Y Combinator's Batch W21, Triplit is positioning itself as the go-to database for app developers. With an ambitious mission to be \"the best database for app developers,\" Triplit offers a complete, full-stack solution that's tailored for modern web applications seeking speed and efficiency.\n\n**What Makes Triplit Stand Out?**\n\n1. **Real-Time Syncing**: Triplit enables real-time data synchronization between the server and the client's browser. This means that applications can update instantly without the developer having to write additional code for syncing. It's what every developer dreams of when building collaborative applications.\n\n2. **Open Source and Flexible**: As an open-source platform, Triplit is designed for flexibility. Developers can host it themselves or use it as a service, ensuring that they have full control over their data management processes.\n\n3. **Developer-Centric Features**:\n   - **Code-First Schemas**: Write your schemas in TypeScript instead of juggling configuration files or a maze of SQL scripts.\n   - **Offline Support**: Users can continue to work without an active connection, thanks to Triplit's strong offline capabilities.\n   - **Reactive Queries**: All queries built in Triplit are reactive by default, simplifying the process of crafting applications that need real-time data updates.\n\n4. **Robust Data Management Tools**: Triplit provides a full-featured database console that allows developers to inspect and manage their data effortlessly, making it easy to monitor data schemas and user interactions.\n\n5. **Seamless Integration**: Triplit integrates effortlessly with popular UI frameworks, including React, Svelte, and Vue, providing developers the tools they need without the fuss.\n\n**Recent Activities and Future Plans**\n\nTriplit is gearing up for its version 1.0 launch on March 11th, which promises to refine its already sophisticated suite of features. The team, albeit small with just three members, is making waves in the developer tools space. With Aaron Epstein as their Group Partner, Triplit is poised for significant growth as they evolve their offering and expand their community engagement.\n\n**Why Use Triplit?**\n\nDevelopers have been vocal about their positive experiences. They appreciate the blend of speed, efficiency, and reliability that Triplit offers. From those who have switched from other databases citing a frustrating experience, to those surprised by the platform's capabilities\u2014Triplit has made a strong impression on its early user base.\n\nIn a world where time is of the essence, Triplit is not just another database; it aims to redefine how developers think about data management in their applications. If you are an app developer looking to streamline your data management process and enhance real-time interactions, Triplit may just be worth checking out.\n\nFor more, visit [Triplit](https://www.triplit.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cee530b003c41465ac17f9ff837b1c6b43e1b220.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192028Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4a9d51584a196341a761f44e79e32f6fce49e3e6d355f3851a974985879b5697",
+    "social_links": [
+        "https://twitter.com/triplit_dev",
+        "https://github.com/aspen-cloud"
+    ],
+    "logo_path": "data/logos\\Triplit_logo.png"
+}

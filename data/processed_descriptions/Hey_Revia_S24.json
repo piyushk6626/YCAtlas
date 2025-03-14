@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/hey-revia",
+    "name": "Hey Revia",
+    "headline": "Voice AI to automate complex phone calls for healthcare providers",
+    "batch": "S24",
+    "description": "Hey Revia is a voice AI that handles complex phone calls for healthcare providers. Our software automates complex menus, reduces hold times, and handles tedious phone calls\u2014verifying provider details, updating insurance info, and securing approvals. We offer Revia as web app, mobile app and API.",
+    "activity_status": "Active",
+    "website": "https://heyrevia.ai",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:healthcare; industry:call-center; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Shaun Wei, CEO & Co-founder",
+            "description": "Building voice AI assistant for phone call. \nEx-googler worked on Google Assistant. Previously worked on self-driving car in Pony.ai",
+            "linkedin": "https://linkedin.com/in/shaunwei"
+        },
+        {
+            "name": "David (Wenbo) Zhu, Founder",
+            "description": "Building a voice AI assistant for phone call.\nPreviously at Google, Brex.",
+            "linkedin": "https://www.linkedin.com/in/david-w-zhu/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Hey Revia: Automating Healthcare Communication with Voice AI**\n\nFounded in 2024 and based in San Francisco, Hey Revia is revolutionizing the healthcare industry through its innovative Voice AI technology. The company, which is part of Y Combinator's Summer 2024 batch, aims to automate complex phone calls for healthcare providers, making the often tedious process of communication much more efficient.\n\n### Mission and Offerings\nHey Revia's mission is simple yet impactful: to eliminate the hassle of complex phone calls in healthcare. Their software handles everything from navigating difficult phone menus to verifying provider details and updating insurance information. By automating these tasks, Hey Revia reduces hold times and allows healthcare providers to focus on what truly matters\u2014patient care. Their platform is accessible as a web app, mobile app, and API, making it versatile for users.\n\n### Key Features\n1. **Credentialing:** Automates verification of healthcare provider credentials to ensure compliance.\n2. **Prior Authorization:** Streamlines the process to speed up patient care.\n3. **Referrals and Specialist Consultations:** Facilitates the coordination of patient referrals.\n4. **Billing and Payment Inquiries:** Manages billing issues and insurance claims.\n\n### Testimonials and Effectiveness\nUsers have reported significant time savings. For instance, a typical call to Aetna can take about 15 minutes, but with Revia, that time can be cut down substantially\u2014allowing healthcare professionals to engage more meaningfully with their patients. According to David, CTO at Plyhealth, \"Revia has streamlined our operations by automating hold times and phone tree navigation, allowing our team to reach a human faster.\"\n\n### Commitment to Security\nRevia prioritizes security and compliance, adhering to HIPAA standards and maintaining transparency with its various protocols.\n\nWith a small but mighty team of four, Hey Revia is poised to make a big impact in healthcare communication. If you're interested in seeing how Revia can transform your practice, you can request a demo on their website [heyrevia.ai](https://heyrevia.ai).\n\nIn a world where time is of the essence, Hey Revia is not just saving minutes on calls; they're providing healthcare professionals the freedom to focus on their patients, not the phone call complexities that can hold them back.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2c9188e067b3ff972f6728cc1cae8f54851e5033.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191418Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=03e338fb12e50e6a42b089248c7630b9ee6bc4d2739187dad0fb8c5405c7b585",
+    "social_links": [
+        "https://www.linkedin.com/company/heyrevia/",
+        "https://x.com/heyrevia",
+        "https://www.crunchbase.com/organization/hey-revia"
+    ],
+    "logo_path": "data/logos\\Hey_Revia_logo.png"
+}

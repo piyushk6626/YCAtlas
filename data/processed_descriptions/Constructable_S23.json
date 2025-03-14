@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/constructable",
+    "name": "Constructable",
+    "headline": "AI copilot for construction teams",
+    "batch": "S23",
+    "description": "Constructable is an AI chat for construction managers that collects all the data for a commercial construction project from Procore, email, documents, and chat to answer questions like \"What slope is needed for drainage?\" or \"how do the submitted electrical bids compare?\" We can answer questions in seconds that used to take hours and help teams prevent mistakes that cost hundreds of thousands of dollars.",
+    "activity_status": "Active",
+    "website": "https://www.constructable.ai/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "Santa Barbara, CA",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:construction; industry:b2b; industry:productivity; industry:ai",
+    "founders": [
+        {
+            "name": "Emma Nazim, Founder",
+            "description": "I am a co-founder and CEO at Constructable. Previously I was a VP of Product at Appfolio and led the product team for Appfolio Investment Manager from 0 to 1500 customers. I love working with customers and building vertical software, but outside of that, you can find me making mugs and bowls where no two ever look the same.",
+            "linkedin": "https://linkedin.com/in/emmamedjuck"
+        },
+        {
+            "name": "Molly Abbott, Founder",
+            "description": "I am a co-founder and CPO at Constructable. Since 2010, I have had the privilege to work along side amazing leaders in Product, Operations and Partnerships at both Mindbody and AppFolio. Growing up in a construction family, and then marrying into one, I'm excited to be in both tech and construction.",
+            "linkedin": "https://linkedin.com/in/molly-abbott-41b03037"
+        },
+        {
+            "name": "John Yoder, Founder",
+            "description": "I am a co-founder and CTO at Constructable. Prior to this, I was the VP of Engineering for AppFolio Property Manager where I grew the team from 65 engineers to 250 engineers over 4 years. I am most satisfied when my team can hear the joy in a customer's voice because of something we accomplished together.",
+            "linkedin": "https://linkedin.com/in/john-yoder-92595985"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Constructable: The AI Copilot for Construction Teams**\n\nFounded in 2023 and part of Y Combinator's Batch S23, Constructable is making waves in the commercial construction space from its base in Santa Barbara, CA. The company's mission is clear: to be the definitive AI copilot for construction teams, allowing projects to run smoother and more efficiently.\n\nAt its core, Constructable started as an AI-driven chat tool tailored for construction managers. It expertly gathers data from platforms like Procore, emails, and various documents to provide rapid answers to common, yet critical, project questions\u2014things that could traditionally drag on for hours. Imagine needing to know the ideal slope for drainage or comparing submitted electrical bids; with Constructable, these queries can be resolved in seconds, helping teams avoid costly mistakes that could amount to hundreds of thousands of dollars.\n\nConstructable is more than just a chatbot, however. The platform is designed with a team-first mindset, enhancing collaboration by keeping all project members aligned and reducing the reliance on cluttered email threads. With Constructable, teams can share updates, comment directly on plans, and even capture screenshots of discussions\u2014all in real-time.\n\n### Key Features:\n\n- **Lightning-fast AI Search**: Ask project-specific questions, and the AI combs through all project documents to deliver precise responses.\n- **Smart Photo Search**: Say goodbye to endless scrolling. The AI helps locate relevant images in seconds.\n- **Project Tracking Tools**: Includes features for managing drawings, photos, daily logs, RFIs, and financial visibility\u2014all designed for ease of use and efficiency.\n- **Simple Pricing**: Access all necessary tools at a straightforward annual rate, accommodating unlimited users.\n\n### Why Choose Constructable?\n\n1. **User-Centric Design**: The platform is crafted to be intuitive, ensuring even the least tech-savvy can navigate it easily. \n2. **Speed**: Local data storage means no annoying loading times; everything is ready when you need it.\n3. **Offline Capabilities**: Work seamlessly without internet. Constructable syncs data once you\u2019re back online.\n4. **Enterprise-Ready Security**: Prioritizing safety, Constructable implements robust security measures at every level.\n\nConstructable\u2019s features have resonated with clients, as highlighted by Ryan Adams, a Senior Project Manager, who raved about the tool's efficiency in synchronizing their plan review process.\n\nWith a lean team of just three and strong backing from industry partners, Constructable is not just another tool\u2014it\u2019s set to redefine how the construction industry collaborates and communicates. Builders, get ready to elevate your projects to unprecedented levels of efficiency and oversight!\n\nExplore more about Constructable at [constructable.ai](https://www.constructable.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2a20b51babceba39242672d778fb419ef0d5760f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191102Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9ba74d6cc8452066b4f5cbd1e136a12db656a815403c37dc5be635ac314aa002",
+    "social_links": [
+        "https://www.linkedin.com/company/constructableapp"
+    ],
+    "logo_path": "data/logos\\Constructable_logo.png"
+}

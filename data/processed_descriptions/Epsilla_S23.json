@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/epsilla",
+    "name": "Epsilla",
+    "headline": "All-in-one platform to create AI agents with your private knowledge",
+    "batch": "S23",
+    "description": "Epsilla is an all-in-one platform for building AI agents powered by your private data and knowledge. Easy to use for domain professionals, deeply customizable for AI experts, and fully equipped for enterprise customers with security, scalability, and integration.",
+    "activity_status": "Active",
+    "website": "https://www.epsilla.com/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "Jersey City, NJ",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:infrastructure; industry:ai; industry:databases",
+    "founders": [
+        {
+            "name": "Richard Song, Founder",
+            "description": "Richard Song is the Co-Founder and CEO of Epsilla. Before Epsilla, Richard was the Senior Director of Cloud Engineering at TigerGraph, led the team to build the DBaaS offering of TigerGraph's graph analytics platform. In addition to this, Richard led the team to build a suite of tools designed to empower developers, data scientists, and DevOps teams, enabling them to extract value from TigerGraph.",
+            "linkedin": "https://linkedin.com/in/renchu-song-a4099247"
+        },
+        {
+            "name": "Ricki Qin, Founder",
+            "description": "Ricki Qin is the Co-Founder of Epsilla. Before Epsilla, Ricki was the Engineering Manager in Cloud team at TigerGraph, led the team to build the Cloud Portal. Ricki has 5 years experience in the database industry, helped to build a suite of tools designed to empower developers, data scientists, and DevOps teams.",
+            "linkedin": "https://www.linkedin.com/in/jing-ricki-qin-48a4baa4/"
+        },
+        {
+            "name": "Eric Yang, Founder",
+            "description": "Eric is the Co-Founder and CTO of Epsilla. Before Epsilla, Eric was the Architect of Tigergraph Cloud. Eric has 10+ years experience in Cloud Infrastructure with deep insight of System Relability and Scalability.",
+            "linkedin": "https://linkedin.com/in/eric-yang-a4a743271"
+        }
+    ],
+    "status": true,
+    "generated_description": "Epsilla is a spirited newcomer in the AI landscape, launched in 2023 and part of Y Combinator's Batch S23. Based in Jersey City, NJ, the startup is built by a small but mighty team of three, focusing on providing an all-in-one platform that empowers businesses and individuals to create AI agents tailored to their private knowledge.\n\nAt its core, Epsilla offers a robust platform that combines the power of advanced artificial intelligence with the security and customization needed for various users\u2014from domain professionals to enterprise-level customers. Think of it as a toolkit for building AI agents using your own data, leveraging the latest in retrieval-augmented generation (RAG) and other cutting-edge AI methodologies. What sets Epsilla apart is its user-friendliness for beginners and rich customization options for experienced AI developers.\n\nThe company's mission is clear: make it seamless to deploy production-ready AI agents right from day one. This isn\u2019t just about chatbots; they provide solutions that extend into various use cases like personal AI assistants, financial analytics, legal research, and customer support\u2014essentially streamlining operations and enhancing efficiency across industries.\n\nEpsilla is marked by distinctive features such as:\n\n- **One-Stop Platform**: It encompasses the full lifecycle from development to deployment, helping users avoid the pitfalls of disparate systems.\n- **Rapid Development**: Support for a CI/CD-style evaluation process ensures that iteration is quick, allowing for changes without prolonged regressions.\n- **Enterprise Security**: Focused on fine-grained, role-based access control, ensuring that sensitive data remains protected.\n\nPricing plans are designed to cater to different needs, featuring a free tier and tiers that scale up for teams needing more capacity and support, ultimately leading to customized enterprise offerings.\n\nDiana Hu serves as the Group Partner, and backers include notable venture capital firms, enhancing Epsilla's credibility and potential in the competitive AI industry.\n\nFor those interested in delving into the world of AI agent development driven by personal and private knowledge, Epsilla offers an engaging path to explore, whether you're an eager novice or an established expert. With Epsilla, the future looks promising for anyone looking to harness the power of AI. You can check them out more thoroughly at [Epsilla's website](https://www.epsilla.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b6d880200f9240e90f070efa85492cbd86373415.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191319Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b04b1e4be25ab619ce9c97efe79a08bbb68afa2a6d399c6e1f87421ee89172b9",
+    "social_links": [
+        "https://www.linkedin.com/company/epsilla/",
+        "https://twitter.com/epsilla_inc",
+        "https://www.facebook.com/Epsilla-101648343029200",
+        "https://github.com/epsilla-cloud/"
+    ],
+    "logo_path": "data/logos\\Epsilla_logo.png"
+}

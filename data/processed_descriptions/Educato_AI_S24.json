@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/educato-ai",
+    "name": "Educato AI",
+    "headline": "AI-Powered Worldwide exam-prep platform",
+    "batch": "S24",
+    "description": "Educato builds exam prep platforms worldwide using AI.\r\n\nOnline exam prep has existed for decades, yet the big players all target the same top 10 exams in the US. The reality is that most exams around the world still have little to no quality online prep material, including many taken by hundreds of thousands of students each year. Educato uses AI to generate high-quality prep content for these exams. LLMs allow us to target the profitable fat middle in the distribution of exams, historically overlooked by education companies.",
+    "activity_status": "Active",
+    "website": "https://www.educato.ai/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:education; industry:edtech; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Codrut Lemeni, Founder",
+            "description": "Known for a very difficult name to pronounce - (\"Code\" + \"Roots).",
+            "linkedin": "https://linkedin.com/in/codrut-l-328331134"
+        },
+        {
+            "name": "Felix Gabler, Founder",
+            "description": "Felix is the co-founder and CTO of Educato AI, building AI-powered tools to transform exam prep. Previously, he was CTO at Sagacity, creating generative AI simulations, and founded OurFlat, a cross-platform app with 100,000+ downloads. Felix holds an M.Sc. in Machine Learning from T\u00fcbingen and UC San Diego.",
+            "linkedin": "https://linkedin.com/in/felix-gabler"
+        },
+        {
+            "name": "Pierre-Louis Monnot, Founder",
+            "description": "Pierre-Louis is the co-founder and COO of Educato AI, an AI platform for educational content creation and personalization. In his prior life he led the AI supply chain team @Palantir and Quant products @Bloomberg.",
+            "linkedin": "https://www.linkedin.com/in/plmonnot/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Educato AI: Redefining Exam Preparation with AI**\n\nFounded in 2024 and based in San Francisco, Educato AI is carving out a significant niche in the edtech world. With the mission of being an AI-powered worldwide exam preparation platform, it\u2019s targeting a gap that has long been neglected: quality online prep material for exams taken by hundreds of thousands of students globally\u2014not just the top exams in the U.S.\n\nYou see, online exam prep tools have been around for decades, but they\u2019ve primarily focused on a mere handful of well-known American exams. Educato aims to change that narrative by leveraging AI to create high-quality, tailored content for a broader array of examinations. This includes everything from national exams in Romania to service exams in the Philippines and civil service exams in Nigeria. By tapping into the \"fat middle\" of the exam distribution\u2014a segment often ignored by educational companies\u2014Educato is enabling students to access personalized learning experiences that cater to their needs.\n\nCurrently a part of the Y Combinator Batch S24, Educato is backed by a team of three, with Tom Blomfield (famed for his work with Monzo) as their group partner. The platform doesn\u2019t just stop at creating study materials; it emphasizes an engaging learning experience through features like recap tests and logical reasoning questions. In a world where rote memorization has been the norm, Educato is refreshing\u2014offering a platform that emphasizes understanding over memorization.\n\nAs of now, Educato is live and supporting a variety of exams, including the ASVAB, Bar Exam, NCLEX, and even international markers like the UPSC exams in India and the Baccalaur\u00e9at in France. There's also a roster of upcoming examinations, continually expanding its reach.\n\nWhat do users think? Early feedback underscores the platform\u2019s efficiency and effectiveness, with testimonials highlighting its focus on logical reasoning and well-structured material. It appears that students are not just studying; they\u2019re truly engaging with the content\u2014that\u2019s a win.\n\nEducato AI is definitely a company to watch as it continues to grow and reshape the landscape of exam preparation, making advanced AI technology accessible to students worldwide.\n\nFor more details, check out their website: [Educato AI](https://www.educato.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9ffa247bc64543185aa72a38173006df415eb6ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191132Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0702f80955d5b64ae7285033d9442814955345e93239e1683de13eb25cde961d",
+    "social_links": [
+        "https://www.linkedin.com/company/educato-ai/",
+        "https://x.com/EducatoAI",
+        "https://www.facebook.com/profile.php?id=61557733337358",
+        "https://github.com/EducatoAI"
+    ],
+    "logo_path": "data/logos\\Educato_AI_logo.png"
+}

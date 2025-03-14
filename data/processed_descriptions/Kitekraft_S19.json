@@ -1,0 +1,48 @@
+{
+    "links": "https://www.ycombinator.com/companies/kitekraft",
+    "name": "Kitekraft",
+    "headline": "Building flying wind turbines.",
+    "batch": "S19",
+    "description": "Kitekraft systems consist of a tethered electric aircraft, a.k.a. a kite. The kite has 8 onboard (flying) wind turbines. It autonomously  flies in figure eights and generates electrical energy from the wind. Our systems need 10x less construction materials compared to a conventional wind turbine and our systems cost half as much.",
+    "activity_status": "Active",
+    "website": "http://www.kitekraft.de",
+    "founded_date": 2019.0,
+    "team_size": 6.0,
+    "location": "Munich, Germany",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hardware; industry:climate; industry:renewable-energy",
+    "founders": [
+        {
+            "name": "Maximilian Isensee, Founder",
+            "description": "Renewable energy engineer. Co-founder of climate NGO \"Protect Our Winters Germany\". Former start-up consultant at Karlsruhe Institute of Technology. Working on solving climate change.",
+            "linkedin": "https://www.linkedin.com/in/maximilian-isensee-621711175/"
+        },
+        {
+            "name": "Florian Bauer, Founder",
+            "description": "Electrical and control engineer. Electrical Engineering PhD on \"Multidisciplinary Optimization of Drag Power Kites\" from Technical University of Munich. Published more than a dozen of research papers about flying wind turbine technology. Inventor of 5 patents pending. Passionate about renewable energies and anything that flies.",
+            "linkedin": "https://www.linkedin.com/in/floba/"
+        },
+        {
+            "name": "Christoph Drexler, Co-Founder",
+            "description": "Graduated in mechanical engineering at Technical University of Munich. Delved into aerodynamics in master thesis optimizing Kitekraft's airfoils. Heavy interest in sustainability and technological advances tackling climate change, to which the solutions lie in the \"We\", not in the \"I\".",
+            "linkedin": "https://www.linkedin.com/in/christoph-drexler-78173a87/"
+        },
+        {
+            "name": "Andr\u00e9 Frirdich, Founder",
+            "description": "Aerodynamics engineer, graduated from Technical University of Munich. Focused on aircraft, helicopter, and wind turbine technology. Wrote master thesis about flying wind turbine aerodynamics optimization. Personal motivation powered by the vision of changing the world's energy generation.",
+            "linkedin": "https://www.linkedin.com/in/andr%C3%A9-frirdich-42257715b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Kitekraft is a Munich-based company founded in 2019, with a bold ambition: to change the way we harness wind energy by building flying wind turbines. It\u2019s part of the Y Combinator Batch S19, which gives it a solid backing from one of the most prestigious startup accelerators. \n\nTheir flagship innovation is a tethered electric aircraft\u2014essentially a kite\u2014equipped with eight onboard turbines. This kite autonomously flies in figure eights, capturing wind energy in a more efficient manner than traditional turbines. The numbers are striking: Kitekraft\u2019s systems require ten times less material and cost half as much as conventional wind turbines. This innovation doesn\u2019t just lower costs; it also opens up new possibilities for locations that were previously deemed unsuitable for wind energy infrastructure, all while minimizing the ecological footprint.\n\nKitekraft's mission is closely tied to the urgent need for renewable energy in the face of climate change. As fossil fuel consumption leads to rising greenhouse gas levels, the pressure is on to transition to sustainable energy sources. The company rightly identifies that current renewable solutions aren\u2019t expanding fast enough to meet global energy demands, particularly if we aim for net-zero emissions by 2050.\n\nThe team at Kitekraft is compact, with only six employees fueling this startup's vision, but they are bolstered by partnerships, such as their group partner, nan. Their work in the realms of hardware, climate, and renewable energy is crucial, as they challenge the status quo of energy production with their innovative approach.\n\nThe company\u2019s website, though still in its early stages, serves as a portal for learning more about airborne wind energy, their technology, and how they are executing this ambitious vision[^1^]. \n\nFor more information, Kitekraft can be found online at [Kitekraft.de](http://www.kitekraft.de).\n\n---\n\n[^1^]: Referenced from Kitekraft's website and promotional materials.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/821b5799375674beadee6332b2e4e568198b3f4c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191452Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1100eff4227ce900fe4b8ae4be9e9ac307e7f5c66e1c249142a721445f7c9bf4",
+    "social_links": [
+        "https://www.linkedin.com/company/kitekraft/",
+        "https://twitter.com/kiteKRAFT_tech",
+        "https://www.facebook.com/kitekraft.tech"
+    ],
+    "logo_path": "data/logos\\Kitekraft_logo.png"
+}

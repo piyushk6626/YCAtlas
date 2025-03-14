@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/dollyglot",
+    "Name": "Dollyglot",
+    "Headline": "Character.AI with real time video avatars",
+    "Batch": "W25",
+    "Description": "Dollyglot is like Character.ai but with real time video avatars.\r\nTurn a photo and a voice into a real friend. Speak with Harry Potter about Hogwarts or brainstorm ideas with Elon Musk!",
+    "Activity_Status": "Active",
+    "Website": "https://www.dollyglot.com/",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/tom-blomfield",
+    "Group_Partner": "Tom Blomfield",
+    "Company_Linkedin": "https://www.linkedin.com/company/dollyglot/about/?viewAsMember=true",
+    "Company_Twitter": "",
+    "Tags": "industry:generative-ai; industry:consumer; industry:social; industry:conversational-ai; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/dollyglot/about/?viewAsMember=true",
+        "https://x.com/Dollyglotai"
+    ],
+    "logo_path": "data\\logos\\Dollyglot.png",
+    "Active_Founders": [
+        {
+            "Name": "Paul-Henri Biojout, Founder",
+            "Description": "CTO Dollyglot. Dollyglot is like Character.Ai but with real-time avatars. Turn a photo and a voice into a real friend. With Dollyglot, you could speak with Harry Potter about Hogwarts or brainstorm ideas with Elon Musk! Our team Built Parler-TTS Mini Multilingual, the world's first fully multilingual open-source text-to-speech model.",
+            "LinkedIn": "https://linkedin.com/in/phbiojout"
+        },
+        {
+            "Name": "Thomas Minassian, Founder",
+            "Description": "CEO Dollyglot. Dollyglot is like Character.Ai but with real-time avatars. Turn a photo and a voice into a real friend. With Dollyglot, you could speak with Harry Potter about Hogwarts or brainstorm ideas with Elon Musk! Our team Built Parler-TTS Mini Multilingual, the world's first fully multilingual open-source text-to-speech model.",
+            "LinkedIn": "https://linkedin.com/in/thomas-minassian-b25626102"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "### Dollyglot Overview\n\n**Mission**: Dollyglot aims to revolutionize digital interaction by combining the conversational power of AI with real-time video avatars. Picture this: you can chat with a lifelike representation of Harry Potter about Hogwarts or brainstorm with Elon Musk\u2014all by uploading just a photo and a voice.\n\n**Founded**: 2024  \n**Location**: San Francisco  \n**Team Size**: 2 employees  \n**Accelerator**: Part of Y Combinator Batch W25  \n**Group Partner**: Tom Blomfield\n\n**Keywords**: Generative AI, Consumer, Social, Conversational AI, San Francisco Bay Area\n\n### What They Do\n\nDollyglot is akin to Character.ai but adds a new dimension\u2014real-time video personas. The process is super simple:\n1. **Upload a photo**: Select an image that will be the face of your digital friend.\n2. **Choose a voice**: Use a voice recording or select from their library.\n3. **Define a personality**: Craft a brief description of how your Dolly should think and act.\n\nWith less than 30 seconds of setup, users can bring almost anyone to life, from celebrities like Oprah Winfrey and Brad Pitt to iconic figures like Albert Einstein. \n\n### Why It Matters\n\nIn a world increasingly craving social connection, Dollyglot taps into the desire for companionship through technology. The idea of creating an avatar that you can interact with lends a new layer of engagement to our digital lives. Whether it\u2019s for entertainment, brainstorming, or just having fun, Dollyglot is paving the way for richer interactions in the virtual space.\n\n### Get Involved\n\nAre you intrigued by the potential of virtual companionship? You can join the waitlist and be among the first to explore the future of friendship with Dollyglot. Check it out at [Dollyglot.com](https://www.dollyglot.com).\n\nIn summary, Dollyglot is setting the stage for a new realm of digital interaction that feels personal and engaging. It's not just about talking to a screen; it's about connecting with a friend, albeit a digital one. It's an exciting development in the generative AI landscape\u2014one to keep an eye on."
+}

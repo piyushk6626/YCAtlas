@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/guac",
+    "name": "Guac",
+    "headline": "AI-powered demand forecasting for grocery",
+    "batch": "S23",
+    "description": "Guac accurately forecasts demand for grocery retailers, to reduce food waste and increase availability.",
+    "activity_status": "Active",
+    "website": "https://www.guac-ai.com/",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": "New York",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:grocery; industry:machine-learning; industry:climate; industry:supply-chain; location:new-york",
+    "founders": [
+        {
+            "name": "Euro Wang, Founder",
+            "description": "Co-Founder & CEO of Guac. Passionate about tackling food insecurity & waste with technology!",
+            "linkedin": "https://linkedin.com/in/eurowang"
+        },
+        {
+            "name": "Jack Solomon, Founder",
+            "description": "Co-Founder and CTO of Guac. ML engineer working to make grocery retail more efficient.",
+            "linkedin": "https://linkedin.com/in/jackasolomon"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Guac: The AI-Powered Grocery Game Changer\n\n**Founded:** 2023  \n**Location:** New York  \n**Team Size:** 5 employees  \n**Incubator:** Y Combinator Batch S23  \n**Website:** [guac-ai.com](https://www.guac-ai.com)  \n\nGuac is stepping into the grocery scene with a mission that\u2019s as clear as it is compelling: to leverage AI for better demand forecasting. With food waste being a significant issue in grocery retail, Guac\u2019s solutions target this problem head-on by accurately predicting what grocery retailers need\u2014ultimately making more food available to consumers and less ending up in landfills.\n\n#### The Problem and Solution\n\nAt its core, Guac addresses two major pain points in grocery retail:\n1. **Reducing Food Waste:** About 38% reduction in food spoilage through accurate forecasting.\n2. **Increasing Availability:** Aiming for a 2% boost in product availability by preventing over-ordering or under-stocking.\n\nUsing advanced machine-learning algorithms, Guac analyzes a multitude of factors\u2014everything from local weather to economic trends and social media influences\u2014to tailor demand forecasts for each Specific Key Unit (SKU) in each store. This is not just about numbers; it's about understanding real-world factors that impact what consumers buy.\n\n#### Product Suite\n\nGuac offers several key products designed for grocery retailers:\n\n- **Fresh Ordering:** Simplifies the ordering process to ensure optimal stock levels.\n- **Production Planning:** Helps determine the right amount of prepared food to produce, minimizing waste.\n- **Head Office Dashboard:** A centralized system for corporate teams to monitor and manage fresh operations across multiple locations.\n\nThis suite not only enables better inventory management but also enhances the overall shopping experience for consumers.\n\n#### Why It Matters\n\nIn a world where consumer preferences shift rapidly, coupled with the complexities of supply chains, Guac's AI-driven approach represents a substantial leap for the grocery industry. It\u2019s not just about numbers\u2014it's about making food systems more efficient and sustainable in an era where both waste reduction and food availability are critical.\n\nThe grocery landscape is changing, and Guac is positioning itself as a frontline innovator ready to transform how retailers think about their supply chain. With a dedicated team and the backing of Y Combinator, Guac is on track to reshape the future of how groceries are stocked, sold, and managed, fostering a healthier planet and better consumer experience.\n\nIf you\u2019re in the grocery business and you\u2019re still ordering the old way, it might be time to take a look at what Guac has to offer. Their fresh solutions could be just what you need to thrive in a demanding market. \n\nFor more information or to see what Guac can do for your grocery store, visit their [website](https://www.guac-ai.com) and consider requesting a demo. It's your chance to embrace the future of grocery!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1ac7ce22251f6c3df03f4c303c7d90068ce4ecdd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191405Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1a6d51434db9081c6b78782641edacc8d12d640fc61af3d117bc3873f11a4b53",
+    "social_links": [
+        "https://www.linkedin.com/company/guac-ai"
+    ],
+    "logo_path": "data/logos\\Guac_logo.png"
+}

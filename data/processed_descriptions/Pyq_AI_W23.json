@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/pyq-ai",
+    "name": "Pyq AI",
+    "headline": "Make pushing paper your company's superpower",
+    "batch": "W23",
+    "description": "We build automations that can pull information from documents, fill out forms and software, and integrate with your existing systems.\r\n\nFor example, insurance brokerages use us to pull information from policies, fill out forms, update accounting software and generate proposals.",
+    "activity_status": "Active",
+    "website": "https://www.pyqai.com",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:documents; industry:generative-ai; industry:machine-learning; industry:b2b; industry:workflow-automation; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Aman Raghuvanshi, Founder",
+            "description": "Prior to co-founding Pyq, I worked at Sightly where I was the Director of Product. Studied Computer Science at Claremont McKenna College (through Harvey Mudd) and graduated in 2018. I enjoy watching F1, reading (mostly historical non-fiction that reads like fiction) and playing squash. I hold two A.I. patents.",
+            "linkedin": "https://www.linkedin.com/in/aman-r-b727976a/"
+        },
+        {
+            "name": "Emily Dorsey, Founder",
+            "description": "I previously worked on the HoloLens at Microsoft.  I studied Computer Science and French at Harvey Mudd College, and graduated in 2018.  I love reality TV, knitting, and baking.",
+            "linkedin": "https://www.linkedin.com/in/emdors/"
+        }
+    ],
+    "status": true,
+    "generated_description": "## Pyq AI: Transforming Document Management into a Superpower\n\n### Overview\nFounded in 2022 and part of Y Combinator's Batch W23, Pyq AI is a San Francisco-based startup on a mission to streamline document handling for businesses. Their slogan, \"Make pushing paper your company's superpower,\" encapsulates their aim to automate the tedious paperwork process that often bogs down productivity.\n\n### What They Do\nPyq AI builds automations that simplify the extraction of information from documents, auto-filling forms, and integrating seamlessly with existing software systems. This approach not only saves time but also minimizes the risk of errors associated with manual data entry.\n\nTheir technology is particularly beneficial for insurance brokerages that utilize Pyq AI to:\n\n- Pull crucial details from insurance policies\n- Streamline form filling\n- Update accounting software\n- Generate proposals swiftly\n\n### Key Offerings\nPyq AI\u2019s platform includes several innovative features:\n\n1. **Document Extraction**: Create structured, type-safe JSON from varied documents.\n2. **Browser Automation**: Automate repetitive tasks in the browser.\n3. **Document Querying**: Interact with documents using natural language queries.\n\nTheir product suite also showcases industry-specific solutions, primarily targeting the insurance sector with additional plans for banking and healthcare in the pipeline. \n\n### The Team\nWith a compact team of just two employees, Pyq AI's nimbleness allows for rapid iteration and deployment. They enjoy support from Michael Seibel, a prominent group partner at Y Combinator, which adds credibility to their innovative approach.\n\n### Market Position and Technology\nLabeled under tags such as 'documents', 'generative AI', and 'machine learning', Pyq AI uses state-of-the-art technologies to build robust and adaptive automated systems. Their solutions are designed to handle the intricacies of real-world documents, ensuring that businesses can automate tasks without frequent interruptions due to unexpected changes.\n\n### Privacy and Compliance\nRecognizing the sensitivity surrounding business data, Pyq AI assures its clients with SOC2 Type II and HIPAA compliance, providing peace of mind that their systems adhere to high standards of privacy and security.\n\n### Future Directions\nAs they continue to evolve, Pyq AI aims to expand its offerings into banking and healthcare sectors, enhancing their automation capabilities and making a larger impact across various industries.\n\n### Conclusion\nIn essence, Pyq AI is not just about reducing paperwork; it's about unleashing potential. By automating the mundane and error-prone processes tied to document management, they allow businesses to focus on what truly matters\u2014growth and innovation. If you're interested in seeing what they can do, check out their website for demos and further information: [Pyq AI](https://www.pyqai.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0c39786b679b55a7a59a1bc999c693b2640da54b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191659Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0c806b29bedb1f43b5ef72aa18be3fab482e33b9af21270eff4ae8f434beb82c",
+    "social_links": [
+        "https://www.linkedin.com/company/pyq-inc/",
+        "https://www.pyq.ai"
+    ],
+    "logo_path": "data/logos\\Pyq_AI_logo.png"
+}

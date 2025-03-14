@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/mito",
+    "name": "Mito",
+    "headline": "Cursor for data analysis",
+    "batch": "S20",
+    "description": "Mito is Cursor for data science. We\u2019re building an AI enabled IDE to 10x the productivity of data people. Data analysts use Mito to automate reports without relying on internal engineering resources. \r\n\nMito is used by thousands of business analysts, data scientists, and automation engineers at some of the world's largest banks, private equity shops, and consulting firms. \r\n\nOpen source is key to our enterprise sales strategy. Mito is open source and built on top of Jupyter. That means getting started with Mito is as simple as running `pip install` and doesn't require enterprises to manager new infrastructure. \r\n\nCheck us out at: https://www.trymito.io/",
+    "activity_status": "Active",
+    "website": "http://trymito.io",
+    "founded_date": 2020.0,
+    "team_size": 3.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:analytics; industry:open-source; industry:data-science; location:new-york",
+    "founders": [
+        {
+            "name": "Aaron Diamond-Reivich, Founder",
+            "description": "Hey! I'm a UPenn Alum where I studied computer science and management. I'm building low-code data science software for the next 1M data analysts with my best friend and twin brother. \n\nExcited to learn from & with other YC founders. Say hi!",
+            "linkedin": "https://www.linkedin.com/in/aaron-diamond-reivich/"
+        },
+        {
+            "name": "Jake Diamond-Reivich, Founder",
+            "description": "Jake graduated with a BS in Finance @ Wharton. Before founding Mito, he helped launch a global personalization analytics tool at SAP. He's our head of growth, and manages our open source community as well as our sales pipeline.",
+            "linkedin": "https://www.linkedin.com/in/jacob-diamond-reivich-03ab62145/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Mito: Revolutionizing Data Analysis with AI**\n\nFounded in 2020 and a proud Y Combinator Batch S20 graduate, Mito is carving a niche in the data analysis landscape. Their mission? To serve as the \"cursor\" for data scientists and analysts by dramatically improving productivity through smart automation.\n\nAt its core, Mito is an AI-enhanced Integrated Development Environment (IDE) designed to simplify and accelerate the workflow of data professionals. Users, from business analysts to automation engineers, leverage Mito to automate report generation\u2014saving countless hours typically spent wrangling data or waiting for engineering resources. It's no wonder that some of the world's largest banking institutions, private equity firms, and consulting agencies have adopted this tool.\n\nWhat makes Mito especially appealing is its open-source nature. Built on top of Jupyter, a beloved platform among developers and data scientists, getting started with Mito is as easy as a simple `pip install`. This means that companies can seamlessly integrate Mito into their existing infrastructure without the headache of new setups.\n\nLocated in New York, Mito is a small yet potent team of three, led by Dalton Caldwell as their Group Partner. Their focus is firmly on key themes like artificial intelligence, developer tools, analytics, and open-source data science technology.\n\nMito offers a suite of products designed to streamline various tasks:\n- **Mito Spreadsheet**: Write spreadsheet formulas, create pivot tables, and generate graphs\u2014all while Mito converts your actions into Python code.\n- **Mito AI**: An intelligent co-pilot that aids in data tasks and provides insights based on your input.\n- **Low-Code SQL**: Makes SQL queries accessible to those who may not be proficient in SQL.\n- **Data Apps**: Facilitates the transformation of scripts into interactive dashboards, effectively turning automation into a shareable tool.\n\nTheir clientele boasts notable Fortune 500 companies, including Accenture, Cisco, Deloitte, and Ericsson, all of whom have reported significant time savings thanks to Mito's capabilities.\n\nIn a world overflowing with data, Mito is presenting a much-needed solution\u2014one where data professionals can not only keep pace but substantially elevate their analysis efforts. If you're interested in leveling up your data game, you can learn more and get started at [Mito](http://trymito.io).\n\n---\n\nIn summary, Mito has positioned itself as a vital ally for data professionals, making complex tasks not just manageable, but downright intuitive. Their commitment to open-source innovation and practical solutions reflects a deep understanding of the challenges faced by organizations across various industries today.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/858ff72429e0286ba20d63e8f4c54e085d3177a1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191542Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=208a3d3c41649978666a8b4fc5d5547609474bbdb89657a06cd614c11e541a2d",
+    "social_links": [
+        "https://twitter.com/tryMito",
+        "https://github.com/mito-ds"
+    ],
+    "logo_path": "data/logos\\Mito_logo.png"
+}

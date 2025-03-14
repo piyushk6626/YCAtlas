@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/pax-markets-inc",
+    "name": "PAX Markets, Inc.",
+    "headline": "A new crypto exchange, on a chip: faster & smaller than a datacenter.",
+    "batch": "W25",
+    "description": "PAX is a new crypto exchange and is the first \u2013 in all capital markets \u2013 to operate from a single chip rather than an entire datacenter. Today, high frequency traders (\"HFTs\") pay handsomely to co-locate (\"co-lo\") their algorithms near to the exchange. PAX moves traders to within nanometers of the exchange \u2013 closer than ever before possible.\r\n\nSuch proximity unlocks unprecedented value to high frequency customers and PAX shares this value by offering zero-fee with cash-back to every other market participant on every trade. PAX is to exchange as Robinhood was to retail brokerage: the first in the industry to \u201cgo to zero\u201d and a complete game changer across every asset and geography.\r\n\nPAX founders, Pete and Ben have spent years working as high-frequency traders, from crypto to traditional markets. Having directly experienced the benefit of electronic trading, they share a belief in its potential to further evolve and create better global markets.",
+    "activity_status": "Active",
+    "website": "https://pax.markets/",
+    "founded_date": 2024.0,
+    "team_size": null,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:fintech; industry:marketplace; industry:b2b; industry:cryptocurrency",
+    "founders": [
+        {
+            "name": "Benjamin Kilimnik, Founder",
+            "description": "CTO at PAX. High frequency crypto trader. Smart contract trader. Cryptography and systems researcher at Brown. Distributed systems software at New Relic. Privacy engineer at Pixie Labs, startup exited to New Relic.\n\nB.S. Brown University, computer science.",
+            "linkedin": "https://www.linkedin.com/in/benkilimnik"
+        },
+        {
+            "name": "Pete Stevenson, Founder / CEO",
+            "description": "CEO at PAX. High frequency crypto trader. Ultra low-latency FPGA trading at Citadel Securities. U.S. Navy officer, nuclear powered fast attack submarine. Participated in two exited startups: HICAMP acquired by Intel and Pixie acquired by New Relic.\n\nPh.D., Stanford, electrical engineering. B.S. U.S. Naval Academy.",
+            "linkedin": "https://linkedin.com/in/etepnosnevets"
+        }
+    ],
+    "status": true,
+    "generated_description": "### PAX Markets, Inc. \n\n**Overview**  \nPAX Markets, Inc. is an innovative crypto exchange that\u2019s breaking new ground by operating from a single chip instead of the cumbersome datacenters that dominate the industry. Founded in 2024, and part of Y Combinator Batch W25, PAX aims to redefine trading speed and cost for high-frequency traders (HFTs) and retail users alike.\n\n**Mission**  \nThe vision behind PAX is bold: to provide a trading platform that is faster and more efficient than ever. By minimizing the distance between traders and the exchange to mere nanometers, PAX facilitates lightning-fast trades and aims to share the benefits of this proximity with its users through a groundbreaking pricing model.\n\n**What They Offer**  \nPAX stands as a game-changer akin to what Robinhood accomplished in the retail brokerage space. By eliminating transaction fees and introducing a cash-back system for trades, PAX sets out to democratize market access. In contrast to traditional exchanges that charge hefty fees, PAX\u2019s \u201czero-fee + cash-back\u201d model is designed to attract a broad spectrum of market participants.\n\n**Key Features**  \n1. **Zero Fees**: Unlike most crypto exchanges, PAX does not charge transaction fees. If you\u2019re not using their HFT-focused \u03bb API, you incur no costs and can even receive cash-back on trades.\n  \n2. **Ultra-Fast Transactions**: Response times are drastically reduced from microseconds to nanoseconds thanks to their unique expertise in embedding the exchange\u2019s systems into silicon. This achievement represents a 1000x improvement in trading speed.\n  \n3. **Direct Market Integration**: The \u03bb API allows traders to execute orders with zero network delay, making PAX the fastest in tick-to-trade operations.\n  \n4. **Value for All Participants**: By providing tools that cater both to HFT operations and regular traders, PAX\u2019s infrastructure aims to elevate the entire trading experience.\n\n**Founders**  \nPete and Ben, whose backgrounds in high-frequency trading span both crypto and traditional markets, lead PAX. Their firsthand experience in electronic trading equips them with the insights to build a platform that enhances market potential and profitability.\n\n**Current Status**  \nPAX is actively developing its platform, with plans for a demo on AWS F1 FPGA instances slated for Q1 2025. Early access to their API will be available on an invitation-only basis, indicating strong interest from potential users.\n\n**Tagline**  \nPAX is more than just a crypto exchange; it's a leap towards creating a more efficient and accessible trading environment for everyone.\n\nFor more information, visit their [website](https://pax.markets/) and consider joining their waitlist as they prepare to revolutionize the crypto trading landscape.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/18beddf1a474447da85fde65a89c30a8de4b5929.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191626Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=11e35e5a6c3f4ea1e757c078488c452c52e346fe2efab8dc0e8cef10fcbdebd7",
+    "social_links": [
+        "https://www.linkedin.com/company/pax-markets/"
+    ],
+    "logo_path": "data/logos\\PAX_Markets,_Inc._logo.png"
+}

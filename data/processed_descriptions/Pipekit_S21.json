@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/pipekit",
+    "name": "Pipekit",
+    "headline": "Pipekit scales data & CI pipelines for enterprises",
+    "batch": "S21",
+    "description": "Our app manages Argo Workflows for data teams, enabling complex data &\r\n CI pipelines in half the time while saving companies hundreds of thousands of dollars annually. We maintain Argo Workflows, an open-source pipeline framework for Kubernetes that\u2019s used in production by Bloomberg, Intuit, Adobe, New Relic, NVIDIA, and many other open-source early adopters.",
+    "activity_status": "Active",
+    "website": "https://pipekit.io",
+    "founded_date": 2021.0,
+    "team_size": 9.0,
+    "location": "Atlanta, GA",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:data-engineering; industry:devops",
+    "founders": [
+        {
+            "name": "Caelan Urquhart, Founder",
+            "description": "Co-founder, CEO @ Pipekit (S21) (https://pipekit.io)\nex-Kite, Expo, McKinsey\nFunctional strengths: community, marketing, ops, finance\nIndustry experience: dev tools, OSS, digital health",
+            "linkedin": "https://www.linkedin.com/in/caelan-urquhart/"
+        },
+        {
+            "name": "J.P. Zivalich, Founder & CTO",
+            "description": "Founder, CTO @ Pipekit (S21) (https://pipekit.io)\nex-Docker\nIndustry experience: Dev tools, OSS, investment banking",
+            "linkedin": "https://www.linkedin.com/in/jpzivalich/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Pipekit** is a compelling startup in the data infrastructure space, founded in 2021 and part of Y Combinator's Batch S21. Nestled in Atlanta, GA, the nine-person team is on a mission to scale data and Continuous Integration (CI) pipelines for enterprises, ultimately saving companies time and money.\n\nInitially, Pipekit focused on managing Argo Workflows for data teams, a pivotal tool enabling complex data and CI pipelines to be executed in half the time, which translates to substantial cost savings\u2014hundreds of thousands of dollars annually. Argo Workflows itself is an open-source framework running on Kubernetes, trusted by major companies like Bloomberg, Adobe, and NVIDIA.\n\nThe company positions itself as the **control plane for Argo Workflows**, making it easier to create and manage data pipelines. With Pipekit, users can build massive data pipelines in minutes, which saves valuable engineering resources and cuts cloud expenses significantly. Their blend of expertise in data engineering and DevOps means they provide a safety net for teams operating at scale.\n\n**Key offerings from Pipekit include**:\n\n- **Accelerated time to value**: Their platform allows users to set up and run production-grade workflows quickly, minimizing the technical barriers to effective data operations.\n- **Scalability**: With features like autoscaling and multi-cluster support, Pipekit ensures that workflows can handle varying processing demands seamlessly.\n- **Cost reduction**: The platform requires fewer DevOps resources for maintenance and delivers insights for optimizing workflow resource usage.\n- **Expertise and trust**: Recognized as leaders in the Argo community, Pipekit has earned a SOC 2 certification, underscoring their commitment to data security.\n\nThe company\u2019s services cater not only to data processing and machine learning teams, but also aim to turn data infrastructure challenges into growth opportunities for organizations. By connecting effectively with the open-source community and leveraging Argo Workflows, Pipekit empowers its clients to accelerate their data-to-value processes while ensuring reliability and efficiency. \n\nIf you're exploring how to amplify your data capabilities, you can start a free trial directly on their website (https://pipekit.io) and see how Pipekit could become an invaluable asset to your data strategy.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e07089aca306ee141cba981db8caba80777213b8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191642Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c351df6a3b3cf64e83652cef4dd603ba4dc506a5f916569ddc68ce32b0bcd92d",
+    "social_links": [
+        "https://www.linkedin.com/company/pipekit-io/",
+        "https://twitter.com/pipekitio",
+        "https://github.com/pipekit"
+    ],
+    "logo_path": "data/logos\\Pipekit_logo.png"
+}

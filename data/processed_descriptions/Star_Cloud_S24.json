@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/star-cloud",
+    "name": "Star Cloud",
+    "headline": "Data centers in space",
+    "batch": "S24",
+    "description": "(Formerly known as Lumen Orbit) \r\nStar Cloud is building a network of megawatt-scale data centers in space, scaleable to gigawatt capacity, to be able to train large models like GPT6. Falling launch costs give us access to abundant energy, passive cooling, and the ability to rapidly scale in space.\r\n\nIn Partnership with NVIDIA's Inception Program, we are launching our demonstrator satellite in July 2025, which will have 100x more powerful GPUs than have ever been operated in space.",
+    "activity_status": "Active",
+    "website": "https://www.starcloud.com/",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "Redmond, WA",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:hard-tech; industry:satellites; industry:climate; industry:cloud-computing",
+    "founders": [
+        {
+            "name": "Philip Johnston, Founder/CEO",
+            "description": "Philip is a second-time founder who previously spent time at McKinsey & Co. working on satellite projects for national space agencies. Philip has an MPA in National Security & Technology from Harvard University, an MBA from Wharton, an MA in Applied Mathematics & Theoretical Physics from Columbia University, and is a CFA Charter holder.",
+            "linkedin": "https://linkedin.com/in/johnstonphilip"
+        },
+        {
+            "name": "Ezra Feilden, Founder",
+            "description": "Ezra has a decade of experience with satellite design, specializing in deployable solar arrays and large deployable structures. Ezra comes from Airbus Defense & Space (SSTL) and Oxford Space Systems, where he worked on many missions, including NASA's Lunar Pathfinder. Ezra has a PhD in Materials Engineering from Imperial College London.",
+            "linkedin": "https://linkedin.com/in/ezrafeilden"
+        },
+        {
+            "name": "Adi Oltean, Founder",
+            "description": "I have a software and hardware background. As part of SpaceX and Microsoft I delivered key features in satellite networks, operating systems, cloud and machine learning infra. \n\nMy focus areas at Lumen include software, hardware and engineering design aspects of our satellite constellation.",
+            "linkedin": "https://www.linkedin.com/in/adioltean/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Star Cloud**\n\n**Mission:** Star Cloud is on a mission to revolutionize data centers by taking them to space. Formerly known as Lumen Orbit, the company is constructing a network of megawatt-scale data centers in orbit, with the potential to scale up to gigawatt capacities. This aims to meet the demanding computational needs for training large AI models, like GPT-6. \n\n**Vision:** As satellite launch costs drop, Star Cloud plans to leverage constant solar energy, employ passive cooling techniques, and sidestep terrestrial limitations, thus allowing for rapid scaling and deployment of these advanced data centers.\n\n**Key Developments:**\n- Star Cloud has partnered with NVIDIA's Inception Program to launch a demonstrator satellite in July 2025. This satellite will be equipped with cutting-edge GPUs, boasting 100 times the power available in previous space missions.\n- The company is part of Y Combinator's Batch S24 and was founded in 2024, currently operating out of Redmond, WA, with a lean team of just four employees.\n\n**Leadership Team:**\n- **Philip Johnston (Co-Founder & CEO)**: A second-time founder with extensive experience in satellite projects, Philip holds advanced degrees from prestigious universities, including an MBA from Wharton and a PhD in Applied Mathematics from Columbia.\n  \n- **Ezra Feilden (Co-Founder & CTO)**: With a decade of expertise in satellite design and a PhD in Materials Engineering from Imperial College London, Ezra has worked on major projects, including NASA's Lunar Pathfinder.\n  \n- **Adi Oltean (Co-Founder & Chief Engineer)**: A veteran from SpaceX and Microsoft with over 25 patents, Adi brings robust software engineering experience, particularly in large production GPU clusters.\n\n**Why Data Centers in Space?**\n1. **Cost-Effectiveness:** By using abundant solar energy and passive cooling, Star Cloud\u2019s approach eliminates the need for costly battery systems.\n2. **Scalability:** Space-based operations can grow to gigawatt scale without the constraints typical of terrestrial setups.\n3. **Speed of Deployment:** The flexibility of space launches means they can bypass many regulatory hurdles associated with building data centers on Earth.\n\n**Support and Partnerships:** Alongside NVIDIA, Star Cloud is backed by several notable venture firms such as NFX, Sequoia, and Andreessen Horowitz, highlighting the confidence investors have in their groundbreaking approach.\n\n**Website:** For more information on Star Cloud, including access to their white papers detailing their architectural visions for the future of space-based data centers, visit [Star Cloud's website](https://www.starcloud.com).\n\nIn essence, Star Cloud is positioning itself at the forefront of a new era in technology; if they're successful, the phrase \"data center\" might soon be associated with orbiting satellites rather than ground-based facilities. Keep an eye on this one; the sky is literally the limit!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3913efef0276a9544b60689f4e43ff4a5a126108.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191949Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a994b7738f30ab23b485daf762bbc7c493f41bcf1991d6e61c34ca1fc27f69b2",
+    "social_links": [
+        "https://www.linkedin.com/company/starcloudinc",
+        "https://x.com/starcloud_inc1",
+        "https://www.crunchbase.com/organization/lumen-orbit"
+    ],
+    "logo_path": "data/logos\\Star_Cloud_logo.png"
+}

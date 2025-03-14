@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/tempo-labs",
+    "name": "Tempo Labs",
+    "headline": "Visual Editor for React, powered by AI",
+    "batch": "S23",
+    "description": "Tempo is a visual editor for react that gives PMs, designers, and engineers the ability to collaborate visually on code. It offers the familiar UX of a design tool but functions like an IDE under the hood. Tempo is optimized for Vite and Tailwind.",
+    "activity_status": "Active",
+    "website": "https://www.tempolabs.ai/",
+    "founded_date": 2023.0,
+    "team_size": 8.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:b2b; industry:design-tools; industry:ai",
+    "founders": [
+        {
+            "name": "Kevin Michael, Founder",
+            "description": "Spent the last 5 years as founding engineer and head of product at Perpetua ($150M exit). Previously product fellow at Social Capital and engineer on the Visual Studio team at Microsoft.\n\nI've tried every low-code tool on the market and not a single one does a good job integrating with existing production codebases. I'm obsessed with solving this problem at Tempo and using AI to turn anyone into a 10X engineer.",
+            "linkedin": "https://www.linkedin.com/in/kevin1michael/"
+        },
+        {
+            "name": "Peter Gokhshteyn, Founder",
+            "description": "Passionate about building great products fast. Joined Perpetua ($150M exit) 6 years ago as employee #3 and led the engineering team from idea to PMF. Previous worked as a software developer at Google, Bloomberg & Zynga.",
+            "linkedin": "https://linkedin.com/in/petergokhshteyn"
+        }
+    ],
+    "status": true,
+    "generated_description": "Tempo Labs is shaking things up in the world of software development with an innovative visual editor designed for React, supercharged by AI. Founded in 2023 and a proud member of Y Combinator's Batch S23, this Toronto-based startup is on a mission to empower product managers, designers, and engineers alike to collaborate visually and seamlessly.\n\nAt its core, Tempo offers a drag-and-drop experience that feels much like a traditional design tool, but with the robustness of an integrated development environment (IDE) nestled under the surface. This means you can visually edit React components, layouts, and styles without losing the power that developers crave. The tool is optimized for popular technologies like Vite and Tailwind, ensuring that it fits neatly into existing workflows.\n\nWith a lean team of just eight, the startup has big plans. Their software not only integrates with existing React codebases, allowing users to work from what they already have, but also features components that can be imported from Storybook. It's an offer you can't ignore for those looking to build or maintain design systems efficiently.\n\nTempo Labs features a transparent pricing model, starting with a free option, and going up to premium tiers that grant unlimited access to AI features and developer support through their Agent+ service. This service promises to design and build features at a rapid pace, paired with top-notch human oversight.\n\nIn a landscape where collaboration is key, Tempo Labs provides a single source of truth that enhances the speed and quality of building React applications. Whether you\u2019re a designer aiming to create fluid UIs or a developer wanting more control over your code, Tempo's platform stands as a promising ally in your toolkit.\n\nTo dive deeper into what they offer, you can check out their website at [Tempo Labs](https://www.tempolabs.ai/) and explore their various features, components, and pricing options. It's a fresh breeze in the often-frustrating world of coding, promising to help teams build apps ten times faster with the power of AI.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ff8bfbe7f9c95f7c25964818baaac1b5bb2cbd5e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192009Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=52ac2e34ae17f8e229fc864a02c60ef28fd47fb9b51ff803e66f31e148287d3e",
+    "social_links": [
+        "https://www.linkedin.com/company/tempo-labs/",
+        "https://twitter.com/Tempo_Labs"
+    ],
+    "logo_path": "data/logos\\Tempo_Labs_logo.png"
+}

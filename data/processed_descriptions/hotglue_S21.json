@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/hotglue",
+    "name": "hotglue",
+    "headline": "Native user-facing SaaS integrations for your customers",
+    "batch": "S21",
+    "description": "hotglue is a tool that helps developers embed user-facing native SaaS integrations into their product with minimal development work, all while allowing the developers to remain in control of the data. hotglue also features a configurable Python-powered transformation layer for you to control how your product receives your customers' data.",
+    "activity_status": "Active",
+    "website": "https://hotglue.com",
+    "founded_date": 2020.0,
+    "team_size": 13.0,
+    "location": "Washington, DC",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Hassan Syyid, Founder",
+            "description": "Co-founder and CEO of hotglue",
+            "linkedin": "https://www.linkedin.com/in/hassan-syyid-7031a870/"
+        },
+        {
+            "name": "David Molot, Founder",
+            "description": "having fun building hotglue :)",
+            "linkedin": "https://linkedin.com/in/davidmolot"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Hotglue: Embedding Integrations with Ease**\n\n**Overview:**\nHotglue is a promising startup founded in 2020 and based in Washington, DC. It's a member of Y Combinator's Batch S21, a testament to its innovative approach. The company operates with a compact team of 13 talented individuals and is backed by Gustaf Alstromer, their Group Partner.\n\n**Mission:**\nHotglue\u2019s mission is straightforward: empower developers to create native user-facing integrations effortlessly. They enable businesses to provide seamless software-as-a-service (SaaS) offerings without the heavy lifting usually associated with coding these integrations.\n\n**What They Do:**\nAt its core, Hotglue provides a platform that simplifies the integration of various SaaS tools into existing products. It allows developers to maintain control over how customer data is processed, thanks to a customizable Python-based transformation layer. With Hotglue, the integration process is streamlined, minimizing ongoing maintenance and the need for extensive development resources. \n\n**Key Features:**\n1. **Unified API Schema:** Create integrations using a consistent data model across platforms.\n2. **Real-Time Triggers:** Facilitate immediate data transfer with webhooks.\n3. **Bi-directional Syncing:** Easily manage two-way integrations.\n4. **Pre-processing Layer:** Implement programmatic logic to process data before it's sent to apps.\n5. **Integration Management:** Centralized control over all app integrations.\n6. **Developer Tools:** Provide native tools to enhance the developer experience.\n\n**Recent Developments:**\nHotglue recently raised $4 million in seed funding led by 8VC, marking an exciting milestone in their journey. This capital will help accelerate growth and enhance their platform capabilities, further enabling product teams to ship powerful integrations at scale.\n\n**Customer Stories:**\nHotglue has transformed integration processes for companies like Chargebee, allowing them to streamline data management and focus their engineering resources on core product development. Another client, Inventoro, managed to implement over 40 integrations within just three months, highlighting the platform's ability to drastically reduce implementation time.\n\n**Tagline:**\nHotglue aims to help organizations conquer their integrations backlog and deliver seamless experiences for their customers.\n\n**Learn More:**\nTo understand how Hotglue can benefit your organization or to get started, check out their website at [Hotglue.com](https://hotglue.com).\n\nIn short, if you\u2019re looking for a faster and more efficient way to integrate customer-facing services into your product, Hotglue might just be your best bet. Their innovative approach is set to redefine how businesses handle integrations in the ever-changing SaaS landscape.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6b6ee852b2f23637c487b89301e074ca8c414be1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191423Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e067303e32e9de05a353152f920feb24a34cdb067ff359036d6bcfce8511f7a4",
+    "social_links": [
+        "https://www.linkedin.com/company/hotglue",
+        "https://twitter.com/hotgluexyz",
+        "https://github.com/hotgluexyz"
+    ],
+    "logo_path": "data/logos\\hotglue_logo.png"
+}

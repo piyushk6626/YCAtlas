@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/entangl",
+    "name": "Entangl",
+    "headline": "Automating hardware design end-to-end without errors",
+    "batch": "S24",
+    "description": "Entangl is automating engineering design. Starting with datacenter design, our AI agent automatically detects issues while engineering teams work. For each issue detected, Entangl suggests a detailed step-by-step solution.\r\n\n20,000 datacenters are being built every year, making this a massive market.",
+    "activity_status": "Active",
+    "website": "https://www.entangl.ai/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:aerospace; industry:enterprise-software; industry:automation; industry:automotive; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Shapol M, Founder",
+            "description": "Co-founder & CEO at Entangl.",
+            "linkedin": "https://linkedin.com/in/shapol"
+        },
+        {
+            "name": "Antanas Zilinskas, Founder",
+            "description": "Co-founder and CTO at Entangl. Previously led the engineering of a 25km reusable student rocket. Also co-founded an AI research lab at university focusing on humanoids, as well as trajectory predictions and flight readiness monitoring for rockets. Research experience at Tokyo Tech, simulating aerotrains using ANNs.",
+            "linkedin": "https://www.linkedin.com/in/antanaszilinskas"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Entangl: Streamlining Hardware Engineering with AI**\n\nFounded in 2024 and located in San Francisco, Entangl is on a mission to automate hardware design from start to finish, eliminating errors that can derail engineering projects. Initially focused on data center designs, this innovative company leverages artificial intelligence to detect issues in real time, guiding engineering teams with tailored, step-by-step solutions for each detected problem.\n\nThe engineering landscape is vast, with approximately 20,000 data centers built annually, revealing a significant market opportunity for Entangl. This startup, part of Y Combinator's Batch S24, operates with a compact team of three, backed by notable support, including Group Partner Tom Blomfield.\n\n**What Does Entangl Do?**\n\nEntangl's flagship product focuses on automated issue detection. As engineers work, its AI tools autonomously scan designs for errors, providing immediate feedback and actionable suggestions. This capability extends across various sectors, including aerospace, telecommunications, and automotive, proving versatile for a range of hardware projects like networks, aircraft, and spacecraft.\n\n### Key Features:\n- **Automated Issue Detection**: Identifies design errors early, preventing costly missteps.\n- **Solution Identification**: Provides precise, context-specific solutions for detected issues.\n- **Integration with Tools**: Seamlessly connects to popular platforms, such as GitHub, Slack, and AutoDesk, ensuring collaborative efficiency.\n\n### Use Cases:\n- **Data Centers**: Ensures uptime reliability and compliance.\n- **Aerospace Projects**: Enhances safety through real-time error detection.\n- **General Hardware Engineering**: Streamlines the entire design process across various applications.\n\n**Why Choose Entangl?**\n\nIn a world where every decision can carry significant financial implications, having a tool that proactively identifies and resolves issues can drastically change project outcomes. With its powerful AI capabilities, Entangl stands out for its commitment to delivering accurate, efficient support in hardware design processes.\n\nFor those interested in exploring how Entangl can transform your engineering projects, you can [book a demo](https://www.entangl.ai/<./get-started>) or [get a quote](https://www.entangl.ai/<./get-quote>).\n\nTo learn more about what Entangl has to offer and how it fits into the evolving landscape of engineering design, visit [Entangl.ai](https://www.entangl.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4fba1b0742f3bcbacd9c007008a41c0c0a44e07a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191317Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=453954d9bf7541ab2d27823c2ae41f67596f03c6a4fd7683fbe875d57ecc9d1b",
+    "social_links": [
+        "https://www.linkedin.com/company/entangl",
+        "https://twitter.com/Entangl_AI",
+        "https://www.crunchbase.com/organization/entangl"
+    ],
+    "logo_path": "data/logos\\Entangl_logo.png"
+}

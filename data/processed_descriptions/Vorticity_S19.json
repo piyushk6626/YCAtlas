@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/vorticity",
+    "name": "Vorticity",
+    "headline": "The Fastest Scientific Computing Platform on the Planet",
+    "batch": "S19",
+    "description": "Many pressing problems facing humanity can be solved with faster scientific compute. Currently, it takes billions of dollars to design and develop a new fusion reactor, a hyper-sonic airplane or a new cancer treatment. This is because scientists and engineers have to build very expensive things before they even know if their ideas work. But what if we can simulate the workings of these ideas (and more) on computers first and have high confidence that it works before we build really expensive things?\r\n\nThe work of humanity's greatest scientists over the years has given us the physics and math to do this. The problem is that we simply do not have the computing power to solve these big problems.\r\n\nTo address this, the Vorticity Inc is re-imagining scientific computing all the way down to processor architecture and system design. Our proven technology is already helping the energy, life sciences and aerospace industries.",
+    "activity_status": "Active",
+    "website": "http://vorticity.xyz/",
+    "founded_date": 2019.0,
+    "team_size": 5.0,
+    "location": "Redwood City, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:cloud-computing; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Chirath Neranjena, Founder",
+            "description": "Aerospace Engineer.\nPrivate pilot, amateur musician and photographer.\nCaltech | Idealab | GoogleX | Y Combinator.\nMade in Sri Lanka",
+            "linkedin": "https://www.linkedin.com/in/chirath-neranjena-8299241/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Vorticity is on a mission to become \"The Fastest Scientific Computing Platform on the Planet.\" Founded in 2019 and hailing from Redwood City, CA, Vorticity aims to tackle some of humanity's most pressing challenges by revolutionizing scientific computing. The problem at hand? Many ambitious projects\u2014like developing a new fusion reactor, a hypersonic airplane, or innovative cancer treatments\u2014cost billions because scientists and engineers often have to create expensive prototypes without knowing if their concepts will succeed.\n\nVorticity is determined to change that narrative. By leveraging cutting-edge technology to simulate scientific ideas efficiently before construction, they provide a pathway to save time, resources, and capital. Their approach involves rethinking everything from processor architecture to system design, allowing for computational speeds that can be 10, 100, or even 1,000 times faster than current methods.\n\nThe company has already made significant strides, serving industries such as energy, life sciences, and aerospace. Their suite of products includes advanced tools like:\n\n- **Astrape**: Electromagnetic Survey Inversion\n- **Rhea**: Anisotropic Full Waveform Inversion (FWI) model\n- **Plutus OPE**: Options Pricing Engine\n- **Plutus VaR**: Value at Risk (VaR) tool\n- **Asclepius**: A Molecular Dynamics Engine\n\nVorticity's team is small but mighty, consisting of just five employees, under the mentorship of their group partner Nan. Their work and innovative spirit have earned them a spot among the ten startups selected for the FIA\u2019s 2024 Innovators Pavilion. \n\nIn terms of support and partnerships, Vorticity is collaborating with renowned institutions and companies, including AWS, Google X, Stanford University, and the California Institute of Technology. Their roster of investors boasts industry heavyweights such as Andreessen Horowitz and Dolby Family Ventures.\n\nVorticity is setting the stage for a future where scientific breakthroughs are less about risky investments and more about informed, data-driven approaches\u2014because when you can simulate before you build, you minimize the chances of failure. \n\nFor more details, check out their [website](http://vorticity.xyz/) and see how they're shaping the future of scientific computing.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/55f4776ec8b463eced01416dd711c21a9592e5b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192053Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=659e381054bc245bdfff245514c5d55862ca6afd9628cee5d70df1288cc8c477",
+    "social_links": [
+        "https://www.linkedin.com/company/vorticityinc/"
+    ],
+    "logo_path": "data/logos\\Vorticity_logo.png"
+}

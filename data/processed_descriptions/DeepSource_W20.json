@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/deepsource",
+    "name": "DeepSource",
+    "headline": "The Code Health Platform",
+    "batch": "W20",
+    "description": "DeepSource continuously analyzes source code changes to find and fix issues categorized as security, performance, anti-patterns, and bug-risks. DeepSource integrates with GitHub, GitLab, Bitbucket, and Azure DevOps and runs analysis on every commit and pull request, discovers and fixes potential issues before they make it to production.",
+    "activity_status": "Active",
+    "website": "https://deepsource.com/",
+    "founded_date": 2018.0,
+    "team_size": 11.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jai Pradeesh, Founder",
+            "description": "Founder, DeepSource",
+            "linkedin": "https://www.linkedin.com/in/jaipradeesh/"
+        },
+        {
+            "name": "Sanket Saurav, Founder",
+            "description": "Co-founder/CEO at DeepSource (W20). Passionate about building developer tools. Part designer, part developer.",
+            "linkedin": "https://in.linkedin.com/in/sanketsaurav"
+        }
+    ],
+    "status": true,
+    "generated_description": "**DeepSource: A Brief Overview**\n\nDeepSource is a company based in San Francisco, founded in 2018 and part of Y Combinator's W20 batch. Their mission centers around becoming \"The Code Health Platform,\" and they have positioned themselves squarely within the developer tools and SaaS sectors. With a compact team of 11 talented individuals, DeepSource aims to revolutionize how developers engage with code quality and security.\n\n### What They Do\nDeepSource offers a comprehensive platform that seamlessly analyzes changes in source code through static analysis. Their tools identify potential issues in categories such as security, performance, coding anti-patterns, and bug risks. The platform integrates effortlessly with GitHub, GitLab, Bitbucket, and Azure DevOps, providing real-time analysis on every commit and pull request. This proactive approach means that developers can address issues before they reach production, significantly reducing the risk of bugs and vulnerabilities.\n\nCurrently, over 6,000 companies\u2014ranging from nimble startups to established Fortune 500 firms\u2014utilize DeepSource to enhance their coding practices. The platform is designed for a variety of use cases, including Static Application Security Testing (SAST), Software Composition Analysis (SCA), code quality checks, Infrastructure as Code (IaC) security assessments, code coverage tracking, and advanced AI-driven fixes.\n\n### Key Features\n- **Static Analysis & SAST**: DeepSource performs in-depth code analysis to catch vulnerabilities early.\n- **Autofix AI**: Delivers automatic error corrections, enabling developers to focus more on innovation than troubleshooting.\n- **Security Gates**: Customizable gates can enforce specific quality and security requirements on pull requests.\n- **Integration**: With support for popular development tools, teams can minimize disruption and maintain workflows.\n- **Reporting**: Shareable reports enhance transparency and collaboration across teams.\n\n### Why It Matters\nIn today\u2019s fast-paced development landscape, ensuring code quality and security is critical. DeepSource\u2019s approach rejects the proliferation of false positives that often plague legacy tools, boasting a less than 5% false-positive rate. This reliability, combined with seamless CI/CD integration, means developers can work more efficiently without compromising safety.\n\n### The Bigger Picture\nOperating at the nexus of developer efficiency and security, DeepSource embodies a modern solution to a common problem faced by tech teams today. They compete with established players like SonarQube and Snyk, but their user-friendly design and advanced features give them an edge. DeepSource is not just about identifying issues\u2014it's about enabling developers to write code that is secure, performant, and maintainable from the get-go.\n\nWhether you\u2019re a small startup or a large enterprise, DeepSource seems poised to drive a healthier code ecosystem across the industry.\n\n**Visit**: [DeepSource](https://deepsource.com/) for more information.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fc705bef24ebf932bdcdba3b98a2767c9f27e909.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191116Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4521e3a15b70d578513d95e5e269fb5f43bca3327719b3ee3c260b746077f59b",
+    "social_links": [
+        "https://www.linkedin.com/company/deepsourcelabs/",
+        "https://twitter.com/deepsourcehq",
+        "https://www.facebook.com/DeepSourceHQ/",
+        "https://www.crunchbase.com/organization/deepsource",
+        "https://github.com/deepsourcecorp"
+    ],
+    "logo_path": "data/logos\\DeepSource_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/scout-4",
+    "name": "Scout",
+    "headline": "AI-powered student information system for K-12 schools",
+    "batch": "W25",
+    "description": "The student information system (SIS) is the core system of record in every K-12 school. It tracks students, attendance, grades, schedules, staff, and more - kind of like the ERP for schools.\r\n\nLegacy SIS providers do just about that, and not much more. School districts layer dozens of tools on top of their SIS to fill in the gaps.\r\n\nScout is an AI-powered student information system that automates school- and district-wide busywork, from day-to-day operations like attendance tracking to annual compliance reports. Our mission is to help school districts run like high-performing organizations, enabling them to provide high-quality, personalized instruction to every student.",
+    "activity_status": "Active",
+    "website": "https://scoutforschools.com/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:education; location:new-york",
+    "founders": [
+        {
+            "name": "Max Bertfield, Founder & CTO",
+            "description": "Building software for educators",
+            "linkedin": "https://www.linkedin.com/in/maxbertfield/"
+        },
+        {
+            "name": "Noah Fichter, Founder",
+            "description": "Building the next generation of digital infrastructure for America's schools",
+            "linkedin": "https://www.linkedin.com/in/noah-p-fichter/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Scout: Revolutionizing K-12 School Management with AI**\n\n**Overview**  \nScout, founded in 2024 and based in New York, is an innovative student information system (SIS) designed specifically for K-12 schools. It emerged from the realization that traditional SIS providers often fall short, only covering essential data like student tracking, grades, and attendance. In many cases, schools end up using a patchwork of tools to manage operations. Scout aims to replace this chaos with an AI-powered, fully integrated system that streamlines school and district administration.\n\n**Mission**  \nThe mission of Scout is clear: to help school districts operate as high-performing organizations. By automating the routine, such as attendance tracking and compliance reporting, Scout frees up educators to focus on delivering personalized education. They want to ensure that every student receives the instruction they deserve without the administrative burden weighing them down.\n\n**Key Features**  \nWhat sets Scout apart? Here are some highlights:\n\n1. **AI-Powered Automation**: Automates over 50% of teachers\u2019 administrative tasks, significantly boosting productivity.\n2. **Comprehensive Tools**: Provides features like attendance tracking, regulatory compliance, and document management.\n3. **Integrations**: Compatible with over 50 online learning platforms, quickly adding new integrations to fit unique school needs.\n4. **Data Security**: Prioritizes safety with advanced encryption and real-time monitoring, complying with all relevant legal standards to protect student data.\n5. **Exceptional Support**: Offers world-class, responsive customer service, ensuring direct access to the executive team for any issues or questions.\n\n**The Vision**  \nScout builds its software with the understanding that independent study schools, particularly in California, face unique challenges related to paperwork and compliance. Their system tackles these issues head-on, allowing educators to redirect their energies toward teaching rather than drowning in bureaucracy.\n\n**The Team**  \nScout is a lean operation, currently staffed with a team of two, but backed by the expertise and resources of Y Combinator, where it\u2019s part of Batch W25. Aaron Epstein serves as the Group Partner guiding their journey.\n\n**Engagement**  \nInterested in seeing Scout in action? They invite schools to book a demo through their website to explore how their SIS can transform school management.\n\n**Concluding Thoughts**  \nScout isn\u2019t just another software provider; it\u2019s a partner in the educational journey, helping schools not just survive but thrive in the digital age. As they put it, \u201cSaved money, saved time, saved headaches.\u201d That\u2019s a promise every busy educator can appreciate.\n\nFor more information, check out their website: [Scout for Schools](https://scoutforschools.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cf0198bc9bb67a1a24461eb990691a94c0c32b39.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191911Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4a20b82e1b7d777643384af69b9e5ca9cfc0d0ad4ee447a28ceaafaccf83369a",
+    "social_links": [
+        "https://www.linkedin.com/company/scout-edu"
+    ],
+    "logo_path": "data/logos\\Scout_logo.png"
+}

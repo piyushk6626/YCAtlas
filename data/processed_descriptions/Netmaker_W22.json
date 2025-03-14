@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/netmaker",
+    "name": "Netmaker",
+    "headline": "Automated WireGuard networks for distributed systems and Kubernetes",
+    "batch": "W22",
+    "description": "Netmaker is an open source virtual networking platform based on WireGuard. With Netmaker, you can bridge, clouds, the edge, IoT devices, and Kubernetes clusters. Netmaker provides the fastest possible virtual networks, with an average speed 10x faster than standard alternatives. Think of Netmaker like your VPC for distributed systems.",
+    "activity_status": "Active",
+    "website": "https://netmaker.io",
+    "founded_date": 2021.0,
+    "team_size": 7.0,
+    "location": "Asheville, NC",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:devsecops; industry:next-gen-network-security; industry:open-source; industry:kubernetes",
+    "founders": [
+        {
+            "name": "Alex Feiszli, Founder",
+            "description": "Alex is the founder and CEO of Netmaker. Previously, Alex was a senior engineer at IBM, a consultant at Deloitte, and contracted for Red Hat. Alex has worked with over 20 enterprise clients, implementing solutions for DevOps, Kubernetes, and Multi-Cloud.",
+            "linkedin": "https://www.linkedin.com/in/feiszli"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Netmaker: Revolutionizing Virtual Networking\n\n**Mission**: Netmaker aims to automate WireGuard networks for distributed systems and Kubernetes. \n\n**Overview**: Founded in 2021 and part of Y Combinator Batch W22, Netmaker resides in Asheville, NC, with a dedicated team of seven. The company specializes in creating open-source virtual networking platforms that bridge diverse environments\u2014clouds, the edge, IoT devices, and Kubernetes clusters. With speeds averaging 10x faster than standard alternatives, think of Netmaker as your VPC for distributed systems. [Check them out here](https://netmaker.io).\n\n**Core Values**: They tag themselves as key players in *devsecops*, *next-gen-network-security*, *open-source*, and *kubernetes*. \n\n### Features and Solutions\n- **Egress Gateway**: Easily make external networks accessible.\n- **Mesh VPN**: Introduces a game-changing way to manage virtual networks.\n- **Remote Access Gateway**: Provides a seamless route into private networks.\n- **Relay**: Navigate hard-to-reach areas effortlessly.\n- **User Management**: Robust access controls for users.\n- **DNS & Metrics**: Simplified navigation and performance monitoring.\n- **Failover**: Enhanced uptime for connections.\n\nTheir platform is particularly designed for businesses needing to manage diverse environments safely and efficiently.\n\n### How It Works\nNetmaker offers a unique approach toward creating software-defined networks:\n1. **Create Networks**: Set up multiple, segmented networks tailored to your requirements.\n2. **Add Nodes**: Support multiple integration methods for endpoints, making it versatile for Linux, Docker, and mobile clients.\n3. **Traffic Routing & ACLs**: Configure your network traffic and permissions for a zero-trust environment.\n4. **User Management**: Seamlessly onboard users with role-based access controls.\n\n### Notable Endorsements\nCompanies like Ahoy Games, Open Circle, and System-Fuchs GmbH cite Netmaker as essential for securing their networking needs, emphasizing its ease of use and powerful performance. One user stated, \"Netmaker is a game-changer,\" highlighting its intuitive interface and open-source benefits.\n\n### Conclusion\nNetmaker is making significant strides in virtual networking, with its powerful, versatile, and user-friendly platform ensuring secure connections across a variety of use cases. Whether for IoT, Kubernetes, or complex system integrations, if you're looking for robust networking solutions, you might want to take a hard look at what Netmaker offers. \n\nFor more details, visit [Netmaker's website](https://netmaker.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/583816a2d7ac90ec1e8bb19c8c2500e052b738fa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191556Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d7fc7f991de34dc25348974c77643e2921bbba50f0b5709137fbe58299ab9828",
+    "social_links": [
+        "https://www.linkedin.com/company/netmaker-inc/",
+        "https://twitter.com/netmaker_io",
+        "https://www.crunchbase.com/organization/netmaker-yc-w22",
+        "https://github.com/gravitl"
+    ],
+    "logo_path": "data/logos\\Netmaker_logo.png"
+}

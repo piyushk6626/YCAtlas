@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/turion-space",
+    "name": "Turion Space",
+    "headline": "Moving Things Around in Space, Imaging Space Objects When We're Not",
+    "batch": "S21",
+    "description": "Turion Space is building spacecraft to move things around in space and image space objects when they\u2019re not, and focused on developing the dual-use technology required to ensure a sustainable future in space. They aim to build a strong foundation selling space domain awareness imagery data while advancing their technology towards an affordable solution for orbital debris removal and eventually asteroid mining. The founding team originates from SpaceX, and after going through the Y-combinator accelerator in summer 2021 went on to raise a $6.2M seed round and is launching their first DROID satellite in early 2023.",
+    "activity_status": "Active",
+    "website": "https://turionspace.com/",
+    "founded_date": 2020.0,
+    "team_size": 15.0,
+    "location": "Irvine, CA",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:space-exploration; industry:satellites",
+    "founders": [
+        {
+            "name": "Ryan Westerdahl, Founder",
+            "description": "Engineer working in aerospace over the last decade, coming most recently from 8.5 years at SpaceX.  Automating data pipelines, performance simulations, vibration environments and testing, anomaly resolution, hardware design.",
+            "linkedin": "https://www.linkedin.com/in/rwesterdahl/"
+        },
+        {
+            "name": "Tyler James Pierce, Founder",
+            "description": "Aerospace engineer and executive MBA candidate with over a decade of experience in the aerospace and defense sector. Specializes in analysis-driven design, multi-disciplinary optimization, and data processing. Hands-on experience with concept-qualification and testing including vacuum thermal testing of multi-billionaire dollar programs. Experienced with cradle-to-grave engineering of aerospace-assembly-automation system utilizing high-precision robotic manipulators and AI-based vision systems.",
+            "linkedin": "https://www.linkedin.com/in/tylerjpierce/"
+        },
+        {
+            "name": "Patryk Wiatr, Founder",
+            "description": "Full stack software engineer with almost 10 years of experience building and maintaining scalable web applications. Patryk has built applications from the ground up, including requirement gathering, testing, and deploying, as well as designing and implementing back end infrastructure solutions to power those applications.",
+            "linkedin": "https://www.linkedin.com/in/patryk-wiatr/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Summary of Turion Space\n\n**Company Overview:**\nFounded in 2020 and based in Irvine, California, Turion Space is venturing into the ambitious realm of space sustainability. The company emerged from a team with roots in SpaceX and became part of the Y Combinator Batch S21 in the summer of 2021. They raised a promising $6.2 million seed round and are gearing up to launch their first DROID satellite as of early 2023.\n\n**Mission:**\nTurion Space is on a quest to \"Move Things Around in Space\" and \"Image Space Objects When We're Not.\" Their mission revolves around developing dual-use technology that promises a sustainable future in space exploration. The goal is not just to operate spacecraft but also to ensure safety and efficiency in satellite activity and orbital environment management. \n\n**Core Activities:**\n1. **Satellite Operations** - They design and operate DROID satellites equipped with advanced sensors to monitor space effectively.\n2. **Space Domain Awareness** - Collecting and analyzing imagery data to improve understanding of objects in orbit, thus reducing collision risks and optimizing avoidances.\n3. **Debris Removal** - Turion aims to tackle the issue of orbital debris, which poses significant risks to both satellites and future missions. Their plan includes de-orbiting non-maneuverable objects and transitioning others to designated \u2018graveyard\u2019 orbits.\n4. **Asteroid Mining** - Looking further ahead, Turion plans to capitalize on the resources found in metallic asteroids in the 2030s, which could provide vast amounts of precious metals necessary for future space endeavors.\n\n**The Team:**\nWith a compact team of 15 employees, Turion Space is backed by experienced professionals who have a strong foundation in aerospace technologies. Aaron Epstein serves as the Group Partner, guiding the company through its ambitious objectives.\n\n**Products and Technology:**\nTurion offers a suite of products including:\n- **DROID Satellites** equipped with capabilities for remote sensing and in-space mobility.\n- **STARFIRE OS**, an operating system for satellite management, enabling real-time data processing and mission planning.\n\nTheir approach not only prioritizes the current capabilities of satellite technologies but also sets the groundwork for breakthroughs in space mobility and sustainability.\n\n**Recent Developments:**\nTurion Space continues to attract attention, having recently been selected for the Space RCO Prime Fusion Accelerator and awarded a substantial contract by the U.S. Department of Defense worth $32.6 million for multi-payload satellites and real-time command and control systems.\n\n### Why It Matters:\nIn the larger context of space exploration, Turion Space is positioned at the forefront of addressing the pressing issues of sustainability and resource utilization. Understanding and managing the crowded ecosystem of low Earth orbit (LEO) while preparing for future endeavours like asteroid mining could redefine our capabilities in space.\n\nFor more information, you can visit their [website](https://turionspace.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ca3783e46d3f7c361527c99d7b6e8e2af31fa2ea.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192031Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3269e112e8b4babf0fdfc3167cbc04e39ab4d12875392aa5e05614878fad0e31",
+    "social_links": [
+        "https://www.linkedin.com/company/turion-space",
+        "https://twitter.com/TurionSpace"
+    ],
+    "logo_path": "data/logos\\Turion_Space_logo.png"
+}

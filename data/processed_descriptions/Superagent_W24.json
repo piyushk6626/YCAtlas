@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/superagent",
+    "name": "Superagent",
+    "headline": "The agent workspace",
+    "batch": "W24",
+    "description": "Superagent is a workspace where AI assistants can work together, learn new information, and handle complex tasks on their own. Unlike regular AI tools that can only do basic tasks, Superagent's AI assistants can help teams with ongoing work like compliance, researching markets, and manage R&D - work that usually needs human employees.",
+    "activity_status": "Active",
+    "website": "https://superagent.sh/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alan Zabihi, Founder",
+            "description": "CEO & Co-founder of Superagent",
+            "linkedin": "https://linkedin.com/in/alanzabihi"
+        },
+        {
+            "name": "Ismail Pelaseyed, Founder",
+            "description": "CTO & Co-founder of Superagent.",
+            "linkedin": "http://se.linkedin.com/in/pelaseyed/en"
+        }
+    ],
+    "status": true,
+    "generated_description": "Superagent is an innovative startup founded in 2023, based in San Francisco and part of the Y Combinator Batch W24. The company\u2019s mission is to create an \u201cagent workspace\u201d where AI assistants can perform complex tasks collaboratively and autonomously\u2014much like human employees, without being limited by conventional AI capabilities.\n\nThe founders recognized a gap in existing AI tools, which typically handle only simple, repetitive tasks. Superagent seeks to change that by allowing teams to employ AI agents that can engage in ongoing work\u2014such as compliance, market research, and managing research and development. This means that businesses can streamline operations and tackle significant projects without the need to expand their human teams.\n\nWith only a small team of two, Superagent has the ambition to redefine the interaction between humans and AI in the workplace. Their platform is designed to not just improve efficiency but to act as a collaborative partner in achieving complex goals.\n\nYou can learn more about them through their website ([superagent.sh](https://superagent.sh/)), where they offer insights into their philosophy and updates on their technology. They also invite interested users to join their waitlist to be part of this cutting-edge workspace.\n\nIn short, Superagent is carving a niche in the AI landscape by building a workspace that transforms AI from a tool into a collaborative partner, capable of expanding what teams can achieve.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/980cdff5291ab639e64fc3f485f23b7bf03f685f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191956Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f5b4b76f3f00b3f2c9eb80e593fd9a83286e37a7f7d9d4a29e8191e39cc91b00",
+    "social_links": [
+        "https://www.linkedin.com/company/superagent-sh/",
+        "https://twitter.com/superagent_ai",
+        "https://github.com/superagent-ai/superagent"
+    ],
+    "logo_path": "data/logos\\Superagent_logo.png"
+}

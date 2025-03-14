@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/singlestore",
+    "name": "SingleStore",
+    "headline": "The cloud-native, operational database built for speed and scale.",
+    "batch": "W11",
+    "description": "MemSQL is The No-Limits DatabaseTM, powering modern applications and analytical systems with a cloud-native, massively scalable architecture for maximum ingest and query performance at the highest concurrency. MemSQL envisions a world where every business can make decisions in real-time and every experience is optimized through data. Global enterprises use the MemSQL distributed database to easily ingest, process, analyze, and act on data in order to thrive in today\u2019s insight-driven economy. MemSQL is optimized to run on any public cloud or on-premises with commodity hardware. Visit www.memsql.com or follow us @memsql.\r\n\nHeadquartered in San Francisco, CA with offices in Seattle, WA and Portland OR, MemSQL has raised over $100M from top investors including GV, Accel Partners, and Khosla Ventures, among others. MemSQL is trusted by customers including Uber, Akamai, Dell EMC, Samsung, Comcast, Kellogg, and more.\r\n\nIf you want to work at a company that celebrates diversity, innovation, leadership, and creativity every day, check out our openings at https://www.memsql.com/careers/.",
+    "activity_status": "Active",
+    "website": "https://www.singlestore.com",
+    "founded_date": null,
+    "team_size": 150.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nikita Shamgunov",
+            "description": "Partner at KV and Chairman at Singlestore. I founded Singlestore as CTO and took over as CEO in 2017. In this capacity I scaled the company from ~9 to ~40M ARR.  Singlestore is a YC11 company that's on the trajectory to go public in 2023. Previously was a senior engineer at Facebook on the infrastructure team and Microsoft on the SQL Server.\n\nI'm interested in data, analytics, developer tools, AI, and blockchain technology. I have built an enterprise company, but investing much broader",
+            "linkedin": "https://www.linkedin.com/in/nikitashamgunov/"
+        },
+        {
+            "name": "Eric Frenkiel",
+            "description": null,
+            "linkedin": "https://linkedin.com/in/ericfrenkiel"
+        }
+    ],
+    "status": true,
+    "generated_description": "**SingleStore: The Future of Databases**\n\n**Overview**\nSingleStore, previously known as MemSQL, is a cloud-native operational database designed for speed and scalability\u2014think of it as the engine driving real-time data decisions for businesses. Founded in the Y Combinator W11 batch, it aims to empower organizations to leverage data for optimal, instantaneous responses to market demands.\n\n**Key Features**\nSingleStore brands itself as \"The No-Limits DatabaseTM,\" meaning it stretches the conventional boundaries of data handling. Its architecture allows it to efficiently process vast amounts of data while maintaining high performance even under heavy query loads. Whether it's for analytical systems or modern applications, SingleStore handles SQL, JSON, full text, and vector workloads seamlessly\u2014all in a unified platform.\n\nImagine being able to ingest millions of records per second and ensuring that data is searchable almost instantly. That\u2019s the power SingleStore promises, making it ideal for use cases where speed is not just beneficial, but critical.\n\n**The Company**\nHeadquartered in San Francisco and supported by a team of roughly 150 employees, SingleStore has attracted over $100 million in investment from prominent backers like GV (formerly Google Ventures), Accel Partners, and Khosla Ventures. Its client roster is impressive, featuring global names like Uber, Dell EMC, Samsung, and Comcast.\n\nSingleStore emphasizes a company culture celebrating diversity, innovation, and creativity, making it an attractive workplace for talent looking to make an impact in the tech world. If you\u2019re interested in joining their ranks, they have open positions listed on their website.\n\n**Mission and Vision**\nSingleStore's mission is clear: to provide businesses with the ability to make real-time decisions that propel them forward in an increasingly insight-driven economy. They envision a future where data isn't just available but is leveraged effectively to enhance every business experience.\n\n**What They Offer**\n- **Speed and Scale**: A powerful, lightning-fast database offering real-time analytics that scales effortlessly as applications grow.\n\n- **Unified Architecture**: SingleStore's platform minimizes complexity by merging transactional data, analytics, and search into a single solution\u2014less friction means more productivity.\n\n- **Customer-Centric Development**: They prioritize customer feedback to continuously enhance their offerings, ensuring that the database evolves with user needs.\n\n**Pricing**\nSingleStore offers various pricing tiers to accommodate different needs, starting with a free tier for development and evaluation purposes. The Standard plan is competitively priced, making it accessible for businesses looking for robust production environments.\n\n**Conclusion**\nIn a world where data is the new currency, SingleStore stands at the forefront, pushing the envelope on what modern databases can achieve. Whether you\u2019re a startup or an enterprise, if real-time data processing and analytics are critical to your success, SingleStore could very well be the partner you need.\n\n*Website: [SingleStore](https://www.singlestore.com)*  \n*Follow them on [Twitter](https://twitter.com/singlestoredb) for the latest updates.*",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1f7fe707128571a14c3c41199627ec8f6dcef67d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191929Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9eeed34563f845702f584ee65c3f65f70f1b0f019f0ed77c75a04a0486bbe10a",
+    "social_links": [
+        "https://twitter.com/memsql",
+        "https://www.facebook.com/memsql",
+        "https://www.crunchbase.com/organization/memsql",
+        "https://github.com/memsql"
+    ],
+    "logo_path": "data/logos\\SingleStore_logo.png"
+}

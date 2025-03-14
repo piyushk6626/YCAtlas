@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/metoro",
+    "name": "Metoro",
+    "headline": "Instant in-depth observability for services running in kubernetes",
+    "batch": "S23",
+    "description": "Metoro is an observability platform specifically for service architectures running in Kubernetes.\r\n\nWith no code changes or instrumentation you can get total observability into you clusters and the apps running inside of them. The entire installation takes < 10 minutes.\r\n\nOut of the box you get:\r\nTraces,\r\nMetrics (infrastructure, application and language level),\r\nLogs,\r\nContinuous profiling,\r\nRegression tracking,\r\nNetwork traffic inspection,\r\nInfrastructure monitoring,\r\nAlerting,\r\nAutomated diagnostics",
+    "activity_status": "Active",
+    "website": "https://metoro.io",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:kubernetes; industry:devops; industry:infrastructure",
+    "founders": [
+        {
+            "name": "Chris Battarbee, Founder",
+            "description": "I'm one of the founders of Metoro - We're building an AI-powered production debugger.\n\nBefore Metoro, I worked at Palantir as a Software Engineer where I built out Foundry's compute platform.\n\nPrior to that, I was at Improbable working on SpatialOS - a large-scale distributed game engine. \n\nI've spent my career building and debugging large-scale distributed systems and now I'm building Metoro to help others do the same!",
+            "linkedin": "https://www.linkedin.com/in/chrisbattarbee"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Metoro**\n\n**Founded:** 2023  \n**Location:** London, United Kingdom  \n**Team Size:** 2 employees  \n**Funding:** Part of Y Combinator Batch S23  \n\n**Mission:** At its core, Metoro aims to provide instant, in-depth observability for services running in Kubernetes. This addresses a major pain point for developers and operations teams who need to monitor and troubleshoot complex service architectures quickly.\n\n### Key Features\nMetoro stands out in the crowded observability market by offering a wide array of features right out of the box, all without requiring any code changes or instrumentation on your part. Here\u2019s what you can expect when you set it up\u2014generally in under 10 minutes:\n\n- **Traces**: Gain insights into service interactions.\n- **Metrics**: Get comprehensive metrics across infrastructure, application, and language levels.\n- **Logs**: Collect and analyze logs from all containers easily.\n- **Continuous Profiling**: Monitor your applications\u2019 performance over time.\n- **Regression Tracking**: Detect performance regressions automatically.\n- **Network Traffic Inspection**: Understand traffic patterns within your clusters.\n- **Infrastructure Monitoring**: Keep an eye on the health of your infrastructure.\n- **Alerting**: Get notified about key performance issues.\n- **Automated Diagnostics**: Simplify problem-solving with AI-driven root cause analysis.\n\n### Technology\nMetoro utilizes eBPF (Extended Berkeley Packet Filter) technology to gather observability data directly from the kernel, eliminating the need for any manual instrumentation or container restarts. This not only speeds up setup but also enhances the data's accuracy, ensuring you're getting the best possible insights.\n\n### Pricing\nMetoro has adopted a straightforward pricing model, which includes:\n- **Hobby Plan**: Free for small workloads with one cluster and two nodes.\n- **Scale Plan**: $20 per node per month for unlimited clusters and users.\n- **Enterprise Plan**: Custom pricing with additional support and on-premises deployments.\n\n### Support & Community\nMetoro values its user base and provides access to a supportive community through Slack. This is where users can ask questions, share insights, and get help from both Metoro\u2019s team and other users.\n\n### Conclusion\nMetoro is positioned as a robust observability platform tailored specifically for Kubernetes environments. By simplifying the installation process and eliminating the need for code changes, it allows developers to focus more on building and less on monitoring. If you're leveraging Kubernetes to run microservices, Metoro could very well be the monitor you've been searching for. Want to know more? Check them out at [metoro.io](https://metoro.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/041215df7c4ed6798ef24b5314125212a62700e2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191534Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2bd1a225b9872fe524c13cbbc0aac97e39224349f2357e5cc6bf7fbd0a4a9364",
+    "social_links": [
+        "https://www.linkedin.com/company/98393849",
+        "https://x.com/metoro_ai",
+        "https://www.crunchbase.com/organization/metoro"
+    ],
+    "logo_path": "data/logos\\Metoro_logo.png"
+}

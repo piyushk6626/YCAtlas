@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/opentrons",
+    "name": "Opentrons",
+    "headline": "We make robots for biologists.",
+    "batch": "W16",
+    "description": "Today, biologists spend too much time pipetting by hand. We think biologists should have robots to do pipetting for them. People doing science should be free of tedious benchwork and repetitive stress injuries. They should be able to spend their time designing experiments and analyzing data.\r\n\nThat's why we started Opentrons.\r\n\nWe make robots for biologists. Our mission is to provide the scientific community with a common platform to easily share protocols and reproduce each other's results. Our robots automate experiments that would otherwise be done by hand, allowing our community to spend more time pursuing answers to some of the 21st century\u2019s most important questions.",
+    "activity_status": "Active",
+    "website": "http://opentrons.com",
+    "founded_date": 2014.0,
+    "team_size": 300.0,
+    "location": "New York",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:robotics; industry:synthetic-biology; industry:biotech; location:new-york",
+    "founders": [
+        {
+            "name": "Nicholas Wagner",
+            "description": "BA Mathematics - Lehigh University '05\nMS Analytical Finance - Lehigh University '08\nMBA Finance - University of Wisconsin-Madison Applied Security Analysis Program '12\n\nCo-founder - Opentrons Labware - MVP Software '13-16\n\nmosaictheory.org\nnwags.com",
+            "linkedin": "https://www.linkedin.com/in/nicholas-wagner-16b11b5"
+        },
+        {
+            "name": "Will Canine",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/will-canine-602a9266"
+        },
+        {
+            "name": "Chiu Chau",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/pub/chiu-chau/b/297/bb2"
+        }
+    ],
+    "status": true,
+    "generated_description": "Opentrons is on a mission to revolutionize scientific research by making lab automation accessible and practical for biologists. Founded in 2014 and part of the Y Combinator Batch W16, the company is based in New York City and has grown to a team of 300 employees. The idea sparked from a simple truth: biologists spend too much of their valuable time on mundane tasks like pipetting. Opentrons believes that researchers should focus on designing experiments and analyzing results, rather than getting bogged down by repetitive benchwork.\n\nAt its core, Opentrons develops user-friendly robotic systems designed specifically for various laboratory functions, such as nucleic acid extraction, protein purification, and next-generation sequencing (NGS). Their products include flexible robots like the Opentrons Flex and the OT-2, both of which simplify complex workflows and reduce human error. They also offer software tools like the Protocol Designer and a comprehensive Library for users to share and access protocols.\n\nWith a focus on community engagement, Opentrons provides a shared platform for scientists, promoting collaboration and reproducibility of results. They aim to democratize access to advanced lab automation across institutions, regardless of budget constraints\u2014a refreshing take in the often high-cost landscape of biotech tools.\n\nMichael Seibel, a notable Y Combinator Group Partner, is part of their journey, steering the company toward sustainable growth. The company's approach combines modular design with intelligent software, allowing researchers to tailor their automation solutions to fit their specific needs. \n\nFor scientists seeking to automate their workflows, Opentrons is a compelling choice, bringing innovation to the forefront while maintaining a strong focus on user experience and support.\n\nFor more information, you can visit [Opentrons' website](http://opentrons.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2aa8461458a4b1e66b91d6be50d9e2858ed1a547.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191613Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=43eee6f128e587427bb68df03754b051ac85d2afb93cb645dd5cd0ad4c9c4a53",
+    "social_links": [
+        "https://twitter.com/opentrons_",
+        "https://www.crunchbase.com/organization/opentrons",
+        "https://github.com/Opentrons"
+    ],
+    "logo_path": "data/logos\\Opentrons_logo.png"
+}

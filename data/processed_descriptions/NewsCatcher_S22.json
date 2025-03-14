@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/newscatcher",
+    "name": "NewsCatcher",
+    "headline": "News API for risk and data teams",
+    "batch": "S22",
+    "description": "We help data & risk enterprise teams get instant access to news and events from over 40,000 news sources. \r\n\nOur main product is a News API to search through an indexed database of online-published news articles in near real-time.\r\n\n\u201cHumans reading the news\u201d is not a scalable way for enterprises to analyse news, and it\u2019s expensive. We help enterprises shift the news consumption from just reading to integrating actionable signals into their internal workflow.",
+    "activity_status": "Active",
+    "website": "https://newscatcherapi.com/",
+    "founded_date": 2021.0,
+    "team_size": 18.0,
+    "location": "Kyiv, Ukraine",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:enterprise; industry:big-data; industry:enterprise-software; industry:ai",
+    "founders": [
+        {
+            "name": "Artem Bugara, Founder",
+            "description": "Artem Bugara is the co-founder, CEO of NewsCatcher. Artem works with data and risk teams to help them integrate actionable signals from online news. Previously he ran a team of data engineers for one of the largest underwriting companies within the aviation, energy, and space insurance sectors.\n\nHe earned a degree in Econometrics from Toulouse School of Economics.",
+            "linkedin": "https://www.linkedin.com/in/artem-bugara/"
+        },
+        {
+            "name": "Maksym Sugonyaka, Founder",
+            "description": "Maksym Sugonyaka is the co-founder and CTO of NewsCatcher. After one year of a stable job, Maksym understood that the only place where he could realize his potential was entrepreneurship. Now in NewsCatcher, Maksym is the one to take key strategic and technical decisions in order to make the best News API on the market. \n\nHe has a Master's Degree in Data Science and Finance from Paris Sorbonne. But then,  he became a self-taught Data Engineer.",
+            "linkedin": "https://www.linkedin.com/in/msugonyaka/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: NewsCatcher**\n\nFounded in 2021 and hailing from Kyiv, Ukraine, NewsCatcher is an innovative startup that emerged from Y Combinator's Batch S22. The company's mission is clear: it aims to revolutionize the way data and risk teams access and utilize news through its specialized News API. \n\n**Why NewsCatcher?**\n\nTraditional methods of news consumption\u2014think humans poring over articles\u2014aren't just tedious; they're far from scalable and incredibly costly for enterprises. NewsCatcher shifts this paradigm by providing instant access to news from over 40,000 sources, allowing companies to integrate valuable, actionable insights directly into their internal workflows. Their focus is on transforming passive news reading into dynamic, data-driven decision-making.\n\n**Product Features:**\n\nAt the heart of NewsCatcher's offerings is their robust News API, which allows users to search through a meticulously indexed database of online news articles in near real-time. Here are some features that stand out:\n\n- **Global Coverage**: NewsCatcher provides expansive insights across numerous regions, putting the world\u2019s news pulse firmly at your fingertips.\n- **Advanced Filtering**: With refined search capabilities, enterprises can obtain highly relevant articles tailored to their specific needs, paving the way for informed decisions.\n- **Custom Solutions**: Recognizing that no two businesses are the same, NewsCatcher offers bespoke integrations that seamlessly fit into existing operational workflows.\n- **Entity Disambiguation**: This feature ensures clarity by accurately identifying the companies or individuals mentioned in articles, cutting through the noise.\n\n**Use Cases:**\n\nThe NewsCatcher API caters to a variety of business functions:\n- **Risk Analysis**: Monitor live events and their implications for business continuity.\n- **Sales Intelligence**: Empower sales teams with timely, relevant news to strategize effectively.\n- **Media Monitoring**: Track mentions of brands or topics to gauge public sentiment and media coverage.\n- **Market Research**: Utilize vast amounts of news data to uncover trends and insights.\n\nCurrently, the company has a team of 18 employees, with Michael Seibel serving as their Group Partner, and they are tagged as a player in the SaaS, big data, and AI spaces.\n\n**Future Prospects:**\n\nNewsCatcher\u2019s commitment to providing actionable news data means they are not just serving existing clients (over 80 paid customers and 250+ researchers and students) but also positioning themselves as a go-to solution for entities\u2014including governments\u2014that need reliable, real-time news for informed decision-making. \n\nAs businesses increasingly recognize the value of swift access to relevant news data, NewsCatcher is well-placed to lead this transformation, transcending traditional media constraints and harnessing technology to offer an unparalleled news experience.\n\nFor more information, you can visit their website: [NewsCatcher](https://newscatcherapi.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7f6456b49401a2624b2a802796335ab66f26dcf3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191557Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=301166719864568399b2e541d6477dc47b7a7acc9ccdb280cb4f341aecfa26b9",
+    "social_links": [
+        "https://www.linkedin.com/company/newscatcherapi/?viewAsMember=true",
+        "https://twitter.com/newscatcherapi"
+    ],
+    "logo_path": "data/logos\\NewsCatcher_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/vespper",
+    "name": "Vespper",
+    "headline": "AI agent that troubleshoots production alerts for software engineers,\u00e2\u0080\u00a6",
+    "batch": "F24",
+    "description": "Vespper is an AI agent running 24/7 to troubleshoot your alerts by surfacing the right data at the right time. It helps teams reduce downtime and alert fatigue by making sure no alert falls through the cracks again.",
+    "activity_status": "Active",
+    "website": "https://vespper.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:b2b; industry:devops; industry:ai-assistant",
+    "founders": [
+        {
+            "name": "Topaz Turkenitz, Founder",
+            "description": "Co-founder & CEO at Vespper. \nI grew up in Australia and have been programming since I was 16 years old. I studied computer science, worked at 99designs (double-sided marketplace) and Snyk (dev-first security product) among other side-quests. I've built everything from an Iphone app, chrome extensions, slack bots, frontend and backend. I'm a jack of all trades that likes to obsessively go all in on a problem.",
+            "linkedin": "https://linkedin.com/in/topaz-t"
+        },
+        {
+            "name": "Dudu Lasry, Founder",
+            "description": "Co-founder & CTO at Vespper\nI\u00e2\u0080\u0099m a passionate software engineer with over seven years of experience, focused on building solutions that make a real difference. Before starting my own venture, I worked at Google, Viz.ai, and SafeBreach, where I took on key projects, collaborated closely with teams, and supported initiatives that mattered to both developers and the business. \n\nIn my spare time, I like playing the guitar, working on side projects and travel the world (most recently Japan \u00f0\u009f\u0087\u00af\u00f0\u009f\u0087\u00b5)",
+            "linkedin": "https://linkedin.com/in/dudu-lasry-05022879"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Vespper: Your AI On-Call Engineer**\n\nFounded in 2024, Vespper is making waves in the realm of software engineering by reimagining how teams manage production alerts. Operating out of Y Combinator's Batch F24, this tiny but ambitious startup comprises just two former senior engineers from Google, Snyk, and Viz.ai\u2014Topaz and Dudu. They\u2019ve experienced the stress of on-call duties firsthand and decided to create a solution that turns the chaos of tech support into a more manageable process.\n\n### Mission and Product\n\nAt its core, Vespper is an AI agent that operates around the clock to troubleshoot production alerts, providing timely insights that reduce downtime and mitigate alert fatigue. This means less frustration for engineers who can focus on high-priority issues while Vespper automates the tedious aspects of incident response. Essentially, Vespper ensures that no alert falls through the cracks, significantly reducing Mean Time to Resolution (MTTR) and preventing engineer burnout.\n\n### Features and Integrations\n\nVespper boasts impressive capabilities such as:\n- Real-time troubleshooting of alerts\n- Anomaly detection in metrics\n- Log querying for insights\n- Assessment of customer impact\n- Tracking and resolution history of incidents\n\nIt also integrates smoothly with popular tools like DataDog, Grafana, GitHub, and Slack, making life easier for teams by streamlining their workflows.\n\n### The Problem They Solve\n\nBeing on-call is often a stressful duty fraught with data overload and unexpected outages. Vespper addresses these pain points by automating many of the tasks that lead to burnout and downtime. Their service is particularly valuable for companies that rely on stringent SLAs and need quick, reliable incident management. \n\n### Why Vespper Stands Out\n\nWhat sets Vespper apart is how it\u2019s built\u2014by developers for developers. The founding team knows the struggles of managing alerts under pressure and has indeed created a product that helps teams become more agile and responsive. Additionally, Vespper offers robust security measures, user control over data, and the potential for self-hosting.\n\n### Connect and Learn More\n\nIf you're intrigued and want to see Vespper in action, you can book a demo on their [website](https://vespper.com). Moreover, they maintain a vibrant Slack community where you can engage with fellow users and the team. \n\nIn summary, Vespper is not just another AI tool; it\u2019s a thoughtful solution designed to alleviate the burdens faced by software engineers today, and they\u2019re just getting started. Their commitment to reducing chaos in incident management makes them a promising player in the tech landscape.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/729b7c821b7abc9bb7c07f1944f4454ff4371924.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192047Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=791780ae796877c275570c0f8195e01e7d7481df3d791e9b303ed871b0aa6094",
+    "social_links": [
+        "https://www.linkedin.com/company/vespper",
+        "https://twitter.com/vespperdotcom",
+        "https://www.crunchbase.com/organization/vespper",
+        "https://github.com/vespperhq/vespper"
+    ],
+    "logo_path": "data/logos\\Vespper_logo.png"
+}

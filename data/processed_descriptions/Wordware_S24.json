@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/wordware",
+    "name": "Wordware",
+    "headline": "IDE to develop, iterate and deploy AI Agents",
+    "batch": "S24",
+    "description": "1. Collaborative IDE for Building AI Agents \r\n2. At its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling.\r\n3. We also support forking, API deployment and sharing as a hosted app.\r\n\nWe have 300,000 users, and many companies paying us between 199 and 10k per month.",
+    "activity_status": "Active",
+    "website": "https://wordware.ai/",
+    "founded_date": 2021.0,
+    "team_size": 9.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Filip Kozera, Founder",
+            "description": "Cofounder and CEO at Wordware -- an IDE for Natural Language Programming and Agent Orchestration. Previously I cofounded and exited KRISTALIC, which tried to augment the human memory. Before that, I studied Deep Learning at Cambridge. \n\nThe most interesting fact about me outside of work is that I travelled to 103 countries and was part of multiple high-altitude mountaineering expeditions and rescue operations in Kyrgyzstan and Nepal. I also do sailing, paragliding, kitesurfing and boxing.",
+            "linkedin": "https://linkedin.com/in/filipkozera"
+        },
+        {
+            "name": "Robert Chandler, Founder",
+            "description": "Robert Chandler is a founder & CTO at Wordware. \n\nHe started his career as an early engineer at a self-driving car startup, Five AI, which was acquired by Bosch. Here he lead the Offline Perception team which accelerated the dev-test cycle through automated ground truthing and was awarded 5+ patents in the process.\n\nHe has been in the AI space for over a decade since studying Information Engineering at the University of Cambridge.",
+            "linkedin": "https://linkedin.com/in/robertjhchandler"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Wordware: Next-Level AI Development**\n\nFounded in 2021 and nestled in the heart of San Francisco, Wordware is shaking up the AI landscape with its innovative Integrated Development Environment (IDE) designed specifically for building AI agents. It\u2019s part of the Y Combinator Batch S24 and is making waves with 300,000 users, many of whom are businesses paying between $199 and $10,000 monthly.\n\n### What's the Deal?\n\nWordware\u2019s mission is clear: **create, iterate, and deploy AI agents**. The platform enables users\u2014regardless of their coding background\u2014to build sophisticated AI solutions using a new programming language that blends plain English with traditional programming constructs like loops and conditionals. It\u2019s basically programming for humans; no more deciphering complex syntax!\n\n### Key Features\n\n1. **Collaborative IDE**: Allows multiple users to work together seamlessly.\n2. **Natural Language Programming**: Users write AI commands in plain English, making intuitive, easy-to-understand AI development available to everyone.\n3. **Forking and Sharing**: Easily fork and share your projects as hosted applications.\n4. **API Deployment**: Simplifies the process of integrating your AI creations with other services.\n\n### Recent Developments\n\nWordware recently announced a **$30 million funding round** aimed at enhancing its service offerings. This financial boost indicates confidence in their approach and sets the stage for exciting advancements.\n\n### What Users are Saying\n\nFeedback has been overwhelmingly positive, with users noting how empowering it is to have a tool that dramatically reduces the time required for iteration. The platform transforms complex prompt engineering into a straightforward process, likening the experience to using Google Docs for collaboration but tailored for AI.\n\n### Future Prospects\n\nWith its unique blend of accessibility and advanced capabilities, Wordware positions itself as a game-changer in the realm of AI tools. It encourages companies and individuals alike to harness AI\u2019s potential without getting bogged down in technicalities. \n\n### Join the Revolution\n\nReady to jump into the world of AI development? Explore Wordware\u2019s offerings at [Wordware.ai](https://wordware.ai), where the future of AI-driven productivity is just a click away. Whether you're a tinker or a corporate team, you\u2019ll find powerful tools tailored for your needs.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/af96e6e33f95ead7034b978c05c41789eb271edc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192102Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c8bff75f2ea38bd3fac74d9be79bad6d80da88d8bbbfdeb7bde8cdda7c821755",
+    "social_links": [
+        "https://www.linkedin.com/company/wordware/",
+        "https://twitter.com/wordware_ai",
+        "https://www.crunchbase.com/organization/wordware-6b65"
+    ],
+    "logo_path": "data/logos\\Wordware_logo.png"
+}

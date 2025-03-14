@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/safebeat",
+    "name": "SafeBeat",
+    "headline": "Guiding cardiac therapeutics - all from your phone",
+    "batch": "S21",
+    "description": "38 million people suffer from heart rhythm disorders and are recommended to start medications that can save their lives, but require rigorous ECG monitoring to start and remain on these pills. SafeBeat Rx moves beyond diagnostics to guide these therapeutics, powered by our ML ECG software that integrates with existing FDA-cleared wearables to allow seamless physician approval of drug dosing, all from a mobile phone.\r\n\nWe are a team of physicians, engineers, data scientists, and machine learning experts dedicated to using engineering to improve heart health.",
+    "activity_status": "Active",
+    "website": "https://safebeat.com",
+    "founded_date": 2020.0,
+    "team_size": 9.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-enhanced-learning; industry:medical-devices; industry:therapeutics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Rachita Navara, Founder",
+            "description": "Dr. Navara is an EP cardiologist and bioengineer internationally recognized for her contributions to heart rhythm research and medical innovation. While caring for patients in the hospital, she identified the need to expand access to patients starting heart drugs. To solve this problem, she assembled a multi-disciplinary team including heart rhythm physicians, data scientists, AI engineers, clinical trialists, and regulatory experts. Her passion is to use engineering to transform heart health.",
+            "linkedin": "https://www.linkedin.com/in/rachita-navara-md-3b49551b8/"
+        },
+        {
+            "name": "Kunj Patel, Founder",
+            "description": "I am a Harvard-trained interventional pain physician, and an applied mathematician with masters level training.  I serve as cofounder and Chief Technical Officer for SafeBeat Rx, and have served on numerous national medical boards and committees, including for the American Medical Association and the American Society of Interventional Pain Physicians, where I have helped directly shape policies affecting reimbursement and patient access to treatments, ranging from common to the cutting edge.",
+            "linkedin": "https://www.linkedin.com/in/kunj-patel-md-msc-1b10156"
+        }
+    ],
+    "status": true,
+    "generated_description": "SafeBeat is a health tech company on a mission to redefine cardiac therapeutics, making it possible to manage heart health directly from your smartphone. Founded in 2020, SafeBeat emerged from a critical need identified among the 38 million Americans suffering from heart rhythm disorders, who require strict ECG monitoring to start essential medications. Their solution, SafeBeat Rx, incorporates machine learning algorithms to upgrade existing FDA-cleared wearables, offering patients and doctors a seamless way to navigate treatment.\n\nOperating from San Francisco and supported by a nimble team of nine\u2014comprised of physicians, engineers, data scientists, and machine learning experts\u2014SafeBeat stands at the intersection of technology and healthcare. Their platform simplifies cardiac care by translating ECG data into actionable therapeutic insights, allowing for remote patient monitoring and real-time medication adjustments all through a mobile interface.\n\nSafeBeat is also an alum of Y Combinator\u2019s S21 batch, fueled by endorsements from industry leaders like Jared Friedman and eminent health professionals who see the groundbreaking potential of their technology. The team is helmed by co-founders, Dr. Rachita Navara and Dr. Kunj G. Patel, both of whom bring a wealth of experience and a commitment to transforming cardiovascular care.\n\nTheir approach prioritizes usability for clinicians, ensuring that essential patient data is delivered in a digestible format, avoiding alert fatigue while enhancing the overall patient experience. With an eye towards the future, SafeBeat Rx is still in development, marking its innovation as investigational for now.\n\nIn short, SafeBeat is shaking up how we think about heart health\u2014moving beyond traditional diagnostics to a future where patients can manage complex cardiac therapies conveniently and effectively from their pockets. If you're looking for more information, you can visit their [website](https://safebeat.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/33cc4750b304a9cd3c3c8a6a0aebbbd283034836.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191905Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ae81476623c04e3fce7af85730e7c20976892563c33b862d501846d7a8c26b65",
+    "social_links": [
+        "https://www.linkedin.com/company/safebeatrx/",
+        "https://twitter.com/SafeBeat"
+    ],
+    "logo_path": "data/logos\\SafeBeat_logo.png"
+}

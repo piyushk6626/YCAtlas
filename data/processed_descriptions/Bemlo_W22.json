@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/bemlo",
+    "name": "Bemlo",
+    "headline": "The platform for managing healthcare staffing and scheduling.",
+    "batch": "W22",
+    "description": "Bemlo provides a comprehensive AI-driven staffing solution tailored specifically for the healthcare and social care sectors, with automated scheduling as its cornerstone. The system generates optimal schedules that balance care demands with employee preferences, freeing up valuable time for patient care, enhancing workplace satisfaction, and promoting more efficient collaboration within organizations.",
+    "activity_status": "Active",
+    "website": "https://bemlo.com",
+    "founded_date": 2021.0,
+    "team_size": 12.0,
+    "location": "Stockholm, Sweden",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:healthcare; industry:enterprise; industry:enterprise-software",
+    "founders": [
+        {
+            "name": "Alexander Bj\u00f6rkenstam, Founder",
+            "description": "Hey, I\u2019m Alex! \ud83d\udc4b I dropped out of my undergraduate Engineering degree to build Bemlo, an end-to-end healthcare marketplace for nurses and doctors to find jobs.",
+            "linkedin": "https://www.linkedin.com/in/alexander-bjorkenstam/"
+        },
+        {
+            "name": "Edvin Fernqvist, Founder",
+            "description": "During the onset of the Corona pandemic I looked for ways to help out and started to source and produce PPE. Coming in contact with the hard pressed nurses and doctors working in ICUs and other facilities I soon found there were other more pressing issues to be solved. When I met my co-founders we decided to band together to create Bemlo and reverse the deteriorating situation we saw in healthcare staffing and recruiting.",
+            "linkedin": "https://www.linkedin.com/in/edvin-fernqvist-88102616a/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Bemlo is a dynamic startup founded in 2021, nestled in Stockholm, Sweden, and is an innovative player in the healthcare staffing and scheduling arena. As part of Y Combinator's Winter 2022 batch, Bemlo aims to revolutionize how healthcare and social care organizations manage their workforce through a comprehensive, AI-driven platform.\n\nAt its core, Bemlo\u2019s mission is about streamlining the complex process of staffing and scheduling in healthcare. Their flagship solution replaces the cumbersome use of emails, texts, and spreadsheets, bringing everything into one user-friendly platform. By leveraging AI, Bemlo generates optimal schedules that consider both patient care demands and staff preferences. This means less time fiddling with administrative tasks and more focus on patient care, which ultimately leads to increased staff satisfaction and better collaboration among teams.\n\nWith a compact but skilled team of 12, the company offers features like AI Scheduling, shift distribution pools, and agency management, all designed to enhance communication, provide real-time statistics, and ensure compliance. The platform also connects healthcare organizations with a marketplace of over 20,000 vetted professionals, making staffing not just easier but more effective.\n\nBemlo's impact is already evident with notable public and private healthcare partners. Case studies show significant savings\u2014like Danderyds Hospital's 13 million SEK reduction in annual staffing costs due to Bemlo's efficiencies. They\u2019ve quickly onboarded clients, like Region \u00d6rebro County, demonstrating the platform's efficacy and adaptability.\n\nIn short, Bemlo isn\u2019t just another health tech tool; it\u2019s a cohesive staffing solution that transforms how organizations approach workforce management. So, if you're in the healthcare sector and looking to cut costs while boosting staff morale, Bemlo's asking you to take a step into the future of staffing. Want to see it in action? You can book a demo on their website: [Bemlo.com](https://bemlo.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c67ed7e17aecc5307f2ad1ef4ed46c19e2ff3522.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191019Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2cfc3bc35e215b4ca952c21c6c6854f086020bfcfad09d5ba2895704a782fdf6",
+    "social_links": [
+        "https://www.linkedin.com/company/bemlo",
+        "https://www.crunchbase.com/organization/bemlo",
+        "https://github.com/bemlo"
+    ],
+    "logo_path": "data/logos\\Bemlo_logo.png"
+}

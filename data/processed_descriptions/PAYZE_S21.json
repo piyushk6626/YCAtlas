@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/payze",
+    "name": "PAYZE",
+    "headline": "Stripe for former Soviet Union countries",
+    "batch": "S21",
+    "description": "Innovator of online transactions, helping businesses in former soviet union countries to accept payments from around the world through a single integration.",
+    "activity_status": "Active",
+    "website": "https://payze.io/",
+    "founded_date": 2020.0,
+    "team_size": 15.0,
+    "location": "Tbilisi, Georgia",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:b2b",
+    "founders": [
+        {
+            "name": "Gega Tsurtsumia, Founder",
+            "description": "US Naval Academy --> Ocean Engineer --> Ex Georgian Military --> Several Startup failures --> aspiring backcountry skier & mountaineer --> turned founder",
+            "linkedin": "https://www.linkedin.com/in/giorgitsurtsumia/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: PAYZE**\n\nFounded in 2020 and based in Tbilisi, Georgia, PAYZE is on a mission to become the Stripe for the former Soviet Union countries. As part of Y Combinator Batch S21, this fintech startup aims to transform how businesses in this region handle online payments. With just 15 employees, PAYZE is showcasing the potential of a nimble team making a big impact.\n\nAt its core, PAYZE is revolutionizing online transactions for commerce in its target markets\u2014enabling businesses to accept payments from around the globe through a single integration. They\u2019ve built solutions that cater to both developers and business owners with easy-to-use API payments and no-code payment options. This reflects a growing trend: making tech more accessible and less daunting.\n\nTheir offerings are particularly valuable in regions where traditional payment processors may not fit the local market needs. By focusing on the former Soviet Union, PAYZE fills a significant gap, unlocking opportunities for local businesses to expand their horizons.\n\nCollaboration is key for them, as they count on strong partnerships\u2014most notably with Group Partner \"nan.\" Branding themselves as a fintech solution, they have a clear vision of where they want to go: helping businesses thrive by simplifying transactions.\n\nFor more information, you can visit their website at [PAYZE](https://payze.io/). Here\u2019s to the future of payments in the region!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f18b20389b44f55f9db0d84e9cb05dccb29843e7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191627Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=80bd26530787f1d6b4928a4941a99e16f4d056404b7c5c54ec009e3bec70c8de",
+    "social_links": [
+        "https://www.linkedin.com/in/giorgitsurtsumia/",
+        "https://www.facebook.com/payzegeo/",
+        "https://www.crunchbase.com/organization/payze",
+        "https://github.com/payzeio"
+    ],
+    "logo_path": "data/logos\\PAYZE_logo.png"
+}

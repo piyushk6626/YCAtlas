@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/pharos",
+    "name": "Pharos",
+    "headline": "Automate hospital reporting and prevent patient harm with AI",
+    "batch": "S24",
+    "description": "Pharos automates hospital quality reporting, saving millions in labour costs and helping to prevent avoidable patient harm. \r\n\nToday, clinicians spend thousands of hours manually pulling complex facts out of medical records for mandatory reporting and quality improvement.\r\n\nOur AI pulls those facts out of unstructured medical records automatically. We automate reporting and show staff where avoidable patient harm is happening.",
+    "activity_status": "Active",
+    "website": "https://pharos.health/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:health-tech; industry:digital-health; industry:healthcare; industry:healthcare-it; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Felix Brann, Founder",
+            "description": "CEO at Pharos. Previously VP Data Science at vital.io and VP Quantitative Research at JP. Morgan. \n\nObsessed with sepsis: https://ai.jmir.org/2024/1/e49784",
+            "linkedin": "https://linkedin.com/in/felix-brann"
+        },
+        {
+            "name": "Matthew Jones, Founder",
+            "description": "Founder and CTO at Pharos. Previously I was part of the founding team of Market2x, a rural trucking SAAS startup, growing that from inception to international expansion. The rest of my career has been as a software engineer at various health tech companies.",
+            "linkedin": "https://www.linkedin.com/in/matthewrj"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Pharos: Revolutionizing Hospital Reporting with AI**\n\nFounded in 2024 and proudly part of Y Combinator's Batch S24, Pharos is headquartered in San Francisco and commands a nimble team of three. Their core mission is bold: to automate hospital reporting processes and safeguard patients using artificial intelligence. Given the current landscape, where clinicians often waste valuable hours sifting through complex medical records for mandatory reporting, Pharos' solution could not be more timely.\n\nHere's the crux of the problem: healthcare professionals currently bear the burden of painstakingly pulling facts from unstructured medical records. This not only drains resources but also puts patients at risk due to human error. Enter Pharos, which leverages AI to streamline this reporting process. Their technology instantly extracts critical data, allowing healthcare teams to focus on what matters most\u2014patient care.\n\n**What\u2019s In It for Hospitals?**\n\nPharos offers more than just automation; it enhances patient safety. By identifying areas where patient harm could occur, their AI-powered analytics deliver insights that help prevent adverse events. The Pharos platform enables quick comprehension of quality and risk metrics, turning what used to be weeks of manual effort into mere hours of data processing.\n\nCurrently, they are targeting:\n\n- **Chart Abstraction**: Automating the review process for clinical submissions.\n- **Root Cause Analyses (RCAs)**: Helping clinicians respond to safety events more swiftly.\n- **Compliance Audits**: Providing rapid insights into hospital performance against key metrics.\n\n**Security at its Core**\n\nWith a keen eye on data security, Pharos runs a HIPAA-compliant platform adaptable to any data management system, whether cloud-based or local. They understand the importance of privacy in healthcare and are committed to integrating seamlessly with existing Electronic Health Records (EHRs).\n\nBacking this promising startup are notable names in the venture space, including Moxxie, Felicis, and General Catalyst, with Jared Friedman serving as their Group Partner. Pharos recently raised $5 million in seed funding to fuel its mission to reshape the healthcare narrative through technology.\n\n---\n\nFor anyone in the healthcare industry, this is a startup to watch. As Pharos continues to build out its capabilities, the implications for improved efficiency, safety, and ultimately patient outcomes could be profound. \n\nIf you\u2019re interested in seeing how Pharos can transform your hospital data into actionable insights, a demo is just a click away: [Pharos Health](https://pharos.health/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c5f0a29e83258ac7571f70e92ba2758bd33de4a1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191636Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2ecaa93c3746a13c32c9a4789da155a94efcd1e14bfa48ab2d3a4c8fe55654b4",
+    "social_links": [
+        "https://www.linkedin.com/company/pharoshealth/",
+        "https://x.com/pharos_health"
+    ],
+    "logo_path": "data/logos\\Pharos_logo.png"
+}

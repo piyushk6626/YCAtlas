@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/polymath-robotics",
+    "name": "Polymath Robotics",
+    "headline": "General Autonomy for Industrial Vehicles",
+    "batch": "S22",
+    "description": "Polymath is building a general autonomy stack for cautious vehicles.  Our software allows any industrial vehicle - whether it's a tractor in a field or a bulldozer in a mine, drive itself.  We bundle together AI, ML, Controls, ROS, Safety and best-in-class deployment practices to enable our customers to tell automated vehicles to do via a REST API.\r\n\nWe're on more robots than we have engineers, are seeing our revenue (and robotic fleet) grow rapidly, and are looking for folks who want to help automate the world.",
+    "activity_status": "Active",
+    "website": "http://www.polymathrobotics.com",
+    "founded_date": 2021.0,
+    "team_size": 11.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:machine-learning; industry:robotics; industry:unmanned-vehicle; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Stefan Seltz-Axmacher, Founder",
+            "description": "YC Badge: 0x1fee3f3ac35e96b5c30c43d4c277db576b863777",
+            "linkedin": "https://www.linkedin.com/in/stefanseltzaxmacher"
+        },
+        {
+            "name": "Ilia Baranov, Founder",
+            "description": "There is a certain enchanting magic that comes from working with robots;\nBy waving our hands, we can make machines seem alive.",
+            "linkedin": "http://linkedin.com/in/iliabaranov"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Polymath Robotics**\n\nFounded in 2021 and hailing from the vibrant startup ecosystem of San Francisco, Polymath Robotics is on a bold mission: to achieve general autonomy for industrial vehicles. Their ambitious vision centers around creating a versatile autonomy stack that enables a wide array of industrial vehicles\u2014think tractors, bulldozers, and yard trucks\u2014to drive themselves safely and effectively.\n\n**What They Do**\n\nPolymath Robotics simplifies the transition to autonomous operations across varied industrial settings. Their software integrates advanced technologies like Artificial Intelligence (AI), Machine Learning (ML), and robotic control systems (ROS) to provide seamless automation. With just a few commands sent via a REST API, customers can instruct their vehicles to complete complex tasks in a fraction of the time typically required for such solutions.\n\n**Key Highlights:**\n\n- **Team Dynamics**: With a compact team of 11 engineers, Polymath is seeing more robotic deployments than it has personnel, indicating robust demand for their solutions.\n- **Growth Trajectory**: The company is experiencing rapid revenue growth as well as an expanding fleet of robotic applications, making it a unique player in the hard-tech and robotics space.\n- **Expertise**: Their development team boasts experience from leading organizations like NASA, Google X, and Amazon Lab 126, blending theoretical and practical prowess for cutting-edge autonomy solutions.\n\n**Current Offerings and Benefits**\n\nPolymath Robotics focuses on providing rapid deployment of autonomous solutions. Their platform is designed for flexibility, working with a range of industrial vehicles across sectors such as agriculture, construction, and forestry. Key features include:\n\n- **Vehicle-agnostic capacity**: Their software is compatible with various types of vehicles and sensors.\n- **Rapid integration**: Customers can expect to add autonomy to their operations in weeks, not months.\n- **Safety-first approach**: Safety measures are built-in from the ground up, allowing operators to focus on more critical aspects of their operations.\n\n**The Bigger Picture**\n\nPolymath Robotics is not just about making machines drive themselves; it\u2019s about enabling a whole new paradigm in industrial automation. By removing the complexities of vehicle autonomy, they allow businesses to concentrate on scaling their core operations. Simply put, they are supercharging the possibilities of what industrial teams can achieve.\n\nLocated firmly within Y Combinator's Batch S22, Polymath is primed for growth as they continue to engage with industries demanding efficiency, productivity, and innovation. If you're interested in automating industrial vehicles and joining the frontier of autonomy, check out their [website](http://www.polymathrobotics.com) to explore how they can transform your operations.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8ba9ac8164a180941f8f2d279bf1a7a853d5dd8e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191648Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a3b35fabfef683f19d2d0b03ba7f8c072a790303a555be93ea97b8cf1ec2a872",
+    "social_links": [
+        "https://www.linkedin.com/company/polymath-robotics/",
+        "https://twitter.com/polymathrobots",
+        "https://www.crunchbase.com/organization/polymath-robotics",
+        "https://github.com/polymathrobotics"
+    ],
+    "logo_path": "data/logos\\Polymath_Robotics_logo.png"
+}

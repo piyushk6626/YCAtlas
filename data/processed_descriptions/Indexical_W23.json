@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/indexical",
+    "name": "Indexical",
+    "headline": "AI-powered data extraction engine",
+    "batch": "W23",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://indexical.dev/",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:b2b; industry:enterprise; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Shanelle Roman, Founder",
+            "description": "Shanelle is the cofounder and CEO of Nebula. Shanelle was previously a PM at Google, working on the buying experience for a new $XB line of Google ads. Originally from Minnesota, she graduated from Yale with a degree in Computer Science.",
+            "linkedin": "https://www.linkedin.com/in/shanelle-roman-37baa6103/"
+        },
+        {
+            "name": "Vishnu Menon, Founder",
+            "description": "Vishnu Menon is the Co-founder & CTO of Nebula, where he builds tools that help engineers be productive in microservice architectures. Previously, he was co-founder at an ML startup (Toucan AI) and lead data & platform projects at a MarTech software provider (AddShoppers). He earned a degree in Computer Science from Duke University.",
+            "linkedin": "https://www.linkedin.com/in/vishnu-menon/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Indexical**\n\nFounded in 2022 and based in San Francisco, Indexical is a nimble player in the world of data extraction. As part of Y Combinator\u2019s Winter 2023 batch, they're building an AI-powered data extraction engine tailored for developers. With a team of just two, Indexical aims to serve a broad spectrum of businesses through intelligent, efficient web scraping.\n\n**Mission and Product:**\nThe primary mission of Indexical is to simplify data extraction with an AI-driven approach. They offer a platform that allows users to write and run web scraping pipelines using natural language, eliminating the need for complex coding and maintenance. It's backed by advanced LLMs (Large Language Models) that navigate the web and extract data smartly, so users don\u2019t have to deal with fragile selectors and the headaches of scripting browser interactions.\n\n**Key Features:**\n- **Zero-Maintenance Pipelines:** Users can craft scraping jobs with well-documented, version-controllable JSON pipelines.\n- **Fault-tolerant Scrapers:** Automatic handling of proxying, retries, and rate limits to ensure successful data extraction.\n- **Fully Managed Services:** An accessible API, CLI, and web UI make it easy to create, run, and monitor scraping tasks.\n\n**Pricing Plans:**\nIndexical offers competitive pricing with plans tailored to various needs:\n- **Free:** $0/month, featuring 1,000 monthly credits.\n- **Hobby:** $30/month for 3,000 credits.\n- **Startup:** $100/month grants 20,000 credits and priority support.\n- **Growth:** At $500/month, this plan includes 150,000 credits and exclusive support options.\n\n**Contact and Resources:**\nTo explore their offerings or sign up, you can visit [Indexical's website](https://indexical.dev/). They also provide support through a chat function for those who require additional help or credits.\n\n**Conclusion:**\nWith its innovative approach to data extraction and a focus on developer-friendly solutions, Indexical stands out as a promising startup in the generative AI and SaaS landscape. It\u2019s an exciting venture that aligns well with the growing need for smarter data handling within businesses.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/66d2c2e1e2fcc305d67b6197312f6ada5420c3c0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191429Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=43d2dcd9043b0c9f827105ccbf985203b483df635e25cbfcc23ed4538e48ec9c",
+    "social_links": [
+        "https://www.linkedin.com/company/trynebula/",
+        "https://twitter.com/try_nebula"
+    ],
+    "logo_path": "data/logos\\Indexical_logo.png"
+}

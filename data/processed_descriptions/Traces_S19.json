@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/traces",
+    "name": "Traces",
+    "headline": "Transform your video monitoring with AI",
+    "batch": "S19",
+    "description": "We analyze thousands of video streams to find and track people without facial recognition. \r\nOur tech is available as an API and has multiple use cases. Unique people counting, forensic people search, falsa alarm filtering and many more.",
+    "activity_status": "Active",
+    "website": "https://www.traces.ai",
+    "founded_date": 2019.0,
+    "team_size": 10.0,
+    "location": "Mountain View",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:deep-learning; industry:computer-vision; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Veronika Yurchuk, Founder",
+            "description": "CTO and co-founder at Traces AI",
+            "linkedin": "https://www.linkedin.com/in/veronikayurchukdatascience/"
+        },
+        {
+            "name": "Kostyantyn Shysh, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/kostyantyn-shysh-a8ab4a77/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Traces**\n\nFounded in 2019 and hailing from the Y Combinator Batch S19, Traces is on a mission to revolutionize video monitoring with the power of artificial intelligence. Located in Mountain View, California, the company boasts a small team of ten dedicated employees. Traces specializes in advanced video analytics, offering solutions that enable users to extract actionable insights from their surveillance footage without relying on facial recognition technology.\n\n**What Traces Does**\n\nInitially, Traces focused on analyzing thousands of video streams to find and track individuals, but it has since expanded its capabilities significantly. Their technology can be integrated through an API and addresses multiple use cases, including:\n\n- **Unique People Counting**: Efficiently tallying the number of individuals within a defined space.\n- **Forensic People Search**: Quickly locating individuals in recorded footage, useful for security and investigations.\n- **False Alarm Filtering**: Reducing the number of irrelevant alarms triggered by surveillance systems.\n- **Anomaly Detection**: Identifying unusual activities that may require immediate attention.\n\n**Key Features and Solutions**\n\nTraces offers various solutions tailored to different industry needs, including:\n\n- **Generative AI for Alarm Management**: Streamlining threat detection by processing over 1 million alarms weekly, allowing businesses to turn CCTV cameras into intelligent security assets.\n- **Forensic Search Capabilities**: Enabling users to close cases in minutes by analyzing large volumes of video rapidly.\n- **Video Understanding**: Utilizing text prompts to streamline searches within video archives, making operations more efficient.\n\nThe technology adapts to various environments\u2014whether through cloud API, on-premises solutions, or hybrid setups\u2014making it scalable and versatile for security, retail, and transport industries.\n\n**Why It Matters**\n\nAs businesses look to improve their security measures and operational efficiency, Traces positions itself as a key player in enhancing video surveillance. By prioritizing privacy and avoiding facial recognition, they address pressing ethical concerns while delivering powerful analytical capabilities. \n\nFor those interested in exploring their solutions further, Traces invites potential customers to [request a demo](https://www.traces.ai/request-demo) or learn more through their website: [Traces.ai](https://www.traces.ai).\n\n**Tags**: artificial-intelligence, deep-learning, computer-vision, San Francisco Bay Area\n\nIn summary, if you\u2019re in the market to upgrade your video monitoring systems, Traces offers a cutting-edge approach that combines AI with practical functionality.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cc542057bf86f782ef159ffaeba44be2617036d9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192024Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fee0de9c964e121b931f9228788c41cb9ac7f5a42992679115e86e3e8e84cb3e",
+    "social_links": [],
+    "logo_path": "data/logos\\Traces_logo.png"
+}

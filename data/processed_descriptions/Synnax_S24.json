@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/synnax",
+    "name": "Synnax",
+    "headline": "Unified Hardware Control and Data Processing Software",
+    "batch": "S24",
+    "description": "We build software that helps hardware teams quickly and clearly evaluate how a component (engine, battery, valve, etc.) or process (assembly line, manufacturing plant) performs. We prevent mistakes, reduce costs, and accelerate time-to-market. Our platform unifies industrial control with sensor data storage and automated post-processing, delivering an end-to-end operations and observability stack. To put it comparatively, take LabVIEW, InfluxDB, and Grafana, wrap them into a single package, add a bit of magic, and you get Synnax.",
+    "activity_status": "Active",
+    "website": "https://www.synnaxlabs.com/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:data-visualization; industry:time-series; industry:industrial; industry:databases; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Emiliano Bonilla, Founder",
+            "description": "Co-Founder & CEO at Synnax. I'm classically trained in Aerospace Engineering and have a passion for building and selling great software to improve the way teams develop hardware. I led a team in the development of data processing tools for the first launches of Firefly Aerospace's Alpha rocket, one of the few new-space companies to repeatedly reach orbit. I've also worked on automous electric vehicle prototypes and developed banking software for European startups.",
+            "linkedin": "https://www.linkedin.com/in/emiliano-bonilla-8a0a95187/"
+        },
+        {
+            "name": "Patrick Dotson, Founder",
+            "description": "Co-Founder & COO at Synnax. I worked on propulsion systems for the Starship program at SpaceX and have experience in both hardware and software engineering. I graduated from the University of Michigan with a degree in aerospace engineering.",
+            "linkedin": "https://www.linkedin.com/in/patrick-dotson/"
+        },
+        {
+            "name": "Elham Islam, Founder",
+            "description": "Co-Founder & CTO at Synnax. I wrote flight software for the Mars Sample Return Lander at NASA JPL and developed embedded control systems for laser communication at MIT Lincoln Laboratory. I studied computer engineering at the University of Michigan.",
+            "linkedin": "https://www.linkedin.com/in/elham-islam-/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Synnax\n\n**Founded:** 2024  \n**Location:** San Francisco  \n**Team Size:** 3 Employees  \n**Y Combinator Batch:** S24  \n**Group Partner:** Brad Flora  \n\n#### Mission: \nSynnax is dedicated to creating a unified hardware control and data processing software. Their goal is straightforward yet ambitious: help hardware teams optimize their operations to avoid mistakes, cut costs, and speed up product launches.\n\n#### What They Do:\nInitially, Synnax focused on providing software that enables hardware teams to assess the performance of components (like engines and batteries) and processes (like production lines) efficiently. Think of Synnax as the cohesive package of tools reminiscent of LabVIEW, InfluxDB, and Grafana, but with added enhancements to support industrial operations.\n\nTheir platform serves as a comprehensive solution that integrates industrial control with sensor data storage and automated post-processing\u2014essentially an end-to-end observability stack. It allows teams to communicate in real-time with thousands of sensors, analyze terabytes of telemetry data, and automate both control and analysis workflows.\n\n#### Key Features:\n- **Time-Series Database:** Specifically engineered for hardware setups, Synnax delivers robust sensor data acquisition and actuator control with impressive real-time performance metrics like 12 million samples per second read throughput.\n  \n- **Real-Time Analytics:** With low-latency data streaming, users can visualize telemetry from sensors, manage actuators, and conduct ongoing analyses seamlessly.\n\n- **Scalability:** Synnax is versatile enough to support both small bench-top setups with limited channels and expansive operations involving multiple teams and devices.\n\n- **Easy Deployment:** The software can be operational with a single command, and can be deployed in a variety of environments\u2014cloud, on-premises, or at the edge.\n\n- **Unified Interface:** A single console allows users to visualize data, manage operations, and configure instruments all in one place, enhancing efficiency and usability.\n\n- **Open and Extensible:** Synnax promotes customization. Using their high-quality client libraries, developers can craft tailored user interfaces, create operational consoles, and integrate AI enhancements without being tied to proprietary programming languages.\n\n#### Tags:\n- Hard-tech\n- Data Visualization\n- Time-Series\n- Industrial Solutions\n- Databases\n- San Francisco Bay Area\n\nIf you\u2019re intrigued by hardware optimization and unification of control processes in tech, Synnax is in a promising space that blends industrial technology with intelligent data handling.\n\nTo learn more or get started, visit their [website](https://www.synnaxlabs.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cbe7e8f0abbdf23f7f46371b694c5dfbb8a11e51.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192002Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5350d48d7538cac6679d99d59012005703412beeb3413dc8218b7c18aa5d6792",
+    "social_links": [
+        "https://www.linkedin.com/company/synnaxlabs/",
+        "https://x.com/synnaxlabs",
+        "https://github.com/synnaxlabs"
+    ],
+    "logo_path": "data/logos\\Synnax_logo.png"
+}

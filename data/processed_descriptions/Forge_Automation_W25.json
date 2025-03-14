@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/forge-automation",
+    "name": "Forge Automation",
+    "headline": "CNC parts in 4 days or less",
+    "batch": "W25",
+    "description": "Forge Automation runs software enabled factories that deliver custom metal parts in four days or less. Instead of mechanical engineers having to wait two to three weeks for their low volume CNC parts, they can simply upload a CAD model on our platform and we will ship it out in four days or less. We aim to give mechanical engineers the \"Amazon experience\" for custom metal parts.",
+    "activity_status": "Active",
+    "website": "https://www.forgeautomation.ca",
+    "founded_date": 2022.0,
+    "team_size": 7.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:hardware; industry:robotics; industry:manufacturing; industry:industrial",
+    "founders": [
+        {
+            "name": "Walter Raftus, Founder",
+            "description": "Co-Founder + CTO @ Forge Automation |  I love computers, math, and big specialized machines controlled with software!\n\nI went to the University of Waterloo for AI + Mechatronics Engineering, and interned at Nvidia, Trexo Robotics (W19), and Intel PSG working on a bunch of different software ranging from system software, deep learning, and embedded control. I graduated in the summer of 2022 and co-founded Forge Automation right after!",
+            "linkedin": "https://linkedin.com/in/walterraftus"
+        },
+        {
+            "name": "Timothy Seto, Founder",
+            "description": "Co-founder + CEO @ Forge Automation | I make metal parts. Send me CAD, I will make it in the real world.\n\nI went to the University of Waterloo Engineering, and interned at Apple, Formlabs and iRobot. I have been machining for over 10 years and I love building robots and machines. I graduated in the summer of 2022 and co-founded Forge Automation right after.",
+            "linkedin": "https://linkedin.com/in/timmy-seto"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Forge Automation: Revolutionizing CNC Machining**\n\nFounded in 2022 and based in Toronto, Canada, Forge Automation is on a mission to redefine the custom metal parts industry by delivering CNC parts in an astonishing four days or less. With a team of seven, the company emerged from Y Combinator's W25 batch, gaining traction in the competitive landscape of hardware, robotics, and manufacturing.\n\nImagine being a mechanical engineer who needs low-volume CNC parts\u2014traditionally, you'd expect to wait two to three weeks. Forge Automation flips that expectation on its head. Their platform allows users to upload a CAD model, and just like that, with a few clicks, engineers can enjoy the \"Amazon experience\" of fast and reliable CNC parts delivery.\n\nHere's how it works:\n1. **Upload Your Part:** Users can easily upload their design files directly onto Forge's user-friendly platform.\n2. **Instant Pricing:** Once a design is uploaded, users receive instant quotes, with options to adjust lead times based on their needs.\n3. **Rapid Production:** Parts are manufactured the moment they're ordered, ensuring quick turnaround times.\n4. **Quick Shipping:** Expect free shipping to get your parts delivered within 1-2 days after production.\n\nForge's capabilities are focused on CNC milling, utilizing a fleet of 3-axis CNC mills located in Canada. They have a minimum part size of 0.125\" cubed and can accommodate parts up to 24\" x 12\" x 4\". Their material offerings include various aluminum alloys, stainless steels, and plastics, with stock always on hand to expedite the order process. \n\nMoreover, Forge emphasizes precise tolerances, maintaining a default tolerance of \u00b10.005\" but can achieve tighter specifications down to \u00b10.001\". They also provide finishing options, which can be completed quickly leveraging in-house tools and trusted suppliers.\n\nBeing part of Y Combinator and having the guidance of Michael Seibel as their group partner adds a level of credibility and network strength to their operations, positioning Forge Automation as a forward-thinking player ready to challenge industry norms.\n\nFor more information, insights, and to start ordering your parts, visit [Forge Automation](https://www.forgeautomation.ca). \n\nIn a nutshell, Forge Automation is a game-changer for engineers who need speed and efficiency\u2014changing the centuries-old paradigm of manufacturing into something that fits the pace of today's market.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/49a86c5d431beb93cfdd683acdb32f97064b0052.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191348Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=81a26be2a648eb39bb7d13884339481f1744fd194bfa0eb82ff44594b6a121ce",
+    "social_links": [
+        "https://www.linkedin.com/company/forge-automation"
+    ],
+    "logo_path": "data/logos\\Forge_Automation_logo.png"
+}

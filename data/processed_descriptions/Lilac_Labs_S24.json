@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/lilac-labs",
+    "name": "Lilac Labs",
+    "headline": "We automate the person taking orders at drive-thrus with a voice AI",
+    "batch": "S24",
+    "description": "At Lilac, we automate the person taking order at the drive thru with a voice AI. We're building this for Quick Service Restaurants (QSRs) dealing with an historical labor shortage and rising wages.\r\n\nPrevious attempts at drive-thru voice ordering are costly to implement and have failed to deliver the accuracy and latency needed. It's now possible to build a voice interface that passes the threshold for a great customer experience.\r\n\nIn the United States, there are 200,000 Drive-Thrus handling 6 Billion visits a year. At 3 minutes per order, that's 34,000 human years spent on taking orders annually. Per location, on average we can deliver around $100,000 of value in terms of labor savings, upsell revenue lift, and training costs.",
+    "activity_status": "Active",
+    "website": "https://www.drive-thru.ai/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Tony Kam, Co-Founder / CEO",
+            "description": "Tony is the co-founder and CEO of Lilac Labs. Tony studied EECS at UC Berkeley where focus on operating systems. \n\nBefore Lilac, Tony worked at Tesla as an engineer, where he owned the display and touch component of the infotainment system. Tony also worked on the performance and reliability of driving visualization. Prior to that, Tony worked on manufacturing automation at Intel and robotics simulation at CloudMinds.",
+            "linkedin": "https://linkedin.com/in/tonyshekkam"
+        },
+        {
+            "name": "Shelden Shi, Co-Founder / CTO",
+            "description": "Shelden is the Co-Founder and CTO of Lilac Labs. Shelden studied CS and CogSci at UC Berkeley, where he conducted research training ML models to predict emotions via audio data. \n\nBefore Lilac, Shelden was the founding engineer at Symbolic, leading the development of a Fintech lending platform with ~$1B in AUM and 30k monthly active users. Prior to that, Shelden worked at Flatiron Health, an oncology data unicorn, where he trained and built the evaluation pipeline for cancer diagnostic models.",
+            "linkedin": "https://linkedin.com/in/sheldenshi"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Lilac Labs**\n\nFounded in 2024, Lilac Labs operates at the cutting edge of tech in the Quick Service Restaurant (QSR) space. The mission? To revolutionize the drive-thru ordering process through voice AI. With a founding team of just two and support from Y Combinator's Batch S24, Lilac Labs is positioned to tackle a significant challenge: the labor shortages and rising wages affecting QSRs by automating the human element in order-taking.\n\n**The Problem**\n\nCurrently, there are roughly 200,000 drive-thrus in the U.S., accommodating a staggering 6 billion visits annually. These drive-thrus collectively consume an astounding 34,000 human years in order-taking every year. Past solutions for automating this process have proven too costly and inefficient, lacking the necessary accuracy and response speed to maintain a positive customer experience. \n\n**The Solution: Lilac Voice**\n\nEnter Lilac Voice. This AI-driven tool is designed to seamlessly integrate with existing drive-thru systems, minimizing friction while maximizing efficiency. Notably, it doesn't require any hardware purchases or complex AI model build-outs\u2014it's as simple as a one-click activation. The AI is capable of accurate order-taking with an impressive 98% accuracy rate and a response time of just 0.8 seconds, effectively handling order modifications and understanding store policies and dietary restrictions.\n\n**The Value Proposition**\n\nLilac Voice aims to deliver around $100,000 in value per location per year, thanks to labor savings and increased upsell opportunities. With the ability to deploy this AI tool flexibly\u2014either during peak hours or off-peak times\u2014managers can better allocate their workforce and enhance overall service efficiency.\n\n**What's Next?**\n\nThe team at Lilac Labs is actively developing partnerships and integrations to enhance their service. They\u2019ve recently partnered with HME NEXEO and PAR's Brink POS, ensuring that their AI solution is supported across platforms. With only two employees, the agility of Lilac Labs means they can pivot quickly and adapt to the dynamic needs of the QSR industry.\n\n**Conclusion**\n\nIn a landscape where speed, efficiency, and customer satisfaction are paramount, Lilac Labs stands out as a potential game-changer. Their focus on leveraging AI for enhancing drive-thru operations not only addresses pressing labor challenges but also innovates how QSRs interact with their customers. For those invested in the future of fast food, Lilac Labs is definitely a company to watch. \n\nFor further information, visit [Lilac Labs](https://www.drive-thru.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6eae8e0a3c935a9c0542847677b1e6f9268dfae9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191507Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=553080bdf1fcafc3e447e9867bfb402992e9cb306333c3061692b073b97e849d",
+    "social_links": [
+        "https://www.linkedin.com/company/ai-lilac-labs/",
+        "https://twitter.com/LilacLabs",
+        "https://www.facebook.com/profile.php?id=61562722752254",
+        "https://www.crunchbase.com/organization/lilac-labs"
+    ],
+    "logo_path": "data/logos\\Lilac_Labs_logo.png"
+}

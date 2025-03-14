@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/ego",
+    "name": "ego",
+    "headline": "AI-native 3D simulation engine",
+    "batch": "W24",
+    "description": "We\u2019re building the first generative ai-powered simulation engine, where non-technical creators can generate realistic characters powered by LLMs, 3D worlds, and interaction code/scripts with just prompts. The future of user-generated simulations, games, and interactive media will be powered by our engine.\r\n\nWe used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
+    "activity_status": "Active",
+    "website": "https://ego.live",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:consumer; industry:gaming; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Vishnu Hari, Founder",
+            "description": "previously ai applied research @ fb & product @ horizon, meta reality labs | astrophysics @ utoronto | filmmaker/screenwriter (link to my film - https://youtu.be/7r93LEFjpCA) | huge gamer and space nerd\n| i also enjoy reading hardcore philosophy",
+            "linkedin": "https://linkedin.com/in/astrophysicist"
+        },
+        {
+            "name": "Peggy Wang, Founder",
+            "description": "Peggy is the Co-Founder and CTO of Ego. Before starting Ego, Peggy worked as a Computer Vision Engineer building ML Face Tracking for AR Avatars at Meta Reality Labs. She also worked on Behavior Planning for Autonomous Driving at Lyft Level 5, and depth sensing using 3D LiDAR point clouds at Oculus. Peggy graduated with her Master's and Bachelor's in Computer Science, AI track from Stanford. She did research in Behavior Planning, Controls, and Deep RL for robots",
+            "linkedin": "https://linkedin.com/in/yuchun-peggy-wang"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Ego**\n\n**Mission:**  \nEgo is on a quest to redefine the future of simulations with its AI-native 3D simulation engine. The vision is pretty ambitious: to empower non-technical creators to generate realistic characters, immersive 3D worlds, and interactive experiences with simple prompts. Think of it as the canvas for user-generated simulations, games, and interactive media of tomorrow.\n\n**Origins:**  \nFounded in 2023 and part of Y Combinator's Batch W24, Ego emerged from the need for more accessible and powerful simulation tools. Their initial product was the generative AI-powered simulation engine itself, which has already made a notable mark. A standout application of their technology is *TownWorld*, a real-time interactive 3D simulation of a small town inspired by Stanford's generative agents paper. This isn\u2019t just a demo\u2014it's possibly the first of its kind in the realm of real-time AI 3D simulations.\n\n**Team & Location:**  \nBased in San Francisco, Ego operates with a compact team of five. The diversity in skill sets enables them to innovate rapidly while retaining clarity of purpose. They lean on Diana Hu as their Group Partner for strategic guidance.\n\n**Tagline:**  \nEgo is tagged with keywords that paint a solid picture of its focus: artificial intelligence, generative AI, consumer, gaming, and, of course, its home turf in the San Francisco Bay Area\u2014an ecosystem thriving with innovation.\n\n**Current Activities:**  \nAt present, the company is actively engaging users and building a community around its offerings. They have a waitlist for eager creators and are utilizing their engine to bridge the gap between imagination and creation.\n\n**Demo & Launch:**  \nFor those interested in visualizing what Ego is building, there's a demo video showcasing the potential of their simulation engine, alongside a dedicated Twitch stream that illustrates real-time interactions in TownWorld. You can dive into the experience on their website: [Ego Live](https://ego.live) or check out their launch page on Y Combinator for more insights and updates.\n\n**Summary:**  \nEgo is not just another tech startup; it's a potential game-changer for content creation, making the complex world of 3D simulation accessible to all. If you're a creator\u2014especially one who has felt constrained by technical hurdles\u2014Ego might just be the key to unlocking your full potential in the digital landscape. Keep an eye on them; they\u2019re building a fascinating future one pixel at a time.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dd364bee510200595380aefbaf19dee280730028.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191137Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e9bde887a60ce155923b38ac7c4afaea0d647a42086ffbdd8628c4d4e2f07310",
+    "social_links": [
+        "https://www.linkedin.com/company/egolive/",
+        "https://twitter.com/ego_ai_"
+    ],
+    "logo_path": "data/logos\\ego_logo.png"
+}

@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/homeroom",
+    "name": "HomeRoom",
+    "headline": "We Rent Your Property by the Room.  You earn 50% more Rent.",
+    "batch": "W22",
+    "description": "Homeroom helps investors provide affordable housing while making a 22% ROI.\r\n\nWe do this by sourcing properties, arranging capital, managing construction, vetting tenants and collecting rent by the room. To date, Homeroom has brought on 85 property investors, growing 6X annually, are bringing in 420K in annualized net-revenue\r\n\nHow it works:\r\nWe help investors buy homes in cities that are attractive to young people, but lack affordable housing options.  We then renovate and after about 20 days, the home is ready and we find qualified renters by the room.\r\n\nWe launched in 2018 in Kansas City with 1 home. We now have 105 homes in 31 cities. In 2021, we grew rental GMV to $1.8M (300% YoY growth). Our average rent across every property is $458, which is about 50% lower than market comps, and our investors see returns up to 50% higher.\r\n\nWe are HomeRoom. Johnny is the financial analyst/domain expert. Thomas is a cereal entrepreneur with a PHD in ML, and Mike hacked growth for Airbnb and Facebook.",
+    "activity_status": "Active",
+    "website": "https://livehomeroom.com/",
+    "founded_date": 2018.0,
+    "team_size": 25.0,
+    "location": "San Jose, CA",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:real-estate; industry:proptech; industry:nlp; industry:data-engineering; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Johnny Wolff, Founder",
+            "description": "I'm the CEO and Founder of HomeRoom Coliving \u2013 one of the fastest-growing coliving companies in the United States. After starting my career as a financial analyst in Silicon Valley I relocated to Austin, Texas to pursue real estate investing full-time. HomeRoom recently expanded to \nDallas and Austin, Texas. I still lives in one of HomeRoom\u2019s \nfirst coliving houses in Kansas City, and enjoys hanging out \nand surviving the pandemic with my awesome roommates - \nespecially on chicken wing Thursdays",
+            "linkedin": "https://www.linkedin.com/in/johnnywolff/"
+        },
+        {
+            "name": "Thomas Hornbeck, Founder",
+            "description": "I'm a serial entrepreneur who has founded multiple tech startups, including GotIt! (EdTech), Distynct (AgTech), and Homeroom (Coliving/PropTech) YC W'22.  PhD (abd) in Computer Science, dropped out in the 5th year to start my first company. I moved to Silicon Valley in 2013 and built an EdTech app that ended up #2 in Education on the AppStore.  I've been an angel investor in a few startups Jobhop (HR Tech company in Vietnam) and LegalQ (TechStars '21), and Venture Partner at Kind Capital.",
+            "linkedin": "http://linkedin.com/in/thornbeck"
+        },
+        {
+            "name": "Mike Tich, Founder",
+            "description": "Experienced Marketer and Data Scientist. \nCo-Founder & Head of Growth @ HomeRoom (W22)\nMarketing Science Expert @ Facebook\nPM / DS @ Airbnb (W09)\nHead of Digital Marketing @ iCracked (W12)",
+            "linkedin": "https://www.linkedin.com/in/michael-tich-53849b30/"
+        }
+    ],
+    "status": true,
+    "generated_description": "HomeRoom is tackling one of the more pressing issues in urban living\u2014affordable housing for young adults\u2014while simultaneously providing a lucrative investment opportunity for property investors. Founded in 2018 and backed by Y Combinator (Batch W22), the company operates from San Jose, CA, and has steadily expanded since its humble beginnings with just one house in Kansas City.\n\n### Mission & Vision\nHomeRoom's mission is simple: \"We Rent Your Property by the Room.\" This approach not only makes housing accessible but also allows property owners to earn up to 50% more rent. The company primarily targets cities that attract young professionals but lack affordable housing options.\n\n### Business Model\nThe innovative business model orchestrates a holistic process of sourcing properties, arranging financing, managing renovations, vetting tenants, and collecting rent\u2014by the room. This comprehensive service is designed to maximize returns for property investors, who typically see a 22% ROI and often go up to 50% higher returns compared to traditional rental methods. \n\n### Growth & Achievements\nIn just a few years, HomeRoom has grown by 6X annually, onboarding 85 property investors and generating $420K in annualized net revenue. From its singular home in 2018, it has expanded to 105 homes across 31 cities. The company reported impressive rental gross merchandise value (GMV) of $1.8M in 2021, showcasing a staggering 300% year-over-year growth. With an average rent of $458\u2014about 50% lower than market comps\u2014HomeRoom demonstrates that affordable living is both attainable and viable.\n\n### The Team\nLed by industry veterans, including Johnny (a financial analyst and domain expert), Thomas (a serial entrepreneur with a PhD in machine learning), and Mike (who previously drove growth for Airbnb and Facebook), HomeRoom boasts a skilled team of 25 employees focused on transforming the rental landscape. \n\n### Experience and Amenities\nBeyond just room rental, HomeRoom emphasizes community living with a tech-friendly environment. They provide well-furnished spaces, fast WiFi, and engage residents with community events, ensuring members have a quality living experience. The straightforward app allows residents to pay rent, request maintenance, and book social events with ease.\n\n### Conclusion\nIn essence, HomeRoom is redefining rental living\u2014not simply as a place to stay but as a community-focused, tech-enabled, and financially rewarding proposition for both residents and investors. Whether you're looking to rent or invest, HomeRoom provides a promising avenue for enhancing the rental landscape truly. Check them out at [livehomeroom.com](https://livehomeroom.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cd6f9d740e705ab824a10303b8e8b026fbf8d31b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191422Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=12798819c81c90f68c00417e3638a51ad38b5dc7150434195e8f52bcbdb1d7cd",
+    "social_links": [
+        "https://www.linkedin.com/company/livehomeroom",
+        "https://www.facebook.com/livehomeroom/",
+        "https://www.crunchbase.com/organization/homeroom-eecb"
+    ],
+    "logo_path": "data/logos\\HomeRoom_logo.png"
+}

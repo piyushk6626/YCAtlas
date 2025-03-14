@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/moreta",
+    "name": "Moreta",
+    "headline": "Payments made easy for international travelers.",
+    "batch": "S24",
+    "description": "At Moreta, we simplify payments for international travelers, letting you pay for anything using just your phone. Say goodbye to the hassle of searching for the best cash exchange rates or ATMs on your next trip. With Moreta, paying local merchants is easy, and the best part? Transparent fees.\r\n\nWe came up with Moreta while on our own backpacking adventures. Watching locals pay with a simple scan while we fumbled with cards and cash. So, we created a solution. By syncing with local payment networks, Moreta lets you pay like a local\u2014securely and digitally\u2014without needing a bank account in every country.\r\n\nWe\u2019re starting in Asia, where QR code digital wallets are taking over and are now the top choice at checkout. As these wallets start to join forces for cross-border payments, Moreta will be the first to bridge the gap for international travelers from card-centric markets to seamlessly tap into these local networks. Moreta will target 67 million travelers arriving in the region each year, who together have $127 billion in everyday expenditure.",
+    "activity_status": "Active",
+    "website": "https://moretapay.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:payments; industry:consumer; industry:travel; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Walid Mahd, Founder/CEO",
+            "description": "Walid is the co-founder and CEO of Moreta.\n\nHe was previously a card and fintech payments consultant at Mastercard Advisors and is an Ivey Business School HBA graduate. \n\nHe is an avid world traveler and backpacker, having explored over 30 countries across Europe, Southeast & Eastern Asia, Africa, and the Middle East.",
+            "linkedin": "https://www.linkedin.com/in/walidmahd/"
+        },
+        {
+            "name": "Sam Yu, Founder/CTO",
+            "description": "Sam is the co-founder and CTO of Moreta.\n\nHe studied Computer Science at the University of Waterloo and has extensive experience building and shipping consumer products.\n\nAs the Head of Research & Development at Stems, he led the development of their first mobile app and generative AI product. During his internships at Apple, Google, Meta, and Uber, Sam worked on high-impact projects, including developing the instagram.com search feature used by over 50 million people.",
+            "linkedin": "https://linkedin.com/in/yu-sam"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Meet Moreta: Simplifying Payments for Travelers\n\n**Company Name**: Moreta  \n**Founded**: 2024  \n**Location**: San Francisco  \n**Team Size**: 3 Employees  \n**Part of**: Y Combinator Batch S24  \n**Website**: [moretapay.com](https://moretapay.com)\n\n**Mission**: Making payments effortless for international travelers.\n\n---\n\n**Overview**\nMoreta emerged from the adventures of its founders, who were frustrated with the complexities of handling cash and cards while traveling. They witnessed locals effortlessly making payments via QR codes, which inspired them to create a solution that enables travelers to do the same, without the fuss of currency exchange problems or unfamiliar ATM fees. \n\n**How It Works**\nWith Moreta, you can pay local merchants just by using your phone to scan QR codes. The app synchronizes with local payment networks, allowing seamless transactions without requiring a bank account in each country you visit. It's a straightforward process: connect your bank, add money, scan a QR code, review the transaction, and voil\u00e0\u2014payment successful.\n\n**Target Market**\nMoreta is focused on the 67 million travelers who visit Asia each year, collectively spending around $127 billion. This is a massive market to tap into, especially as QR code digital wallets are becoming the norm in many parts of Southeast Asia.\n\n**Core Features**\n1. **QR Scan Payments**: Effortlessly pay like a local by scanning QR codes\u2014no cash or cards needed.\n2. **Real-Time Spending Tracking**: Manage your travel budget by setting limits and categorizing expenses in-app.\n3. **Currency Exchange**: Instantly convert your currency at competitive rates, with transparent fees.\n4. **Bank Linking**: Simple sign-up process that allows you to securely connect with your bank for the necessary currency.\n\n**Future Plans**\nMoreta aims to further expand its services to enable cross-border payments seamlessly, making the app a go-to financial companion for travelers navigating new markets.\n\n**Conclusion**\nWith a clear focus on simplifying payments for travelers, Moreta is well-positioned to disrupt the traditional payment methods used during international travel. As QR technology gains traction, Moreta isn't just about convenience\u2014it's about empowering travelers to thrive in diverse markets. With a solid foundation and backing from Y Combinator, they\u2019re poised for growth and eager to make travel a lot easier for millions.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6060dbde60671d9a61dab91a25ce9f78c0b9294d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191548Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1111896acaf0ecfe3060b816b609299bf68dbf59a6065e40262c690e5bad64ba",
+    "social_links": [
+        "https://www.linkedin.com/company/moretapay"
+    ],
+    "logo_path": "data/logos\\Moreta_logo.png"
+}

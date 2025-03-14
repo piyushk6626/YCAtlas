@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/sammy-labs",
+    "name": "SAMMY Labs",
+    "headline": "Automate onboarding, support & training with AI that mimics your users",
+    "batch": "W25",
+    "description": "SAMMY is an Al that explores your app like a real user, mapping every possible click to generate content, onboard users and spot issues. It updates automatically with every product change, keeping everything running smoothly. It may feel like magic, but it\u2019s just powerful technology at work.",
+    "activity_status": "Active",
+    "website": "https://www.sammylabs.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:computer-vision; industry:customer-support; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Joe Savidge, Founder",
+            "description": "Ex-Palantir pod lead , previous founder and IBanker (for my sins)\n\nNow working on augmenting everything post-sales with screen based agents",
+            "linkedin": "https://www.linkedin.com/in/josephsavidge"
+        },
+        {
+            "name": "Shav Vimalendiran, Founder",
+            "description": "Ex-algorithmic & Quantitative Crypto Hedge Fund. Took spin off Portfolio & Risk management platform from 0-1 as Lead Founding Engineer. Building SAMMY, Automating everything post-sales.",
+            "linkedin": "https://www.linkedin.com/in/shavvimalendiran/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: SAMMY Labs**\n\nFounded in 2024 and located in San Francisco, SAMMY Labs is a cutting-edge software company that leverages artificial intelligence to automate user onboarding, support, and training. A part of Y Combinator's Batch W25, this startup operates with a lean team of just three employees. Their mission is clear: to enhance user experiences by mimicking real user interactions within applications.\n\n**The Technology Behind SAMMY**\n\nAt the heart of SAMMY is an AI engine that behaves like a genuine user. It navigates through your app, mapping all possible interactions to create tailored content, help onboard users, and identify issues. The continuous learning aspect of the technology means that it updates automatically with every product change\u2014making it feel almost magical in its operation.\n\n**Key Features:**\n\n- **User Experience Optimization:** SAMMY generates customized walkthroughs, documentation, and onboarding experiences that evolve alongside the application\u2019s improvements.\n- **Automation Process:** The service operates in three steps\u2014run SAMMY with minimal code, assess the generated content, and watch as your onboarding and documentation automatically grow with your product.\n- **Secured and Compliant:** The platform adheres to SOC 2, GDPR, and HIPAA standards, ensuring data protection and privacy for users.\n- **Proven Success:** With impressive metrics such as an 80% increase in completion rates and a 65% reduction in support inquiries, SAMMY is deployed across numerous industries, showcasing its versatility.\n\n**Business Model and Pricing**\n\nSAMMY adheres to a straightforward pricing model, charging $0.30 per automated action\u2014whether that's finding a bug or generating a piece of documentation. This transparent approach means that both startups and enterprises are treated equally.\n\n**Connectivity and Integration**\n\nFlexibility is key for SAMMY; it integrates seamlessly with existing customer support tools like Zendesk and Intercom, as well as automated testing frameworks such as Selenium. This adaptability ensures that customers don\u2019t have to revamp their entire tech stack to get the benefits of SAMMY.\n\n**Looking Ahead**\n\nWith its innovative approach and a mission that resonates in today\u2019s fast-evolving digital landscape, SAMMY Labs is not just about enhancing customer experience; it\u2019s about redefining how companies interact with their users from the very beginning. For more information, visit their website at [sammylabs.com](https://www.sammylabs.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/582ba00aee77176392798962cc7e0e349398f51a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191909Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1960a2a57c468dc93767b7c590d0138b5f5aa3a92ce79dda784e9957cc733441",
+    "social_links": [
+        "https://www.linkedin.com/company/sammylabs"
+    ],
+    "logo_path": "data/logos\\SAMMY_Labs_logo.png"
+}

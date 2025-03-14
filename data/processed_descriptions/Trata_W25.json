@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/trata",
+    "name": "Trata",
+    "headline": "Database of investment research from anonymous hedge fund analysts",
+    "batch": "W25",
+    "description": "Trata is a crowdsourced database of stock analysis, written by anonymous hedge fund analysts. We compress the \u201cfirst cut\u201d of research from 3 hours to 3 minutes with 1-2 page notes.",
+    "activity_status": "Active",
+    "website": "https://www.trytrata.com/",
+    "founded_date": 2025.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:finance; industry:b2b; industry:databases; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alexander Chen, Co-Founder/CPO",
+            "description": "Co-Founder/CPO of Trata. Previously, Senior Software Engineer at Titan (YC S18, a16z), engineer 7 at Medallion (Sequoia), and engineer at Oscar Health. UCLA CS",
+            "linkedin": "https://www.linkedin.com/in/alexanderqchen/"
+        },
+        {
+            "name": "Eric Cho, Founder",
+            "description": "Co-Founder/CEO at Trata (W2025). Previously a technology investor at a L/S hedge fund. Cornell grad.",
+            "linkedin": "https://linkedin.com/in/emc329"
+        },
+        {
+            "name": "William Gao, Founder",
+            "description": "Co-founder at Trata (W2025).",
+            "linkedin": "https://www.linkedin.com/in/william-m-gao"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Trata: Revolutionizing Investment Research**\n\nTrata, founded in 2025 and part of Y Combinator's W25 batch, is a San Francisco-based startup that aims to transform how investors approach research. Their mission is straightforward yet profound: to create a crowdsourced database of investment research written by anonymous hedge fund analysts, allowing users to make informed decisions more efficiently.\n\nImagine compressing three hours of stock analysis into a digestible 1-2 page note that you can read in just three minutes. That's the magic of Trata. By identifying and highlighting the \"tension points\"\u2014the 1-3 critical issues that will shape a company's valuation over the coming year\u2014they help investors focus on what truly matters, saving them time in the research-heavy world of finance.\n\n**Key Features:**\n- **Rapid Insights:** Companies are evaluated through a quick scan of essential arguments that matter most.\n- **Framework Flexibility:** Users can identify companies that meet various investment frameworks.\n- **Document Scanning:** Important parts of public documents are quickly summarized, ensuring nothing crucial is overlooked.\n\nCurrently, Trata\u2019s team consists of just three employees, and they are led by Brad Flora as their Group Partner. Their work is tagged under categories like artificial intelligence, SaaS, finance, and databases, indicating their tech-savvy approach to a traditionally labor-intensive field.\n\nTrata recently raised a pre-seed round from Y Combinator and senior analysts across multiple institutional hedge funds\u2014validating their innovative model and backing from industry heavyweights. They offer a demo through their website, which users can book [here](https://www.trytrata.com/) to experience this revolutionary service first-hand.\n\nHowever, it's important to note that Trata is not a registered investment advisor, and they stress the importance of personal due diligence before making any investment decisions.\n\nIn a nutshell, if you\u2019re looking for a smarter way to sift through vast amounts of investment research without losing hours of your day, Trata might just be what you're looking for. \n\nFor more information, check out their website at [trytrata.com](https://www.trytrata.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4381fbf5d492831770452dae2a21fbdfe78aca6b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192025Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e967f17821ac8788c502f0ee4402a8bf20ca8899a9cda88ea1d448066656a278",
+    "social_links": [
+        "https://www.linkedin.com/company/trata-inc/"
+    ],
+    "logo_path": "data/logos\\Trata_logo.png"
+}

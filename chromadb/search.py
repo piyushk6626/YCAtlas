@@ -1,12 +1,13 @@
+import chromadb
 from openai import OpenAI
 import json
 import os
 import logging
 from dotenv import load_dotenv
 import chromadb
-from chromadb.utils import embedding_functions
-from prompts import *
+from .prompts import *
 from concurrent.futures import ThreadPoolExecutor
+import chromadb
 
 # Load environment variables
 load_dotenv(override=True)
@@ -65,14 +66,12 @@ def get_chroma_client():
     Initialize and return the ChromaDB client.
     """
     load_dotenv()
-    chroma_client = chromadb.PersistentClient(path="./chroma_db")
-    openai_ef = embedding_functions.OpenAIEmbeddingFunction(
-        api_key=os.getenv("OPENAI_API_KEY"),
-        model_name="text-embedding-3-large"
-    )
+    
+    chroma_client = chromadb.PersistentClient(path=os.join(os.getcwd(), "chroma_db"))
+    
     collection = chroma_client.get_or_create_collection(
         name="companies",  # Changed to match the uploaded collection name
-        embedding_function=openai_ef
+        
     )
     return collection
 

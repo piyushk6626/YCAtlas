@@ -1,0 +1,35 @@
+{
+    "links": "https://www.ycombinator.com/companies/sapling-ai",
+    "name": "Sapling.ai",
+    "headline": "Language models for enterprise applications.",
+    "batch": "W19",
+    "description": "Sapling offers an API and SDK to help businesses integrate language models into their applications. Its messaging assistant sits on top of CRMs and messaging platforms to help users more efficiently compose responses.",
+    "activity_status": "Active",
+    "website": "https://sapling.ai",
+    "founded_date": 2019.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:deep-learning; industry:generative-ai; industry:machine-learning; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ziang Xie, Founder",
+            "description": "https://cs.stanford.edu/~zxie",
+            "linkedin": "https://www.linkedin.com/in/ziangxie/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Sapling.ai: Empowering Enterprise Communication with AI\n\n**Founded:** 2019  \n**Location:** San Francisco, California  \n**Team Size:** 2 employees  \n**Y Combinator Batch:** W19  \n**Mission:** To provide language models tailored for enterprise applications.\n\n---\n\n#### What is Sapling.ai?\n\nAt its core, Sapling.ai is about enhancing communication within businesses. It started as an API and SDK platform, helping companies integrate powerful language models (think AI capabilities) into their current systems. This includes a messaging assistant that overlays on CRM and messaging platforms, allowing users to compose responses more efficiently and effectively.\n\n#### Key Features\n\n1. **Real-time Suggestions:** Sapling provides intelligent suggestions as users type, increasing productivity in communication.\n2. **Broad Integrations:** It seamlessly integrates with several popular platforms, including Salesforce, Zendesk, and ServiceNow, making it versatile for many business environments.\n3. **Robust Security:** The platform operates in a private cloud environment with stringent security measures including TLS and AES-256 encryption. It also offers options for self-hosted deployments and advanced identity management features like Single Sign-On (SSO) and Multi-Factor Authentication (MFA).\n4. **Rapid Deployment:** Developers can get started quickly with just a few lines of code, making onboarding fast and straightforward for team managers.\n\n#### Products Offered\n\n- **API / SDK** for integrating LLM capabilities\n- **Chat Assist** for more engaging customer interactions\n- **AI Detection** for recognizing AI-generated content\n- **Rephrasing and Grammar Tools** to refine communication\n\n[Explore Products](https://sapling.ai/products)\n\n---\n\n#### Use Cases\n\nSapling has gained traction across various sectors, including:\n\n- Public asset management\n- Fortune 50 healthcare companies\n- Major software firms (including several in the Nasdaq-100)\n\nThese use cases demonstrate the real-world impact of equipping teams with advanced communication tools powered by AI.\n\n#### Why Choose Sapling?\n\n- **Enterprise Security:** With a strong focus on protecting sensitive information, Sapling\u2019s offerings are designed to meet enterprise-grade security requirements.\n- **Best-in-Class Support:** Companies can rely on Sapling for ongoing support and integration assistance, ensuring a smooth implementation process.\n- **Trial Opportunities:** Interested businesses can try Sapling for free without the need for a credit card, making it easy to experience its power firsthand.\n\n---\n\nIn a nutshell, Sapling.ai is shaping the future of enterprise communication by leveraging the capabilities of AI, making interactions smoother, faster, and more effective. Their commitment to innovation reflects in their tailored solutions for businesses ready to step into the future of communication.\n\n[Visit Sapling.ai](https://sapling.ai) to learn more!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/83ff07c32e26e83651d1d38589803d55ebfe0a86.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191910Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=999cee54c9572ee7612559a15c97d7a89aea13f83c9ff243f59752bad8b9daae",
+    "social_links": [
+        "https://www.linkedin.com/company/saplingai",
+        "https://twitter.com/saplingai",
+        "https://www.facebook.com/saplingai/",
+        "https://www.crunchbase.com/organization/sapling-ai",
+        "https://github.com/saplingai"
+    ],
+    "logo_path": "data/logos\\Sapling.ai_logo.png"
+}

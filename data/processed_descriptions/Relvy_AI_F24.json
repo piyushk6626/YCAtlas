@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/relvy-ai",
+    "name": "Relvy AI",
+    "headline": "Efficient AI for monitoring production software",
+    "batch": "F24",
+    "description": "Relvy does 24x7 monitoring of production software logs to both discover and debug issues. We do this using our custom LLMs that are 200x cheaper than frontier models, which means we are the only AI that's usable at the scale of this problem.",
+    "activity_status": "Active",
+    "website": "https://www.relvy.ai",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:devops; industry:ai",
+    "founders": [
+        {
+            "name": "Bharath Bhat, Founder",
+            "description": "Co-founder, CEO at Relvy AI. I enjoy building delightful AI powered software. Previously worked on efficient computer vision/language models for Google Pixel, YouTube and Uber.",
+            "linkedin": "https://linkedin.com/in/bharathpbhat"
+        },
+        {
+            "name": "Simranjit Singh, Founder",
+            "description": "Co-founder and CTO at Relvy. Prev Microsoft, Amazon, Vetan, Orbital Insight, Nutanix",
+            "linkedin": "https://linkedin.com/in/simranjit2112"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Relvy AI: Optimizing Production Software Monitoring with Innovative AI**\n\nFounded in 2024 and part of Y Combinator Batch F24, Relvy AI tackles a significant pain point for engineers: efficiently monitoring production software. With a lean team of three, the company is making waves in the developer tools landscape, particularly in the realms of Software as a Service (SaaS) and DevOps.\n\nAt its core, Relvy specializes in 24/7 log monitoring. Imagine having an AI that not only tracks your software's performance but also helps diagnose issues as they arise, all while being 200 times more cost-effective than other frontier AI models. This capability positions Relvy as a groundbreaking solution, enabling organizations to scale their monitoring processes without breaking the bank.\n\nRelvy's unique approach utilizes custom language models that are both lightweight and powerful. These models automatically sift through production logs, thereby identifying and troubleshooting issues before they escalate. The result? Drastically reduced incident response times and a phenomenal reduction in operational costs\u2014up to 75%. \n\nTheir product offerings include:\n\n- **AI Agents:** Smart, efficient language models that power real-time troubleshooting.\n- **Synthetically Trained Models:** A game-changer in data privacy, Relvy never requires your data for model training.\n- **Deployment Flexibility:** Whether you prefer a cloud-based solution, self-hosting, or a private setup, Relvy has you covered.\n\nAdditionally, Relvy is keen on community interaction. You can find support through their dedicated Slack channel or dive into their blog for the latest insights and updates.\n\nTheir mission is clear: **to automate troubleshooting, empowering engineering teams to reclaim valuable time and focus on innovation rather than on the tedious task of debugging.**\n\nWith Garry Tan as their group partner and a commitment to streamlining production monitoring, Relvy AI appears set to revolutionize how companies interact with their software systems.\n\nFor more information, check out their [website](https://www.relvy.ai) or get started for free!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ccc73a3d67b01116368f3b6b485e1e9a393d978f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191715Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e41f1c51bfbb61df211b1fe776ea037b7e5f5163417f660d13732aefd892ab3e",
+    "social_links": [
+        "https://www.linkedin.com/company/relvyai"
+    ],
+    "logo_path": "data/logos\\Relvy_AI_logo.png"
+}

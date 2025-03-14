@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/quilt-data",
+    "name": "Quilt Data",
+    "headline": "Quilt manages data like code so that companies can experiment faster",
+    "batch": "W16",
+    "description": "We realized that S3 is kind of like \"git for data\" and have created services that make S3 function as a data hub for teams. Quilt consists of a Python Client, a web catalog for browsing and visualizing S3, and a CloudFormation backend for compute and identity management.",
+    "activity_status": "Active",
+    "website": "https://quiltdata.com",
+    "founded_date": null,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kevin Moore, Founder/CEO",
+            "description": "Kevin has a background in enterprise data processing, from processor and memory system architectures to in-memory database software and cloud architecture. Before co-founding Quilt Data, Kevin developed hardware-optimized software and scale-out in-memory database processing systems at Oracle and Sun Microsystems. Kevin earned a Ph.D. from the University of Wisconsin.",
+            "linkedin": "https://www.linkedin.com/in/kevinemoore"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Quilt Data: Reinventing Data Management for Faster Experimentation**\n\nQuilt Data, founded as part of Y Combinator's W16 batch, is a San Francisco-based startup with a simple yet powerful mission: to manage data like code, empowering companies to experiment faster. The core insight driving Quilt's innovation is the analogy of S3 (Amazon Simple Storage Service) as \"git for data.\" This realization led the team to develop a suite of tools designed to transform S3 into a collaborative data hub.\n\nAt its core, Quilt comprises three main components:\n1. **Python Client**: Enables seamless interaction with data.\n2. **Web Catalog**: Provides an intuitive interface for browsing and visualizing data stored on S3.\n3. **CloudFormation Backend**: Facilitates compute and identity management, streamlining workflows for data teams.\n\nWith a small but dedicated team of six employees, Quilt Data is making waves in the realms of data analytics, particularly in the San Francisco Bay Area. They are tagged under analytics, highlighting their focus on transforming how enterprises view and utilize data.\n\nQuilt's platform is designed to treat data as a reusable asset rather than just a resource. This approach is reflected in their offerings, which include:\n- Solutions for building reusable data packages.\n- An open-source version of their tools.\n- An enterprise platform equipped with vital features to manage extensive data workflows.\n\nThey're also an Advanced AWS Technology Partner, which enhances their ability to deliver integrated solutions that leverage AWS's robust infrastructure. Quilt Data is quickly gaining traction among notable brands in the industry, showcasing a growing list of enthusiastic customers.\n\nIf you're looking to shift your organization's data strategy to be more adaptive and experimental, Quilt Data offers the tools to help you build and manage high-quality data assets. You can learn more by visiting their website [here](https://quiltdata.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/36fdb4d2cab5f50c501673305f54728955eeb5d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191702Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=db5b17efec800e1af5f6e221c7b15e5ad5ba94bfa3afd3c71b0d44efcb9a55c7",
+    "social_links": [
+        "https://twitter.com/quiltdata",
+        "https://www.facebook.com/quiltdata",
+        "https://www.crunchbase.com/organization/quilt-data",
+        "https://github.com/quiltdata"
+    ],
+    "logo_path": "data/logos\\Quilt_Data_logo.png"
+}

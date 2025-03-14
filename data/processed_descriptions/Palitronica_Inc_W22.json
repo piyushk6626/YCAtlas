@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/palitronica-inc",
+    "name": "Palitronica Inc",
+    "headline": "Detect cyber attacks on critical physical infrastructure",
+    "batch": "W22",
+    "description": "Palitronica builds and deploys cutting-edge solutions to defend critical physical infrastructure and its supply chain.\r\n\nBy using side-channel information from endpoints, Palitronica provides a safe attack detection capability retrofittable to critical systems.",
+    "activity_status": "Active",
+    "website": "https://palitronica.com",
+    "founded_date": 2019.0,
+    "team_size": 6.0,
+    "location": "Kitchener, Canada",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:hardware; industry:security",
+    "founders": [
+        {
+            "name": "Sebastian Fischmeister, Founder",
+            "description": "Sebastian Fischmeister is the CEO and co-founder of Palitronica Inc, Professor at the University of Waterloo, and has over 20 years of R&D experience in safety and security of safety-critical embedded systems.",
+            "linkedin": "https://www.linkedin.com/in/sebastian-fischmeister-3a07a86/"
+        },
+        {
+            "name": "Carlos Moreno, Founder",
+            "description": "I am an electronics engineer with a passion for both analog and digital electronics. Originally, my passion for the analog side manifested as an audiophile and enthusiast about all electronics for high-end audio, whereas my passion for the digital side manifested as an embedded systems and later a computer security enthusiast.  Fate had it that modern cybersecurity would leverage the analog-domain side of digital electronics \u2014 found my real passion in the world of embedded systems security!",
+            "linkedin": "https://ca.linkedin.com/in/carlos-moreno-76a0626"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Palitronica Inc: Your Cyber Defense Ally**\n\nFounded in 2019 and hailing from Kitchener, Canada, Palitronica Inc is a pioneering company focused on protecting critical physical infrastructure from cyber attacks. They tackle a pressing need in today\u2019s world where malicious actors can wreak havoc on vital systems through sophisticated methods like hardware tampering and counterfeit components. \n\n### Mission and Offerings\nPalitronica specializes in detecting cyber threats by utilizing side-channel information from endpoints to provide safe and effective attack detection capabilities that can be retrofitted into existing critical systems. Their two key products, **Anvil** and **PowerFuzzer**, exemplify their leading-edge approach:\n\n- **Anvil**: A hardware testing solution designed to rapidly assess quality and integrity in electronic components, ensuring that they are free from manufacturing defects and cybersecurity risks.\n- **PowerFuzzer**: A powerful software testing tool that allows organizations to validate the software running on their electronics, ensuring that firmware stays genuine and unaltered.\n\nWith a 6-member team and the backing of Y Combinator\u2019s W22 batch, Palitronica melds advanced hardware and software technologies, bringing together a decade of research into areas like data signaling and machine learning. They aim to distinguish secure hardware from compromised versions effectively.\n\n### Why It Matters\nIn a landscape where supply chains are increasingly volatile and susceptible to various threats, Palitronica\u2019s solutions stand out. They don\u2019t just apply a trust-based approach; they quantitatively assess the integrity and quality of every component, safeguarding against:\n\n- Hardware swapping\n- Counterfeit products\n- Embedded malware in the form of firmware and silicon trojans\n\n### Looking Ahead\nPalitronica is actively expanding its impact. As part of its recent efforts, they received funding for a significant project set to bolster Canada's critical infrastructure. Not only are they safeguarding existing systems, but they are also shaping future standards through innovations in quality assurance and cybersecurity.\n\nTo learn more about how Palitronica is revolutionizing cybersecurity for supply chains and critical physical infrastructure, you can visit their website at [palitronica.com](https://palitronica.com). \n\nIn a world where having robust cyber defenses is no longer optional, Palitronica is positioning itself as an essential partner for organizations looking to secure their vital systems.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b8b0b8804463daf490d5370bf49e64050b80fc96.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191620Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1791e5800d5e5e740eed70917169df28c3083a1418fe520c5d9b4b0fde4660a9",
+    "social_links": [
+        "https://www.linkedin.com/company/76565236",
+        "https://twitter.com/palitronica",
+        "https://www.crunchbase.com/organization/palitronica"
+    ],
+    "logo_path": "data/logos\\Palitronica_Inc_logo.png"
+}

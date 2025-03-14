@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/idemeum",
+    "name": "idemeum",
+    "headline": "Passwordless application management platform.",
+    "batch": "S21",
+    "description": "idemeum is a Passwordless Application Management platform. Our vision is to provide a single place for small and medium businesses (SMBs) to set up and manage employee access to SaaS apps.\r\n\nBehind the scenes we connect to any HR system and automate employee onboarding and account provisioning. Employees leverage mobile device biometrics to access any type of app - free or paid. \r\n\nInstead of deploying multiple tools for SSO, password management, and passwordless access, idemeum offers one platform to do it all.",
+    "activity_status": "Active",
+    "website": "https://www.idemeum.com",
+    "founded_date": 2020.0,
+    "team_size": 6.0,
+    "location": "Palo Alto",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:security; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nik Poturnak, Founder",
+            "description": "Passionate about building security products. Led product teams at VMware, Facebook, FireEye, and Cisco.",
+            "linkedin": "https://www.linkedin.com/in/npoturnak/"
+        },
+        {
+            "name": "Jagjit Sethi, Founder",
+            "description": "Jagjit Sethi is the co-founder and CTO of Idemeum, a passwordless Identity Provider for small and medium businesses. Prior to Idemeum, Jagjit was a Director of Engineering at VMware where he was responsible for building Cloud-First distributed scalable system, global engineering teams and driving architectural responsibilities. Before joining VMware, Jagjit worked at Concept Tapistry, Flexera, i2 technologies and a startup company.",
+            "linkedin": "http://www.linkedin.com/in/jagjit-sethi-aa012b4"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Idemeum: A New Age in Passwordless Access Management**\n\nIdemeum is reshaping how small and medium businesses (SMBs) manage application access with a sleek, passwordless application management platform. Founded in 2020 and part of the Y Combinator Batch S21, this Palo Alto-based startup is laser-focused on simplifying access to SaaS applications.\n\n### The Vision Behind Idemeum\n\nImagine a single platform where you can streamline employee access to all your apps without the hassle of multiple tools for SSO, password management, and access. That\u2019s where Idemeum steps in. By integrating seamlessly with any HR system, Idemeum automates the onboarding process and account provisioning. Employees can use mobile device biometrics to log in to both free and paid applications, creating a frictionless user experience.\n\n### What They Offer\n\nIdemeum\u2019s offerings revolve around three main products:\n1. **Just-In-Time (JIT) Admin Access**: Compliant and secure, this eliminates the headaches of shared accounts by granting access only when it\u2019s needed.\n2. **Endpoint Privilege Management (EPM)**: It allows for admin account discovery, enhances local rights management, and streamlines user elevation requests, leveraging a powerful rule engine.\n3. **RFID Single Sign-On**: A simple tap-and-go solution for accessing shared workstations and applications, making user authentication a breeze.\n\n### Robust and Secure\n\nThe company's technology is grounded in a few key principles:\n- **Zero-Knowledge Architecture**: Idemeum never sees your credentials; everything is encrypted client-side.\n- **Cross-Platform Compatibility**: It works across Windows, macOS, and Entra ID.\n- **Easy Integrations**: Instant compatibility with various remote management and documentation tools ensures a seamless setup.\n\nIdemeum believes that the legacy on-premises PAM (Privileged Access Management) solutions are outdated. They slow down agile teams with their cumbersome processes. Instead, Idemeum\u2019s approach brings speed, compliance, and robust security to the table.\n\n### The Team and Community\n\nWith a small yet mighty team of six, Idemeum is agile and adaptive, ready to tackle the unique challenges of their clientele. The company is positioned in the vibrant San Francisco Bay Area, and they are already trusted by multiple MSPs (Managed Service Providers) and IT teams globally.\n\nTo dive deeper into their offerings or request a demo, check out their website at [idemeum.com](https://www.idemeum.com). Whether you're a small business looking to modernize your access management or an IT team in need of reliable tools, Idemeum might just be the answer to your password woes.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8571aa2c44a430462588f615060a95a1a167c4d8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191427Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1ff073e8ff23d65be60469602063e001a99bd239ef1d8ef8ec07fe163d9269a8",
+    "social_links": [
+        "https://github.com/idemeum"
+    ],
+    "logo_path": "data/logos\\idemeum_logo.png"
+}

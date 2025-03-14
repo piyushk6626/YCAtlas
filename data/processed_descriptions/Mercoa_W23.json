@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/mercoa",
+    "name": "Mercoa",
+    "headline": "BillPay & Accounts Payable API for B2B Platforms",
+    "batch": "W23",
+    "description": "Mercoa allows Vertical SaaS companies to offer BillPay and Invoicing services to their customers in as little as 3 weeks. Mercoa provides embedded workflows & payments that can be consumed with our API, SDKs, and customizable React components. \r\n\nWe want every Vertical SaaS company to be the \"Bill.com\" for their vertical.",
+    "activity_status": "Active",
+    "website": "http://mercoa.com",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:api; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sai Arora, Founder",
+            "description": "Founder at Mercoa",
+            "linkedin": "https://www.linkedin.com/in/saiarora"
+        },
+        {
+            "name": "Sandeep Dinesh, Founder",
+            "description": "Founder at Mercoa (W23)\n\nPrev:\nSenior Software Engineer @ Stripe\nLead Software Engineer @ Furmacy (YC W21)\nSenior Developer Advocate @ Google Cloud",
+            "linkedin": "https://www.linkedin.com/in/dineshsandeep/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: Mercoa\n\n**Name:** Mercoa  \n**Founded:** 2022  \n**Location:** San Francisco, CA  \n**Team Size:** 2 employees  \n**Y Combinator Batch:** W23  \n**Group Partner:** Dalton Caldwell  \n**Industry Tags:** Fintech, API, San Francisco Bay Area  \n**Website:** [mercoa.com](http://mercoa.com)\n\n---\n\n### Mission\n\nMercoa is on a mission to empower Vertical SaaS companies to become their own \"Bill.com\" by providing a seamless, AI-powered BillPay and Accounts Payable API. They aim to enable these platforms to integrate invoicing and payment solutions within just three weeks.\n\n### What They Do\n\nInitially focused on giving Vertical SaaS companies the tools they need to offer payment services, Mercoa provides a comprehensive suite of embedded workflows and payment solutions. This includes:\n\n- **Accounts Payable (AP):** \n   - Intelligent bill processing through email or manual uploads.\n   - Vendor onboarding and payment management.\n   - AI-driven payment scheduling and auto-categorization of expenses.\n\n- **Accounts Receivable (AR):** \n   - Automatic invoice creation from contracts.\n   - Branded invoicing and payment link generation.\n   - AI reminders for payment collection and penalty applications for late payments.\n\n### Key Features\n\n- **Developer-Centric Approach:** With backend and frontend SDKs available in languages like TypeScript, Python, and Java, Mercoa prioritizes a smooth developer experience. Their documentation is designed to integrate seamlessly into existing workflows.\n\n- **Flexible Implementation:** Choose from React components for maximum customization, a hosted iFrame for quick setup, or a full API for those who need complete control over their payment solutions.\n\n- **Revenue Potential:** By offering integrated payment solutions, partners can unlock new revenue streams, potentially earning an additional $300 per month per user and monetizing transaction fees.\n\n### Current Focus\n\nMercoa is actively enhancing its platform to facilitate faster payments, better cash flow management, and a fully branded payment experience for their customers. They aim to be the go-to solution for Vertical SaaS companies looking to simplify financial operations.\n\n### Quick Links\n\n- [Book a Demo](http://mercoa.com/<https:/calendly.com/sai-mercoa/intro>)\n- [Documentation](http://mercoa.com/<https:/docs.mercoa.com>)\n- [Blog](http://mercoa.com/</blog>)\n\nEach aspect of Mercoa's offering builds towards a goal: making it easier for businesses to handle their financial transactions efficiently while maintaining their brand identity. They are particularly focused on ensuring every interaction around billing and payments feels like an extension of the customer\u2019s own platform.\n\nIn essence, Mercoa is positioning itself as the underlying infrastructure that can drive financial operations for a plethora of Vertical SaaS companies. If you\u2019re running a specific vertical and want to enable your customers to manage payments effortlessly, this is definitely a solution worth exploring.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/120601cff63e05ec22c6c4e5ad89699e29350854.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191532Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b1827027318ad4e8e744807db85606d5a5bfb5e9b221bf63944bd03423f7b9c7",
+    "social_links": [
+        "https://www.linkedin.com/company/mercoa/",
+        "https://twitter.com/MercoaFinance",
+        "https://www.crunchbase.com/organization/mercoa",
+        "https://github.com/mercoa-finance"
+    ],
+    "logo_path": "data/logos\\Mercoa_logo.png"
+}

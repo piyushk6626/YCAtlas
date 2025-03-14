@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/gecko-security",
+    "name": "Gecko Security",
+    "headline": "The AI Security Engineer to Find and Fix Vulnerabilities",
+    "batch": "F24",
+    "description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don\u2019t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
+    "activity_status": "Active",
+    "website": "https://gecko.security",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Pete Koomen",
+    "group_partner_yc": "https://www.ycombinator.com/people/pete-koomen",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:security; industry:cybersecurity; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jeevan Jutla, Founder",
+            "description": "Jeevan, Co-Founder and CEO of Gecko Security, has previously worked as a security researcher for UK Intelligence (GCHQ and MI5), where he built automated security tools to protect national infrastructure. He\u2019s ranked in the top 500 globally for competitive hacking and has co-developed machine learning tools for vulnerability research, 3 years ahead of public research.",
+            "linkedin": "https://www.linkedin.com/in/jeevan-jutla/"
+        },
+        {
+            "name": "Artemiy Malyshau, Founder",
+            "description": "Artemiy holds an MSc from Imperial College London, where he was a scholar. He has contributed to research in multi-agent systems and reinforcement learning. As the first employee and only non-PhD member at his previous company, he developed threat intelligence software for Interpol and national governments.",
+            "linkedin": "https://www.linkedin.com/in/artemiy-malyshau/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Gecko Security Overview\n\n**Founded:** 2024  \n**Location:** San Francisco, CA  \n**Team Size:** 2 employees  \n**Backing:** Y Combinator Batch F24  \n\n**Website:** [gecko.security](https://gecko.security)  \n\n---\n\n#### Mission\n\nGecko Security's mission is straightforward: to leverage AI to act as your code's personal security engineer. Their goal? To find and fix vulnerabilities quickly, without the fuss of ineffective security tools or the fleeting reliability of one-off human penetration tests.\n\n---\n\n#### How It Works\n\nGecko's technology dives deep into your applications, simulating real-world attacks to uncover critical vulnerabilities. Here\u2019s what sets them apart:\n\n- They go beyond traditional Static Application Security Testing (SAST) tools by identifying business logic flaws and complex vulnerabilities that others often overlook.\n- Gecko utilizes AI not just to surface problems, but to validate vulnerabilities by simulating exploits. This means fewer false positives, ensuring your team isn\u2019t swamped with noise.\n- The tool takes a practical approach by providing actionable fixes, helping developers maintain a secure codebase without slowing down their workflow.\n\n---\n\n#### Key Features\n\n- **Offense-driven Security:** Identify and repair issues usually detected in bug bounty programs or penetration tests.\n- **Low False Positives:** AI-assisted verification of vulnerabilities ensures only real issues are flagged.\n- **Threat Modeling:** Custom scenarios that mimic potential attacks help you understand how vulnerabilities could be exploited in your environment.\n- **Continuous Integration:** Seamlessly integrates with your development processes, ensuring every pull request is secure before merging.\n\n---\n\n#### Offerings\n\nGecko Security features two primary subscription plans:\n\n1. **Free Open Beta (Basic Plan):**\n   - Testing on up to 3 repositories\n   - Basic offensive security engine\n   - AI-generated fixes for Python and JavaScript/TypeScript\n   - For codebases less than 20,000 lines\n\n2. **Enterprise Plan:**\n   - Testing on unlimited repositories\n   - Advanced security features and integrations with CI/CD pipelines\n   - Customizable solutions for larger teams\n\n---\n\n#### Why Choose Gecko?\n\nGecko is particularly appealing for teams that wish to scale their development while keeping security tight. The platform minimizes the burden on engineers, ensuring patches are applied effortlessly, which ultimately helps in shipping secure code faster. \n\nIn a world where software vulnerabilities can lead to catastrophic failures, Gecko Security emerges as a proactive ally, making sure that security is integrated into the development process, rather than bolted on as an afterthought.\n\n--- \n\nFor those interested in maximizing their code's integrity with leading-edge tools, you can [book a demo](https://gecko.security/<https:/cal.com/geckosec/30min>) or explore their product offerings on their [website](https://gecko.security).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6d8a726d025c87d25f7f736bdbd6123c8064c70c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191355Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=835903843d11bf360483902c025c88fa384e5004711384635ccd665367b4b236",
+    "social_links": [
+        "https://www.linkedin.com/company/geckosec",
+        "https://x.com/gecko_sec",
+        "https://github.com/Gecko-Security"
+    ],
+    "logo_path": "data/logos\\Gecko_Security_logo.png"
+}

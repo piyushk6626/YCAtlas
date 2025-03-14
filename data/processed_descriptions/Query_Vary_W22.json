@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/query-vary",
+    "name": "Query Vary",
+    "headline": "No-Code LLM Application / Workflow Builder",
+    "batch": "W22",
+    "description": "Query Vary is a no-code tool for building LLM-powered automation. \r\n\nExample use cases include extracting information from a sales call transcript and piping it into a CRM, creating a Slack bot trained on product documentation, or transforming Google forms into fully formatted reports.\r\n\nInput Software --> LLM --> Output Software\r\n\nOur extensive toolset to make each workflow reliable sets Query Vary apart. \r\n\nBook a demo:\r\nhttps://calendar.app.google/6oxEvZA2k4kK6dBa8",
+    "activity_status": "Active",
+    "website": "https://queryvary.com",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:b2b; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Dirk Jan van Veen, Founder",
+            "description": "Dirk-Jan van Veen is the co-founder and CEO of Query Vary. We help companies adopt AI workflows and make them robust by optimizing the prompt and providing the infrastructure to rigorously A/B test different variations. Dirk-Jan holds a PhD in Multi-Agent Systems from ETH Zurich.",
+            "linkedin": "https://www.linkedin.com/in/dirk-jan-van-veen-0b625569/"
+        },
+        {
+            "name": "Walter Pintor, Founder",
+            "description": "Walter is the CTO and co-founder of Query Vary, a startup specializing in prompt design, testing, and refinement tools, with a focus on reliability, latency reduction, and cost optimization. Prior to this, he founded Syncware, a warehouse optimization software tool. He similarly worked automating complex systems and products during his time at the largest research institute in Singapore. His background is in aerospace engineering and mechatronics.",
+            "linkedin": "linkedin.com/in/walter-pintor"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Query Vary: Empowering No-Code Automation with LLMs\n\n**Overview**  \nFounded in 2021 and hailing from the Y Combinator Batch W22, Query Vary is a dynamic startup based in San Francisco, consisting of a compact yet talented team of six. The company's mission is straightforward yet powerful: to democratize the power of AI by providing a no-code platform for building automation workflows powered by Large Language Models (LLMs). \n\n**What They Do**  \nQuery Vary is all about making complex AI solutions accessible to everyone, regardless of technical background. Their platform enables users to design workflows simply by connecting input software, processing through LLMs, and generating outputs\u2014all without writing a single line of code. \n\n**Key Use Cases**  \nThe tool can be applied in various scenarios like:\n- **Sales Call Analysis:** Extracting critical information from meeting transcripts and integrating it into CRM systems.\n- **Slack Bots:** Training custom bots using internal documentation to streamline customer interactions.\n- **Report Generation:** Transforming raw data from Google Forms into professionally formatted reports.\n\nThis versatility is a significant selling point, as Query Vary empowers users to automate tedious tasks across departments, enhancing productivity by an estimated 30%.\n\n**Unique Selling Proposition**  \nWhat sets Query Vary apart from other no-code platforms is its extensive toolset that enhances the reliability of each workflow. They offer a comprehensive suite of integrations, allowing connections with existing software and databases, ensuring users maximize their automation capabilities.\n\n**Security and Flexibility**  \nData security is a top priority, with Query Vary holding a SOC 2 Type 2 certification, ensuring all customer data is encrypted and kept safe. The platform allows users to upload their own documents or connect to vector databases, further enhancing the customization of their AI applications.\n\n**Clientele and Recognition**  \nQuery Vary\u2019s innovative approach has attracted a diverse clientele, including companies like Clueso and Pawcare. Their backing from Y Combinator lends further credibility and visibility in the competitive tech landscape.\n\n**Engagement and Support**  \nInterested prospects can easily explore Query Vary's offerings through demos and their detailed documentation, making the onboarding process seamless. Additionally, they maintain a community presence through platforms like LinkedIn and Discord.\n\n**Conclusion**  \nQuery Vary is positioned at the intersection of no-code automation and cutting-edge AI technology, making it a compelling solution for businesses looking to streamline processes without the need for programming expertise. If you\u2019re curious about how it can transform your workflow, consider booking a demo at [Query Vary's website](https://queryvary.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c8a222318b274aa70688c0aeca89f48904531d90.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191702Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ea5b5540bf178f40335d1c3fb06013c6157404e51ac1b424c989468a51b616f7",
+    "social_links": [
+        "https://www.linkedin.com/company/96061039",
+        "https://twitter.com/queryvary"
+    ],
+    "logo_path": "data/logos\\Query_Vary_logo.png"
+}

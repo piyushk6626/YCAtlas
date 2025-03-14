@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/sleek",
+    "name": "Sleek",
+    "headline": "1-click checkout from every store on the internet + cashback rewards.",
+    "batch": "S21",
+    "description": "Sleek provides B2C businesses with a custom browser extension that works on both mobile and desktop. With the extension, you can:\r\n- Auto-complete checkout for users with an Apple-pay-like experience tied specifically to your brand.\r\n- Offer Honey-like couponing to help your users save money.\r\n- Grant users extra cashback at 1000's of online stores, funded by Sleek.\r\n\nYour users spend time and money in the browser. With Sleek, you can be there for them.",
+    "activity_status": "Active",
+    "website": "https://www.onsleek.com/",
+    "founded_date": 2021.0,
+    "team_size": 5.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:machine-learning; industry:e-commerce",
+    "founders": [
+        {
+            "name": "Adam MacEachern, Founder",
+            "description": "Co-Founder & CEO @ Sleek\nPreviously: Management Consultant @ Kearney",
+            "linkedin": "http://www.linkedin.com/in/adam-maceachern-120536109"
+        },
+        {
+            "name": "Daniel Baum, Founder",
+            "description": "Co-Founder & COO @ Sleek\nPreviously: Corporate Lawyer @ Bennett Jones LLP",
+            "linkedin": "http://www.linkedin.com/in/daniel-baum"
+        },
+        {
+            "name": "Palmer McCutcheon, Founder",
+            "description": "Co-Founder & CTO @ Sleek\nPreviously: Software Engineer @ Microsoft",
+            "linkedin": "https://www.linkedin.com/in/palmm"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Sleek**\n\nFounded in 2021 and part of Y Combinator's S21 batch, Sleek is a Toronto-based startup on a mission to revolutionize the online shopping experience. The company aims to make checkout as seamless as a single click while offering users cashback rewards across thousands of stores. \n\n**What Does Sleek Do?**\n\nSleek initially launched as a custom browser extension for B2C businesses, available on both mobile and desktop. Here\u2019s what it brings to the table:\n\n- **1-Click Checkout**: Imagine checking out like you do with Apple Pay\u2014fast and branded specifically for each merchant.\n  \n- **Automatic Coupons**: Similar to Honey, this feature applies the best coupons without you having to lift a finger, saving users real money.\n\n- **Cashback Rewards**: Users can earn cashback at thousands of online stores, with Sleek footing the bill for these rewards.\n\nThe philosophy is straightforward: Users spend a lot of time and money browsing the internet, and with Sleek, brands can be right there with them, facilitating a better shopping experience.\n\n**Key Features:**\n\n1. **Automatic Coupons**: Save users money by auto-applying the best coupons available.\n   \n2. **Page Classification**: Sleek intelligently identifies eCommerce page types\u2014whether it\u2019s a product page, cart, checkout, or confirmation\u2014enhancing user interaction.\n\n3. **Product Intelligence**: Provide detailed product information, including price history and comparisons, to help users make informed decisions.\n\n4. **Automated Code Validation**: Ensure that coupon codes are valid by testing them across real merchant websites.\n\n5. **Cashback Options**: Highlight cashback offers both during the shopping process and in search results, making rewards easier to access.\n\n**Security and Privacy**\n\nSleek takes user data security seriously, employing bank-level encryption and avoiding the capture of personally identifiable information (PII). They are also in the process of obtaining SOC 2 certification, which speaks volumes about their commitment to user privacy.\n\n**Team and Investors**\n\nWith a small but mighty team of five, Sleek is backed by industry veterans, including Jared Friedman as their Group Partner. The startup has aligned itself in the broad intersections of fintech, machine learning, and e-commerce\u2014fields ripe for innovation.\n\n**Why Sleek?**\n\nAs online shopping continues to dominate, Sleek is positioned to be at the forefront of enhancing the user experience, alleviating the pain points of traditional checkout processes while rewarding users for their loyalty. It's a win-win.\n\nIf you\u2019re interested in a hands-on demo or just want to explore more, head over to [Sleek\u2019s website](https://www.onsleek.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/27d3a5af47680d003a4031aa5a0b8533ebeba4cb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191931Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d918f65b1b93ee169898b2fca32d1b574aa6ee75230f7d5778be6d4dc7fd1538",
+    "social_links": [
+        "https://www.linkedin.com/company/onsleek/",
+        "https://twitter.com/trysleek",
+        "https://www.facebook.com/trysleek/",
+        "https://www.crunchbase.com/organization/sleek-794e"
+    ],
+    "logo_path": "data/logos\\Sleek_logo.png"
+}

@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/revenuecat",
+    "name": "RevenueCat",
+    "headline": "A simple API for managing in-app subscriptions",
+    "batch": "S18",
+    "description": "RevenueCat is a mobile SDK and API for managing in-app subscriptions\r\n\nWe take the sting out of supporting the complicated subscription systems of the App Store and Google Play Store, and help you focus on running your business.",
+    "activity_status": "Active",
+    "website": "https://www.revenuecat.com/",
+    "founded_date": 2017.0,
+    "team_size": 70.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:subscriptions; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Miguel Carranza, Founder",
+            "description": "I'm a software engineer from Seville, Spain. I got my first computer at 8 years old and fell in love with technology. I moved to Silicon Valley to work at a startup called Elevate, which was awarded Apple's App of the Year in 2014. At Elevate, I met my co-founder Jacob and we learned first hand how challenging it is to implement in-app subscriptions. We decided to start RevenueCat, to make sure developers can make a living doing what they love, without having to focus on boring infrastructure.",
+            "linkedin": "https://www.linkedin.com/in/miguelcarranza/"
+        },
+        {
+            "name": "Jacob Eiting, Founder",
+            "description": "I was an iOS engineer who got really mad at StoreKit one day and decided to do something about it.",
+            "linkedin": "https://www.linkedin.com/in/jeiting/"
+        }
+    ],
+    "status": true,
+    "generated_description": "RevenueCat is a SaaS company founded in 2017, based in San Francisco and part of Y Combinator's Batch S18. The company has grown to a team of 70 employees and focuses on simplifying in-app subscription management with a robust API, allowing developers to efficiently manage their services across iOS, Android, and web platforms.\n\nTheir mission? To take the hassle out of navigating the complex subscription systems of both the App Store and Google Play Store. By providing a seamless backend solution, RevenueCat enables developers to concentrate on what truly matters: building and scaling their businesses. This functionality supports over 38,000 apps globally, boasting impressive metrics, including over 1.2 billion API requests daily, and processing more than $5 billion in annual revenue.\n\nRevenueCat's offerings include a unified subscription management system that features tools for growth, customer data management, and integration capabilities. Their platform helps engineering teams avoid the tedious maintenance of platform updates, empowers marketing teams with actionable data, and enhances product management with customizable paywalls and A/B testing capabilities.\n\nFor developers looking to launch their subscription services quickly and effectively, RevenueCat provides the features to achieve that with minimal friction. The company also embraces no-code integrations, making it easy for teams to adapt their existing tools without requiring extensive technical prowess.\n\nIn essence, RevenueCat acts as a backend-in-a-box for subscription management\u2014streamlining the entire process and allowing developers to stay ahead of platform changes. The result? More time to innovate and grow, while benefitting from a reliable, easy-to-use service. For more information and to get started, visit their website at [RevenueCat](https://www.revenuecat.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9e4e84730f397134deb894a9ffcfab9c58396ec8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191722Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4742d99161dfce25a7ccabb7e322248f7262037ecae87437ca9a6c88d635f8a6",
+    "social_links": [
+        "https://www.linkedin.com/company/18697746",
+        "https://www.twitter.com/revenuecat",
+        "https://www.facebook.com/RevenueCat/",
+        "https://www.crunchbase.com/organization/revenuecat",
+        "https://github.com/RevenueCat"
+    ],
+    "logo_path": "data/logos\\RevenueCat_logo.png"
+}

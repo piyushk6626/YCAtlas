@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/stipop",
+    "name": "Stipop",
+    "headline": "Monetization platform for character creators",
+    "batch": "S21",
+    "description": "Stipop is a monetization platform for character creators, or simply put, Patreon for character creators. We help independent character IP owners generate revenue directly from their audience with fun, dynamic features. \r\n\nPreviously, Stipop was a sticker platform with 5,000 sticker creators, and 250K stickers and provided stickers to Canva, Teams, Google, and Adobe. We also provide sticker API and SDK to help chat apps improve revenue and user engagement.\r\n\nStipop has been invested by Snap (through Yellow Accelerator), YC, Translink Investment, Strong Ventures, Next Ventures, and more.",
+    "activity_status": "Active",
+    "website": "https://studio.stipop.io",
+    "founded_date": 2017.0,
+    "team_size": 8.0,
+    "location": "Santa Monica, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:marketplace; industry:consumer; industry:community",
+    "founders": [
+        {
+            "name": "Tony Park, Founder",
+            "description": "Co-founded Stipop, a monetization platform for character creators. We help independent character IP owners generate revenue directly from their audience with fun, dynamic features. Previously, Stipop was a sticker platform with 5,000 sticker creators, and 250K stickers and provided stickers to Canva, Teams, Google, and Adobe.",
+            "linkedin": "https://www.linkedin.com/in/tonypark-stipop/"
+        },
+        {
+            "name": "Daniel Cho, Founder",
+            "description": "Co-founded Stipop, a monetization platform for character creators. We help independent character IP owners generate revenue directly from their audience with fun, dynamic features. Previously, Stipop was a sticker platform with 5,000 sticker creators, and 250K stickers and provided stickers to Canva, Teams, Google, and Adobe.",
+            "linkedin": "https://www.linkedin.com/in/danielcho6/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Stipop is a vibrant platform designed to empower character creators and help them monetize their work\u2014think of it as a Patreon specifically for character IP. Founded in 2017 and part of Y Combinator\u2019s S21 batch, Stipop began its journey as a sticker repository hosting 5,000 creators and over 250,000 stickers, providing stickers for major platforms like Canva, Teams, Google, and Adobe. Now, it's evolved into a comprehensive monetization platform that allows indie character creators to connect directly with their fans.\n\n### What They Do\n\nAt its core, Stipop connects creators with their audience through dynamic tools for monetization. Creators can turn their characters into digital stickers, wallpapers, and even watch faces, allowing their fans to engage with their content in fun, interactive ways. This innovative approach not only enhances fan engagement but also streamlines the revenue generation process for artists, who can offer subscriptions and one-time purchases without hefty upfront costs. Stipop only takes a 10% cut of revenues once creators start making money, ensuring it's a low-risk way to kickstart a revenue-generating venture.\n\n### Technology Backbone\n\nFor developers and chat platforms, Stipop also provides robust APIs and SDKs to integrate stickers seamlessly into messaging apps. This is crucial in today\u2019s communication landscape, where personalized expression through stickers is becoming increasingly popular.\n\n### Team and Backers\n\nOperating from Santa Monica, California, with a team of just eight employees, Stipop has garnered significant support from prominent investors like Snap (through Yellow Accelerator), Y Combinator, and various venture capital firms. This backing illustrates the growing recognition of the demand for platforms that cater to character creators in a digital world.\n\n### Community and Feedback\n\nThe feedback from creators has been overwhelmingly positive; they appreciate Stipop\u2019s flexibility, user-friendly model, and the platform\u2019s emphasis on community-building. Testimonials highlight that Stipop reduces technical hurdles, making it easier for creators to distribute their work across multiple messaging platforms. Creators are happy with the control they retain over their content, ensuring they own everything they upload and can build a community around their work.\n\n### Why It Matters\n\nIn an era where digital communication relies heavily on expressive visuals, Stipop is carving out a niche that acknowledges and rewards artistic creators. By creating a monetization-friendly environment, it not only helps artists earn a living doing what they love but enriches the digital landscape with unique character-driven content.\n\nIf you\u2019re a character creator looking to expand your revenue streams while engaging your audience, Stipop might just be the platform for you. Check them out at [Stipop](https://studio.stipop.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3bf657aa80834f5d0dd89f79f1a908fbee16f3f9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191949Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0ed3680fe5e1e80cb73c5a173edf88db2007db8d0d74ddaa1403fc469511aa11",
+    "social_links": [
+        "https://www.linkedin.com/company/18340651",
+        "https://twitter.com/stipopofficial",
+        "https://www.facebook.com/stipopofficial",
+        "https://www.crunchbase.com/organization/stipop-inc",
+        "https://github.com/stipop-development"
+    ],
+    "logo_path": "data/logos\\Stipop_logo.png"
+}

@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/chowdeck",
+    "name": "Chowdeck",
+    "headline": "On-demand food delivery for Africa",
+    "batch": "S22",
+    "description": "Founded in October 2021, currently based in Lagos, Nigeria, Africa\u2019s most populous city, Chowdeck is an on-demand food delivery service and marketplace where people can purchase their favourite meals from a wide range of restaurants. Whether local or continental, customers can buy food in a few short steps and have it delivered to their doorstep in under 30 minutes. \r\n\nChowdeck is on a mission to empower restaurants in Africa to deliver meals to customers anywhere and anytime. Part of our unique offering to the restaurants listed on our marketplace is that we\u2019ll help them grow, and so far, most of the restaurants we work with can boast of this achievement. With their help and the help of an ambitious team of relentless and fearless riders, we\u2019ve delivered over 80,000 meals in the last six months in two major cities in Lagos.\r\n\nWe\u2019ve come this far because we\u2019re passionate about understanding the teething pains of delivery service in Africa and believe strongly in a world where ordering a meal is seamless.",
+    "activity_status": "Active",
+    "website": "https://chowdeck.com",
+    "founded_date": 2021.0,
+    "team_size": 14.0,
+    "location": "Nigeria",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:logistics",
+    "founders": [
+        {
+            "name": "Femi Aluko, Founder",
+            "description": "Femi is the co-founder and CEO of Chowdeck. He was a former Principal Engineer at Paystack, an African payments company acquired by Stripe in 2020. When he started at Paystack in 2017 (as the fifth engineer and the first Core Payments Engineer), he was responsible for building the core payment infrastructure for multiple payment methods. As a Principal Engineer, he was in charge of designing multiple core systems like the circuit breaker for routing over 100k transactions daily.",
+            "linkedin": "https://www.linkedin.com/in/femialuko/"
+        },
+        {
+            "name": "Olumide Ojo, Founder",
+            "description": "Olumide is co-founder and CTO of Chowdeck. Olumide has spent the better part of the last five years working in African fintech companies across various individual contributor and leadership roles such as Technical Lead, Engineering Manager, and, more recently, Principal Engineer at Paystack. His contributions span the entire technical stack from backend to frontend and beyond.",
+            "linkedin": "https://www.linkedin.com/in/olumide-ojo/"
+        },
+        {
+            "name": "Lanre Yusuf, Founder",
+            "description": "Lanre is the co-founder and COO of Chowdeck. He is a former Engineering Lead at Crown Interactive where he led a team of software engineers in developing and managing business support solutions for a leading power utility company in Nigeria.",
+            "linkedin": "https://www.linkedin.com/in/lanre-yusuf-92706454/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Chowdeck: The On-Demand Food Delivery Service Revolutionizing Africa's Food Scene**\n\nFounded in October 2021 and based in Lagos, Nigeria\u2014the most populous city in Africa\u2014Chowdeck has set its sights on making meal delivery as easy as a few taps on your phone. It\u2019s not just another food delivery service; it\u2019s a mission-driven platform aiming to simplify how people access their favorite meals from a vast array of restaurants, from local delights to continental cuisines. Just order, sit back, and in under 30 minutes, your meal arrives at your doorstep.\n\n### Mission-Focused Approach\n\nChowdeck is on a mission: to empower African restaurants to reach customers wherever they are, at any time. The platform does more than just facilitate delivery; it actively assists its partner restaurants in growing their businesses. In just six months, Chowdeck has delivered over 80,000 meals across two major cities in Lagos\u2014an impressive feat made possible by a dedicated team of passionate riders.\n\nChowdeck's founders have taken the time to understand the unique challenges surrounding food delivery in Africa. They are committed to creating a seamless experience for customers and restaurants alike. This approach has the potential to revolutionize food access in the region.\n\n### Growth and Support\n\nAs part of Y Combinator Batch S22, Chowdeck is gaining traction and recognition in the tech and food delivery spaces. The company operates with a lean but ambitious team of 14 dedicated employees. They\u2019re working tirelessly to ensure that both customers and vendors have a smooth experience, with 24/7 support available for all.\n\nThe platform offers several products, namely Chowpass and Relay, aimed at enhancing the user experience. You can explore these services directly on their [website](https://chowdeck.com/).\n\n### Engaging the Community\n\nChowdeck isn't just about delivery; it\u2019s about community. They invite restaurant owners to join their growing network, leveraging the platform to reach new customers and increase sales. Similarly, they encourage individuals to sign up as delivery riders, promising not just a job, but an opportunity to deliver joy and earn a decent income.\n\n### The Chowdeck Experience\n\nUsing Chowdeck is straightforward:\n1. **Download the app.** Available on both [Google Play](https://play.google.com/store/apps/details?id=com.chowdeck.com) and the [App Store](https://apps.apple.com/us/app/chowdeck/id1530676376).\n2. **Explore categories** of cuisine.\n3. **Place your order** and get ready to enjoy your meal.\n\nWith a focus on reliability and customer experience, Chowdeck is quickly becoming a go-to solution for hungry customers across Lagos. If you\u2019re looking to try something new or just want a taste of home without the hassle of cooking, Chowdeck has you covered.\n\nTo sum it up, Chowdeck is not just feeding people; it's nourishing a growing ecosystem of restaurants and riders while tackling the challenges of food delivery in Africa with serious ambition. If you're in Lagos and haven't tried them yet, it might be time to explore what they have to offer.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a634561ef2954d7614890e9e96bb90b0f983522b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191048Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7508984502eb7c9f1a8f5bb66168aeb10d964caaebaeddb786fa2da5b8d5406f",
+    "social_links": [
+        "https://ng.linkedin.com/company/chowdeck",
+        "https://twitter.com/chowdeck",
+        "https://www.facebook.com/chowdeck"
+    ],
+    "logo_path": "data/logos\\Chowdeck_logo.png"
+}

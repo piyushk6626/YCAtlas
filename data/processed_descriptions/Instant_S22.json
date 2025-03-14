@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/instant",
+    "name": "Instant",
+    "headline": "The Modern Firebase",
+    "batch": "S22",
+    "description": "Instant is the modern Firebase. We make it easy to build realtime and collaborative applications like Notion or Figma.",
+    "activity_status": "Active",
+    "website": "https://instantdb.com",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Joe Averbukh, Founder",
+            "description": "I truly believe each one of us has the ability to create the world they want to see. I love working with optimistic and principle-oriented people.\n\nSince 2020 I\u2019ve been building with my best friend. We followed two rules initially 1) Build something we want for ourselves and 2) Make something more ambitious than previously. Since 2021 we added a third rule, 3) Make it a business. To that end we launched Jobsearch.dev, ExportHealth, Zeneca, Consistent, and now work on Instant, the modern Firebase",
+            "linkedin": "http://www.linkedin.com/in/joeaverbukh"
+        },
+        {
+            "name": "Stepan Parunashvili, Founder",
+            "description": "I work with people I will be friends with for a lifetime. I love hacking. I started off my career building a startup in China, and soon joined Wit.ai to work on an API for natural language processing. We used a suite of interesting tools, like Clojure, which heavily influenced my software design philosophy. We were acquired by Facebook. After 4 years, I had a stint at Airbnb, and decided to start Instant with my best friend. I also love to write; you can read some essays on my blog: stopa.io",
+            "linkedin": "https://www.linkedin.com/in/stepan-parunashvili-65698932/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Instant: The Modern Firebase for Real-Time Applications\n\n**Mission:**\nInstant aims to revolutionize application development by becoming the \u201cmodern Firebase.\u201d They simplify the creation of real-time, collaborative applications reminiscent of tools like Notion and Figma.\n\n**Overview:**\nFounded in 2022 and based in San Francisco, Instant is part of the Y Combinator Batch S22. The company boasts a lean team of three employees who are passionate about tackling the complexities of building user-centric applications. With Jared Friedman as a Group Partner, Instant is positioned strategically in the startup ecosystem.\n\n**What They Do:**\nInstant provides developers with a real-time database that handles data synchronization and management seamlessly. This means developers can focus on building robust frontends without worrying about backend complexities like server setup, authentication, and endpoint management. With Instant, you can write relational queries directly in your frontend code, and Instant handles everything else.\n\nInterested in starting quickly? You can build a live app in less than five minutes using their simple onboarding process.\n\n**Key Features:**\n1. **Instant Updates:** Changes made by users reflect in real-time without loading screens or delays. This is possible because Instant manages optimistic updates and rollbacks effortlessly.\n   \n2. **Multiplayer Support:** Built with collaborative experiences in mind, Instant synchronizes data across devices \u2014 ideal for applications that require real-time interaction among users.\n   \n3. **Offline Mode:** Instant apps remain functional offline, enhancing user experience by relying on local caches.\n\n4. **User Presence and Cursors:** Instant supports real-time interactions like typing indicators and shared cursors with minimal coding.\n\n**Team:**\nThe team behind Instant is composed of experienced engineers, many from top tech companies like Facebook and Airbnb. Their rich background allows them to deeply understand the challenges developers face when building modern applications.\n\n**Backed by Notable Investors:**\nInstant has garnered support from prominent investors and figures in tech, including James Tamplin (Co-Founder of Firebase) and Paul Graham (Co-Founder of Y Combinator), making it a company to watch in the startup landscape.\n\n**Conclusion:**\nIf you\u2019re a developer looking to streamline the process of building collaborative applications, Instant positions itself as an invaluable tool. It empowers you to create seamless, real-time experiences while alleviating the burden of server-side complexities.\n\nFor more information, check out their website at [InstantDB](https://instantdb.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1599796692531ea808900ba447636afeda34026e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191434Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b09a875494ed01061216bdcb4d79ad01b0bc1b7215b7bbae131e22df8e5116b5",
+    "social_links": [],
+    "logo_path": "data/logos\\Instant_logo.png"
+}

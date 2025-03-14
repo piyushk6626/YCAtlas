@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/tire-swing",
+    "Name": "Tire Swing",
+    "Headline": "AI for Healthcare Compliance",
+    "Batch": "W25",
+    "Description": "Tire Swing saves healthcare organizations thousands of hours on routine regulatory compliance tasks.\r\n\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.",
+    "Activity_Status": "Active",
+    "Website": "https://gettireswing.com",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "New York",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/tom-blomfield",
+    "Group_Partner": "Tom Blomfield",
+    "Company_Linkedin": "https://www.linkedin.com/company/tire-swing",
+    "Company_Twitter": "",
+    "Tags": "industry:health-tech; industry:compliance; industry:legal; industry:healthcare; industry:health-insurance; location:new-york",
+    "social_links": [
+        "https://www.linkedin.com/company/tire-swing",
+        "http://crunchbase.com/organization/tire-swing"
+    ],
+    "logo_path": "data\\logos\\Tire_Swing.png",
+    "Active_Founders": [
+        {
+            "Name": "Lucas Irvine, Founder",
+            "Description": "Co-founder Tire Swing (W25)\n\nPreviously a Senior Software Engineer for Instacart, where I worked on everything on the front page of Instacart. Before that worked at Capital One on the open-source rules engine Cloud Custodian.\n\nGraduated from Princeton with a Bachelors in Computer Science in 2019.",
+            "LinkedIn": "https://www.linkedin.com/in/lucas-i-b20187128/"
+        },
+        {
+            "Name": "Paul Witten, Founder",
+            "Description": "Cofounder/CEO Tire Swing (W25)\n\nPreviously Senior Consultant at Stroz Friedberg where I led cybersecurity investigations involving Advanced Persistent Threats, Nation States, and Ransomware. I led the memory forensics working group and was a member of the malware analysis working group.\n\nGraduated from Princeton with a Bachelors in Computer Science 2019",
+            "LinkedIn": "https://linkedin.com/in/paul-witten-39579715a"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Tire Swing: Empowering Healthcare Compliance Through AI**\n\nFounded in 2025, Tire Swing is a New York-based startup dedicated to revolutionizing the way healthcare organizations handle regulatory compliance. They emerged from Y Combinator's W25 batch, quickly positioning themselves in the health-tech space. With a small but passionate team of just two employees, Tire Swing is on a mission to save healthcare providers countless hours by tackling the burdens of routine compliance tasks.\n\nAt its core, Tire Swing's AI platform is designed to simplify compliance for healthcare compliance teams. It enables users to efficiently navigate thousands of regulations, preparing them for audits while identifying potential gaps in their policies and procedures. What's particularly compelling is the proactive approach they take: as new regulatory changes occur, the platform suggests necessary updates to ensure organizations remain compliant without the usual headaches.\n\nThe company's vision is straightforward\u2014allow healthcare organizations to focus on their primary mission of patient care, while Tire Swing takes care of the compliance details. With the support of Group Partner Tom Blomfield, Tire Swing is poised to make significant strides in the healthcare landscape.\n\nTheir website, [GetTireSwing.com](https://gettireswing.com), showcases their innovative solution and commitment to the health-tech sector, making them a notable player in the fields of compliance, legal services, and healthcare insurance.\n\nTire Swing\u2019s focused approach not only positions them as a crucial ally for healthcare organizations, but it also emphasizes the importance of adaptability in an ever-changing regulatory environment. If you're in healthcare and compliance feels like a daunting task, Tire Swing just might be the solution you didn\u2019t know you were looking for."
+}

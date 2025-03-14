@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/ember-robotics",
+    "name": "Ember Robotics",
+    "headline": "Datadog for robots",
+    "batch": "S24",
+    "description": "Ember delivers real-time, edge-first diagnostics to keep robots reliable from prototype to scale. Built by ex-Tesla Autopilot engineers, we help robotics teams catch failures early, prevent costly downtime, and iterate with confidence.",
+    "activity_status": "Active",
+    "website": "https://www.emberrobotics.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:robotics; industry:b2b; industry:analytics; industry:data-visualization; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Shivani Mouleeswaran, Founder",
+            "description": "Co-founder and CEO @ Ember Robotics. Previously at Tesla Autopilot and Simbe Robotics building software for real-time robot diagnostics, image quality optimization, field service alerts, and low-latency data pipelines. I love robots, basketball, and playing the sitar!",
+            "linkedin": "https://www.linkedin.com/in/shivanicm"
+        },
+        {
+            "name": "Ritika Shrivastava, Founder",
+            "description": "Ritika is a roboticist who loves helping robots see \ud83d\udd76! She is a proud UC Berkeley alumna (B.S. EECS '21 & M.S. EECS '22) \ud83d\udc3b, where she researched and taught about computer vision and robotics. Formerly a computer vision engineer at Tesla Autopilot, Ritika is excited to build tools that help roboticists!\n\nIn her free time, she enjoys playing tennis \ud83c\udfbe, building gizmos, and reading \ud83d\udcd6!",
+            "linkedin": "https://www.linkedin.com/in/ritikashrivastava/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Ember Robotics**\n\nEmber Robotics is on a mission to provide \"Datadog for robots,\" offering real-time, edge-first diagnostics that ensure robotic systems are reliable from prototype through scale. Founded in 2024 and currently part of Y Combinator Batch S24, Ember set up shop in San Francisco, where a tight-knit team of two ex-Tesla Autopilot engineers is driving innovation in the robotics space.\n\n### What They Do\n\nEmber delivers critical insights for robotics teams, helping them catch failures early, which minimizes costly downtime and allows for more confident iterations. Their product suite includes:\n- **Ember Agent**: Offers real-time robot health monitoring, automated failure detection, and built-in sensor support.\n- **Ember Dashboard**: Provides live sensor status, instant anomaly alerts, and historical performance trends.\n\n### The Problem They Solve\n\nBy catching hardware and software issues early, Ember aims to reduce failure cycles, allowing teams to iterate more efficiently. Their diagnostics empower engineers to focus on what truly matters\u2014developing better robots. The straightforward aim? Keep robots running smoothly while also bridging communication gaps between engineering and field teams.\n\n### The Team\n\nLed by engineers with over five years of experience in robotics and vision systems, their background from Tesla ensures a deep understanding of advanced machine functionalities. The team plans to leverage their expertise to create a robust platform that facilitates precision and reliability across various industries, including drones, automotive, and general robotics.\n\n### Current Status\n\nEmber Robotics is in its early days but is already garnering attention in the developer tools, analytics, and B2B sectors, particularly within the San Francisco Bay Area. Under the guidance of Group Partner Diana Hu, they are poised to make significant impacts in the diagnostic space for robotics.\n\n### Get Involved\n\nCurious about how Ember can help your robotics project? You can [book a demo](https://www.emberrobotics.com/<https:/calendly.com/shivanicm/30min>) and explore their offerings directly. For continuous updates, visit their website at [emberrobotics.com](https://www.emberrobotics.com). \n\n**Bottom Line**: Ember Robotics is set to redefine the reliability game for robots, making them smarter and more dependable than ever, with diagnostics that help catch issues before they escalate.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/92fb7e2447239e41853f6c87ea6ba756b0e4a3a0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191306Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3c4b6a1eaf087d273763c87e8cee52ded8c8d168eb6699c93ef33b1bea0f677f",
+    "social_links": [
+        "https://www.linkedin.com/company/ember-robotics"
+    ],
+    "logo_path": "data/logos\\Ember_Robotics_logo.png"
+}

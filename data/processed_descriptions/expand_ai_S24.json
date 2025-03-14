@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/expand-ai",
+    "name": "expand.ai",
+    "headline": "Turn any website into an API.",
+    "batch": "S24",
+    "description": "expand.ai instantly turns any website into a type-safe API you can rely on.\r\n\nYou can either request data from any website instantly or let expand.ai build up datasets for you.\r\n\nWe take care of the hard parts like dealing with bot protection, scaling browser infrastructure and making sure that we only extract verified, correct information.",
+    "activity_status": "Active",
+    "website": "https://expand.ai/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Tim Suchanek, Founder",
+            "description": "Having been the first engineer at Prisma and founder of Stellate, I'm passionate about databases, schemas and APIs. Now at expand.ai, we're turning the web into a type-safe API.",
+            "linkedin": "https://linkedin.com/in/tim-suchanek-08219346"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: expand.ai**\n\nFounded in 2024 and part of the Y Combinator Batch S24, expand.ai is a budding startup based in San Francisco with a nimble team of two. At its core, expand.ai seeks to transform the way you interact with data online by turning any website into a reliable, type-safe API.\n\n**Mission and Vision**\n\nThe mission is straightforward yet powerful: \"Turn any website into an API.\" With this approach, expand.ai removes the friction of data extraction from websites. Whether you need to pull specific information instantly or want to build datasets over time, expand.ai simplifies the process. They tackle the challenging aspects\u2014like overcoming bot protection, maintaining scalable infrastructure, and ensuring the accuracy of extracted information\u2014so you can focus on utilizing the data.\n\n**Key Features**\n\n1. **Type-Safe APIs**: Automatically generate a type-safe API for any website, making it easy for developers to integrate data without worrying about format inconsistencies.\n   \n2. **Customizability**: Users can tailor the schema according to their specific needs, fostering a more flexible and adaptive data extraction experience.\n\n3. **High Data Quality**: All data retrieved is rigorously checked and verified, substantially reducing the chance of errors or \"hallucinations\" that can occur with other systems.\n\n4. **Speed**: With extraction models claims of being up to 10 times faster than existing solutions, expand.ai prioritizes efficiency in data retrieval.\n\n5. **Scalable Infrastructure**: Whether you\u2019re scraping a handful of pages or scaling up to millions, expand.ai boasts the capability to manage web-scale crawling effortlessly.\n\n6. **Handling Any Website**: Regardless of the complexities posed by JavaScript rendering or bot defenses, expand.ai ensures you get the data you need from virtually any public website.\n\n**Development and User Experience**\n\nThe developer experience seems to be a focal point for expand.ai. Their design allows users to write simple commands to extract vast amounts of information easily. For example, a single line of code can initiate scraping a whole database of Y Combinator companies, displaying a clear commitment to making data extraction as straightforward as possible.\n\n**Current Status and Future Outlook**\n\nCurrently, expand.ai is looking to bolster their team\u2014indicating their ambitions to grow and innovate further. As they continue to refine their technology and expand their capabilities, they are poised to become a significant player in the developer tools and infrastructure spaces in the San Francisco Bay Area.\n\nIn summary, expand.ai is not just creating APIs but is aiming to democratize data access across the web, making it a compelling tool for developers who wish to turn real-time information into actionable insights. If you're intrigued by the idea of converting the internet into a comprehensive database, joining their waitlist or team might just be your next step.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3b5ffd4ea8c7d867e36a9454a22bae51513375f7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191323Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=24e171224ebb131665072a0d8762937649123070ba1f1cd8bbdb6eb451dd17db",
+    "social_links": [
+        "https://www.linkedin.com/company/use-expand-ai/",
+        "https://x.com/getexpandai",
+        "https://github.com/expandai"
+    ],
+    "logo_path": "data/logos\\expand.ai_logo.png"
+}

@@ -1,0 +1,47 @@
+{
+    "links": "https://www.ycombinator.com/companies/superpowered-ai",
+    "name": "Superpowered AI",
+    "headline": "API for Retrieval Augmented Generation",
+    "batch": "S22",
+    "description": "Superpowered AI makes it easy to build production-ready LLM applications with access to external knowledge.\r\n\nOur API lets you connect external sources of knowledge (like regulatory archives, for example) to LLMs. We leverage proprietary RAG technology to dramatically improve retrieval performance and reliability for a wide variety of use cases.\r\n\nIf you have an LLM-based application in mind, please reach out! We've helped companies build real-world applications, ranging from internal productivity tools to complete external products.",
+    "activity_status": "Active",
+    "website": "https://superpowered.ai",
+    "founded_date": 2021.0,
+    "team_size": 4.0,
+    "location": "Salt Lake City, UT",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Justin Clark, Founder",
+            "description": "System Architect at Superpowered.ai\n\nProfessional interests: AI systems, software architecture, Python, IaC\nPersonal interests: biological systems, skiing, mountain biking, and just about anything outside",
+            "linkedin": "https://www.linkedin.com/in/justin-m-clark/"
+        },
+        {
+            "name": "Dillon Martin, Founder",
+            "description": "Dillon Martin is the co-CEO of Superpowered AI, a startup that provides a developer API for building sophisticated LLM-based applications. Previously, he worked as a Financial Advisor at Bank of America Merrill Lynch before co-founding a quantitative hedge fund with the same team that later founded Superpowered AI. When Dillon is not conversing with AI models, he can be found skating the streets of Salt Lake City.",
+            "linkedin": "https://www.linkedin.com/in/dillon-t-martin-8809b6126"
+        },
+        {
+            "name": "Nicholas McCormick, Founder",
+            "description": "Nick McCormick is the lead developer at Superpowered AI. He studied engineering at the University of Tennessee. Prior to starting Superpowered, he worked as a developer at a quant hedge fund where he developed the backtesting system. Outside of work, Nick's main passions are mountain biking and running, where he frequently competes in races.",
+            "linkedin": "https://www.linkedin.com/in/nick-mccormick-6813828b/"
+        },
+        {
+            "name": "Zach McCormick, Founder",
+            "description": "Zach is the co-CEO of Superpowered AI. Prior to starting Superpowered, he was the Chief Investment Officer at a small quant hedge fund that he ran with his future Superpowered co-founders, where he put his Applied Mathematics degree to good use. When he\u2019s not working, Zach enjoys spending time in the mountains, usually either skiing or biking.",
+            "linkedin": "https://www.linkedin.com/in/zach-mccormick-295a5953/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Superpowered AI: Your Go-To for LLM Application Development\n\nFounded in 2021 and hailing from Y Combinator\u2019s Batch S22, Superpowered AI is based in Salt Lake City, UT, and operates with a nimble team of four. This innovative company is on a mission to enhance the development of production-ready applications utilizing Large Language Models (LLMs), all while tapping into external knowledge sources through their API.\n\n#### What Sets Superpowered AI Apart?\n\nAt its core, Superpowered AI focuses on Retrieval Augmented Generation (RAG) technology, a smart move that greatly boosts retrieval performance and reliability. Their API enables developers to connect LLMs to diverse external knowledge bases, such as regulatory archives, making it easier than ever to build applications that leverage both AI and real-world data.\n\nWhether it\u2019s an internal productivity tool or a customer-facing application, Superpowered AI has already partnered with numerous companies to realize their ideas. If you have an LLM-based project in mind, they\u2019re eager to collaborate with you. \n\n#### Who's Behind It?\n\nThe company is guided by Harj Taggar, their Group Partner from Y Combinator. This pedigree alone suggests a focus on ambition and potential.\n\n#### Services Offered\n\nSuperpowered AI caters to both technical and non-technical users:\n- For developers, their **REST API** provides unparalleled flexibility, and a **Python SDK** simplifies integration. They also offer customizable React components for rapid deployment.\n- Non-coders can utilize their user-friendly web interface, which requires no programming skills\u2014just input your data and get results.\n\n**Use Cases:**\n- Building vertical AI products, like marketing tools and workflow automation.\n- Crafting long-form content, including complete chapters for books.\n- Developing customer support solutions and ERPs that enhance productivity.\n- Creating educational apps that serve as personal tutors for students.\n\n#### Why Trust Superpowered AI?\n\nSecurity is paramount here. They uphold industry-standard best practices, using robust 256-bit AES encryption to keep data secure and ensuring that your data is never used to train models. They also feature scoped API keys for granular control over data access and seamless fallback options.\n\n#### Join the Superpowered Movement\n\nBacked by over 10,000 users and boasting over 5 million uploaded pages of text, Superpowered AI is poised for rapid growth. If you're interested, their platform offers a **14-day free trial**\u2014a perfect opportunity to explore the power of RAG technology yourself.\n\nIn short, Superpowered AI is altering the landscape for LLM-based applications and making sophisticated AI integrations more accessible to anyone with a vision. So, if you\u2019re ready to turn your ideas into reality, they might just be the partners you\u2019re looking for.\n\n**Check them out at** [superpowered.ai](https://superpowered.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5ba544bfa44b62b9746aa9fd3fe1547a681144d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191957Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=06ce14425d8b29bee60e7bd997bff9abb5281c2164d00e7d8582eb8120e71156",
+    "social_links": [
+        "https://twitter.com/superpowered_ai",
+        "https://github.com/SuperpoweredAI"
+    ],
+    "logo_path": "data/logos\\Superpowered_AI_logo.png"
+}

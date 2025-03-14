@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/cedalio",
+    "name": "Cedalio",
+    "headline": "Accurate Sustainability Data with AI",
+    "batch": "S23",
+    "description": "At Cedalio, we automate sustainability data collection using AI. Gather, extract, and consolidate data from diverse sources like PDFs, ERPs, and bills. Cedalio delivers precise, real-time, validated data for accurate carbon accounting and ESG reporting, ensuring compliance and driving sustainable business practices.",
+    "activity_status": "Active",
+    "website": "https://cedalio.com/",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:data-engineering; industry:climatetech; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Luciana Reznik, Founder",
+            "description": "Luciana is CEO at Cedalio, The trusted data platform that boosts sustainability. She is a software engineer originally from Argentina, living in the bay area since 2018. Previously she Co-founded Wolox, an end-to-end digital solutions company that was acquired by Accenture in Jan 2021.",
+            "linkedin": "https://linkedin.com/in/lucianareznik"
+        },
+        {
+            "name": "Nico Magni, Founder",
+            "description": "Hello! I'm Nico Magni, the Chief Product Officer (CPO) at Cedalio, a database that tracks every application data change, and maintains an immutable and verifiable history. As a software engineer, I am passionate about building innovative solutions that tackle real-world challenges. \n\nI had the opportunity to sell my previous company to Accenture, where I gained invaluable experience in successfully scaling and delivering high-quality products.\n\nCurrently based in Patagonia, Argentina.",
+            "linkedin": "https://linkedin.com/in/nicomagni"
+        },
+        {
+            "name": "Guido Marucci Blas, Founder",
+            "description": "CTO & co-founder at Cedalio. Previously CTO & co-founder at Wolox (acquired by Accenture). Argentinean. Passionate about building amazing developer experiences, lowering the barrier to entry to web3 and working in the intersection of developer tools and data privacy. When I'm not working I love going outdoors \u26f0\ufe0f, playing the guitar \ud83e\udd18 and hanging out with friends!",
+            "linkedin": "https://linkedin.com/in/guidomb"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Cedalio**\n\nFounded in 2022 and a part of Y Combinator's Batch S23, Cedalio is a San Francisco-based startup on a mission to provide accurate sustainability data through advanced AI technology. With a team of six and backed by notable venture partner Garry Tan, Cedalio harnesses the power of AI to transform how businesses manage their environmental data.\n\n**Mission and Services**\n\nCedalio's core mission is to automate sustainability data collection, ensuring businesses have access to precise, real-time, and validated data. This is crucial for effective carbon accounting and ESG reporting\u2014areas increasingly under scrutiny as businesses strive for transparency and responsibility. Their platform allows users to upload utility and gas bills, while their AI algorithms capture, organize, and analyze energy consumption data efficiently. This capability provides sustainability leaders with critical insights, alerts for any anomalies, and generates compliance-ready reports in line with GRI standards.\n\n**Features and Benefits**\n\n1. **Data Extraction & Accuracy**: Cedalio's technology can process thousands of invoices per minute, guaranteeing both speed and accuracy. Automated cross-checking means users can trust their insights for strategic decisions and compliance.\n\n2. **Visual Analytics**: Intuitive dashboards visualize data through clear charts and trends, helping users quickly identify usage patterns, peaks, and potential areas for improvement.\n\n3. **Real-Time Alerts**: The platform offers instant alerts for any anomalies, enabling proactive response strategies, which can lead to significant cost savings and efficiency in managing resources.\n\n4. **Custom Reports**: Users can generate tailored reports for various compliance needs, making it easy to meet regulatory standards without the hassle of manual formatting.\n\n**Why Choose Cedalio?**\n\nCedalio doesn\u2019t just make sense of data; it empowers organizations to act on it. Clients have reported up to a 30% reduction in manual processing expenses and a massive 80% decrease in data inaccuracies. The company\u2019s scalable solution supports businesses managing hundreds of locations and large volumes of data seamlessly.\n\n**Conclusion**\n\nIn a world increasingly concerned with sustainability, Cedalio stands out by providing businesses with the tools they need to foster accountability and drive environmental stewardship. With a strong foundation in AI and a commitment to data accuracy, they\u2019re positioned to be a leader in the climatetech space.\n\nTo learn more or get started, visit [Cedalio's website](https://cedalio.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3a1d54ed74f113a8acafac8afeec839a82b7b5e3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191044Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e60ab1428737799e1f6ce21cde74621a6db99cfc8cd5ef4ff784db0cb1eff2d9",
+    "social_links": [
+        "https://www.linkedin.com/company/cedalio/",
+        "https://twitter.com/CedalioTech",
+        "https://github.com/cedalio/"
+    ],
+    "logo_path": "data/logos\\Cedalio_logo.png"
+}

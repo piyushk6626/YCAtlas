@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/asteroid",
+    "name": "Asteroid",
+    "headline": "Mission Critical\u00c2\u00a0Browser Agents\u00c2\u00a0at Scale",
+    "batch": "W25",
+    "description": "Asteroid builds and host browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations.",
+    "activity_status": "Active",
+    "website": "https://asteroid.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:generative-ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Joe Hewett, Founder",
+            "description": "Building the infrastructure to deploy agentic systems at scale reliably\n\nI have designed and deployed LLM-based systems for fighting cybercrime that are operating in the wild, disrupting $100m+ in fraud payments anually",
+            "linkedin": "https://www.linkedin.com/in/joehewett/"
+        },
+        {
+            "name": "David Ml\u00c4\u008doch, Founder",
+            "description": "Co-founder and CEO of Asteroid, a platform to deploy safe and reliable browser AI agents.\n\nI have a background in AI (Edinburgh University), autonomous agents (Co-founder and CTO of Trident AI), robotics (CTU, NTU, TAU) and space (EUSPA, SpaceKnow).",
+            "linkedin": "https://www.linkedin.com/in/davidmlcoch/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Asteroid is an ambitious startup that's setting its sights on revolutionizing how we interact with technology through browser AI agents. Founded in 2024 and nestled in the vibrant startup ecosystem of San Francisco, Asteroid is part of the prestigious Y Combinator Batch W25, which speaks volumes about its potential.\n\nTheir mission is straightforward yet profound: they aim to deploy mission-critical browser agents at scale. This means they're building and operating AI agents designed to handle complex tasks with a level of reliability akin to what enterprises expect. Asteroid doesn\u2019t just throw these agents out into the wild; they ensure safety and accuracy through built-in guardrails, evaluations, and human oversight\u2014features essential for handling millions of operations without hiccups.\n\nWith a tight-knit team of just two employees, the company exemplifies a lean startup approach. Their group partner, Harj Taggar, brings experience and expertise to guide their journey. Asteroid is tagged with keywords like \u2018aiops\u2019, \u2018developer-tools\u2019, and \u2018generative-ai\u2019, highlighting its focus on AI-driven solutions tailored for developers and businesses.\n\nFor anyone keen on the intersection of artificial intelligence and reliable browser interactions, Asteroid represents a fascinating step forward. Check them out at [asteroid.ai](https://asteroid.ai) to keep an eye on their progress. In the ever-evolving landscape of tech, this is a company to watch.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9e60467a93539f8d797f3ad8c730a59b8c1021a2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191007Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b84625835607118cee91a7e1b48a16a60c207a9095f91e68e04508d53357558e",
+    "social_links": [
+        "https://www.linkedin.com/company/asteroidai/",
+        "https://x.com/asteroid_inc",
+        "https://github.com/asteroidai"
+    ],
+    "logo_path": "data/logos\\Asteroid_logo.png"
+}

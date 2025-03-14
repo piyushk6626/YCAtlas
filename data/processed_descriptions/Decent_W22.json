@@ -1,0 +1,48 @@
+{
+    "links": "https://www.ycombinator.com/companies/decent",
+    "name": "Decent",
+    "headline": "One-click transactions using any token across chains.",
+    "batch": "W22",
+    "description": "Decent's core product,[The Box](https://decent.xyz/), enables 1-click transactions using any token across chains.  For example, a user can purchase an Optimism NFT off primary or secondary sales using USDC on Arbitrum.\r\n\nAs applications splinter across an increasing number of rollups and app chains, wallets and dapps will have to meet users at their point of liquidity vs. expecting users to jump through hoops to arrive with tokens on the correct network.",
+    "activity_status": "Active",
+    "website": "https://www.decent.xyz/",
+    "founded_date": 2021.0,
+    "team_size": 8.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:crypto-web3; industry:b2b; industry:nft; industry:cryptocurrency; location:new-york",
+    "founders": [
+        {
+            "name": "Charlie Durbin, Founder",
+            "description": "crypto trading models --> music investment banking -//-> Decent\nChainForest; OrangeDAO; FWB",
+            "linkedin": "https://www.linkedin.com/in/charlie-durbin-b88544131/"
+        },
+        {
+            "name": "Alexander Carlson, Founder",
+            "description": "Music Producer, Singer (Forester), Econ Head, Crypto Enthusiast",
+            "linkedin": "https://www.linkedin.com/in/alexander-carlson-ab322b167"
+        },
+        {
+            "name": "Will Collier, Founder",
+            "description": "Will Collier is a co-founder of Decent. He graduated from Brown University in 2020 with a double major in Economics and Architecture.\u00a0Following graduation, Will co-founded The Farmlink Project, a food rescue organization that won a Congressional Medal of Honor Service Award in 2021.\u00a0 Previously, Will worked as a consultant at Accenture, covering the firm's Media & Entertainment and Software & Platforms clients.",
+            "linkedin": "https://www.linkedin.com/in/will-collier-53208a13b/"
+        },
+        {
+            "name": "Will Kantaros, Founder",
+            "description": "Building decent.xyz, math cs econ @ Brown, previously SWE @ mongo.db, blockchain + poker enthusiast",
+            "linkedin": "https://www.linkedin.com/in/willkantaros/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Overview of Decent\n\n**Decent** is a New York-based startup that emerged from Y Combinator's W22 batch in 2021. With a lean team of just eight employees, Decent is making strides in the complex world of cryptocurrency and cross-chain transactions.\n\n### Mission\n\nDecent aims to simplify the cryptocurrency experience for users by enabling one-click transactions using any token across multiple blockchain networks. They understand the pain points that users face when trying to transfer tokens between different blockchains, and their solution is designed to meet users at their point of liquidity rather than forcing them to navigate a convoluted pathway.\n\n### Core Product\n\nDecent\u2019s flagship product, **The Box**, allows users to execute these seamless transactions effortlessly. For instance, users can purchase an Optimism NFT using USDC on the Arbitrum network, integrating a smooth user experience across various platforms.\n\n### Key Features & Use Cases\n\n- **Cross-Chain Functionality**: Decent provides an API for instant swaps and transactions that are not limited by the underlying blockchain's constraints.\n- **Developer Tools**: Their no-code tools and simple APIs help developers incorporate cross-chain transactions into their decentralized applications (dApps) without extensive coding knowledge.\n- **User Onboarding**: Decent facilitates user onboarding, enabling users to fill their accounts with existing crypto assets directly within apps.\n- **Transaction Insights**: The Decent Console offers real-time analytics, allowing developers to track revenue, set custom fees, and enhance user experiences.\n\n### Achievements\n\n- Over **$400 million** in in-app transactions have been facilitated through their platform, and apps utilizing Decent have seen transaction growth exceeding **40%**.\n  \n### Industry Position\n\nWith tags like 'developer-tools,' 'crypto-web3,' and 'NFT,' Decent positions itself as an essential resource for both developers and businesses looking to navigate the evolving landscape of cryptocurrency transactions. They have garnered trust from notable partners and industry players, building a reputation for reliability and ease of use.\n\n### Testimonials\n\nClients like Zora, Doodles, and Conduit have praised Decent for its robust features and straightforward integration process. These endorsements underline the platform's effectiveness and the value it adds to existing systems.\n\n### Call to Action\n\nIf you're a developer looking to enhance your application with cross-chain capabilities or a business wanting to streamline your crypto transactions, Decent offers a promising solution. You can start building today at [decent.xyz](https://www.decent.xyz).\n\n---\n\nDecent is not just making crypto \u201cdecent\u201d\u2014they're setting the stage for where the future of transactional integrity meets user-centric design across the blockchain landscape.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c457b108fb4154f84dcdcad22510e0f2daabe145.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191115Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ac0eb4e5d4f96224190d486c547cb20f66b446ae6c88f885fc22289763551dfb",
+    "social_links": [
+        "https://www.linkedin.com/company/decentxyz",
+        "https://twitter.com/decentxyz",
+        "https://github.com/decentxyz"
+    ],
+    "logo_path": "data/logos\\Decent_logo.png"
+}

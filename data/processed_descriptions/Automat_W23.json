@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/automat",
+    "name": "Automat",
+    "headline": "AI enabled RPA using ChatGPT and computer vision",
+    "batch": "W23",
+    "description": "Traditional automation software is slow and expensive, Automat is 10X faster and 1/10th the price. It lets operations teams automate using video and natural language.\r\n\n\ud83e\uddd0 The problem: Traditional Robotic Process Automation is slow and expensive.\r\n\ud83d\udca1 Our Solution: Automat makes it 10X cheaper and faster to build any robotic process automation using natural language on any operating system\r\n\nWe\u2019re solving this by creating a platform that enables robotics process automation for Chrome using large language models and computer vision.\r\n\nCurrently our customers send us descriptions or videos of the processes they\u2019d like us to automate and we use our internal tooling to quickly build out those automations.",
+    "activity_status": "Active",
+    "website": "https://www.runautomat.com/",
+    "founded_date": 2023.0,
+    "team_size": null,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:documents; industry:developer-tools; industry:robotic-process-automation; industry:automation; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Lucas Ochoa, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/lucas-ochoa-51222678/"
+        },
+        {
+            "name": "Gautam Bose, Founder",
+            "description": "Open Laptop, an Open Mind",
+            "linkedin": "https://www.linkedin.com/in/gautambose/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Automat Overview\n\n**Company Name**: Automat  \n**Founded**: 2023  \n**Location**: San Francisco, California  \n**Team Size**: Small, with *nan* employees  \n**Y Combinator Batch**: W23  \n**Website**: [runautomat.com](https://www.runautomat.com)\n\n**Mission**: Automat aims to revolutionize Robotic Process Automation (RPA) by leveraging cutting-edge technologies like AI, including ChatGPT and computer vision. The goal? To make RPA faster, easier, and more affordable.\n\n### The Problem\nTraditional RPA tools are often slow and prohibitively expensive. Organizations face lengthy implementations and a a hefty price tag\u2014 it's common to spend upwards of $100K while waiting months for results.\n\n### The Solution\nEnter Automat, which claims to be *10X faster* and a mere *1/10th the price* of traditional solutions. With Automat, operations teams can respond to automation needs via simple video requests or text descriptions. This platform allows businesses to automate workflows seamlessly, primarily in the Chrome environment, powered by advanced large language models and computer vision technology.\n\n### How It Works\n1. **Input Your Request**: Customers provide descriptions or videos of the processes they wish to automate.\n2. **Process and Build**: Automat\u2019s team builds the automation quickly, providing analytics, observability, and reliability throughout the process.\n3. **Deploy**: Using the Automat Workflow Manager or a custom API, these automations can be easily integrated into existing systems.\n\n### Use Cases\nAutomat caters to several industries, providing tailored solutions for:\n- **Insurance**: Automating claims processing, KYC verification, and policy administration.\n- **E-Commerce**: Streamlining order refunds and account administration.\n- **Healthcare**: Efficiently managing patient records and billing.\n- **Financial Services**: Automating credit disputes and account management.\n- **Legal**: Enhancing case management and document review workflows.\n\n### Why Choose Automat?\n- **Speed**: Tasks that typically take months can be executed in days.\n- **Affordability**: Customers only pay for setup and usage, which aligns costs with business growth.\n- **Flexibility and Custom Solutions**: Companies can create tailored automation processes tailored to their unique requirements.\n\n### Customer Testimonials\nClients have reported dramatic improvements in efficiency and cost savings:\n- A leading health insurance company saved over a million dollars in salaries and reduced errors by 40% after automating claims processing.\n- An international fintech noted a staggering 10,000% speed increase in KYC processes due to Automat\u2019s RPA solutions.\n\n### Summary\nAutomat is reshaping the automation landscape with its AI-driven approach to RPA, positioning itself as a game-changer for organizations looking to enhance operational efficiency without breaking the bank. With the ability to deploy customized solutions rapidly, Automat not only addresses the shortcomings of traditional RPA systems but does so in a way that is adaptive to the rapidly changing business environment. If you\u2019re prepared to reclaim significant hours of productivity, consult Automat today to kickstart your automation journey.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5222fbff3ace462bf789898bc75d8a57f06e4ed9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191012Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e88266a402612acc3bf26011c9eee1bbd658bb1b401aa46d5ad94f7aad1271c1",
+    "social_links": [
+        "https://www.linkedin.com/company/90558949/admin/"
+    ],
+    "logo_path": "data/logos\\Automat_logo.png"
+}

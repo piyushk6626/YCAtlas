@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/weave-3",
+    "name": "Weave",
+    "headline": "Weave uses ML to quantify engineering work.",
+    "batch": "W25",
+    "description": "Weave deeply understands code to quantify engineering work. \r\n\nWe show teams how much time they spend on new features vs. bugs and which teams and individuals perform best. \r\n\nThen, you can dive in further without in-depth analytics like code review quality and estimation accuracy so you can start replicating best practices.",
+    "activity_status": "Active",
+    "website": "https://workweave.dev",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:machine-learning; industry:enterprise-software",
+    "founders": [
+        {
+            "name": "Andrew Churchill, Founder",
+            "description": "Co-founder & CTO at Weave. Before that: employee #1 at Causal, where I built the spreadsheet interface, access control system, and AI onboarding engine (among many other things). Before that: CS + math at MIT.",
+            "linkedin": "https://www.linkedin.com/in/andrew-d-churchill/"
+        },
+        {
+            "name": "Adam Cohen, Founder",
+            "description": "Co-Founder & CEO @ Weave. Before that, I led multiple operations & GTM teams at Causal and Top Hat.",
+            "linkedin": "https://www.linkedin.com/in/adam-b-cohen/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Weave: Transforming Engineering with Machine Learning**\n\nFounded in 2024 and a proud member of Y Combinator's W25 batch, Weave is making strides in the ever-evolving space of developer tools. Their mission is clear-cut: they use machine learning to quantify engineering work, giving teams the insight they desperately need. By deeply understanding code, Weave enables teams to assess how much time is spent on new features versus bugs, and which teams or individuals are leading the charge.\n\nImagine being able to see not just raw output, but to dig into the nuances of code review quality and estimation accuracy. That's where Weave excels. It provides a comprehensive view that helps teams replicate best practices and optimize workflows.\n\nCurrently operating with a small team of two and based in *N/A*, Weave is insightful yet practical, targeting developers and enterprises alike. They\u2019ve made a splash among startups, with 25% of new Y Combinator companies already utilizing their platform. This speaks volumes about their efficacy and the trust they\u2019ve built in a short span.\n\nThe platform stands out for its robust analytics capabilities; it tracks real output over time, breaks down performance by team, and provides comparisons with industry benchmarks. It\u2019s like giving engineering teams X-ray vision to spot strengths and weaknesses, ultimately allowing them to debug project delivery and understand where their investments in time and effort are going.\n\nSecurity is non-negotiable at Weave. They've earned the SOC 2 Type I certification, ensuring that user data is handled with utmost care and encryption protocols are in place for both transit and storage.\n\nIn a nutshell, Weave is revolutionizing how engineering teams perceive and optimize their work processes. For those looking to dive into insights about their engineering efforts, they can visit [Weave\u2019s website](https://workweave.dev) or get started in just 30 seconds. It\u2019s an exciting time for developers who want to elevate their game, and Weave is here to help.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a0c31d9094fe77afcb7802018881a5805c7e45d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192057Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5d8d452a175edf6caea8e8d806b7d94274cdddca52bba60f4adb598ea5e05df0",
+    "social_links": [
+        "https://www.linkedin.com/company/102726930",
+        "https://x.com/workweave",
+        "https://github.com/workweave"
+    ],
+    "logo_path": "data/logos\\Weave_logo.png"
+}

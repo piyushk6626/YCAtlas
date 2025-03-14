@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/openfoundry",
+    "name": "OpenFoundry",
+    "headline": "The fastest developer experience for building on open source AI.",
+    "batch": "W24",
+    "description": "OpenFoundry is an open source platform that helps engineers build, deploy, and scale their open source AI stack 10x faster. Ship your AI stack with just one line of code. You could think of us as an open source alternative to Hugging Face.\r\n\nLearn more and check out a demo of this in action in our Launch YC post: https://www.ycombinator.com/launches/KhY-openfoundry-developer-infrastructure-for-open-source-ai",
+    "activity_status": "Active",
+    "website": "https://www.openfoundry.ai/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:open-source; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Tyler Lehman, Founder",
+            "description": "I'm the CEO and co-founder of OpenFoundry. I was previously a PM at Meta, where I built API products and developer platforms for WhatsApp and Instagram. Before that, I worked on business and product analytics at Airbnb and LinkedIn. I also spent a few years as a consultant at Bain and as a full stack software engineer building information management software for libraries and universities.",
+            "linkedin": "https://linkedin.com/in/tyler-lehman"
+        },
+        {
+            "name": "Arthur Chi, Founder",
+            "description": "I'm the CTO and co-founder of OpenFoundry. I previously worked on the Slack Connect platform used by more than 350K businesses. Before that I worked at Yelp building self-serve ads for small businesses.",
+            "linkedin": "https://linkedin.com/in/arthur-chi-000"
+        }
+    ],
+    "status": true,
+    "generated_description": "**OpenFoundry: Accelerating Open Source AI Development**\n\nFounded in 2024 and based in San Francisco, OpenFoundry is revolutionizing how developers build and scale open source AI stacks. As part of Y Combinator's W24 batch, they're on a mission to provide a developer experience that enables teams to deliver AI-powered products **ten times faster** than traditional methods. \n\nImagine a world where you can get your AI stack up and running with simply one line of code\u2014this is the core promise of OpenFoundry. Positioned as an open source alternative to platforms like Hugging Face, it empowers engineers to prototype, fine-tune, and deploy their models seamlessly, without the typical hurdles.\n\nThe company is currently a small team of just two, but what they lack in size, they make up for in ambition. Under the guidance of Group Partner Dalton Caldwell, OpenFoundry is developing tools that meet the growing demand for efficient, accessible AI infrastructure. Their platform integrates easily with existing workflows, allowing users to discover the best models for their needs and ship them to the cloud in mere minutes.\n\nFor those interested in diving deeper or wanting to see the platform in action, potential users can request early access or explore their open source resources on GitHub. The community-driven approach of OpenFoundry encourages collaboration and innovation among developers.\n\nYou can check out their demo on [Y Combinator's Launch page](https://www.ycombinator.com/launches/KhY-openfoundry-developer-infrastructure-for-open-source-ai) and visit their website for more details: [OpenFoundry.ai](https://www.openfoundry.ai/). \n\nIn a world increasingly oriented towards AI solutions, OpenFoundry is positioned as a promising player\u2014helping developers not just to keep pace but race ahead. If you\u2019re part of the open source community or just a developer looking to simplify your AI projects, OpenFoundry is definitely worth keeping an eye on.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6e7ad10f88c31baf227a863b024558dc25001b4b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191611Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=072468dae63795bcdd02e2754c7b523b0bbcca027a1a36968c4587e2e656dc2c",
+    "social_links": [
+        "https://www.linkedin.com/company/openfoundry/",
+        "https://github.com/openfoundry-ai"
+    ],
+    "logo_path": "data/logos\\OpenFoundry_logo.png"
+}

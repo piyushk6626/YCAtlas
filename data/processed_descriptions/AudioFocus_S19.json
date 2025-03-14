@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/audiofocus",
+    "name": "AudioFocus",
+    "headline": "Hearing aids that work in noisy places, like restaurants, using ML.",
+    "batch": "S19",
+    "description": "If we've learned anything in the last few years it's that spending time with our friends and family is essential to our well-being and happiness. Unfortunately, loud and noisy places like weddings and family gatherings hinder human connection, especially for the hearing impaired. In fact, the biggest unmet need in the entire hearing healthcare industry is hearing in noisy places. AudioFocus helps patients hear in these environments by only enhancing voices nearby the patients and ignoring ones farther away. We do this using acoustics informed machine learning and custom microphone array design.\r\n\nOur goal is to increase the adoption rate of 37M US adults with hearing loss, only 8M use hearing aids today.\r\n\nFounded by Auditory Neuroscientist & AI expert and a Hearing Aid hardware design expert.",
+    "activity_status": "Active",
+    "website": "http://audiofocus.io",
+    "founded_date": 2019.0,
+    "team_size": 4.0,
+    "location": "Oakland, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:deep-learning; industry:hardware; industry:medical-devices; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Shariq Mobin, Founder",
+            "description": "Machine Learning and Distributed Systems hacker. Accessibility advocate.",
+            "linkedin": "https://www.linkedin.com/in/shariqmobin"
+        }
+    ],
+    "status": true,
+    "generated_description": "Let's talk about AudioFocus, a company tackling one of the most pervasive challenges in hearing healthcare: noise. Founded in 2019 and based in Oakland, CA, AudioFocus emerged from a deep understanding of how vital it is for people, especially those with hearing loss, to connect in lively environments\u2014think family gatherings or bustling cafes. Unfortunately, traditional hearing aids often amplify not just the voices we want to hear but also the surrounding noise, making these situations even more frustrating.\n\nThe founders\u2014a blend of auditory neuroscience and AI expertise\u2014have developed a smart, machine-learning-powered solution that focuses solely on enhancing nearby voices while filtering out the rest. In essence, they\u2019re bending sound to the user\u2019s will, allowing them to engage in conversations even amid the chaos of background noise.\n\nTheir technology is a game-changer because it uses advanced algorithms and custom microphone arrays to analyze sound in real-time, mimicking how our brains filter out unwanted noise. This approach distinguishes them from existing hearing aids, which struggle in environments where multiple conversations happen simultaneously. By only amplifying critical voices based on their proximity, AudioFocus enables users to navigate social situations with ease and clarity.\n\nAudioFocus is on a mission to address a considerable gap in the market\u2014of the 37 million adults in the U.S. who have hearing loss, a mere 8 million use existing hearing aids. This shows there's a world of unmet needs out there, and AudioFocus is building a bridge to reach it. \n\nCurrently, they\u2019re a small team of four and are part of Y Combinator\u2019s Batch S19, reflecting their potential for innovation and growth. They're tagged as focusing on deep learning, hardware, medical devices, and they have the technical chops to make a real impact.\n\nIf you\u2019re curious to know more or get involved, check out their website at [audiofocus.io](http://audiofocus.io). Their work promises to transform how people with hearing loss experience life\u2019s important moments. In a world that's loud and busy, we could all benefit from focusing on the voices that matter most.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/effe5558da12d9bb45f7cdc8f380d0b4bcce4e1f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191010Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a77194661dc45a9da053fea57492dba211004aef6445c1cda10dd8ce49463f8f",
+    "social_links": [
+        "https://twitter.com/AudioFocus"
+    ],
+    "logo_path": "data/logos\\AudioFocus_logo.png"
+}

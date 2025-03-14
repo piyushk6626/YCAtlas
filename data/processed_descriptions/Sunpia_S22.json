@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/sunpia",
+    "name": "Sunpia",
+    "headline": "Deploy serverless without rewriting code",
+    "batch": "S22",
+    "description": "Sunpia lets developers easily experience the cost and speed benefits of serverless infrastructure, without having to rewrite their code. Developers annotate their code and Sunpia automatically designs a microservice version of it they can deploy on their own cloud.",
+    "activity_status": "Active",
+    "website": "http://sunpia.io",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "San Jose, CA",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:kubernetes; industry:data-engineering; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alan Pham, Founder",
+            "description": "I graduated from UC Berkeley with Bachelors and Masters in EECS, conducting systems and machine learning research as part of the UC Berkeley RISELab, with interest in cloud and ai workflows.",
+            "linkedin": "https://www.linkedin.com/in/alanlph/"
+        },
+        {
+            "name": "Ivy Pham, Founder",
+            "description": "I graduated from Harvard with my B.A. in Economics and have a professional background in product management and business analytics. I'm interested in building solutions that can streamline workflows and improve efficiency.",
+            "linkedin": null
+        },
+        {
+            "name": "Vikranth Srivatsa, Founder",
+            "description": "I graduated from UC Berkeley EECS doing systems and machine learning research. I do research as part of the UC Berkeley SKY Lab. I am interested in cloud/edge computing.",
+            "linkedin": null
+        }
+    ],
+    "status": true,
+    "generated_description": "**Sunpia Overview**\n\nFounded in 2022 and based in San Jose, California, Sunpia is revolutionizing the serverless infrastructure landscape. The company emerged from Y Combinator\u2019s Summer 2022 batch, emphasizing a straightforward mission: to allow developers to deploy serverless applications without the burden of rewriting existing code.\n\n**How It Works**\n\nInstead of starting from scratch, developers can simply annotate their code. Sunpia takes care of the heavy lifting by automatically crafting a microservice version of that code, ready for deployment on the developer's own cloud environment. This approach not only saves time but also leverages the cost and performance advantages of serverless architecture.\n\n**Key Features**\n\n- **Vendor Agnostic:** Sunpia ensures that developers aren\u2019t tied to a single cloud provider, supporting a more flexible deployment strategy.\n  \n- **High Redundancy:** In the event of a cloud provider outage, whether it's AWS, Azure, GCP, or IBM, Sunpia helps keep services running smoothly for customers.\n  \n- **Simplified Serverless Architecture:** Developers can sidestep the complexity often associated with serverless services. Sunpia automatically provides an optimized architecture tailored for any cloud environment.\n\n**Current Status and Team**\n\nSunpia operates with a compact team of three employees, including Group Partner Brad Flora, and is tagged in the realms of developer tools, Kubernetes, and data engineering within the vibrant San Francisco Bay Area ecosystem. \n\nTo learn more and perhaps join the growing interest, you can visit their website at [sunpia.io](http://sunpia.io) or join their waitlist to stay updated on the latest developments.\n\nIn a nutshell, Sunpia is poised as a critical enabler in the world of serverless computing, making it easier for developers to harness the full potential of cloud technologies without the usual headaches of migration or re-architecture.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/700586dd6f902ab5fcad72c9ac7f7921c5f42a06.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191955Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1d9e2778ac0cfc14b21bbe5ec12b8f55358eac2e0b5527535b4c5a8fd10dc3c0",
+    "social_links": [],
+    "logo_path": "data/logos\\Sunpia_logo.png"
+}

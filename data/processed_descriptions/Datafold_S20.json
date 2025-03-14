@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/datafold",
+    "name": "Datafold",
+    "headline": "Deal with analytical data quality in the pull request",
+    "batch": "S20",
+    "description": "Datafold exists to make working with data more enjoyable and productive.\r\n\nWe are all about empowering data and analytics engineers. We find the most tedious, error-prone, and repetitive tasks and create tools to automate them. We make the world better by giving superpowers to data professionals who solve hard problems in various domains with data.",
+    "activity_status": "Active",
+    "website": "https://datafold.com",
+    "founded_date": 2020.0,
+    "team_size": 24.0,
+    "location": "New York",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:analytics; industry:data-engineering; location:new-york",
+    "founders": [
+        {
+            "name": "Gleb Mezhanskiy, Founder",
+            "description": "In the past five years, I\u2019ve designed and built data platforms for three very different companies: Autodesk, Lyft & Phantom Auto, a mature public corporation, an exponentially growing marketplace, and a seed-stage startup at the time respectively. I've experienced first-hand the challenges of having poor data quality and observability in a data-driven environment and built multiple internal tools for data monitoring, data cataloging, and lineage.",
+            "linkedin": "https://www.linkedin.com/in/glebmezh/"
+        },
+        {
+            "name": "Alex Morozov, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/alex-morozov-54b5081aa"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: Datafold\n\n**Mission:**  \nDatafold is committed to enhancing analytical data quality specifically within the context of pull requests. They strive to make working with data not just productive but also enjoyable, effectively transforming the lives of data and analytics engineers.\n\n**Founding and Background:**  \nFounded in 2020 as part of Y Combinator's S20 batch, Datafold started with the vision of empowering data professionals. They focus on identifying and automating the tedious, error-prone, and repetitive tasks that plague data work.\n\n**Location and Team:**  \nBased in New York City, the company comprises a dedicated team of 24 employees, working collaboratively to innovate and enhance the data engineering landscape. Aaron Epstein serves as a group partner, lending support to the mission.\n\n**Product Offering:**  \nDatafold offers a range of solutions designed to streamline data workflows and improve data quality. Their main services include:\n\n- **CI/CD Testing**: Automated testing that ensures data quality is upheld during deployments.\n- **Data Migration Automation**: Tools that simplify and accelerate the data migration process.\n- **Data Monitoring & Observability**: Enabling users to detect anomalies and ensure data integrity.\n- **Data Replication Testing**: Ensuring accuracy in replicated data across systems.\n\n**Technologies Utilized:**\nDatafold leverages advanced technologies for data diffing, column-level lineage tracking, and integrated monitoring to provide robust solutions tailored for modern data stacks.\n\n**Customer Impact:**  \nThe tools provided by Datafold have led to significant gains in productivity, with many customers reporting over 90% faster testing and a 20% increase in overall efficiency. The ability to automatically detect changes and preemptively resolve issues has been particularly well-received, allowing data teams to act with unprecedented confidence.\n\n**Integration and Security:**  \nDatafold seamlessly integrates with over 50 popular data tools, enhancing its utility across various platforms. They prioritize security with options for flexible deployment, compliance with standards like SOC II and GDPR, and secure access management.\n\n**Conclusion:**  \nWhether you're a data engineer tasked with ensuring the highest quality in your workflows or an organization looking to enhance your data operations, Datafold positions itself as a powerful ally. With a commitment to automating the technical drudgery of data management, they empower teams to focus on what truly matters: solving impactful problems and driving meaningful insights.\n\nFor more information, visit their website: [Datafold](https://datafold.com)",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5b796ca746532e0fce968ccca8e56978ddcd3dc1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=64d9c3b1db12a76b2bd1685da2e5548f72c2ca9852862cede37549fd899eff6d",
+    "social_links": [
+        "https://www.linkedin.com/company/datafold",
+        "https://github.com/datafold"
+    ],
+    "logo_path": "data/logos\\Datafold_logo.png"
+}

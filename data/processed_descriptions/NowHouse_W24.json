@@ -1,0 +1,29 @@
+{
+    "links": "https://www.ycombinator.com/companies/nowhouse",
+    "name": "NowHouse",
+    "headline": "NowHouse helps stock brokerages settle trades instantly.",
+    "batch": "W24",
+    "description": "NowHouse helps stock brokerages settle trades instantly.",
+    "activity_status": "Active",
+    "website": "https://www.nowhouse.io",
+    "founded_date": 2024.0,
+    "team_size": null,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:enterprise; industry:infrastructure; industry:ai",
+    "founders": [
+        {
+            "name": "Dhaval Gajiwala, Founder",
+            "description": "Dhaval is the founder of NowHouse.",
+            "linkedin": null
+        }
+    ],
+    "status": true,
+    "generated_description": "NowHouse is a cutting-edge fintech company founded in 2024, and it\u2019s part of Y Combinator's Winter 2024 batch. The company's mission is straightforward but powerful: to help stock brokerages settle trades instantly. In an era where speed and efficiency are paramount, NowHouse is positioning itself as a vital player in the trading infrastructure landscape.\n\nThe firm operates from an undisclosed location\u2014likely to maintain a low profile early on\u2014and currently has a team that\u2019s still taking shape as it builds out its operations. Jared Friedman, a well-known venture partner, is backing them, which lends some credence to their ambitious goals.\n\nWhat makes NowHouse particularly interesting is how it combines traditional finance with modern technology. They're not just another software-as-a-service (SaaS) offering; they're deeply integrated into the user experience of stock trading. By focusing on features instead of just ledgers, they provide high throughput and low-latency reads and writes, ensuring that transactions are processed with blazing speed.\n\nNowHouse addresses a significant pain point in trading by enabling instant settlement and reducing reliance on cumbersome daily reconciliations typically handled by custodians. Their platform allows firms to create multiple ledgers tailored to various investment strategies and asset classes, giving traders unprecedented visibility and control over their positions, including real-time tracking of trade or funding progress.\n\nMoreover, compliance appears to be a strong pillar of their service. NowHouse is SOC 2 compliant and adheres to SEC Rule 17 and FINRA Rule 4511, which are essential for any firm operating in the finance sector.\n\nIn short, NowHouse is establishing itself with a clear intent: to simplify and streamline the post-trade process for brokerages in an increasingly complex financial landscape. This focus on real-time accuracy and regulatory compliance could make them a game changer for firms looking to enhance their trading operations. Keep an eye on them as they develop; they could very well shape the future of how trading is executed and settled. \n\nYou can learn more about them on their website: [NowHouse.io](https://www.nowhouse.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/aa86d09e9111e6573d99f65c2a9fe74830245a2f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191602Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=148223dfd2dab69b5ccb25769f6352c853f0affd9575a1bc56716eeebb030c9e",
+    "social_links": [],
+    "logo_path": "data/logos\\NowHouse_logo.png"
+}

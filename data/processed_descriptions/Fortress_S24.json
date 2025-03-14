@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/fortress",
+    "name": "Fortress",
+    "headline": "Globally replicated and sharded Postgres",
+    "batch": "S24",
+    "description": "Fortress is a Postgres developer platform that makes it simple to globally distribute data (replication and sharding) in a cost-effective manner.  \r\n\nDevelopers use Fortress to reduce network latency for their global users, comply with data sovereignty regulations, and for the peace of mind of a platform that manages horizontal scalability.",
+    "activity_status": "Active",
+    "website": "https://fortress.build",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:security; industry:databases; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "David Chu, Founder",
+            "description": "Recent Brown CS-Econ grad, now building a fortress (metaphorically)",
+            "linkedin": "https://www.linkedin.com/in/dchu17/"
+        },
+        {
+            "name": "Will Hopkins, Founder/CTO",
+            "description": "Self-taught software engineer. Big fan of distributed systems, compilers, Neovim, and Rust.",
+            "linkedin": "https://www.linkedin.com/in/willothy/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Fortress: Simplifying Global Database Management**\n\nFounded in 2024 and nestled in the heart of San Francisco, Fortress is carving a niche as a dynamic developer platform focused on PostgreSQL. Their mission? To provide a globally replicated and sharded Postgres experience that makes data distribution a breeze. \n\nImagine being able to manage your data across the globe without the usual headaches of network latency and compliance issues. That's exactly what Fortress is tackling. Developers use their platform to not only reduce latency for users worldwide but also to ensure they\u2019re in line with data sovereignty regulations\u2014because in today's world, compliance is non-negotiable. Plus, Fortress offers the kind of horizontal scalability that gives developers the peace of mind to grow without limits.\n\nWith a team of just three and backing from notable Group Partner Dalton Caldwell, Fortress is part of Y Combinator's S24 batch, a thrilling validation of their innovative approach. \n\nThe company is positioned in the tech space with tags such as 'developer-tools', 'b2b', 'security', and 'databases'. This highlights their dual focus on helping developers while ensuring that data security remains a priority.\n\nIn a nutshell, Fortress is not just another tool\u2014it's a comprehensive solution addressing the complex challenges of global data management for developers. If you want to streamline your database strategy, check out their offerings at [fortress.build](https://fortress.build).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ba4e25dee20647c3cfe03957ad355c97eb6559b5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191349Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=20755ff12adef8b44907487759740fe0bce2ce0c14c2aec67b8d441ab3bb2940",
+    "social_links": [
+        "https://www.linkedin.com/company/fetchflow/",
+        "https://x.com/fortress_build",
+        "https://www.crunchbase.com/organization/fetchflow",
+        "https://github.com/fortress-build"
+    ],
+    "logo_path": "data/logos\\Fortress_logo.png"
+}

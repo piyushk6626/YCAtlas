@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/vansec",
+    "name": "Vansec",
+    "headline": "Spear phishing simulation & security training platform",
+    "batch": "S21",
+    "description": "Spear phishing simulation & security awareness training powered by AI.",
+    "activity_status": "Active",
+    "website": "https://www.vansec.com",
+    "founded_date": 2021.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:compliance; industry:security; location:new-york",
+    "founders": [
+        {
+            "name": "Channy Hong, Founder",
+            "description": "- Vansec: https://www.vansec.com\n- CS @ Harvard\n- NLP: https://ojs.aaai.org//index.php/AAAI/article/view/6302",
+            "linkedin": "https://www.linkedin.com/in/channyhong/"
+        },
+        {
+            "name": "Ike Jin Park, Founder",
+            "description": "- Econ @ Harvard\n- Experiences at Bain & Company, Hyundai Motor Company",
+            "linkedin": "https://www.linkedin.com/in/ikejinpark/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Vansec: Your Ally Against Phishing Attacks**\n\nFounded in 2021 and an alumnus of Y Combinator Batch S21, Vansec is a startup taking aim at one of cybersecurity's most insidious threats: spear phishing. Based in New York, this nimble company is made up of a tight-knit team of two, passionately working to revolutionize how organizations tackle phishing threats through their innovative security training platform.\n\n**What Do They Do?**\n\nVansec offers a sophisticated phishing simulation and security training platform, all powered by AI. Their mission? To stress-test organizations against social engineering tactics while enhancing security awareness among employees. With a focus on hyper-personalization and realism, Vansec's platform provides tailored phishing simulations that mimic real-world threats, ensuring that every employee gets a training experience specific to their needs and role.\n\n**Their Core Products:**\n\n1. **Vansec Simulation**: This feature employs a patent-pending multi-message AI-driven approach to spear phishing simulations. It's not just about one-off emails; Vansec engages users through a series of interactive communications, crafting scenarios that reflect actual attack methods. The result? A realistic and effective way to gauge and improve an organization's security posture.\n\n2. **Vansec Training**: This isn\u2019t your average training module. Meet \"Alan,\" the AI cybersecurity coach that guides employees through bite-sized, conversational lessons. Alan\u2019s interactions are personalized and relevant, ensuring that every user walks away with knowledge that sticks after simulations are completed.\n\n**Why It Matters?**\n\nThe landscape of cyber threats is evolving faster than many organizations can keep up. With a staggering 90% of security breaches beginning with phishing attempts, and a significant number of successful breaches attributed to spear phishing, the need for smart, effective training has never been clearer. Vansec stands at the forefront, not just offering any training, but one that's tailored to the users, dynamically adjusted according to their particular vulnerabilities.\n\n**The Bigger Picture**\n\nThrough services grounded in AI and a user-centric approach, Vansec targets a broad spectrum of issues\u2014from CEO fraud and business email compromise to the more modern threats such as smishing and deepfakes. Their goal is to equip companies with the defenses they need in a world that\u2019s growing increasingly hostile to data integrity and security.\n\nIn a nutshell, Vansec is not just about preventing the next phishing attempt. They're about fostering a culture of security awareness and resilience within organizations. If you're looking to strengthen your defenses against social engineering attacks, give Vansec a closer look. They might just be the partner you need to stay one step ahead of cyber threats.\n\nCheck them out at [Vansec's website](https://www.vansec.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b01beae5d0cc3850011e2d2e2e489dda60ff183e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192040Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=75d2d59826829df67323e808b565404fe43916a072cae56182734dfc325bd301",
+    "social_links": [
+        "https://www.linkedin.com/company/vansec",
+        "https://twitter.com/VansecHQ",
+        "https://www.crunchbase.com/organization/plusidentity"
+    ],
+    "logo_path": "data/logos\\Vansec_logo.png"
+}

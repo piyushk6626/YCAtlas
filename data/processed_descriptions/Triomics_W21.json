@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/triomics",
+    "name": "Triomics",
+    "headline": "Generative AI for Oncology EHRs",
+    "batch": "W21",
+    "description": "Triomics is helping cancer care providers by reducing the burden associated with manually reviewing patient charts. Utilizing our OncoLLM\u2122\u2014a family of oncology-focused language models\u2014we are able to accelerate clinical trial enrollment, power quality improvement projects, and address many other key strategic priorities.",
+    "activity_status": "Active",
+    "website": "https://triomics.com/",
+    "founded_date": 2021.0,
+    "team_size": 50.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:healthcare; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sarim Khan, Founder",
+            "description": "I am a chemical engineer with previous research experience in tissue engineering and neuroscience. The lack of vertical integration in the clinical trial space inspired me to work on Triomics.",
+            "linkedin": "https://www.linkedin.com/in/sarim-khan-b54485137/"
+        },
+        {
+            "name": "Sajjan Rajpurohit, Founder",
+            "description": "I am a Medical Oncologist  with over 12 years of experience.",
+            "linkedin": "https://in.linkedin.com/in/dr-sajjan-rajpurohit-b2994b36"
+        },
+        {
+            "name": "Hrituraj Singh, Founder",
+            "description": "Before starting Triomics, I was a Researcher at Adobe Research, where I worked on language models and reinforcement learning problems. I now use the same technologies to interpret oncology patient charts.",
+            "linkedin": "https://linkedin.com/in/hrituraj1997"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Triomics: Revolutionizing Oncology Care with Generative AI\n\n**Overview:**  \nFounded in 2021 and based in San Francisco, Triomics is a pioneer in leveraging generative AI for oncology electronic health records (EHRs). As part of the Y Combinator W21 cohort, their mission is simple yet impactful: to enhance cancer care by alleviating the burdens of manual patient chart reviews.\n\n**Core Offering:**  \nTriomics has developed a suite of oncology-focused language models, branded as **OncoLLM\u2122**. These tools serve multiple purposes:\n\n- **Accelerating Clinical Trial Enrollment:** Streamlining the patient-matching process for ongoing trials.\n- **Quality Improvement Initiatives:** Supporting healthcare providers in enhancing patient care quality.\n- **Operational Efficiency:** Addressing critical operational needs such as triaging, scheduling, and pre-charting.\n\n**Team and Leadership:**  \nCurrently comprised of about 50 employees, the Triomics team is led by technologists and clinicians committed to transforming cancer care. Jared Friedman serves as their Group Partner, guiding the company on strategic initiatives.\n\n**Key Solutions:**  \n1. **Trial Enrollment:** Facilitate easier enrollment by identifying eligible patients for clinical trials.\n2. **Clinical Navigators:** Active patient identification for trials, optimizing care operations.\n3. **Cancer Registries and Business Intelligence:** Enhance understanding and management of cancer data for better decision-making.\n4. **Precision Oncology:** Tailored treatment plans based on individual patient data.\n\n**Why it Matters:**  \nAs oncology data continues to grow at an exponential rate, healthcare providers find themselves overwhelmed. The tools offered by Triomics directly address these challenges, making patient care more efficient and effective without exponential increases in staffing costs.\n\n**Engagement:**  \nFor those interested in learning more, you can visit [Triomics' website](https://triomics.com) or reach out directly via partnerships@triomics.com for inquiries about their innovative platform.\n\nTriomics exemplifies how emerging technologies can redefine healthcare landscapes, particularly in high-stakes fields like oncology. By bridging the gaps in clinical processes, they not only improve operational efficiencies but also enhance patient outcomes, marking a significant advancement in cancer care.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8c1528f746b80935ab392ff657e89ef883ab1518.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192028Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=78b4d737748c24a40a1f5901926d0f316c784c785c0c4a6671752fb4b49930d8",
+    "social_links": [
+        "https://www.linkedin.com/company/triomics/"
+    ],
+    "logo_path": "data/logos\\Triomics_logo.png"
+}

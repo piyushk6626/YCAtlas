@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/maihem",
+    "name": "MAIHEM",
+    "headline": "Industry-leading quality testing for mission critical AI",
+    "batch": "W24",
+    "description": "MAIHEM creates AI agents that test AI products. We enable companies to automate their AI quality assurance, enhancing AI performance and reliability before and after deployment.",
+    "activity_status": "Active",
+    "website": "https://www.maihem.ai/",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Max Ahrens, Founder",
+            "description": "Max is the Co-Founder & CEO of MAIHEM. He did his PhD and Postdoc in Natural Language Processing at the University of Oxford. During his Postdoc, he was also the Project Leader of a +$500,000 research grant on harmful narrative detection with large language models, which he was awarded by the Alan Turing Institute and the British Ministry of Defence. Previously, he worked as a consultant with McKinsey, advising globally operating companies on digitization strategies.",
+            "linkedin": "https://linkedin.com/in/maximilianahrens"
+        },
+        {
+            "name": "Eduardo Candela, Founder",
+            "description": "Eduardo is the Co-Founder and CTO of MAIHEM. Eduardo is deeply passionate about building state-of-the-art AI products \u2013 he previously worked as a Technical Program Manager at Tesla and a Data Scientist at the Bosch Center for AI. He holds a PhD in AI Safety for Autonomous Vehicles from Imperial College London, an MSc in Operations Research from MIT, and BSc in Robotics from ITAM.",
+            "linkedin": "https://linkedin.com/in/eduardo-candela-garza"
+        }
+    ],
+    "status": true,
+    "generated_description": "**MAIHEM: Quality Testing for AI Systems**\n\nFounded in 2023 as part of Y Combinator's W24 batch, MAIHEM is carving out a niche in the fast-evolving landscape of artificial intelligence by focusing on quality assurance. Their mission? To deliver industry-leading quality testing for mission-critical AI applications.\n\n**What They Do**  \nMAIHEM creates AI agents specifically designed for testing other AI products. This automation streamlines AI quality assurance, helping businesses enhance the performance and reliability of their AI solutions before and after deployment. With a small team of four based in San Francisco, they carry the ambition of heavyweights despite their size.\n\nTheir offerings include a comprehensive suite of tools for analyzing and optimizing any agent-based AI workflow, from performance checks to safety and security assessments. They aim to make AI deployment not just possible but reliable and trustworthy.\n\n**Core Features**  \nSome standout features from MAIHEM include:\n- **AI Quality Assurance Suite**: This comprises tools for continuous monitoring of customer experience, agentic workflow simulations, and advanced retrieval-augmented generation (RAG) analysis.\n- **AI Risks & Security Testing**: Regular assessments against OWASP LLM risk dimensions to ensure compliance with regulations like GDPR and the EU AI Act.\n- **Seamless Integration**: They provide simple integration options via SDK or API to test AI models swiftly while adhering to strict security standards, akin to military-grade protection.\n\nMAIHEM prides itself on an intuitive no-code interface that facilitates collaboration, enabling teams to work together effortlessly in managing and testing their AI applications.\n\n**Why It Matters**  \nIn a world where AI is becoming integral to various industries, ensuring the quality and safety of these technologies is paramount. A single flaw in an AI system can lead to significant repercussions, making services like those provided by MAIHEM essential. They recognize that not only do AI models need to perform well, but they also need to do so without compromising user privacy or safety.\n\n**Looking Ahead**  \nAs they continue to shape their offerings, MAIHEM is open to expansion and innovation. Interested individuals can inquire about career opportunities or request demos to see the platform's capabilities firsthand.\n\n**In Summary**  \nMAIHEM is a promising player in the AI testing arena, poised to help organizations deploy reliable AI solutions. Their commitment to quality assurance puts them at the forefront of a necessary and critical segment in the AI landscape. For more information, visit their website [MAIHEM](https://www.maihem.ai/).\n\n---\nIn this summary, I highlighted key points and insights about MAIHEM while aiming to maintain clarity and engagement. If you'd like details on any specific feature or aspect, feel free to ask!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bab5c63e53afb667acc4ed0aeae0a56bae4c24b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191520Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=64bcfec56d29c4f887ba5ebd5582a59d9864bc76da76bf161b0415defab78c59",
+    "social_links": [
+        "https://www.linkedin.com/company/maihem/",
+        "https://github.com/maihemlabs/"
+    ],
+    "logo_path": "data/logos\\MAIHEM_logo.png"
+}

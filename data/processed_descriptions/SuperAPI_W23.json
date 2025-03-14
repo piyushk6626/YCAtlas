@@ -1,0 +1,23 @@
+{
+    "links": "https://www.ycombinator.com/companies/superapi",
+    "name": "SuperAPI",
+    "headline": "Programmable API gateway that makes APIs cacheable",
+    "batch": "W23",
+    "description": "SuperAPI is a programmable API gateway that makes all your fetch APIs cacheable, reducing the response time 10x. \r\nOur customers use SuperAPI to cache their critical APIs without spending 6-9 months rewriting their code.",
+    "activity_status": "Active",
+    "website": "https://trysuperapi.com",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "Chennai, India",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:api",
+    "founders": [],
+    "status": true,
+    "generated_description": "### SuperAPI: Transforming the Way We Handle APIs\n\nFounded in 2022 and based in Chennai, India, SuperAPI is on a mission to revolutionize how developers interact with APIs. Imagine a programmable API gateway that makes your fetch APIs instantly cacheable\u2014this is what SuperAPI does. By leveraging their technology, customers can reduce their API response time by an impressive 10x, which is no small feat in today\u2019s fast-paced development environment.\n\nIf you\u2019re a developer, you probably know the struggle of slow APIs or the monumental effort it takes to rewrite existing code to achieve better performance. That's where SuperAPI steps in: it allows you to cache critical APIs without requiring six to nine months of re-engineering. It\u2019s a huge time-saver and attention-saver.\n\nSuperAPI is part of Y Combinator's Winter 2023 batch, which speaks volumes about its potential and the quality of its team\u2014albeit a small one of just two employees. They\u2019re currently backed by Brad Flora as their Group Partner, which should give you confidence in their trajectory.\n\nTheir website, [trysuperapi.com](https://trysuperapi.com), offers a straightforward way to get started. If you\u2019re interested in being part of this innovative journey, there's even a waitlist you can join.\n\nIn a nutshell, SuperAPI is making strides in the developer tools space, specifically in API management. With just a couple of dedicated team members, they stand poised to make a significant impact. If you\u2019re looking for a smarter way to handle your APIs, keep an eye on SuperAPI.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/00bc1b972044ff25840565b7e0dfd9317eb68aec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191957Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=da8aaf602cccc40732ad6a3b8589886e7bd5aa6352c0ee98ce04d23ffac6bb7b",
+    "social_links": [],
+    "logo_path": "data/logos\\SuperAPI_logo.png"
+}

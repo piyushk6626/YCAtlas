@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/a1base",
+    "Name": "A1Base",
+    "Headline": "Twilio for AI Agents",
+    "Batch": "W25",
+    "Description": "Twilio for AI agents. We help AI products talk and work to their users through email, Slack, SMS, WhatsApp and more.",
+    "Activity_Status": "Active",
+    "Website": "https://www.a1base.com/",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/michael-seibel",
+    "Group_Partner": "Michael Seibel",
+    "Company_Linkedin": "",
+    "Company_Twitter": "",
+    "Tags": "industry:developer-tools; location:san-francisco-bay-area",
+    "social_links": [
+        "https://x.com/a1baseapi",
+        "https://github.com/a1baseai"
+    ],
+    "logo_path": "data\\logos\\A1Base.png",
+    "Active_Founders": [
+        {
+            "Name": "Pennie Huang, Founder",
+            "Description": "CoFounder of a1Base. Previously Eng/Product @ Forage (W19)",
+            "LinkedIn": "https://linkedin.com/in/pennieli"
+        },
+        {
+            "Name": "Pasha Rayan, Founder",
+            "Description": "CoFounder of A1Base (YCW25). CoFounder of Forage (YCW19 - Acquired).",
+            "LinkedIn": "https://www.linkedin.com/in/pasharayan"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "### A1Base: Empowering AI Agents\n\n**Company Overview**  \nFounded in 2025 and based in San Francisco, A1Base prides itself on being \"Twilio for AI Agents.\" This startup is designed to enable AI products to engage with users through various channels like email, WhatsApp, Slack, and SMS, transforming the way AI interacts with humans.\n\n**Mission**  \nA1Base aims to give AI agents a voice\u2014literally. By providing real-world capabilities beyond standard chat interfaces, they're carving out a niche that allows AI to function as a coworker for its users, rather than just a silent tool.\n\n**Key Features**  \n- **Authentic Communication**: Provide AI agents with verified phone numbers and emails, fortified against spam. \n- **Multi-Channel Access**: Your AI can connect through WhatsApp, SMS, email, and more, helping it to fit into your users' preferred communication styles.\n- **Easy Integration**: Their API is designed for simplicity, making it easy to add these features quickly.\n- **Secure Identity**: Each AI agent benefits from anti-spam protection and verified identities, offering a trustworthy presence in everyday communication.\n\n**Current Offering**  \nA1Base enables AI agents to:\n- Join and interact in WhatsApp groups and chats\n- Send and receive emails in a seamless manner\n- Maintain group chat history for context\n\n**Development and Support**  \nThe platform\u2019s robust API allows developers to integrate A1Base into existing AI ecosystems, whether using popular models like OpenAI's or custom solutions. This flexibility opens new avenues for startups looking to innovate beyond typical SaaS platforms.\n\n**Team and Backing**  \nOperating with a small, dedicated team of just two, A1Base benefits from the guidance of notable Group Partner Michael Seibel and is a proud member of Y Combinator Batch W25.\n\nFor more information on their offerings or to explore how A1Base can enhance your AI solutions, visit [A1Base's website](https://www.a1base.com).\n\n---\n\nIn a world where interaction with technology must feel as human as possible, A1Base is laying the groundwork for a future where AI agents become indispensable collaborators in our lives. Do you want to create genuine connections through AI? This is where you start."
+}

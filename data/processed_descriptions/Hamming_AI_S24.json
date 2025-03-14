@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/hamming-ai",
+    "name": "Hamming AI",
+    "headline": "Automated AI voice agent testing",
+    "batch": "S24",
+    "description": "Humans make billions of calls/day. We think a majority of these will be handled by AI built by thousands of companies tackling every single vertical.\r\n\nMaking these AI voice agents reliable is hard. A small change in prompts, function call definitions, or model providers can cause large changes in LLM outputs. \r\n\nHamming automates testing for AI voice agents. Our voice agents call your voice agent. An AI drive-through startup uses Hamming to simulate thousands of simultaneous phone calls to achieve 99.99% agent order accuracy.\r\n\nWe have a proven track record of helping enterprises win with AI. Sumanyu (CEO) previously helped Citizen (safety app) grow its users by 4X and grew an AI-powered sales program to 100s of millions in revenue/year at Tesla. Marius (CTO) previously ran data infrastructure @ Anduril and was a founding engineer @ Spell (MLOps startup acquired by Reddit).",
+    "activity_status": "Active",
+    "website": "https://hamming.ai/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Sumanyu Sharma, Co-Founder & CEO",
+            "description": "Sumanyu is the Co-Founder & CEO @ Hamming.\n\nPreviously helped Citizen grow its MAU by 4X and helped bootstrap revenue from 0 to millions in ARR in under 6 months.\n\nBefore that, grew an AI-powered sales program @ Tesla to 100s of millions in revenue/year as a Senior Staff Data Scientist.\n\nPublished a first-author paper in AI during undergrad. BASc from UWaterloo w/ dean's list.",
+            "linkedin": "https://linkedin.com/in/sumanyusharma"
+        },
+        {
+            "name": "Marius Buleandra, Co-Founder & CTO",
+            "description": "Marius is the Co-Founder & CTO @Hamming.\n\nPreviously Eng Manager for Data Infrastructure @Anduril.\n\nFounding engineer @Spell (ML Observability & Infra startup acquired by Reddit). Worked on payments @Square and Windows Kernel Virtualization @Microsoft.",
+            "linkedin": "https://linkedin.com/in/mariusbuleandra"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Hamming AI: Revolutionizing Automated Voice Agent Testing**\n\n**Overview**: Founded in 2024 as part of Y Combinator\u2019s Batch S24, Hamming AI is on a mission to make AI voice agents reliable through automated testing. The company was born out of the observation that humans make billions of calls daily, and as AI technology matures, a majority of these calls will eventually be handled by AI systems built by countless companies across various sectors.\n\n**The Challenge**: Ensuring the reliability of AI voice agents is no small feat. Even minor adjustments in prompts or configurations can significantly affect the performance of large language models (LLMs), leading to variability in outputs. Hamming AI addresses this challenge by simulating call scenarios directly between voice agents, providing an essential layer of testing and validation.\n\n**What They Do**: Hamming automates the process of testing AI voice agents, allowing users to simulate thousands of concurrent phone calls in mere minutes. For instance, their collaboration with an AI drive-through startup has led to achieving an impressive accuracy rate of 99.99% in order fulfillment through rigorous testing.\n\n**Leadership Team**: The brains behind Hamming AI are Sumanyu, the CEO, and Marius, the CTO. Sumanyu has a proven track record, having previously helped Citizen grow its user base significantly and generating hundreds of millions in revenue through an AI-driven sales program at Tesla. Marius brings deep technical expertise from his previous roles at Anduril and as a founding engineer at Spell, a prominent MLOps startup acquired by Reddit.\n\n**Funding and Partnerships**: Hamming AI has successfully raised $3.8 million in seed funding aimed at improving the reliability of AI voice interactions. They're backed by a raft of reputable investors and are already helping enterprises navigate the complexities of AI deployment.\n\n**Product Offerings**:\n1. **Automated AI Voice Agent Testing**: Hamming's platform empowers teams to run thousands of parallel calls to their AI agents, dramatically speeding up the testing process and enhancing accuracy.\n  \n2. **Prompt Management**: Businesses can efficiently manage and sync diverse prompts tailored for different users and use cases.\n\n3. **Prompt Optimizer & Playground**: The platform offers tools for generating optimized prompts and testing LLM outputs to enhance usability and performance.\n\n4. **Production Call Analytics**: Beyond mere testing, Hamming provides analytic tools to assess how voice agents perform in real-world scenarios, enabling proactive issue resolution.\n\n5. **Multi-Scenario Testing**: Hamming can simulate varied high-stakes environments\u2014be it restaurant orders, healthcare follow-ups, or customer service\u2014all while adhering to regulatory standards like HIPAA.\n\n**Customer Success**: Hamming AI is trusted by enterprises in critical sectors. Clients have lauded the service for its effectiveness in enhancing order accuracy, managing operational risks, and rolling out AI-driven updates confidently.\n\n**Conclusion**: By streamlining the testing of AI voice agents, Hamming AI stands poised to become an indispensable ally for companies venturing into AI-driven communication. The future of voice technology is here, and it's automated. Check out more about Hamming at [hamming.ai](https://hamming.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c8ce2249c7dc795c86609afa1f8e3546fc831771.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191410Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d8fdc79392ed1607ac63142182accf3063dfe210a82160ee51b45e4015536922",
+    "social_links": [
+        "https://www.linkedin.com/company/hamming-ai/",
+        "https://twitter.com/HammingAI",
+        "https://www.crunchbase.com/organization/hamming-ai",
+        "https://github.com/HammingHQ/"
+    ],
+    "logo_path": "data/logos\\Hamming_AI_logo.png"
+}

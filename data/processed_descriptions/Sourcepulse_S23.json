@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/sourcepulse",
+    "name": "Sourcepulse",
+    "headline": "Fix your biggest software delays with real developer feedback",
+    "batch": "S23",
+    "description": "Sourcepulse is the internal status page for software delivery, alerting teams before costly delays. We collect anonymous feedback from project members to identify exactly what to fix, just like how Sentry captures system details for production errors.",
+    "activity_status": "Active",
+    "website": "https://www.sourcepulse.io/",
+    "founded_date": 2023.0,
+    "team_size": 1.0,
+    "location": "Paris, France",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:saas; industry:b2b; industry:analytics; industry:enterprise",
+    "founders": [
+        {
+            "name": "F-G Fernandez, Founder",
+            "description": "FG is the founder & CEO of Sourcepulse (S23).\n\nHe earned a MSc in Mathematics and Computer Science from CentraleSup\u00e9lec and has a deep background in ML, having led the research team at Mindee (YC W21), published several papers, and become one of the top PyTorch contributors.\n\nBeyond AI, FG specializes in large-scale engineering systems - he built and deployed a ground-based wildfire detection network across Europe, and South America starting with a Raspberry Pi, a camera and his laptop.",
+            "linkedin": "https://www.linkedin.com/in/fgfm/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Sourcepulse Overview**\n\nFounded in 2023 and part of Y Combinator Batch S23, Sourcepulse is a Paris-based startup on a mission to tackle software delivery delays through real developer feedback. Their approach mirrors the functionality of platforms like Sentry, but focuses on providing insights from project team members to pinpoint and eradicate bottlenecks before they escalate into costly issues.\n\n**What They Do**\n\nIn essence, Sourcepulse serves as a proactive internal status page for software delivery. By collecting anonymous feedback from team members, Sourcepulse empowers engineering leaders to identify potential delays early, helping teams to adjust course and maintain trust across sprints. They combine project management tools with feedback loops to enhance visibility and accountability in software development processes.\n\n**Core Features**\n- **Early Delay Detection**: By capturing insights as tasks unfold, Sourcepulse helps teams anticipate delays.\n- **Integrations**: The tool effortlessly integrates with platforms like GitHub, Linear, and Slack, ensuring a seamless workflow with no coding required.\n- **Real-time Feedback Loop**: Project contributors can share insights anonymously, revealing hidden blockers that might impede progress.\n- **Insights and Reporting**: Offers a digest of project timelines, risks, and progress, making project management more efficient.\n\n**Target Market**\nSourcepulse primarily caters to teams of 50-500 developers in B2B sectors, but its flexibility means it can also adapt to larger organizations as they scale.\n\n**Team Structure**\nCurrently, Sourcepulse operates with a small team but has ambitions to grow. At the helm is Group Partner Diana Hu, guiding the vision and execution of their roadmap.\n\n**Why It Matters**\nIn the fast-paced world of software development, knowing why something is delayed can be just as crucial as the delay itself. Sourcepulse not only provides insights but translates them into actionable data to improve processes, reduce blocked hours, and enhance delivery accuracy over time.\n\nSo, if you're looking to keep software projects on track and build a foundation of trust within your teams, Sourcepulse might just be the tool you need.\n\nFor more information, check them out at [sourcepulse.io](https://www.sourcepulse.io/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/891db2e02fadebee24d938204f7feac6fb4456bb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191938Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=72db6d26c02f331b5ab59532fe872753eda223da66ab0a3d6e7d8d3ba671621c",
+    "social_links": [
+        "https://www.linkedin.com/company/sourcepulse",
+        "https://twitter.com/srcpulse",
+        "https://www.crunchbase.com/organization/srcpulse",
+        "https://github.com/srcpulse"
+    ],
+    "logo_path": "data/logos\\Sourcepulse_logo.png"
+}

@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/adra",
+    "name": "Adra",
+    "headline": "Driving dental clinic revenue by finding more cavities",
+    "batch": "S21",
+    "description": "Adra is a software that helps dental clinics find cavities and other problems in x-rays faster and more accurately so they can book more procedures and increase their revenue. We started our pilot with 20 dentists 2 months ago and have already increased their clinic revenue by 12%. \r\nAdra is founded by a dentist and clinic owner, a machine learning expert, and a bioscientist.\r\nWhen every dentist uses Adra, they will bill patients an extra $52B per year. We will capture a quarter of that, making our addressable market $13B.\r\nhttps://www.adra.ai/",
+    "activity_status": "Active",
+    "website": "https://www.adra.ai",
+    "founded_date": 2021.0,
+    "team_size": 10.0,
+    "location": "Singapore, Singapore",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:healthcare; industry:diagnostics",
+    "founders": [
+        {
+            "name": "Hamed Fesharaki, Founder",
+            "description": "Hamed, the CEO of Adra, has been a dentist & clinic owner for the past decade. He founded the first open concept dental clinics in Singapore where the patients could clearly see all sterilization and lab work procedures. Hamed co-founded Adra after he saw a need for a tool that gives confidence to the dentists and increases patients' trust to minimize the revenue loss of the dental clinics. He obtained his bachelor of dental science with the highest honors from Trinity College Dublin.",
+            "linkedin": "http://www.linkedin.com/in/hamedfesharaki"
+        },
+        {
+            "name": "Liushifeng Chen, Founder",
+            "description": "Hi I'm the CTO of Adra, and I'm a computer vision and deep learning engineer. I'm bringing the state of the art deep learning algorithms to the dental industry. Our software gathers the wisdom of the best dentist to provide accurate and consistent x-ray diagnoses for better patient care.",
+            "linkedin": "https://www.linkedin.com/in/shifeng-chen-120534219/"
+        },
+        {
+            "name": "Yasaman Nematbakhsh, Founder",
+            "description": "I am a scientist turned entrepreneur and CPO of Adra. I co-founded a biotech edtech startup prior to Adra where we sold biotech educational kits to 5 countries and won top 5 global education startup award. I have a PhD in biomedical engineering from the National University of Singapore (NUS), where I studied the mechanical properties of breast cancer cells. I also hold a Bachelor of Science in Mechanical Engineering and a Master of Science in Bioengineering from Georgia Institute of Technology.",
+            "linkedin": "https://www.linkedin.com/in/yasaman-nemat/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Adra is on a mission to transform dental clinic revenues by helping dentists discover more cavities\u2014essentially finding more business for their practices. Launched in 2021 and backed by Y Combinator\u2019s S21 batch, Adra is designed to enhance the accuracy and speed at which dental clinics analyze X-rays. With the expertise of its founders\u2014a dentist who runs a clinic, a machine learning guru, and a bioscientist\u2014Adra seeks to integrate advanced technology into everyday dental workflows.\n\nJust two months into their pilot with 20 dentists, Adra has already helped increase their monthly revenues by 12%. This is just the beginning; if every dentist employed Adra, they could collectively bill an additional $52 billion annually. Adra aims to capture a quarter of that market, creating a potential revenue stream of $13 billion.\n\nBased in Singapore with a compact team of 10, Adra is positioned at the intersection of healthcare and diagnostics. Their platform, Adravision, provides an array of solutions tailored for dentists, payers, clinics, and Dental Support Organizations (DSOs). Notable features include improved patient communication through visualizations that boost comprehension by four times, personalized reports that enhance patient retention, and automation that cuts charting time by an impressive 71%.\n\nIf you're interested in exploring more about Adra, their offerings, or even getting a demo, you can find them at [Adra's website](https://www.adra.ai).\n\nIn summary, Adra isn\u2019t just selling software; they\u2019re redefining the dental industry by enabling clinics to work smarter, serve patients better, and ultimately, boost their bottom line.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e019146f2ea7c535c2fabebe1ab6346e6faba97f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190944Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=191fad2fb3c273cd4179b479f1f4d0a4800b664cdb2f200e0ec00e51dae0220c",
+    "social_links": [
+        "https://www.linkedin.com/company/adra-ai/?viewAsMember=true"
+    ],
+    "logo_path": "data/logos\\Adra_logo.png"
+}

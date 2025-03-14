@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/melder",
+    "name": "Melder",
+    "headline": "Automate analysis and biz processes w/ an AI native spreadsheet",
+    "batch": "F24",
+    "description": "Melder is a spreadsheet tool that has AI functions and data representations at its core. Upload files directly to cells, use functions like =GEN, and build automations directly from the workbook.\r\n\nWe make it easy for business users to uncover insights in their documents, automate away their emails, and even deploy simple AI chatbots.\r\n\n'Excel' is the backbone that codifies structured data business logic today, we're taking that UX to the unstructured data world.",
+    "activity_status": "Active",
+    "website": "https://melder.io",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:data-engineering; location:new-york",
+    "founders": [
+        {
+            "name": "Ashwin Dharne, Founder",
+            "description": "Building AI tools for supply chain teams. Ex-Google engineer that worked on security and conversational AI.",
+            "linkedin": "https://www.linkedin.com/in/ashwindharne/"
+        },
+        {
+            "name": "Philip Brewer, Founder",
+            "description": "Building the 'Excel for unstructured data'\n\nEx-Bain Consultant | Indiana University | Amateur Improv Comedy Player",
+            "linkedin": "https://www.linkedin.com/in/philip-brewer/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Melder: Automating Analysis and Business Processes with AI-Powered Spreadsheets**\n\nFounded in 2024 and part of Y Combinator's Batch F24, Melder is revolutionizing the way businesses handle data. With a compact team of just two employees based in New York, the company is on a mission to simplify the analysis and automation of business processes through an innovative spreadsheet tool that incorporates AI functions at its core.\n\n**Mission and Vision**  \nMelder\u2019s primary goal is to allow business users to effortlessly extract insights from their documents, automate tedious email tasks, and even set up AI chatbots\u2014all from within a modern spreadsheet interface that transcends traditional tools like Excel. They believe that while Excel remains the backbone of structured data, unstructured data deserves a similar level of accessibility and efficiency.\n\n**What Melder Does**  \nAt its core, Melder combines robust data representation capabilities with AI-driven functionalities. Users can upload files directly into cells, employ AI functions such as `=GEN`, and create complex automations without needing extensive technical knowledge. Not limited to conventional spreadsheets, Melder is designed for diverse applications, including financial analysis, HR onboarding, academic research, and web scraping. \n\n**Key Features**  \n- **Instant AI Analysis:** Melder enables businesses to automate the processing of information, be it through file ingestion or web scraping, allowing teams to refocus on strategic initiatives.\n- **AI Citation:** It addresses common issues of misinformation by providing citations alongside analyzed data, fostering trust in the results.\n- **Data Extraction from SEC Filings:** The tool converts PDFs into AI-friendly formats, allowing quick and insightful analysis of key financial metrics.\n  \n**User Interface Design**  \nMelder is engineered from the ground up to handle task execution and data storage, designed to serve AI's needs rather than fitting within the existing paradigms of traditional spreadsheet software. This allows for more advanced capabilities than simple data tables found in current spreadsheet AI tools.\n\n**Current Development Stage**  \nAs of now, Melder is in its Alpha phase\u2014eager to refine its tool by engaging with passionate early users who understand the nuances of spreadsheets and AI.\n\n**Conclusion**  \nIn a world where data is increasingly important and voluminous, Melder is positioned as a promising solution that blends the familiarity of spreadsheets with the power of AI. If you're interested in being one of the first to explore this innovative tool, you can keep an eye on their developments through their [website](https://melder.io) and join their waitlist. \n\nWith Melder, the future of automated data analysis is not just a promise; it's already in progress.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/22c5664bddbfbd7811783f0fc065d57202748b6b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191530Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=75779ca4f8222f4bdf10e115c08a8c9854958b5bf736279c4d3ba3036766092e",
+    "social_links": [
+        "https://www.linkedin.com/company/105488660/admin/dashboard/"
+    ],
+    "logo_path": "data/logos\\Melder_logo.png"
+}

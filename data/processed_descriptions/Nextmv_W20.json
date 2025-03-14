@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/nextmv",
+    "name": "Nextmv",
+    "headline": "A DecisionOps platform that accelerates optimization AI teams",
+    "batch": "W20",
+    "description": "Nextmv is a DecisionOps platform that accelerates optimization AI teams with tools for deployment, testing, CI/CD, collaboration, and management of decision models. With Nextmv, developers can create scalable, custom decision services complete with unique API endpoints and options to integrate with popular solvers and modeling solutions.",
+    "activity_status": "Active",
+    "website": "https://nextmv.io",
+    "founded_date": 2019.0,
+    "team_size": 22.0,
+    "location": "Philadelphia, PA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:logistics; industry:supply-chain; industry:ai",
+    "founders": [
+        {
+            "name": "Carolyn Mooney, Founder",
+            "description": "Systems engineer and analyst. Always interested in automating and optimizing decisions.",
+            "linkedin": "https://www.linkedin.com/in/carolyn-m-mooney/"
+        },
+        {
+            "name": "Ryan O'Neil, Founder",
+            "description": "Optimization AI \u2014 Integer Programming, Constraint Programming, and Decision Diagrams. Cat and early music enthusiast. Founding nextmv.io. Prefers Go.",
+            "linkedin": "https://www.linkedin.com/in/ryan-o-neil-59b6ab83/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Nextmv is a company that was founded in 2019 and is based in Philadelphia, PA. It emerged from Y Combinator's W20 batch and has grown to a team of 22 employees. The company positions itself as a DecisionOps platform aimed at empowering optimization AI teams with robust tools for deploying, testing, continuous integration and delivery (CI/CD), collaboration, and management of decision models.\n\nThe core mission of Nextmv is straightforward: to simplify and accelerate the process of creating scalable, custom decision services that can easily integrate with popular solvers and modeling solutions via unique API endpoints. This is particularly relevant for industries involved in logistics and supply-chain management, where decision-making processes can intrinsically benefit from enhanced optimization practices fueled by AI.\n\nNextmv\u2019s platform addresses several common challenges that teams face when moving from research to operational deployment of decision models. For instance, teams often struggle with messy handovers from development to production, requiring bespoke tools for testing and collaboration. Nextmv offers a solution that streamlines the entire lifecycle of decision models, helping teams transition their innovations into live operations more efficiently.\n\nSome of the standout features of Nextmv include:\n- A DecisionOps workflow for efficient model validation and management.\n- A model marketplace tailored for specific use cases.\n- Comprehensive support for a variety of modeling and solver integrations, both commercial and open source.\n- Tools that allow teams to bring their own code, ensuring that existing solutions can be unified and managed in a single platform.\n\nIn practical terms, this means that operations researchers, data scientists, software developers, and even business stakeholders can all benefit. Researchers can focus on modeling rather than building support tools, while developers can easily integrate and monitor models as services. Business stakeholders gain clarity around how these models drive real-world value and can oversee performance easily.\n\nNextmv has already impressed several notable clients, as evidenced by testimonials from companies like Grubhub and TaskRabbit, showcasing their ability to rapidly iterate and deploy optimization capabilities.\n\nIn summary, if you're involved in decision-making processes in logistics or supply chains, and you're interested in making those processes more efficient through AI, Nextmv might just be the platform to explore. Check them out at [nextmv.io](https://nextmv.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d64be56750bb0f3152957ff2e0c118734fedcb18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191600Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0e7dc307edc0d0e787276f856b8ccc7a702e49dc9063a418d9ff81a44d4cddd8",
+    "social_links": [
+        "https://www.linkedin.com/company/nextmv",
+        "https://twitter.com/getnextmv",
+        "https://www.crunchbase.com/organization/nextmv",
+        "https://github.com/nextmv-io"
+    ],
+    "logo_path": "data/logos\\Nextmv_logo.png"
+}

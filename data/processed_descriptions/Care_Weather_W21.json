@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/care-weather",
+    "name": "Care Weather",
+    "headline": "The highest-accuracy global weather data from low-cost flat satellites",
+    "batch": "W21",
+    "description": "Care Weather collects the highest-accuracy global weather data to help governments and shipping companies adapt to extreme weather. The data is collected by Care Weather\u2019s unique flat-panel radar satellite, which is 1000X more cost effective because it\u2019s vertically integrated, gets more solar power, and sails on top of the atmosphere for a closer view of the surface. Our team includes CEO Patrick Walton (NASA Earth science fellow) and CTO Alex Laraway (mach 4 rockets). In the last 4 months, we built and launched the smallest radar satellite ever. We have $35M worth of LOIs, including one from the Air Force and others from cargo shippers. Care Weather is backed by Boost VC, Kickstart Seed Fund, Y Combinator, and more.",
+    "activity_status": "Active",
+    "website": "https://www.careweather.com",
+    "founded_date": 2019.0,
+    "team_size": 2.0,
+    "location": "Orem, UT",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:space-exploration; industry:satellites; industry:weather; industry:agriculture",
+    "founders": [
+        {
+            "name": "Patrick Walton, Founder",
+            "description": "Co-founder, CEO, and project engineer at Care Weather. As project engineer, he funded, architected, licensed, and operates the company's three satellites on orbit. He has an M.S. and B.S in electrical and mechanical engineering from BYU. As an undergrad, he started BYU's nationally-recognized rocketry club and won $1M from NASA to lead a team of 20 in launching BYU\u2019s first two satellites.",
+            "linkedin": "http://linkedin.com/in/mpatrickwalton"
+        },
+        {
+            "name": "Alex Laraway, Founder",
+            "description": "Alex is a full-stack aerospace engineer. He single-handedly designed and built multiple record-breaking satellites that are on orbit now. Alex got his B.S. in manufacturing from BYU. His space experience goes back to age 10 machining high-altitude rockets on a lathe in his garage and flying them at Mach 4 to the edge of space.",
+            "linkedin": "https://www.linkedin.com/in/alex-laraway-8ba461169/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Care Weather, founded in 2019 and part of Y Combinator's W21 batch, is revolutionizing how we gather and utilize weather data. Based in Orem, Utah, the company is on a mission to provide the highest-accuracy global weather information, particularly crucial for governments and shipping companies dealing with extreme weather conditions. \n\nAt the heart of their innovation is their unique radar satellite system, named Veery. This flat-panel satellite is reported to be 1000 times more cost-effective than traditional models. It's also designed for mass production, allowing for a tenfold increase in both the quantity and quality of weather data collected. The satellite uses 5 GHz radio waves to map the Earth's surface, making it well-equipped to monitor everything from hurricanes to droughts.\n\nCare Weather is helmed by CEO Patrick Walton, a former NASA Earth science fellow, and CTO Alex Laraway, who has experience with Mach 4 rockets. Their team is currently small, just two full-time employees, but they've made significant strides in their mission. In just four months, they successfully built and launched the smallest radar satellite ever. \n\nThe company has generated a solid interest, securing $35 million in Letters of Intent, including contracts with the Air Force and various cargo shipping firms. They are backed by reputable investors such as Boost VC, Kickstart Seed Fund, and Y Combinator. \n\nIn summary, Care Weather is not just another tech company; it\u2019s a bold attempt to make weather data abundant and accurate, establishing a new standard for how we understand and prepare for the impacts of extreme weather. For more information, you can visit their website at [Care Weather](https://www.careweather.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/eada39b531144d41597958b6415d3164d4b7cdd4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191043Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=86fa6548603955d9f1fc9c4df4a1380920223520bc973d19b590ec0b7e15de7c",
+    "social_links": [
+        "https://www.linkedin.com/company/careweather/",
+        "https://twitter.com/CareWeather",
+        "https://www.facebook.com/careweather",
+        "https://www.crunchbase.com/organization/care-weather",
+        "https://github.com/careweather"
+    ],
+    "logo_path": "data/logos\\Care_Weather_logo.png"
+}

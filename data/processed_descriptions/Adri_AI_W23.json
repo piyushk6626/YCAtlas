@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/adri-ai",
+    "name": "Adri AI",
+    "headline": "Vanta for AI",
+    "batch": "W23",
+    "description": "Adri is built for enterprises that are buying AI. \r\n\nOur patented software monitors the AI vendor's infrastructure and detects any intentional or accidental misuse of your proprietary data.\r\n\nWe help you buy AI that you can trust.",
+    "activity_status": "Active",
+    "website": "https://www.getadri.ai/",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:compliance; industry:security; industry:sales; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Darshita Chaturvedi, Founder",
+            "description": "MIT Sloan dropout, Director's Gold Medal at IIT, voting member at Python Software Foundation, ML researcher at BlackRock (co-creator of a financial product that was one of the fastest-growing asset management product in the US with $5M+ in asset flow in a year within its launch)",
+            "linkedin": "https://www.linkedin.com/in/darshitac/"
+        },
+        {
+            "name": "Shyam Swaroop, Founder",
+            "description": "Columbia CS dropout, DARPA funded ML researcher turned web developer for ML products (lead engineer of the software product with $10M+/year in revenue)",
+            "linkedin": "https://www.linkedin.com/in/shyamswaroop/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Adri AI: Bringing Trust to AI Purchases**\n\nFounded in 2022 and nestled in the heart of San Francisco, Adri AI is a fresh player in the artificial intelligence landscape, specifically tailored for enterprises looking to buy AI technology with confidence. Think of Adri as the \"Vanta for AI\"\u2014a solution designed to ensure that the AI you adopt is reliable and secure.\n\n**The Problem We're Solving:**\nIn today's fast-paced business environment, organizations are increasingly investing in AI. However, with great power comes great responsibility, especially regarding data privacy and compliance. Adri AI's patented software actively monitors the infrastructure of AI vendors, identifying any misuse\u2014be it intentional or accidental\u2014of your proprietary data. This means that when you buy AI, you can do so without the looming fear of compromising sensitive information.\n\n**How It Works:**\nAdri\u2019s platform enhances clarity and efficiency in AI-driven SAP ERP migrations. With features like AI-generated clarifying questions, automatic validation of best practices, and proactive conflict detection, it's designed to minimize errors during migration projects. The process flows smoothly from documenting requirements, asking clarifying questions, to ensuring alignment with SAP's best practices.\n\n**Core Features Include:**\n1. **Verification of Best Practices**: The AI assesses your implementation design against SAP S/4 HANA recommendations.\n2. **Integration Insights**: Instantly spot inter-module dependencies and third-party integrations.\n3. **Conflict Resolution**: Early detection of inconsistencies prevents costly delays in implementation.\n\n**Team and Support**: \nDespite having a small team of just two employees, Adri AI is backed by Y Combinator\u2019s Batch W23, greatly enhancing its credibility. Diana Hu serves as the Group Partner, providing guidance and mentorship as they grow.\n\n**Where to Find Adri AI**: \nCurious to see how they can help your business? Visit [Adri AI\u2019s website](https://www.getadri.ai/) for more information and to get started with their innovative solutions.\n\nIn a world where AI adoption is ramping up, Adri AI is simplifying the process, ensuring companies can embrace this powerful tool without sacrificing trust or security. If you're in the market for AI, Adri AI might just be what you're looking for.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/20e58a31a1c37424b70caee58a13bbbd9c3ca4e4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190945Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a0a77c3878282bff2ba61f5b830be4e50037cfdb510331d16b48b242d2bc421d",
+    "social_links": [
+        "https://www.linkedin.com/company/adri-ai/"
+    ],
+    "logo_path": "data/logos\\Adri_AI_logo.png"
+}

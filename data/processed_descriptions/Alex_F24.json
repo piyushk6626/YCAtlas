@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/alex",
+    "name": "Alex",
+    "headline": "The Cursor for Xcode",
+    "batch": "F24",
+    "description": "Tired of switching tabs to cursor every time you're building your iOS app in Xcode?\r\n\nWorry not!\r\n\nAlex is a sidebar app that works directly with Xcode, and has the same Cmd+L, Cmd+K, and Apply Code commands as Cursor. And, it's super fast.\r\n\nCheck it out: https://alexcodes.app",
+    "activity_status": "Active",
+    "website": "https://alexcodes.app",
+    "founded_date": 2024.0,
+    "team_size": 1.0,
+    "location": null,
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Daniel Edrisian, Founder",
+            "description": "I'm an iOS Engineer, formerly built the iOS app for ElevenLabs and was a founding engineer at FlutterFlow (YC W21). Prior to that, I interned at Apple, Meta, and Google.",
+            "linkedin": "https://www.linkedin.com/in/daniel-edrisian/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Alex**\n\nFounded in 2024 and backed by Y Combinator's Batch F24, Alex is on a mission to streamline the iOS development experience with its innovative tool, the Alex Sidebar. Located in a yet-to-be-disclosed environment, the company operates with a lean team of just one employee\u2014an indicator of the startup's nimble approach to solving developer pain points.\n\n**The Problem**\n\nEvery iOS developer knows the struggle: constantly switching tabs in Xcode is tedious and interrupts the flow of coding. Alex was born out of the frustration of this workflow inefficiency. The team set out to create a solution that removes these friction points\u2014hence the Alex Sidebar.\n\n**The Solution: Alex Sidebar**\n\nThis app serves as a powerful AI copilot for Xcode, allowing developers to quickly access functionalities that usually require several clicks or tab switches. It features commands analogous to popular tools, like Cmd+L and Cmd+K for quick text selection and code application, making it snappy and user-friendly.\n\n**Key Features:**\n\n- **Instant Chat**: Select text in Xcode and start a conversation about it right away.\n- **Image Chat**: Drag an image into the sidebar to generate corresponding code.\n- **Semantic Codebase Search**: Grip your entire codebase semantically to find what you need.\n- **Fast Code Apply**: Apply changes to your code rapidly.\n- **Error Autofix**: One-click solutions to common coding errors.\n- **Automatic File Creation**: Refactor and create files without manual intervention. \n\n**Pricing Structure:**\n\nAlex offers a free plan\u2014ideal for newcomers and those curious about the tool\u2014allowing for limited chat and code applications. For more serious developers, a Pro plan is available for $20 per month, featuring unlimited capabilities.\n\n**Community Engagement:**\n\nAlex encourages interaction through its community Discord channel, making it clear that user feedback and engagement are prioritized in their development process.\n\n**Why This Matters:**\n\nAs software development grows increasingly complex, the tools we use must evolve as well. Alex recognizes the need for faster, more integrated development environments, and seeks to equip developers with the tools necessary to maintain focus and productivity.\n\nFor those weary of tab-switching and looking for a smoother coding experience, Alex may just be the sidebar solution they\u2019ve been searching for. \n\nCheck out more about Alex and download it [here](https://alexcodes.app).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8a64cf5f8eb981564ad0694214f95da2bc021558.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190953Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a3b0de5a76a7a2809361bf969cc8cb0871edaba29a927f4f97d39de2d2c0c91e",
+    "social_links": [
+        "https://www.linkedin.com/company/alex-sidebar/"
+    ],
+    "logo_path": "data/logos\\Alex_logo.png"
+}

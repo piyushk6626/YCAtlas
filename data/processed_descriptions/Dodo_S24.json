@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/dodo",
+    "name": "Dodo",
+    "headline": "AI Employees for Specialty Clinics",
+    "batch": "S24",
+    "description": "Dodo develops AI employees for specialty clinics, starting with veterinarians, fine-tuned on industry-specific knowledge and trained on protocols taken directly from employee manuals and playbooks, which often span multiple binders. \r\n\nClinics hire Dodo's labor-as-a-software to handle front and back-office tasks, enabling clinics to provide 24/7 service. Dodo answers calls, sends medical records, and refills prescriptions\u2014fully autonomously, with no human in the loop.",
+    "activity_status": "Active",
+    "website": "https://www.dodo.health/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:healthcare; industry:healthcare-it; industry:call-center; industry:conversational-ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Dominik Moehrle, Founder",
+            "description": "Building AI agents for medical practices at Dodo. Previously studied Data Science @ Stanford, started beam.ai, and built & scaled 4 products in the healthcare space. When I'm not building, I'm teaching @ equala.org.",
+            "linkedin": "https://www.linkedin.com/in/dominik-moehrle/"
+        },
+        {
+            "name": "Julius Hillebrand, Founder",
+            "description": "Building AI agents for medical clinics at Dodo. Stanford Engineer, Oxford PPE. Bootstrapped investment tool to $2m+ AUM, automated workflows for a large fintech, and led one of Oxford's biggest university organizations with 1000+ members. Former child actor.",
+            "linkedin": "https://linkedin.com/in/juliushillebrand"
+        },
+        {
+            "name": "Tim Reinhart, Founder",
+            "description": "Building AI agents at Dodo. Studied Computer Science at Stanford and Robotics at ETH Zurich. Built autonomous drone systems at one of the worlds leading robotics labs and worked on mobile computer vision applications.",
+            "linkedin": "https://www.linkedin.com/in/t-reinhart/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Dodo: Revolutionizing Veterinary Clinics with AI\n\n**Overview**  \nDodo, founded in 2024 and part of Y Combinator Batch S24, is based in San Francisco. The company is on a mission to enhance the efficiency of specialty clinics through AI-powered employees, initially focusing on the veterinary sector. Currently, the team consists of three dedicated members.\n\n**Mission and Product**  \nDodo aims to be the first AI receptionist for veterinarians, handling various front and back-office tasks to allow clinics to operate 24/7. Their AI system autonomously manages client communications, answers calls, sends medical records, refills prescriptions, and more\u2014all without human intervention. This not only boosts a clinic's revenue potential (by over $100k) but also alleviates the burdens of repetitive tasks for staff.\n\nThink about it: veterinary clinics, like many others, run into the problem of missed calls and slow response times. Dodo flips that script with its AI solution, ensuring that client inquiries are met with prompt, accurate responses. They\u2019ve built a system that learns from the specific protocols of each clinic, effectively becoming a customized assistant to fit each practice's needs.\n\n**Key Features**  \n- **24/7 Availability:** Ensures no client inquiry goes unanswered.\n- **Client Communication Handling:** Captures and addresses various inquiries seamlessly.\n- **Administrative Task Automation:** Frees human employees from basic tasks, allowing them to focus on patient care.\n- **Integration with Existing Tools:** Offers open APIs and frameworks for seamless integration with clinic management software.\n\n**Current Progress and Backing**  \nDodo is positioned in various sectors, such as healthcare IT, call centers, and conversational AI. The company is supported by Gustaf Alstromer as their Group Partner at Y Combinator. With the average turnover rate for veterinary receptionists at 32.5%, Dodo offers a solution that enhances efficiency and reduces staffing challenges.\n\n**Future Directions**  \nDodo is still in the early stages but has set a precedent in the realm of veterinary care and AI integration. The ambition is clear: to refine AI capabilities to not just answer phones, but to enrich the overall experience for both clinics and pet owners. They envision a world where administrative headaches vanish, freeing clinics to focus exclusively on patient care.\n\n**Conclusion**  \nDodo represents a significant leap forward in the way veterinary clinics can manage operations. By harnessing AI and tapping into industry-specific knowledge, they're setting the stage for a future where veterinary practices can thrive without the typical constraints of operational inefficiencies.\n\nFor more information, you can check out their website [here](https://www.dodo.health/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b9b4834dce44d64ad793b10c536be450f1c4dea6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191124Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=178a682140ca3780397cb41b9a161db2c00fa81518c6db7e323923993a863d16",
+    "social_links": [
+        "https://www.linkedin.com/company/dodoinc/",
+        "https://x.com/get_dodo"
+    ],
+    "logo_path": "data/logos\\Dodo_logo.png"
+}

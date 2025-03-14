@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/snowpilot",
+    "name": "Snowpilot",
+    "headline": "The connected spreadsheet that destroys data silos",
+    "batch": "S24",
+    "description": "Snowpilot combines a spreadsheet UI with a federated data engine. We get live data from tools like Salesforce, Gong, and Mixpanel, enabling PMs, marketers, and salespeople to run high-impact workflows with data at any scale.\r\n\nBen and Dom met at a Sequoia & a16z-backed data startup, Census. Together, we built the first real-time, warehouse-native customer data platform. Prior to that, Dom led 20+ ML engineers at Adobe to build their internal ad optimization platform, which allocates $1B in annual spend. Ben built the microservices stack powering the new Microsoft Edge, scaling from 0 to hundreds of millions of DAUs.\r\n\nWe started coding Snowpilot in mid-August '24, and we already have a live app that can run sub-second queries on millions of rows, entirely in the user's browser.\r\n\nThe data warehouse market is $10B/yr, growing 23% YOY. We will disrupt incumbents and significantly expand this market by enabling non-engineers to use big data on a daily basis.",
+    "activity_status": "Active",
+    "website": "https://www.snowpilot.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:big-data; industry:data-engineering; industry:ai; industry:databases; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ben Warren, Co-founder",
+            "description": "Co-founder & CTO of Snowpilot, the data warehouse that's as simple as a spreadsheet. Started as a software engineer at Microsoft, scaling the new Edge browser. After that, built next-gen data tooling at Census (backed by a16z & Sequoia).",
+            "linkedin": "https://linkedin.com/in/ben-h-warren"
+        },
+        {
+            "name": "Dom Crosby, Co-founder & CEO",
+            "description": "Dom Crosby is co-founder & CEO of Snowpilot, the Data Warehouse that's as simple as a spreadsheet. Starting his career as an analyst for the UK Ministry of Defence, he has since worked in Big Data and ML for the last decade leading product for high profile ML and data solutions at Adobe & Census (Sequoia & a16z backed.)",
+            "linkedin": "https://linkedin.com/in/domcrosby/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Snowpilot**\n\nSnowpilot is a burgeoning startup located in the heart of San Francisco, founded in 2024 by Ben and Dom, two veterans from the data-centric cloud landscape. Their mission? To break down data silos with a connected spreadsheet that empowers users, particularly product managers, marketers, and sales teams, to leverage big data effortlessly. \n\nThe platform marries a friendly spreadsheet interface with a powerful federated data engine that pulls live data from tools like Salesforce, Gong, and Mixpanel. This seamless integration allows users to execute high-impact workflows without the usual complexities associated with big data analytics. \n\n**Founders\u2019 Background:**\nBen and Dom's partnership blossomed at Census, a data startup backed by heavyweights like Sequoia and a16z, where they laid the foundation for a real-time, warehouse-native customer data platform. Each brings a stellar pedigree to Snowpilot: Dom has extensive experience in machine learning from his time at Adobe, where he led a team to create an ad optimization platform capable of managing a billion-dollar budget. Meanwhile, Ben developed the microservices that powered Microsoft Edge, scaling it from zero to hundreds of millions of daily active users.\n\n**What They\u2019ve Built:**\nSince kicking off development in August 2024, Snowpilot has already delivered a live application capable of executing sub-second queries on millions of rows\u2014all in the user\u2019s browser. That's a major feat, especially given the typical hurdles associated with real-time data processing.\n\n**Market Opportunity:**\nSnowpilot enters a competitive landscape, looking to disrupt the $10 billion data warehouse market, which is currently growing at an impressive 23% year over year. Their focus is on democratizing access to big data, enabling not just engineers but everyday users to tap into sophisticated data analytics.\n\nAs a participant in Y Combinator's Batch S24, Snowpilot is poised for rapid growth and innovation. Despite having a lean team of just two, with Aaron Epstein as their Group Partner, they demonstrate a clear commitment to scalability and impact.\n\nIf you\u2019re interested in how Snowpilot is redefining data accessibility, check out their website at [snowpilot.com](https://www.snowpilot.com). It\u2019s clear that they are on an exciting trajectory to revolutionize the way businesses interact with data.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/76f6ea698405a199e213f9458efbeefc5c6192a5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191934Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ac1286bdc62f07cc5c6e479f857a5250dd5ac6ed9126b4dbdfe9d06a8dea77a4",
+    "social_links": [
+        "https://www.linkedin.com/company/snowpilot",
+        "https://x.com/snowpilotai",
+        "https://github.com/SnowPilotOrg"
+    ],
+    "logo_path": "data/logos\\Snowpilot_logo.png"
+}

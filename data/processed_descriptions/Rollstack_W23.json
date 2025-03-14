@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/rollstack-2",
+    "name": "Rollstack",
+    "headline": "Automatically create and update data-driven slide decks and documents",
+    "batch": "W23",
+    "description": "Who hasn't spent hours creating or updating slide decks and documents with the latest data? Teams spend between 5h and 12h per week updating slides and docs. And in 75% of the cases, slides are reused.\r\n\n\u2022 Rollstack allows teams to automatically create and update Google slides and PowerPoint presentations with the latest data from their BI tools, CRMs, and data warehouse. \r\n\n\u2022 Rollstack helps teams automate their business reviews, financial reporting, and client presentations by scheduling updates, creating decks programmatically, and version control.\r\n\n\u2022 Rollstack also generates insights automatically from your visualizations and datasets.",
+    "activity_status": "Active",
+    "website": "https://www.rollstack.com",
+    "founded_date": 2022.0,
+    "team_size": 15.0,
+    "location": "New York",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:productivity; industry:analytics; industry:big-data; industry:data-visualization; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Nabil Jallouli, Founder",
+            "description": "Building Rollstack to make professionals more efficient at work! \ud83e\uddbe\n\nEngineer at \ud83d\udc9a previously led data, strategy, and revenue operations at Pinterest, Deel, and Groupon. Passion for execution, people, data, and growth.",
+            "linkedin": "https://www.linkedin.com/in/nabiljallouli/"
+        },
+        {
+            "name": "Saad Bahir, Founder & CTO",
+            "description": "Hello, I'm Saad. With around ten years of experience in both software and hardware engineering, my career began in machine learning research. I later shifted focus to software engineering and DevOps, successfully scaling an AI-driven Kubernetes infrastructure to 400 clusters. My background also includes work in high-frequency trading and developing technology for automated checkout stores. Currently, I am dedicated to automating data extraction and processing in documents at Rollstack.",
+            "linkedin": "https://www.linkedin.com/in/saad-bahir-6919355a/"
+        },
+        {
+            "name": "Younes Jallouli, Founder & CPO",
+            "description": "Building Rollstack to make professionals more efficient at work!\ud83e\uddbe  \nPreviously held engineering & product positions at Tesla & SlimPay.",
+            "linkedin": "https://www.linkedin.com/in/younesjallouli/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Rollstack: The Future of Automated Slide Decks\n\n**Overview**: Rollstack is on a mission to simplify the drudgery of creating and updating slide decks and documents. Founded in 2022 and part of Y Combinator's Batch W23, this New York-based startup has developed an elegant solution to a time-consuming problem that countless teams face every week.\n\n**The Problem**: Teams typically dedicate between 5 to 12 hours a week to updating their presentations, often reusing slides in the process. That\u2019s a lot of time spent sifting through data and ensuring that everything is current.\n\n**The Solution**: Enter Rollstack. This innovative platform allows teams to automate the creation and updating of Google Slides and PowerPoint presentations. By connecting directly to the most popular business intelligence (BI) tools, CRMs, and data warehouses, Rollstack ensures that your data is always up-to-date. Moreover, it takes care of scheduling updates, automating both business reviews and financial reporting, while also providing robust version control.\n\n**Key Features**:\n- **Connect to Data Sources**: Integrate with tools like Tableau, Power BI, Looker, and Google Sheets to pull in real-time data.\n- **Scheduled Updates**: Set and forget your presentations; updates can be scheduled to occur automatically.\n- **AI-Powered Insights**: Generate insights directly from your data visualizations with minimal effort.\n- **Scalable Content Creation**: Easily create templates and generate multiple content variants quickly.\n- **Secure Data Management**: Rollstack maintains enterprise-grade security, ensuring that all your information is stored locally and managed securely.\n\n**Team and Positioning**: With a lean team of 15 and led by prominent voices in the venture landscape, like Michael Seibel from Y Combinator, Rollstack is positioned in the fields of productivity, big data analytics, and AI. \n\n**Recent Milestones**: In just a year, Rollstack has gained significant traction and raised $11 million in Series A funding. Their ability to showcase powerful case studies, such as automating client presentations for companies like Glytec and ChannelSight, underscores the platform's real-world utility.\n\n**Why Choose Rollstack?**: Feedback from users highlights Rollstack\u2019s role in saving significant time\u2014up to 12 hours a week\u2014and enhancing productivity by removing the friction in creating executive-ready presentations. Users appreciate the intuitive interface and pinpoint accuracy in data handling, leading to increased confidence in decision-making.\n\n**Stay Updated**: To stay informed on their upcoming developments and features, interested users are encouraged to explore Rollstack's resources and case studies on [their official website](https://www.rollstack.com).\n\nIn summary, Rollstack isn't just a tool; it's a pathway to transforming how teams communicate their ideas through data. The startup's vision matches the needs of an increasingly data-driven world, making it a compelling choice for organizations primed to scale their reporting capabilities.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ce695926fe78c800aa54cadda2c12f22cf4db88f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191857Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b2eb052d61d53b3132726036055373512a8b3c05c79512d610de30cd2eb8cd14",
+    "social_links": [
+        "https://www.linkedin.com/company/rollstack",
+        "https://twitter.com/rollstack",
+        "https://www.facebook.com/profile.php?id=100088815979126",
+        "https://www.crunchbase.com/organization/rollstack"
+    ],
+    "logo_path": "data/logos\\Rollstack_logo.png"
+}

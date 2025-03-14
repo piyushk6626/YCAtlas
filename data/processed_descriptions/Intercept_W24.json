@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/intercept",
+    "name": "Intercept",
+    "headline": "Helping CPG brands automatically flag and dispute invalid retail fees",
+    "batch": "W24",
+    "description": "Intercept lets CPG brands challenge incorrect charges from retail chains. It ingests all of a brand\u2019s fees across their retailer portals and emails, flags the fees that can be disputed, and automates away the mundane tasks involved in fee disputes. What previously took a team of people is now manageable by a single person.",
+    "activity_status": "Active",
+    "website": "https://tryintercept.com/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sasha Zhang, Founder",
+            "description": "Sasha is the co-founder and CEO of Intercept. Previously, Sasha helped incubate new SaaS startups at Menlo Labs and built supply chain data products at Wayfair. She studied Economics and Statistics at Carnegie Mellon and received an MBA at Wharton.",
+            "linkedin": "https://linkedin.com/in/sashaxzhang"
+        },
+        {
+            "name": "Jordan Wick, Founder",
+            "description": "Jordan is the co-founder and CTO of Intercept. He previously worked on self-driving cars at Waymo, built supply chain technology at Flexport, and studied Computer Science at MIT.",
+            "linkedin": "https://linkedin.com/in/jordanwick"
+        }
+    ],
+    "status": true,
+    "generated_description": "Intercept, founded in 2023 and based in San Francisco, is a startup that's focusing on an overlooked yet crucial pain point in the consumer packaged goods (CPG) industry: managing retail deductions. This company emerged from Y Combinator Batch W24 and operates with a lean team of just three employees, suggesting they're tackling a big problem with agility.\n\nSo what's their mission? It\u2019s straightforward: **help CPG brands automatically flag and dispute invalid retail fees.** Retailers often impose fees that can be erroneous or inflated, and sifting through these deductions can consume a lot of time and manpower. Intercept's platform streamlines this process by ingesting data from brand fees across retailer portals and emails. It flags fees that are ripe for dispute and automates the mundane tasks tied to these disputes, reducing what once required a team effort to the capability of a single individual.\n\nThey describe their solution in a three-step process: **Categorize, Resolve, and Reconcile.** The platform automates the categorization of deductions, flags invalid ones using AI, and even reconciles everything with the brand\u2019s accounting systems. It\u2019s a powerful blend of technology with a human touch; each client gets the support of a dedicated deductions analyst who ensures everything is expertly verified.\n\nIntercept is already seeing some buzz, backed by endorsements from high-growth retail brands, including use cases that highlight how quick and effective their solution is. One testimonial from Vosges Haut-Chocolat notes that the platform helped tackle an impressive backlog of deductions in just days and resulted in a significant recovery of funds. \n\nTheir thinking around onboarding is refreshingly simple\u2014most integrations can be accomplished in under an hour, making it welcoming for brands concerned about time-to-value. Plus, the promise of advanced analytics could turn these deduction disputes into an opportunity for deeper insights into distribution centers, customer behavior, and product performance.\n\nIn summary, Intercept is not just another tech company; it's a solution empowering CPG brands to reclaim lost revenue and manage what used to be an arduous task with ease. If you\u2019re involved in retail and curious about cleaning up the mess of fee disputes, they might be worth a closer look. Check them out at [tryintercept.com](https://tryintercept.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/33e3ffe2305847805afe0edcb37dde7c9cb05a74.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191436Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=57854cf465eeec40c49d61299c9d4a31bb9b01d7742a4994622575e09c754ba3",
+    "social_links": [
+        "https://www.linkedin.com/company/99366646",
+        "https://twitter.com/tryintercept"
+    ],
+    "logo_path": "data/logos\\Intercept_logo.png"
+}

@@ -1,0 +1,33 @@
+{
+    "Links": "https://www.ycombinator.com/companies/uncommon-therapeutics",
+    "Name": "Uncommon Therapeutics",
+    "Headline": "A Disease Focused Biotech",
+    "Batch": "W25",
+    "Description": "Our founder Noah, an experienced tech entrepreneur, was directly impacted by a severe genetic disease when his daughter was diagnosed with Rett Syndrome, a disease that afflicts 1 in 10,000 girls. Using an innovative polytherapy strategy, we\u2019ve successfully improved her quality of life, and have designed new therapeutics that each could be worth billions and together could deliver a cure.",
+    "Activity_Status": "Active",
+    "Website": "https://uncommontherapeutics.com",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/jared-friedman",
+    "Group_Partner": "Jared Friedman",
+    "Company_Linkedin": "",
+    "Company_Twitter": "",
+    "Tags": "industry:gene-therapy; industry:crispr; industry:biotechnology; location:san-francisco-bay-area",
+    "social_links": [],
+    "logo_path": "data\\logos\\Uncommon_Therapeutics.png",
+    "Active_Founders": [
+        {
+            "Name": "Noah Auerhahn, Founder",
+            "Description": "Serial Entrepreneur Building Therapies and New Biz Models for Rare Disease",
+            "LinkedIn": "https://www.linkedin.com/in/noahauerhahn/"
+        },
+        {
+            "Name": "Ryan Lim, Founder",
+            "Description": "Biotech entrepreneur and biomedical scientist specializing in modeling neurological disorders using stem cells, in vivo models, and computational biology to drive breakthroughs in neurological diseases",
+            "LinkedIn": "https://www.linkedin.com/in/ryanlimphd"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "Uncommon Therapeutics is an innovative biotech company founded in 2024 with a mission that\u2019s refreshingly straightforward: focus on rare and difficult diseases to deliver impactful therapeutics. It all started with Noah, a tech entrepreneur deeply moved by his daughter\u2019s diagnosis of Rett Syndrome\u2014a genetic disorder that affects 1 in 10,000 girls. This personal connection fuels the company\u2019s innovative polytherapy approach, which has not only improved his daughter\u2019s quality of life but also holds the potential to develop lucrative new treatments\u2014perhaps even a cure.\n\nBased in San Francisco and operating with a small but dedicated team of two, Uncommon Therapeutics isn\u2019t just about building drugs; it\u2019s embracing a multi-modal strategy to face complex challenges head-on. They recognize the nuances of each therapeutic modality, designing drugs that can work independently but are also synergistic when combined. This thoughtful approach is grounded in deep expertise and a true understanding of the patient impact.\n\nThe company is part of the Y Combinator Batch W25, reflecting its potential to make significant strides in gene therapy, CRISPR, and biotechnology. Their first indication is Rett Syndrome, but their vision extends further into treating a range of rare conditions.\n\nIn essence, Uncommon Therapeutics stands at the intersection of technology and empathy, using advanced methodologies to drive forward solutions that are not just uncommon but are also redefining what\u2019s possible in healthcare.\n\nFor more information or to keep an eye on their progress, you can check out their website: [Uncommon Therapeutics](https://uncommontherapeutics.com)."
+}

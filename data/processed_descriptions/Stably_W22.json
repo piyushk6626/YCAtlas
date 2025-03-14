@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/stably",
+    "name": "Stably",
+    "headline": "AI agent that does QA testing. Runnable in your CI.",
+    "batch": "W22",
+    "description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. \r\n\nTesting for mobile is coming soon.",
+    "activity_status": "Active",
+    "website": "https://www.stably.ai",
+    "founded_date": 2022.0,
+    "team_size": 7.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:devops; industry:web-development; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jinjing Liang, Co-founder & CEO",
+            "description": "Building Stably - AI-powered QA Testing. Prev senior engineer @Google Chrome. 2x founder and Cornell alum.",
+            "linkedin": "https://www.linkedin.com/in/jinjingliang/"
+        },
+        {
+            "name": "Neil Parker, Founder",
+            "description": "Stably Co-Founder and CEO. Previously engineering lead at Uber.\n\nI love building products that delight our users!",
+            "linkedin": "https://www.linkedin.com/in/neilwilliamparker/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Stably: Revolutionizing QA Testing with AI** \n\nFounded in 2022, Stably is a San Francisco-based startup that emerged from the prestigious Y Combinator Batch W22. At its core, Stably is on a mission to help product teams accelerate their development process while ensuring that quality is never compromised. \n\n### What Does Stably Do?\n\nStably leverages AI to automate the quality assurance (QA) testing process for web applications. Imagine having an AI agent that not only analyzes your application but also generates comprehensive test scripts and adapts seamlessly to changes in real time. That's Stably for you. It minimizes the flakiness often associated with automated tests, ensuring consistency even as your software evolves. \n\n### Key Features\n\n- **No-Code Editor**: Users can create tests in plain English, which makes it accessible not just to engineers but to anyone on a product team.\n- **AI-Powered Tests**: The AI not only writes tests but also runs and maintains them, adapting as your app changes.\n- **CI/CD Integration**: Stably fits right into your existing development workflow, providing notifications via Slack, GitHub, and more when tests are run or issues arise.\n- **Wide Compatibility**: It works with most popular test automation frameworks like Playwright, Cypress, and Selenium.\n\n### Growing Pains and Future Plans\n\nCurrently, Stably's testing capabilities primarily target web applications, but the development of mobile testing is already in the pipeline. The team is small\u2014just seven people\u2014but they're making significant strides in transforming the testing landscape with AI.\n\n### Trusted by Innovators\n\nStably is already being utilized by fast-growing companies, earning praise for reducing bugs and increasing user conversion rates. They\u2019ve made a name for themselves, with testimonials from CTOs and co-founders who value the assurance they get from using Stably, freeing up time to focus on building great products.\n\n### The Path Forward\n\nAs Stably continues to grow and evolve, it\u2019s positioned well to transform QA testing from a tedious process into a seamless, automated experience. Their approach is not just about catching bugs; it\u2019s about instilling confidence in product releases and improving overall user experiences.\n\n### Get Involved\n\nIf you're ready to stop treating your customers as beta testers and want to see how Stably can enhance your development process, head over to [Stably's website](https://www.stably.ai) and set up your first test in under five minutes.\n\nIn a world where speed and quality are paramount, Stably is carving out its niche and changing the way we think about software testing.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/52b289cda39fa34a49403bf6acaaf347dd98225d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191946Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=26d9bed79b4cba549adcd6118300c498d14ce5d8ce65e6d28880f31983ac0acc",
+    "social_links": [
+        "https://www.linkedin.com/company/90996500",
+        "https://x.com/stablyhq"
+    ],
+    "logo_path": "data/logos\\Stably_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/rada",
+    "name": "Rada",
+    "headline": "Insurance calls automation for healthcare clinics.",
+    "batch": "W25",
+    "description": "Rada automates insurance calls for healthcare providers. Our AI voice agents navigate IVR menus and conversationally speaks to insurers about patient eligibility, pre-auths, and billing statuses.",
+    "activity_status": "Active",
+    "website": "https://tryrada.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:healthcare; industry:health-insurance; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Patrick Foster, Founder",
+            "description": "Co-Founder at Rada. I've worked on Netflix's Machine Learning Platform and at GoDaddy, where my checkout page optimizations increased their annual revenue by $1.8M. Techstars hired me in high school to build financial models for startups.",
+            "linkedin": "https://linkedin.com/in/patrickrfoster"
+        },
+        {
+            "name": "Gautam Sharda, Founder",
+            "description": "Co-Founder at Rada. Previously worked on Google Gemini Code Assist where I built an agent benchmarking library and improved performance on various evals (SWE-Bench, HumanEval, etc). Won employee of the month at my mom's dental clinic.",
+            "linkedin": "https://linkedin.com/in/gautam-sharda"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Rada: Automating Insurance Calls for Healthcare\n\n#### Company Overview\nFounded in 2024 and part of Y Combinator's Winter '25 batch, Rada is a San Francisco-based startup focused on revolutionizing the way healthcare providers interact with insurance companies. The small but mighty team of two is on a mission to reduce the burden of insurance calls that typically bog down doctors and their staff.\n\n#### What They Do\nRada's innovative AI voice agents handle the tedious task of making insurance calls. Forget waiting on hold or navigating complex phone menus\u2014Rada's technology takes care of it all. These AI agents are specifically designed to:\n- **Verify patient eligibility**\n- **Assist with prior authorizations**\n- **Check billing statuses**\n\nWith Rada, healthcare providers can simply dictate who to call and why, letting the AI manage the call from start to finish.\n\n#### How It Works\n1. **Integrate Your Practice**: Setting up with Rada is quick and straightforward. Providers can configure their practice details and connect it to their Practice Management System (PMS).\n2. **Make Calls**: Providers can instruct the AI to initiate a call to any insurance company. The AI navigates IVR systems and converses with agents, gathering the needed information.\n3. **Review Interactions**: Users can monitor calls live or access detailed transcriptions later, ensuring transparency and oversight.\n\nRada aims to automate eligibility verifications, claims follow-ups, and more, allowing healthcare professionals to reclaim valuable time otherwise wasted on hold.\n\n#### Security and Compliance\nData security is paramount for Rada. They adhere to HIPAA regulations and employ top-tier encryption methods, ensuring that sensitive information remains confidential.\n\n#### Why It Matters\nIn the fast-paced world of healthcare, time is money\u2014and Rada is all about saving both. By eliminating the hassle of insurance calls, they empower healthcare providers to focus on what truly matters: patient care. \n\nIf you\u2019re tired of spending hours on the phone with insurance companies, Rada could be your solution. \n\nFor more information or to schedule a demo, visit their website at [tryrada.com](https://tryrada.com).\n\n### Conclusion\nRada is poised to make a significant impact not only in the healthcare space but also in the broader landscape of AI-driven customer service. With their sharp focus on automation and efficiency, they\u2019re addressing a common pain point for healthcare providers\u2014and they\u2019re just getting started.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e874c91e70b00e132b5964905bc402b8e4aaca43.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191703Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6df6d43109fcea92d4e1fb00b94343fa8cdd258bc6baacb0e266277f279b0375",
+    "social_links": [
+        "https://www.linkedin.com/company/radahealth"
+    ],
+    "logo_path": "data/logos\\Rada_logo.png"
+}

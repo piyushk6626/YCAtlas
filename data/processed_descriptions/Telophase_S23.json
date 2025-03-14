@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/telophase",
+    "name": "Telophase",
+    "headline": "Reach vulnerability inbox-zero",
+    "batch": "S23",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://telophase.dev",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:infrastructure; location:new-york",
+    "founders": [
+        {
+            "name": "Ethan Blackburn, Founder",
+            "description": "Excited about developer tools/infrastructure and AI. Always down for a hike :)",
+            "linkedin": "https://linkedin.com/in/ethanblackburn"
+        },
+        {
+            "name": "Daniel Schofield, Founder",
+            "description": "Talk to me about Vulnerability Management",
+            "linkedin": "https://www.linkedin.com/in/daniel-sss/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Telophase** is a burgeoning tech startup founded in 2023, and it\u2019s already making waves in vulnerability management. Headquartered in New York and part of Y Combinator\u2019s Batch S23, Telophase is on a mission to help organizations achieve \"inbox-zero\" when it comes to vulnerability management.\n\nTheir approach is compelling: improving remediation times by an impressive 90%. With a lean team of just two, led by Group Partner Dalton Caldwell, they\u2019re focused on delivering developer tools that streamline security processes for businesses.\n\nOn their website, [telophase.dev](https://telophase.dev), Telophase lays out a suite of features that amplify the effectiveness of vulnerability management. This includes:\n\n- **Intelligent Ticketing:** Their platform pulls findings from various scanners, filters vulnerabilities, assigns them to the correct owner, and integrates seamlessly with systems like Jira, GitHub, and ServiceNow. Custom rules for ticket routing enhance efficiency.\n\n- **A Single Source of Truth for Security:** Aggregating data from all security tools, they help teams create comprehensive reports and dashboards while alerting them to compliance gaps.\n\n- **Streamlined Risk Exceptions:** Their system allows for rapid creation of risk exceptions for numerous vulnerabilities, significantly cutting down the review time for governance, risk, and compliance (GRC) teams.\n\n- **Flexible Deployment Options:** Whether organizations prefer a hosted solution or on-prem installations, Telophase caters to both preferences, ensuring a smooth integration with existing systems.\n\n- **Automation Suite:** Telophase boasts an automation suite that supports multiple security scanners (think Tenable, Wiz, AWS Security Hub, and more), aiding in the creation of POAMs (Plans of Action & Milestones) without unnecessary manual work.\n\nThis startup isn't just another player in the crowded B2B landscape; it's innovating the infrastructure around vulnerability management in a way that's accessible and efficient for engineering teams. As they gear up for broader implementation, it\u2019ll be interesting to see how they revolutionize security management for their clients in the coming years. \n\nIf you\u2019re curious or interested in their offerings, you can **[book a demo](https://telophase.dev/contact-page)** to see their solutions in action.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a8c8b71e9e40f6dc8d4d8309cc8e6194bfb7c8c3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192009Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7803e2c4a9f0e1ddf3f568ad30dae990fab4fc8b040e9448c742c87959e8c352",
+    "social_links": [],
+    "logo_path": "data/logos\\Telophase_logo.png"
+}

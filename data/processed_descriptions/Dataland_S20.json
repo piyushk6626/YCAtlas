@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/dataland",
+    "name": "Dataland",
+    "headline": "The fastest database viewer ever built.",
+    "batch": "S20",
+    "description": "Dataland is a high-performance data tool that's specifically designed for non-technical frontline teams. Dataland unifies data from across the business and allows frontline teams to Search, Analyze, and Ask AI to quickly get the answers they need, without needing to juggle multiple tools. Frontline teams - working in customer support, sales, fulfillment, operations, and logistics - get data workflows done 10x faster by using a single integrated tool that's designed to be fast and easy to use.",
+    "activity_status": "Active",
+    "website": "https://dataland.io",
+    "founded_date": 2020.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:data-engineering; industry:data-visualization; location:new-york",
+    "founders": [
+        {
+            "name": "Arthur Wu, Founder",
+            "description": "Now building dataland.io. Previously led product teams at Palantir, and operations at Oishii.",
+            "linkedin": "https://www.linkedin.com/in/arthurwu1/"
+        },
+        {
+            "name": "Howard Zuo, Co-Founder",
+            "description": "Building Dataland, a high-performance data tool for frontline teams.",
+            "linkedin": "https://www.linkedin.com/in/howard-zuo-23437258"
+        }
+    ],
+    "status": true,
+    "generated_description": "Dataland is a New York-based startup founded in 2020 and part of Y Combinator Batch S20. Their mission is ambitious yet straightforward: to create the fastest database viewer ever. This high-performance data tool is designed especially for non-technical frontline teams, enabling them to unify and access data from across the business efficiently.\n\nThe essence of Dataland lies in simplifying workflows for customer support, sales, fulfillment, operations, and logistics teams. With Dataland, these teams can search, analyze, and leverage AI to find answers quickly, without the hassle of managing multiple tools. In fact, users report that they can accomplish their data workflows up to ten times faster using Dataland.\n\nThe company has a small but dedicated team of two employees, and one of its prominent supporters is Gustaf Alstromer, a Group Partner at Y Combinator. Dataland specializes in several key areas tagged as artificial intelligence, B2B solutions, data engineering, and data visualization.\n\nWhen it comes to AI capabilities, Dataland stands out by offering deeply integrated AI agents for customer support. These agents not only auto-resolve issues with deep context but also integrate seamlessly with existing helpdesk solutions, providing an omnichannel experience for users.\n\nTestimonials from customers highlight how Dataland has transformed their operations. For instance, some support teams have seen their case handling speed quadruple, while others have dramatically reduced their reliance on analysts for real-time data needs.\n\nIn terms of security and governance, Dataland doesn't cut corners. It features role-based access controls, row-level security, and is SOC 2 Type II certified, meaning their processes undergo continuous audits for compliance.\n\nOverall, Dataland is not just about speed but about enabling teams to take control of their data and automate their workflows efficiently. To explore what they offer, you can visit their website at [Dataland.io](https://dataland.io) and book a demo to see the tool in action.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0964603d1ee8743d3fb55c2443b805d5a359464a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f409cf2326726dd65adaa7e82bea90b45ee18f563c2d8fb0277d2225eda541b0",
+    "social_links": [
+        "https://www.linkedin.com/company/datalandio"
+    ],
+    "logo_path": "data/logos\\Dataland_logo.png"
+}

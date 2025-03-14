@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/subtrace",
+    "name": "Subtrace",
+    "headline": "Resolve production issues in minutes, not months",
+    "batch": "W25",
+    "description": "Subtrace is Wireshark for containers. It lets developers resolve production issues faster making it easy to track all backend requests coming in and going out of their backend server.",
+    "activity_status": "Active",
+    "website": "https://subtrace.dev",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Adhityaa Chandrasekar, Founder",
+            "description": "Co-founder and CEO of Subtrace. Previously worked at Google as a software engineer on the Kubernetes scheduler and built GKE's monitoring stack. Computer Science @ UWaterloo. Engineering Physics @ IIT Madras.",
+            "linkedin": "https://linkedin.com/in/adtac"
+        },
+        {
+            "name": "Sachin Sridhar, Founder",
+            "description": "Cofounder and CTO at Subtrace. Previously a software engineer at Microsoft, where I worked on Power BI/Microsoft Fabric. Studied computer science at IIT Madras.",
+            "linkedin": "https://linkedin.com/in/sachin-sridhar"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Subtrace**\n\nFounded in 2024 as part of Y Combinator's Winter 2025 batch, Subtrace is a San Francisco-based startup on a mission to tackle production issues in mere minutes, rather than the months it often takes traditional solutions. The company aims to simplify the debugging process for developers working with containerized applications by functioning as \"Wireshark for containers.\" \n\n### What Does Subtrace Do?\n\nSubtrace provides tools that allow developers to quickly track the flow of backend requests entering and exiting their servers. With Subtrace, debugging is as straightforward as executing a single command, enabling teams to identify and resolve issues efficiently. Their technology supports a variety of programming languages, including Node.js, Python, Go, Java, PHP, Rust, and Ruby. Moreover, it's designed to work seamlessly with popular platforms such as Docker, Kubernetes, and cloud services like AWS, Azure, and Google Cloud.\n\n### Key Features and Value Proposition:\n- **User-Friendly Debugging:** With a simple interface, developers can visualize incoming and outgoing requests effectively, speeding up the troubleshooting process.\n- **Automatic Instrumentation:** There\u2019s no need for complex code changes, which means your codebase stays clean while still gaining powerful insights.\n- **Fast and Predictable Pricing:** Subtrace offers flat pricing that\u2019s easy to understand\u2014no unexpected costs.\n- **Open Source:** The tools are always open source, promoting transparency and flexibility without vendor lock-in.\n- **Backed by Y Combinator:** Their affiliation with Y Combinator adds credibility and a strong support network.\n\n### Team and Leadership\nSubtrace currently operates with a small but agile team of two, supported by Brad Flora as their Group Partner at Y Combinator. \n\n### Engage With Subtrace\nYou can check them out at their website: [subtrace.dev](https://subtrace.dev). For developers and teams interested in testing the product, Subtrace offers a free plan, with no credit card required. \n\nWhether you're looking to enhance your debugging processes or simply streamline your development lifecycle, Subtrace might just be the tool to help you resolve issues faster and more effectively. \n\n### Summary\nIn a world where time is of the essence, Subtrace is redefining the debugging experience for developers. It\u2019s a prime example of how a small, focused team can create a significant impact in the developer tools landscape. If you\u2019re working with containerized applications, it\u2019s worth exploring what they have to offer.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4b47164567d2193daf77b9621c10b8844899d538.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191955Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d83a067146be863f8d421bb031e5b671eb81e776410fece1f3707237539a142c",
+    "social_links": [
+        "https://www.linkedin.com/company/subtrace",
+        "https://x.com/subtrace_dev",
+        "https://github.com/subtrace/subtrace"
+    ],
+    "logo_path": "data/logos\\Subtrace_logo.png"
+}

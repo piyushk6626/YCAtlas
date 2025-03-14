@@ -1,0 +1,37 @@
+{
+    "Links": "https://www.ycombinator.com/companies/maive",
+    "Name": "Maive",
+    "Headline": "AI-native factory operations platform",
+    "Batch": "W25",
+    "Description": "Maive automates aerospace compliance paperwork required on the manufacturing shop floor. We use cameras and AI to automatically fill federally-required paperwork, reducing the risk of companies being unable to sell their products and increasing factory throughput.\r\n\nUsers have told us the paperwork required for the F-35 fighter jet weighs more than the jet itself! The government requires a record for each of the 1.5 million parts in the jet, including what shop-floor workers do to each part and when they do it.\r\n\nAutomating paperwork by interpreting human actions with cameras is hard. Doing this at the edge and inside secure aerospace environments is harder. We fine-tune the latest vision language models to solve what was previously impossible.\r\n\nManufacturers lose millions when compliance paperwork has errors because it can freeze their ability to sell the product for months. Leaving this task to shop floor workers is both incredibly risky to the company and tedious for the employees. \r\n\nCompliance paperwork is just the beginning. We want to propel American manufacturing into the AI era. America is facing a serious problem: there\u2019s $400B being invested to onshore manufacturing, but there\u2019s simultaneously a projected 15% gap in workers needed due to an aging workforce. We\u2019re on a mission to solve this by building the first AI native software for the shop floor. Our vision is to intelligently connect people, robots, and data to 10x today\u2019s manufacturing capacity.",
+    "Activity_Status": "Active",
+    "Website": "https://maive.ai",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/aaron-epstein",
+    "Group_Partner": "Aaron Epstein",
+    "Company_Linkedin": "https://www.linkedin.com/company/maive-ai/",
+    "Company_Twitter": "",
+    "Tags": "industry:artificial-intelligence; industry:warehouse-management-tech; industry:computer-vision; industry:compliance; industry:aerospace; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/maive-ai/",
+        "https://x.com/maive_ai",
+        "https://github.com/maive-ai"
+    ],
+    "logo_path": "data\\logos\\Maive.png",
+    "Active_Founders": [
+        {
+            "Name": "Will Cray, Founder",
+            "Description": "Will is the co-founder and CTO of Maive.\n\nPreviously, Will was the Machine Learning and Computer Vision tech lead at Dexterity, a unicorn robotics company. Before Dexterity, Will founded his own computer vision and machine learning startup while pursuing a Master\u2019s in Machine Learning at UT Austin. He started his career at Intel as a software engineer on their autonomous driving platform.\n\nAt 13, Will founded a business repairing broken Xbox 360\u2019s and selling them on eBay.",
+            "LinkedIn": "https://www.linkedin.com/in/willcray/"
+        },
+        {
+            "Name": "David Tondreau, Founder",
+            "Description": "David is the co-founder and CEO of Maive.\n\nHe started his career as a manufacturing engineer at Rolls-Royce where he once uncovered quality issues due to missing paperwork that stopped production for a week. After obtaining a Masters in Engineering from UC Berkeley, David spent five years at Dexterity AI, a unicorn robotics startup. He began as a software engineer and ended as a senior manager leading product engineering.\n\nDavid holds 15 patents spanning robotics and aerospace engineering.",
+            "LinkedIn": "https://www.linkedin.com/in/david-tondreau/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Maive: Revolutionizing Manufacturing with AI**\n\nFounded in 2025 and hailing from Y Combinator's Batch W25, Maive is on a mission to make factory operations as seamless as possible, especially in the complex world of aerospace manufacturing. Its innovative AI-native platform is designed to automate the mountains of compliance paperwork that can bog down production and distract skilled workers.\n\nImagine that the paperwork for an F-35 fighter jet weighs more than the jet itself. That's how extensive the documentation is for each of the 1.5 million parts that make up this machine. With strict government regulations, any mistakes can lead to costly delays\u2014sometimes months where a product can't be sold. Maive seeks to change that by utilizing cutting-edge cameras and AI to capture each step on the shop floor, automatically generating the necessary compliance documentation with precision.\n\nThe beauty of Maive's approach is in its complexity handled effortlessly. By fine-tuning the latest vision language models, they solve problems that once seemed insurmountable, especially in secure aerospace environments. The aim? To reduce the manual labor involved in paperwork, which is not only tedious but also prone to human error.\n\nBut Maive isn\u2019t just fixing compliance\u2014it aims to transform American manufacturing as a whole. With $400 billion earmarked for onshoring manufacturing and a looming 15% gap in labor force due to an aging workforce, they\u2019re stepping up to the plate. Their goal is ambitious: to 10x today\u2019s manufacturing capacity by smartly connecting people, robots, and data.\n\nHere\u2019s what the Maive platform offers:\n- **Visual Process Understanding**: Captures and analyzes processes in real-time, identifying key steps and tools used.\n- **Automated Compliance Paperwork**: Reduces the tedious documentation process to mere observation, saving time and eliminating errors.\n- **Video Traceability**: Enables quality inspectors to verify paperwork correctness through video evidence, simplifying audits.\n\nWhile they currently operate with a compact team of just two in San Francisco, the potential impact of their AI-native manufacturing execution system (MES) could reshape industries\u2014from aerospace to any sector burdened by compliance overhead.\n\nIn summary, Maive is not just about reducing paper; it\u2019s about propelling the entire manufacturing landscape into the AI era. And with their innovative solutions, they are poised to tackle the challenges of modern manufacturing head-on. For more, visit [maive.ai](https://maive.ai)."
+}

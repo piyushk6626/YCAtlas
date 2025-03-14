@@ -1,0 +1,46 @@
+{
+    "links": "https://www.ycombinator.com/companies/leadgenius",
+    "name": "LeadGenius",
+    "headline": "LeadGenius is an account-based marketing and lead generation\u00e2\u0080\u00a6",
+    "batch": "S11",
+    "description": "LeadGenius is the most efficient way to equip sales and marketing teams with custom B2B lead data at scale. Our data experts conduct ongoing research to automatically supply teams with accurate contact information and hard-to-acquire data points for your most valuable buyer personas.\r\n\nBy combining a remote global workforce, custom data, and machine learning, LeadGenius delivers the highest lead generation value in the marketplace.",
+    "activity_status": "Active",
+    "website": "http://leadgenius.com",
+    "founded_date": null,
+    "team_size": 50.0,
+    "location": "Berkeley, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:sales; industry:marketing; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Prayag Narula",
+            "description": "I am the co-founder and ex-CEO of LeadGenius. We use a combination of technology and crowd to give your sales and marketing team best insights into your target accounts.  I",
+            "linkedin": "https://linkedin.com/in/prayagnarula/"
+        },
+        {
+            "name": "Philipp Gutheim",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/gutheim"
+        },
+        {
+            "name": "Anand Kulkarni",
+            "description": null,
+            "linkedin": "https://linkedin.com/in/anandpkulkarni/"
+        },
+        {
+            "name": "Dave Rolnitzky",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/rolnitzky/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### LeadGenius: Precision Data at Scale\n\nLeadGenius is a company focused on account-based marketing and lead generation, effectively bridging the gap between sales and marketing teams and their ideal customers. Founded in Berkeley, CA, and part of Y Combinator Batch S11, the company has grown to a team of about 50 employees. While the exact founding year isn't provided, its evolution from a simple lead generator to an advanced platform illustrates the dynamic nature of the B2B landscape.\n\n**Mission & Approach:**\nAt its core, LeadGenius aims to equip its clients with highly specific and verified B2B lead data tailored to their unique business needs. By employing a unique blend of a remote global workforce, custom data sourcing, and advanced machine learning, they offer unparalleled lead generation services. This combination allows for the acquisition of hard-to-find data points that are instrumental for companies looking to connect with their most valuable buyer personas.\n\n**Key Features and Offerings:**\n1. **Precision Data:** LeadGenius champions the idea that generic, one-size-fits-all data simply doesn't cut it anymore. Customers get access to precision data that is highly specific and relevant to their business.\n   \n2. **Custom Insights:** Users can benefit from over 110 unique insights on individual contacts and companies, enabling personalized engagement strategies to gain a competitive edge.\n\n3. **On-Demand Access:** Rather than relying on a static database, the platform offers custom-sourced data that adapts to the particularities of a user\u2019s business requirements.\n\n4. **Global Reach:** With compliance in mind, LeadGenius provides global contact intelligence, ensuring data is sourced appropriately across regions and adheres to regulations like GDPR.\n\n5. **Integration with Tools:** The platform integrates smoothly with popular sales and marketing tools, making it a versatile addition to any business\u2019s tech stack.\n\n**Client Success Stories:**\nLeadGenius has shown measurable success for notable clients, such as:\n- **Snowflake:** Achieved 85% full coverage of account data within six months and doubled their customer base across major regions.\n- **Amazon Marketplace LATAM:** Precision targeting enhanced growth by fostering connections with a broader range of sellers.\n- **Salesforce:** Streamlined their research process, saving significant staff time and enhancing data accuracy.\n\n**Why LeadGenius?**\nIn a marketplace inundated with generic solutions, LeadGenius distinguishes itself with a methodology that mixes precision with scale. Whether it\u2019s finding the perfect small or medium-sized business leads or tracking decision-makers across the globe, their platform is designed for companies that understand the importance of personalized and specific customer relationships.\n\nLeadGenius isn\u2019t just another data provider; it\u2019s a strategic partner for businesses committed to elevating their go-to-market strategies with superior insights. For anyone looking to make smarter, more informed decisions in their sales or marketing efforts, taking a closer look at LeadGenius is certainly worth it. \n\n**Explore more at:** [LeadGenius Website](http://leadgenius.com)",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.crunchbase.com/organization/mobileworks",
+        "https://github.com/MobileWorks"
+    ]
+}

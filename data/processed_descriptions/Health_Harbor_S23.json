@@ -1,0 +1,35 @@
+{
+    "links": "https://www.ycombinator.com/companies/health-harbor",
+    "name": "Health Harbor",
+    "headline": "Using generative AI to call insurance for healthcare clinics",
+    "batch": "S23",
+    "description": "We use generative AI to call insurance on behalf of healthcare clinics. We save clinics up to 40 hours of calls every week over existing outsourced human solutions. \r\n\nCompared to the existing solutions for benefits verifications: \r\n- We're faster -- by default, we have a turnaround of 24 hours compared to typically a 3 day turnaround for competitors\r\n- We can reach more payors -- as long as they have a phone line, we can support calling them for benefits. There's quite a few payors in both medical and dental (e.g. Seledent) that have yet to offer a digital retrieval of benefits\r\n- We're reliable and consistent -- there is no person-to-person variation or question skipping when it comes to working with software",
+    "activity_status": "Active",
+    "website": "https://healthharbor.co/",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:healthcare-it; industry:billing; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alan Liu, CEO/Founder",
+            "description": "Alan is the CEO and co-founder of Health Harbor. As a technical CEO, He has five years of previous software experience in AI at Meta and Nuro. While building a hearing aid for himself at Yale, his experiences with medical insurance shaped his conviction to improve the billing process for doctors and patients. Outside of Health Harbor, Alan is an aspiring sushi chef.",
+            "linkedin": "https://www.linkedin.com/in/alanliu96"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Health Harbor**\n\nHealth Harbor is a forward-thinking startup founded in 2023 and based in San Francisco. Currently part of Y Combinator\u2019s Summer 2023 batch, the company aims to revolutionize the healthcare industry through innovative use of generative AI. They focus specifically on alleviating one of the most tedious processes in healthcare administration: dealing with insurance verification calls. \n\n**Mission**\n\nTheir mission is straightforward yet impactful: *Using generative AI to handle insurance calls for healthcare clinics,* effectively saving these clinics up to 40 hours weekly compared to traditional outsourcing methods.\n\n**Key Benefits** \n\nHealth Harbor is not just faster; it\u2019s a whole lot more efficient. Here\u2019s how they stack up against the competition:\n\n1. **Speed**: They offer a turnaround time of 24 hours for benefit verifications, as opposed to the typical 3-day wait from other providers.\n2. **Coverage**: Their AI can call any payor with a phone line, including many that still don't have digital options for retrieving benefits information.\n3. **Reliability**: Unlike human operators, their AI ensures consistency, eliminating the variability that comes with different human interactions.\n\n**Service Offerings**\n\nHealth Harbor specializes in three key services:\n- **Benefit Verifications**: They check patient coverage for specific procedures and services\u2014often the information is not clear on insurers\u2019 websites.\n- **Prior Authorizations**: They assist in navigating prior auth requirements, submitting requests, and follow-ups.\n- **Claim Follow-Up**: They track the status of claims, including why a claim might have been denied.\n\nWith their AI capabilities, clinics can expect automated calls to handle these tasks, which helps staff focus on higher-value activities.\n\n**Key Metrics and Market Position**\n\n- They\u2019re reported to be **over 50% cheaper** than traditional call center outsourcing.\n- **90% accuracy** in fully automated results, thanks to advanced AI systems.\n- They can handle **3,000+ automated calls daily**, expanding their coverage and capabilities continuously.\n\n**Team and Support**\n\nThe company operates with a compact team of four, led by their group partner, Nan. This lean structure allows them to remain agile while developing their cutting-edge technology.\n\n**User Experience**\n\nHealth Harbor provides a smooth experience for clinics, returning verification results quickly (typically within a day) and providing comprehensive follow-up data, including transcripts and recordings of calls.\n\n**Conclusion**\n\nIn a world where healthcare providers are often bogged down by administrative tasks, Health Harbor stands out as a beacon of innovation. Their generative AI not only enhances efficiency but also empowers healthcare teams to devote their precious time to what truly matters: patient care. \n\nIf you're looking to optimize insurance call processes and boost operational efficiency in healthcare, Health Harbor comes highly recommended. Visit their website at [Health Harbor](https://healthharbor.co/) for more information and to book a discovery call.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c5c3b279e5837eb02fced604aea4c22ad2286116.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191414Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0a3825f184152df54244dfbcecba70002e8b5eb7e807483ab5ff012cddf0a07e",
+    "social_links": [
+        "https://www.linkedin.com/company/health-harbor",
+        "https://twitter.com/healthharbor_us",
+        "https://www.facebook.com/profile.php?id=100095138463726",
+        "https://www.crunchbase.com/organization/health-harbor",
+        "https://github.com/Health-Harbor"
+    ],
+    "logo_path": "data/logos\\Health_Harbor_logo.png"
+}

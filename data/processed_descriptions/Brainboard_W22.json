@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/brainboard",
+    "name": "Brainboard",
+    "headline": "Visually design and manage cloud infrastructures.",
+    "batch": "W22",
+    "description": "Brainboard is a collaborative and end-to-end solution for engineers to visually design & manage their Cloud infrastructures.\r\nWe allow companies to lower the learning curve while moving to IaC, build a self serve model, have a service catalog to not reinvent the wheel.\r\n\nBoth technical profiles with 25+ years of combined expertise and after working together at a major French Cloud provider, Chafik and Jeremy launched Brainboard in 2020.",
+    "activity_status": "Active",
+    "website": "https://www.brainboard.co",
+    "founded_date": 2020.0,
+    "team_size": 12.0,
+    "location": "New York",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:devops; industry:cloud-computing; industry:infrastructure; location:new-york",
+    "founders": [
+        {
+            "name": "Chafik Belhaoues, Founder",
+            "description": "- Engineer with 17 years of experience on infrastructures (SRE, cloud architect, then software developer)\n- Former CTO of Scaleway (french cloud provider)\n- CEO at Brainboard.co",
+            "linkedin": "https://www.linkedin.com/in/chafik-belhaoues-%E2%98%81-4145b320/"
+        },
+        {
+            "name": "Jeremy Albinet, Founder",
+            "description": "- 10 years designing Cloud architectures and building infrastructures\n- co-founder of Brainboard\n- former SRE @Scaleway",
+            "linkedin": "https://www.linkedin.com/in/jeremy-albinet/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Brainboard**\n\nBrainboard is a New York-based startup that launched in 2020, founded by Chafik and Jeremy, two engineers with over 25 years of combined experience in cloud infrastructure. Their goal? Simplifying the management of cloud environments. As part of Y Combinator's W22 batch, Brainboard is creating a niche in the developer tools and DevOps space with its innovative approach.\n\n---\n\n**Mission**\n\nAt its core, Brainboard aims to provide a platform that allows engineers to visually design and manage their cloud infrastructures. They focus on making the shift to Infrastructure as Code (IaC) seamless, lowering the learning curve, and promoting a self-service model for businesses. No more starting from scratch; you have a service catalog to build from.\n\n---\n\n**What They Offer**\n\nBrainboard offers a collaborative, end-to-end solution for handling cloud infrastructure needs. Here are the main features and use cases they're tackling:\n\n- **Self-Serve Model**: Empower teams to set up and manage resources independently.\n- **Shift to IaC**: Facilitate the transition to Infrastructure as Code, allowing automatic generation of Terraform code as you design.\n- **Lower Learning Curve**: Simplified interfaces that make cloud management approachable for everyone.\n- **Standardize IaC**: Create a framework that ensures consistency across different cloud environments.\n\nTheir platform boasts functionalities like a **smart cloud designer**, **GitOps workflow**, **drift detection**, and **synchronized architectures**. The idea is straightforward: manage complex infrastructures without the complexity.\n\n---\n\n**Team and Location**\n\nBrainboard operates with a growing team of 12 employees, primarily based out of New York. They are backed by industry veterans and resources from several significant partners, including features associated with AWS, Azure, and GCP.\n\n---\n\n**Why Brainboard Stands Out**\n\nWhat sets Brainboard apart is its integration of visual design with the power of code. Imagine being able to sketch out your infrastructure and have the corresponding Terraform code generated instantly. This capability not only speeds up the design process but enhances collaboration across teams, as everyone can contribute without getting lost in technical details.\n\nFurthermore, Brainboard is committed to providing robust security measures through its remote backend solutions, versioning, and role-based access control (RBAC). They understand the importance of securing sensitive data while streamlining team access.\n\n---\n\n**Conclusion**\n\nIn a cloud landscape that\u2019s increasingly complex, Brainboard emerges as a breath of fresh air. With a platform that\u2019s user-friendly yet powerful, it\u2019s set to revolutionize how companies approach cloud infrastructure. Whether you're a seasoned DevOps engineer or a novice entering the field, Brainboard offers a visual and accessible way to manage the clouds.\n\nFor more details, check out their website: [Brainboard](https://www.brainboard.co).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9490d46f9a4de766d32bf28e001f8d92638d9a7f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191031Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9ff107b48af108cad8f425dbdf462fb4e3f43029e1b1accd0c99ae65869d0a8c",
+    "social_links": [
+        "https://www.linkedin.com/company/brainboard-co",
+        "https://twitter.com/brainboard_co",
+        "https://www.crunchbase.com/organization/brainboard",
+        "https://github.com/brainboard"
+    ],
+    "logo_path": "data/logos\\Brainboard_logo.png"
+}

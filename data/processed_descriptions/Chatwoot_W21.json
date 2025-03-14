@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/chatwoot",
+    "name": "Chatwoot",
+    "headline": "Open-source customer engagement suite, alternative to Intercom",
+    "batch": "W21",
+    "description": "Chatwoot is an open-source omnichannel customer engagement suite built as an alternative to Intercom, Zendesk etc. Chatwoot helps you to connect email, website live chat, social media handles, WhatsApp etc. and manage all your customer interactions from one place.",
+    "activity_status": "Active",
+    "website": "https://www.chatwoot.com",
+    "founded_date": 2020.0,
+    "team_size": 8.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:customer-success; industry:open-source; industry:customer-service; industry:customer-support; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Pranav Raj Sreepuram, Founder",
+            "description": "CEO, Chatwoot",
+            "linkedin": "https://www.linkedin.com/in/pranavrajs/"
+        },
+        {
+            "name": "Sojan Jose, Founder",
+            "description": "CTO, Chatwoot | Co-founder Marketfox ( YC W17)",
+            "linkedin": "https://in.linkedin.com/in/sojanofficial"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Chatwoot: Your Open-Source Customer Engagement Suite**\n\nFounded in 2020 and based in San Francisco, Chatwoot emerged from Y Combinator's Batch W21 as an open-source alternative to proprietary customer engagement platforms like Intercom and Zendesk. Their mission? To simplify customer interactions across multiple communication channels\u2014think email, live chats, social media, and more\u2014all from a single dashboard.\n\n### Key Features\nChatwoot is designed for both small and large organizations, boasting an impressive toolkit that enhances customer engagement:\n\n1. **Omnichannel Support**: Manage conversations seamlessly through various platforms\u2014email, website chat, Facebook, WhatsApp, and more.\n2. **Team Collaboration**: Use private notes and automated workflows to streamline communication among your team members.\n3. **Customize and Self-Host**: With Chatwoot's open-source nature, you can self-host the solution, giving you full control over your customer data\u2014a major plus for compliance with regulations like GDPR and HIPAA.\n4. **Automation**: Automate repetitive tasks, allowing your support agents to focus on what really matters: building relationships.\n5. **Analytics**: Monitor conversations and agent performance with auto-generated reports, helping you refine your strategy continuously.\n\n### Growing Community\nChatwoot has quickly garnered attention, with over 15,000 organizations around the globe relying on its services. With a lean team of just eight employees, they maintain a strong focus on user feedback and community contributions through platforms like GitHub.\n\n### Backing and Vision\nSupported by prominent investors like Y Combinator and Goat Capital, Chatwoot integrates modern technology with a strong ethos of customer-centricity. The vision here is simple: create delightful customer relationships at scale.\n\n### User Experiences\nUsers rave about Chatwoot's flexibility and efficacy. From startups seeking cost-effective solutions to larger organizations needing robust tools for customer engagement, Chatwoot offers a compelling case against more expensive alternatives.\n\n### Why Chatwoot?\nIn a world saturated with customer service platforms that weigh you down with costs and restrictions, Chatwoot stands out as a beacon of open-source potential. Whether you need to chat with customers on WhatsApp or resolve queries through live chat on your website, you can do it all without losing control over your data.\n\nSo, if you\u2019re looking for a tool that marries efficiency with flexibility, check out [Chatwoot](https://www.chatwoot.com). They\u2019re more than just another chat tool; they\u2019re revolutionizing how businesses engage with customers\u2014all while being friendly to your budget and privacy preferences.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7aa5e09cd75c52080956088c3b0a68b8746d407d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191048Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=eccd25e4bcdca5fe8218b6be585158a6646a9bf76e6f5deb79962cc8e0e8b4f8",
+    "social_links": [
+        "https://www.linkedin.com/company/chatwoot",
+        "https://twitter.com/chatwootapp",
+        "https://github.com/chatwoot"
+    ],
+    "logo_path": "data/logos\\Chatwoot_logo.png"
+}

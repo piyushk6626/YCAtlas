@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/formance",
+    "name": "Formance",
+    "headline": "Open Source Infrastructure for the Financial Internet",
+    "batch": "S21",
+    "description": "Formance Platform is building open-source infrastructure for the next wave of financial services. It enables fintech engineers to build and operate complex flow of funds, weaving together multiple payment rails with internal ledger accounts.\r\n\ngithub.com/formancehq/stack",
+    "activity_status": "Active",
+    "website": "https://formance.com",
+    "founded_date": 2021.0,
+    "team_size": 14.0,
+    "location": "Paris, France",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:fintech; industry:payments; industry:b2b; industry:open-source",
+    "founders": [
+        {
+            "name": "Cl\u00e9ment Sala\u00fcn, Founder",
+            "description": "Founder of Formance, making complex payments workflows work. Previously @Selency.",
+            "linkedin": "https://www.linkedin.com/in/clementsalaun"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Formance**\n\nFounded in 2021 and based in Paris, France, Formance aims to revolutionize the financial infrastructure landscape through open-source solutions. The brainchild of Y Combinator Batch S21, Formance primarily targets fintech engineers, providing them with the tools needed to build and operate intricate fund flow systems. By connecting various payment rails with internal ledger accounts, their platform embodies what they term the \"Financial Internet.\"\n\n### Mission\nAt its core, Formance's mission is clear: to create open-source infrastructure to support the next wave of financial services. This philosophy not only enhances flexibility but also promotes transparency and collaboration within the financial technology sector.\n\n### Team & Leadership\nThe company currently boasts a compact team of 14 dedicated employees, under the guidance of Group Partner Aaron Epstein. \n\n### Products & Services\nFormance offers modular and extensible financial backends that enable businesses to forge their own paths in handling financial operations. Key features include:\n- **Ledger**: A programmable financial ledger designed for scalable asset tracking with unlimited sub-ledgers.\n- **Connectors**: Extensive connectivity options allow seamless integration with various financial providers and payment processors, including popular names like Stripe and Adyen.\n- **Documentations and Resources**: Comprehensive resources are available for users, including extensive documentation to assist developers.\n\n### Recent Developments\nIn a significant boost to its growth plans, Formance recently secured $21 million in Series A funding, jointly led by PayPal Ventures and Portage Ventures. This funding is aimed at expanding its open-source financial infrastructure capabilities.\n\n### Customer Feedback\nFormance is endorsed by a range of clients, many of whom praise its customizable foundation for effectively managing their financial flows. Clients reported improved agility in launching new financial products and enhanced trust, illustrating the platform's impact on operational efficiency.\n\n### Security & Compliance\nUnderstanding the critical need for security in finance, Formance has achieved SOC 2 Type II certification and ISO 27001 certification. They offer both cloud and self-hosted options, ensuring robust security while maintaining transparency with open source accessibility.\n\n### Conclusion\nFormance stands out as a pivotal player in the fintech space, enabling companies to escape the limitations of legacy financial systems. Their innovative, open-source infrastructure offers the agility and customization necessary to thrive in today\u2019s digital marketplace. With a strong foundation and backing, the future appears bright for Formance as it leads the charge into a new era of financial services.\n\nFor more information, explore their [official website](https://formance.com) or [GitHub](https://github.com/formancehq/stack).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/26c565ef0571edfd1a53013886e26ab49052c0c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191348Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a2bd681149b4d31c80eb5f28afdb697990b3290b82a5ddf8c0242379629e9b06",
+    "social_links": [
+        "https://www.linkedin.com/company/formancehq",
+        "https://twitter.com/formancehq",
+        "https://github.com/formancehq"
+    ],
+    "logo_path": "data/logos\\Formance_logo.png"
+}

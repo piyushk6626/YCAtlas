@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/reworks",
+    "name": "reworks",
+    "headline": "Turn external software into APIs that don\u00e2\u0080\u0099t break",
+    "batch": "S24",
+    "description": "reworks is the fastest way for agentic AI companies to integrate with external software. Instead of spending weeks integrating with traditional API:s or writing custom scraping scripts, teams use reworks to build browser-based integrations that don't break.",
+    "activity_status": "Active",
+    "website": "https://www.reworks.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:saas; industry:api; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Melvin Hagberg, Founder and CEO",
+            "description": "Melvin is the CEO and co-founder of Reworks.\n\nAt a young age, Melvin fell in love with computers and ended up getting his first job as a software engineer at an European unicorn at the age of 14.\n\nWhile in high school, Melvin built and sold software integrations for $150K. After graduation, he served as the Head of Tech at a Stockholm-based e-commerce startup for 2 years, and studied at the top finance school in Northern Europe (SSE) before ultimately dropping out 3 months in to start Reworks.",
+            "linkedin": "https://www.linkedin.com/in/melvinhagberg/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Reworks**\n\n**Founded:** 2024  \n**Location:** San Francisco  \n**Team Size:** 2 employees  \n**Y Combinator Batch:** S24  \n**Group Partner:** Gustaf Alstromer  \n\nReworks has a clear and compelling mission: to turn external software into reliable APIs that won\u2019t break. In a world where integration hassles often derail projects, Reworks positions itself as the speedy solution for agentic AI companies looking to connect with legacy systems effortlessly.\n\n**What They Do**  \nReworks simplifies the often tedious task of integrating external software. Traditionally, companies would face weeks of challenges\u2014whether wrangling with traditional APIs or piecing together custom scraping scripts. With Reworks, teams can launch browser-based integrations in a fraction of that time (think 24 hours), which is a game-changer. \n\nTheir approach leverages intuitive recordings of user interactions with software, turning those interactions into dynamic workflows that operate as API endpoints. This means you can very quickly set up connections with various systems across finance, healthcare, order management, government, legal, HR, and payroll sectors without the usual headaches.\n\n**Key Features**  \n- **Rapid Integration:** Get your integrations up and running swiftly, often in less than 24 hours.\n- **Turn Recordings into API Workflows:** Record actions in any software, select the data to retrieve, and generate APIs with ease.\n- **Fully Managed Authentication:** Handle user credentials securely to run workflows on behalf of users.\n- **Worry-Free Maintenance:** Using advanced AI and computer vision, Reworks ensures that your integrations remain reliable, automatically fixing issues as they arise.\n\n**Tagline:** \"Integrate your AI with legacy software.\"  \n\n**Use Cases:**  \nReworks is versatile, catering to various industries. Whether you're pulling data from the latest ERPs, syncing patient records with EHR systems, or scraping government forms, Reworks can handle the heavy lifting.\n\nIn a nutshell, Reworks isn\u2019t just about making software talk to each other; it's about making that process seamless and dependable. Their fresh take on integration could be a crucial ally for AI companies aiming to expand their capabilities without the typical integration turmoil.\n\nFor more information or to schedule a demo, visit [Reworks](https://www.reworks.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/39cc1c243076d9876a95d93f08226d875b84e46f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191725Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5de15184268f32d54f42d89be37f9970e8fe7b2676025b1f59f8512f22667d5a",
+    "social_links": [
+        "https://www.linkedin.com/company/reworks-labs/"
+    ],
+    "logo_path": "data/logos\\reworks_logo.png"
+}

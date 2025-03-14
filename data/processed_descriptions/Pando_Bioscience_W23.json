@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/pando-bioscience",
+    "name": "Pando Bioscience",
+    "headline": "Gen-AI Designed Enzymes for Pharmaceutical Innovation",
+    "batch": "W23",
+    "description": "Pando is an AI-driven synthetic biology company revolutionizing enzyme engineering for the pharmaceutical industry. Our ultra-high-throughput screening platform screens 1000-fold more enzymes 75% faster and 80% cheaper than traditional methods. This empowers our generative AI to efficiently optimize enzymes across multiple properties, delivering high-performing, tailored enzymes that reduce costs and enhance efficiency.",
+    "activity_status": "Active",
+    "website": "https://pando.bio/",
+    "founded_date": 2022.0,
+    "team_size": 5.0,
+    "location": "Boston",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:synthetic-biology; industry:biotech; industry:diagnostics; location:boston",
+    "founders": [
+        {
+            "name": "Will Cao, Founder",
+            "description": "Will Cao is the co-founder and CEO of Pando Bioscience. During her Ph.D., Will changed her major from engineering machines to engineering bacteria (yes, making genetic modifications to bacteria, so they can produce things that they can't before). She has published first-author papers in Cell and Nature Biotechnology. In her spare time, she is a personal trainer and a kayak and scuba diving enthusiast.",
+            "linkedin": "https://www.linkedin.com/in/willcao/"
+        },
+        {
+            "name": "Yang Wang, Founder",
+            "description": "Yang is the co-founder and CTO of Pando Bioscience. Experienced in enzyme science, bioinformatics, machine learning, systems biology, genetics and high-throughput automation. Worked at Ginkgo Bioworks for three years and routinely discovered/designed enzymes with tens-to-thousands-fold improvements. Trained at Dana-Farber Cancer Institute and deeply studied the relationships between protein-protein interactions and human diseases.",
+            "linkedin": "https://www.linkedin.com/in/yang-wang-bioinfo"
+        }
+    ],
+    "status": true,
+    "generated_description": "Pando Bioscience is an exciting startup at the frontier of AI and synthetic biology, founded in 2022 and proudly part of Y Combinator\u2019s Batch W23. Based in Boston, this small but dynamic team of five is on a mission to revolutionize enzyme engineering for the pharmaceutical industry through generative AI.\n\nAt its core, Pando aims to tackle the age-old challenge of optimizing enzymes\u2014those natural catalysts that are vital in various biochemical processes. The company\u2019s ultra-high-throughput screening platform is a game changer, enabling the screening of 1,000 times more enzyme variants, doing so 75% faster and at 80% lower costs than traditional methods. This efficiency allows their generative AI to tailor enzymes with high performance across multiple properties, ultimately driving down costs for pharmaceutical manufacturing and diagnostics.\n\nWhy does this matter? Developing industrial-grade enzymes that strike a balance between stability, activity, and manufacturability is not just challenging; it\u2019s crucial for market growth in pharmaceuticals. Inefficient enzymes can lead to significant financial losses and missed opportunities. With Pando's technology, the labor-intensive and time-consuming process of enzyme optimization becomes streamlined, unlocking the full potential of enzymes to enhance productivity and profitability.\n\nPando offers a range of engineered enzymes for molecular biology applications and provides tailored enzyme solutions to help clients improve their processes and outcomes. The company is heavily invested in leveraging AI for iterative enzyme improvement, making it a standout player in the biotech landscape.\n\nIf you\u2019re curious about their work or looking for innovative solutions in enzyme design, check out their website at [pando.bio](https://pando.bio/) for more information. With generative AI, Pando Bioscience is not just riding the wave of biotechnology; they\u2019re setting new standards in enzyme engineering for the future.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e66f4a044c87b29aadbafcc45e6ef694f9008f88.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191621Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a5201bbd13422f47b81a24cdae328a0cc536cdf69e7d5c092cd0d622e5d18579",
+    "social_links": [
+        "https://www.linkedin.com/company/pando-bioscience"
+    ],
+    "logo_path": "data/logos\\Pando_Bioscience_logo.png"
+}

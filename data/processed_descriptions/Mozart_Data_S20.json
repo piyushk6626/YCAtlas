@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/mozart-data",
+    "name": "Mozart Data",
+    "headline": "The easiest way to set up a modern data stack",
+    "batch": "S20",
+    "description": "Mozart Data provides an out-of-the-box modern data stack that empowers anyone to easily consolidate, organize, and prepare their data for analysis. Spin up a data stack that\u2019s built on a best-in-class data warehouse and ETL tool in hours, without any engineering. You can finally spend more time on generating insights and less time wrangling your data.",
+    "activity_status": "Active",
+    "website": "http://www.mozartdata.com",
+    "founded_date": 2020.0,
+    "team_size": 24.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:data-engineering; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Peter Fishman, Founder",
+            "description": "Dan and I are working on data tools for SMBs, the types of modern data stacks that we've built at multiple high growth startups.  I've been running data and data-adjacent teams in the Valley for over a decade at startups from a variety of industries including gaming, social, HR/benefits, real estate, and cannabis.  Dan and I have been friends for 20 years and we previously co-founded a hot sauce company, Bacon Hot Sauce, 10 years ago selling hundreds of thousands of bottles.",
+            "linkedin": "http://www.linkedin.com/in/petefishman"
+        },
+        {
+            "name": "Dan Silberman, Founder",
+            "description": "I am a product-oriented software engineer, with a focus on UX, data-engineering and data science. I've founded and worked at numerous startups, from consumer to fintech to healthcare.",
+            "linkedin": "https://www.linkedin.com/in/dansilberman23/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Mozart Data**\n\nFounded in 2020 and a proud member of Y Combinator's Summer 2020 batch, Mozart Data is a SaaS company based in San Francisco. With a team of 24 talented professionals, it's on a mission to simplify data management for businesses at any size by providing a modern data stack that's easy to set up and use. Their goal? To become \"the easiest way to set up a modern data stack.\"\n\n**What They Do**\n\nMozart Data offers an out-of-the-box data platform that allows users to consolidate, organize, and prepare their data for analysis without needing any engineering resources. Imagine spinning up a complete data stack built on leading-edge tools like a robust data warehouse and an ETL solution in just hours. With Mozart, you trade in tedious data wrangling for insightful analysis.\n\nTheir suite of offerings is comprehensive:\n- **ETL (Extract, Transform, Load)**: Enabling automatic data integration from multiple sources.\n- **Data Centralization**: Storing scattered data in a unified cloud-based warehouse.\n- **Data Transformation**: Automating data preparation to ensure it\u2019s always ready for analysis.\n- **Cataloging and Organizing**: Keeping your data structured and easy to access.\n- **Data Lineage & Observability**: Understanding your data's journey and ensuring its reliability.\n- **Data Reliability & Validity**: Maintaining trust in the data being analyzed.\n\n**The Value Proposition**\n\nBy utilizing Mozart Data\u2019s platform, businesses can:\n- Set everything up in less than an hour.\n- democratize data access, empowering more team members to engage with data.\n- reduce time-to-insight by up to 76%.\n- save about 30% compared to traditional standalone data stacks.\n\n**Highlighting Customer Success**\n\nFeedback from clients underscores the effectiveness of Mozart Data. Users have reported dramatic improvements in analytics efficiency and quality. For instance, Daniel Erickson, CEO of Viable, highlighted how quickly their data was integrated, stating it could have taken weeks without Mozart.\n\n**Who They're For**\n\nTheir solutions cater to various industry roles, including data engineers, data analysts, finance teams, revenue operations, product teams, marketing, and operations. Essentially, if data plays a role in your business, Mozart Data is equipped to help you manage it more effectively.\n\n**Vision for the Future**\n\nWith data becoming an increasingly valuable asset, Mozart Data aims to empower companies, especially in the SMB space, to leverage their data for smarter decision-making. By utilizing sophisticated tools and features, they help businesses not just survive but thrive in a data-driven world.\n\n**Conclusion**\n\nAs the demand for data-driven insights accelerates, Mozart Data stands at the forefront, ready to simplify the complexities of data management. With their innovative platform, they enable businesses to focus less on technical hurdles and more on what truly matters: generating actionable insights. For more about their services, visit [Mozart Data\u2019s website](http://www.mozartdata.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bc3f6dcfcf9283fb099e5332f918be637b48e7e6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191549Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dccb42e818fc8f137f0cd152695147c9e8a81696fcfc2f4a7ad226dba9386abf",
+    "social_links": [
+        "https://www.linkedin.com/company/mozartdata/",
+        "https://www.twitter.com/MozartData",
+        "https://www.facebook.com/Mozart-Data-113166930331547"
+    ],
+    "logo_path": "data/logos\\Mozart_Data_logo.png"
+}

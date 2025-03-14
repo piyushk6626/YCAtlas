@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/infracost",
+    "name": "Infracost",
+    "headline": "Shift FinOps Left: tell engineers how much code changes will cost\u00e2\u0080\u00a6",
+    "batch": "W21",
+    "description": "Infracost shifts cloud costs left and makes FinOps proactive. It sits in the engineering workflow (CI/CD), and shows the cost impact of code changes (IaC) before the code is shipped to production. This catches costly mistakes before any money has been spent. It also checks to make sure all resources are tagged with your set tagging policy, and runs checks on the code against our FinOps policy packs, ensuring best practices are followed (e.g. GP2 volumes should be GP3).\r\n\nThis creates a cost-aware engineering culture.",
+    "activity_status": "Active",
+    "website": "https://infracost.io",
+    "founded_date": 2020.0,
+    "team_size": 10.0,
+    "location": "Edinburgh, United Kingdom",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:devsecops; industry:finops; industry:b2b; industry:open-source",
+    "founders": [
+        {
+            "name": "Hassan Khajeh-Hosseini, Founder",
+            "description": "Currently working on making it easier for developers to understand how their code changes are going to affect their cloud bills before launching resources. Prior to that, founded other startups and took them through acquisitions. I like to surf, snowboard, skydive and eat! I make a vlog now and then on YouTube :)",
+            "linkedin": "https://www.linkedin.com/in/hassanhosseini/"
+        },
+        {
+            "name": "Ali Khajeh-Hosseini, Founder",
+            "description": "Co-founder of Infracost.io - helping engineering teams reduce their cloud costs with open source tools. I did my PhD looking at cloud costs ~10 years ago.\n\nI take my mind off work by heading into the mountains, playing football (soccer, not the other kind) and volleyball.",
+            "linkedin": "https://www.linkedin.com/in/alikhajeh1/"
+        },
+        {
+            "name": "Alistair Scott, Founder",
+            "description": "Co-founder of Infracost. Developer at heart. Love to ski and cook. Currently on a mission to cook a dish from every country in the world.",
+            "linkedin": "https://www.linkedin.com/in/aiscott/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Infracost, founded in 2020 and based in Edinburgh, UK, is a Y Combinator W21 graduate that's making waves in the FinOps space. Their mission is straightforward yet powerful: \"Shift FinOps Left.\" Essentially, they empower engineers by revealing the cost implications of code changes before those changes hit production. Think of it as the financial safety net for cloud infrastructure management.\n\nHere's the scoop: Infracost integrates seamlessly into existing CI/CD workflows, analyzing Infrastructure as Code (IaC) for cloud cost impacts *before* anything is deployed. This proactive approach helps catch potential budget-busting mistakes right at the source. Engineers get to see how their code will affect cloud costs and can adjust accordingly. Plus, the tool enforces best practices by checking for compliance with tagging policies and prompts developers to consider more cost-effective options, like upgrading from GP2 to GP3 volumes.\n\nThe team at Infracost is compact, comprising around 10 talented individuals who are committed to creating a cost-aware engineering culture. They\u2019ve quickly attracted a user base\u2014including over 3,000 companies\u2014spanning industries like finance, automotive, and technology, many of which are Fortune 2000 enterprises.\n\nWhat\u2019s more, Infracost is SOC2 Type 2 certified, which is a big deal for enterprise customers looking for robust security practices. With the backing of notable investors, including Y Combinator and Sequoia Capital, Infracost is positioning itself as an essential tool for companies looking to integrate cost management into their DevOps processes.\n\nFor those interested in diving deeper, you can explore their offerings at [infracost.io](https://infracost.io). Whether you're a developer wanting to keep a tighter grip on cloud expenditures or a finance professional aiming to optimize your company's cloud strategy, Infracost is poised to be a pivotal player in this space.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c09ffaee50a4575cca6014736bbeb74a6ade20a1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191432Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=21751b7c8c05091ad15b7a12ef2ce448a5fb0ac11248d8d6e1acf4432be272b9",
+    "social_links": [
+        "https://www.linkedin.com/company/infracost/",
+        "https://twitter.com/infracost",
+        "https://www.crunchbase.com/organization/infracost",
+        "https://github.com/infracost"
+    ],
+    "logo_path": "data/logos\\Infracost_logo.png"
+}

@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/alpaca",
+    "name": "Alpaca",
+    "headline": "API-first stock and crypto brokerage platform",
+    "batch": "W19",
+    "description": "Alpaca is an API infrastructure and licensed financial services company that allows developers and businesses to offer stock and crypto investing to their end-customers. We work with more than 100 companies across the globe to enable their investing products, and our mission is to provide financial services to everyone on the planet.\r\n\nAlpaca\u2019s globally distributed team consists of developers, traders, and brokerage business specialists and backed by a group of well-capitalized investors including Portage Ventures, Spark Capital, Tribe Capital, Unbound, Social Leverage, Horizons Ventures, Y Combinator as well as highly experienced industry angel investors and founders. We are also very tech-enthusiastic with notable track records in open-source and startup communities.",
+    "activity_status": "Active",
+    "website": "https://alpaca.markets/",
+    "founded_date": 2015.0,
+    "team_size": 150.0,
+    "location": "San Mateo, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:fintech; industry:api; industry:investing; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Yoshi Yokokawa, Co-founder & CEO",
+            "description": "Yoshi is a co-founder & CEO of @AlpacaHQ alpaca.markets. Before Alpaca, he led a couple of other tech startups that focused on deep-learning and enterprise businesses. Before startups, he was a VP in securitized products at Lehman and Nomura followed by being a full-time day-trader.",
+            "linkedin": "https://www.linkedin.com/in/yoshiyokokawa/"
+        },
+        {
+            "name": "Hitoshi Harada, Founder/CTO",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/hitoshi-harada-02b01425/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Alpaca: Revolutionizing Stock and Crypto Trading**\n\nFounded in 2015 and a part of Y Combinator's Batch W19, Alpaca is redefining the way we think about trading through its API-first stock and crypto brokerage platform. The company\u2019s mission is clear and ambitious: to provide seamless financial services to everyone on the planet. \n\nWhat makes Alpaca unique? It started as an API infrastructure company, enabling developers and businesses around the globe to embed investing features into their own applications. With an impressive roster of over 100 partners, Alpaca simplifies the complexities of trading algorithms, making it accessible for both businesses and retail investors alike. \n\nBased in San Mateo, California, Alpaca boasts a diverse team of about 150 employees, including developers, traders, and specialists in brokerage. They are backed by well-known investors such as Portage Ventures, Spark Capital, Tribe Capital, Y Combinator, and others who reinforce the credibility of this tech-centric venture.\n\n### What Does Alpaca Offer?\n\nAt its core, Alpaca provides an array of products through its two main APIs: the Broker API and the Trading API. The Broker API supports comprehensive brokerage activities, while the Trading API allows for algorithmic trading, real-time market data, and integration with advanced platforms like TradingView. Their recent innovations include:\n- **High-Yield Cash for Broker API** \u2013 an opportunity for users to earn interest on uninvested cash.\n- **Commission-free Options Trading** \u2013 democratizing access to trading without the burden of fees.\n- **Local Currency Trading API** \u2013 allowing users to operate in their local currency, enhancing accessibility for international traders.\n\nFurthermore, Alpaca is committed to creating a supportive ecosystem for developers. It offers extensive documentation, SDKs, community forums, and even a dedicated Slack channel for assistance. All designed to foster creativity and innovation among its users.\n\n### Recognition and Impact\n\nAlpaca has garnered acclaim, making it onto several prestigious lists, including the **2022 Fintech 250** and **2023 Top Private Companies**. It has also been recognized multiple times for having one of the best API solutions in the fintech space, indicating strong validation from both industry peers and users.\n\nIn conclusion, Alpaca is tackling the intricacies of stock and crypto trading head-on, delivering an environment where democratized finance becomes a reality. With its steadfast focus on API solutions and commitment to broadening financial access, it stands out as a pivotal player in the evolution of fintech, worthy of attention from anyone interested in the future of investing. \n\nFor more details, check out their [website](https://alpaca.markets/). If you\u2019re a developer or a business looking to integrate trading into your app, it might just be the right partner for your next move.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7bf1432b7d516605dde3ea48f9c2172054cf8ac0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190954Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cf33591f893a1ba381f35949d4421730d7e90d6f988ff40dc2ae19eb0f65964c",
+    "social_links": [
+        "https://www.linkedin.com/company/alpacadb-inc-",
+        "https://twitter.com/AlpacaHQ",
+        "https://twitter.com/AlpacaHQ",
+        "https://www.crunchbase.com/organization/alpacadb",
+        "https://github.com/alpacahq"
+    ],
+    "logo_path": "data/logos\\Alpaca_logo.png"
+}

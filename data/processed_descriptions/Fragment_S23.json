@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/fragment",
+    "name": "Fragment",
+    "headline": "Turn manual operations into scalable processes",
+    "batch": "S23",
+    "description": "Fragment\u2019s premise is that every company using AI will need humans in the loop, and software for the handoff between AI and humans.\r\n\nWe start by helping operations teams in fintech companies with task management for their manual processes (onboarding, compliance\u2026). Building on top of this, we make it easy to increase automation by adding a layer of human supervision.",
+    "activity_status": "Active",
+    "website": "https://checkfragment.com",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "Paris, France",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:automation; industry:operations; industry:ai",
+    "founders": [
+        {
+            "name": "Olivier Moindrot, Founder",
+            "description": "Co-founder & CEO at Fragment, helping to accelerate AI adoption at every company.\nPreviously created and led the AI team at MetaMap, a series B startup. There, my co-founder Guillaume and I built internal tools to process 1M identity verifications per month, with a mix of automation and 300 human agents.\nEngineer by training, graduated from Polytechnique (was ranked first at the entrance exam) and Stanford.",
+            "linkedin": "https://linkedin.com/in/omoindrot"
+        },
+        {
+            "name": "Guillaume Genthial, Founder",
+            "description": "CTO @ Fragment, helping operations teams in FinTechs and InsurTech.\nPreviously led the AI team of a KYC provider, developed software for human / AI workflows.\nAs an engineer, I've worked on LLMs for healthcare, ad recommendation systems at scale @ Criteo, and OCR.",
+            "linkedin": "https://linkedin.com/in/guillaumegenthial"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Fragment: Turning Manual Operations into Scalable Processes\n\n**Overview**:  \nFounded in 2023 and based in Paris, France, Fragment is a promising startup that emerged from Y Combinator's Batch S23. With a small but agile team of two, Fragment is tackling a prevalent challenge in the fintech space: the inefficiency of manual operations in a world increasingly dominated by AI.\n\n**Mission**:  \nFragment's core mission is to transform manual operations into scalable processes by ensuring that every business powered by AI can effectively integrate human oversight. Their platform is designed with the understanding that as companies increasingly rely on AI, they still need human judgment to bridge the gap in operational tasks.\n\n**Target Audience**:  \nInitially, Fragment is focusing on operational teams within fintech companies, helping them manage tasks related to onboarding, compliance, and more. By layering human supervision over automated processes, they aim to enhance operational efficiencies and improve team productivity.\n\n**Features**:\n- **Control Tower**: Fragment gives operations teams the tools to manage their processes and queues effectively, which helps optimize performance, forecast needs, and satisfy service-level agreements (SLAs).\n- **Data-Driven Insights**: The platform offers complete visibility into operations, helping teams track costs per task and improve overall productivity.\n- **Seamless Integration**: Fragment is developed to work alongside existing tools without requiring extensive engineering resources, allowing companies to onboard and start using it rapidly.\n\n**Value Proposition**:  \nFragment provides an innovative way to manage operations that allows companies to scale without compromising quality. Clients have reported reductions in operational costs by as much as 20% and improvements in conversion rates by 30%. User testimonials highlight that stopping the use of Fragment would feel like \u201cgoing back to the stone age,\u201d emphasizing its crucial role in maintaining productivity.\n\n**Clientele**:  \nFragment is already trusted by fast-growing operations teams in the fintech space, with notable names like Alan, Blank, Dalma, Lemonway, and Lassie relying on its services.\n\n**Conclusion**:  \nFragment is stepping into a vital niche at the intersection of AI and human operational management. Its commitment to providing powerful tools for optimizing manual processes makes it a potentially transformative player in the automation landscape.\n\nFor those interested to learn more or get a demo, you can visit [Fragment's website](https://checkfragment.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/659f7e299bf980830287acc2872b3a2a1569f610.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191350Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0dc73e3e736ba09701902c1ca2b8f6af13d44a556c8fab416c4161b43442c1be",
+    "social_links": [
+        "https://www.linkedin.com/company/checkfragment",
+        "https://twitter.com/checkfragment",
+        "https://github.com/checkfragment"
+    ],
+    "logo_path": "data/logos\\Fragment_logo.png"
+}

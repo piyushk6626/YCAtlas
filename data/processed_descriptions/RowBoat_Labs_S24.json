@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/rowboat-labs",
+    "name": "RowBoat Labs",
+    "headline": "LLM agents for customer support in fintech",
+    "batch": "S24",
+    "description": "RowBoat Labs offers pre-trained LLM agents for customer support, which continuously learn from usage. Our LLMs are safe and brand-aligned. RowBoat agents seamlessly integrate into your systems and take actions where necessary.",
+    "activity_status": "Active",
+    "website": "https://www.rowboatlabs.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:b2b; industry:api; industry:customer-support; industry:conversational-ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Arjun Maheswaran, Founder",
+            "description": "I previously co-founded an AI startup that was acquired by Coinbase. Fun fact: I hold a patent from 2020 on controlling LLM generation with reinforcement learning.",
+            "linkedin": "https://linkedin.com/in/arjunmaheswaran"
+        },
+        {
+            "name": "Ramnique Singh, Founder",
+            "description": "Co-founder at RowBoat Labs. Helping companies supercharge CX using LLMs.",
+            "linkedin": "https://www.linkedin.com/in/ramnique"
+        },
+        {
+            "name": "Akhilesh Sudhakar, Founder",
+            "description": "Building LLM agents for customer support at RowBoat Labs. Most recently, led generative AI product for CX at Coinbase. Previously, ML scientist at Agara AI (autonomous customer support).",
+            "linkedin": "https://www.linkedin.com/in/akhilesh-sudhakar/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### RowBoat Labs: Pioneering AI-Driven Customer Support\n\n**Overview**\nFounded in 2024, RowBoat Labs is a fresh entrant into the artificial intelligence domain, particularly focused on enhancing customer support within the fintech industry. Located in San Francisco and part of Y Combinator's Batch S24, the company operates with a small but dedicated team of three professionals.\n\n**Mission**\nRowBoat Labs aims to revolutionize customer service by offering **pre-trained LLM (Large Language Model) agents** that are not only brand-aligned and safe but also capable of continuous learning from their interactions. Their mission is to provide innovative LLM agents that streamline customer support processes across the fintech landscape.\n\n**Product Offerings**\nRowBoat Labs provides a multi-agent customer support platform that integrates seamlessly into existing systems. Here are some key features:\n\n- **Collaboration**: Simplifies synergy between customer experience (CX) teams and engineering, breaking down silos for a more cohesive workflow.\n- **Ease of Use**: Non-technical teams can build complex assistants using straightforward language, making it accessible for a broader audience.\n- **Comprehensive Support**: The platform claims to expedite the transition to advanced multi-agent systems, enabling enterprises to harness AI\u2019s full potential effortlessly.\n\nThe solution is built to handle diverse fintech applications, including payment reminders, credit card support, account information management, and claim status updates, among others. Their open-source approach appeals to enterprise teams looking to innovate in customer interactions.\n\n**Impressive Metrics**\nRowBoat Labs boasts impressive operational metrics:\n- A 95% customer satisfaction score.\n- A threefold increase in automated resolution rates.\n- A twofold enhancement in iteration speed.\n\n**Community & Support**\nRowBoat Labs encourages collaboration and knowledge sharing via platforms like Github and Discord, fostering a community of developers and users enthusiastic about advancing customer support technologies.\n\n**Conclusion**\nIn a nutshell, RowBoat Labs stands out by marrying advanced AI capabilities with user-friendly interfaces and robust integration options. Their forward-thinking approach is set to transform the way customer support operates in fintech, making interactions smarter and more efficient. If you\u2019re interested in exploring their offerings, check out their website at [RowBoat Labs](https://www.rowboatlabs.com). \n\nSo, if you\u2019re in fintech and looking to leverage AI for better customer service, RowBoat Labs just might be the partner you need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0f635c4a2b805e2f73b9b628e8869852355276d5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191903Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f8bd396384c55283c8aa3c60d09ce93e49c50121e9ebf3997dd74b408ab2e5ec",
+    "social_links": [
+        "https://www.linkedin.com/company/rowboat-labs/"
+    ],
+    "logo_path": "data/logos\\RowBoat_Labs_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/basalt",
+    "name": "Basalt",
+    "headline": "Autonomy in space, for every mission",
+    "batch": "W24",
+    "description": "Basalt Tech is a spacecraft OS company based in San Francisco. We're building Dispatch: An OS which allows different types of satellites to work together, and produces optimized instructions for fleets of spacecraft. The company is founded by Max Bhatti and Alex Choi, lead engineers at the MIT CubeSat program. Previously, the duo worked as systems engineers at SpaceX, and the UK Ministry of Defense. Basalt Tech recently received its seed investment as part of the Y Combinator W24 batch, and is currently in technical development.",
+    "activity_status": "Active",
+    "website": "https://basalt.space/",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aerospace; industry:enterprise-software; industry:automation; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Maximillian Bhatti, Founder",
+            "description": "CEO & Co-Founder of Basalt Tech    //   I was working at Caltech\u2019s fusion lab when I was hired out of highschool by my co-founder Alex. We would spend the next year working together at MIT AeroAstro, and become great friends in the process. \n\nSince then, I\u2019ve spent stints at The Aerospace Corporation and SpaceX working on distributed space systems and the American moon landing. Most recently, I dropped out to build Basalt Tech with Alex.\nMy hobbies include hiking and buying infinite whiteboards.",
+            "linkedin": "https://linkedin.com/in/maximillian-bhatti-1a9806266"
+        },
+        {
+            "name": "Alex Choi, Founder",
+            "description": "COO & Co-Founder of Basalt Tech\n\nPreviously, I worked as an aerospace engineer at the UK M.O.D. and project manager at MIT AeroAstro, leading the development of novel spacecraft missions. Specialties include embedded systems, radios, distributed information systems, and aerothermodynamics. I also worked on a master\u2019s on engineering design with Indigenous communities before leaving to build Basalt. \n\nMy hobbies include cooking food and playing video games!",
+            "linkedin": null
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Basalt**\n\n**Mission:** At Basalt, the goal is clear: achieve autonomy in space for every mission. \n\n**Background:** Founded in 2023, Basalt started its journey as Basalt Tech, a San Francisco-based company specializing in spacecraft operating systems (OS). The founders, Max Bhatti and Alex Choi, are not just any tech entrepreneurs; they were the lead engineers at the MIT CubeSat program and held roles at SpaceX and the UK Ministry of Defense. Their impressive background in aerospace gives Basalt a strong foundation to build cutting-edge technology.\n\n**What They Do:** Basalt is developing Dispatch, an innovative OS that empowers various satellites to collaborate effectively, generating optimized instructions for fleets of spacecraft. This capability is crucial for improving efficiency and functionalities across different missions. \n\n**Recent Developments:** Basalt has just completed its seed investment phase through Y Combinator\u2019s W24 batch, which is a significant endorsement of their vision and potential. Currently, the team is focusing on technical development with a compact but formidable group of four employees.\n\n**Technology and Solutions:**\n1. **Modular Autonomy:** This feature guarantees predictability in critical scenarios and allows users to customize systems for their specific needs.\n2. **Cross-Platform Constellations:** Users can manage fleets consisting of diverse satellite types, simplifying operations by allowing control over dozens of missions with just a few clicks.\n3. **Orbital Security:** Designed with the security challenges of the US and its allied partners in mind, Basalt's software enables all capable spacecraft to contribute to space security, ensuring a safer orbital environment.\n\n**Team and Partnerships:** Michael Seibel serves as their Group Partner, and the company has attracted attention and investment from various backers, positioning itself strategically in the aerospace and enterprise software sectors in the San Francisco Bay Area.\n\n**Online Presence:** For more information, you can visit their website at [basalt.space](https://basalt.space/). \n\nIn essence, Basalt is not just another aerospace company; it's a game-changer aiming to reshape the way we operate in space, making satellites \"smarter\" and service delivery quicker\u2014ideal for both commercial and defense spaces. With strong backing, an expert team, and a vital mission, Basalt represents a bright spot in the future of autonomous space technologies.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c7278bbfb890f90cdde10832423c2b97f8972442.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191017Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=adacf431494eb5840128d80afa13cb6deb8e54ef7db57264c76eeb6a0026ca53",
+    "social_links": [
+        "https://www.linkedin.com/company/101564456/"
+    ],
+    "logo_path": "data/logos\\Basalt_logo.png"
+}

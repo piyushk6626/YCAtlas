@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/codeviz",
+    "name": "CodeViz",
+    "headline": "Visual Search Engine For Code",
+    "batch": "S24",
+    "description": "CodeViz creates interactive codebase maps to help engineers quickly understand and navigate code. \r\n\nAdopted by engineers at Amazon, Microsoft, and Roblox, CodeViz was founded by two ex-Tesla engineers to tackle the 75% of development time lost to reading code. Download today at https://codeviz.ai",
+    "activity_status": "Active",
+    "website": "https://www.codeviz.ai/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:productivity; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Liam Prevelige, Founder",
+            "description": "Building a visual interface for code. Former distributed systems engineer at Tesla. CS + Econ at Dartmouth.",
+            "linkedin": "https://www.linkedin.com/in/liam-prevelige/"
+        },
+        {
+            "name": "Will McCall, Founder",
+            "description": "Building Better Codebase navigation tools. Formerly a Distributed Systems engineer at Tesla. CS + Design at Dartmouth.",
+            "linkedin": "https://www.linkedin.com/in/williamlmccall/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### CodeViz: A Visual Search Engine for Code\n\n**Founded in 2024**, CodeViz is on a mission to transform how developers interact with code by creating **interactive codebase maps**. This tool enables engineers to navigate massive codebases quickly, addressing a common pain point in software development\u2014spending up to **75% of development time reading and understanding code**.\n\n**Location**: San Francisco  \n**Team**: Just 2 engineers, both ex-Tesla \u2014 which speaks to their tech prowess.  \n**Incubator**: They're part of the **Y Combinator Batch S24**, which gives them a notable pedigree.  \n**Key Partner**: David Lieb, a recognized figure who brings additional experience to the table.\n\n### What Does CodeViz Do?\n\nCodeViz provides a powerful visual tool aimed at developers, allowing them to gain instant clarity on complex codebases. Users can simply ask questions in plain English and receive visual mappings of their code that guide them through the **architecture and specific functions**, reducing the time spent deciphering frameworks. It's designed to help **ship features faster**, which is crucial in today\u2019s fast-paced product development environments.\n\n### Trusted by Major Players\n\nTheir service is already in use by engineers at giants like **Amazon, Microsoft, and Roblox**, which validates its relevance and effectiveness in real-world scenarios. This level of adoption hints at a tool that truly meets the needs of modern software teams.\n\n### Pricing Plans\n\n1. **Free**: For those just getting started.\n2. **Individual Plan**: $19/month for unlimited analysis.\n3. **Teams Plan**: $50/month, catering to small professional teams.\n4. **Enterprise**: Custom pricing for larger organizations needing API access and tailored solutions.\n\n### Features at a Glance\n\n- **Multi-level Code Visualization**: Navigate from system architecture down to specific flows seamlessly.\n- **Query-based Analysis**: Gain insights with natural language queries.\n- **Real-time support and community**: Join their Discord for continuous support and collaboration.\n- **Collaboration tools**: For team features, they provide Git pull request tracking and collaborative notes.\n\n### Why CodeViz Matters\n\nCodeViz isn't just another tool in the software development toolbox. It aims to fundamentally change the way engineers interact with their code, elevating productivity and enabling faster shipping of features\u2014two critical factors in tech today. It's clear that CodeViz, with its innovative approach and experienced team, is set to make strides in the field of developer tools.\n\nIf you're ready to enhance your code understanding and improve your workflow, check out CodeViz at [codeviz.ai](https://www.codeviz.ai). Download the extension and experience a new level of coding clarity today!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9c73f70c59a5efcfc7e9e8cbbe719857f73a17df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191057Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=179091de620aa068e84a7ea456ceb641582de40e3e8e9bfa4d002b3478974472",
+    "social_links": [
+        "https://linkedin.com/in/codeviz",
+        "https://x.com/codeviz_ai",
+        "https://github.com/edisonlabs-inc"
+    ],
+    "logo_path": "data/logos\\CodeViz_logo.png"
+}

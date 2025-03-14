@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/enhanced-radar",
+    "Name": "Enhanced Radar",
+    "Headline": "Automating air traffic control",
+    "Batch": "W25",
+    "Description": "Enhanced Radar is building better, safer air traffic control systems.",
+    "Activity_Status": "Active",
+    "Website": "https://www.enhancedradar.com/",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/garry-tan",
+    "Group_Partner": "Garry Tan",
+    "Company_Linkedin": "https://www.linkedin.com/company/enhanced-radar/",
+    "Company_Twitter": "",
+    "Tags": "industry:aerospace; industry:ai; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/enhanced-radar/",
+        "https://x.com/EnhancedRadar"
+    ],
+    "logo_path": "data\\logos\\Enhanced_Radar.png",
+    "Active_Founders": [
+        {
+            "Name": "Eric Button, Founder",
+            "Description": "Building AI for air traffic control. Former professional pilot (2,200 hours, G280 type rating with Part 135 experience). Prev. cofounder, Contrast (fintech, acq'd by PublicSq).",
+            "LinkedIn": "https://www.linkedin.com/in/ericbutton/"
+        },
+        {
+            "Name": "Kristian Gaylord, Founder",
+            "Description": "Building AI for air traffic control. FAA Private Pilot. Prev embedded computer vision for satellites @ Pilot AI (acq'd). Prev high frequency trading in Rust. Statistics & Computer Science @ Columbia",
+            "LinkedIn": "https://www.linkedin.com/in/kaylord/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Enhanced Radar Summary**\n\n**Overview**\nEnhanced Radar is a San Francisco-based startup that's on a mission to revolutionize air traffic control through the power of automation. Founded in 2024, this ambitious company is already making waves as part of Y Combinator Batch W25. With a razor-sharp focus on improving the safety and efficiency of aviation technology, Enhanced Radar aims to create systems that simplify and enhance the air traffic management process.\n\n**Team**\nCurrently, Enhanced Radar boasts a small yet dedicated team of just two employees. The company's efforts are supported by Garry Tan, a Group Partner at Y Combinator, which indicates a solid backing from one of the most prestigious startup accelerators in the world.\n\n**Capabilities**\nTheir focus on **aerospace** and **AI** technology positions Enhanced Radar at the intersection of innovation and necessity, particularly in today's increasingly crowded skies. This encapsulates the future of aviation, where automated systems can help mitigate risks and streamline operations for air traffic controllers.\n\n**Contact Information**\n- **Website**: [Enhanced Radar](https://www.enhancedradar.com/)\n- **Phone**: (888) 877-7938\n- **Email**: hello@enhancedradar.com\n\nIn a nutshell, Enhanced Radar is more than just a tech startup; it's a venture that\u2019s set to change how air traffic is managed, making air travel safer and more efficient for everyone involved. It\u2019s a classic case of tackling a real-world problem with cutting-edge technology. Keep an eye on this team as they aim to elevate the standards of aviation security and efficiency."
+}

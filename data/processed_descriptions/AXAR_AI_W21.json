@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/axar-ai",
+    "name": "AXAR AI",
+    "headline": "Runtime for building reliable LLM apps",
+    "batch": "W21",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://axar.ai/",
+    "founded_date": 2025.0,
+    "team_size": 3.0,
+    "location": "Mountain View",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Anupom Syam, Founder",
+            "description": "Led teams in Data/ML Infrastructure, Distributed Systems, Data Storage Optimization. Previously at Netflix, Evernote, Disney, MIT Media Lab.",
+            "linkedin": "https://linkedin.com/in/anupom"
+        }
+    ],
+    "status": true,
+    "generated_description": "**AXAR AI: Simplifying Real-Time AI with Elegance**\n\nFounded in 2025 and part of Y Combinator Batch W21, AXAR AI is a promising startup located in the heart of Silicon Valley, Mountain View. With a lean team of three, they focus on delivering a robust runtime for building reliable, real-time AI applications. Their mission? To enable developers to concentrate on building products without the hassle of managing the underlying infrastructure.\n\nTheir core offering is an elegant platform designed to handle socket communication, agent routing, and persistent state management, allowing developers to ship real-time AI agents faster than ever. This is crucial as AI applications increasingly demand seamless user interactions and timely responses. \n\n### What AXAR AI Offers:\n1. **Developer-First SDK**: The developer-centric approach allows users to create sophisticated agents effortlessly.\n2. **Core Framework**: A lightweight framework that provides the necessary tools to build real-time AI agents catered to specific needs. For instance, developers can create a billing agent with just a few lines of code.\n3. **Proxy for User Connectivity**: They offer out-of-the-box client/server communication powered by Rust, ensuring low-latency interactions.\n4. **State Management**: AXAR's memory management solution provides persistent context storage, making it easy to track and manage state across user interactions.\n\n### Engaging the Community:\nAXAR AI is open-source, inviting collaboration and contributions from developers around the world. Their resources, including [documentation](https://axar.ai/<https:/axar-ai.gitbook.io/axar>) and community channels like [Discord](https://axar.ai/<https:/discord.gg/ZHA8BFxQ>), help in fostering a vibrant developer ecosystem.\n\n### Conclusion:\nBacked by Y Combinator, AXAR AI is poised to make a significant impact in the artificial intelligence landscape, particularly in developer tools. Their mission of simplifying complex AI tasks with a focus on reliability and efficiency resonates well in today's tech-driven world. If you're looking to build real-time AI agents and make a difference, AXAR AI is a platform to consider. The future of AI infrastructure looks promising with them at the forefront. \n\nFor more information, you can visit their [website](https://axar.ai/) or engage with them on platforms like [GitHub](https://axar.ai/<https:/github.com/axar-ai>) and [LinkedIn](https://axar.ai/<https:/www.linkedin.com/company/axar-ai/>).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e593822667a96510a202af3206bbc134de9de255.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191015Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=308637b57fe029d136aa280ec79f89b200ef956b0acec91d649764411abf2230",
+    "social_links": [
+        "https://www.linkedin.com/company/axar-ai/",
+        "https://www.crunchbase.com/organization/axar-ai",
+        "https://github.com/axar-ai"
+    ],
+    "logo_path": "data/logos\\AXAR_AI_logo.png"
+}

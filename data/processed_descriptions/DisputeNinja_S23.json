@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/disputeninja",
+    "name": "DisputeNinja",
+    "headline": "We help you win Stripe disputes.",
+    "batch": "S23",
+    "description": "DisputeNinja fights chargeback disputes for companies on Stripe. Companies provide evidence to us and we submit dispute responses on their behalf.",
+    "activity_status": "Active",
+    "website": "https://www.disputeninja.io",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Max Wu, Founder",
+            "description": "Fighting Stripe disputes at Dispute Ninja",
+            "linkedin": "https://linkedin.com/in/maxcwu"
+        },
+        {
+            "name": "Bowen Xue, Founder",
+            "description": null,
+            "linkedin": "https://linkedin.com/in/bowenxue"
+        }
+    ],
+    "status": true,
+    "generated_description": "DisputeNinja is a SaaS company founded in 2023, located in the vibrant tech hub of San Francisco. It\u2019s part of the Y Combinator Batch S23, which adds a layer of credibility and connects it with a powerful network in the startup ecosystem. With a small but agile team of two, DisputeNinja focuses on a specific pain point: helping businesses win disputes with Stripe\u2014specifically chargebacks that can eat into a company\u2019s revenue and create unnecessary headaches.\n\nThe mission of DisputeNinja is straightforward: they help you \"win Stripe disputes.\" When a chargeback occurs\u2014essentially a transaction that the customer disputes or reverses\u2014businesses often find themselves in a complex battle to provide evidence and defend their side. DisputeNinja simplifies this process by acting on behalf of the companies, handling the evidence submission to maximize their chances of winning the dispute. \n\nTheir platform integrates seamlessly with popular services like Stripe and Shopify, allowing users to connect their accounts easily. The setup process is advertised as quick and user-friendly, making it accessible for businesses that may not have extensive resources or experience with disputes.\n\nWhat really sets DisputeNinja apart is its data-driven approach. They offer insights into which types of evidence are most effective in winning disputes\u2014like customer signatures or access logs\u2014allowing businesses to optimize their strategy over time. This focus on automation and efficiency helps companies reclaim lost revenue and minimize the time spent on disputes, which allows them to focus on growth.\n\nAs for pricing, DisputeNinja offers various tiers based on the level of service required. For example, businesses can opt to submit stronger evidence for a higher fee in order to increase their chances of winning disputes dramatically. This flexible pricing structure is an attractive feature for businesses at different stages.\n\nTheir website is visually engaging and packed with information, including resources like documentation and pricing details, along with demos for potential clients to explore. \n\nIn summary, DisputeNinja taps into a prevalent challenge in online commerce, taking the complexity out of chargebacks and giving businesses a fighting chance to protect their revenue. With the backing of Y Combinator and an ambitious vision, they\u2019re positioned to carve out a significant niche in the B2B SaaS landscape. If you're dealing with Stripe disputes, they just might be the strategic partner you need. \n\nFor more information, you can check out their website at [DisputeNinja](https://www.disputeninja.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2fcd9a1365a3bf856c447e97c0b563ad02063e8c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191123Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3949158746151a849b81cea173e67c1cdec83ff5f84ed07845dd724680b27693",
+    "social_links": [
+        "https://linkedin.com/company/trytrench",
+        "https://twitter.com/trytrench",
+        "https://github.com/trytrench/trench"
+    ],
+    "logo_path": "data/logos\\DisputeNinja_logo.png"
+}

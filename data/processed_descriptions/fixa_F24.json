@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/fixa",
+    "name": "fixa",
+    "headline": "sentry for AI voice agents",
+    "batch": "F24",
+    "description": "Fixa is the Sentry for AI voice agents. Companies like 11x and OfOne use us to run simulated tests, analyze production calls, and fix bugs in their voice agents. \r\n\nWe were both voice agent developers at PlayHT \u2013 and, in order to find bugs in our agents, we would spend countless hours manually calling them and listening to conversation recordings. So, we\u2019ve decided to build a platform that does this automatically. \r\n\nFixa shows developers exactly where and how their agents mess up \u2013 enabling them to pinpoint root causes and fix them faster.",
+    "activity_status": "Active",
+    "website": "https://www.fixa.dev",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Oliver Wendell-Braly, Founder/CEO",
+            "description": "helping voice agent developers sleep at night",
+            "linkedin": "https://www.linkedin.com/in/oliverbraly/"
+        },
+        {
+            "name": "Jonathan Liu, Founder/CTO",
+            "description": "currently building fixa, the sentry for AI voice agents. helping voice agent companies find and fix bugs in their agents faster. \n\npreviously the co-founder of schej, an open source scheduling website for college students and non-profits with over 30k monthly active users.",
+            "linkedin": "https://linkedin.com/in/jonathan-z-liu"
+        }
+    ],
+    "status": true,
+    "generated_description": "Fixa is a fresh face in the AI voice tech space, founded in 2024 and currently based in San Francisco. Their mission? To be the sentry for AI voice agents, ensuring these agents are as efficient and bug-free as possible. \n\nThe founders, who previously developed voice agents at PlayHT, faced a common problem: diagnosing bugs was a painstaking process, involving countless hours of manual testing. To solve this, they built a platform that automates the testing of voice agents, allowing developers to quickly identify where things go wrong. This backstory not only shows their expertise but fuels their commitment to creating a more effective tool for other developers.\n\nFixa offers powerful features for developers to monitor their AI voice agents. Their platform tracks latency, interruption rates, and even correctness in responses. They provide custom alerts through Slack to keep users informed when something doesn\u2019t go as planned. \n\nRecently, they launched an open-source voice agent testing package, allowing other developers to contribute to and benefit from their work. In terms of pricing, they have a straightforward pay-as-you-go model, which is perfect for teams just starting out, alongside more comprehensive enterprise options for larger organizations.\n\nWith a lean team of just two people (growing, no doubt), Fixa is already trusted by companies like 11x and OfOne. They\u2019ve kicked off their journey under the Y Combinator Accelerator\u2019s F24 batch, gaining invaluable support and exposure in the tech community.\n\nIf you\u2019re involved in AI voice tech, Fixa could be a game-changer. They make it easy to improve voice agents swiftly and effectively. Interested developers can get started with their tools directly on their website at [fixa.dev](https://www.fixa.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b6a5f281d47666e353c5d85999978de50c186798.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191339Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=52951f5ab271b8f9c2264883957ec5647a1191f250469dde22833b18dcc46f62",
+    "social_links": [
+        "https://www.linkedin.com/company/fixadev",
+        "https://x.com/fixa_dev"
+    ],
+    "logo_path": "data/logos\\fixa_logo.png"
+}

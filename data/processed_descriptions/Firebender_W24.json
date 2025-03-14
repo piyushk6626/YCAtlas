@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/firebender",
+    "name": "Firebender",
+    "headline": "Android Studio Coding Assistant",
+    "batch": "W24",
+    "description": "Firebender is a free and privacy-first Android Studio AI assistant. \r\n\nOne-click install from the IntelliJ plugin marketplace to your IDE. It has context over your codebase and lets you use the best models for asking questions, debugging code, and generating code snippets.\r\n\nUnlike other AI assistants with outdated Android knowledge, Firebender continuously updates its knowledge base with the latest Android SDKs, libraries, and best practices, providing more accurate and relevant assistance for Android development.",
+    "activity_status": "Active",
+    "website": "https://firebender.com",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:enterprise; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Aman Gottumukkala, Founder",
+            "description": "Aman is the cofounder of Firebender, an AI-powered coding assistant built exclusively for Android Studio.\n\nBefore Firebender, Aman was a 2020 Kleiner Perkins Eng fellow and the 3rd engineer at Paradigm, where he built trading and internal data infrastructure from scratch, automated Ethereum derivative trading strategies yielding 20%, and published novel zero-knowledge cryptography research.\n\nHe interned at Google, Instagram, Twitch, and Microsoft in college.",
+            "linkedin": "https://linkedin.com/in/amangotchu"
+        },
+        {
+            "name": "Kevin Tang, Co-founder",
+            "description": "Previously, Kevin was a software engineer at Two Sigma where he architected and built service infrastructure for modeling, trading, and engineering teams (scale ~10K CPUs, ~1PB RAM). Kevin learned to program by creating Roblox games, one game had 2,000 concurrent players and featured on the front page.\n\nFeel free to email/text/call him, and he's always down to play pickup basketball. He lives in NEMA near Market and Van Ness.",
+            "linkedin": "https://linkedin.com/in/distributed"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Firebender: Your Android Studio Coding Companion\n\n**Overview**\nFirebender is an innovative AI assistant designed specifically for Android Studio, launched in 2023 as part of Y Combinator's Batch W24. Based in San Francisco, this small but mighty startup, founded by Aman and Kevin, aims to revolutionize the way developers interact with Android coding. With a lean team of just two employees, they are laser-focused on enhancing the productivity of Android developers.\n\n**Mission**\nFirebender\u2019s mission is clear: to provide a free, privacy-first AI assistant that understands the unique challenges of Android development. Unlike many other coding assistants that may offer outdated information, Firebender continually updates its knowledge base with the latest Android SDKs, libraries, and best practices. This means developers get accurate and relevant assistance tailored for their needs.\n\n**Key Features**\n- **One-Click Installation**: Easily integrate Firebender into your IDE through a simple download from the IntelliJ plugin marketplace.\n- **Contextual Understanding**: Firebender has the capability to comprehend your codebase, which helps it provide precise guidance, debugging help, and code generation directly within Android Studio.\n- **Real-Time AI Assistance**: The tool allows users to interact with sophisticated models like GPT-3 and Claude-3.5 to debug and generate code snippets seamlessly.\n- **Latest Updates**: By maintaining an up-to-date knowledge base, Firebender ensures users are equipped with current best practices for Android development.\n\n**User Testimonials**\nFirebender has received glowing feedback from the Android developer community. For example, Ben Schwab from Anthropic reflects on how Firebender has become his go-to tool for Android development, praising its ergonomic environment. Similarly, Ryan Brooks from Emerge Tools notes the significant workflow improvements he's experienced since using Firebender. \n\n**Key Collaborations**\nFirebender is already being trusted by some notable companies, including Rappi, Henry Meds, and VAPI, showcasing its effectiveness in real-world applications.\n\n**Community and Support**\nFirebender is committed to fostering a passionate community of Android developers eager to explore the frontiers of mobile development. They offer extensive documentation, a community forum for discussions, and prompt support for feedback and feature requests.\n\n**How to Get Started**\nReady to become a 10x engineer? You can download Firebender for free from their [official website](https://firebender.com), and join the revolution in Android development. \n\nTo sum it up, if you\u2019re looking to supercharge your Android coding experience with AI, Firebender stands out as a leader dedicated to offering profound, up-to-date assistance right where you need it most\u2014in your IDE. With a privacy-first approach and a commitment to continuous learning, Firebender might just be what you've been searching for.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7830760a81e965f41df7c6ed07c9e90fb18facc6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191336Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=577f3df2a471c461a909b2ca7ce8dc61068f97f359e27025336018ff0c38e52f",
+    "social_links": [
+        "https://linkedin.com/company/firebender"
+    ],
+    "logo_path": "data/logos\\Firebender_logo.png"
+}

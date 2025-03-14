@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/moonshine",
+    "name": "Moonshine",
+    "headline": "APIs for video understanding",
+    "batch": "F24",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://usemoonshine.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Pete Koomen",
+    "group_partner_yc": "https://www.ycombinator.com/people/pete-koomen",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:video; industry:media; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ganesh Pimpale, Co-Founder",
+            "description": "Making video tech better",
+            "linkedin": "https://www.linkedin.com/in/ganesh-pimpale-864248155/"
+        },
+        {
+            "name": "Harsha Gundala, Founder",
+            "description": "Working on making video easier to use. Love technology and creative tooling!",
+            "linkedin": "https://linkedin.com/in/harshagundala"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Moonshine: Pioneering Video Understanding with APIs**\n\nFounded in 2024 and based in the vibrant tech ecosystem of San Francisco, Moonshine is carving out a niche in the realm of video technologies. As a proud member of Y Combinator\u2019s Batch F24, this ambitious startup is on a mission: to provide scalable APIs for video understanding. With a lean team of just two, they're ambitiously tackling the complexities of video data, making it simpler for users to derive meaningful insights.\n\nSo, what does Moonshine offer? At its core, the company simplifies video infrastructure management, providing a platform where users can upload videos and engage with them like never before. You can think of it as bridging the gap between raw video content and actionable information, enabling businesses to focus on what truly matters\u2014building their products.\n\nHere\u2019s a quick rundown of its standout features:\n\n1. **Affordable Video Ingestion**: Users can ingest videos at a cost that is reportedly ten times cheaper than competitors.\n2. **Real-time Efficiency**: Moonshine runs video understanding on-device and at lightning speed, ensuring immediate results.\n3. **User-friendly Integration**: The API is designed to get developers up and running with just three lines of code.\n4. **Flexible and Scalable**: It can handle hundreds of videos simultaneously on a fully serverless infrastructure, giving businesses robust operational capacity.\n5. **Security and Privacy**: Data privacy is a priority, with options for secure data storage and on-prem indexing.\n\nMoonshine has set out to address not just the mundane task of managing video content but also the more complex inquiries that come with it. For instance, users can ask specific questions like \"Find clips of a pink dress\" or \"What are the main reasons for poor airflow on this fan?\" This capability sets them apart, showcasing their focus on providing granular insights.\n\nGiven its early days, the company has already sparked interest with practical applications, from generating insurance claims based on video evidence to monitoring live camera feeds. \n\nIn a nutshell, Moonshine is all about simplifying video data management so businesses can intuitively extract insights from their content without the overhead. Whether you're an entrepreneur or a tech enthusiast, the potential here is vast\u2014 and the journey has just begun.\n\nFor those looking to dive deeper, visit [Moonshine's website](https://usemoonshine.com) for documentation, pricing, and to get started on this innovative platform.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ddabbe80c8ec7c69d7d3b9ec473c8ea7e35e078e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191547Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d7b2ae3ce5a0bf363682297f7e7d3a05bc9948eceeefe24565ac0497b69bb044",
+    "social_links": [
+        "https://www.linkedin.com/company/usemoonshine",
+        "https://x.com/useMoonshine"
+    ],
+    "logo_path": "data/logos\\Moonshine_logo.png"
+}

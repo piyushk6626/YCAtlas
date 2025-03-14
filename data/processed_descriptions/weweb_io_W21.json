@@ -1,0 +1,45 @@
+{
+    "links": "https://www.ycombinator.com/companies/weweb-io",
+    "name": "weweb.io",
+    "headline": "WeWeb is a no-code front-end builder that connects with any back-end.",
+    "batch": "W21",
+    "description": "WeWeb is a visual programming tool that allows you to build user interfaces on top of existing databases & auth systems. It allies the short learning curve of no-code with the freedom of code.\r\n\nCONTROL & FREEDOM \u2013\u00a0Build pixel-perfect frontends with drag-and-drop UI elements and\u00a0no-code CSS properties but have the option to add custom code or import your own Vue.js components.\r\n\nCODE BEST PRACTICES \u2013\u00a0Follow development best practices by building components, global workflows and re-usable functions with no-code triggers and formulas with the option to add custom JS where needed.  \r\n\nNO VENDOR LOCK-IN \u2013\u00a0WeWeb generates a standard PWA-ready Single Page Application and\u00a0allows you to deploy your projects on your own infrastructure. Build in no-code, host on-premise.",
+    "activity_status": "Active",
+    "website": "https://www.weweb.io/",
+    "founded_date": 2020.0,
+    "team_size": 12.0,
+    "location": "Paris, France",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:web-development",
+    "founders": [
+        {
+            "name": "Raphael Goldsztejn, Founder",
+            "description": "CEO weweb.io, no-code enthusiast.",
+            "linkedin": "https://www.linkedin.com/in/raphael-goldsztejn-b90b5624/"
+        },
+        {
+            "name": "Florian Briou, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/florian-briou-weweb"
+        },
+        {
+            "name": "Marc Fabre, Founder",
+            "description": null,
+            "linkedin": null
+        }
+    ],
+    "status": true,
+    "generated_description": "**WeWeb: Your No-Code Frontier**\n\nFounded in 2020 and part of Y Combinator's W21 batch, WeWeb is a Paris-based startup redefining web development with its no-code front-end builder. The mission is clear: to empower users to build pixel-perfect front-ends that can connect to any back-end system, simplifying the app creation process without the steep learning curve that usually accompanies coding.\n\nAt its core, WeWeb combines the intuitive power of no-code with the flexibility of traditional coding. You can drag and drop UI elements, tweak properties using no-code CSS, and even add custom JavaScript or integrate your Vue.js components when you need that extra edge. This design philosophy leads to an impressive suite of features aimed to bolster productivity and creativity without locking users into specific vendors.\n\nLet\u2019s break down what makes WeWeb stand out:\n\n1. **Design Freedom:** The visual programming interface allows for responsive and unique designs. Whether you want to build user interfaces over complex databases or tailor customer portals and SaaS platforms, WeWeb gives you the tools to visualize your ideas.\n\n2. **Best Coding Practices:** While it\u2019s a no-code platform, it incorporates best practices of development. You can create reusable components and workflows while still having the liberty to inject custom JavaScript wherever necessary.\n\n3. **No Vendor Lock-In:** One of the most appealing features is the freedom to host your applications wherever you prefer. WeWeb generates PWA-ready Single Page Applications (SPAs), so you have full control over your infrastructure.\n\n4. **Integrations and APIs:** Seamlessly connect with popular tools or any service with an API. This opens doors for advanced CRUD operations, ensuring your applications can grow as your business does.\n\n5. **Enterprise-Grade Features:** With a host of security options, staging environments for testing, and the ability to self-host, WeWeb is more than capable of handling large-scale applications.\n\n6. **Robust Community Support:** Join a growing community of developers and agencies using WeWeb to share insights, tips, and experiences, enhancing the platform\u2019s value through collaborative learning.\n\nWith a compact team of 12, spearheaded by Group Partner Jared Friedman, WeWeb is well on its way to making a substantial impact in the developer tools and web development landscape. They recognize the need for speed in app development\u2014claiming you can build production-grade web applications ten times faster than before.\n\nNotably, big names like L'Or\u00e9al, PwC, and Decathlon have already trusted the platform to build their internal tools and customer applications, showcasing WeWeb's credibility in the enterprise world.\n\nSo, if you\u2019re looking to get started, head over to [WeWeb](https://www.weweb.io/) to experiment with their no-code tools. Sign up for free, and when you're ready to publish, you'll have everything you need at your fingertips.\n\nIn a nutshell, WeWeb isn't just a tool; it's a new approach to building the web. With a mix of simplicity and competency, it offers what many developers, businesses, and agencies have been searching for: a way to build robust applications without the frills and headaches of traditional coding.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b386d19475d9a1e4569fc8d40db4b8dd29d24607.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192058Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=21dc0861e3de69e7f271e3fd517b4ce7c9f277c6117cc18d5f736a5c21a9b6d6",
+    "social_links": [
+        "https://www.linkedin.com/company/weweb-io/",
+        "https://twitter.com/weweb_io",
+        "https://www.facebook.com/weweb.io/",
+        "https://www.crunchbase.com/organization/weweb",
+        "https://github.com/getweweb"
+    ],
+    "logo_path": "data/logos\\weweb.io_logo.png"
+}

@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/fiber",
+    "name": "Fiber",
+    "headline": "We help developers pull data from popular APIs to build integrations",
+    "batch": "W23",
+    "description": "Fibers helps developers ship integrations 10x faster by syncing data from 3rd party APIs with their production databases.",
+    "activity_status": "Active",
+    "website": "https://fiber.dev",
+    "founded_date": 2022.0,
+    "team_size": 4.0,
+    "location": null,
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Felipe Arag\u00e3o, Founder",
+            "description": "Felipe is the founder of Fiber. He is a developer with a decade of experience, and started Fiber after years of building solutions on top of Shopify and other e-commerce platforms. He double-majored in Computer Science & Economics at Yale University.",
+            "linkedin": "https://linkedin.com/in/felipearp"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Fiber**\n\n**Overview:**\nFiber is a startup founded in 2022 and is currently part of the Y Combinator Batch W23. Located in an undisclosed area, it operates with a small but efficient team of four. Fiber\u2019s mission is clear: they help developers seamlessly pull data from popular APIs to build integrations quicker and more efficiently than ever before.\n\n**What They Do:**\nInitially, Fiber was focused on enabling developers to ship integrations ten times faster by syncing data from third-party APIs into their production databases. Today, they\u2019ve expanded their offerings into a robust ETL (Extract, Transform, Load) solution designed specifically for developers. This allows teams to consume data directly from third-party APIs and manage it in their own databases or cloud storage. The process is simple: select API resources, connect your database or storage solution, and register user credentials to start syncing.\n\n**Key Features:**\n1. **Speed**: Fiber helps integrate necessary APIs into your system in days instead of dragging out to months.\n2. **Scalability**: The company manages scaling and securing data sync processes, allowing developers to concentrate on building fantastic products.\n3. **Open-source Initiatives**: Recently, they launched \u2018Handshake,\u2019 an open-source solution simplifying OAuth for over 200 APIs.\n\n**Target Audience:**\nFiber primarily caters to fast-scaling startups that require swift and efficient data integrations. It supports well-known platforms like Stripe, Salesforce, Plaid, and QuickBooks, making it versatile for various business models.\n\n**Support and Additional Resources:**\nFiber provides an array of resources to its users, including detailed documentation, integration options, and a blog for updates and tips. They emphasize good customer support through various channels.\n\n**Backing:**\nWith support from Y Combinator\u2014one of the leading startup accelerators\u2014Fiber is set on a path of innovation and growth, focusing heavily on the developer experience.\n\n**Contact and Further Information:**\nFor more information, visit [Fiber's website](https://fiber.dev), where you can explore their offerings, log in to the platform, and access comprehensive documentation tailored for developers.\n\nIn essence, Fiber is making waves in the developer community by streamlining the data integration process, showing that sometimes the simplest solutions can have the biggest impact.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3b0cf73ed761591b29bb7ea131b242645c232bb0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ff19f0cc33cf2bcd9a8a38d4a43b4457d58d6f909400f4c7680883f73f365d01",
+    "social_links": [
+        "https://www.linkedin.com/in/felipearp/",
+        "https://twitter.com/fiber_dev"
+    ],
+    "logo_path": "data/logos\\Fiber_logo.png"
+}

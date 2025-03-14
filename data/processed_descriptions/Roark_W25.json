@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/roark",
+    "name": "Roark",
+    "headline": "Replay, Analyze, and Improve Your Voice AI",
+    "batch": "W25",
+    "description": "Roark is an observability and testing platform for voice AI that shows whether your agent met its goals, tracks caller sentiment, and replays real calls to test changes before deploying them. We already process hundreds of calls per week for healthcare and legal teams, saving hours of manual QA and helping them fix issues faster.",
+    "activity_status": "Active",
+    "website": "https://roark.ai",
+    "founded_date": 2025.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; industry:ai; industry:conversational-ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Daniel Gauci, Founder",
+            "description": "Co-founder & CTO at Roark. Software engineer with 10+ years of experience. Previously at Akiflow (YC S20) as part of the mobile development team, helping the company reach $1.5M ARR and 10,000+ customers. Spent 7 years at Casumo, leading the development of the mobile app used by millions of players helping the company reach $50M+ ARR.",
+            "linkedin": "https://www.linkedin.com/in/gaucidaniel/"
+        },
+        {
+            "name": "James Zammit, Founder & CEO",
+            "description": "James Zammit (CEO) \u2013 Infra and AI engineer with 10+ years of experience. Previously at AngelList, where he worked on core infrastructure as the company scaled from $10B to $124B in assets under management and led the development of Relay, an AI-powered portfolio manager processing thousands of financial documents monthly. Co-founded three startups, one of which partnered with Firebase and was showcased at Google I/O 2016. Awarded Meta and Apple scholarships.",
+            "linkedin": "https://linkedin.com/in/zammitjames"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Roark: Revolutionizing Voice AI Quality Assurance**\n\nFounded in 2025 and hailing from the vibrant tech scene of San Francisco, Roark emerged as an innovative player in the voice AI landscape, particularly as part of Y Combinator\u2019s W25 batch. The company\u2019s mission is straightforward: to **Replay, Analyze, and Improve Your Voice AI**. \n\nRoark initially built its reputation with an observability and testing platform tailored for voice AI applications. It aims to provide tools that help teams ascertain whether their AI agents are achieving their target objectives. The platform tracks caller sentiment and allows users to replay real conversations, making it possible to test changes before fully deploying them. This not only saves countless hours in manual quality assurance (QA) but also accelerates issue resolution, especially for healthcare and legal professionals who often process hundreds of calls weekly. \n\n### What Roark Does\n\n1. **Replays**: This feature provides users with the ability to replay actual production calls, effectively turning them into test cases. It helps identify edge cases and track improvements over time through detailed analytics.\n2. **Monitoring & Evaluation**: Roark offers real-time insights with an impressive transcription capability that supports over 50 languages, boasting a low word error rate. It also includes emotion and sentiment analysis to gauge customer interactions more accurately.\n3. **Reports & Dashboards**: Users can easily visualize data through custom reports and funnel diagrams. These tools help identify user behavior patterns and optimization opportunities.\n4. **Integration**: Roark simplifies the integration process with straightforward no-code and SDK options, allowing teams to connect their voice agents seamlessly and focus on enhancing performance.\n\n### Team and Backing\n\nCurrently, Roark operates with a lean team of just two employees, benefiting from the seasoned guidance of Y Combinator Group Partner, Gustaf Alstromer. With such a compact team, agility and rapid iteration are likely part of their DNA.\n\n### Pricing Structure\n\nRoark offers transparent pricing designed to scale with user needs. Their offerings include:\n- **Startup Plan**: Perfect for newcomers to voice AI, priced at $500/month for up to 5,000 call minutes.\n- **Growth Plan**: Aimed at expanding teams, this plan starts at $1,500/month for 25,000 call minutes, incorporating advanced compliance and support features.\n\n### Conclusion\n\nRoark isn\u2019t just making a mark; it\u2019s reshaping how teams engage with and evaluate voice AI technology. By enabling them to **Replay, Analyze, and Improve**, Roark is fostering a new era of reliability and efficiency in AI-powered communications. For those curious to learn more, the company\u2019s website is a great resource\u2014just remember to check in with them to see how they can help you elevate your voice AI initiatives.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ce81e32fed77fbff3d6dd56f566ce8db5d46da3c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191806Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=eeea634f422000ac7bf4de81c9300e1293a56defec5852c817b7cc7d18726c73",
+    "social_links": [
+        "https://www.linkedin.com/company/106073945",
+        "https://github.com/roarkhq"
+    ],
+    "logo_path": "data/logos\\Roark_logo.png"
+}

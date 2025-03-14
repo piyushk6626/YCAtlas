@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/multibase",
+    "name": "Multibase",
+    "headline": "Blockchain Indexing",
+    "batch": "S21",
+    "description": "Multibase is the data layer for web3 companies. We help companies index, decode and interpret onchain transactions in real time.",
+    "activity_status": "Active",
+    "website": "https://www.multibase.co/",
+    "founded_date": 2020.0,
+    "team_size": 3.0,
+    "location": "Denver, CO",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:crypto-web3; industry:analytics; industry:api",
+    "founders": [
+        {
+            "name": "Emmett Miller, Founder",
+            "description": "I want to make the world a better place with innovative tools :)",
+            "linkedin": "https://www.linkedin.com/in/emmettmiller/"
+        },
+        {
+            "name": "Wyatt Miller, Founder",
+            "description": "Chapman University, Invezo",
+            "linkedin": "https://www.linkedin.com/in/wyattmiller14/"
+        },
+        {
+            "name": "Leo Schottenstein, Founder",
+            "description": "University of Southern California & Invezo",
+            "linkedin": "https://www.linkedin.com/in/leo-schottenstein-0513/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Multibase: The Future of Blockchain Indexing\n\n**Overview**  \nFounded in 2020 and part of Y Combinator's Summer 2021 batch, Multibase is a small but ambitious data platform based in Denver, CO. With a core team of just three determined employees, they are focused on a singular mission: providing comprehensive blockchain indexing solutions for Web3 companies.\n\n**What They Do**  \nMultibase has positioned itself as the data layer for Web3. Their platform helps businesses index, decode, and interpret on-chain transactions in real time, enabling companies to gain valuable insights from blockchain data effortlessly. Whether it\u2019s indexing millions of transactions or providing analytics through easy-to-use dashboards, Multibase aims to simplify data access for developers and organizations operating in the crypto space.\n\n**Core Features**  \n- **Real-Time Analytics**: Multibase allows for instantaneous data streaming and indexing across various blockchain networks. Companies can query data seamlessly using SQL or export it to popular data warehouses.\n- **No-Code Integration**: Their platform is designed for easy adoption. Developers can integrate Multibase into their applications within minutes, opening doors for those who may not be technically inclined.\n- **Versatile Data Connections**: Multibase supports a range of integration options with third-party tools like Postgres, Mixpanel, Snowflake, Google Analytics, and more, making it easy to leverage on-chain data for enhanced analytics and reporting.\n\n**Target Market**  \nOperating at the intersection of fintech, crypto, and analytics, Multibase targets Web3 companies looking to optimize their data strategies. They are particularly appealing to startups needing robust analytics without the heavy lifting often associated with data infrastructure.\n\n**Why It Matters**  \nIn a rapidly evolving landscape, companies that harness blockchain data effectively can make better decisions, optimize user experiences, and gain competitive advantages. Multibase is positioned to empower these companies with the insights they need, echoing a trend towards greater data sophistication in the decentralized web.\n\n**Get Started**  \nInterested parties can dive into the world of Web3 data analytics via Multibase's user-friendly platform. The company's website offers resources, documentation, and a straightforward sign-up process to start building applications with powerful insights drawn from blockchain data. \n\nFor more about Multibase and to begin your journey into blockchain indexing, visit their [website](https://www.multibase.co/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b81394d0389d2fab135e3cf8c10316425d8283a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191550Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f0cb8068b2db0d834960e6c05a17d4b32682f3fe99c0aa65c57e241767142d89",
+    "social_links": [
+        "https://www.linkedin.com/company/multibaseco",
+        "https://twitter.com/multibase_co",
+        "https://www.crunchbase.com/organization/invezo"
+    ],
+    "logo_path": "data/logos\\Multibase_logo.png"
+}

@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/palomma",
+    "name": "Palomma",
+    "headline": "Treasury management software for LatAm",
+    "batch": "W23",
+    "description": "Palomma is a treasury management software helping companies in LatAm manage their financial operations, including payments, cash flow, and reconciliation, in a seamless and automated way.",
+    "activity_status": "Active",
+    "website": "http://www.palomma.com/",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": "Medell\u00edn, Colombia",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Cipriano Echavarria, Founder",
+            "description": "Colombian, & Blue Devil (Go Duke!). Spent a few years making pretty presentations in Investment Banking @ Morgan Stanley, then helped launch and scale Nubank\u00b4s operation in Colombia. \n\nRealized the inefficiencies inherent with card rails & existing bank payment solutions, and working to change that. \n\nAvid soccer fan & squash player.",
+            "linkedin": "https://www.linkedin.com/in/cipriano-echavarria-3729a9105/"
+        },
+        {
+            "name": "Nicolas Gomez del Campo, Founder",
+            "description": "Mexican engineer building simpler bank payments for LatAm. I studied Computer Science at MIT and previously worked at JP Morgan developing systems for algorithmic trading. I enjoy training jiu jitsu in my free time.",
+            "linkedin": "https://www.linkedin.com/in/ngomezdelcampo/"
+        },
+        {
+            "name": "Felipe Monsalve, Founder",
+            "description": "Felipe Monsalve is a technical co-founder at Palomma. He moved from Colombia for his Bachelor's in CS & Econ, and stayed for his Master's in CS. In between schooling, and over the summers, he's gotten industry experience @ Meta, Bloomberg, and a few US + Latin American startups. More recently, at MIT, Felipe worked on a system for medical reporting of human rights violations in places with poor healthcare access. He's passionate about new technology and its impact on individuals.",
+            "linkedin": "https://www.linkedin.com/in/felipemon/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Palomma: Modern Treasury Management Software for LatAm\n\n**Overview**\nPalomma is a freshly founded company, having launched in 2023, and it\u2019s already making waves by introducing innovative treasury management software tailored for companies operating in Latin America. Based in Medell\u00edn, Colombia, and part of Y Combinator's Batch W23, Palomma combines cutting-edge technology with a deep understanding of regional financial needs.\n\n**What They Do**\nThe platform serves as an all-in-one tool for managing financial operations, including:\n- **Payments**\n- **Cash Flow Management**\n- **Reconciliations**\n\nImagine being able to seamlessly handle transactions of varying sizes\u2014from managing thousands to hundreds of thousands in monthly payments\u2014all through an intuitive interface. With Palomma\u2019s API, businesses can automate and optimize cash flow operations, massively simplifying the user experience.\n\nHere are the core functionalities:\n- **Recaudo**: Collect and optimize payments on your site or app through multiple gateways, enhancing approval rates while reducing processing costs.\n- **D\u00e9bito Autom\u00e1tico**: Automate bank transactions for recurring charges, which reduces manual input and improves collection efficiency.\n- **Dispersiones**: Make immediate payouts, whether it\u2019s for reimbursements, payroll, or vendor payments, even on weekends and holidays.\n\n**Team and Vision**\nWith a dedicated team of 5 employees, Palomma is driven by a developer-centric philosophy. They\u2019ve designed their APIs with developer experience at the forefront, ensuring that integration is not just easy but also scalable as businesses grow. The founder's background in development means they've built systems with empathy for other developers, knowing the frustrations of clunky integrations.\n\n**Backers**\nPalomma isn\u2019t going at it alone; they\u2019re backed by prominent investors like Y Combinator and others which adds credibility and resources to their mission. \n\n**Future Prospects**\nAs Palomma continues to establish its presence in Colombia, the company has ambitions to expand to other Latin American markets, making it an exciting player to watch as they aim to enhance payment infrastructures across the region.\n\n**Contact and Learn More**\nIf you're interested in modernizing your payment processes in Latin America, visit [Palomma's website](http://www.palomma.com/) to learn more about their offerings and get started!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/893fdf875c28f1f337e663f1e72ff52f468a8820.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191620Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=24a4eaf25bb5657141657b79c3830cfd510d0a6a00f44291d5e2bf75444f2b48",
+    "social_links": [
+        "https://www.linkedin.com/company/palomma/"
+    ],
+    "logo_path": "data/logos\\Palomma_logo.png"
+}

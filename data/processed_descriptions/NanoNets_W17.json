@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/nanonets",
+    "name": "NanoNets",
+    "headline": "Automatic Data Extraction",
+    "batch": "W17",
+    "description": "Nanonets is an AI-driven solution that automates document processing and data extraction workflows. Leveraging advanced Optical Character Recognition (OCR) and deep learning models, Nanonets helps companies automate document-heavy business processes like accounts payable, order processing and insurance underwriting.\r\n\nNanonets processes unstructured documents such as invoices, receipts, purchase orders, contracts, claims, and forms and converts them into structured output.",
+    "activity_status": "Active",
+    "website": "https://nanonets.com",
+    "founded_date": 2017.0,
+    "team_size": 102.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sarthak Jain, Founder/CEO",
+            "description": "Enjoys being wrong about AI products being mainstream since 2010. 2024 might be different?",
+            "linkedin": "https://in.linkedin.com/in/jainsarthak"
+        },
+        {
+            "name": "Prathamesh Juvatkar, Founder",
+            "description": "Would love to discuss tech, specifically deep learning, software architecture, and building software processes. Overseeing tech and marketing. Have worked with golang, django, cassandra, tensorflow, pytorch, react.",
+            "linkedin": "https://www.linkedin.com/in/prathameshjuvatkar"
+        }
+    ],
+    "status": true,
+    "generated_description": "### NanoNets: Automating Data Extraction for Business Efficiency\n\n**Overview**  \nFounded in 2017 and proudly part of Y Combinator\u2019s W17 batch, NanoNets is a San Francisco-based company transforming how businesses manage document processing. With a robust team of 102, NanoNets aims to simplify the way organizations extract meaningful data from various document types.\n\n**Mission**  \nThe mission of NanoNets is straightforward: Automatic Data Extraction. They leverage advanced Optical Character Recognition (OCR) and deep learning models to automate document-heavy workflows, making processes like accounts payable, order processing, and insurance underwriting more efficient.\n\n**What They Do**  \nNanoNets specializes in processing unstructured documents\u2014think invoices, receipts, contracts, and more\u2014and converting them into structured, actionable data. The power of their technology lies in its ability to handle diverse document types, allowing companies to automate tedious manual tasks efficiently.\n\n**Key Features and Offerings**  \n- **Data Capture**: Allows businesses to automate the extraction of data from a variety of documents including invoices, bills of lading, purchase orders, and even passports.\n- **Workflows**: Streamlines processes like document approvals, financial reconciliation, and accounts payable automation, integrating smoothly with existing business systems.\n- **AI Agent Platform**: Offers a learnable decision engine that helps in making more informed decisions, thus enhancing workflow automation without needing extensive coding knowledge.\n\n**Industries Served**  \nNanoNets is applicable across various sectors, including:\n- **Finance & Accounting**\n- **Supply Chain & Operations**\n- **Healthcare**\n- **Insurance**\n- **Logistics**\n- **Commercial Real Estate**\n\n**Impact and Results**  \nThe company boasts impressive statistics on efficiency gains\u2014it reports an average reduction of 88.3% in manual effort for businesses using their technology, alongside a median ROI of 3.5x over a six-month payback period.\n\n**Client Success Stories**  \nNanoNets has helped companies like Asian Paints and Ascend Properties significantly reduce their processing times and costs. For instance, one client reported saving over 80% in costs related to invoice processing\u2014a clear testament to the efficacy of their AI-driven solutions.\n\n**Getting Started**  \nFor any businesses overwhelmed by data extraction tasks and looking to streamline their workflows, NanoNets offers an invitation: you can start for free or request a demo to see how their solutions can elevate your business operations.\n\n**Contact Information**  \n- Website: [NanoNets](https://nanonets.com)\n- Location: 156 2nd Street, San Francisco, CA 94105, USA\n- Email: info@nanonets.com\n- Phone: +1 650 382 8676\n\nIn a world where data is king, companies like NanoNets are revolutionizing the way we handle and make sense of that data\u2014automatically and efficiently.\n\n--- \n\nThis overview captures the essence of NanoNets while maintaining an engaging and straightforward narrative.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d5144ddd925ecfbd7f07eefb33abc616c8425e72.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191553Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=33bfdaed27441fdfd89de83149f66ec4a6a2f44a192abe83fa9551c3776b390d",
+    "social_links": [
+        "https://in.linkedin.com/company/nanonets",
+        "https://twitter.com/nanonets_",
+        "https://www.facebook.com/nanonets/",
+        "https://www.crunchbase.com/organization/nanonets",
+        "https://github.com/NanoNets"
+    ],
+    "logo_path": "data/logos\\NanoNets_logo.png"
+}

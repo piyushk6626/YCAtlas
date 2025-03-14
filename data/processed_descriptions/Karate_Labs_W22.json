@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/karate-labs",
+    "name": "Karate Labs",
+    "headline": "Open-source API & UI test automation",
+    "batch": "W22",
+    "description": "Karate is an open-source unified test automation platform combining API testing, API performance testing, API mocks & UI testing. \r\n1.5 million monthly downloads, used by 500+ companies including 76 of the Fortune 500, are a testimony of Karate removing friction from the developer experience (DX). We did this by making it exceptionally simple to write tests (low code), simulating end-user workflows accurately, re-using API tests as performance tests, parallel execution, and collaboration via Git. \r\nStaying true to Karate\u2019s \u201cLOCAL-FIRST\u201d approach (user data remains within the customer's firewall, ensuring security and addressing any concerns), we launched the official Karate plugins (IntelliJ and VS Code) for frictionless onboarding, simplified installations, configuration, and maintenance. Our plugins include all Karate open-source features, including exploring of APIs, and premium features (testing for Async APIs, API documentation, API data importer and more).",
+    "activity_status": "Active",
+    "website": "https://karatelabs.io",
+    "founded_date": 2021.0,
+    "team_size": 2.0,
+    "location": "Wilmington, DE",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:api",
+    "founders": [
+        {
+            "name": "Kapil Bakshi, Founder",
+            "description": "I closed my first sales deal at the age of 14. I knew then, all I want to do in life is make business happen through the joy of connecting with people. With 24 yrs experience holding senior sales and leadership positions at QuEST, L&T, ITC, Atos, Infosys, I have driven business growth, building high performance teams, relationships at Board/CXO level in Engineering, IT consulting & outsourcing. Authenticity is in the alignment of what one thinks, says and does. Being authentic is my core value.",
+            "linkedin": "https://www.linkedin.com/in/bakshikapil/"
+        },
+        {
+            "name": "Peter Thomas, Founder",
+            "description": "Creator of the Karate test-automation framework adopted by enterprises world-wide. Previously at Intuit as Distinguished Engineer, he has had a long career with stints at Yahoo! and other top IT companies. With a track record of creating successful open-source projects, he is recognized as a visionary and expert in the field of test-automation and developer productivity.",
+            "linkedin": "https://www.linkedin.com/in/ptrthomas"
+        }
+    ],
+    "status": true,
+    "generated_description": "Karate Labs, founded in 2021 and part of Y Combinator's W22 cohort, is making waves with its open-source platform designed to streamline API and UI test automation. The company, based in Wilmington, Delaware, has garnered impressive traction, with over **1.5 million monthly downloads** and **500+ corporate users**, including **76 of the Fortune 500**. This demonstrates that Karate\u2019s approach effectively reduces friction in developer experience (DX).\n\nKarate consolidates various testing needs into a single, unified platform, encompassing API testing, performance testing, mocking, and UI testing. What sets Karate apart is its focus on low-code solutions that allow developers to quickly and easily write tests. This means less code to manage and more time to focus on building better products. Features like accurate simulation of end-user workflows and the ability to reuse API tests for performance testing make it a compelling choice for businesses looking to improve their testing processes.\n\nThe **\"LOCAL-FIRST\"** philosophy emphasized by Karate means that user data remains secure within the customer\u2019s firewall, addressing critical security concerns head-on. To facilitate smooth onboarding, Karate Labs has launched official plugins for **IntelliJ** and **VS Code**, simplifying installation and configuration while allowing teams to harness both open-source and premium features, like async API testing and advanced API documentation.\n\nKarate Labs is innovating in key areas, including:\n- **API Testing**: Robust tools to ensure APIs function as intended.\n- **API Performance Testing**: Validate that APIs perform efficiently under various conditions.\n- **API Mocks**: Simulate API behavior to decouple testing from API dependencies.\n- **Web and UI Automation**: Extend testing capabilities to ensure seamless user experiences.\n\nThe team is small but mighty, consisting of just **two employees** as they build out their robust offerings. They've convinced industry giants to adopt their platform, earning accolades and trust along the way. As they continue to grow and innovate, Karate Labs is clearly placing itself at the forefront of developer tools, enhancing testing efficiency while fostering collaboration through Git integrations.\n\nFor anyone looking to optimize their testing strategy, **Karate Labs**\u2014with its intuitive solutions and emphasis on security\u2014might be worth a closer look. \n\nFor more details, check out their [website](https://karatelabs.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f9e6e6521bf5b4f74171a4e0b1b9339eee53a9f7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191448Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=911cd9db3ba0f975c4d4545ab2e24449aa01394108ac52b278766cd4fa0e8235",
+    "social_links": [
+        "https://linkedin.com/company/karatelabs",
+        "https://twitter.com/getkarate",
+        "https://github.com/karatelabs"
+    ],
+    "logo_path": "data/logos\\Karate_Labs_logo.png"
+}

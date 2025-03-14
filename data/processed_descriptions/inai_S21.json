@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/inai",
+    "name": "inai",
+    "headline": "Segment for global payments",
+    "batch": "S21",
+    "description": "inai provides a single integration for global payments to help companies take digital payments across the globe.  \r\n\nIts a single integration for a merchant that will provide connections to all payment gateways ( Stripe/ Adyen/ Braintree), wallets ( Paypal, Apple Pay, Google Pay) , BNPL providers ( Klarna / affirm / afterpay), fraud ( Sift , riskified etc). \r\n\nMerchants will have a no-code dashboard to customize the checkout by region ( Show Apple pay and stripe in US along with USD pricing but show Klarna, Google Pay and Sofort in Germany with pricing in Eur for e.g)\r\n\nMerchants can also easily switch between providers and your data stays with you on Inai rather than with PSP like stripe making switch to Adyen or Braintree easy.",
+    "activity_status": "Active",
+    "website": "https://www.inai.io",
+    "founded_date": 2021.0,
+    "team_size": 14.0,
+    "location": "Delaware City, DE",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas",
+    "founders": [
+        {
+            "name": "Anta Pattabiraman, Founder",
+            "description": "Ex-banker turned serial entrepreneur\nSold my first startup Auro ( Connected fitness ) to start my new venture Inai\nAt Inai , we are building segment for payments- single integration for all your payment needs ( Gateways, wallets, BNPLs, open banking, crypto, fraud, tax , loyalty and more)\nLove tech and sport\nLive in the Uk with wife and son",
+            "linkedin": "https://www.linkedin.com/in/anantharaman-pattabiraman-87532a4/"
+        },
+        {
+            "name": "Karthik Narayanan, Founder",
+            "description": "Co-founder inai\nEx-co-founder of fitness tech company Auro. \nEx-Samsung | Qualcomm | Juniper Networks.",
+            "linkedin": "https://www.linkedin.com/in/karthik-narayanan-1b92241/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Inai: Simplifying Global Payments for Merchants\n\n**Overview:**  \nFounded in 2021 and hailing from Y Combinator Batch S21, inai is revolutionizing the way businesses manage their global payment processes. Headquartered in Delaware City, DE, with a compact team of 14, they\u2019re on a mission to streamline digital transactions for companies around the world.\n\n**The Problem:**  \nWhen it comes to global payments, complexity reigns. Merchants often grapple with various payment gateways, wallets, and fraud prevention systems. The end result? A fragmented process that increases operational costs and hinders revenue.\n\n**The Solution:**  \nEnter inai\u2014a single integration platform that simplifies this chaos. Instead of navigating multiple connections, merchants can seamlessly access all major payment gateways (like Stripe, Adyen, and Braintree) and wallets (including PayPal, Apple Pay, and Google Pay) through one dashboard. \n\n### Key Features:\n- **No-Code Dashboard:** Users can effortlessly customize their checkout experience: display Apple Pay in the US with USD pricing while showing Klarna in Germany with EUR pricing. \n- **Data Ownership:** Unlike traditional PSPs that hold your data, inai ensures all customer and transaction data remains with the merchant. Switching between payment providers is a breeze without the usual headaches.\n- **Intelligent Insights:** With machine-learning capabilities, inai offers tools like Revive, which automatically retries failed payments to maximize revenue recovery, and Observe, which provides detailed analytics on payment performance.\n- **Comprehensive Reconciliation:** The Reconcile feature automates payment matching, streamlining the reconciliation process to reduce errors and save time.\n\n### Current Activities:  \nInai is actively hosting webinars focused on optimizing authorization rates for critical sectors like airlines. Their ongoing commitment to user education enhances their service, making them a knowledgeable partner in the fintech space.\n\n### Customer Confidence:\nInai is already trusted by recognizable names like Gymshark, Upgrad, and Huel, showcasing that their solutions resonate with leading brands.\n\n### Why Choose Inai?\nWith a robust emphasis on ease, efficiency, and integration, inai stands out in the fintech sector as the go-to solution for businesses looking to simplify their payment processes and drive revenue. Whether you're a startup or an established enterprise, inai's tools are designed to help you thrive in the increasingly digital world.\n\nFor more information and to see how inai can streamline your payment processes, check out their website at [Inai.io](https://www.inai.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/52225ddd74f4e11ba71c2097af2208d6848daa82.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191428Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6367b2ebe81a838075d774d62098bdc4235275d1bf8ff5a3ecdd72b95e063bba",
+    "social_links": [
+        "https://www.linkedin.com/company/inai-co/?viewAsMember=true",
+        "https://twitter.com/inaitech",
+        "https://www.crunchbase.com/organization/inai",
+        "https://github.com/inaitech"
+    ],
+    "logo_path": "data/logos\\inai_logo.png"
+}

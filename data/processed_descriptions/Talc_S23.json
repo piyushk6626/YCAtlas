@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/talc",
+    "name": "Talc",
+    "headline": "Helping companies use their data to build better AI models",
+    "batch": "S23",
+    "description": "Talc builds datasets 100x faster than human labels while outperforming humans in quality.\r\n\nWe build custom datasets in any domain, and have replaced human labels for teams in fields ranging from Medical care to Insurance.",
+    "activity_status": "Active",
+    "website": "https://talc.ai",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "Seattle, WA",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:ai; location:seattle",
+    "founders": [
+        {
+            "name": "Matt Lee, Founder",
+            "description": "Ex-Airbnb, Ex-FB SWE.\n\nAt Facebook I worked on Election Integrity, using graph algorithms to detect coordinated activity, from foreign election interference to terrorist propaganda.\n\nAt Airbnb I worked on moonshots that will (maybe) ship late 2023.\n\nWhen I'm not working you can catch me snowboarding or climbing!",
+            "linkedin": "https://linkedin.com/in/mattllee"
+        },
+        {
+            "name": "Max Kerr, Founder",
+            "description": "Formerly doing privacy at FB and security at Microsoft. I was the tech lead for a 30 person engineering team at Facebook, and was involved in the privacy side of most major product launches over the last two years. \n\nI founded Talc to help people turn AI tech demos into production apps, along with my long time friend and climbing partner Matt.",
+            "linkedin": "https://linkedin.com/in/richard-kerr-43495760"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: Talc\n\n- **Founded**: 2023  \n- **Location**: Seattle, WA  \n- **Size**: 3 employees  \n- **Y Combinator Batch**: S23  \n- **Website**: [talc.ai](https://talc.ai)  \n\n---\n\n### Mission\n\nTalc's mission is straightforward: **Helping companies use their data to build better AI models.** This is not just a catchphrase\u2014it\u2019s the foundation of what they do.\n\n### What They Do\n\nOriginally focused on dataset creation, Talc strives to build custom datasets **100x faster than human labeling**, all while ensuring superior quality. They have successfully replaced human labels across diverse sectors, including **medical care** and **insurance**.\n\nCertainly, anyone in the AI sector knows how critical training data is. The quality and speed of data preparation can define the success of a model\u2019s performance. Talc's unique approach effectively takes on the burdensome task of data labeling, allowing enterprises to focus on refining their AI applications.\n\n### Services and Features\n\nTalc specializes in harnessing **Large Language Models (LLMs)** for medical data abstraction. Here are some standout features:\n\n- **Expert Quality Abstraction**: Using advanced models, Talc abstracts critical information from unstructured data, such as electronic medical records (EMRs), to answer specific inquiries swiftly.\n  \n- **Tailored for Medicine**: Unlike generic models, their solutions are designed to adeptly handle complex medical jargon, making them particularly useful in healthcare contexts.\n\n- **Efficiency**: Talc reports that once configured, their system can abstract notes in under **10 seconds**, which is notably faster and more cost-effective than employing human resources like registered nurses or residents.\n\n### Current Collaborations\n\nTalc is already trusted by various enterprises and research institutions, including notable names like Google and PupPilot.\n\n### Team and Guidance\n\nUnder the mentorship of **Michael Seibel** at Y Combinator, Talc is growing a tight-knit team of three. This small but agile crew is positioned to iterate rapidly on their offerings and refine their technology.\n\n### For Aspirants\n\nIf you\u2019re curious to see how Talc can streamline your data processes or want to delve deeper into generative AI strategies, they have an **Engineering Blog** that shares insights and knowledge relevant to AI development. \n\n---\n\nIn a nutshell, Talc epitomizes the potential of AI-driven data solutions, proving that with the right technology, we can elevate the way we manage information\u2014starting with a sector as critical as healthcare. If you\u2019re working with data, you should definitely keep an eye on what they\u2019re doing.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ccbe35dc440f9ce42091d7a8c06817f99e18e9a5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192005Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=58ce741418927f9c18dba0a857b4dcd8db87d1b6b0d191cd31cfbc0c14d75eaf",
+    "social_links": [
+        "https://www.linkedin.com/company/talc-ai/"
+    ],
+    "logo_path": "data/logos\\Talc_logo.png"
+}

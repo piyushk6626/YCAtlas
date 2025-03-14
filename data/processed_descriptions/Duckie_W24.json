@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/duckie",
+    "name": "Duckie",
+    "headline": "AI Assistant for Customer Support Teams",
+    "batch": "W24",
+    "description": "Duckie is an AI assistant that helps customer support teams resolve tickets faster!\r\n\nWe integrate with existing customer support workflows to respond to customers directly, and answer questions that support agents may have. Does a customer need help onboarding? Duckie is there! Is your support agent looking for info on the latest changes to the product? Duckie is there! \r\n\nDuckie can be installed anywhere, from Slack and Discord to Zendesk and Intercom. And we integrate with both customer support and engineering knowledge bases to go beyond the documentation. By sourcing information from across your knowledge base, we can step in and help out before questions get sent into the void of escalations.\r\n\nIf you're looking to give your customer support team a super power, come to Duckie!",
+    "activity_status": "Active",
+    "website": "https://duckie.ai/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:customer-support; industry:operations; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Valerie Li, Founder",
+            "description": "Cofounder and CEO of Duckie. Prior to Duckie, she has been a senior engineer for 6+ years with expertise in infrastructure.\nShe was a tech lead at Netflix for 3 years, where she led the subscriber growth project that stopped password sharing, which added 8m new subscribers and $200m in revenue (and saved the company's stock price).\nBefore that she was an engineer at LinkedIn, and got her Computer Science degree from USC.",
+            "linkedin": "https://linkedin.com/in/peifeili"
+        },
+        {
+            "name": "Joel Ritossa, Founder",
+            "description": "Co-founder and CTO at Duckie. Former AI Software Engineer at C3 AI, built Enterprise AI solutions. Princeton CS Class of 2020. Solving technical support with Valerie Li.",
+            "linkedin": "https://linkedin.com/in/joel-ritossa"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Duckie**\n\nFounded in 2023, Duckie is a San Francisco-based company that has quickly garnered attention as part of Y Combinator's Winter 2024 batch. The startup exists to empower customer support teams in the B2B SaaS space by integrating AI into their workflows. With a tiny team of two, they've set out with a clear mission: to enhance the efficiency and effectiveness of customer support.\n\n**What Duckie Does**\n\nDuckie offers an AI assistant specifically crafted for customer support teams. The product facilitates faster ticket resolution by integrating seamlessly into existing systems, whether it's Slack, Discord, Zendesk, or Intercom. Looking to provide support during onboarding or to clarify product updates? Duckie's got your back. It can scour through knowledge bases to deliver timely and relevant answers to both customers and support agents alike.\n\nKey Features:\n- **AI Support Agent:** Duckie can auto-respond to customer inquiries, offering instant solutions drawn from previous interactions.\n- **AI Support Copilot:** This feature aids support agents by searching through organizational knowledge to find the right information quickly.\n- **Log Investigation:** It helps technical teams troubleshoot by analyzing logs and code changes, allowing for faster issue resolution.\n- **Auto-updates and Reminders:** By tracking product changes and code commits, Duckie keeps teams updated so they can respond more effectively to customer queries.\n\n**Use Cases**\n\nDuckie has a particular focus on technical users, making it an invaluable tool for sectors like developer tools and fintech. For instance, it can quickly furnish answers to complex technical questions, such as user permissions or data import/export capabilities. \n\n**Integration and Security**\n\nDuckie's flexibility allows it to embed within various platforms and channels, ensuring that it can operate where customers are\u2014be it on website widgets or as a bot in collaboration tools like Microsoft Teams and Slack. The platform is designed with enterprise-grade security, maintaining data integrity and compliance with GDPR and CCPA.\n\n**Results So Far**\n\nInitial reports from users suggest that Duckie significantly reduces resolution times\u2014by up to 80%. They\u2019re reporting substantial cost savings as well, with some teams saving over $210k annually. Additionally, Duckie has demonstrated a 71% ticket deflection rate, meaning many customer inquiries are resolved without needing to escalate.\n\n**Closing Thoughts**\n\nIn a world where customer support teams are increasingly overwhelmed, Duckie positions itself as a crucial ally, transforming the way businesses interact with their customers. If you\u2019re looking to supercharge your support operations, Duckie might just be the AI companion you need. Want to give it a try? Head to [Duckie's website](https://duckie.ai/) to start your free trial.\n\nDuckie's mission to power customer support teams through AI could well define the future of customer service in tech\u2014seamless, efficient, and, above all, user-friendly.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/19d3818fb1e9af4d616efff5409dfe0b2060a0d7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191129Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a78b88628af07c42e14fd4f206e6f163d72b4f46df33546456f5e1a87b8a0790",
+    "social_links": [
+        "https://www.linkedin.com/company/duckie-ai/",
+        "https://twitter.com/duckie_ai"
+    ],
+    "logo_path": "data/logos\\Duckie_logo.png"
+}

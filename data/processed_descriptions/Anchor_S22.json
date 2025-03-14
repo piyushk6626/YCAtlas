@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/anchor",
+    "name": "Anchor",
+    "headline": "Embedded finance platform for African businesses",
+    "batch": "S22",
+    "description": "Anchor provides APIs, dashboard and tools that help developers easily embed and build banking products. This includes APIs for creating bank accounts, funds transfers, savings products, issuing cards and offering loans.\r\n\nWe also provide regulatory coverage and continuous compliance support to our partners.",
+    "activity_status": "Active",
+    "website": "https://getanchor.co/",
+    "founded_date": 2022.0,
+    "team_size": 8.0,
+    "location": "Lagos, Nigeria",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:banking-as-a-service; industry:fintech; industry:payments; industry:b2b; industry:api",
+    "founders": [
+        {
+            "name": "Segun Adeyemi, Founder",
+            "description": "Segun is the CEO & Co-founder of Anchor, the BaaS and embedded finance platform for Africa. He is an entrepreneur with years of experience in the African fintech space. He previously co-founded Amplifypay, a payment company that he sold in 2019 and helped JUMO expand into Nigeria.",
+            "linkedin": "https://www.linkedin.com/in/segunadeyemi/"
+        },
+        {
+            "name": "GBEKELOLUWA OLUFOTEBI, Founder",
+            "description": null,
+            "linkedin": "https://nl.linkedin.com/in/olufotebig"
+        },
+        {
+            "name": "Olamide Sobowale, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/olamide-sobowale-4677a261/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Anchor: Empowering African Businesses with Embedded Finance\n\nFounded in 2022 and based in Lagos, Nigeria, Anchor is carving out a niche as an embedded finance platform tailored for African businesses. Part of Y Combinator's Batch S22, the company aims to make banking products more accessible through robust APIs and developer-friendly tools. With a compact team of just 8 employees, Anchor is poised to drive significant change in the fintech landscape.\n\n#### Mission and Offerings\n\nAt its core, Anchor's mission is to provide seamless embedded finance solutions. The company delivers a comprehensive suite of products, enabling developers to effortlessly integrate banking features into their applications. These products include:\n\n- **Accounts**: Create custom deposit, savings, and virtual accounts using API solutions.\n- **Payments**: Efficient transfers and bill payments through fast, cost-effective integration.\n- **Cards**: Issue branded physical and virtual debit cards for customers.\n- **Credit**: Optimize lending services with APIs designed for quick loan management.\n- **Savings & Investment**: Tailored solutions for both individuals and enterprises.\n\nAdditionally, Anchor provides regulatory coverage and compliance support to its partners, ensuring adherence to local laws while allowing businesses to focus on growth.\n\n#### Why Anchor?\n\nThe fintech space is crowded, but Anchor distinguishes itself with a few critical advantages. \n- **Customizable Solutions**: Their RESTful API is adaptable, ensuring businesses can meet unique customer needs.\n- **Speed to Market**: Developers can launch client-facing solutions in just weeks, thanks to extensive documentation and well-designed tools.\n- **Focus on Relationships**: By allowing businesses to maintain direct customer interactions, Anchor empowers teams to build loyalty and engagement without the distractions of banking relationships.\n\n#### The Team and Leadership\n\nWith Aaron Epstein as their Group Partner and a dedicated founding team, Anchor is not just aiming to sell products\u2014they're striving to build partnerships that enable businesses to scale effectively in an evolving market.\n\nTheir strategic insights and deep understanding of local financial systems are invaluable assets in navigating the complexities of the African fintech ecosystem. \n\n#### Get Involved\n\nIf you\u2019re a developer or business leader looking to tap into these innovative financial solutions, Anchor invites you to explore their offerings. Check out their [website](https://getanchor.co/) for more information and to join the growing network of businesses transforming the financial landscape in Africa.\n\nIn a nutshell, as financial services become increasingly embedded into business operations, Anchor stands as a crucial ally for African enterprises, providing the tools and support needed to thrive in today's digital economy.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/07c51e2d1569796f2301e7f08f68f7815bcd5216.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190957Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=977e2edc79a64850fbdaac28fa133cd3b98c4d491739df9344d1f2e09dc06749",
+    "social_links": [
+        "https://www.linkedin.com/company/getanchor/",
+        "https://twitter.com/withanchor"
+    ],
+    "logo_path": "data/logos\\Anchor_logo.png"
+}

@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/stayflexi",
+    "name": "Stayflexi",
+    "headline": "Operating System for Hotels and Vacation Rentals",
+    "batch": "W21",
+    "description": "Stayflexi is a revolutionary platform designed to simplify hotel and vacation rental operations, while increasing revenues from unsold rooms and amenities. By harnessing the power of automation, Stayflexi eliminates the need for manual processes and provides a seamless, positive customer experience for guests. \r\n\nFounded by computer science majors from Carnegie Mellon and Cornell, Stayflexi was born out of the need to solve the problems experienced by hosts and travelers. With Stayflexi, you can rest assured that your guests will be given the best possible experience and that you will be able to maximize profits on your unsold rooms.\r\n\nStayflexi platform is helping over 2000 hotels in 16 different countries and growing rapidly.",
+    "activity_status": "Active",
+    "website": "https://business.stayflexi.com/",
+    "founded_date": 2019.0,
+    "team_size": 43.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:travel; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Venkatesh Sakamuri, Founder",
+            "description": "Venkat is Co-Founder and CEO of Stayflexi Inc. Invented flexible slot based booking model for rental industry. Architected and developed the core Stayflexi Platform. Venkat previously worked at Oracle in Core database development group, SQL engine team. He is a computer science major from Carnegie Mellon University.\n\nVenkat loves coffee, he learnt how to make a perfect cup from the scratch, right from grinding beans to proper latte (sometimes latte art), he does things this way.",
+            "linkedin": "https://www.linkedin.com/in/venkatsakamuri/"
+        },
+        {
+            "name": "Preetam Mohan Shetty, Founder",
+            "description": "Preetam Shetty is the Co Founder, CTO at Stayflexi. He Invented the flexible slot based booking model for the rental industry. Architected and developed the core Stayflexi Platform. \n\nPreetam previously worked for Oracle and was part of the engineering team responsible for building the NoSQL database service in Oracle cloud. He earned his masters degree in Computer Science at Cornell University.",
+            "linkedin": "https://www.linkedin.com/in/preetam-shetty-890202178/"
+        },
+        {
+            "name": "Krishna Sasank Talasila, Founder",
+            "description": "Krishna Sasank Talasila is the Co-Founder and Chief Information Officer at Stayflexi. Leads the UI/UX development, Cloud Infrastructure and Operations. Co-invented the time-based flexible inventory booking model to revolutionize the hospitality industry.\n\nKrishna holds a Masters degree in Computer science from Cornell University.",
+            "linkedin": "https://www.linkedin.com/in/sasank-stayflexi/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Stayflexi**\n\n- **Founded**: 2019\n- **Founders**: A group of computer science majors from Carnegie Mellon and Cornell.\n- **Location**: San Francisco, CA\n- **Employee Count**: 43\n- **Y Combinator Batch**: W21\n- **Website**: [Stayflexi](https://business.stayflexi.com/)\n\n---\n\n**Mission and Vision**  \nStayflexi aims to be the *operating system for hotels and vacation rentals*. It addresses the pain points of hospitality management, blending automation with a customer-centric approach to enhance both operational efficiency and guest experience. The core vision is to simplify the management of hotel and vacation rental operations while maximizing revenue from unsold rooms and amenities.\n\n**Why Stayflexi?**  \nStayflexi emerged out of a compelling need for a robust solution to the myriad challenges hosts and travelers face. The platform leverages automation to minimize manual tasks, enabling a smoother and more satisfying experience for guests. At the same time, property managers gain valuable tools to increase profitability.\n\n---\n\n**Key Features**  \nStayflexi's platform comprises several integrated components designed to streamline various aspects of hospitality management:\n\n1. **Operations Hub**: Automates front desk, back office, and housekeeping tasks through:\n   - Property Management System (PMS)\n   - Point of Sale (POS)\n   - Stock Management\n   - Expense Management\n\n2. **Sales Hub**: Tools to maximize bookings and revenues, including:\n   - Booking Engine\n   - Channel Manager\n   - Revenue Manager\n\n3. **Guest Hub**: Enhances the guest experience with personalized services:\n   - Magic Link for seamless check-in\n   - Kiosk & QR Code services\n   - Guest Messaging\n   - Guest Reviews Management\n\n4. **Payments Hub**: Simplified billing and secure payment processing supporting 100+ currencies.\n\n---\n\n**Global Reach**  \nCurrently, Stayflexi serves over 2,000 hotels across 16 countries and continues to expand rapidly. This widespread adoption is a testament to the platform's effectiveness in addressing the industry's needs.\n\n---\n\n**Client Perspectives**  \nStayflexi's clients span various segments within the hospitality industry and have praised the platform for its tailored solutions and comprehensive approach. Testimonials highlight improved operational control and enhanced guest experiences, affirming Stayflexi's role as a transformative partner for hospitality businesses.\n\n---\n\n**Looking Ahead**  \nWith ongoing innovations and a well-rounded suite of features, Stayflexi is poised for further growth in the hospitality sector, continuously empowering hotels and vacation rentals to operate smarter and serve their guests better. \n\n**For more information or to request a demo, visit [Stayflexi](https://business.stayflexi.com/)**.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4314574f9eee313b2536725cdbfdd20176e5d0ef.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191949Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4b94811e78b0913e85fc1af78cb353eceb5794620ecac9b5153287b0e5a41740",
+    "social_links": [
+        "https://www.linkedin.com/company/35475119/admin/",
+        "https://www.facebook.com/Stayflexi-107572240639174/",
+        "https://www.crunchbase.com/organization/stayflexi-inc",
+        "https://github.com/basarooms"
+    ],
+    "logo_path": "data/logos\\Stayflexi_logo.png"
+}

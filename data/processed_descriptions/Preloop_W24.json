@@ -1,0 +1,35 @@
+{
+    "links": "https://www.ycombinator.com/companies/preloop",
+    "name": "Preloop",
+    "headline": "Translate your experimental scripts into production ML services",
+    "batch": "W24",
+    "description": "Only 2 out of 10 ML models make it from experiment to production. Preloop helps automate the process of deployment, helping companies realize more value from their machine learning teams, while focusing teams' attention on science instead of engineering.",
+    "activity_status": "Active",
+    "website": "https://www.preloop.com",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:deep-learning; industry:developer-tools; industry:machine-learning; industry:data-science",
+    "founders": [
+        {
+            "name": "Tejas Hosangadi, Founder",
+            "description": "Tejas is the co-founder and CEO of Preloop, a product that automatically translates ML experimental scripts into production services. Before Preloop, he worked at Amazon where he scaled a data science team from 0-1, delivering 4 projects in the first year and leading the expansion of the team. He also worked as a senior MLE at EvolutionIQ, where he made significant improvements to a predictive model in his first month, helping them land a long term contract with Prudential.",
+            "linkedin": "https://linkedin.com/in/tejashosangadi"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Preloop: Streamlining ML Deployment**\n\nFounded in 2023 and part of the Y Combinator Batch W24, Preloop is on a mission to bridge the gap between experimental machine learning (ML) models and their deployment into production. The company was born from the compelling observation that only about 20% of ML models successfully transition from experimentation to real-world application. With a team of just two employees, Preloop focuses on automating the deployment process, allowing companies to extract more value from their ML teams. \n\nThe ethos at Preloop is to keep the spotlight on scientific exploration rather than the engineering nuances of deployment. This lets data scientists devote their energy to refining algorithms while Preloop takes care of getting those models into action. \n\nLocated in an undisclosed area (nan), Preloop\u2019s work speaks to the challenges many companies face in the AI landscape. They are tagged with keywords like 'artificial-intelligence', 'deep-learning', 'developer-tools', 'machine-learning', and 'data-science', highlighting their multi-faceted approach to the ML ecosystem.\n\nOn the advisory front, they have Diana Hu as their Group Partner, lending her expertise to guide the budding startup. If you're interested in learning more about their offerings and vision, check out their website at [preloop.com](https://www.preloop.com). \n\nIn a nutshell, Preloop is positioned at the intersection of AI automation and practical deployment, a key contender in a field that's growing increasingly crucial in the tech landscape.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ea82944ccd2ea210360069010c37eb3bbcbd3925.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191652Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=54d0f7816c6a78966b4a8c2a2e5c8a43802597a3a5fecae6ff4136d31ff784e0",
+    "social_links": [
+        "https://www.linkedin.com/company/preloop/",
+        "https://twitter.com/preloop",
+        "https://facebook.com/preloop",
+        "https://www.crunchbase.com/organization/preloop",
+        "https://github.com/preloop"
+    ],
+    "logo_path": "data/logos\\Preloop_logo.png"
+}

@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/numeral",
+    "name": "Numeral",
+    "headline": "SaaS & Ecommerce sales tax on autopilot.",
+    "batch": "W23",
+    "description": "Numeral handles all aspects of sales tax from registration to remittance for SaaS and e-commerce stores. We offer complete, white-glove service end to end.",
+    "activity_status": "Active",
+    "website": "https://numeralhq.com/",
+    "founded_date": 2022.0,
+    "team_size": 25.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:e-commerce; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kevin Liu, Founder",
+            "description": "Licensed CPA in the state of California. Previously worked in big 4 accounting at KPMG. Since leaving KPMG, Kevin has built numerous e-commerce business, ranging from 7 figure dropship accounts to 8 figure Shopify brands.",
+            "linkedin": "https://www.linkedin.com/in/kevin-liu-cal/"
+        },
+        {
+            "name": "Matt DuVall, Founder",
+            "description": "Long-time product engineer, launched Stripe Checkout and Stripe Radar (2014-19), led teams on performance and product at Notion (2020-2022).",
+            "linkedin": "https://www.linkedin.com/in/mduvall/"
+        },
+        {
+            "name": "Sam Ross, Founder",
+            "description": "Founded an e-commerce studio that generated over $50M in revenue over the last 4 years. Previously growth & product @ Airbnb, Teespring.",
+            "linkedin": "https://www.linkedin.com/in/sambross/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Numeral is a San Francisco-based startup that automates sales tax compliance for SaaS and e-commerce businesses. Founded in 2022 and a proud member of Y Combinator's W23 batch, Numeral\u2019s mission is to take the hassle out of sales tax\u2014let's face it, most people would rather focus on growing their business than keeping track of government regulations.\n\nThe cornerstone of Numeral's offering is its comprehensive, white-glove service. This means they handle everything from tax registration to remittance, ensuring that clients spend less than five minutes a month worrying about sales tax compliance. Essentially, they make sales tax \u201con autopilot.\u201d\n\nThe company has a streamlined and intelligent process that starts with identifying where clients have tax liabilities and automatically registering them once they hit specific thresholds or establish a nexus. They prepare returns and manage payments timely, backed by detailed reporting and a robust tax API that integrates seamlessly with billing platforms. If exemptions are a concern, Numeral helps clients verify their customers\u2019 exemption certificates and manage their compliance status efficiently.\n\nWith a dedicated team of around 25 employees and expert support at every step, Numeral aims to make sales tax compliance easy and stress-free. Their promise? If they ever file late, they\u2019ll cover any penalties or interest charges incurred\u2014talk about confidence in your service!\n\nTheir clients rave about the personal touch and effective support, with testimonials showcasing that Numeral helps businesses shift their focus back to growth while they take care of tax logistics. In a crowded space of tax compliance services, Numeral differentiates itself with a strong reliance on personalized service and cutting-edge technology.\n\nIf you\u2019re looking for a solution that simplifies your tax workflow, Numeral offers a straightforward pricing model with no long-term contracts\u2014a refreshing change in the SaaS space. Interested parties can easily get started with a simple sign-up or demo request.\n\nIn short, with Numeral, you can rest easy knowing your sales tax is in capable hands, giving you back the time to do what you do best: run your business. For more info, check them out at [Numeral HQ](https://numeralhq.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/371a159be53b4397a468989677374388995012b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191603Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6716b565e857db90a8f07b6488204a977783c5527a01b67245def2cb64ecd584",
+    "social_links": [
+        "https://www.linkedin.com/company/numeralhq",
+        "https://twitter.com/NumeralTax"
+    ],
+    "logo_path": "data/logos\\Numeral_logo.png"
+}

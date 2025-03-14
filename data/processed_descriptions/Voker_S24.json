@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/voker",
+    "name": "Voker",
+    "headline": "No-Code AI Builder",
+    "batch": "S24",
+    "description": "Voker is a no-code platform that empowers product teams to build AI features in minutes without involving engineers. Companies like Lull.com and Dutch.com are using our platform to improve their consumer experience and retention.\r\n\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.\r\n\nAlex experienced firsthand the broken developer experience in AI while building enterprise infrastructure at Yardi. Even with a dedicated ML team, it took too much time to build simple AI features. It was clear that if large companies were struggling with this, SMBs would definitely be left behind. We went directly to our network of SMB operators and found our hunch was correct. Within a week we had two paying customers even before launching our first prototype.\r\n\nVoker is built for product specialists who know they can delight their users with AI but can't spend engineering bandwidth on building those features. By making AI accessible and practical, Voker helps these businesses profit from this new wave of innovation.",
+    "activity_status": "Active",
+    "website": "https://voker.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Tyler Postle, Founder",
+            "description": "Co-Founder of Voker. In previous roles, I've built applied data products that drive growth. I was an operator of a $100MM DTC ecomm company and ran revenue growth data science for a $10B public SaaS company. I'm passionate about building high performing teams and continuously learning.",
+            "linkedin": "https://www.linkedin.com/in/tyler-postle/"
+        },
+        {
+            "name": "Alex Rudolph, Founder",
+            "description": "Co-Founder of Voker, the Self-Serve AI Builder for Product Teams",
+            "linkedin": "https://www.linkedin.com/in/alex-r-87470a198/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Voker: Revolutionizing No-Code AI Development\n\n**Company Overview**\nFounded in 2024 and part of Y Combinator's Summer 2024 batch, Voker is a cutting-edge, no-code platform designed to empower product teams to rapidly build AI features without the need for engineering resources. The idea was born from the experiences of co-founders Alex and Tyler, who met at a successful E-Commerce startup, and realized the challenges of implementing AI in a timely manner. \n\n**The Problem and Solution**\nBoth founders encountered significant roadblocks when attempting to develop AI features in their respective fields. Alex, while working within a dedicated ML team at Yardi, learned how a lack of speed in development hampered innovation and efficiency, particularly for small to medium-sized businesses (SMBs). This led them to engage directly with SMB operators, quickly confirming a strong demand for a solution like Voker.\n\nVoker aims to bridge the gap for product specialists\u2014letting them focus on what they do best: enhancing user experience. By providing a no-code interface, Voker allows teams to create and deploy AI enhancements in minutes, without getting bogged down by technical complexities.\n\n**Key Features**\n- **User-Friendly Interface**: Voker's intuitive platform enables anyone to configure AI features using simple, plain English instructions.\n- **Fully-Managed Infrastructure**: Users don\u2019t have to worry about server management, database setup, or API integrations. Voker handles it all, freeing up resources for innovation.\n- **Tailored Solutions**: Voker can be customized to meet the specific context and needs of various businesses, enhancing functionality through intelligent design.\n- **Performance Monitoring**: Users have access to real-time performance metrics, ensuring reliability as they deploy AI solutions.\n- **Collaborative Environment**: The platform supports multiplayer collaboration, making it efficient for teams to build and iterate together.\n\n**Current Use Cases**\nVoker\u2019s platform is already making waves with clients like Lull.com and Dutch.com, who rave about the platform's efficiency. As noted by clients, Voker allows organizations to prototype and roll out AI features rapidly\u2014improving customer experience and driving retention.\n\n**Team and Support**\nWith a small but dedicated team of two and supported by Group Partner Dalton Caldwell, Voker is poised to scale and adapt to the evolving needs of the market.\n\nIf you want to jumpstart your journey into AI development without the drudgery of coding, check out Voker at [voker.ai](https://voker.ai). They\u2019re making it possible for product teams to innovate faster and smarter, and they\u2019re just getting started.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/597ec5d83fe12d21f7bea50666b54074d3124e02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192051Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ddb006d944087c02b95050688e66c8a038914a633b25bfa6c183a969ad7c70b1",
+    "social_links": [
+        "https://www.linkedin.com/company/voker-ai/",
+        "https://x.com/Voker_ai"
+    ],
+    "logo_path": "data/logos\\Voker_logo.png"
+}

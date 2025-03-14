@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/sonia",
+    "name": "Sonia",
+    "headline": "Conversational AI for Mental Health",
+    "batch": "W24",
+    "description": "Sonia is a conversational AI that conducts entire therapy-like sessions both by voice and text via a phone app. 70 million Americans who struggle with their mental health can now access therapy for $200 per year instead of $200 per session. Founded by a team of MIT researchers who published 9 papers on AI at conferences like NeurIPS.",
+    "activity_status": "Active",
+    "website": "https://soniahealth.com",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Chris Aeberli, Founder",
+            "description": "Learned to code at ETH Zurich & MIT. Learned to speak and make slides at McKinsey.\nAlso used to play poker professionally, but zero-sum games are pointless so now building an AI to make people happier.\nOriginally from Switzerland :)",
+            "linkedin": "https://linkedin.com/in/chris-aeberli"
+        },
+        {
+            "name": "Dustin Klebe, Founder",
+            "description": "I graduated from ETH Zurich with a degree in Computer Science and conducted AI research at MIT in Boston. Previously, I worked as the first ML engineer at the Series B educational tech startup Knowunity and served as president of the German Excellence Scholarship KAS.",
+            "linkedin": "https://linkedin.com/in/dustin-klebe-679675163"
+        },
+        {
+            "name": "Lukas Wolf, Founder",
+            "description": "I studied CS at ETH and MIT spending most of my time on research in AI and NLP. Worked in research labs (ETH, MIT), at corps (BMW), and startups.",
+            "linkedin": "https://linkedin.com/in/lukas-wolf-14a992143"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Sonia: Conversational AI for Mental Health**\n\nSonia is a groundbreaking conversational AI designed to provide support for mental health through affordable, tech-driven means. Founded in 2023 by a team of MIT researchers, Sonia aims to bridge the accessibility gap in mental health care. With an impressive background\u2014having published nine papers at top conferences like NeurIPS\u2014this team is clearly not just dabbling in AI; they\u2019re reshaping the landscape.\n\nImagine being able to access therapy-like sessions for just $200 a year, instead of the typical $200 per session. That\u2019s the value Sonia offers to the approximately 70 million Americans grappling with mental health challenges. This solution is delivered via a user-friendly phone app that facilitates 20-minute voice-based wellbeing sessions, allowing users to engage in therapeutic conversations anytime.\n\nCurrently in Y Combinator's Batch W24, Sonia is a lean start-up with a team of only three. Operating from an undisclosed location, they are already making significant strides in the field of emotional support. By democratizing access to mental health resources, Sonia aims to make \u201chappiness at scale\u201d a reality\u2014an ambitious yet vital endeavor in today\u2019s fast-paced world.\n\nFor those interested, Sonia offers a free research preview of their app, inviting users to experience firsthand the kind of emotional support AI can provide. Curious minds can check it out at [Sonia's website](https://soniahealth.com) or directly download the app for trial.\n\nIn summary, Sonia is not just about AI; it\u2019s about making mental health care more accessible and less daunting. In an age where mental well-being is paramount, Sonia stands out as a shining beacon for those seeking help.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/42e191fb20355cab38c6fdb06812ed020592a98b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191937Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6721d5d4f5e8a6305660cdef4c669ec291d64f013352c45e96e7f194ae723e6b",
+    "social_links": [
+        "https://www.linkedin.com/company/sonia-health/",
+        "https://twitter.com/Sonia_Health"
+    ],
+    "logo_path": "data/logos\\Sonia_logo.png"
+}

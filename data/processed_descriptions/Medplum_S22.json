@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/medplum",
+    "name": "Medplum",
+    "headline": "API first electronic health record (EHR) that is open source",
+    "batch": "S22",
+    "description": "Medplum makes it easy to build healthcare webapps that are compliant and interoperability ready.  Our open source toolkit allows healthcare providers write apps that are HIPAA compliant, SOC2 certified and FHIR native - streamlining payor connections, health system integrations and more.",
+    "activity_status": "Active",
+    "website": "https://www.medplum.com",
+    "founded_date": 2021.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:healthcare; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Reshma Khilnani, Founder",
+            "description": "Reshma is CEO of Medplum. In the recent past she was a Visiting Group Partner at YC. Reshma Khilnani was co-founded of MedXT (YC W13 acquired by Box) and Droplet (now Kit.com). Early in her career she held roles at Facebook and Microsoft. Reshma has a BS and MEng from MIT in EECS. She lives in San Francisco and owns reshma.com",
+            "linkedin": "https://www.linkedin.com/in/reshmakhilnani/"
+        },
+        {
+            "name": "Rahul Agarwal, Founder",
+            "description": "Rahul is COO at Medplum. In the past, he worked on the machine learning team at Palantir, and was the Customer Impact Lead at Applied Intuition. Rahul has a B.S. and M.S. in Computer Science from Stanford, and an MBA from MIT Sloan",
+            "linkedin": "https://www.linkedin.com/in/rahul-agarwal-330a979/"
+        },
+        {
+            "name": "Cody Ebberson, Founder",
+            "description": "Cody is CTO of Medplum, an open source healthcare data platform.  In the past, he was a Director of Engineering at One Medical, Healthcare Engineering Lead at Box, and co-founded MedXT (YC W13 acquired by Box).  Cody holds a BS in Computer Science and an MBA from Harvard Business School.",
+            "linkedin": "https://www.linkedin.com/in/codyebberson/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Medplum: Revolutionizing Healthcare Development\n\nMedplum is a San Francisco-based startup that launched in 2021 and quickly made waves in the healthcare tech space as part of Y Combinator's Batch S22. With a lean team of three, Medplum aims to tackle the complexities of healthcare development by providing an open-source, API-first electronic health record (EHR) platform designed specifically for developers.\n\n#### The Core Mission\nAt its heart, Medplum is about making healthcare development accessible and efficient. The platform allows developers to create compliant healthcare web applications that are both HIPAA compliant and FHIR-native, facilitating seamless integrations with payors and health systems.\n\n#### Key Features\n1. **Open Source & API-First**: Medplum\u2019s technology is built on open-source principles (Apache 2.0), allowing unlimited programmability without the fear of vendor lock-in. Developers can use the API to connect with any partner or service, accommodating diverse data sharing needs.\n  \n2. **Built for Compliance**: With built-in HIPAA and SOC2 compliance, Medplum radically reduces the headache typically associated with regulatory adherence in healthcare technology.\n\n3. **Flexibility and Automation**: Medplum supports the automation of complex operations, helping developers create and manage workflows without the usual hassles and setbacks.\n\n4. **Robust Developer Support**: The platform boasts comprehensive documentation and a vibrant community, ensuring developers are never alone in their journey.\n\n5. **Scalability**: Whether you're launching a Minimum Viable Product (MVP) or scaling to an IPO, Medplum grows with your needs, providing a solid foundation for future development.\n\n#### Available Solutions\n- **Custom EHRs**: Medplum offers a headless EHR solution that saves substantial development time.\n- **Patient and Provider Portals**: Their platform enables the rapid creation of customizable, scalable portals for both patients and healthcare providers.\n\n#### Endorsements and Success Stories\nMedplum is gaining traction and is already trusted by a roster of notable clients, including Thirty Madison, CDC, and Ro Health. Users consistently praise the platform's ease of use, developer-centric approach, and how it significantly accelerates the pace of launching new features.\n\n#### The Bigger Picture\nIn a landscape where many healthcare tech solutions are clunky and outdated, Medplum emerges as a breath of fresh air. By prioritizing developer experience and providing robust, compliant solutions, Medplum isn\u2019t just another tool; it\u2019s a catalyst for innovation in healthcare technology.\n\nTo dive deeper into what Medplum can do for you and your development team, visit their website here: [Medplum](https://www.medplum.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e58bac47293bfc099287048bcc395d31e92d72ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191530Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cda803c1ee22ef3893d1f56714feff49381e2d02f92c19737cf8951d76a821ac",
+    "social_links": [
+        "https://www.linkedin.com/company/medplum",
+        "https://twitter.com/Medplum1"
+    ],
+    "logo_path": "data/logos\\Medplum_logo.png"
+}

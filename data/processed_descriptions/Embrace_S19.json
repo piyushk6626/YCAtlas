@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/embrace",
+    "name": "Embrace",
+    "headline": "Modern mobile observability built on OpenTelemetry",
+    "batch": "S19",
+    "description": "*S19 and YCG F21*\r\nEngineering teams shouldn\u2019t be in the dark when it comes to the performance of their mobile apps and user experiences. With our industry-leading mobile observability technology, Embrace aims to give SRE and DevOps teams better insight into what matters most \u2013 their users \u2013 by tying mobile performance data to backend observability insights.\r\n\nAs the only user-focused, mobile-first observability solution built on OpenTelemetry, Embrace delivers crucial insights across both DevOps and mobile teams to illuminate real customer impact \u2013 not just server impact \u2013 to deliver the best app experiences. Customers like The New York Times, Marriott, Warby Parker, Masterclass, Home Depot, and Cameo love Embrace\u2019s mobile observability platform because it makes extremely complicated and voluminous data actionable.",
+    "activity_status": "Active",
+    "website": "https://embrace.io",
+    "founded_date": 2016.0,
+    "team_size": 52.0,
+    "location": "Los Angeles, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:open-source; location:los-angeles",
+    "founders": [
+        {
+            "name": "Eric Futoran, Founder and CEO",
+            "description": "Founder of Embrace, the only observability platform purpose-built for mobile. We proactively discover errors and instantly resolve issues for UX and Engineers, while delivering 100% of sessions and enriched data for Data Science.\n\nPreviously founder of Scopely, the #1 mobile games publisher with Yahtzee, Walking Dead, and Star Trek. Built the first DMP at Aggregate Knowledge.  First job was at Trilogy.",
+            "linkedin": "https://www.linkedin.com/in/futoran/"
+        },
+        {
+            "name": "Fredric Newberg, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/fredricnewberg/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Embrace**\n\n**Founding and Background:**  \nEmbrace was founded in 2016 as part of Y Combinator's Batch S19 and YCG F21. Based out of Los Angeles, CA, Embrace started with a mission to remove the ambiguity surrounding mobile app performance. With a core team of 52, the company has positioned itself as a leader in modern mobile observability by leveraging OpenTelemetry.\n\n**Mission Statement:**  \nTheir mission is straightforward: to provide modern mobile observability built on OpenTelemetry. This pioneer approach ensures that engineering teams can see exactly how their mobile apps are performing from a user-centric perspective, not just server metrics. \n\n**Why Embrace Matters:**  \nIn today's mobile-dominated landscape, understanding the user experience is more vital than ever. Embrace effectively connects mobile performance data with backend observability insights, ensuring that both SRE and DevOps teams have the crucial insights they need to enhance user experiences. They're not just tallying errors; they focus on real user impacts \u2013 and that's a game changer.\n\n**Key Features:**\n- **Mobile Observability:** Embrace specializes in mobile-first observability, meaning that they provide insights that empower mobile developers to grasp their app's performance in a way that traditional tools often overlook.\n- **OpenTelemetry Integration:** As the only user-focused solution built on OpenTelemetry, Embrace stands out by embracing open-source solutions while delivering powerful mobile observability tools.\n- **Performance Insights:** Their tools offer in-depth performance metrics, troubleshooting capabilities, and user timeline insights, leading to quicker resolutions and better user experiences.\n\n**Customer Base:**  \nEmbrace is trusted by a host of leading brands, including The New York Times, Marriott, Warby Parker, Masterclass, Home Depot, and Cameo. These companies rely on Embrace to make complex and voluminous data actionable, ultimately influencing their app performance strategies.\n\n**Use Cases and Industries:**  \nEmbrace caters to several key industries:\n- **E-commerce and Retail**\n- **Travel and Hospitality**\n- **Media and Entertainment**\n- **Gaming**\n\nThe versatility of their solution allows them to tackle a variety of use cases including the unification of mobile and backend observability, client-side networking solutions, and enhancing team collaboration across the board.\n\n**Resources for Developers:**  \nEmbrace provides extensive resources, including eBooks, webinars, and case studies, helping teams across sectors to learn better practices in SLO development and refine their observability strategies.\n\n**Conclusion:**  \nFor teams looking to enhance their mobile app performance and user experiences, Embrace is not just another tool\u2014it's a strategic partner. By putting users at the forefront of performance observability, Embrace allows teams to make informed decisions that directly benefit their customers. If your mission is to understand users and turn those insights into actionable strategies, Embrace is worth a serious look. \n\n**Explore Embrace:** [Visit Website](https://embrace.io)",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/709aed5659798f08b446430f729c9a35d735a239.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191308Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=374fc5cd8ecd8551dcfb217b330519fa3f73ac7f5cc3f150d25f867ef88a7a90",
+    "social_links": [
+        "https://www.linkedin.com/company/embrace.io",
+        "https://twitter.com/embracemobile",
+        "https://www.facebook.com/embracemobile/",
+        "https://www.crunchbase.com/organization/embrace-io",
+        "https://github.com/embrace-io"
+    ],
+    "logo_path": "data/logos\\Embrace_logo.png"
+}

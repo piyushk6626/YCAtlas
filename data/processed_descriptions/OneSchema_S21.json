@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/oneschema",
+    "name": "OneSchema",
+    "headline": "Automate CSV imports from anywhere",
+    "batch": "S21",
+    "description": "OneSchema is the embeddable CSV importer used by product and engineering teams to save months of development time and to automate CSV mapping, validation, and transformation.",
+    "activity_status": "Active",
+    "website": "https://www.oneschema.co",
+    "founded_date": 2021.0,
+    "team_size": 16.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:data-engineering; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Andrew Luo, Founder",
+            "description": "Co-founder of OneSchema",
+            "linkedin": "https://www.linkedin.com/in/andrew-luo-6495704a/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**OneSchema: Simplifying CSV Imports for Developers**\n\nFounded in 2021 and a proud member of Y Combinator's S21 batch, OneSchema is carving out a niche in the SaaS landscape by automating CSV imports. Headquartered in San Francisco, this agile team of 16 specializes in providing developer tools designed to streamline the often cumbersome task of handling CSVs.\n\n### The Mission\nOneSchema's core mission is straightforward: **Automate CSV imports from anywhere**. This mission reflects a deep understanding of the pain points faced by product and engineering teams. By offering an embeddable CSV importer, OneSchema allows these teams to save months of development time that would otherwise be spent on CSV mapping, validation, and transformation.\n\n### What They Offer\nOneSchema provides a set of powerful tools designed to enhance the user experience during data imports. Their flagship products include:\n- **Embeddable Importer:** This allows companies to launch a one-click CSV import in minutes with just a line of code. The tool boasts over 50 no-code validations and transformations that assist users in handling their complex spreadsheets.\n- **Embeddable FileFeeds:** This feature enables the automation of recurring CSV imports seamlessly, empowering users to record and replay transformations.\n\n### Who Uses It?\nThe versatility of OneSchema makes it an invaluable tool across several industries, including:\n- **Marketplaces**\n- **Sustainability analytics**\n- **Credit bureaus**\n\nOneSchema is trusted by a range of customers who have reported significant improvements in onboarding conversion rates after implementing their solutions, such as Streak and Ramp.\n\n### The Team and Support\nUnder the wise guidance of Group Partner Dalton Caldwell, OneSchema is energized and adaptable. Support resources like detailed documentation and customer case studies further empower teams to leverage the platform effectively.\n\n### Industry Tags\nThe company is well-placed within multiple industry tags, namely:\n- Developer Tools\n- SaaS\n- B2B\n- Data Engineering\n- San Francisco Bay Area\n\n### Security and Compliance\nIn today's data-driven environment, safeguarding user data is paramount. OneSchema adheres to stringent compliance standards, including SOC 2 Type 2 and GDPR regulations, along with robust data encryption practices.\n\n### Conclusion\nIn an era where data handling can be a bottleneck, OneSchema emerges as a beacon for efficiency and automation. By alleviating the burdens of CSV imports, they empower teams to focus on what truly matters\u2014building great products. Interested parties can learn more and get started at [OneSchema\u2019s website](https://www.oneschema.co).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/97edbadac4d6a98817e0fd9b10004e54bc478e10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191610Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f87387b12b043a02967a7462bfb7cde34dc5754a5d8f7dcd2379ae15acdfdf4b",
+    "social_links": [
+        "https://www.linkedin.com/company/oneschema",
+        "https://twitter.com/oneschema_co",
+        "https://www.facebook.com/OneSchema-145400804361261",
+        "https://www.crunchbase.com/organization/oneschema"
+    ],
+    "logo_path": "data/logos\\OneSchema_logo.png"
+}

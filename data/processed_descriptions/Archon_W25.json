@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/archon",
+    "name": "Archon",
+    "headline": "We help software companies sell to government.",
+    "batch": "W25",
+    "description": "Government IT purchases account for 20% of the U.S. software market. Archon's SDK helps software companies sell to the government by cutting the federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible for small tech companies.\r\n\nEmail us at inquiries@archon.inc",
+    "activity_status": "Active",
+    "website": "https://archon.inc",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:govtech; industry:b2b; industry:compliance; industry:automation; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sam Jung, Founder",
+            "description": "CTO of Archon. Previously advised the U.S. AI Safety Institute at Ai2, edited international law to protect open source development at the UN, and shaped tech policy in 10+ states with the Paragon Fellowship.\n\nStudied for a MS in CS & BA in Politics at Penn.",
+            "linkedin": "https://www.linkedin.com/in/sam-jung-b71956ab/"
+        },
+        {
+            "name": "George Parks, Founder and CEO",
+            "description": "CEO of Archon. Previously a tech policy analyst at the U.S. Department of State, informing diplomats on trends in AI, Quantum, and VR/XR. Originally a software engineering consultant building MVPs quickly for small businesses. Studied CS at Georgia Tech.",
+            "linkedin": "https://www.linkedin.com/in/george-parks/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Archon: Simplifying Government Compliance for Software Companies\n\nFounded in 2024 and based in San Francisco, Archon is on a clear mission: to help software companies effectively sell to government entities. Given that government IT purchases represent a staggering 20% of the U.S. software market, the potential for innovation in this space is vast\u2014but the road to getting software approved for governmental use can be fraught with complexities.\n\n#### The Compliance Challenge\n\nOne of the biggest hurdles for software developers is achieving compliance with federal regulations known as FedRAMP (Federal Risk and Authorization Management Program). Traditionally, the time to navigate this compliance process has been around 16 months, not to mention the substantial costs associated with it, averaging about $1 million per company. Archon\u2019s solution? A streamlined, automated SDK that can cut the compliance timeline to just 6 months and reduce costs significantly.\n\nTheir approach leverages automation and standardized processes to enhance government efficiency and foster competition, especially among smaller tech companies that would typically be sidelined by the costly compliance demands.\n\n#### How Archon Works\n\nArchon simplifies the FedRAMP process into four straightforward steps:\n\n1. **Integrate**: Software companies start by incorporating Archon\u2019s lightweight SDK, which automatically implements the required security controls with minimal configuration.\n   \n2. **Documentation**: The next step involves using Archon's automated tools to generate essential documentation. This dramatically reduces the manual workload required for compliance.\n   \n3. **Audit Preparation**: Companies are then guided through the audit process with approved third-party assessors, ensuring they\u2019re well-prepared.\n   \n4. **Final Review**: Finally, Archon helps manage the review process by the Program Management Office, tackling any follow-up requests along the way.\n\nBy implementing these steps, companies can achieve compliance in much less time, allowing them to focus on innovation and the development of their software solutions.\n\n#### Key Features\n\n- **Cost Savings**: Archon helps eliminate an average of $1 million in costs usually associated with the compliance process.\n- **Accelerated Timelines**: Compliance can be achieved in about 6 months instead of many years.\n- **Industry Expertise**: Founded by former government staffers, Archon understands the nuances of government requirements.\n\n#### Join the Transformation\n\nIf you\u2019re interested in breaking into the government software market, Archon invites you to explore their **[How It Works](https://archon.inc/how-it-works)** page, check out their **[Blog](https://archon.inc/blog)**, or **[Book a Demo](https://archon.inc/)** to see the difference for yourself.\n\nArchon is not just revolutionizing how software companies interact with the government; they are expanding opportunities in a space that has historically limited access for smaller firms. With a team of only three, including Group Partner Gustaf Alstromer from Y Combinator (Batch W25), the company is poised for significant impact in the govtech landscape.\n\n#### Contact Information\n\nTo get in touch, reach out via email at [inquiries@archon.inc](mailto:inquiries@archon.inc), or visit their [website](https://archon.inc) for more details.\n\nIn a nutshell, Archon is simplifying a complex space and making government business accessible. It's about time someone did.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/01c0ef2e252b143a0a7f6b04ece67a63da0bb909.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191002Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cdb1021cc97f48c8e5613c8b2856c103d5485f9c79e804ab5790d9b40d662af6",
+    "social_links": [
+        "https://www.linkedin.com/company/getarchon/",
+        "https://x.com/archoninc"
+    ],
+    "logo_path": "data/logos\\Archon_logo.png"
+}

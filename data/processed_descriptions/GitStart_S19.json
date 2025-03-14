@@ -1,0 +1,23 @@
+{
+    "links": "https://www.ycombinator.com/companies/gitstart",
+    "name": "GitStart",
+    "headline": "Pull Requests as a Service",
+    "batch": "S19",
+    "description": "GitStart accelerates software engineers with Pull Requests as a Service. Assign tickets to GitStart Bot, go to sleep, and wake up with PRs. GitStart Bot automatically manages thousands of AI models and full-time engineers and runs peer reviews until PRs are ready to be merged. It\u2019s scalable, flexible, and quality is guaranteed: you only pay for merged PRs.",
+    "activity_status": "Active",
+    "website": "https://www.gitstart.com",
+    "founded_date": 2021.0,
+    "team_size": 19.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; location:san-francisco-bay-area",
+    "founders": [],
+    "status": true,
+    "generated_description": "GitStart is a dynamic startup based in San Francisco, founded in 2021, and a proud member of Y Combinator Batch S19. Its mission? To provide \"Pull Requests as a Service\"\u2014a novel solution that enables companies to streamline their software engineering processes effortlessly.\n\nThe core concept is simple: Assign tickets to the GitStart Bot, hit the pillow, and wake up to ready-to-merge pull requests (PRs). By harnessing a blend of AI models and a talented team of full-time engineers, GitStart manages everything from ticket scoping to peer reviews. This means you're only paying for the PRs that get merged, ensuring costs are tightly aligned with value.\n\nWith a compact team of 19, GitStart has already made a significant impact, handling over 15,000 PRs for various innovative companies like Cal.com and Firefox. Their service is designed to let engineering teams scale flexibly\u2014adjusting the volume of work as needed without the overhead of traditional hiring. \n\nThe process works like this:\n1. **Assign:** You submit tickets, and their AI Ticket Studio creates well-defined tasks by referencing your codebase.\n2. **Update:** Keep in the loop with real-time updates on ticket progress sent directly to your Slack.\n3. **Review:** GitStart handles extensive QA and code review, allowing you to merge only after the highest standards of quality are met.\n\nGitStart isn\u2019t just about delivering PRs but about enabling companies to accelerate their development cycles while maintaining a lean operation. They emphasize security with a feature called GitSlice, which allows clients to share only the necessary portions of their codebase needed for the developers to complete tasks. \n\nIn today\u2019s fast-paced tech landscape, GitStart positions itself as a crucial ally for companies looking to efficiently execute their engineering tasks while focusing on their core product. For more information, you can visit [GitStart](https://www.gitstart.com). \n\nIn summary, if you\u2019re looking to ship code faster without the headache of managing a full engineering team, GitStart could be the solution you've been searching for.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c0e87ea4c364b70f8a4a3d3036f59ea884b4fe68.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191358Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=88fd9712c3762b65d12c77fad69bfa421a1c6bf6a4a59cc062b7eb49647a7c6e",
+    "social_links": [],
+    "logo_path": "data/logos\\GitStart_logo.png"
+}

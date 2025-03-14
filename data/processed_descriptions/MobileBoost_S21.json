@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/mobileboost",
+    "name": "MobileBoost",
+    "headline": "AI native mobile testing.",
+    "batch": "S21",
+    "description": "*Achieve Mobile App Test Coverage 10x Faster with AI-Powered Automation*\r\n\nStruggling with low E2E test coverage for your mobile app? Short on QA resources? \r\n\nOur GPT Driver uses AI to automate your mobile app testing, freeing up your team and providing reliable, consistent results. Eliminate tedious maintenance, accelerate release cycles, and ship higher-quality apps with GPT Driver. \r\n\nTrusted by mobile industry leaders like Duolingo, Spotify, Netflix, Etsy and Wise.\r\n\nCheck out Duolingo's case study about their partnership with GPT Driver and how they reduced manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/",
+    "activity_status": "Active",
+    "website": "https://www.mobileboost.io/yc",
+    "founded_date": 2019.0,
+    "team_size": 15.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:b2b; industry:no-code; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Christian Schiller, Founder",
+            "description": "Christian led Product at HelloFresh (#1 meal kit service, symbol: HFG) for more than 4 years.\nBefore, he was an Entrepreneur in Residence at Rocket Internet, where he worked in Product roles with Westwing (symbol: WEW), Home24 (symbol: H24), and co-founded PricePanda in South East Asia (which was later merged with getprice.com.au).",
+            "linkedin": "https://www.linkedin.com/in/chschiller/"
+        },
+        {
+            "name": "Christian Hartung, Founder",
+            "description": "Christian previously founded VOJD, a Lakestar backed, consumer 3d printing venture featured by New York Times, Wired and partnered with super influencers such as Virgil Abloh.\n\nBefore, he was an Entrepreneur in Residence at Rocket Internet, where he worked in sourcing and marketing roles with Global Fashion Group (symbol: GFG) and payleven (which was later merged with SumUp).",
+            "linkedin": "https://www.linkedin.com/in/christian-hartung-17887840/"
+        }
+    ],
+    "status": true,
+    "generated_description": "MobileBoost, founded in 2019 and backed by Y Combinator (Batch S21), is a San Francisco-based startup dedicated to revolutionizing mobile app testing through AI-powered automation. Their platform, GPT Driver, aims to enhance the end-to-end (E2E) testing process, making it faster and more efficient\u2014a critical need for teams grappling with inadequate test coverage and limited QA resources.\n\nAt its core, MobileBoost's mission is to provide AI-native mobile testing solutions that help teams achieve mobile app test coverage up to 10 times faster. By utilizing their advanced GPT Driver, teams can automate mobile app testing, reducing the burden of tedious maintenance tasks and accelerating release cycles, ultimately delivering higher-quality apps.\n\nRenowned companies like Duolingo, Spotify, Netflix, Etsy, and Wise trust MobileBoost's technology. A striking example comes from Duolingo, which reported a 70% reduction in manual regression testing workflows through their partnership with the GPT Driver. [Check out the case study here.](https://blog.duolingo.com/reduced-regression-testing/)\n\nMobileBoost\u2019s team consists of 15 talented individuals, including group partner Gustaf Alstromer. Their innovation is not just about automation; it encompasses user-friendly features such as a no-code editor, cross-platform testing, seamless API calls, and AI capabilities that adapt to unexpected UI changes without requiring users to adjust their test scripts.\n\nIn a landscape where testing can often feel like a conundrum, MobileBoost is reshaping how teams approach quality assurance. Their offerings allow users to write tests in plain English, shift testing earlier in the development cycle, and maintain robust test coverage\u2014all while eliminating common frustrations associated with traditional testing methods.\n\nCurious to learn more? You can visit their [website](https://www.mobileboost.io/yc) or schedule a demo to see GPT Driver in action. If you've been searching for a smarter way to handle mobile app testing, MobileBoost might just be your answer.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/020ec8ea80b876251b34126ab57544f82d136351.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191542Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=27a228f7238be8a5976415f411d23b09910ece8dc224dffde570d0a22d4b22a0",
+    "social_links": [
+        "https://www.linkedin.com/company/mobileboosthq/",
+        "https://x.com/gptdriver"
+    ],
+    "logo_path": "data/logos\\MobileBoost_logo.png"
+}

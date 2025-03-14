@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/forcyte-biotechnologies",
+    "name": "Forcyte Biotechnologies",
+    "headline": "Discover drugs that control how much cells \"squeeze\" to treat disease",
+    "batch": "W21",
+    "description": "In a nutshell: many diseases are caused by how much your cells squeeze (asthma, fibrosis, others). We discover drugs that control how much cells squeeze, with ease, to treat disease.\r\n\nWe use patented bioMEMS technology to turn cell strength (cells' ability to pull/ squeeze) into a quantifiable metric in drug discovery, to help find better drugs for mechanical diseases. \r\n\nWe screen 100,000s of drugs against numerous contractile human cell types to comprehensively map human mechanobiology (the \"contractome\") and identify promising drug development starting points to deliver novel medicines to treat mechanically-driven diseases including asthma, hypertension, preterm labor, fibrosis, and others.",
+    "activity_status": "Active",
+    "website": "https://forcytebio.com/",
+    "founded_date": 2017.0,
+    "team_size": 5.0,
+    "location": "Los Angeles, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:drug-discovery; location:los-angeles",
+    "founders": [
+        {
+            "name": "Ivan Pushkarsky, Founder",
+            "description": "CEO and Co-founder of Forcyte which is based on my PhD work at UCLA with co-founder and PhD Advisor, Prof. Dino Di Carlo. Worked on tech since 2013, lead-authored multiple publications including Nature BME, and lead commercialization by winning SBIR grants, securing tech transfer and building early team.",
+            "linkedin": "https://www.linkedin.com/in/ivan-pushkarsky-a698663a/"
+        },
+        {
+            "name": "Dino Di Carlo, Founder",
+            "description": "Dino Di Carlo is a Professor, inventor, and entrepreneur with >50 issued patents. He is the Armond and Elena Hairapetian endowed chair in Engineering and Medicine at UCLA. His academic research has focused at the interface of micro & nanosystems, data science, and the ultimate limits of biology (single cells and molecules). Over the last 10 years, Dr. Di Carlo co-founded seven startup companies in life science research tools, diagnostics, medical device, and pharmaceutical industries.",
+            "linkedin": "https://www.linkedin.com/in/dino-di-carlo/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Forcyte Biotechnologies is a dynamic player in the biotech field, focusing on understanding and manipulating how cells \"squeeze.\" Founded in 2017 and based in Los Angeles, CA, the company emerged from Y Combinator's Winter 2021 batch and operates with a tight-knit team of five dedicated employees.\n\nThe crux of Forcyte's mission is this: diseases like asthma, fibrosis, and hypertension stem from mechanical dysfunction in cells. Their innovative approach involves a proprietary technology called bioMEMS, which quantifies cellular contractility\u2014the cells' ability to pull and squeeze\u2014creating a tangible metric in drug discovery. This focus allows them to screen hundreds of thousands of potential drugs against various contractile human cell types, thus mapping the \"contractome\"\u2014the detailed landscape of human mechanobiology.\n\nAt its core, Forcyte is building a comprehensive dataset that links genomics and pharmacology to mechanical cell function. This alignment offers a fresh perspective that could lead to novel therapies for mechanically-driven diseases, not just in academia but also as viable commercial solutions. Their FLECS platform facilitates a functional-first approach to biology, which means they care deeply about understanding the actual mechanics at play in cellular behaviors rather than merely relying on chemical interactions.\n\nIn essence, Forcyte is all about harnessing the power of mechanomics to advocate for better biology, chemistry, and clinical translation in drug development. They are not just another biotech company; they are pioneering a whole new way of looking at disease and treatment through the lens of cell mechanics. You can explore more about their unique vision and ongoing research on their website [Forcyte Biotechnologies](https://forcytebio.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6a9c10b136887c535df348458795167759cae270.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191348Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3d674ffa6588fd0bb01733af0d4c6984e49f5896d62b96a415b77966fb3b72ea",
+    "social_links": [
+        "https://www.linkedin.com/company/forcyte-biotechnologies-inc"
+    ],
+    "logo_path": "data/logos\\Forcyte_Biotechnologies_logo.png"
+}

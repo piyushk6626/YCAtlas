@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/biggerpicture",
+    "name": "BiggerPicture",
+    "headline": "Scheduling automation platform between trucking and warehousing",
+    "batch": "S22",
+    "description": "BiggerPicture is a B2B SaaS solution that automates the scheduling of pick-up and delivery times for trucking companies and warehouses. 75% of shipments are still scheduled over phone calls and emails.",
+    "activity_status": "Active",
+    "website": "http://biggerpicture.co",
+    "founded_date": 2019.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:scheduling; industry:logistics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Deema Adada, Founder",
+            "description": "Deema spent 15 years in leadership roles at Coyote Logistics and Uber Freight, driving significant innovation in the supply chain industry.  During that time, she felt the acute challenges of siloed technology and workflows across the supply chain resulted in less than 1% of shipments could be handled without human intervention, which propelled her to found BiggerPicture.",
+            "linkedin": "httP://linkedIn.com/in/deema-adada/"
+        },
+        {
+            "name": "Guillaume Lo Re, Founder",
+            "description": "During his 13 years working at startups as well as hyper-growth companies such as Datadog and Dassault Syst\u00e8mes, Guillaume developed a passion for solving complex problems with simple solutions. He takes pride in shaping and crafting stunning user experiences for high volume and critical applications.",
+            "linkedin": "https://www.linkedin.com/in/guillaume-lo-re-786891108/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### BiggerPicture: Revolutionizing Scheduling in Logistics\n\nFounded in 2019 and located in San Francisco, BiggerPicture is a forward-thinking startup that aims to transform the way scheduling is handled in the logistics sector. As part of Y Combinator\u2019s Batch S22, this B2B SaaS company addresses a significant pain point in the industry: approximately 75% of shipments are still coordinated through outdated methods like phone calls and emails.\n\n**Mission and Vision**  \nBiggerPicture is dedicated to automating the scheduling process between trucking companies and warehouses, facilitating smoother pick-up and delivery times. Their vision is simple yet ambitious: create a seamless, real-time scheduling environment that harnesses AI to optimize logistics operations.\n\n**The Problem They Solve**  \nManual scheduling in trucking is not only time-consuming but also fraught with inefficiencies. BiggerPicture's platform mitigates these issues by providing a unified, AI-powered scheduling solution that adapts to changes and disruptions, enhancing the overall efficiency of the supply chain. It's about moving beyond outdated methods to a digital-first approach where data drives decision-making.\n\n**Current Offerings**  \nBiggerPicture\u2019s suite of services includes:\n- **Dock Management**: Streamlining the docking processes.\n- **Carrier Scheduler**: Facilitating better scheduling connections between carriers and warehouses.\n\nThey leverage predictive analytics to ensure that shipments are delivered on time, managing all stakeholders\u2014shippers, carriers, and warehouses\u2014within one robust platform.\n\n**Customer Experiences**  \nTestimonials highlight the seamless integration of BiggerPicture\u2019s solutions into existing workflows, with some users noting the critical ability to adapt to fluctuating demand and supply chain disruptions. Their technology stands out for fostering real-time collaboration, allowing all partners to stay aligned and responsive.\n\n**The Team**  \nBiggerPicture operates with a compact team of five dedicated employees. They benefit from the guidance and expertise of Jared Friedman, their Group Partner from Y Combinator, which has provided them with essential support in their growth journey.\n\n**Why It Matters**  \nLogistics is the backbone of trade and business, and as the world grows more connected, efficient scheduling becomes increasingly vital. BiggerPicture's approach is not just about convenience\u2014it's about building an agile supply chain that can react dynamically to challenges as they arise.\n\nIf you\u2019re in the logistics sector and are tired of the inefficiencies inherent in manual scheduling, take a moment to explore BiggerPicture. They\u2019re committed to redefining how we think about scheduling and supply chain management, making your operations not only smarter but also significantly more resilient.\n\nFor more information or to book a demo, check out their website: [BiggerPicture](http://biggerpicture.co).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1d69d856d4c1370d9247fc1ffb079e53d4eab1cf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191022Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=13e38ce86ea204d2cc5a03254a72d9cccb28d2d3a5b669c5bcd408c1ac9b7c1b",
+    "social_links": [
+        "https://www.linkedin.com/company/biggerpicturesupplychain"
+    ],
+    "logo_path": "data/logos\\BiggerPicture_logo.png"
+}

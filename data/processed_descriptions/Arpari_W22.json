@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/arpari",
+    "name": "Arpari",
+    "headline": "Treasury management for CRE",
+    "batch": "W22",
+    "description": "Treasury management platform built for commercial real estate. Seamlessly consolidate portfolio finances and manage financial operations from a single dashboard.",
+    "activity_status": "Active",
+    "website": "https://www.arpari.com",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:real-estate; industry:proptech; industry:neobank; location:new-york",
+    "founders": [
+        {
+            "name": "Alexandra Zwiener, Founder",
+            "description": "Hello, I'm Alex, Co-Founder of Arpari. \n\nI began my career as a quantitative developer at Goldman Sachs, where I developed automated trading strategies and other financial applications. I have experience in financial modeling and risk management. My experience and interest in improving financial services led me to co-found Arpari. \n\nI received a BA in Mathematical Economics and Computer Science from University of Pennsylvania.",
+            "linkedin": "https://www.linkedin.com/in/alexandra-zwiener/"
+        },
+        {
+            "name": "Toby Edward, Founder",
+            "description": "Passionate about solving problems. Working to improve the commercial real estate banking experience. Background in real estate investing.",
+            "linkedin": "https://www.linkedin.com/in/tobias-milligan-3b963564/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Arpari is a New York-based fintech startup founded in 2022, focused on treasury management specifically for commercial real estate (CRE). As part of Y Combinator\u2019s W22 batch, Arpari is on the cutting edge of fintech solutions, helping real estate professionals manage their financial operations from a unified dashboard. \n\nTheir mission is straightforward: to streamline treasury management for complex portfolio finances. The platform offers a range of features to revolutionize cash visibility and streamline operations. Users can access real-time bank balances, transaction history, and analytics, making financial management less burdensome and more efficient. Everything can be consolidated into a single platform, removing the headache of multiple logins and disconnected bank portals.\n\nArpari's current offerings include:\n- **Treasury Software**: Helps organizations manage their cash flows and financial processes.\n- **Account Opening**: Lets users set up bank accounts instantly, facilitating rapid onboarding.\n- **Use Cases**: Specific solutions tailored for real estate, asset managers, leisure and hospitality sectors, and professional services.\n\nThe team comprises six dedicated employees, spearheaded by Group Partner Dalton Caldwell. Their tech stack supports seamless API connections with various banks, ensuring data syncs happen at the click of a button, dramatically reducing onboarding time.\n\nSecurity is also a core tenet for Arpari, which boasts SOC 2 certification and employs end-to-end encryption to protect user data. \n\nIn a nutshell, Arpari is shaping up to be a critical player in the intersection of fintech and real estate, promising to make treasury management more accessible and integrated for clients. For more details, you can visit their website at [Arpari.com](https://www.arpari.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a75a8c537adb805d7461aea8eca4b9ce85e1e3c8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191004Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6b748570b0b20bd0efd38fa1fed418593549ca07f1e27017e51d8660e62c0d51",
+    "social_links": [],
+    "logo_path": "data/logos\\Arpari_logo.png"
+}

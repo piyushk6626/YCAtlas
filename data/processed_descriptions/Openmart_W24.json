@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/openmart",
+    "name": "Openmart",
+    "headline": "GTM platform for reaching local businesses",
+    "batch": "W24",
+    "description": "Openmart is the GTM platform for reaching local business owners. Think of us like Apollo/ZoomInfo but for local business/POI data. We help sales professionals query millions of unstructured local business data like local government filings, websites, reviews and socials",
+    "activity_status": "Active",
+    "website": "https://www.openmart.com",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": "Foster City, CA",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:sales; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Richard He, Founder",
+            "description": "Richard was a senior software engineer at Cruise and founding engineer at Graft, an LLM infra startup backed by GV and NEA. He contributed to Langchain and wrote the AI agent \"Chrome-GPT\" that reached Github's trending projects.",
+            "linkedin": "https://linkedin.com/in/yuchenghe"
+        },
+        {
+            "name": "Kathryn Wu, Founder",
+            "description": "Kathryn studies computer science at UC Berkeley, ran various growth teams at Pinterest, and as the first product manager at Databento, led a team growth from 8 to 35 and scaled the revenue from 0 to 1. In 2022, she made the Women in Fintech Power list for her impactful contributions",
+            "linkedin": "https://linkedin.com/in/kathrynwoohoo"
+        }
+    ],
+    "status": true,
+    "generated_description": "Openmart is a startup that emerged in 2023, backed by Y Combinator's Batch W24. Based in Foster City, CA, this nimble venture comprises a small team of six employees, all focused on leveraging AI to refine how sales professionals access and utilize local business data. You can check them out at [Openmart.com](https://www.openmart.com).\n\nAt its core, Openmart is a go-to-market (GTM) platform designed specifically for reaching local business owners. Think of it as Apollo or ZoomInfo, but tailored for local businesses and points of interest (POI) data. They allow users to sift through millions of unstructured data points from sources like local government filings, websites, reviews, and social media channels\u2014turning that messy information into actionable insights.\n\nTheir tagline is straightforward: \"Want to know everything about local businesses? Openmart AI sales intelligence agents have you covered!\" They provide several products, including owner finder, monitoring, prospecting, and enrichment tools\u2014all tailored to streamline lead generation and qualification for B2B sales teams.\n\n### Key Features:\n1. **AI-Driven Lead Generation**: Sales reps can input specific criteria (like annual revenue or geographic location) and find qualified leads without spending hours researching.\n2. **Comprehensive Local Business Data**: Openmart collects and organizes vast amounts of data about local businesses, making it a rich resource for sales teams.\n3. **Integration with CRMs**: The platform ensures users can seamlessly sync and deduplicate leads with existing CRM systems.\n\n### Pricing Plans:\nOpenmart caters to various business needs through different pricing tiers, allowing small teams and larger organizations to leverage their solutions effectively. Plans are designed to scale from individual use to enterprise-level solutions, with features that include access to millions of business data points, CRM integration, and personalized setup.\n\n### Customer Feedback:\nOpenmart has rapidly gained traction, impressing clients like Clipboard Health and Whatnot. Users report significant efficiency improvements in their sales processes, with quotes highlighting reductions in manual lead identification efforts, enabling sales teams to concentrate on high-value leads.\n\nIn summary, Openmart is tapping into a niche market with a robust solution for local business intelligence\u2014filling a vital gap for sales professionals. In a world where the right data can make or break a deal, Openmart is positioning itself as a key ally for those navigating the complexities of local business landscapes.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a5a908d3d5cbeb332d28cca3d93119d90d31281b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191612Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1288cfc77054f4707acbfb27eb04954dd648884397bd6a0890e53dfebf7d40b0",
+    "social_links": [
+        "https://linkedin.com/company/openmartai",
+        "https://twitter.com/openmartai",
+        "https://www.crunchbase.com/organization/openmart-da89"
+    ],
+    "logo_path": "data/logos\\Openmart_logo.png"
+}

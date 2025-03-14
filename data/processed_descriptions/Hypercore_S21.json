@@ -1,0 +1,48 @@
+{
+    "links": "https://www.ycombinator.com/companies/hypercore",
+    "name": "Hypercore",
+    "headline": "Loan management software for private lenders",
+    "batch": "S21",
+    "description": "Hypercore is a loan management software for small lenders. We help lenders automate workflows and provide them with real-time analytics and KPIs on their portfolios.\r\nSince June we are running paid pilots ($3.5K MRR), 1 LOI ($1.5K MRR). The founding team met while serving together as officers in technological units in the Israeli Defence Forces. We then established together a software development company specialized in fintech projects such as e-wallets and open-banking projects. That\u2019s where we discovered how archaic are the tools lenders use that are ready for disruption.\r\nHypercore is building the tools for private lenders who currently do everything in Excel, culminating in a 'Nasdaq of private loan books' - utilizing the platform to securitize loan books.",
+    "activity_status": "Active",
+    "website": "https://www.hypercore.ai/",
+    "founded_date": 2020.0,
+    "team_size": 7.0,
+    "location": "Tel Aviv-Yafo, Israel",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Daniel Liechtenstein, Founder",
+            "description": "I work with a group of amazing partners who build amazing products together. We founded Hypercore with the goal of pushing the non-bank lending market forward.\n\nAlready at the beginning of my career, I learned that the future is in the combination between domains, and the more I meet new people the more I learn. I started as an economist and grew into the technological world and today I see myself as a person looking for interesting opportunities.",
+            "linkedin": "https://www.linkedin.com/in/daniel-liechtenstein-ba338370/"
+        },
+        {
+            "name": "Eitan Frailich, Founder",
+            "description": "Started my first steps with technology during my service at IDF technological unit (MAMRAM).\nAfter finishing my service I worked as a freelancer software developer, mostly on web and mobile applications. \nA Year later cofounded Articode LTD - devshop focused on GIS and Financial projects. During that time I was charged with many projects, working with big enterprises, defense industries, startups, etc.\nA Year a ago changed the focus to our fintech startup Hypercore.",
+            "linkedin": "https://www.linkedin.com/in/eitan-frailich-81b69390/"
+        },
+        {
+            "name": "Tomer Moshe, Founder",
+            "description": "Completed my BSc in computer science at the age of 18. Co-founder of Hypercore and Articode. Delivered over 20 software products as a freelancer and with Articode. IAF-Ofek Alumni.\nCoding non-stop since 2011 :)",
+            "linkedin": "https://www.linkedin.com/in/tomer-moshe-033a2b69"
+        },
+        {
+            "name": "David Yahalomi, Founder",
+            "description": "Co-founder of Hypercore and Articode. Delivered over 30 software products as a freelancer and with Articode. Worked for the first digital bank in Israel - Pepper - as a team leader. Speaker at various tech conferences mainly about GraphQL. IAF-Ofek Alumni, and Mamram graduate.\nWriting code since 2001 :)",
+            "linkedin": "https://www.linkedin.com/in/david-yahalomi-441b3863/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Hypercore: Revolutionizing Loan Management for Private Lenders**\n\nFounded in 2020 and based in Tel Aviv-Yafo, Israel, Hypercore emerged from a shared vision among its founders, who previously served together in technological units of the Israeli Defense Forces. Their experience in developing fintech solutions revealed a significant gap in tools available to lenders, particularly in the private sector. This led them to create Hypercore, a loan management software focused on automating workflows for private lenders who are largely reliant on archaic systems like Excel.\n\n**Mission and Offerings**\n\nHypercore's mission is simple yet profound: to upgrade loan management for private lenders. The platform automates various aspects of lending\u2014from managing loan lifecycles to monitoring funding sources and generating insightful analytics and reports. Their goal is to create a \"Nasdaq of private loan books,\" enabling lenders to efficiently securitize their loan portfolios through a robust data-driven approach.\n\nWith a current Monthly Recurring Revenue (MRR) of $3.5K from paid pilots and an additional $1.5K in Letters of Intent (LOI), it's clear that Hypercore is making strides in the competitive fintech landscape. They are part of Y Combinator\u2019s S21 batch, which solidifies their credibility and potential for growth.\n\n**Key Features and Innovations**\n\nHypercore offers several core features aimed at enhancing lending operations:\n- **Loan Management**: A comprehensive tool that allows lenders to manage every step of the loan lifecycle efficiently.\n- **Funding Sources Management**: Enables lenders to track gains and allocations across different sources of capital.\n- **Reporting**: Custom report generation to refine business strategy and provide insights into operations.\n- **Borrower Data Management Module**: A new feature aiming to centralize and enhance data handling related to borrowers, currently in the rollout phase.\n\n**The Team and Support Structure**\n\nHypercore\u2019s team comprises seven dedicated professionals, including Nicolas Dessaigne, who serves as a Group Partner. Their collective expertise in fintech, combined with practical insights from their military background, gives them a unique edge in navigating the lending market.\n\n**Looking Forward**\n\nAs Hypercore scales its operations and refines its products, it remains committed to transforming how private lenders manage their loans. Their focus on automating processes and providing real-time analytics positions them as a forward-thinking player in the fintech sector. \n\nIf you\u2019re interested in streamlining your lending processes, check out their website at [Hypercore.ai](https://www.hypercore.ai/) and consider scheduling a demo to explore how their platform can empower your lending operations.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6ee0ac910dcfa3721d2ed915d5657276249ed581.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191426Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=056e43cac74377e6b355d1a9e9b5294c5b18e6fcd03f831b74347b90871fe7ad",
+    "social_links": [
+        "https://www.linkedin.com/company/hypercore-ai",
+        "https://www.facebook.com/hypercoreai",
+        "https://crunchbase.com/organization/hypercore"
+    ],
+    "logo_path": "data/logos\\Hypercore_logo.png"
+}

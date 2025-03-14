@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/greenlite",
+    "name": "Greenlite",
+    "headline": "AI agents for financial compliance operations",
+    "batch": "S23",
+    "description": "Greenlite builds AI workers for bank and fintech compliance teams. Innovative teams use our AI workers instead of outsourced teams to onboard customers faster with higher compliance standards.",
+    "activity_status": "Active",
+    "website": "https://www.greenlite.ai/",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:payments; industry:b2b; industry:compliance; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Will Lawrence, Founder",
+            "description": "Will led product for Facebook's anti-money laundering (AML)  platform, combatting financial crimes across payment, gaming and e-commerce use cases. He also built core compliance infrastructure at Paxos, a growth-staged fintech that powers over 10M crypto wallets globally. \n\nHe's now Co-founder and CEO of Greenlite, helping fintechs scale financial crime operations with AI.",
+            "linkedin": "https://linkedin.com/in/lawrencewill"
+        },
+        {
+            "name": "Alex Jin, Founder",
+            "description": "Formerly a product manager and iOS engineer on Dropbox growth and monetization teams. First employee at Flixed where I led product development and built a programmatic content engine.\n\nCo-founder of Greenlite.",
+            "linkedin": "https://linkedin.com/in/jinalex"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Greenlite**\n\nFounded in 2023 and part of Y Combinator's Batch S23, Greenlite is carving out a niche in the intersection of artificial intelligence and financial compliance. Based in San Francisco and comprised of a dedicated team of six, Greenlite\u2019s mission is to empower banks and fintech companies with AI agents designed specifically for financial compliance operations.\n\n### What They Do\n\nInitially focused on building AI workers for compliance teams, Greenlite innovates the way financial institutions handle customer onboarding. Their technology replaces traditional outsourced teams, enabling faster onboarding with enhanced compliance standards. As a result, clients can streamline their processes, reduce false positives, and significantly cut down on manual overhead.\n\n### Product Offerings\n\nGreenlite has developed a suite of products including:\n\n- **Screening Alerts:** Helps users investigate alerts from existing systems, efficiently closing clear false positives.\n- **Transaction Monitoring Alerts:** Adds the rigor of senior analyst reviews to transaction alerts, improving response times and accuracy.\n- **Customer Due Diligence:** Automates the review of customer documentation and financial statements to identify potential risks.\n- **Enhanced Due Diligence:** Optimizes high-risk customer reviews through better automation.\n\n### Features\n\nTheir technology also offers features that enhance business understanding and due diligence:\n\n- **Data Integrations:** Easily gather corporate registry data and enrich understanding of both business and individual customers.\n- **AI Analysis:** Automate analysis of financial statements, generate compliance narratives quickly, and assess the online presence of clients.\n- **Ongoing Monitoring:** Automate periodic risk reviews for high-risk customers, ensuring continuous compliance oversight.\n\n### Target Market\n\nGreenlite primarily partners with banks, fintechs, and credit unions, providing them with the tools they need to remain compliant while scaling their businesses. The company emphasizes its ability to integrate seamlessly with existing workflows, thus changing the game without disrupting current operations.\n\n### Leadership and Vision\n\nThe company is supported by esteemed leaders in the compliance and financial sectors, including Group Partner Tom Blomfield. They are also trusted by industry players who endorse the effectiveness of Greenlite\u2019s solutions. With an emphasis on both innovation and compliance, Greenlite is poised to become a leader in transforming how financial institutions manage compliance.\n\n### Conclusion\n\nIn a world where efficiency and compliance are paramount, Greenlite stands out as a pioneer for financial institutions looking to integrate AI into their operations. By automating the labor-intensive aspects of compliance, they allow teams to focus more on strategic, high-value activities\u2014a win-win for both their clients and the industry at large. \n\nFor more information, visit their website at [Greenlite.ai](https://www.greenlite.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3681b964d4190ebf9c436576272f25380e7490b6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191404Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cc1444898ea568638adb81b44ba6c671c1bf1d43f226a14920db58ef5b44f86e",
+    "social_links": [
+        "https://www.linkedin.com/company/greenlite-ai/",
+        "https://twitter.com/greenliteai"
+    ],
+    "logo_path": "data/logos\\Greenlite_logo.png"
+}

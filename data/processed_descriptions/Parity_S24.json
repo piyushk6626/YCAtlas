@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/parity",
+    "name": "Parity",
+    "headline": "The AI SRE for Incident Response",
+    "batch": "S24",
+    "description": "Parity is the AI SRE for Incident Response. We're the first line of defense for on-call engineers working with Kubernetes - Parity autonomously triages, root causes, and heals your cloud infrastructure.",
+    "activity_status": "Active",
+    "website": "https://tryparity.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:b2b; industry:kubernetes; industry:devops; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Wilson Spearman, Founder",
+            "description": "Wilson is co-founder and CEO of Parity. \n\nBefore Parity, Wilson was a SWE working on building the climate-aligned cloud at Crusoe. Prior to that, he worked at Settle as a product engineer building new purchase order and AP workflows for CPG brands. \n\nWilson studied CS at MIT with focus on systems. He's originally from upstate South Carolina.",
+            "linkedin": "https://www.linkedin.com/in/wilsonspearman/"
+        },
+        {
+            "name": "Coleman Smith, Founder",
+            "description": "Co-founder and CPO of Parity.\n\nWorked as a software engineer at Crusoe on the Power and Mining team focused on capturing stranded energy and reducing carbon emissions.\n\nStudied CS at Stanford, with an undergrad focus on Systems and a coterm in the AI subtrack.",
+            "linkedin": "https://www.linkedin.com/in/colemansmith-/"
+        },
+        {
+            "name": "Jeffrey Tsaw, Founder",
+            "description": "Jeffrey is co-founder and CTO of Parity.\n\nPreviously, Jeffrey worked as a Software Engineer at Crusoe, where he helped run the Bitcoin mining team alongside Coleman and Wilson. \n\nHe studied ECE at CMU where he received his BS and MS, and is originally from Hong Kong.",
+            "linkedin": "https://www.linkedin.com/in/jeffrey-tsaw-561b35191/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Parity**\n\nFounded in 2024 and backed by Y Combinator (Batch S24), Parity is a San Francisco-based startup that offers an innovative solution for incident response within cloud infrastructures, specifically leveraging Kubernetes. Its mission is straightforward: to be the AI Site Reliability Engineer (SRE) that tirelessly supports on-call engineers, ensuring that they can focus on their core tasks without being bogged down by incidents.\n\n**What Does Parity Do?**\n\nAt its core, Parity autonomously triages, identifies root causes, and heals cloud infrastructure issues. It integrates seamlessly into existing workflows and alert systems, conducting investigations much like a human engineer would. This means when an alert is triggered, Parity jumps into action, diagnosing the problem and providing root cause analysis alongside remediation suggestions, all in a matter of seconds. \n\nHere are the key features that make Parity stand out:\n\n- **AI-Powered Investigation:** Rather than waiting for an engineer to respond, Parity takes the initiative to assess incidents immediately.\n- **Root Cause Analysis in Seconds:** By gathering information from your Kubernetes cluster and testing hypotheses, Parity identifies problems swiftly.\n- **Intelligent Workflow Execution:** It can utilize existing runbooks, executing them automatically in response to alerts.\n- **Seamless Communication:** Parity allows users to interact directly with their infrastructure, asking questions and receiving insights as if they were conversing with a colleague.\n\n**Team and Leadership**\n\nThe company is currently small, with a team of just three employees. Jared Friedman serves as the Group Partner, providing crucial support and guidance as they navigate the early stages of growth.\n\n**Target Market and Tags**\n\nParity is primarily targeting developers and businesses in the B2B space, particularly those operating within the Kubernetes ecosystem and looking to enhance their DevOps capabilities. Its focus on artificial intelligence and developer tools positions it well in the growing demand for efficient infrastructure management solutions.\n\n**Getting Started with Parity**\n\nOrganizations interested in optimizing their incident response and cloud infrastructure management can explore Parity by visiting their website, where they can find documentation, a blog, and a login portal. For a hands-on experience, potential users can also book a demo to see how Parity's AI capabilities can fit into their operational needs.\n\n**Conclusion**\n\nIn a world where downtime can cost a company dearly, Parity is positioned to ensure that on-call engineers are less burdened and can let the AI take the reins during incidents. With its cutting-edge technology focused on Kubernetes environments, it\u2019s a promising solution for businesses keen on enhancing their cloud reliability with less manual overhead. Check them out at [tryparity.com](https://tryparity.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/44a87c3d5067d4f5632f07747c60c172286c4947.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191623Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c39ae01ee37639012b3d4bf75637219902a84f09b74d60ba1a192e737bddbe29",
+    "social_links": [
+        "https://www.linkedin.com/company/parity-sre",
+        "https://x.com/tryparity",
+        "https://github.com/parity-ai"
+    ],
+    "logo_path": "data/logos\\Parity_logo.png"
+}

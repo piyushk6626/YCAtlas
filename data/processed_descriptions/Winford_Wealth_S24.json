@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/winford-wealth",
+    "name": "Winford Wealth",
+    "headline": "The Leading AI Meeting Assistant for Financial Advisors",
+    "batch": "S24",
+    "description": "Winford Wealth empowers financial advisors to enhance client experiences with an AI Meeting Assistant. Our platform automates notetaking, seamlessly integrates with your CRM and tech stack, and delivers unique analytics to help you work smarter.",
+    "activity_status": "Active",
+    "website": "https://winfordwealth.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "New York",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:finance; industry:workflow-automation; industry:productivity; industry:enterprise-software; location:new-york",
+    "founders": [
+        {
+            "name": "Jacob Tucker, Co-Founder, CEO",
+            "description": "Jacob Tucker was one of the first investment analysts hired to work on the BCRED product at Blackstone, which revolutionized access to alternative investments for individual and private wealth investors. He received an M.S. in Computer Science and B.A. in Economics from The University of Chicago.",
+            "linkedin": "https://linkedin.com/in/jacobtucker"
+        },
+        {
+            "name": "Rohan Prashant, Co-Founder, CTO",
+            "description": "Rohan is building Winford Wealth, helping financial advisors save weeks per year. He was previously a Software Engineer at Microsoft and studied Computer Science at the University of Michigan (Go Blue!).",
+            "linkedin": "https://www.linkedin.com/in/rohanprashant"
+        }
+    ],
+    "status": true,
+    "generated_description": "Winford Wealth is a promising startup based in New York that launched in 2024, emerging from Y Combinator's Batch S24. Their mission? To be the leading AI meeting assistant specifically designed for financial advisors. \n\nThe core of their offering is an intelligent platform that aims to transform how financial advisors engage with their clients. By automating the nitty-gritty of notetaking, they allow advisors to focus on what truly matters: enhancing client relationships. What stands out is Winford's seamless integration with existing CRM systems and other technologies, which helps advisors not just save time, but also gain valuable insights through unique analytics on client interactions.\n\nHere's how it works in practice:\n\n- **Meeting Preparation**: Advisors benefit from AI-driven histories of past client interactions, making prep more efficient.\n- **Client Analytics**: It offers tracking of client questions, interaction levels, and even sentiment analysis, providing tools to fine-tune client engagement strategies.\n- **Follow-Up Emails**: The platform generates personalized follow-up emails tailored to each client's style and needs, something that can often be a tedious manual process.\n- **Integration**: Winford integrates effortlessly with existing tech stacks, ensuring that valuable time isn't wasted on manually updating systems.\n\nWith a dedicated team of three and guidance from notable entrepreneur Tom Blomfield, Winford Wealth is poised to innovate the advisory landscape significantly. They've even claimed that their service can save advisors up to 7 weeks a year by cutting down the operational burden associated with client meetings. \n\nData security is a priority for Winford; they emphasize that client data is kept secure, separate, and inaccessible to anyone other than the respective advisor. Their approach combines cutting-edge AI with a strong understanding of the financial advisory sector, ensuring they are built for advisors, by advisors.\n\nIf you're in the world of finance and looking to elevate your practice with a little help from AI, Winford Wealth might just be the next step. You can find more about them on their website: [winfordwealth.com](https://winfordwealth.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2983536a7b33a588911566bc781cff2ea52da2f5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAFJSOQ65W%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192059Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDHe2krNA4Wz4ZdbboNJG%2B0zG6MmRspOJ5Kex%2FWuhFzDwIhAK4JNrLJx7V6Lp69aumcmLj570j2DR2Eh3hPcEuQGW3%2FKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgweLBjNRNugVRDPT8gqwgPiLGnMwjgQOiNH7FMTInTVKCCJLDe5fdDWlactIzRh2XOtRjauQZptst9ejdBs3vj590lIr07sFFKCWuGV%2B%2BJkmRqS%2BXBC6caH3J97%2FH7W3ch4kKAyKE3TuVCMVl%2BqNFww29jX%2BimNvDUNvCgQtjVE03FWSnfbJrDf3NUx8wttW6l2EC5fgOealDp0Ne7xA51qGtDKfIYSJUUyj6d2WgcNp66ilXSYF5HX3L4wid4xRepJ9Vt1krkNG6bsNoITqg8zMlLgZ7QT5uVwuoY%2Fhv%2F89O661Pa6%2FtGfz6gcZjx3JmkvJh2yaephzjfzpFg43OFS%2B3NnORgMbCqTEcn9piGJokbf9a5xoR2Qt8E4L2AdZTypzC0scYqz%2BA1CsQiK1RrvedAjSsaEw4%2FqFaR6rBrZ4SBiKqlmStv67nu5CMG6DF414F2WlGbkeS8C%2BJYZ2iky%2B19B0K9e4J7Tik78PRFNXoN8lSqP4k%2BLhdrqVq5b2d4m7UHeeProhr%2Fv5HV%2BORFSiFow%2Fhbxt6GN2P2YWxzdIHA32IkBqYD%2BeZ3eFOZSk%2B1Pldgq4PSaiU5lQlEewufIwxcnWXTzGkzSJ%2BLlLlzWX4EwrKPjvQY6pAEqZgWN8cooHP%2FeegIX6R3Pun8lUwrTM2csrvVF8K2udU7KUu1EoXzzxsupULfK9AN%2Bcef1HwWg3GN0hRmtduP9znDwqy7B09eErZHX3iCWPeVm7m2HUwQH0BM7NBnkw%2BBNh35scX3c4lMIghjRFyw9b8VEOGAbUjAxbgvLqemFdd8Zq7DGRWXDbhLqcGd2hHliZLchEjlQhzfD3wdeSwzTgvkJMw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1ecc12c682a7476613ab9598dc46cafff7308245731fb80d9bbae4e8d0291fc3",
+    "social_links": [
+        "https://linkedin.com/company/winfordwealth"
+    ],
+    "logo_path": "data/logos\\Winford_Wealth_logo.png"
+}

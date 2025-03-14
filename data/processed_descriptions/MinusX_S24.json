@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/minusx",
+    "name": "MinusX",
+    "headline": "AI Data Scientist for Jupyter and Metabase",
+    "batch": "S24",
+    "description": "MinusX is a chrome extension that adds a side chat to your analytics apps (Jupyter, Metabase, Grafana, Tableau, etc). Given an instruction, our agent operates your apps - by clicking & typing, just like you do - to analyze data and answer queries. We believe an AI Data Scientist is a scientist, not yet-another-new-analytics-platform. MinusX interoperates with you in tools you already love and use, and as a matter of philosophy, gets out of the way.",
+    "activity_status": "Active",
+    "website": "https://minusx.ai",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:analytics; industry:data-science; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Vivek Aithal, Founder",
+            "description": "Co-founder & CEO of MinusX. Spent the last 3 years as a research engineer building the world's best open-source autonomous driving agent at comma.ai. Currently building a data science agent that can sit in your browser and use all your data tools. UC Berkeley and IIT Kharagpur grad.",
+            "linkedin": "https://www.linkedin.com/in/vivek-aithal-575b207b/"
+        },
+        {
+            "name": "Sreejith Puthanpurayil, Founder",
+            "description": "Co-Founder & CTO of MinusX. Previous stints include Ads Delivery & Ranking at Meta, Ride-hailing backend & infra at Gojek, & full stack at Elanic, a social c2c marketplace (acquired by Share Chat)",
+            "linkedin": "https://www.linkedin.com/in/ppsreejith"
+        },
+        {
+            "name": "Arpit Saxena, Founder",
+            "description": "Ex-Google (Google Pay), GreyOrange Robotics, Udaan.com; Software and Systems Engineer building warehouse automation solutions for km sized warehouses",
+            "linkedin": "https://www.linkedin.com/in/arpittarang/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: MinusX**\n\n**Mission:** MinusX is on a quest to redefine data analysis by embodying the role of an AI Data Scientist seamlessly integrated into the tools analysts already love, such as Jupyter and Metabase.\n\n**Origins:** Founded in 2024 and based in San Francisco, MinusX began as a Chrome extension that adds a collaboration feature to various analytics apps, enabling users to interact with data through AI in an intuitive and familiar way. Rather than reinvent the wheel with yet another analytics platform, MinusX augments existing tools, allowing for natural language processing and data manipulation directly where users are working.\n\n**Team:** The company currently boasts a small but efficient team of three, along with the backing of Gustaf Alstromer from Y Combinator\u2019s Batch S24.\n\n**Technology Focus:** MinusX operates across platforms like Jupyter, Metabase, Tableau, Grafana, and more, essentially allowing users to perform data analysis by simply instructing the AI, which mimics human interactions like clicking and typing. \n\n**Product Offering:**\n- **Chrome Extension**: The core product allows direct interaction with data analytics applications, answering queries and generating insights by integrating AI into the user interface.\n- **Pricing Plans**:\n   - **MinusX Lite**: Free tier for casual users, with limited requests.\n   - **MinusX Pro**: Premium plan at $49/month/user, offering more features and advanced models.\n   - **MinusX Enterprise**: Customized solutions for organizations with comprehensive needs.\n\n**User Experience**: With a focus on usability, MinusX never forces users out of their existing workflows. Instead, it provides timely assistance and insights, making it an exceptional tool for both casual users and serious analysts. \n\n**Feedback**: Early adopters, including research scientists and CEOs, rave about its efficiency and ability to streamline data analysis, effectively reducing the need for dedicated data analysts in some cases.\n\n**Embracing the Future**: Looking ahead, MinusX aims to continually enhance its offerings with new integrations and functionalities, paving the way for more advanced AI-powered data manipulation.\n\n**Explore More**: Interested users can visit their [website](https://minusx.ai) to add the Chrome extension, access documentation, or book a demo.\n\nIn a landscape inundated with analytics platforms, MinusX stands out as a collaborative partner\u2014an AI data scientist waiting to elevate your analysis without cluttering the workspace you know and love.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5d4fd293b5267abaed72e59bba495ec876bf5628.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191541Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ea29e42cead4e1d83222903087a79d6a5622f3f174d69479590eee1eeba2e0d1",
+    "social_links": [
+        "https://www.linkedin.com/company/minusx-ai",
+        "https://twitter.com/minusxai",
+        "https://github.com/minusxai"
+    ],
+    "logo_path": "data/logos\\MinusX_logo.png"
+}

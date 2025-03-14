@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/vooma",
+    "name": "Vooma",
+    "headline": "Automation platform for logistics",
+    "batch": "W23",
+    "description": "Vooma is the AI agent for logistics. We help our customers automate manual tasks and focus on work that drives business value.\r\n\nMike built self driving trucks as a founding engineer at Kodiak Robotics (prev. Uber, Otto) and led their motion planning and safety teams. Jesse grew a private equity backed logistics software company from $2M to $20M+ as CEO.",
+    "activity_status": "Active",
+    "website": "https://www.vooma.ai",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jesse Buckingham, Founder",
+            "description": "Jesse is a co-founder of Vooma, a back office automation platform for logistics.\n\nPrior to Vooma, Jesse partnered with private equity fund Alpine Investors to grow a logistics technology business from $2M to $20M+ ARR and put it on track for a 5-7x+ MOIC. He earned his MBA from Stanford GSB and was a consultant at Bain & Company.\n\nJesse is a father, husband, avid outdoorsman, fitness enthusiast, and voracious consumer of interesting ideas and literature.",
+            "linkedin": "https://www.linkedin.com/in/jesse-buckingham-79649a26/"
+        },
+        {
+            "name": "Mike Carter, Founder",
+            "description": "Mike is a co-founder of Vooma, a back office automation platform for logistics. Before Vooma he built self driving trucks at Kodiak Robotics, Uber ATG, Otto, and Stanford's Dynamic Design Lab. He's passionate about pairing rigorous engineering with next-generation automation technologies to drive efficiency in logistics.",
+            "linkedin": "https://www.linkedin.com/in/mike-carter-connect/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Vooma is an innovative startup launched in 2022, currently making waves in the logistics sector by providing an automation platform that utilizes AI agents to streamline operations. Their mission is straightforward: to help logistics companies automate repetitive tasks, allowing teams to focus on activities that genuinely create value. This makes a lot of sense in an industry that\u2019s often bogged down by manual processes.\n\nFounded by Mike, who has a background in developing self-driving trucks, and Jesse, who successfully grew a logistics software firm from $2 million to over $20 million, Vooma combines deep expertise in technology and business growth. They\u2019re based in San Francisco and are part of Y Combinator\u2019s W23 batch\u2014an impressive stamp of credibility.\n\nVooma recently secured $16.6 million in funding to push their mission forward. So what exactly are they doing? They offer several solutions, notably Vooma Quote for efficient quoting, Vooma Build to streamline load building, and Vooma Insights for better operational visibility. Their upcoming products include Vooma Agents for executing workflows, Vooma Voice for enhanced communication, and Vooma Schedule for simplified appointment management.\n\nTheir platform has already resonated well with clients, as many report significant time savings and increased accuracy in their logistics operations. For instance, companies like MoLo Solutions and Zengistics have automated more than 93% of their order entry processes, showcasing the tangible benefits Vooma delivers.\n\nWith a small team of three and backing from Group Partner Gustaf Alstromer, Vooma is on a rapid growth trajectory in the logistics automation space. As they continue to develop and refine their AI capabilities, you can expect them to further enhance how logistics companies operate\u2014making them faster, smarter, and more efficient.\n\nWant to learn more? Check them out at [Vooma's website](https://www.vooma.ai) and book a demo to see their solutions in action.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2b723069c5bce43f792644b7a3d6227ddac62ee5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192053Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=20f0e92d755d25a1f78ddebe66bfe067f0a4162d60042095c4d13d42da47328c",
+    "social_links": [
+        "https://www.linkedin.com/company/vooma-inc"
+    ],
+    "logo_path": "data/logos\\Vooma_logo.png"
+}

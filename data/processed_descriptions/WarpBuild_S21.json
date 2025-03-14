@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/warpbuild",
+    "name": "WarpBuild",
+    "headline": "Accelerate software development with WarpBuild's 10x faster CI infra.",
+    "batch": "S21",
+    "description": "Accelerate software development with WarpBuild.\r\nGet 30% faster, 90% cheaper CI builds in 30 seconds using WarpBuild cloud runners for Github Actions.",
+    "activity_status": "Active",
+    "website": "https://www.warpbuild.com",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:productivity; industry:devops; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Surya Oruganti, Founder",
+            "description": "I'm making WarpBuild - which provides fast, secure Github actions runners and AI powered software delivery insights. I love hikes, poker, board games, and adrenaline.",
+            "linkedin": "https://www.linkedin.com/in/suryaoruganti/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### WarpBuild: Supercharging CI/CD for Developers\n\nFounded in 2021 and hailing from the vibrant startup ecosystem of San Francisco, WarpBuild is addressing a significant bottleneck in software development\u2014slow and expensive continuous integration (CI) processes. As part of the Y Combinator Batch S21, the company is laser-focused on one mission: to accelerate software development with CI infrastructure that is **10x faster and 90% cheaper** than traditional solutions.\n\n**What\u2019s the deal?** WarpBuild offers cloud runners for GitHub Actions that promise CI builds in just 30 seconds. Imagine cutting your CI build times dramatically, allowing your team to spend less time waiting and more time coding.\n\n**Key Features of WarpBuild:**\n1. **Blazing Fast CI Runners**: These optimized runners leverage incremental builds and smart caching to deliver results at a breakneck speed.\n2. **Cross-Patform Support**: Whether you're on MacOS, Windows, or Linux, WarpBuild has you covered with compatibility across x86-64 and ARM64 architectures.\n3. **Scalability**: Need to support a massive team? WarpBuild handles unlimited job concurrency and can scale to thousands of parallel jobs.\n4. **Security-First Approach**: With ephemeral virtual machines and no code-access, security is a cornerstone of their infrastructure.\n5. **Helios**: A standout product that transforms the code review process by understanding your entire codebase and providing contextually-rich insights, making reviews simpler and faster.\n\nThe team at WarpBuild is relatively small, consisting of just six dedicated employees, yet they\u2019re making waves by focusing on a specific niche within developer tools and productivity\u2014something that has garnered positive testimonials from users who experience significant time and cost savings.\n\n**Why Trust WarpBuild?**\nTheir commitment to quality is evident not only in their technology but also in their customer support, which has received accolades for being prompt and effective. The company operates under a **SOC2 Type 2 compliant** framework, ensuring enterprise-grade security\u2014a critical factor for any serious developer team.\n\nIf you're eager to reduce those frustrating build times and operational costs, WarpBuild offers a chance to *ship faster* and with greater efficiency. To learn more or get started, check out their website at [warpbuild.com](https://www.warpbuild.com).\n\nIn a world where every second counts, WarpBuild stands out as a vital tool in the developer\u2019s arsenal. The future of CI/CD is here, and it's fast, efficient, and ready to help you focus on what matters most\u2014writing great software.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cb458f2f94d47dd4a5782f2b83bb73b020eb9486.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192055Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e4544922237240f6743c632cd57c9939383eb3e378c9ff75fdac2893a800f389",
+    "social_links": [
+        "https://www.linkedin.com/company/warpbuild/",
+        "https://twitter.com/suryaoruganti",
+        "https://www.crunchbase.com/organization/argonaut-862d",
+        "https://github.com/organizations/WarpBuilds/"
+    ],
+    "logo_path": "data/logos\\WarpBuild_logo.png"
+}

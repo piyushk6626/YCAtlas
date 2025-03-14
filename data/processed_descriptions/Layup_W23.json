@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/layup",
+    "name": "Layup",
+    "headline": "Guide your users. Right in your product.",
+    "batch": "W23",
+    "description": "With a unique second cursor that integrates directly into your UI, Layup delivers real-time, adaptive assistance, completely transforming user engagement. We save product and support teams countless hours that would otherwise be spent creating in-app guides and other product documentation.",
+    "activity_status": "Active",
+    "website": "http://www.layuplabs.ai",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; location:new-york",
+    "founders": [
+        {
+            "name": "Ryan Xue, Founder",
+            "description": "Co-Founder and CEO of Layup (YC W23). Former consultant and operator.",
+            "linkedin": "https://www.linkedin.com/in/ryanxue/"
+        },
+        {
+            "name": "Badal Jain, Founder",
+            "description": "Co-Founder and CTO of Layup (YC W23). Prior to that I have worked as Founding Engineer at an early stage startup, Amazon and Nvidia",
+            "linkedin": "https://www.linkedin.com/in/badaljain77"
+        },
+        {
+            "name": "Michael Lemm, Founder",
+            "description": "Co-Founder and COO of Layup (YC W23). Previously in law and finance. Outside of Layup I enjoy rooting on Chicago sports teams, firefighting, and trying new local restaurants.",
+            "linkedin": "https://www.linkedin.com/in/michael-s-lemm/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Layup is a startup based in New York, founded in 2022 and part of Y Combinator's Winter 2023 batch. With a lean team of just three employees, their mission is clear: to guide users seamlessly within the product itself. \n\nThe company's flagship offering is a unique AI-powered second cursor that integrates directly into user interfaces. This technology provides real-time, adaptive assistance that transforms user engagements. What does this mean for product and support teams? Layup saves countless hours that would otherwise be spent on creating in-app guides and extensive product documentation.\n\nSo, what exactly does Layup do? At its core, it's about enhancing user onboarding and engagement. It enables companies to showcase features dynamically, all while helping users navigate their products effectively. With just a single line of code, companies can deploy Layup, making user activation simpler than ever.\n\nOne standout feature is its autonomous learning capability. Layup does away with the need for tedious tagging; it learns about the product naturally and adjusts according to user interactions. It fits into any tech stack, making integration a breeze.\n\nThe founders of Layup have received praise from users, including Alex Lee, Co-founder & CEO of Truewind, who noted that Layup has been a game-changer for scaling user adoption and reducing support tickets.\n\nIn terms of security, Layup is designed with compliance in mind, adhering to standards such as GDPR and SOC2.\n\nFor businesses looking to elevate their user experience effortlessly, Layup is definitely worth checking out. If you\u2019re interested in seeing a demo or getting started, visit their website: [Layup Labs](http://www.layuplabs.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1509fba0e70b20f25792d01f4a9633dfa787a3b8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191501Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5ff7d92845b5c6f9ff73dae026c7cd65d7172961cbd405c466c86674cf325e10",
+    "social_links": [
+        "https://www.linkedin.com/company/layupai/",
+        "https://x.com/layuplabs"
+    ],
+    "logo_path": "data/logos\\Layup_logo.png"
+}

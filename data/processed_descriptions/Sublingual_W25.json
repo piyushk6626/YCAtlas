@@ -1,0 +1,33 @@
+{
+    "Links": "https://www.ycombinator.com/companies/sublingual",
+    "Name": "Sublingual",
+    "Headline": "LLM Observability with zero changes to your code",
+    "Batch": "W25",
+    "Description": "Open source tool which helps you log and analyze all of your LLM calls, including the prompt template, call parameters, responses, tool calls, and more. The coolest thing? You don't have to change any of your code!",
+    "Activity_Status": "Active",
+    "Website": "https://sublingual.ai/",
+    "Founded_Date": "",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "",
+    "Company_Twitter": "",
+    "Tags": "industry:developer-tools; industry:open-source; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "social_links": [],
+    "logo_path": "data\\logos\\Sublingual.png",
+    "Active_Founders": [
+        {
+            "Name": "Dylan Bowman, Founder",
+            "Description": "Background: LLM research in defense contracting and deployment safety.",
+            "LinkedIn": "https://www.linkedin.com/in/dylan-bowman-68a56218b/"
+        },
+        {
+            "Name": "Matthew Tang, Co-Founder and CEO",
+            "Description": "recommendation systems, computer vision, deep learning theory",
+            "LinkedIn": "https://www.linkedin.com/in/mhtang2/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "Sublingual is tackling a fascinating problem in the realm of large language models (LLMs) with a bold mission: to provide observability with zero code changes. Imagine being able to monitor and analyze your LLM interactions\u2014tracking everything from prompt templates to call parameters and responses\u2014all without having to tweak a single line of your existing code. That\u2019s the promise Sublingual delivers.\n\nOriginally launched as an open-source tool, Sublingual is designed for developers who want to gain insights into their LLM calls effortlessly. With a simple setup process that includes commands like `pip install subl`, `subl python your_app.py`, and `subl server`, they make it easy to integrate this functionality into any application.\n\nFounded in San Francisco, Sublingual is part of Y Combinator\u2019s W25 batch, which often indicates a startup with serious potential. The team consists of just two employees at this stage, but they are already tackling the infrastructure needs of AI development with a focus on developer tools. Harj Taggar, acting as their Group Partner, adds a valuable layer of mentorship and support.\n\nWhat\u2019s truly impressive is their commitment to simplicity and accessibility. By emphasizing a zero-code-change philosophy, Sublingual is appealing not just to seasoned developers but also to those who might not want to dive deep into technical adjustments. \n\nIf you want to learn more or get involved, check them out at [sublingual.ai](https://sublingual.ai/) or join their community on Discord. As AI continues to evolve, tools like this will be crucial in making powerful technology more manageable and transparent for developers. Keep an eye on Sublingual; they\u2019re just getting started."
+}

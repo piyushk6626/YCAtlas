@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/alpha-vantage",
+    "name": "Alpha Vantage",
+    "headline": "Developer-friendly and enterprise-grade APIs for financial market\u00e2\u0080\u00a6",
+    "batch": "S18",
+    "description": "Alpha Vantage provides enterprise-grade financial market data through a set of powerful and developer-friendly data APIs and spreadsheets. Whether you need traditional asset classes (e.g., stocks, ETFs, commodities), economic metrics, foreign exchange rates, cryptocurrencies, fundamental data or even technical indicators, Alpha Vantage is your one-stop shop for global market data delivered through REST APIs.",
+    "activity_status": "Active",
+    "website": "https://www.alphavantage.co/",
+    "founded_date": 2017.0,
+    "team_size": 8.0,
+    "location": "Boston",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:analytics; industry:api; location:boston",
+    "founders": [
+        {
+            "name": "Olivier Porte, Founder",
+            "description": "I was born in London, UK and raised in Tokyo, Japan and the Bay Area. \nI co-founded Alpha Vantage in 2017, an API/dev tools company that was fortunate to be in the Summer 2018 batch. Today I continue to run Alpha Vantage day-to-day while also doing angel investing (mostly YC startups) on the side.",
+            "linkedin": "https://www.linkedin.com/in/olivier-porte/"
+        },
+        {
+            "name": "Steve Zheng, Founder",
+            "description": "Cofounder of Alpha Vantage",
+            "linkedin": null
+        }
+    ],
+    "status": true,
+    "generated_description": "**Alpha Vantage: Democratizing Financial Data**\n\nFounded in 2017 and based out of Boston, Alpha Vantage is a Y Combinator-backed startup that provides robust, developer-friendly APIs packed with financial market data. What sets them apart is their commitment to serving both individual developers and enterprises, making financial data accessible to everyone. With a tight-knit team of eight, they are focused on harnessing the power of technology to deliver insights that drive better financial decisions.\n\nAt its core, Alpha Vantage offers a suite of APIs that allows users to access everything from real-time stock market data to historical prices, foreign exchange rates, commodities, and cryptocurrencies. They also provide valuable economic metrics and technical indicators, all delivered via cloud-based APIs for integration into various applications, Excel spreadsheets, and Google Sheets. Essentially, they\u2019ve created a one-stop shop for anyone who's serious about understanding global markets.\n\nThe company\u2019s mission resonates with a broad audience, including algorithmic traders, financial analysts, and anyone interested in financial data analytics. Their tools are especially useful for algorithmic trading, offering a wealth of options along with over 60 technical and economic indicators\u2014a real boon for data-savvy investors.\n\nThey\u2019ve partnered with major exchanges, like NASDAQ, enhancing their credibility and reach. Through initiatives like Alpha Academy, they offer educational resources aimed at upskilling users on topics from machine learning to quantitative investing, showcasing their commitment to not just being a data provider but also a knowledge facilitator.\n\nIf you're interested in diving into the world of finance with several APIs at your disposal, Alpha Vantage offers an easy start with a free API key, found on their website. It\u2019s clear that they\u2019re not just selling data; they\u2019re building a platform that empowers users through knowledge and real-time information.\n\nFor more details, check out their [official site](https://www.alphavantage.co/) or explore the expansive [documentation](https://www.alphavantage.co/documentation/) to get started. Whether you\u2019re a fledgling investor or a seasoned trader, Alpha Vantage holds a wealth of data waiting to be tapped into.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d51500a7e3c0b122e42068e16f447b75f88617ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190955Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e4c1eb1ece1ab9522612a7db2ebdc4006ba4f146532aba657f4e67c5d4fac1f8",
+    "social_links": [
+        "https://www.linkedin.com/company/alpha-vantage-inc/",
+        "https://twitter.com/alpha_vantage",
+        "https://www.crunchbase.com/organization/alpha-vantage",
+        "https://github.com/alphavantage"
+    ],
+    "logo_path": "data/logos\\Alpha_Vantage_logo.png"
+}

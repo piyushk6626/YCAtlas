@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/optery",
+    "name": "Optery",
+    "headline": "Opt out software that removes your private info from the internet",
+    "batch": "W22",
+    "description": "Optery is automated opt out software, and we serve individuals, families and businesses.  With Optery, you can remove yourself from hundreds of data brokers that are posting and selling your home address, phone number, email and other private information on the internet.  \r\n\nOptery was awarded\"Editors' Choice\" by PCMag as the most outstanding product in its category in 2022, 2023, and 2024, was a winner in Fast Company's Next Big Things in Tech for Security and Privacy in 2023, and has received numerous Cybersecurity Excellence awards.\r\n\nOptery prevents phishing and social engineering, identity theft and fraud, online stalking and harassment, doxxing, and prevents people's private information from showing up in Google search results. \r\n\nAnyone can create a free account to receive a personalized Exposure Report with live screenshots summarizing where your information is being posted and sold online.  Optery then provides free tools for self-service removals, or you can upgrade to a paid plan, and Optery will remove the profiles for you.\r\n\nOptery for Business serves enterprises removing personal information from the internet for their employees and executives, and offers an API enabling application developers to embed data broker scanning and removal technology into their applications.",
+    "activity_status": "Active",
+    "website": "https://www.optery.com",
+    "founded_date": 2020.0,
+    "team_size": 20.0,
+    "location": "Walnut Creek, CA",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:consumer; industry:security; industry:privacy; industry:enterprise-software; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Lawrence Gentilello, Founder",
+            "description": "Lawrence is CEO and Founder at Optery. Prior to founding Optery, Lawrence led Accenture\u2019s Data Management Platforms practice in North America and was a Product Management and Technical Consulting leader at Oracle and BlueKai. As an entrepreneur, Lawrence co-founded the remote collaboration company Screenleap and launched the first online facebook at Stanford in 1999. Lawrence is an alumnus of Stanford (BA), Duke (MBA), and Y Combinator (Optery (W22) and Screenleap (W12)).",
+            "linkedin": "https://www.linkedin.com/in/gentilello"
+        },
+        {
+            "name": "Chen Atlas, Founder",
+            "description": "Chen is CTO and Founder at Optery. Prior to founding Optery, Chen was tech lead and architect for 50+ engineers at Runa HR. Prior to Runa HR he was Co-Founder and CTO of As You Stay, and Cleanly, the on-demand laundry service. Chen was recruited out of high school by the Israel Defense Forces (Mamram) to build logistics platforms and is an expert in building large scale complex systems with high availability.  Chen is an alumnus of Bar-Ilan University (BA) and Y Combinator (Cleanly, W15).",
+            "linkedin": "http://www.linkedin.com/in/atlaschen"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Optery: Privacy for the Digital Age**\n\nFounded in 2020 and based in Walnut Creek, California, Optery is a trailblazer in the realm of online privacy, focused on helping individuals, families, and businesses remove their personal information from the internet. Their mission? To combat the pervasive issue of data brokers who collect and sell sensitive information like home addresses and phone numbers. \n\nAt its core, Optery provides automated opt-out software that enables users to eliminate their profiles from over 610 data broker sites\u2014a feat unmatched by competitors. The platform gained notable recognition, being awarded as \"Editors' Choice\" by PCMag for three consecutive years (2022, 2023, and 2024), along with accolades from Fast Company and Cybersecurity Excellence awards for its innovative approach to data privacy. \n\n**How It Works:**\n\n- **Personal Exposure Report**: Users can create a free account and receive a personalized report detailing where their information is visible online.\n- **Opt-Out Options**: With Optery, individuals can either opt out themselves using self-service tools or upgrade to a paid plan where Optery handles removals on their behalf.\n- **Business Solutions**: Optery for Business extends its services to enterprises, helping protect employees\u2019 information and providing an API for developers to integrate their data broker scanning technology.\n\n**Why Choose Optery?**\n\n1. **Comprehensive Coverage**: Optery excels in removing personal information from more sites than any other service.\n2. **Patented Technology**: Unique search technology, with patents in the field, enables efficacious removals.\n3. **Transparency**: Users receive live screenshots as proof of the removal process, ensuring total accountability.\n4. **Exceptional Support**: With a dedicated customer service team available 24/7, Optery is committed to enhancing user experience.\n\n**The Importance of Optery:**\n\nIn an era where digital privacy is increasingly compromised, Optery empowers its users to take back control. It not only prevents identity theft and online harassment but also significantly reduces unwanted exposure, reinforcing users' overall sense of security.\n\n**Final Words and Future Vision:**\n\nAs a company proudly rooted in Silicon Valley\u2019s entrepreneurial spirit, Optery envisions a world where individuals can navigate the online landscape without fear of data misuse. With a team of 20 and a growing presence, this startup continues to innovate and expand its services, dedicated to making privacy rights accessible to everyone.\n\nFor more information, visit [Optery's website](https://www.optery.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/875a81b214c6af02c27ad70057c48e07abc96f04.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191615Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8e8d36e0c23ced9775d0f5dc7ac78b8d9ce1ecc9af0d22403cf9df83684547e9",
+    "social_links": [
+        "https://www.linkedin.com/company/optery/",
+        "https://twitter.com/Optery",
+        "https://www.facebook.com/optery",
+        "https://www.crunchbase.com/organization/optery"
+    ],
+    "logo_path": "data/logos\\Optery_logo.png"
+}

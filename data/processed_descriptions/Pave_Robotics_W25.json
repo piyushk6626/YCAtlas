@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/pave-robotics",
+    "name": "Pave Robotics",
+    "headline": "Robots that repair roads",
+    "batch": "W25",
+    "description": "Pave Robotics builds robots that seal cracks in asphalt, helping paving companies save time and money. Our robots work 24/7 and deliver higher-quality results than humans.",
+    "activity_status": "Active",
+    "website": "https://pave-robotics.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Jose, CA",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hardware; industry:construction; industry:self-driving-vehicles; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Josh Kelly, Founder/CEO",
+            "description": "CEO at Pave Robotics. Former Mechatronics Engineer at Zipline and Head of Engineering for Mark Rober. Designed and built autonomous porch pirate traps called glitterbombs, and a robot that set up 100,000+ dominoes in 24 hours.\nBachelor's in Mechanical Engineering from Stanford University.",
+            "linkedin": "https://linkedin.com/in/joshak18"
+        },
+        {
+            "name": "Mason Landon Smith, Founder/CPO",
+            "description": "CPO/Founder of Pave Robotics. Previously, Head of Product at CrunchLabs where I hired and led a team of 12 product designers. BFA in Industrial Design from the Rhode Island School of Design.",
+            "linkedin": "https://linkedin.com/in/mason-landon-smith"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Pave Robotics: Revolutionizing Road Repair**\n\nFounded in 2024 and based in San Jose, California, Pave Robotics is tackling a persistent issue in the construction industry: road maintenance. Their mission is straightforward yet ambitious\u2014create robots that can repair roads more efficiently than human crews. They\u2019ve developed Tracer, a robotic solution that automates the labor-intensive process of asphalt crack sealing, working around the clock to improve quality and reduce costs for paving companies.\n\n**What They Do**\n\nAt its core, Pave Robotics addresses two major pain points: time and quality. By utilizing advanced sensing and perception technologies, Tracer autonomously detects cracks, clears debris, and applies sealant with remarkable precision. This doesn\u2019t just streamline the process; it fundamentally changes how repairs are performed. You could say Tracer essentially works while you sleep, delivering results that exceed what a human crew could achieve in the same time frame.\n\nBut it doesn\u2019t stop there. Pave Robotics also focuses on data. Their technology gathers real-time information about pavement conditions, providing valuable insights for municipalities and property owners. This data helps clients make informed decisions regarding maintenance and budgeting, ultimately leading to longer-lasting roads.\n\n**The Team and Support**\n\nWith a lean team of just three employees, Pave Robotics is part of Y Combinator's Batch W25, placing them in a network that offers invaluable guidance and resources. Jared Friedman serves as their group partner, adding further testament to the startup's potential in a crowded tech landscape.\n\n**Where to Learn More**\n\nIf this sounds intriguing, you can explore more about Pave Robotics by visiting their [website](https://pave-robotics.com). Whether you\u2019re in construction or simply interested in how technology is reshaping traditional industries, Pave Robotics is worth keeping an eye on as they pave the way\u2014quite literally\u2014for the future of road maintenance.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a01e0349417a9a242a80e26aaefb5321fc7e7ef6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191625Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a1f6112763b005d885ecfd130f9ac223f78760b88ba0baf08cb38a72a2297a01",
+    "social_links": [
+        "https://www.linkedin.com/company/pave-robotics/"
+    ],
+    "logo_path": "data/logos\\Pave_Robotics_logo.png"
+}

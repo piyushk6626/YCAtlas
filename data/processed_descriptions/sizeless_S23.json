@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/sizeless",
+    "name": "sizeless",
+    "headline": "Make ML models reproducible and safe.",
+    "batch": "S23",
+    "description": "Sizeless is a platform to help ML teams automatically run, test and improve their models to make ML reproducible and safe. Currently, ML engineers do this manually which takes weeks - we automate this down to a few clicks. ML engineers at Google shopping and computer vision startups are using our platform to shorten their ML development cycle and continuously monitor and fine tune their models. We provide ML engineers with a productivity tool set, so that they can focus on building great ML models. \r\n\nWe developed this tool during our PhDs (Cornelius in ML at ETH Zurich and Roger in astrophysics at Cambridge), saving us and our PhD colleagues around 2 weeks per model while generating actionable insights. \r\n\nWe launched 10 days ago, have 5 daily active users like ML engineering teams at Google Shopping and in computer vision startups and more than 50 sign ups on our waitlist. We provide ML engineers with a productivity tool set, so that they can focus on building great ML models.",
+    "activity_status": "Active",
+    "website": "https://www.sizeless.co",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:devops; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Roger de Belsunce, Founder",
+            "description": "PhD in astrophysics from University of Cambridge",
+            "linkedin": "https://linkedin.com/in/rogerdb"
+        },
+        {
+            "name": "Cornelius von Einem, Founder",
+            "description": "Cofounder of sizeless (S23). Previously Researcher @ ETH Zurich working on Computer Vision and Robotics",
+            "linkedin": "https://linkedin.com/in/corneliuseinem"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Sizeless: Making Machine Learning Reproducible and Safe**\n\nSizeless is a fresh entrant in the machine learning (ML) landscape, launching in 2023 and already part of Y Combinator's S23 batch. Based in San Francisco, this startup aims to fix a significant pain point for ML engineers: the time-consuming process of running, testing, and improving ML models, which often takes weeks if done manually. \n\nThe vision at Sizeless is straightforward: **\"Make ML models reproducible and safe.\"** Founders Cornelius (an ML PhD from ETH Zurich) and Roger (an astrophysics PhD from Cambridge) developed this platform out of their own experiences during their PhDs, finding that their tool could save their peers around two weeks per model while generating actionable insights. Now, they\u2019re here to help ML teams at companies like Google Shopping and various computer vision startups speed up their development cycles dramatically\u2014think just a few clicks instead of a drawn-out manual process.\n\nSizeless offers a productivity toolkit for ML engineers, enabling them to focus on building robust models instead of getting bogged down in the logistics of testing and deployment. Their platform automatically deploys models efficiently to CPUs and GPUs, tests and compares them against other models, and generates insights for improvement. In just ten days since its launch, Sizeless has attracted five daily active users and gathered over 50 sign-ups on their waitlist.\n\n### Core Features\n- **Automatic Deployment**: Sizeless efficiently handles the deployment of ML models.\n- **Testing and Validation**: Runs comprehensive tests for accurate benchmarking against other codes.\n- **Insights and Improvements**: Provides actionable suggestions to help users hit their performance metrics.\n\nThe focus here is not just on automation but also on safety and transparency\u2014making sure that ML engineers can uncover and fix model failures, benchmark their performance against others, and manage cloud spending effectively, only paying for what they utilize.\n\nWith a team of just two and backed by noted partner Michael Seibel, Sizeless is making waves in the AI/ML community. Positioned under tags like 'aiops', 'developer-tools', and 'devops', they are certainly aiming at a broad audience in the tech sector.\n\n### Interested?\nIf you\u2019re an ML engineer looking to streamline your workflow, Sizeless offers a compelling path forward. Check out their [website](https://www.sizeless.co) for more information or to join their waitlist.\n\nIn short, Sizeless is shaping up to be a game changer in ML, promising to make research not only faster but also more reproducible and secure. Quite an exciting time to dive into this space!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/31ed655e8caba05d8313dce4732d11865026cc98.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191931Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bb05555c87727dbee3967dd7346b574641f7ca402fdbbb6e5129897e39f7c5f4",
+    "social_links": [],
+    "logo_path": "data/logos\\sizeless_logo.png"
+}

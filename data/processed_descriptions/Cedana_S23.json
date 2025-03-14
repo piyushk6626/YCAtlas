@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/cedana",
+    "name": "Cedana",
+    "headline": "Save, migrate and resume compute jobs in real-time",
+    "batch": "S23",
+    "description": "Cedana (YC S23) enables real-time save, move and restore for compute workloads.\u00a0 We expand GPU capacity, increase reliability, reduce latency up to 10x and increase CPU/GPU utilization up to 5x resulting in significant cost savings.\u00a0OpenAI, Meta and Microsoft have flavors of these capabilities internally and we\u2019re bringing them to everyone.\u00a0\r\n\nOur solution applies to AI training and inference, HPC, data analysis, dev tools and infra.\u00a0 Our vision is to transform cloud compute into a real-time, arbitraged commodity.\u00a0\r\n\nWe are a fully distributed remote company.  \r\n\nhttps://www.cedana.ai",
+    "activity_status": "Active",
+    "website": "https://cedana.ai",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": "New York",
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:deep-learning; industry:developer-tools; industry:cloud-computing; industry:infrastructure; location:new-york",
+    "founders": [
+        {
+            "name": "Neel Master, Founder",
+            "description": "CEO of Cedana. Previously  CEO/co-founder of Engooden, AI-powered chronic disease management  proven to improves outcomes and lower costs for patients (Series B).  VP of Corp Development for Petra Systems  (predictive smart grid/solar company) scaled from $0-$70M ARR.  At TL Ventures ($1.6B VC fund) investing across semi, software and systems.  Built a system for large-scale, automated ML and computer vision at MIT CSAIL.  Patents and publications in AI, computer vision.",
+            "linkedin": "https://www.linkedin.com/in/neelmaster1"
+        },
+        {
+            "name": "Niranjan Ravichandra, Founder",
+            "description": null,
+            "linkedin": "linkedin.com/in/niranjanravichandra"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Cedana Overview**\n\nCedana, founded in 2023 and a participant of Y Combinator's Summer 2023 batch, is on a bold mission: to \"Save, migrate and resume compute jobs in real-time.\" Headquartered in New York and operating as a fully distributed remote team of five, Cedana is stepping into a space that has seen significant interest from tech giants like OpenAI, Meta, and Microsoft, aiming to democratize access to sophisticated compute capabilities.\n\n**What They Do**\n\nCedana's core offering addresses the inefficiencies in cloud computing by enabling real-time saving, moving, and restoring of compute workloads. This approach not only expands GPU capacity and increases reliability but also reduces latency by up to ten times while enhancing CPU/GPU utilization by up to five times. The result? Remarkable cost savings for businesses leveraging cloud services for AI training, inference, high-performance computing (HPC), and data analysis, among other applications.\n\n**Product Features and Use Cases**\n\nThe company's technology boasts powerful features that make it a standout solution:\n- **Automated State Management**: This ensures that compute workloads automatically resume on new instances without data loss upon failures.\n- **Latency Reduction**: Cold starts are accelerated significantly, enhancing the speed of CPU/GPU workloads.\n- **Cost Efficiency**: Businesses can reduce their compute expenses by 20%-80%, primarily by eliminating idle resources through active workload management.\n\nCedana's capabilities find applications across various sectors, including:\n- Kubernetes workload management\n- GPU orchestration for improved utilization\n- AI inference and training\n- Advanced data workflows\n- Gaming and HPC applications\n\n**Vision and Future**\n\nCedana aspires to transform cloud computing into a real-time, arbitraged commodity, making sophisticated computing power accessible to smaller enterprises that previously had to rely on larger providers. This vision is supported by an easy integration model using their REST API, which allows users to checkpoint and migrate workloads with no code changes needed.\n\nBacked by renowned partners and led by an experienced team, Cedana stands ready to carve out a significant space in the cloud computing landscape, focusing on enhancing reliability and performance while cutting costs. \n\nFor more information and to see how Cedana can enhance your compute capabilities, you can visit [Cedana's website](https://www.cedana.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/735d6cdc9b880883689907dd70a4b16cdc67f993.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191045Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=44e3e74720094eb219c585828ae7e86e79f438d893082c82269c5b19a7d03080",
+    "social_links": [
+        "https://www.linkedin.com/company/cedanacorp/",
+        "https://twitter.com/cedana_ai",
+        "https://github.com/cedana"
+    ],
+    "logo_path": "data/logos\\Cedana_logo.png"
+}

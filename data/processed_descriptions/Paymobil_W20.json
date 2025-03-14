@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/paymobil",
+    "name": "Paymobil",
+    "headline": "The super simple stablecoin wallet with free transactions",
+    "batch": "W20",
+    "description": "Paymobil is a global bank account replacement using stablecoins.\r\nWe make it possible to send money to any email or phone number in the world in seconds.\r\n\nWe have taken all the friction out of the current terrible UX with crypto p2p payments and made it better than regular consumer products like Venmo and Square Cash. Unlike those it works across borders and can launch globally due to our non-custodial architecture.",
+    "activity_status": "Active",
+    "website": "https://www.paymobil.co",
+    "founded_date": 2020.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:crypto-web3; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Daniel Nordh, Founder",
+            "description": "CEO at Paymobil - A global bank account replacement using stablecoins.\nPreviously Lead Design at Coinbase & Pinterest\nFounder of Curator (acquired by Pinterest). \nArchitect for London, Label manager (Little Dragon, Studio)",
+            "linkedin": "https://www.linkedin.com/in/dnordh"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Paymobil: Revolutionizing Money Transfers with Stablecoins\n\nFounded in 2020 as part of Y Combinator's Winter 2020 batch, Paymobil is on a mission to simplify global transactions. This San Francisco-based fintech startup is positioning itself as the go-to wallet for stablecoins, offering a seamless and user-friendly alternative to traditional banking. With a lean team of just two employees and guided by Group Partner Nan, they are tackling a big pain point in the world of personal finance.\n\n**What Does Paymobil Do?**\nAt its core, Paymobil allows users to send and receive money instantly, without transaction fees, via a stablecoin wallet that operates across borders. Unlike existing services like Venmo or Square Cash, which operate primarily within a single country's ecosystem, Paymobil facilitates transactions in any part of the world using stablecoins\u2014cryptocurrencies strategically pegged to the US dollar. They utilize USD Coin (USDC) on the Polygon network, ensuring that users can exchange their stablecoins for local currency at any time.\n\n### Key Features:\n1. **Global Instant Transactions**: Whether you're sending money to a friend or family member abroad, Paymobil enables you to do it in seconds without any fees. Just request or send money using an email or phone number.\n\n2. **Stablecoin Transactions**: Paymobil uses USDC, a stablecoin fully backed by US dollars, which is audited monthly by a reputable firm. This means you can trust that your cryptocurrency is pegged to a stable value.\n\n3. **User-Friendly Interface**: Designed with the user experience in mind, Paymobil\u2019s wallet is easier to navigate than traditional peer-to-peer payment apps, making crypto technology accessible to everyone, even those unfamiliar with it.\n\n4. **Security First**: Your private key is created on your device, ensuring only you have access to your funds. Paymobil also encrypts and backs up your key to iCloud or Google Drive, so you're safe even if you lose your phone.\n\n5. **Buy and Save in Dollars**: Users can buy dollars using cards or bank accounts and get paid directly in stablecoins, regardless of their location around the globe.\n\n### Conclusion\nIn a world where cross-border payments can take days and can be costly, Paymobil is stepping up to offer a fast, secure, and user-friendly solution. With the growing adoption of cryptocurrencies and increasing demand for hassle-free financial services, Paymobil is well-positioned to redefine how we think about money. If you're ready to embrace the future of transactions, visit [Paymobil's website](https://www.paymobil.co) and get started today!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/aba84ff1daa7aaa78da026232d221f6672909145.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191627Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=351d06973bf9bad23c51ae7aed0ff48fa541da3de8bc143f4ef26911f5727610",
+    "social_links": [
+        "https://twitter.com/paymobilapp"
+    ],
+    "logo_path": "data/logos\\Paymobil_logo.png"
+}

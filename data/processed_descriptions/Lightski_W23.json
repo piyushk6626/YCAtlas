@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/lightski",
+    "name": "Lightski",
+    "headline": "Cursor for Engineering Docs",
+    "batch": "W23",
+    "description": "Lightski is an AI rich-text editor specifically built for software engineers. We take the grunt work out of drafting technical docs by marrying an AI Assistant with your Github, allowing it to write for you.\r\n\nLightski connects to your Github and comes with an AI agent that automatically searches your codebase to write for you. Afterwards, continue refining the doc in our Notion-like editor, where you can collaborate, iterate, and comment on the doc.",
+    "activity_status": "Active",
+    "website": "https://www.lightski.com",
+    "founded_date": 2023.0,
+    "team_size": 1.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:b2b; industry:analytics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Hansen Qian, Founder",
+            "description": "Hansen is the the cofounder of Lightski. Previously, Hansen was the 10th employee and an engineering manager at Affinity CRM.",
+            "linkedin": "https://www.linkedin.com/in/hansenq"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Lightski**\n\nFounded in 2023 and based in San Francisco, Lightski is a cutting-edge tool designed specifically for software engineers. As part of Y Combinator's W23 batch, Lightski\u2019s mission is to serve as the \"Cursor for Engineering Docs,\" simplifying the often cumbersome process of drafting technical documentation. With just a team of one, their ambition is significant.\n\n**What They Do**\n\nLightski offers an AI-rich text editor that integrates seamlessly with your GitHub account. This AI-powered assistant scours your codebase, gathering relevant information to generate high-quality first drafts of documents like Technical Design Docs, Requests for Comments (RFCs), Peer Reviews, or Product Requirements Documents (PRDs). Once this initial draft is created, users can leverage a Notion-like editing environment to collaborate, iterate, and refine the content, making the process more efficient and less painful.\n\n**Key Features**\n\n- **AI-Assisted Writing**: The built-in AI agent not only aids in drafting documents but also supports intelligent indexing and retrieval of information from your existing code and documentation. This means no more blank page syndrome\u2014get ideas flowing with smart suggestions and tab-triggered completions.\n  \n- **Collaborative Editing**: Lightski features a multiplayer rich-text editor that makes it easy for teams to work on documents simultaneously, enhancing communication and creativity.\n\n- **Markdown Export**: After drafting, you can export your work to Markdown, ensuring compatibility with various tech documentation tools.\n\n- **Integrated Tools**: Beyond GitHub integration, Lightski is designed to work well with other tools engineers use in their workflows.\n\n**Target Audience and Industry Focus**\n\nLightski positions itself within the realms of developer tools, generative AI, SaaS (Software as a Service), and analytics. It's geared towards businesses looking to improve their engineering documentation processes, offering a blend of speed and quality that\u2019s hard to beat.\n\n**Getting Started**\n\nFor those looking to take their technical documentation to the next level, Lightski offers demos and a straightforward sign-up process on their website [Lightski.com](https://www.lightski.com). This is a promising tool for engineering teams aiming to cut down on the grunt work and focus on what really matters: building great software. \n\nIn summary, Lightski is a forward-thinking solution that harnesses the power of AI to transform how engineers write and manage their technical documentation. It\u2019s an exciting development in the world of developer tools that reflects a growing trend toward automation and efficiency in the engineering field.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9faaa549b54c89cd7a0a6aec179bab7678c016b0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191507Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e2080e5c50ed60e64a038ec7aba1c650ed9db352f67a19bdb7414633f3ed4e2e",
+    "social_links": [
+        "https://www.linkedin.com/company/lightski/",
+        "https://twitter.com/lightskis"
+    ],
+    "logo_path": "data/logos\\Lightski_logo.png"
+}

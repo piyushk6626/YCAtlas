@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/persana-ai",
+    "name": "Persana AI",
+    "headline": "Alternative to Clay | Intelligent sales agent with 75+ data sources",
+    "batch": "W23",
+    "description": "Persana AI is an intelligent sales copilot powered by our own custom fine tuned models. We ingest all of a company\u2019s internal CRM data, combine it with public web sources on each of their prospects, and give them insights on who to prioritize based on crucial intent signals so that they capture ripe opportunities . For instance, when a lead visits the company website or gets funding, Persana AI can notify the sales team and generate an email to send out right away.",
+    "activity_status": "Active",
+    "website": "https://www.persana.ai/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:sales; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sriya Maram, Co-founder and CEO",
+            "description": "Cofounder and CEO at Persana AI. I've previously been a PM at Linkedin working on customer data and have built a successful generative AI tool in the past. I'm now focused on helping businesses leverage the incredible power of AI and making it more accessible.",
+            "linkedin": "https://www.linkedin.com/in/sriyam"
+        },
+        {
+            "name": "Rush Shahani, Founder",
+            "description": "Co-Founder of Persana AI. I've been an AI Engineer focused on NLP for the last 5 years. \nPrev experience: LinkedIn, ElementAI (acquired), Shopify",
+            "linkedin": "https://www.linkedin.com/in/rusheelshahani/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Persana AI: Revolutionizing Sales Intelligence**\n\nFounded in 2023 and part of the Y Combinator W23 batch, Persana AI is based in San Francisco and has a small, agile team of just two employees. This startup introduces an intelligent sales agent designed to enhance the outbound sales experience by leveraging over 75 data sources. Rather than being an alternative to tools like Clay, it positions itself as a comprehensive copilot\u2014ingesting CRM data and amplifying it with insights from public web sources to spot the hottest leads.\n\n### What Does Persana AI Do?\n\nPersana AI processes internal CRM data and gives actionable insights based on significant intent signals. For instance, if a prospective client visits the company website or secures new funding, the sales team is promptly alerted, allowing them to capitalize on these ripe opportunities with timely outreach.\n\nWith a platform that promises to **find, engage, and close deals** around the clock, Persana offers features like:\n\n1. **Automated Outreach:** Deploy AI agents that work 24/7 to send follow-ups and book meetings without manual intervention.\n2. **Hyper-Personalized Messaging:** Create tailored communication for each prospect based on individual behaviors and company activities.\n3. **Multi-Channel Engagement:** Manage conversations seamlessly across various platforms like email and LinkedIn, ensuring no lead falls through the cracks.\n\n### Scaling Sales with AI\n\nPersana AI boasts an extensive database\u2014200 million companies and 700 million contacts\u2014integrating this data directly into existing CRM workflows. The ability to analyze intent signals such as job changes or funding news means sales teams can act quickly and strategically.\n\nFlexible in application, Persana can enrich data, automate workflows, and target ideal buyers, all crucial for modern sales efforts that demand speed and agility.\n\n### Customer Feedback & Market Reception\n\nAlready gaining traction, reviewers praise Persana for its efficient lead generation and data enrichment capabilities. Customers highlight how Persana streamlines outreach, backing claims of improved meeting bookings and personalized outreach that used to take weeks to organize.\n\nIn essence, Persana AI isn't just another sales tool; it's about liberating sales teams to focus on what they excel at\u2014selling\u2014while the heavy lifting of data handling and outreach logistics is expertly managed by AI.\n\nFor more information, you can visit their website at [Persana AI](https://www.persana.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fe5e765847a2669039414c319234e25f82c64296.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191631Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=eba53d96b6fc358c12fad3d11d9e21dee43742111876adf5b0ce4143d2f1c59d",
+    "social_links": [
+        "https://www.linkedin.com/company/persana-ai/?viewAsMember=true",
+        "https://twitter.com/PersanaAi"
+    ],
+    "logo_path": "data/logos\\Persana_AI_logo.png"
+}

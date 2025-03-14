@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/helium",
+    "name": "Helium",
+    "headline": "Self Improving Software",
+    "batch": "S24",
+    "description": "Helium is building self-improving software \u2014 AI that continuously experiments on key moments in the user funnel to boost revenue. Our first customer, a social app with 20M MAU, uses Helium to test new in-app paywalls to get more users to subscribe. \r\n\nZach previously made $100M+ in growth experiments at Uber, Shishir led the first LLM features for Alexa, and Anish worked at Meta building ML to automatically experiment on ads, increasing Instagram ads conversion by 10%.",
+    "activity_status": "Active",
+    "website": "https://tryhelium.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Zach Witzel, Founder",
+            "description": "Made >$100M in growth experiments at Uber. Now building tryhelium.com to personalize upsell flows. We help consumer subscription companies double their conversion.",
+            "linkedin": "https://linkedin.com/in/zachwitzel"
+        },
+        {
+            "name": "Anish Doshi, Founder",
+            "description": "Cofounder @ Helium.\nPreviously ML @ Meta, Apple, Alteryx, Berkeley.\nInto \ud83e\udd4a ,\u265f\ufe0f, and \ud83c\udfb9",
+            "linkedin": "https://www.linkedin.com/in/anish-doshi-45a81271"
+        },
+        {
+            "name": "Shishir Jakati, Founder",
+            "description": "Cofounder and CTO of Helium. Before Helium I worked at Amazon Alexa building predictive models to determine the quality of content and utterances spoken by Alexa, reducing cloud costs 10x. I love ML, LLMs, and MLOps - definitely reach out if I can help!",
+            "linkedin": "https://linkedin.com/in/shishirjakati"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Helium: Revolutionizing Paywall Management with AI**\n\nFounded in 2024 and part of Y Combinator Batch S24, Helium is on a mission to create self-improving software that intelligently optimizes user experiences to boost revenue. Think of it as an AI that\u2019s not just smart, but constantly learning and adapting to better serve users and businesses alike.\n\nThe company kicked off its journey by partnering with a social app boasting 20 million monthly active users (MAU), helping them test and refine their in-app paywalls to enhance subscription rates. It\u2019s a smart approach\u2014by experimenting on key moments in the user funnel, Helium aims to turn casual users into loyal subscribers with minimal developer intervention.\n\n### The Team Behind the Magic\nHelium is led by a trio of growth-savvy co-founders:\n- **Zach Witzel**: Formerly at Uber, he has engineered over $100 million in growth experiments.\n- **Shishir Jakati**: An ex-Amazon employee who pioneered large language model features for Alexa.\n- **Anish Doshi**: Known for improving Instagram ads conversion by 10% through machine learning at Meta.\n\nTogether, they bring a wealth of experience in AI and growth hacking, which they leverage to help businesses scale effectively.\n\n### What Helium Does\nHelium\u2019s platform allows businesses to manage their paywalls without needing extensive coding knowledge. Here\u2019s what sets them apart:\n\n- **Visual Editing**: Users can edit their paywall UI and content through a visual editor, making the optimization process seamless.\n- **Rapid Implementation**: New paywalls can be triggered anywhere in an app with a simple line of code\u2014`Helium.showPaywall('onboarding');`. This reduces the friction that often comes with developer teams iterating on user experiences.\n- **Experimentation Made Easy**: Businesses can easily set up A/B tests, even going beyond simple comparisons to sophisticated multivariate tests.\n\n### Get in Touch\nIf you\u2019re looking to enhance your paywall strategy and improve conversions at lightning speed, Helium invites you to book a demo. They\u2019re currently operating with a lean team of just three and are eager to showcase how their technology can work for you.\n\nYou can find more information and get on their waitlist at [Helium's website](https://tryhelium.com).\n\nHelium is not just building software; they\u2019re crafting an intelligent growth partner for businesses that want to thrive in a competitive landscape. With their expert team and cutting-edge technology, they\u2019re poised to change the way we think about paywalls and conversions.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1d77a3ac1fded821cf501ae4e9915f989574d7eb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191415Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=eb2058deedb7de8b37528ab415bb39aed1cb27ad927728f056a97d62b8fb8fc1",
+    "social_links": [
+        "https://www.linkedin.com/company/uplikehelium"
+    ],
+    "logo_path": "data/logos\\Helium_logo.png"
+}

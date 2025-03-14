@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/crustdata",
+    "name": "Crustdata",
+    "headline": "Real-time B2B data via simple APIs",
+    "batch": "F24",
+    "description": "Crustdata provides live company and people data via APIs. We make hard to get data easy to use at scale.\r\n\nWe have developed technology that allows us to pipe in live data from over a dozen different data sources and deliver this data instantly to our customers. \r\n\nWe serve use cases like: automatic pipeline building, pipeline prioritization, champion watching, company and people triggers for sales and marketing automation, investment deal sourcing\r\n\nOur goal is index all the important data on the web and deliver it to customers in an easy-to-use way.",
+    "activity_status": "Active",
+    "website": "https://crustdata.com",
+    "founded_date": null,
+    "team_size": 8.0,
+    "location": null,
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Abhilash Chowdhary, Co-founder and CEO",
+            "description": "Love to build - from PB scale data pipelines to self-driving trucks! Recently, started loving selling software.  Founding/early engineer at 3 startups with exits. Led the Robotics team at Serve Robotics (NASDAQ:SERV) as one of the founding members. Led the Robotics team at Postmates X (acquired by Uber). Was founding robotics engineer at CMU spin-off startup Robotwits (acquired by Waymo). Prior to that, built petabyte scale data pipelines at Yahoo!. BS in CS from IIIT Hyderabad.",
+            "linkedin": "https://linkedin.com/in/abhilash-chowdhary"
+        },
+        {
+            "name": "Manmohit Grewal, Founder",
+            "description": "Co-founder of Crustdata, a real-time company and people data platform. Previously built and sold multiple data products for D2C enablers and POS companies. Northeastern CS grad",
+            "linkedin": "https://www.linkedin.com/in/manmohitgrewal/"
+        },
+        {
+            "name": "Chris Pisarski, Founder",
+            "description": "Multiple time founder. I was on the founding team and was the ex-Interim CEO of PrivCo, a VC-backed data platform. Previously, I was Head of Product and Head of Sales. Cornell grad",
+            "linkedin": "https://linkedin.com/in/chris-pisarski"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Crustdata: Summary\n\n**Crustdata** is shaking up the B2B landscape with its mission to provide real-time data via simple APIs. Founded as part of Y Combinator's Batch F24, Crustdata aims to make hard-to-get company and people data easily accessible for businesses at scale. They\u2019ve built technology that streams live data from a variety of sources, ensuring that users receive this invaluable information instantly.\n\n#### What They Do\n\nCrustdata specializes in delivering rich datasets that serve a multitude of business use cases, including:\n\n- **Automatic pipeline building**: Helps businesses create a steady flow of leads.\n- **Pipeline prioritization**: Allows sales teams to focus on the most promising prospects.\n- **Champion watching and company triggers**: Provides real-time updates for sales and marketing automation.\n- **Investment deal sourcing**: Assists investors in identifying potential deals through timely alerts.\n\nThe overarching goal? To index all the important data on the web and deliver it in a user-friendly manner.\n\n### Team and Backing\n\nWith a small but efficient team of 8 located in an undisclosed area, Crustdata is backed by prominent investors, including Garry Tan as their Group Partner at Y Combinator. Their drive to innovate in the API space is fueled by a commitment to providing the freshest and most reliable data, making them an invaluable tool for sales, marketing, and investment teams who rely on real-time information to thrive.\n\n### What Makes Them Unique\n\nCrustdata prides itself on being \u201cthe only platform providing truly real-time data.\u201d Their robust offering empowers commercial platforms to leverage live data from around the web. They stand out not just for volume but also for versatility\u2014whether it\u2019s enriching sales lists, keeping CRM and ATS systems updated, or tracking competitors.\n\n### Client Base and Impact\n\nCrustdata has established a clientele that spans various sectors, demonstrating its capability to adapt its solutions to meet diverse needs. Users can build live lists of companies or individuals based on specific criteria, enriching their workflows and ensuring timely actions.\n\n### Future Directions\n\nIn a landscape dominated by static datasets, Crustdata is paving the way for smarter, real-time intelligence layers. They cater to AI platforms and help users automate workflows with dynamic, live integrations. For investors and recruiters, this means better, data-driven decision-making\u2014essentially making every interaction more informed and relevant.\n\n### Conclusion\n\nUltimately, Crustdata is about transformation\u2014transforming hard-to-access data into actionable insights that drive growth and efficiency. It's a solid move for businesses that want to stay ahead in an increasingly data-driven world.\n\nFor more information, visit their website: [Crustdata](https://crustdata.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1d03b41d985d2b516bd621c7fd292742ab24d75b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191108Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3dd142c55d6323978c797d098132951d61e738c2bf86bdb6094f2a70f539c1fe",
+    "social_links": [
+        "https://www.linkedin.com/company/crustdata"
+    ],
+    "logo_path": "data/logos\\Crustdata_logo.png"
+}

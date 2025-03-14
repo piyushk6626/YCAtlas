@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/intryc",
+    "name": "Intryc",
+    "headline": "Intryc uses AI to automate quality assurance for customer support",
+    "batch": "S24",
+    "description": "Consumer enterprises have millions of customer support tickets annually. They need to constantly evaluate support agents\u2019 performance and compliance. Typically they evaluate less than 5% of those interactions manually which is slow, expensive and not scalable. Intryc's AI can evaluate 100% of all customer interactions, in real time, at half the cost.",
+    "activity_status": "Active",
+    "website": "https://intryc.com",
+    "founded_date": 2023.0,
+    "team_size": 9.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:customer-success; industry:analytics; industry:customer-support; industry:operations; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alex Marantelos, Co-founder & CEO",
+            "description": "Co-founder and CEO of Intryc. Previously led Customer Success in Northern Europe for Confluent, overseeing $40M+ in ARR across strategic customers. Worked closely with Confluent's executive team to define everything that touches landing, onboarding, expanding, and renewing customers. Before that, first Enterprise Customer Success Manager in EMEA for Navan (fka TripActions) establishing the EMEA first team and presence.",
+            "linkedin": "https://www.linkedin.com/in/alexmarantelos/"
+        },
+        {
+            "name": "Dimitrios Ilias, Founder",
+            "description": "Co-founder and CTO at Intryc. Built the first core banking platform at Revolut; contributed to NLU projects at Alexa/Amazon and AR projects at Meta/Instagram.",
+            "linkedin": "https://www.linkedin.com/in/dimilias/"
+        },
+        {
+            "name": "George Pastakas, Founder",
+            "description": "Co-founder and CPO of Intryc. Previously, #1 employee at Pledge (data science and engineeering), led fraud detection at Revolut (ML models, algorithms and operations).",
+            "linkedin": "https://linkedin.com/in/georgepastakas"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Overview of Intryc\n\nIntryc, a company founded in 2023 and based in San Francisco, is shaking up the customer support quality assurance (QA) landscape by leveraging AI technology. As a fresh entrant into the startup ecosystem, Intryc is part of the Y Combinator Batch S24, indicating it's on a promising trajectory.\n\n### Mission\n\nIntryc aims to automate the quality assurance process for customer support teams. Many enterprises face the challenge of managing millions of customer support tickets annually, yet they only manually evaluate a small fraction\u2014typically less than 5%. This traditional approach is slow, expensive, and lacks scalability. By harnessing AI, Intryc transforms this process by enabling real-time evaluation of 100% of customer interactions at half the cost.\n\n### Team and Leadership\n\nThe company is compact, with a dedicated team of just nine employees. It has Tom Blomfield as a Group Partner, bringing additional weight to its advisory board with his experience in tech and entrepreneurship.\n\n### Features and Offerings\n\nIntryc's offerings are robust and designed to cater to various roles within customer support:\n\n1. **Quality Assurance**: The core focus of Intryc is to provide comprehensive QA tools that allow customer support leads and teams to ensure consistent service quality.\n   \n2. **Real-Time Insights**: The platform enables businesses to monitor important incidents on calls and gain in-depth insights into all activities.\n\n3. **Role-Based Solutions**: \n   - **CS Quality Assurance Lead**: Sets service standards and monitors team performance.\n   - **Support Agent**: Works to enhance customer interactions, turning them into moments of trust.\n   - **QA Specialist**: Focuses on training and providing high-quality support.\n   - **Support Agent Team Lead**: Ensures that the team meets and exceeds customer expectations consistently.\n\n### Key Features\n\n- **AI-Powered Evaluations**: Breaks through the limitations of manual sampling and enables full ticket coverage.\n- **Customizable Scorecards**: Allows businesses to define their own rules for quality evaluations, ensuring relevancy and effectiveness.\n- **Proactive Insights**: Offers alerts and real-time data analysis to identify trends and issues before they escalate.\n\nThese features collectively position Intryc as a leader in the automation of customer support QA, making it easier for companies to improve service and reduce operational burdens.\n\n### Testimonials and Impact\n\nIntryc is already gaining traction, with partners like Deel attesting to impressive results such as a 40% increase in audit output and significant improvements in continuous insights. The feedback underscores Intryc\u2019s role not just as a tool, but as a valuable partner in ensuring enhanced customer experiences.\n\n### Conclusion\n\nIntryc represents an innovative approach to a perennial problem in customer support: ensuring quality without overwhelming resources. With its AI-driven solutions, this startup is poised to redefine industry standards, making quality assurance faster, cheaper, and substantially more effective.\n\nFor more information, visit their website [Intryc.com](https://intryc.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fd933100210e3493f62ef37d9c46fd54a363e51f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191436Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=428f8d2158a5aedba0c94c741992e960c0d735c92c3ce04debd590b08a9bcd8e",
+    "social_links": [
+        "https://www.linkedin.com/company/intryc/",
+        "https://x.com/intryc"
+    ],
+    "logo_path": "data/logos\\Intryc_logo.png"
+}

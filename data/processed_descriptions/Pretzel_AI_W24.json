@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/pretzel-ai",
+    "name": "Pretzel AI",
+    "headline": "Open-source & AI-native replacement for Jupyter Notebooks",
+    "batch": "W24",
+    "description": "**Jupyter is used by millions** of data scientists and analysts but it has _many_ problems.\r\n\n**Pretzel fixes Jupyter's problems** with native AI-tooling, collaboration, modern code-editing features, native SQL support and a visual, AI-assisted data exploration and dashboarding suite.\r\n\n**We're two ex-Stripe founders**. Prasoon worked as a Data Scientist at Stripe, Goldman Sachs and Klarna for over 7 years.\r\n\nWe recently launched on GitHub and got **1000 GitHub stars in two weeks**, 500+ DAU, usage at large companies like Stripe and Bayer and 7 new code contributors.",
+    "activity_status": "Active",
+    "website": "https://withpretzel.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "Berlin, Germany",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:analytics; industry:collaboration; industry:open-source; industry:data-science",
+    "founders": [
+        {
+            "name": "Prasoon Shukla, Founder",
+            "description": "Prasoon worked at Stripe, Goldman Sachs and Klarna for over 7 years as a Data Scientist, building ML models and analytics for Stripe's payment fraud, Klarna's US credit market and Goldman's market risk data.\n\nHe graduated from IIT Roorkee in India with a degree in Applied Maths.",
+            "linkedin": "https://linkedin.com/in/prasoondshukla"
+        },
+        {
+            "name": "Ramon Garate, Founder",
+            "description": "Ramon was an Engineer at Stripe and Klarna and was the first Lead at 2 early stage startups. First line of code in SaaS (startups), releasing new products to consumers (Klarna app) and big integrations with Enterprise (Stripe). He holds a MSc in Autonomous Vehicles Dynamics and Control from Cranfield University.",
+            "linkedin": "https://linkedin.com/in/ramon-garate-4b379093"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Pretzel AI: Revolutionizing Data Science with Open-Source AI Tools**\n\nPretzel AI is an innovative company that's paving the way for data scientists with its mission to create an open-source, AI-native replacement for Jupyter Notebooks. Founded in 2024 by two former Stripe engineers, including Prasoon, who has a notable background in data science from gigs at Stripe, Goldman Sachs, and Klarna, Pretzel stems from the realization that while Jupyter is loved by millions of data professionals, it comes with its set of challenges.\n\nThe goal is clear: **to fix the problems associated with Jupyter**. Pretzel AI brings to the table a suite of features that are essential for modern data work\u2014native AI tooling, collaborative capabilities, enhanced code editing, built-in SQL support, and a dynamic, visual interface for AI-assisted data exploration and dashboard creation. \n\nSince its launch on GitHub, Pretzel AI has made impressive strides, amassing **1,000 stars in just two weeks** along with a strong daily user base of over 500. The platform is already seeing traction with major organizations like Stripe and Bayer, and has attracted seven new contributors eager to join the journey. \n\nBased in Berlin, Germany, the small but mighty team of two is part of Y Combinator's Batch W24, under the stewardship of group partner Dalton Caldwell. The company is not just a tech venture; it's tagged with the critical themes of artificial intelligence, analytics, collaboration, open-source development, and data science\u2014highlighting its comprehensive approach to addressing data challenges.\n\nFor those wanting to explore Pretzel AI further, their website can be found at [withpretzel.com](https://withpretzel.com). \n\nIn a world where data is king, Pretzel AI aims to be the trusted scepter, empowering users to explore and analyze their data more effectively than ever before.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7b8959850ea25a6df9a5341e58a24eed30f64c00.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191653Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c30b3189a54b273f1434f36a4d9baa8033a4690f134dfcef6afe757f5e0a0d5b",
+    "social_links": [
+        "https://www.linkedin.com/company/pretzel-ai/",
+        "https://github.com/pretzelai/pretzelai/"
+    ],
+    "logo_path": "data/logos\\Pretzel_AI_logo.png"
+}

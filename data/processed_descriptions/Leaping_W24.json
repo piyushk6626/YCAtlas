@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/leaping",
+    "name": "Leaping",
+    "headline": "Automate bug resolution",
+    "batch": "W24",
+    "description": "When bad software gets shipped, software companies burn a lot of money and customer trust fixing it. Most software engineers will tell you they spend more time fixing code than writing it, which will only become more true as AI code assistants gain adoption. Leaping autonomously root causes bugs and generates tested code fixes.",
+    "activity_status": "Active",
+    "website": "https://www.leaping.io/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kanav Petkar, Founder",
+            "description": "Co-Founder at Leaping",
+            "linkedin": "https://linkedin.com/in/kvptkr"
+        },
+        {
+            "name": "Adrien Philardeau, Founder",
+            "description": "Co-Founder at Leaping",
+            "linkedin": "https://linkedin.com/in/adrienphilardeau"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Leaping: Automating Bug Resolution for Software Companies**\n\nFounded in 2024 as part of Y Combinator's Winter 2024 batch, Leaping is tackling a problem that plagues software engineers everywhere: the time and resources wasted on bug fixing. Based in San Francisco, this fledgling startup has a lean team of just two employees, but they are on a mission that resonates with many in the tech industry.\n\nThe premise is simple yet powerful: when poorly written software hits the market, it can cost companies dearly in both finances and reputation. Many software engineers often find themselves spending more time fixing code than actually writing it. As AI-powered coding assistants become more prevalent, this trend is likely to worsen unless something changes. That's where Leaping steps in.\n\nLeaping's approach focuses on autonomously diagnosing the root causes of bugs and generating tested code fixes automatically. This could save developers a significant amount of time and streamline the debugging process, allowing them to concentrate more on writing innovative code and less on fixing issues.\n\nTheir tagline, \"Fix your bugs, automatically,\" encapsulates their unique value proposition in the burgeoning fields of developer tools and AI-assisted programming. It's a bold aim, and with backing from influential figures like Michael Seibel as their Group Partner, they seem well-positioned to disrupt the traditional debugging landscape.\n\nIf you're a software engineer tired of the endless cycle of bug fixes or a company looking to improve your software reliability without burning through cash and trust, keep an eye on Leaping. You can learn more about them at [leaping.io](https://www.leaping.io/).\n\nIn summary, Leaping isn\u2019t just another startup; it\u2019s a beacon for a future where software bugs can be handled with the ease of a few keystrokes.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6c09dee449de83cf3140b54fca95854861003389.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191502Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0deb0f4452e89fd0071425739c3c93a79e816fcb837e438c106c0b46c115f7db",
+    "social_links": [
+        "https://www.linkedin.com/company/leapinglabs",
+        "https://twitter.com/leapinglabs",
+        "https://github.com/leapingio"
+    ],
+    "logo_path": "data/logos\\Leaping_logo.png"
+}

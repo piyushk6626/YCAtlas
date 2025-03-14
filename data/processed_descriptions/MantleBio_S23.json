@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/mantlebio",
+    "name": "MantleBio",
+    "headline": "Transform scientific data into discoveries",
+    "batch": "S23",
+    "description": "Mantle brings modern data engineering to the lab to help scientists turn insights into world-changing breakthroughs.",
+    "activity_status": "Active",
+    "website": "https://www.mantlebio.com",
+    "founded_date": 2023.0,
+    "team_size": 7.0,
+    "location": null,
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:biotech; industry:data-science",
+    "founders": [
+        {
+            "name": "Emily Damato, Founder",
+            "description": "CEO and Co-Founder of MantleBio, modern data engineering for biotech. Previously developed software at GRAIL, Arsenal Bio, and The Broad Institute. MIT Computer Science and Biology. 10+ years at the intersection of computer science and life science.",
+            "linkedin": "https://linkedin.com/in/emily-damato-36932523"
+        },
+        {
+            "name": "Madeline Schade, Founder",
+            "description": "CTO and Co-Founder of MantleBio. Previously worked as a software engineer at Google, Arsenal Bio and GRAIL.",
+            "linkedin": "https://linkedin.com/in/madeline-schade"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Overview of MantleBio**\n\n**1. Company Profile:**\n   - **Name:** MantleBio\n   - **Founded:** 2023\n   - **Employees:** 7\n   - **Location:** Not specified\n   - **Y Combinator Batch:** S23\n   - **Website:** [mantlebio.com](https://www.mantlebio.com)\n\n**2. Mission Statement:**\n   - The mission of MantleBio is to transform scientific data into discoveries. They aim to elevate the capabilities of scientists by integrating modern data engineering into their workflow.\n\n**3. Background:**\n   - Mantle initially began with a vision to modernize data engineering in laboratories, enabling researchers to extract insights that lead to impactful scientific breakthroughs.\n\n**4. Offerings:**\n   - MantleBio provides a suite of solutions for data organization, analysis, and collaboration tailored for the biotech and data science sectors. Their platform allows scientists to transition from informal data exploration to polished, reusable analyses, all hosted in the cloud without the need for complex setups.\n\n**5. Core Features:**\n   - **Workflow Automation:** Ready-to-run workflows that facilitate quick research initiation.\n   - **Collaborative Notebooks:** Mantle integrates features of electronic lab notebooks with Jupyter Notebooks, enhancing the ability to share and reproduce experiments.\n   - **Database Integration:** The Mantle Database allows for seamless organization and accessibility of data and metadata, ensuring that insights are easily retrievable.\n   - **Powerful Pipelines:** No-code data analysis pipelines that are designed to scale from small to large datasets.\n\n**6. Team:**\n   - The company leverages expertise from diverse sectors, including biotech and big tech, which strengthens their data capabilities.\n\n**7. Tagging:**\n   - Categories associated with MantleBio include: SaaS, Biotech, and Data Science.\n\n**8. User Engagement:**\n   - MantleBio promotes an interactive community through free workshops and educational resources to familiarize users with their tools and improve their skills in data science and coding in a collaborative atmosphere.\n\n**9. Value Proposition:**\n   - MantleBio positions itself as a critical partner in accelerating scientific discoveries, emphasizing the importance of data connectivity and computational productivity in advancing both patient outcomes and environmental challenges.\n\nIn summary, MantleBio is setting itself up to be an essential tool in the modern scientist's toolbox, effectively bridging the gap between raw scientific data and meaningful insights that lead to discoveries. If you're looking for a platform to streamline your biological data handling and analysis, it's worth exploring what they offer.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e0e2d1c1db294563454f8ca52c66e5368035bbfb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191522Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4996167c7c251310c21dfe576a460f5aa20e2c60d4cc275d568256ee49316392",
+    "social_links": [
+        "https://www.linkedin.com/company/mantlebio/",
+        "https://twitter.com/mantlebio"
+    ],
+    "logo_path": "data/logos\\MantleBio_logo.png"
+}

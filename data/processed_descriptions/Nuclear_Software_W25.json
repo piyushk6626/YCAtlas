@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/nuclear-software",
+    "Name": "Nuclear Software",
+    "Headline": "GitLab for Hard Tech.",
+    "Batch": "W25",
+    "Description": "Nuclear Software is the first continuous integration platform built for engineering simulations, designed for complex industries like nuclear, aerospace, automotive, and advanced manufacturing. It connects CAD models directly to simulation tools\u2014neutronics, CFD, structural analysis, thermal simulations, and more\u2014without manual data preparation. By automating geometry conversions and meshing, Nuclear Software eliminates bottlenecks and streamlines workflows, allowing engineers to focus on building better products.\r\n\nEvery design change automatically triggers simulations through a unified pipeline, ensuring real-time validation, version control, and traceability. Teams can customize workflows for individual components or run full system simulations, all within the same platform. Nuclear Software securely stores both designs and simulation results in a centralized repository, maintaining a complete version history linked to each design change. This single source of truth makes it easy to track progress, troubleshoot issues, and maintain accountability, reducing the risk of costly mistakes.\r\n\nNuclear Software\u2019s robust access control system protects proprietary and regulated simulation codes, ensuring compliance and data security. By automating simulation workflows and connecting design iterations to real-time validation, Nuclear Software accelerates development cycles and empowers engineers to innovate faster and with greater precision.",
+    "Activity_Status": "Active",
+    "Website": "https://www.nuclearsoftware.com",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "https://www.linkedin.com/company/nuclear-software",
+    "Company_Twitter": "",
+    "Tags": "industry:climate; industry:energy; industry:aerospace; industry:industrial; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/nuclear-software",
+        "https://x.com/nukesoftware"
+    ],
+    "logo_path": "data\\logos\\Nuclear_Software.png",
+    "Active_Founders": [
+        {
+            "Name": "Emanuel Gordis, Founder",
+            "Description": "Co-Founder of Nuclear Software. NRC-licensed RO, published quantum physics with Princeton and astrophysics with LLNL. Cornell Alum.",
+            "LinkedIn": "https://www.linkedin.com/in/emanuelgordis/"
+        },
+        {
+            "Name": "Javi Vega, Founder",
+            "Description": "Cofounder at Nuclear Software, gov/info sci (magna cum laude) at Cornell, ML-assist at Google",
+            "LinkedIn": "https://www.linkedin.com/in/javier-vega-28606720"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Nuclear Software: Simplifying Engineering Simulations**\n\nFounded in 2024 and part of Y Combinator's W25 batch, Nuclear Software is all about changing the way engineering simulations are done, especially in complex sectors like nuclear, aerospace, automotive, and advanced manufacturing. Imagine if GitLab met hard tech\u2014that\u2019s their mission encapsulated in a single phrase: \"GitLab for Hard Tech.\"\n\nAt its core, Nuclear Software introduces the first continuous integration platform tailored for engineering simulations. This isn\u2019t just another tool; it\u2019s designed to seamlessly connect CAD models with a variety of simulation tools\u2014like neutronics, CFD (Computational Fluid Dynamics), structural analysis, and thermal simulations. Think of it as connecting the dots without having to draw the whole picture first; it automates geometry conversions and meshing, making the whole process smoother and faster. Engineers can now redirect their focus from tedious data prep to actual product innovation.\n\nEvery time there\u2019s a design change, their unified pipeline kicks in, automatically triggering required simulations. This ensures that simulations are always up-to-date, aiding in real-time validation, version control, and keeping track of everything\u2014that's accountability taken to the next level. Teams enjoy the flexibility to customize their workflows for specific components or execute complete system simulations without breaking a sweat.\n\nOne of their standout features is the secure, centralized repository for designs and simulation results. This not only keeps everything organized but also maintains a comprehensive version history linked to each design change, enhancing the entire development lifecycle's transparency. With a robust access control system in place, proprietary and regulated simulation codes remain safe, ensuring necessary compliance and data security.\n\nOperating out of San Francisco with a lean team of two employees, Nuclear Software is managed under the guidance of their Group Partner, Harj Taggar. Their approach accelerates development cycles and empowers engineers to innovate with speed and precision\u2014a combination that\u2019s invaluable in today's fast-paced tech landscape.\n\nIf you\u2019re interested in understanding how engineering simulations can be transformed for the better, check out their website: [Nuclear Software](https://www.nuclearsoftware.com)."
+}

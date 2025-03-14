@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/heroic-labs",
+    "name": "Heroic Labs",
+    "headline": "Social Infrastructure for Games; Makers of Nakama game server, Satori\u00e2\u0080\u00a6",
+    "batch": "S15",
+    "description": "At Heroic Labs, we proudly present our comprehensive suite of products, meticulously designed to address the multifaceted demands of the contemporary gaming industry. Our cornerstone offerings\u00e2\u0080\u0094Nakama, Hiro, Satori, and Heroic Cloud\u00e2\u0080\u0094comprise the Heroic Game Stack, an integrated platform delivering unparalleled performance and flexibility.\r\n\nHeroic Labs is a company by a team of engineers with backgrounds in distributed databases, big data analytics and high-volume mobile application APIs, and game development. We want to make it effortless for any game studio to build beautiful social and multiplayer games which work at massive scale.",
+    "activity_status": "Active",
+    "website": "http://heroiclabs.com",
+    "founded_date": 2014.0,
+    "team_size": 21.0,
+    "location": "London, United Kingdom",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:cloud-gaming; industry:developer-tools; industry:gaming",
+    "founders": [
+        {
+            "name": "Mo Firouz, Founder/COO",
+            "description": "Colourblind. Founder. YC S15. Photographer.",
+            "linkedin": "http://uk.linkedin.com/in/mofirouz"
+        },
+        {
+            "name": "Andrei Mihu, Founder/CTO",
+            "description": "Founder of @heroiclabs. Scalable systems, high availability design, high-performance data processing and interoperability.",
+            "linkedin": "http://uk.linkedin.com/in/andreimihu"
+        },
+        {
+            "name": "Chris Molozian, Founder/CEO",
+            "description": "Founder of @heroiclabs. A software engineer and tinkerer on distributed systems.",
+            "linkedin": "https://uk.linkedin.com/in/chrismolozian"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Heroic Labs Overview**\n\nFounded in 2014 and part of Y Combinator's Batch S15, Heroic Labs is a London-based company transforming the gaming landscape with what they call \"social infrastructure for games.\" At the heart of their operations is the Heroic Game Stack, an integrated suite of products designed to tackle the complex requirements of modern game development. Their key offerings include:\n\n- **Nakama**: An open-source game server ideal for building social and multiplayer games.\n- **Hiro**: A toolkit for rapidly developing standardized meta-game features.\n- **Satori**: A platform focused on live operations, analytics, and audience engagement.\n- **Heroic Cloud**: A managed or private cloud service tailored for scaling their game stack effectively.\n\nHeroic Labs aims to empower game studios, regardless of size, to create visually stunning and seamless social gaming experiences. The team comprises 21 dedicated engineers with expertise in distributed databases, big data analytics, mobile application APIs, and game development. Their mission is to make multiplayer gaming as light as a feather and as engaging as a blockbuster hit.\n\n**Current Activities & Community Engagement**\n\nHeroic Labs is actively participating in the gaming community by hosting events like the GDC Executive Brunch. They're also well-connected on platforms like GitHub and Twitter, encouraging community engagement through forums and case studies that showcase their technology's impact on the industry.\n\n**Notable Achievements**\n\nThe company prides itself on impressive metrics:\n- Over 800,000 developers leveraging their technology.\n- More than $2 billion in annual revenue attributed to their solutions.\n- More than 8 million SDK downloads, showcasing widespread adoption.\n\nTheir technologies are trusted by major gaming companies including Electronic Arts, Zynga, and Unity Technologies, emphasizing their reputation in the market.\n\n**Final Thoughts**\n\nHeroic Labs embodies a forward-thinking approach, emphasizing flexibility, performance, and community support in game development. If you\u2019re a game studio looking to elevate your multiplayer offerings and operational efficiency, Heroic Labs is worth your time. Visit [Heroic Labs](http://heroiclabs.com) to explore how they can help your games soar.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d6e9e0a717bf6bf58c416725381b4a8f07a834d1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191417Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5995a5ffaff577f5d508c4deec3745ec0525d68ff54853e3f2f653114b2c2ff1",
+    "social_links": [
+        "https://linkedin.com/company/heroic-labs",
+        "https://twitter.com/heroicdev",
+        "https://www.crunchbase.com/organization/heroic-labs",
+        "https://github.com/heroiclabs"
+    ],
+    "logo_path": "data/logos\\Heroic_Labs_logo.png"
+}

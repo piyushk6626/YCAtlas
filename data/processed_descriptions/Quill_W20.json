@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/quill",
+    "name": "Quill",
+    "headline": "Fullstack API and management platform for dashboards and reporting",
+    "batch": "W20",
+    "description": "React Library, API, and Management Toolkit, purpose built for customer-facing dashboards.",
+    "activity_status": "Active",
+    "website": "https://quill.co",
+    "founded_date": 2022.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:analytics; industry:api; industry:data-visualization; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Shawn Magee, Founder",
+            "description": "Co-founder at Quill",
+            "linkedin": "http://www.linkedin.com/in/shawnmagee"
+        },
+        {
+            "name": "Rishi Raman, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/rishiramanbd/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Quill: Your Go-To Solution for Dashboards and Reporting**\n\nFounded in 2022 and based in San Francisco, Quill is a fresh player in the SaaS world, emerging from the Y Combinator Batch W20. With a core team of five, the startup is laser-focused on delivering a full-stack API and management platform designed for dashboards and reporting. This is not just another tool; it\u2019s built specifically for customer-facing applications which means it\u2019s doing something pretty niche.\n\nInitially launched as a React Library, Quill has evolved into an API and Management Toolkit that offers businesses a simple way to present data. Their platform is labeled with tags like *saas*, *analytics*, and *data-visualization*, signaling serious intent to enhance how companies visualize and interact with their data.\n\n### What Does Quill Offer?\n\nQuill's mission is clear: empower businesses to streamline their reporting and dashboard needs without compromising on customization or security. Here\u2019s how they do it:\n\n1. **Rapid Integration**: You can easily connect your database or create an endpoint with the CloudQuill SDK. They support popular database systems like Postgres, Snowflake, Redshift, and BigQuery.\n\n2. **Customization and Control**: Build dashboards directly inside your app using your own UI components. Quill allows businesses to maintain their existing design themes while offering robust reporting capabilities.\n\n3. **User-Focused Design**: Their tools are built for the end-users. With the ability to push updates without involving engineers, Quill reduces friction in the reporting workflow\u2014a significant time-saver for development teams.\n\n4. **Data Security**: All sensitive information stays within your own cloud environment. With Quill, companies can trust that their data is secure while still taking advantage of powerful analytics tools.\n\n### Performance Metrics\nIn less than a year, Quill has already showcased impressive usage stats, with over **56,456 transactions** in just the last 90 days, translating to about **$123,456 in revenue**. It\u2019s a promising indication of their rapid adoption in the market.\n\n### Where to Find Them\nIf you\u2019re interested in seeing what Quill can do for your business, you can check out their [website](https://quill.co), explore their [documentation](https://quill.co/<https:/docs.quillsql.com>), or even [book a demo](https://quill.co/<https:/cal.com/quillsql/30min>) to get a firsthand experience of the platform.\n\nIn essence, Quill is carving out a niche in the SaaS and analytics space by making it easier for companies to harness the power of their data without the typical headaches associated with reporting tools. If you're building a product that needs flexible, powerful reporting capabilities, Quill could be the solution you've been looking for.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0dff568b98af7e4ed4f1d45e8d2a7acfe95df229.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191702Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3423b961656a8886ff7426a145acbd06b3f9a750df39e1e50ac256eab9a11a4a",
+    "social_links": [],
+    "logo_path": "data/logos\\Quill_logo.png"
+}

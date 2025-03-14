@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/ryvn",
+    "name": "Ryvn",
+    "headline": "Deploy, update, and monitor applications in customer clouds / on-prem",
+    "batch": "F24",
+    "description": "Ryvn manages the infrastructure for your applications in your cloud or your customer's cloud. We handle deploying and rolling out updates, provide aggregated logging and monitoring, and offer one-click rollbacks. Expand into regulated industries, accelerate time-to-PoCs, and boost revenue by offering on-prem/self-hosted without the added complexity.\r\n\nBuild once, deploy anywhere.",
+    "activity_status": "Active",
+    "website": "https://ryvn.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:saas; industry:devops; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Albert Lam, Founder/CEO",
+            "description": "CEO at Ryvn, making on-prem deployment, monitoring, and management simple. Previously led Palantir's wildfire prevention and disaster response products that helped to reduce YoY wildfire damage by 99% in Northern CA.",
+            "linkedin": "https://linkedin.com/in/simplyalam"
+        },
+        {
+            "name": "Shardool Patel, Founder/CTO",
+            "description": "Building deployment infrastructure to help companies deploy to multi-cloud. Previously led an engineering team at Palantir and helped scale the internal deployment platform to a $20M ARR product.",
+            "linkedin": "https://www.linkedin.com/in/sp97/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Meet Ryvn: Your Cloud Deployment Solution\n\n**Overview**  \nRyvn is a fresh startup founded in 2024, born out of the Y Combinator Batch F24 and based in the heart of San Francisco. With a compact team of just two, Ryvn focuses on simplifying the deployment, monitoring, and updating of applications across various cloud environments, whether it's customer clouds or on-premises. Their motto? \"Build once, deploy anywhere.\"\n\n**Mission**  \nRyvn\u2019s mission is clear: they aim to empower businesses to deploy, update, and monitor their applications seamlessly within their production landscapes. They strive to break into regulated markets, speed up the path to Proofs of Concept (PoCs), and ultimately enhance revenue potential.\n\n**Key Features**  \n1. **Cross-Cloud Compatibility**: With Ryvn, you can deploy on popular platforms like AWS, Google Cloud Platform (GCP), and Azure\u2014wherever your customers are.\n2. **Real-Time Monitoring**: Get notified and manage on-prem deployments from a unified interface, tackling issues before they reach your users.\n3. **One-Click Rollbacks**: Simplify the management of updates with hassle-free rollbacks, ensuring a smooth user experience.\n4. **Enterprise-Grade Infrastructure**: Ryvn offers robust solutions, allowing enterprises to operate with higher margins and minimized compliance risks.\n5. **Integration with Major Tools**: Supports integration with infrastructure as code tools like Terraform, Pulumi, and OpenTofu, making it easy to provision and manage your infrastructure.\n\n**Benefits**  \n- **Faster Time to Market**: Launch your services without sweating the operational details.\n- **Cost-effective Solutions**: Enterprises are ready to pay 3-10x more for \u201cBring Your Own Cloud\u201d contracts\u2014there's room for better pricing strategies.\n- **Control Over Data**: Maintain ownership of your infrastructure, data, and code; with no vendor lock-in, you call the shots.\n- **Security and Privacy**: Reduces compliance risk by keeping sensitive data in rightfully controlled environments.\n\n**Support**  \nRyvn offers a supportive framework tailored for teams, with email support for Pro customers and 24/7 dedicated support for enterprises, including a private Slack channel.\n\n**Join the Movement**  \nIf you're looking to revolutionize how you manage your cloud deployments and gain an edge in the competitive landscape, Ryvn is worth exploring. They enable you to concentrate on product innovation while they take care of infrastructure chaos.\n\nFor further details, pricing plans, or to book a demo, visit [Ryvn.ai](https://ryvn.ai).\n\n---\n\nThis summary gives you a glimpse of what Ryvn is about and how it can help your business thrive in the cloud landscape. Whether you\u2019re a startup or an established enterprise, Ryvn aims to alleviate the burdens of cloud management so you can focus on what you do best.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/80395321123889155462eda8e45af48b5795c898.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191906Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=005c53120bc9076f213f1cf78e3a511154d0932aeb23be6ece64a095dd9c865a",
+    "social_links": [
+        "https://www.linkedin.com/company/ryvn/",
+        "https://x.com/ryvnai"
+    ],
+    "logo_path": "data/logos\\Ryvn_logo.png"
+}

@@ -1,0 +1,35 @@
+{
+    "links": "https://www.ycombinator.com/companies/deepgram",
+    "name": "Deepgram",
+    "headline": "Building foundational AI for speech transcription and understanding.",
+    "batch": "W16",
+    "description": "Deepgram is a foundational AI company on a mission to understand human language. We give any developer access to the most advanced speech AI transcription and understanding with just an API call.\r\n\nOur models deliver the fastest, most accurate transcription alongside contextual features like summarization, sentiment analysis, and topic detection. Beyond that, developers can:\r\n\ud83d\udd0a Process live-streaming or pre-recorded audio\r\n\ud83c\udf0e Transcribe in dozens of languages\r\n\u2699\ufe0f Train custom models for unique use cases\r\n\ud83d\udd11 Access deep NLU with a unified API\r\n\ud83d\udcbb Build in any programming language with our SDKs\r\n\u2705 Deploy on-prem or on DG\u2019s managed cloud\r\n\ud83d\udcc8 Get scalable GPU infra for training and inference\r\n\nDeepgram is a proud NVIDIA partner and Y Combinator company, and we recently completed a $72M Series B to define the future of AI Speech Understanding, making us the most-funded speech AI company at its stage.",
+    "activity_status": "Active",
+    "website": "https://www.deepgram.com",
+    "founded_date": 2015.0,
+    "team_size": 115.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-enhanced-learning; industry:artificial-intelligence; industry:api; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Scott Stephenson, Founder/CEO",
+            "description": "Technical CEO, DL person, particle physicist.",
+            "linkedin": "https://www.linkedin.com/profile/view?id=AAMAABp1p9YBj-vzJ-6PnwBthOxU-SSancWwG5w"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Deepgram**\n\n**Mission:** Deepgram aims to build foundational AI for speech transcription and understanding, democratizing access to advanced speech technology for developers worldwide.\n\n**Background:** Founded in 2015 as part of Y Combinator\u2019s Batch W16, Deepgram has rapidly grown to become a leader in the AI-driven speech processing space. Headquartered in San Francisco, the company employs a team of about 115 talented individuals and has secured a notable position in the industry, as evidenced by its recent $72 million Series B funding round.\n\n**What They Offer:**\nDeepgram's platform provides an array of powerful tools and APIs that developers can tap into with just a simple API call. Key features include:\n\n- **Speech-to-Text API:** Exceptional transcription speed and accuracy, allowing for real-time and pre-recorded audio processing.\n- **Text-to-Speech API:** Natural-sounding voices that enhance user interaction.\n- **Voice Agent API:** Facilitates real-time communication between users and AI agents, perfect for customer service automation.\n- **Audio Intelligence API:** Offers capabilities like summarization, sentiment analysis, and topic detection, enriching the way audio data is utilized.\n\n**Technical Highlights:**\n- Supports live-streaming and transcribed audio in multiple languages.\n- Custom model training for unique use cases, enabling tailored solutions.\n- Unified API for deep Natural Language Understanding (NLU).\n- Accessibility across various programming languages through SDKs.\n\n**Scalability:** Deepgram provides scalable GPU infrastructure for training and inference, making it ideal for businesses of all sizes, from startups to enterprises. The company prides itself on being cost-effective\u2014often described as 3-5 times cheaper than its competitors\u2014while delivering superior accuracy and speed, reportedly up to 40 times faster for tasks like transcription.\n\n**Reputation and Partnerships:** Trust and reliability are underscored by partnerships with industry heavyweights, including NVIDIA. Their technology is used by major organizations such as NASA, Twilio, and Citi.\n\n**Community Engagement:** With over 200,000 developers utilizing its platform, Deepgram has built a vibrant community. They offer resources like documentation, tutorials, and an API playground for hands-on experimentation.\n\n**Conclusion:** Deepgram stands out not just as a speech AI company, but as a visionary player in the future of language processing. With a focus on accuracy, scalability, and developer accessibility, they are well-positioned to define the next generation of AI speech technology. Whether you\u2019re looking to enhance customer service solutions, automate transcription, or innovate in the AI space, Deepgram provides the tools and support to make it happen. \n\nFor more information, check out their [website](https://www.deepgram.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2478412f5bb5dd9361e2396ad62e50ef32ae2de7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191115Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=94bfe94c836877cd4cc89b7bca2d3c66d2a4f5ed51cd9ca8da53fa186a870402",
+    "social_links": [
+        "https://www.linkedin.com/company/deepgram",
+        "https://www.twitter.com/DeepgramAI",
+        "https://www.facebook.com/deepgram",
+        "https://www.crunchbase.com/organization/deepgram",
+        "https://github.com/deepgram"
+    ],
+    "logo_path": "data/logos\\Deepgram_logo.png"
+}

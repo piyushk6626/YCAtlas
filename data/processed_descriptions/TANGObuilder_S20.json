@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/tangobuilder",
+    "name": "TANGObuilder",
+    "headline": "TANGObuilder automates structural engineers jobs.",
+    "batch": "S20",
+    "description": "Today the building design process is cumbersome and expensive. Architects submit their design to structural engineers for validation. Engineers need to design all structural elements such as walls, columns, and beams to ensure the structure will not collapse and complies with regulations.  The structural engineer needs four to six weeks to generate the initial solution. The engineer will submit his proposal to the architect and then engage in an extensive back and forth discussion until they agree on a satisfying solution. TANGObuilder generates the building structural design in real-time, cutting six weeks of the overall process, and reducing material usage by 30%.",
+    "activity_status": "Active",
+    "website": "https://www.tangobuilder.com",
+    "founded_date": 2019.0,
+    "team_size": 9.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:construction; industry:housing; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Martin Diz, Founder/CEO",
+            "description": "I hold a Ph.D. in Aerospace Engineering from Buffalo University, where I worked on embedded systems for drones and participated in satellite control projects for NASA.\nAs Co-founder & CTO at Bluesmart (YC-15). I grew and led the team of engineers that delivered the first smart luggage.",
+            "linkedin": "https://www.linkedin.com/in/martindiz"
+        },
+        {
+            "name": "Juan Aleman, Founder",
+            "description": "I have over two decades of experience working as a structural engineer. I hold a Ph.D. from the University of Buffalo, where I was a Fulbright Scholar.  I specialize in the seismic analysis and design of a wide range of projects, including hospitals, stadiums, embassies, and houses. \nBefore founding TANGObuilder I worked for six years as a senior consultant for Arup, Los Angeles.   I am currently responsible for writing a new section on modeling masonry structures for the US ASCE 41 Standard.",
+            "linkedin": "https://www.linkedin.com/in/juan-aleman-phd-pe-2624127/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**TANGObuilder**\n\nTANGObuilder is revolutionizing the structural engineering process by automating what has traditionally been a labor-intensive and time-consuming task. Founded in 2019 and hailing from the Y Combinator Batch S20, this San Francisco-based company is determined to streamline building design.\n\nThe problem they\u2019re tackling is straightforward but critical: architects submit complex designs to structural engineers, who must then painstakingly draft the structural elements\u2014walls, beams, columns\u2014to ensure safety and compliance with regulations. This back-and-forth usually takes about 4 to 6 weeks, a significant bottleneck in the design process. TANGObuilder uses innovative technology to generate structural designs in real-time. This not only slashes the initial drafting time but also reduces material usage by 30%\u2014a win-win for efficiency and sustainability.\n\nWith a small but capable team of nine, TANGObuilder is well-positioned to push the boundaries of how buildings are designed and constructed. Their impact on the construction and housing industry stands to be significant, especially as they continue to evolve their offerings.\n\nIf you're interested in seeing how they operate or want to learn more, check out their website at [TANGObuilder](https://www.tangobuilder.com).\n\nOverall, TANGObuilder exemplifies how technology can simplify complex processes, making life easier for engineers and, ultimately, leading to better building practices. Keep an eye on them; they\u2019re just getting started.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2cbd9389ec64e7bdd586994fb6616195ef0898d3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192006Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=39590354767fdcb954aaff78f61deb4d9d67add1cf1a627303fd139d9a48b7ee",
+    "social_links": [
+        "https://www.linkedin.com/company/tangobuilder",
+        "https://twitter.com/tangobuilder",
+        "http://facebook.com/tangobuilder"
+    ],
+    "logo_path": "data/logos\\TANGObuilder_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/evidence",
+    "name": "Evidence",
+    "headline": "Business intelligence as code",
+    "batch": "S21",
+    "description": "Evidence is an open source, code-based alternative to drag-and-drop BI tools. Build polished data products with just SQL and markdown.",
+    "activity_status": "Active",
+    "website": "https://www.evidence.dev",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:analytics; industry:data-engineering; industry:data-visualization",
+    "founders": [
+        {
+            "name": "Adam McAskill, Founder",
+            "description": "Previously led the data science team at one of Canada's leading private equity funds.",
+            "linkedin": "https://www.linkedin.com/in/adam-mcaskill-74515720/"
+        },
+        {
+            "name": "Sean Hughes, Founder",
+            "description": "Previously led the data science team at one of Canada's leading private equity funds.",
+            "linkedin": "https://ca.linkedin.com/in/hughessean"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Evidence**\n\n**Founding and Mission**: Founded in 2021, Evidence emerged as an open-source, code-based alternative to traditional drag-and-drop business intelligence (BI) tools. The company\u2019s mission is clear: to redefine business intelligence through a coding-centric approach, empowering users to build polished data products effortlessly using just SQL and Markdown. They aim to bring the ease of code to data analytics.\n\n**Location and Team**: Based in Toronto, Canada, Evidence operates with a lean team of six dedicated employees. This tight-knit group is innovating within the realm of data visualization and analytics. Evidence is also part of Y Combinator's Summer 2021 batch, which speaks to the startup's potential and innovative approach.\n\n**Product and Features**: Evidence positions itself as a lightweight framework that shortens the development cycle for data applications, making it simple and efficient to create data-driven products. The platform is highly accessible\u2014open source and free to begin with\u2014streamlining user experiences with features like:\n- Instant page loads and a code-driven workflow that uses simple syntax combining SQL and Markdown.\n- Robust performance that pre-builds all queries and pages to minimize wait times\u2014a common pain point in traditional BI tools.\n- Dynamic page generation and responsive user interface components that enhance interactivity.\n\n**Use Cases and Customers**: Evidence is trusted by industry leaders like Apple, BMW, and Flexport, among others. Users have praised its impact on team culture and reporting efficiency, citing its capacity to reshape how metrics are presented in organizations. The platform is designed to cater to various industries, demonstrating versatility and adaptability.\n\n**Community and Future**: As a community-driven platform, Evidence encourages collaboration and support through GitHub and Slack, fostering an environment where users can share experiences and improvements. The company emphasizes a commitment to open-source principles and encourages contributions from developers worldwide.\n\nWith a clear focus on harnessing code for business intelligence, Evidence is transforming how businesses handle data analytics. If you\u2019re tired of outdated, cumbersome BI tools and want to bring your data to life with minimal friction, Evidence might just be the solution you need. \n\nFor more information and to get started, visit [Evidence's website](https://www.evidence.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2631e2c9f283d9a3c8d7d426e7e741f2467251cd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191322Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4a27ae9b0fb9a4421c6713fa7a7e675141b0947e8144b1f1b39dd756889b258e",
+    "social_links": [
+        "https://www.linkedin.com/company/evidence-dev",
+        "https://twitter.com/evidence_dev",
+        "https://www.crunchbase.com/organization/evidence-1cfc",
+        "https://github.com/evidence-dev"
+    ],
+    "logo_path": "data/logos\\Evidence_logo.png"
+}

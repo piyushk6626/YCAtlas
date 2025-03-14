@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/lendflow",
+    "name": "Lendflow",
+    "headline": "Embedded lending infrastructure for software companies",
+    "batch": "W21",
+    "description": "We help companies embed lending services into their software so they can better serve their customers by helping them access capital, increase engagement in their product, improve retention and expand their revenue per user.",
+    "activity_status": "Active",
+    "website": "https://lendflow.com",
+    "founded_date": 2019.0,
+    "team_size": 55.0,
+    "location": "Austin, TX",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:lending; location:austin",
+    "founders": [
+        {
+            "name": "Jon Fry, Founder",
+            "description": "Founded ChannelGrowth in 2014, we specialized in small business customer acquisition for the alternative lending industry. We originated $150+ million over the past 5 years. Launched Quicklinecredit in 2017, which was our own integral micro funding product, where we built software for each stage of the lending process. Launched Lendflow in 2019.",
+            "linkedin": "https://www.linkedin.com/in/jonfrysales/"
+        },
+        {
+            "name": "Matthew Watts, Founder",
+            "description": "Matthew is co-founder of Lendflow and plays a leading role in driving key strategic initiatives and innovation across all engineering teams and the core business. Prior to joining Lendflow, Matthew oversaw teams at SpendHQ and directly leverages this expertise at Lendflow. In his free time he works as a volunteer for the National Park Service.",
+            "linkedin": "https://www.linkedin.com/in/thewatts/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Lendflow is an Austin-based fintech company that specializes in providing embedded lending infrastructure tailored for software companies. Founded in 2019 and part of Y Combinator's W21 batch, Lendflow aims to empower businesses by embedding lending services directly into their software solutions. This enables companies to enhance customer engagement, increase retention rates, and ultimately expand their revenue streams by making capital more accessible to users.\n\nWith a team of about 55 employees, Lendflow is led by Dalton Caldwell as a Group Partner, positioning them as a significant player in the lending space. Their offerings include a **Credit Decisioning Engine**, an **Embedded Credit Operating System**, and a **Lender Marketplace**, which collectively streamline the lending process from application to underwriting.\n\nWhat sets Lendflow apart is their commitment to developer-friendly solutions. They offer an open API, allowing companies to seamlessly integrate lending functionalities into their products with speed and ease. This approach not only increases time to market but ensures that businesses can quickly respond to the evolving needs of their customers.\n\nIn their relatively short history, Lendflow has proven to be a valuable partner for various fintechs and SaaS companies looking to diversify their offerings and drive customer growth. Their mission to simplify the lending landscape helps small to medium-sized businesses access the financial tools they need to thrive within the platforms they already use.\n\nFor anyone interested in deeper integration of credit solutions within their software, Lendflow stands ready as a robust ally. You can explore more about them on their website: [Lendflow](https://lendflow.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4afc1e3afe7f40b23e07d629cf1b227cd0845906.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191504Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=16d12ee3da16f50222232e09c377c3938da8d2a4c48bb040c4d26cd15019b264",
+    "social_links": [
+        "https://www.linkedin.com/company/lendflow/",
+        "https://twitter.com/lendflowio?lang=en",
+        "https://www.crunchbase.com/organization/lendflow"
+    ],
+    "logo_path": "data/logos\\Lendflow_logo.png"
+}

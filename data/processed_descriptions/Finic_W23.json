@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/finic",
+    "name": "Finic",
+    "headline": "Automate fraud investigations with AI",
+    "batch": "W23",
+    "description": "Finic helps fintechs automate fraud and dispute investigations with AI agents that automatically follows SOPs and writes comprehensive case notes.\r\n\nWith Finic, fintechs can:\r\n- 10x fraud ops capacity without increasing headcount\r\n- Train agents on new fraud typologies and instantly scale to thousands per day\r\n- Reduce time-to-resolution from hours to under 5 minutes",
+    "activity_status": "Active",
+    "website": "https://www.finic.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:compliance; industry:automation; industry:fraud-detection; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jason Fan, Founder",
+            "description": "Ex security & product @ Robinhood. University of Toronto Computer Science.",
+            "linkedin": "https://ca.linkedin.com/in/jason-fan-b59767104"
+        },
+        {
+            "name": "Ayan Bandyopadhyay, Founder",
+            "description": "Founder @ Finic (YC W23). Caltech class of 2020, former software engineer at Robinhood.",
+            "linkedin": "https://www.linkedin.com/in/ayan-bandyopadhyay-9a45b1103/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Finic: Automating Fraud Investigations with AI**\n\nFounded in 2024 and hailing from San Francisco, Finic is on a mission to reshape how fintech companies handle fraud and dispute investigations. With a lean team of just two employees, they've already made their mark as part of Y Combinator's Batch W23. The brainchild of innovators who previously developed Robinhood's fraud platform, Finic leverages artificial intelligence to bring efficiency to an otherwise labor-intensive process.\n\n### The Problem with Fraud Investigations\nFraud operations typically involve high manual input, long resolution times, and an ever-growing list of new fraud typologies. Finic identified these pain points and stepped in to offer a smarter solution. \n\n### What Does Finic Offer?\nWith their AI-driven platform, Finic enables fintechs to:\n- **10x Fraud Operations Capacity**: Scale operations dramatically without needing to add more staff.\n- **Rapid Agent Training**: Train AI agents to recognize and respond to new fraud patterns instantaneously, allowing scalability to thousands of investigations every day.\n- **Speedy Resolutions**: Cut down resolution times from hours to less than 5 minutes, enhancing customer experience and reducing operational costs.\n\n### Key Features\n- **Efficiency**: Finic's automation eliminates tedious tasks like data entry and report writing, reducing average handle time by as much as 80%.\n- **Accuracy**: With the ability to run A/B tests and generate insightful reports, businesses can track and demonstrate improved metrics over time.\n- **Consistency**: The AI strictly adheres to standard operating procedures (SOPs), ensuring 100% compliance without the usual training overhead.\n\n### Join the Movement\nIf you're involved in fintech and looking to modernize your fraud operations, Finic simplifies the process. Embrace a solution that not only saves time but also boosts accuracy and reliability in your fraud investigations. \n\nFor more information or to see Finic in action, check out their website at [Finic.ai](https://www.finic.ai) or book a demo today!\n\n### Tagline\nA strategic leap into AI automation for financial services\u2014automate your workflows now, no engineers required.\n\nIn summary, Finic is an exciting player poised to redefine fraud management in the fintech space, bringing efficiency and precision through advanced AI automation.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bd201ffd419b42eb249fd5dce87808b717d647bf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191334Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e10a009bfd443db4539f3459bd9ad4a7a88a0ce3eea7a6953f80143251080f47",
+    "social_links": [
+        "https://www.linkedin.com/company/finic-ai/"
+    ],
+    "logo_path": "data/logos\\Finic_logo.png"
+}

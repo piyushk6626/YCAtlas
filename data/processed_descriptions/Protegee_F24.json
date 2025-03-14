@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/protegee",
+    "name": "Protegee",
+    "headline": "Payments API for AI Agents",
+    "batch": "F24",
+    "description": "We\u2019re excited to launch our first product that allows your AI voice agents to accept payments easily and securely over the phone. We manage compliance, security, and fraud, letting you focus on creating great experiences.  \r\n\nWe are setting the stage for the agentic economy, starting with voice payments. Web and agent-to-agent transactions coming soon.",
+    "activity_status": "Active",
+    "website": "http://protegee.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:fintech; industry:payments; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kirthi Banothu, Founder",
+            "description": "Got into building things back in 2006 with a website for Dragon Ball Z content. Ex-HFT (Optiver + DRW), built low-latency trading systems a few too many times - developed strategies for futures, cryptos, equities, and options. Had a stint in self-driving leading the onboard sensor and ml libraries team at Argo AI. Skipped half as many grades as my cofounder.",
+            "linkedin": "https://linkedin.com/in/kirthibanothu"
+        },
+        {
+            "name": "Xiaoyu Li, Founder",
+            "description": "Enabling AI agents to make + accept payments safely. \n\nEx-quant trader at Optiver specializing in index + equity options market-making. Started and grew a medium-frequency algorithmic trading team. Yale Medical School dropout. Skipped twice as my grades as my cofounder.",
+            "linkedin": "https://linkedin.com/in/xiaoyuli240"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Protegee**\n\nFounded in 2024 and part of Y Combinator's Batch F24, Protegee is a San Francisco-based startup working at the intersection of artificial intelligence and fintech. With a lean team of just two employees, they are focused on revolutionizing payment processing for AI voice agents. Their mission? To enable these agents to handle payments seamlessly and securely over the phone, creating a new revenue stream for businesses in various sectors.\n\nProtegee\u2019s first product is a Payments API that simplifies the payment process for AI voice agents. Thanks to this API, conversations can transform into transactions with just one call\u2014giving organizations the ability to monetize interactions without overwhelming human agents. They take care of compliance and security, which means you can concentrate on the user experience. Think of them as the backbone of the agentic economy, starting with voice payments, and soon expanding into web and agent-to-agent transactions.\n\nThe platform boasts several key features:\n- **Easy Integration:** A seamless setup with existing AI voice platforms like Twilio, Retell, and VAPI.\n- **Security Compliance:** Protegee is fully PCI DSS compliant, ensuring top-level security for all payment data.\n- **AI-First Design:** Entirely built for AI, their technology allows voice agents to operate efficiently while handling payments.\n- **Flexible Payment Support:** Compatibility with multiple payment processors ensures that businesses can choose the solution that fits them best.\n\nProtegee is already collaborating with a variety of sectors\u2014from healthcare and call centers to hospitality and non-profits\u2014helping them leverage AI to reduce costs and improve payment efficiency. Their platform aims to turn every customer interaction into a potential revenue-generating event.\n\nFor business owners who want to ensure they aren\u2019t leaving money on the table, Protegee provides the tools to transform AI voice agents into effective revenue centers. They invite interested parties to schedule a demo and experience the ease of integrating their payment solutions.\n\nYou can find out more about Protegee on their website: [http://protegee.ai](http://protegee.ai).\n\nIn summary, if you\u2019re in the business of leveraging AI for customer interactions, Protegee stands out as a promising partner to help you unlock the full potential of your voice agents while enhancing revenue capabilities.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/689cfc0aa5c3bb28d8367c1384bc853276abdcfe.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191656Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7f915d660fad88af947e5b9bd0d64c1529ce67680dad9a859560cf4a8665f007",
+    "social_links": [
+        "https://www.linkedin.com/company/protegee-ai/about/",
+        "https://x.com/protegeeai"
+    ],
+    "logo_path": "data/logos\\Protegee_logo.png"
+}

@@ -1,0 +1,40 @@
+{
+    "Links": "https://www.ycombinator.com/companies/sophris",
+    "Name": "Sophris",
+    "Headline": "AI Engineer that Validates Circuit Board Schematics",
+    "Batch": "W25",
+    "Description": "Sophris is your AI \u201cengineer\u201d for circuit board schematics, checking for errors\u2014pin mismatches, connectivity gaps, or voltage conflicts\u2014long before they derail your design. By flagging potential issues early, you can fix them ahead of production and avoid the frustrating re-spins that drive up costs and delay schedules.\r\n\nWhile traditional EDA tools offer basic ERC and DRC checks\u2014like net connectivity and spacing\u2014they don't dig deeply into component datasheets. Sophris takes it further, analyzing specs and cross-referencing design requirements from multiple sources. As a result, subtle pin misconfigurations, voltage mismatches, and datasheet-specific quirks that typical rule checks might miss are brought to light.\r\n\nBy identifying design flaws during the schematic phase, Sophris helps you iterate confidently and deliver more reliable products. Faster turnarounds, fewer production surprises, and a smoother path from concept to manufacturing. With Sophris, design more confidently and ship more reliably.",
+    "Activity_Status": "Active",
+    "Website": "https://sophris.ai/",
+    "Founded_Date": "2024",
+    "Team_Size": "3",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/brad-flora",
+    "Group_Partner": "Brad Flora",
+    "Company_Linkedin": "https://www.linkedin.com/company/sophris/",
+    "Company_Twitter": "",
+    "Tags": "industry:design-tools; industry:electronics; industry:ai; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/sophris/"
+    ],
+    "logo_path": "data\\logos\\Sophris.png",
+    "Active_Founders": [
+        {
+            "Name": "Adarsh Ambati, CEO/Co-Founder",
+            "Description": "Co-Founder/CEO @ Sophris. Building AI tools to simplify electronics design. Former Quant Analyst @ JPM and SWE @ AMD. Ex-Stanford '26, passionate about building solutions for hard tech.",
+            "LinkedIn": "https://www.linkedin.com/in/adarshambati/"
+        },
+        {
+            "Name": "Ansh Gupta, Co-Founder",
+            "Description": "Co-Founder/CTO @ Sophris. Trying to make hardware less hard. Ex-Simulation Engineer @ Zipline & Georgia Tech.",
+            "LinkedIn": "https://www.linkedin.com/in/gupta-ansh"
+        },
+        {
+            "Name": "Aditya Iyengar, Founder",
+            "Description": "Co-founder @ Sophris. Stanford c/o '25. Prev SWE @ Flutterflow (W21), Uber, and NASA.",
+            "LinkedIn": "https://www.linkedin.com/in/aditya-v-iyengar/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Company Overview: Sophris**\n\nFounded in 2024 and situated in the heart of San Francisco, Sophris is a cutting-edge startup supported by Y Combinator\u2019s Batch W25. With a small but dedicated team of three, they\u2019re tackling a big problem in the electronics design sector: circuit board schematics validation.\n\n**Mission**\n\nSophris aims to be the AI engineer that revolutionizes how circuit board schematics are validated. Instead of merely relying on traditional Electronic Design Automation (EDA) tools that perform basic checks like net connectivity, Sophris goes several steps deeper. Their AI not only checks for potential errors such as pin mismatches and voltage conflicts but also crosses reference datasheets to dig out subtle errors that might otherwise go unnoticed.\n\n**Key Features**\n\n1. **Automated Error Detection**: Sophris identifies critical design errors in mere seconds, which helps cut down review times by an impressive 40%. This automation allows engineers to focus more on design creativity rather than lengthy review processes.\n\n2. **Requirement Generation and Validation**: The platform automatically retrieves and extracts essential datasheet information based on part numbers, minimizing re-spins and boosting confidence in the design process.\n\n3. **Centralized Knowledge Base**: By aggregating datasheets and specifications, Sophris creates a unified source of truth for engineering teams. This centralization not only enhances accuracy but also fosters collaboration, eliminating redundant work.\n\n4. **Dynamic Chat Interface**: Sophris includes an interactive chat feature that understands the context of your queries related to schematics and requirements, enabling real-time assistance for debugging and design refinement.\n\n**Why Sophris?**\n\nIn an industry fraught with risks and potential delays, Sophris acts as a safety net by catching design flaws early in the schematic phase. Their AI-driven approach accelerates design cycles, allowing teams to iterate quickly and get their products to market faster and more reliably. Rather than fighting fires down the line, you can design with confidence, ensuring smoother transitions from concept to manufacturing.\n\nUp your design game and eliminate costly errors with Sophris. You can find out more and book a demo at [sophris.ai](https://sophris.ai/)."
+}

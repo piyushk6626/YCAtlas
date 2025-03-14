@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/automorphic",
+    "name": "Automorphic",
+    "headline": "Infuse knowledge into language models with just 10 samples",
+    "batch": "S23",
+    "description": "Automorphic has invented a way to infuse knowledge into LLMs via fine-tuning (surpassing context window limitations), enabling developers to rapidly iterate on and successively improve custom models cheaply and efficiently.",
+    "activity_status": "Active",
+    "website": "https://automorphic.ai/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:deep-learning; industry:developer-tools; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Govind Gnanakumar, Founder",
+            "description": "Often running away from robots (that I created). Building the next generation of artifical narrow intelligence.",
+            "linkedin": "https://linkedin.com/in/govind-gnanakumar"
+        },
+        {
+            "name": "Maaher Gandhi, Founder",
+            "description": "When not working on Automorphic, I'm building AI to beat me at chess",
+            "linkedin": "https://www.linkedin.com/in/maaher-gandhi-31b40928b"
+        },
+        {
+            "name": "Mahesh Natamai, Founder",
+            "description": "Simplifying the LLM tuning, iteration, and deployment lifecycle. Wrangler of A100s.",
+            "linkedin": "https://linkedin.com/in/mahesh-natamai-b17683188"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Automorphic: Redefining Knowledge Injection in Language Models**\n\nFounded in 2023 and hailing from the heart of San Francisco, Automorphic is a cutting-edge AI startup that\u2019s part of the Y Combinator Batch S23. With a nimble team of three, the company's mission is to transform how knowledge is infused into language models, achieving this with an elegant approach that requires just 10 samples. \n\nWhat sets Automorphic apart? They\u2019ve developed a technique that goes beyond the conventional context window limitations of large language models (LLMs). Their flagship product, **Conduit**, allows developers to fine-tune models seamlessly, providing the ability to train specific adapters for different behaviors or knowledge. This not only enhances model capabilities but does so efficiently and cost-effectively.\n\nAutomorphic\u2019s approach to knowledge infusion addresses the inefficiencies of traditional methods, like prompt stuffing\u2014techniques that can only take you so far. Instead, Conduit empowers teams to rapidly iterate on their models with human-in-the-loop feedback, drastically cutting down on the time to deploy improvements. The models learn and adapt over time, continuously enhancing performance based on real user inputs.\n\nMoreover, Conduit offers compatibility with the OpenAI API, allowing users to integrate the technology without having to overhaul their existing setups. For those concerned with data privacy, Automorphic also supports on-premises deployments, ensuring that sensitive information remains secure within clients' private cloud environments.\n\nIn a landscape where the demand for intelligent and adaptable language models is ever-increasing, Automorphic is positioned as a frontrunner\u2014simplifying the way knowledge is integrated into AI and promising to empower developers in creating robust, self-improving models that evolve with their needs.\n\nTo keep up with Automorphic's developments or to join their private beta, check out their website at [automorphic.ai](https://automorphic.ai/) and dive into this exciting new frontier.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/beb61789cd01d27b5131dc8377b811b30892d0ee.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191012Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=001ab9a92d9d9fee463f8c238948f758ea3ba83abbb7219a8d8bc1b5f6a4d8c3",
+    "social_links": [
+        "https://www.linkedin.com/company/automorphic",
+        "https://twitter.com/AutomorphicAI",
+        "https://github.com/automorphic-ai"
+    ],
+    "logo_path": "data/logos\\Automorphic_logo.png"
+}

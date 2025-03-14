@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/laminar",
+    "name": "Laminar",
+    "headline": "Open-source all-in-one platform for engineering AI products",
+    "batch": "S24",
+    "description": "Laminar is an open-source platform which provides observability, text analytics, evals and prompt chain management for AI agent.",
+    "activity_status": "Active",
+    "website": "https://www.lmnr.ai/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Robert Kim, Founder",
+            "description": "Co-founder and CEO @ Laminar (lmnr.ai). Previously, I interned at Palantir where I built semantic search package which now powers many internal AI teams and worked on resource allocation engine at core infrastructure team. I also interned at Bloomberg where I scaled market tick processing pipeline by 10x to 10M ticks/s.",
+            "linkedin": "https://www.linkedin.com/in/skull8888888/"
+        },
+        {
+            "name": "Din Mailibay, Founder",
+            "description": "Co-founder and CTO at Laminar (lmnr.ai). Previously, I have worked at Amazon for 2 years building and scaling critical payments infrastructure. Before that, I've spent a year creating ML infrastructure for a drug discovery biotech startup in Korea.",
+            "linkedin": "https://www.linkedin.com/in/dinmukhamedm"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Laminar**\n\n**Founded:** 2024  \n**Location:** San Francisco  \n**Team Size:** 2 employees  \n**Y Combinator Batch:** S24  \n**Website:** [lmnr.ai](https://www.lmnr.ai)  \n\n**Mission:** Laminar is on a mission to be the open-source, all-in-one platform for engineering AI products, aiming to streamline the development and management of AI systems.\n\n---\n\n**What They Do:**\n\nInitially, Laminar started as a robust platform focused on observability, text analytics, evaluations, and prompt chain management for AI applications. They are carving out a niche in the AI landscape by offering tools that enhance the way teams trace, evaluate, and label AI models, specifically in the realm of large language models (LLMs).\n\n**Key Features:**\n\n- **Tracing:** Laminar allows developers to easily trace their LLM applications, providing clarity on each execution step. With just two lines of code, teams can collect valuable data for evaluations and fine-tuning.\n  \n- **Online Evaluations:** Teams can set up LLM or Python online evaluators to label spans automatically, making it easier to maintain accuracy without heavy reliance on human input.\n  \n- **Dynamic Few-shot Examples:** Users can build datasets from traces, enhancing their prompts by retrieving similar examples to fine-tune their models intelligently.\n  \n- **Serverless LLM Pipelines:** The platform offers a tool for building and iterating on both basic and complex LLM prompts, facilitating rapid prototyping and deployment.\n\n- **Fully Open-source:** Laminar is designed to be fully open-source, allowing easy self-hosting and encouraging community contributions.\n\n---\n\n**Market Positioning:**\n\nLaminar tags itself under categories like AIOps, artificial intelligence, developer tools, SaaS, and B2B, effectively positioning itself as a versatile tool for AI product development. It's already making waves among companies looking for reliable LLM solutions.\n\n**Testimonials:**\n\n- **Tommy He, CTO of Clarum:** \"It's the only reliable and performant LLM monitoring platform I\u2019ve tried.\"\n\n- **Hashim Rehman, CTO of Remo:** \"Laminar's evals help maintain high accuracy while moving fast.\"\n\n- **Michael Ettlinger, CTO of Saturn:** \"Their tracing is genuinely great; so much better than the others I've tried.\"\n\n---\n\n**Why it Matters:**\n\nIn an era where AI is increasingly incorporated into business operations, tools that enhance the development lifecycle are paramount. Laminar stands out by providing an open-source solution that simplifies the complexities of AI engineering, making it accessible for smaller teams and startups while still catering to larger enterprises looking for efficient solutions. Their progress is worth watching as they continue to evolve in the rapidly expanding AI field.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/850c8d20a32f9ef7b40b30a65ad5994f1b3a19d8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191457Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0e149b172612c9555b04ce48c6d570a5305dc2b0fa6610ac937d76826331f6dd",
+    "social_links": [
+        "https://www.linkedin.com/company/lmnr-ai/",
+        "https://github.com/lmnr-ai/lmnr"
+    ],
+    "logo_path": "data/logos\\Laminar_logo.png"
+}

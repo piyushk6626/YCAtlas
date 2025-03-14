@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/theya",
+    "name": "Theya",
+    "headline": "The world's simplest Bitcoin self-custody solution",
+    "batch": "W23",
+    "description": "Theya is the world\u2019s simplest Bitcoin self-custody app for users who find crypto exchanges risky and hardware wallets overwhelming. We are making the self-custody UX seamless with our multi-sig wallet that users can set up using smartphones, giving them the functionality and convenience of centralized exchanges without sacrificing control and security of hardware wallets.\r\n\nWe aim to be the default consumer app for Bitcoin - offering products like accumulation, lending, investments and payments - all built on top of our intuitive self-custody platform.",
+    "activity_status": "Active",
+    "website": "https://www.theya.us/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:crypto-web3; industry:consumer; industry:neobank; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Vikas Choudhary, Founder",
+            "description": "Co-founder/CTO at Theya - building a self-custodial bitcoin private bank. Previously co-founder/CTO at Porter (marketplace for trucking - >$230M revenue; backed by Sequoia Capital, Tiger Global)",
+            "linkedin": "https://www.linkedin.com/in/vikasch90/"
+        },
+        {
+            "name": "Smeet Bhatt, Founder",
+            "description": "Smeet has background as a tech entrepreneur and investor. Previously, he led marketing and GTM at a YC S18 enterprise software company, Prodigal (Sr A: Accel, Menlo, YC). Smeet was also an investor with IDG Ventures and co-founded Chymera (mobile VR ad-network).\n\nSmeet studied Civil Engineering and Physics at IIT Bombay and has experience trading global macro (equities, bonds, FX, commodities) and growth tech investing for over 8 years. He also believes that Bitcoin is not a choice.",
+            "linkedin": "https://www.linkedin.com/in/smeetbhatt/"
+        },
+        {
+            "name": "Sriram Bhargav Karnati, Founder",
+            "description": "Sriram is co-founder of Theya. He has led crypto engineering teams at Robinhood, FalconX and GameStop Blockchain. He built crypto custody infrastructure and led the development of self-custody wallets for Robinhood and GameStop. He is a Xoogler who has over 10 years of experience building consumer apps. Sriram graduated with Bachelors in Computer Science from IIT Bombay.",
+            "linkedin": "https://www.linkedin.com/in/srirambhargav"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Theya: Simplifying Bitcoin Self-Custody\n\n**Overview**\nFounded in 2023 and a proud member of Y Combinator's Batch W23, Theya is headquartered in San Francisco and comprises a tight-knit team of three. Theya's mission is crystal clear: to provide the world\u2019s simplest Bitcoin self-custody solution, catering especially to users who find traditional crypto exchanges intimidating and hardware wallets complex. \n\n**The Problem They Solve**\nFor many, the crypto world feels fraught with risk. Users are often torn between the convenience of centralized exchanges and the safety of hardware wallets. Theya steps into this gap by offering a multi-signature (multi-sig) wallet that's compatible with smartphones. It provides a user-friendly experience that's seamless yet secure, giving users the power to safeguard their Bitcoin without drowning in complexity.\n\n**The Vision**\nTheya is not just about wallets\u2014it aims to become the go-to consumer application for Bitcoin. Their product lineup is poised to expand into areas like accumulation, lending, investments, and payments\u2014all wrapped within their intuitive self-custody platform. They are building not only a tool, but a way to democratize and simplify Bitcoin ownership.\n\n**Current Offerings**\nTheya boasts features such as:\n- **Multi-Sig Vaults**: This multi-layered protection requires two out of three keys to approve transactions, greatly enhancing security.\n- **Shared Custody**: Users can delegate access to family members or advisors, refining control and security.\n- **Sovereign Recovery**: Should a user lose a key or even if Theya were to shut down, your funds remain safe with built-in recovery options.\n- Support for popular hardware wallets, enabling seamless integration for users' existing devices.\n\n**Fundamentals**\n- **Website**: [Theya](https://www.theya.us/)\n- **Founded**: 2023\n- **Location**: San Francisco, California\n- **Team Size**: 3 members\n- **Accelerator**: Y Combinator W23\n- **Notable Partner**: Harj Taggar\n\n**Tags**: fintech, crypto-web3, consumer, neobank, San Francisco Bay Area.\n\n**In a Nutshell**\nIf you\u2019re looking for a straightforward way to manage Bitcoin securely, Theya could be the answer. As they continue to roll out new features and refine their offerings, their goal remains the same: to simplify self-custody, making Bitcoin accessible while keeping it secure. So, if you\u2019re ready to take control of your Bitcoin without the usual headaches, Theya is worth checking out.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/eddd4a4d178c6669b1f75d5654b54b47b53f9239.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192013Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2ed7a68bd6b4301776c995338b4268606861a4e0b3da9898f7db1a1a7b6b3679",
+    "social_links": [
+        "https://www.linkedin.com/company/theya-us",
+        "https://twitter.com/theya_inc"
+    ],
+    "logo_path": "data/logos\\Theya_logo.png"
+}

@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/apoxy",
+    "name": "Apoxy",
+    "headline": "The Proxy Platform",
+    "batch": "S23",
+    "description": "Apoxy is the proxy platform for improving the security, observability, and usability of APIs and services at scale. Our programmable proxy allows developers to write code that handles the operational concerns of their applications rather than piles of configuration. We've built an ingress and egress traffic controller with a tool belt of extensions that solve common problems like monitoring, authentication, load balancing, data compatibility, and much more.",
+    "activity_status": "Active",
+    "website": "https://apoxy.dev",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:api; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Matt Ward, Founder",
+            "description": "CEO and co-founder at Apoxy. Previously worked on YouTube's video player and internal APIs then helped build the API for video at Mux. Proudly part of the only generation of professional Flash engineers which helped him start his career in funny video on the internet at CollegeHumor. Enjoys exploring mountains on skis and bicycles.",
+            "linkedin": "https://linkedin.com/in/therealwardo"
+        },
+        {
+            "name": "Dmitry Ilyevsky, Founder",
+            "description": "Technical co-founder of Apoxy - a programmable traffic controller that helps companies build and operate APIs at scale. Before Apoxy spent 15 years in the industry working on compute clusters and networking fabrics at Render, Mux, Cruise, Google, and Motorola.\n\nGeneralist with a focus on networking and systems. Semi-retired alpinist and current ultra long-distance runner.",
+            "linkedin": "https://linkedin.com/in/dilyevsky"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Apoxy: The Next-Gen Proxy Platform\n\nFounded in 2023, **Apoxy** is shaking up the developer tools landscape from its base in San Francisco. As part of Y Combinator\u2019s Batch S23, they're positioning themselves as the go-to **proxy platform** for enhancing the **security**, **observability**, and **usability** of APIs and services\u2014especially at scale. \n\nInstead of drowning developers in endless configuration files, Apoxy puts the power back in their hands. With a **programmable proxy**, they allow developers to craft custom code that addresses operational concerns, making the development process smoother and more efficient.\n\n**What Apoxy Offers:**\n- **Ingress and Egress Traffic Management:** An integrated traffic controller for handling data flow.\n- **Flexible Extensions:** Solutions for common issues like monitoring, authentication, load balancing, and data compatibility\u2014all within a single tool.\n- **Multiple Connectivity Options:** Secure WireGuard tunnels that support HTTP, TCP, and UDP connections, simplifying networking.\n- **Kubernetes and Docker Support:** Designed to accommodate a range of deployment scenarios whether you\u2019re running on their cloud or your own.\n- **Custom Logic Solutions:** Deploy your own TypeScript or Go filters and make use of a high-performance WebAssembly runtime for custom processing needs.\n\n**Pricing:** \n- Get started with competitive rates of **$0.05/GB** for bandwidth and **$1/Million** for requests on HTTP, REST, or WebSocket\u2014plus 100GB free to kick things off.\n\n**The Team:**\nCurrently, the Apoxy squad is a nimble but mighty team of two, under the guidance of Group Partner **Michael Seibel** from Y Combinator. \n\n**Tags for Apoxy:**\n- Developer Tools\n- B2B\n- API\n- San Francisco Bay Area\n\n### What\u2019s the Bottom Line?\nApoxy isn\u2019t just another tool in the vast sea of developer resources; it aims to streamline the way developers manage their application concerns. Their approach is refreshingly straightforward: eliminate complexity, provide powerful tools, and deliver them at a fair price. With Apoxy, the goal is clear\u2014help developers focus more on writing code and less on managing infrastructure.\n\nFor more information, check out their website: [apoxy.dev](https://apoxy.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3d39c846c33f002eade1b961caeba47872f606d3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191000Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f93c629b5f0b4ca485bd98cfdc9d0cfeeac5926fb04f7ecc35e28a948a7765ad",
+    "social_links": [
+        "https://www.linkedin.com/company/apoxy/",
+        "https://github.com/apoxy-dev"
+    ],
+    "logo_path": "data/logos\\Apoxy_logo.png"
+}

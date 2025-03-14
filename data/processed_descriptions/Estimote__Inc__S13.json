@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/estimote-inc",
+    "name": "Estimote, Inc.",
+    "headline": "Location intelligence platform",
+    "batch": "S13",
+    "description": "Estimote, Inc. is the creator of SpaceTimeOS, a revolutionary operating system installed directly on physical spaces to make them programmable and interactive. \r\n\nSmall sensors are attached to walls and items. They talk to each other and communicate with  with servers. A digital copy of the physical space is created in the cloud, allowing for inch-precise and real-time tracking of assets, people, and vehicles. When they move or interact with each other pre-programmed actions are triggered as defined in the apps \"installed\" in different rooms or places. Apps can be downloaded from the marketplace of create by developers using JavaScript and a robust API.\r\n\nThe system utilizes wireless technologies such as Bluetooth and Ultra Wideband to automate processes and track the movement of objects. SpaceTimeOS allows for the creation of smart workplace applications and the digital twinning of entire businesses and supply chains, as well as the blending of physical and digital data.",
+    "activity_status": "Active",
+    "website": "http://estimote.com",
+    "founded_date": 2012.0,
+    "team_size": 40.0,
+    "location": "Krak\u00f3w, Poland",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:indoor-mapping; industry:iot",
+    "founders": [
+        {
+            "name": "Lukasz Kostka, Founder/CTO",
+            "description": "Co-Founder & CTO @ Estimote",
+            "linkedin": "https://www.linkedin.com/in/lukaszkostka/"
+        },
+        {
+            "name": "Jakub Krzych, Founder/CEO",
+            "description": "Co-Founder and CEO of Estimote, Inc (YC S13), a location intelligence platform and pioneer of beacons.\nJakub has graduated Physics and Computer Science on Jagiellonian University in Krak\u00f3w, Poland.",
+            "linkedin": "https://www.linkedin.com/in/krzych"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Estimote, Inc.** is a company that emerged from the innovative Y Combinator Batch S13 in 2012, located in Krak\u00f3w, Poland. Its mission centers around revolutionizing location intelligence through a platform known as **SpaceTimeOS**. This operating system brings physical spaces to life, making them programmable and interactive, essentially creating a digital twin of the real world.\n\nAt the heart of Estimote's technology are small sensors that can be attached to walls and objects. These sensors communicate with each other and the cloud to enable inch-precise, real-time tracking of assets, people, and vehicles. Imagine walking into a room, and the space instantly recognizes your presence, triggering predefined actions\u2014all thanks to these tiny devices and the powerful programming capabilities offered through JavaScript and a robust API.\n\nEstimote's system harnesses cutting-edge wireless technologies, particularly **Ultra Wideband (UWB)** and Bluetooth, to automate tasks and track movements with remarkable accuracy. This technology is not just about finding lost items; it serves a multitude of applications, from smart workplace solutions to enhancing supply chain logistics. \n\nWhy is this important? With the rise of remote work and the need for smarter ways to manage physical spaces, the relevance of Estimote's offerings has never been clearer. They support various industries\u2014healthcare, logistics, retail, and hospitality, among others\u2014proving particularly valuable during the pandemic for applications like contact tracing and enforcing social distancing.\n\nThe company boasts a team of about 40 skilled professionals and has partnered with major players like **Apple, Amazon, and Nike**, showcasing the versatility and scalability of its technology in real-world scenarios. \n\nIf you're intrigued and want to dive deeper into the world of UWB tracking, Estimote offers a development kit at an accessible price point\u2014perfect for developers looking to innovate without needing prior embedded systems expertise. The kit includes three UWB Tags, an API access, and support documentation, making it a comprehensive starting point for exploring location-based applications.\n\nIn a nutshell, Estimote, Inc. is at the forefront of blending the digital and physical worlds through innovative location technology\u2014tailoring solutions to fit the evolving needs of businesses and industries in an increasingly interconnected world. For more information, you can check out their website at [estimote.com](http://estimote.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/25b9647a23c65fdf57b3817fd09748ec42cc5f30.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191321Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e74618760dada46be272de2b8527479ef44b71ae5940eb370f9d9d1558f1dada",
+    "social_links": [
+        "https://twitter.com/estimote",
+        "https://facebook.com/estimote",
+        "https://www.crunchbase.com/organization/estimote",
+        "https://github.com/Estimote"
+    ],
+    "logo_path": "data/logos\\Estimote,_Inc._logo.png"
+}

@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/sarus",
+    "name": "Sarus",
+    "headline": "Use personal data for analytics and ML, safely and seamlessly",
+    "batch": "W22",
+    "description": "Sarus solves the problem of accessing or sharing personal data for analytics or machine learning. \r\nThe solution deploys natively in data infrastructures and lets practitioners work on data they cannot see. Every interaction with the sensitive data is protected with the highest privacy standard: differential privacy\r\nSarus makes traditional anonymization methods irrelevant, saving months in compliance and data engineering while preserving all of the value of data.",
+    "activity_status": "Active",
+    "website": "https://www.sarus.tech",
+    "founded_date": 2020.0,
+    "team_size": 16.0,
+    "location": "Paris, France",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; industry:compliance; industry:data-engineering",
+    "founders": [
+        {
+            "name": "Maxime Agostini, Founder",
+            "description": "Maxime Agostini is Sarus cofounder and CEO. He previously cofounded AlephD a ML startup solving publishers monetization challenges. As CEO, he grew the business internationally and led the company up to a successful exit to Verizon Media in 2016. \nMaxime graduated from Ecole Polytechnique in computer science and physics. He interned at Google and Stanford physics lab.",
+            "linkedin": "https://www.linkedin.com/in/maximeago/"
+        },
+        {
+            "name": "Nicolas Grislain, Founder",
+            "description": "Nicolas Grislain is Chief Science Officer at Sarus Technologies.\nHe graduated from \u00c9cole Normale Sup\u00e9rieure de Lyon in Mathematics and Computer Science.\nNicolas started his career in economics and finance modeling at the French Treasury and then at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale.\nHe co-founded a first company: AlephD, in 2012, where he was also leading Research and Development.\nAlephD got acquired by Yahoo in 2016.\nIn 2020 he co-founded Sarus Technologies with the same founding team as AlephD.",
+            "linkedin": "https://www.linkedin.com/in/nicolas-grislain/"
+        },
+        {
+            "name": "Vincent Lepage, Founder",
+            "description": "repeat entrepreneur (Sarus is my third startup), former CTO & co-founder Alephd (ML & big data for online advertising, sell-side).\nFormer CPO Owkin (AI for medical research)\nLove to make things work.",
+            "linkedin": "https://www.linkedin.com/in/vincent-lepage-064ab41/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Sarus Technologies: Unlocking the Power of Data with Privacy\n\nFounded in 2020 and a proud member of Y Combinator's Winter 2022 batch, **Sarus** has positioned itself as a pioneer in the realm of personal data analytics, specifically in enabling organizations to leverage sensitive data without exposure. They're based in Paris, France, housing a nimble team of 16, all dedicated to their mission: to use personal data for analytics and machine learning safely and seamlessly.\n\n**Sarus' Approach:**\nSarus began by addressing the fundamental problem of accessing and sharing personal data for analytics and machine learning. Their solution operates natively within existing data infrastructures, allowing practitioners to perform their tasks on datasets they cannot actually see. The magic lies in differential privacy\u2014a robust method that protects every interaction with sensitive data. This innovative approach renders traditional anonymization techniques obsolete, significantly enhancing compliance processes and saving organizations countless hours in data engineering.\n\n**What They Offer:**\nSarus caters to multiple industries, including finance, healthcare, marketing, and the public sector. Their suite of services encompasses:\n\n- **Privacy-Safe Analytics & AI Platforms:** Solutions that facilitate secure data analysis without compromising privacy standards.\n- **Secure Collaboration Tools:** Data clean rooms and portals designed for safe and compliant data sharing.\n- **Compliance Solutions:** High-fidelity test data and insider threat management, ensuring both security and adherence to regulations.\n\nWith Sarus, data practitioners can engage in activities\u2014like AI model training and analytics\u2014without ever directly accessing sensitive data. This distinct approach not only maximizes data utility but also enhances security and compliance.\n\n**Why Choose Sarus?**\n- **Maximize Data Value:** Leverage data from various silos at full fidelity, thereby accelerating project delivery.\n- **Enhance Security:** Maintain control over data usage with minimal privilege access, ensuring protection against data breaches.\n- **Streamline Compliance:** Implement analytics and AI solutions that are inherently designed to uphold privacy laws, thus simplifying the compliance landscape.\n\n**Technology Backbone:**\nSarus integrates state-of-the-art privacy technologies, notably differential privacy and synthetic data, enabling users to run queries and processes in a privacy-preserving manner seamlessly. Their system rewrites data processing operations into privacy-safe versions, ensuring robust privacy guarantees.\n\n**Getting Started:**\nAdopting Sarus is straightforward. Organizations can deploy it within minutes, connect it to their data sources, and define privacy settings for accessing queries. Ultimately, Sarus empowers data consumers to utilize protective privacy tools across their favoured analytics environments like SQL or Python libraries. \n\nIn a world where data security is paramount, Sarus stands out by protecting data while unlocking its hidden value. If you're ready to discover how Sarus can transform your data strategy, head over to their [website](https://www.sarus.tech) for more information.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/26e6f29956fe4e28b66795d5703a65864d452754.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191910Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e788d9cc781e050d959ddda10cc6e2fd0b168c0077929d25ce3cdcc59d01ca1d",
+    "social_links": [
+        "https://www.linkedin.com/company/sarus-technologies",
+        "https://twitter.com/sarus_tech?lang=en",
+        "https://www.crunchbase.com/organization/sarus-1f2d"
+    ],
+    "logo_path": "data/logos\\Sarus_logo.png"
+}

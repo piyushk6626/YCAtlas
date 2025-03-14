@@ -1,0 +1,49 @@
+{
+    "links": "https://www.ycombinator.com/companies/chipax",
+    "name": "Chipax",
+    "headline": "Quickbooks for SMBs in Latam",
+    "batch": "S21",
+    "description": "Chipax handles all payments, invoices, and reconciliations to provide real-time AR & AP for SMBs, starting in Mexico and Chile. We're currently at $1.6M ARR with more than 1,100 paying businesses. The company is founded by Antonio Correa, Fran\u00e7ois Gueneau de Mussy, Joaqu\u00edn Brenner, and Felipe Urz\u00faa, Engineers from top universities in Chile, who have all experienced the pain of managing SMBs finances first hand in their previous jobs.",
+    "activity_status": "Active",
+    "website": "https://www.chipax.com",
+    "founded_date": 2016.0,
+    "team_size": 37.0,
+    "location": "Santiago, Chile",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Antonio Correa, Founder",
+            "description": "Toni started his career as a firefighter, then moved to renewable energy and finally to technology. Before Chipax, he led a company that was going bankrupt and faced all the pain points SMBs have to deal every day in order to maintain the business healthy; that's why Chipax was born, to make their day to day finances dramatically simpler.\nHe is an Industrial Engineer with a MSc in Innovation and Entrepreneurship from ESADE, Barcelona",
+            "linkedin": "https://www.linkedin.com/in/tonicorreal/"
+        },
+        {
+            "name": "Joaqu\u00edn Brenner, Founder",
+            "description": "Co-Founder and COO at Chipax - Helping SMEs manage their finances.\n\nUniversidad Adolfo Ib\u00e1\u00f1ez of BBA, MSc in Innovation and Design",
+            "linkedin": "https://www.linkedin.com/in/joaquin-brenner/"
+        },
+        {
+            "name": "Fran\u00e7ois Gueneau de Mussy, Founder",
+            "description": "Co-Founder, CTO www.chipax.com \u2192 Helping SMBs in Latam manage their finances.\n\nPontificia Universidad Cat\u00f3lica de Chile, BS in IT Engineering, 2011",
+            "linkedin": "https://www.linkedin.com/in/fgdemussy/"
+        },
+        {
+            "name": "Felipe Urz\u00faa, Founder",
+            "description": "Felipe is the co-founder and Chief Revenue Officer of Chipax. An entrepreneur from early age, he is really passionate about business development and strategy. Prior to Chipax, he lead the expansion of a Proptech startup across Latam. Originally from Curico, Chile. Felipe graduated from Universidad Adolfo Ib\u00e1\u00f1ez of BBA with a masters on Innovation for startups.",
+            "linkedin": "https://www.linkedin.com/in/felipe-urzua-toral/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Chipax: Simplifying Finances for Latino SMBs**\n\nChipax is on a mission to be the \"QuickBooks for SMBs\" in Latin America, focusing initially on Chile and Mexico. Founded in 2016, the company offers a suite of solutions that streamline payment handling, invoicing, and reconciliations, giving SMBs real-time visibility into their accounts receivable and payable. With a annual recurring revenue (ARR) of $1.6 million and over 1,100 paying businesses using their platform, Chipax has established a solid foothold in the fintech landscape.\n\n**Founders with a Purpose**\n\nThe company was co-founded by engineers Antonio Correa, Fran\u00e7ois Gueneau de Mussy, Joaqu\u00edn Brenner, and Felipe Urz\u00faa\u2014who all experienced the financial management challenges facing SMBs firsthand in their previous roles. Their background in engineering from top universities in Chile informs a tech-savvy approach to solving financial problems for businesses.\n\n**Growing Team and Partnerships**\n\nBased in Santiago, Chile, Chipax has grown to a team of 37 employees. They are part of Y Combinator's Batch S21, linking them to a well-respected network of startups and investors. Their growth can also be attributed to support from partners like Aaron Epstein, a Group Partner at Y Combinator, which not only adds credibility but also vital connections for scaling their services.\n\n**Product Features**\n\nChipax offers a comprehensive platform that integrates banking and tax service input for a holistic view of company finances. They feature advanced automation for cash flow management and provide real-time reporting tools, including income statements and accounts management. The service promises to eliminate manual errors and reduce redundancy, which is a serious pain point for many SMBs.\n\n**Target Market and Growth Potential**\n\nBeing firmly embedded in the Latin American market, Chipax caters primarily to small and medium-sized businesses\u2014an often underserved segment in the fintech space. The company\u2019s growth trajectory reflects the critical need for effective financial solutions in this region, where many businesses still rely on outdated and error-prone methods to manage their finances.\n\n**Moving Forward**\n\nWith over 1,500 SMBs already utilizing their services, Chipax is poised for future growth. The founders are keen on expansion, prioritizing the enhancement of their product's capabilities and increasing user adoption across Latin America. \n\nFor those interested in streamlining their financial management processes, Chipax offers a 14-day free trial, allowing businesses to test their platform without any commitments. To explore what Chipax has to offer, check out their website [chipax.com](https://www.chipax.com). \n\nIn essence, if you're an SMB in Latin America, Chipax could very well be the solution you're looking for to take control of your finances and enhance operational efficiency.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/33ac38d93c068f8bc177ab4a8e217a84a8c1adb7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191048Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=660cf2ab52e243ac7177038402e584cb1fb92d9c7abbdf570d544cbe0a2bb7be",
+    "social_links": [
+        "https://www.linkedin.com/company/chipax",
+        "https://twitter.com/Chipax_?s=20",
+        "https://www.instagram.com/chipax.oficial/",
+        "https://www.crunchbase.com/organization/chipax"
+    ],
+    "logo_path": "data/logos\\Chipax_logo.png"
+}

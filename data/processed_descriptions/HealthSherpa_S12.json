@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/healthsherpa",
+    "name": "HealthSherpa",
+    "headline": "Private sector Healthcare.gov.",
+    "batch": "S12",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://healthsherpa.com",
+    "founded_date": 2013.0,
+    "team_size": 220.0,
+    "location": "Sacramento, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:health-tech; industry:health-insurance",
+    "founders": [
+        {
+            "name": "George Kalogeropoulos, Founder/CEO",
+            "description": "CEO, HealthSherpa, the private sector Healthcare.gov. Over 10 million enrolled since 2014.",
+            "linkedin": null
+        },
+        {
+            "name": "Ning Liang, Founder",
+            "description": null,
+            "linkedin": "https://linkedin.com/in/ningliang"
+        }
+    ],
+    "status": true,
+    "generated_description": "HealthSherpa is essentially carving out its place as the private-sector alternative to Healthcare.gov. Founded in 2013 and birthed from Y Combinator's Summer 2012 batch, the company kicked off its mission with a straightforward goal: to simplify the health insurance landscape and make it more accessible for consumers.\n\nLocated in Sacramento, CA, HealthSherpa has grown to a team of around 220 employees, all dedicated to enhancing the health insurance experience. \n\nThe company identifies itself within the health-tech and health-insurance sectors, signaling its commitment to using technology to improve healthcare access. They maintain a robust online platform at [healthsherpa.com](https://healthsherpa.com) that serves as a user-friendly interface for individuals navigating their health coverage options. \n\nIn a nutshell, HealthSherpa is about bridging the gap between the complexities of health insurance and the everyday user, making it easier for people to find and enroll in health plans that suit their needs.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/845bdc6d4e56bdb14602f9fa1664106e422d5c83.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191413Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cd3155b4e5239771926795ffe304d3e1a3568714a70ba0aa880812c1a6d00579",
+    "social_links": [
+        "https://www.linkedin.com/company/healthsherpa",
+        "https://www.crunchbase.com/organization/healthsherpa",
+        "https://github.com/healthsherpa"
+    ],
+    "logo_path": "data/logos\\HealthSherpa_logo.png"
+}

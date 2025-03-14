@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/keet",
+    "name": "Keet",
+    "headline": "Authentication for AI Agents",
+    "batch": "S24",
+    "description": "Keet provides authentication for AI agents. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet\u2019s API or SDK.",
+    "activity_status": "Active",
+    "website": "https://trykeet.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:b2b",
+    "founders": [
+        {
+            "name": "Zack Ashen, Founder",
+            "description": "Co-Founder @ Keet, Cornell CS.",
+            "linkedin": "https://www.linkedin.com/in/zacharyashen/"
+        },
+        {
+            "name": "Tommy Tsai, Founder",
+            "description": "Co-Founder @ Keet, Cornell CS.",
+            "linkedin": "https://www.linkedin.com/in/tommy-tsai-589062208/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Keet Overview\n\n**Company Name**: Keet  \n**Founded**: 2024  \n**Location**: Not specified (team of 2)  \n**Y Combinator Batch**: S24  \n**Website**: [trykeet.com](https://trykeet.com)  \n**Group Partner**: Diana Hu  \n**Tags**: Artificial Intelligence, Developer Tools, B2B  \n\n### Mission\n\nKeet is on a mission to streamline **authentication for AI agents**. In a world where the ability to integrate various software easily is a game-changer, Keet provides the tools developers need to connect customer accounts, allowing AI agents to perform actions on behalf of the user.\n\n### What Does Keet Do?\n\nKeet started with a fundamental service\u2014offering authentication for AI agents. Their platform enables developers to handle user authenticated sessions seamlessly across various software environments\u2014be it legacy systems or popular consumer platforms. \n\nWith Keet\u2019s API or SDK, AI agents can access healthcare data, send messages on LinkedIn, or even interact with various consumer platforms like Facebook and Instagram. Essentially, Keet acts as a bridge, unlocking hard-to-access APIs and providing a unified interface for automation.\n\n### Key Features\n\n1. **No Chrome Extensions**: Keet doesn\u2019t rely on cumbersome browser extensions, making the user experience smoother.\n2. **Reverse Engineered Endpoints**: They leverage internal APIs to ensure reliable integrations without the fragility typically associated with automation tools.\n3. **Quick Implementation**: The provided React components allow for rapid incorporation into existing projects.\n4. **Stable Authentication**: Built-in infrastructure helps maintain authentication across necessary platforms without hassle.\n5. **Data Privacy**: They prioritize user security by not storing end-user data or handling customer credentials.\n6. **Custom Integrations**: If you need access to a platform Keet doesn\u2019t currently support, they\u2019re open to creating custom solutions.\n\n### Use Cases\n\n- **Legacy Software Integration**: Connect with older systems like CRMs and EHRs effortlessly.\n- **Onboarding Automation**: Migrate user data from competitors to streamline the onboarding process for new customers.\n- **Consumer Platform Automation**: Automate interactions on familiar platforms, enhancing user engagement without breaking a sweat.\n\n### How It Works\n\nTo get started with Keet, developers can easily integrate their link component in their platform, allowing users to authenticate once. After that, actions and data extraction can happen smoothly in the background. This is beneficial for use cases where automation needs to happen behind the scenes, providing utility without user inconvenience.\n\n### Conclusion\n\nAs AI and automation continue to gain traction, Keet positions itself as a critical player in simplifying and enhancing the authentication process for developers. Founded in 2024 and already part of Y Combinator, Keet's fresh approach to integrating with various platforms will likely resonate well as demand for seamless automation increases.\n\nIf you're interested in what Keet can do and want to give it a try, check out their [documentation](https://trykeet.com/docs), [pricing](https://trykeet.com/pricing), or sign up to get started [here](https://trykeet.com/app.trykeet.com/auth/signup).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e53a622c7bcbeb3e89db6463b6e61eefbfda8aa4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191449Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ea2ed5baf5ffad357e77da2a359dd6154382522fdaae1ab5dd9b8dba3dbcd0eb",
+    "social_links": [
+        "https://www.linkedin.com/company/keetapi/",
+        "https://x.com/keetapi"
+    ],
+    "logo_path": "data/logos\\Keet_logo.png"
+}

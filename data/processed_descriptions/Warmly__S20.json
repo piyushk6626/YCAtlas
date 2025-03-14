@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/warmly",
+    "name": "Warmly,",
+    "headline": "Autonomous sales platform to auto-email your warmest leads",
+    "batch": "S20",
+    "description": "Step 1: We find you warm leads: contacts\u00a0+ companies that are showing interest on your website (via 6sense/Clearbit) and researching you around the web (via Bombora)\u00a0but haven't converted yet.\r\n\nStep 2: We then auto follow up\u00a0via chat, email or LinkedIn. Depends what workflows you want to set up - we can AI chat with them on your website, auto AI email them via your sequence provider of choice, and/or auto AI linkedin sequence them. Your humans can verify everything before being sent too.\u00a0\r\n\nOutcome: 10x more outbound than a human SDR, 3x reply rates since they're warm and more booked meetings (results shown in ROI dashboard).\u00a0\r\n\nP.S. if you want to use humans: you can send 1-click warm intro requests via your network or live chat/video call them too.\r\n\nThis is the power of an autonomous sales orchestration platform and we have 100+ paying customers who can\u00a0back it up.",
+    "activity_status": "Active",
+    "website": "http://warmly.ai/",
+    "founded_date": 2020.0,
+    "team_size": 22.0,
+    "location": "Denver, CO",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:productivity; industry:sales; industry:sales-enablement",
+    "founders": [
+        {
+            "name": "Max Greenwald, Founder",
+            "description": "First time founder learning a lot.",
+            "linkedin": "https://www.linkedin.com/in/max-greenwald/"
+        },
+        {
+            "name": "Carina Boo, Founder",
+            "description": "Co-founder & CTO at Warmly,. Learn more about who I am at a deeper level at https://pushpull.community/user/carina.",
+            "linkedin": "https://www.linkedin.com/in/carinaboo"
+        },
+        {
+            "name": "Alan Zhao, Founder",
+            "description": "Traded foreign currency as a hobby throughout college. Joined the legacy proprietary trading group at Wells Fargo, and helped launch the bank\u2019s first credit derivatives trading business. Saw that software and hardware breakthroughs were reaching an inflection point, and decided to transition to tech. Took a job building out the data analytics infrastructure at x.ai from scratch while picking up programming on the side. Joined On Deck, and met my current co-founders of Warmly \ud83d\ude0a",
+            "linkedin": "https://www.linkedin.com/in/alan-j-zhao/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### About Warmly\n\n**Website**: [warmly.ai](http://warmly.ai)  \n**Founded**: 2020  \n**Location**: Denver, CO  \n**Team Size**: 22 Employees  \n**Y Combinator Batch**: S20  \n**Group Partner**: Gustaf Alstromer  \n\n---\n\n#### Mission\n\nWarmly is an autonomous sales platform designed to supercharge your engagement with warm leads by automating outreach through email, chat, and social media. Whether it's following up with prospects via LinkedIn or sending personalized emails, the platform aims to enhance your sales funnel outcomes tremendously. \n\n---\n\n#### How It Works\n\n1. **Identifying Leads**: Warmly utilizes cutting-edge tools like 6sense, Clearbit, and Bombora to detect \"warm leads\"\u2014contacts and companies showing intent on your website but not yet converted. \n   \n2. **Automated Outreach**: The platform then automates follow-up communications, engaging leads through your preferred channels. You can deploy AI chat on your website, schedule automated email sequences via your email provider of choice, or even execute AI-driven LinkedIn outreach. Before sending, your team has the option to review and verify the interactions.\n\n3. **Results**: Users reportedly see a tenfold increase in outbound outreach compared to traditional SDR efforts, with response rates tripling and increased meeting bookings displayed via an ROI dashboard.\n\n4. **Human Touch**: For those who prefer a human-centric approach, Warmly allows instant warm introduction requests and even live chat or video calls.\n\n---\n\n#### Value Proposition\n\nThe power of Warmly\u2019s platform lies in its ability to orchestrate sales automation while integrating seamlessly with existing workflows. This holistic approach can turn casual website visitors into qualified leads, drastically reducing the conversion time while maintaining a personalized touch.\n\n---\n\n#### Customer Base and Tags\n\nWith over 100 paying customers, Warmly is making waves among high-growth B2B companies. The company is tagged in multiple categories including **artificial intelligence**, **B2B**, **productivity**, **sales**, and **sales enablement**.\n\n---\n\n#### Products and Services\n\n- **Intent Signals**: De-anonymize website visitors to track intent, helping sales teams direct their efforts effectively.\n- **AI-Driven Workflows**: Automate personalized communications across various platforms including email and LinkedIn.\n- **Data Integrations**: Connect with other software tools to create a seamless sales process.\n\n#### Outcomes Reported by Customers\n\n- **200% increase** in enterprise pipeline within one month.\n- **282% ROI** in six months.\n- Significant time savings with just-in-time engagement strategies.\n\n--- \n\nIn a nutshell, Warmly is geared towards those looking to leverage AI to enhance their sales strategies while ensuring their approach remains personal, effective, and data-driven. If you're looking to get serious about turning intent into action, Warmly could help you achieve just that. \n\nFor more details, don\u2019t hesitate to check out their platform!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/64217f386c5de701436a4ef31fa9e590aa6a1cec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAFJSOQ65W%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192055Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDHe2krNA4Wz4ZdbboNJG%2B0zG6MmRspOJ5Kex%2FWuhFzDwIhAK4JNrLJx7V6Lp69aumcmLj570j2DR2Eh3hPcEuQGW3%2FKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgweLBjNRNugVRDPT8gqwgPiLGnMwjgQOiNH7FMTInTVKCCJLDe5fdDWlactIzRh2XOtRjauQZptst9ejdBs3vj590lIr07sFFKCWuGV%2B%2BJkmRqS%2BXBC6caH3J97%2FH7W3ch4kKAyKE3TuVCMVl%2BqNFww29jX%2BimNvDUNvCgQtjVE03FWSnfbJrDf3NUx8wttW6l2EC5fgOealDp0Ne7xA51qGtDKfIYSJUUyj6d2WgcNp66ilXSYF5HX3L4wid4xRepJ9Vt1krkNG6bsNoITqg8zMlLgZ7QT5uVwuoY%2Fhv%2F89O661Pa6%2FtGfz6gcZjx3JmkvJh2yaephzjfzpFg43OFS%2B3NnORgMbCqTEcn9piGJokbf9a5xoR2Qt8E4L2AdZTypzC0scYqz%2BA1CsQiK1RrvedAjSsaEw4%2FqFaR6rBrZ4SBiKqlmStv67nu5CMG6DF414F2WlGbkeS8C%2BJYZ2iky%2B19B0K9e4J7Tik78PRFNXoN8lSqP4k%2BLhdrqVq5b2d4m7UHeeProhr%2Fv5HV%2BORFSiFow%2Fhbxt6GN2P2YWxzdIHA32IkBqYD%2BeZ3eFOZSk%2B1Pldgq4PSaiU5lQlEewufIwxcnWXTzGkzSJ%2BLlLlzWX4EwrKPjvQY6pAEqZgWN8cooHP%2FeegIX6R3Pun8lUwrTM2csrvVF8K2udU7KUu1EoXzzxsupULfK9AN%2Bcef1HwWg3GN0hRmtduP9znDwqy7B09eErZHX3iCWPeVm7m2HUwQH0BM7NBnkw%2BBNh35scX3c4lMIghjRFyw9b8VEOGAbUjAxbgvLqemFdd8Zq7DGRWXDbhLqcGd2hHliZLchEjlQhzfD3wdeSwzTgvkJMw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4907ae3f40174145b0c4cf59289495e9db698ef2dbfbbce8fccf0b93ed455da1",
+    "social_links": [
+        "https://www.linkedin.com/company/warmly-ai/",
+        "https://twitter.com/warmlyai",
+        "https://www.crunchbase.com/organization/warmly"
+    ],
+    "logo_path": "data/logos\\Warmly,_logo.png"
+}

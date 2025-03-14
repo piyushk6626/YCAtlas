@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/reducto",
+    "name": "Reducto",
+    "headline": "The most accurate way to parse complex documents",
+    "batch": "W24",
+    "description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more.",
+    "activity_status": "Active",
+    "website": "https://reducto.ai",
+    "founded_date": 2023.0,
+    "team_size": 8.0,
+    "location": null,
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:documents; industry:data-engineering; industry:enterprise-software; industry:search; industry:ai",
+    "founders": [
+        {
+            "name": "Adit Abraham, Founder",
+            "description": "Co-founder/CEO at Reducto. Before Reducto I studied CS at MIT, made Ads/Search things as a PM for Google, did ML research at MIT's Media Lab, and spent an unreasonable amount of time playing Pokemon Showdown.",
+            "linkedin": "https://linkedin.com/in/aditabraham"
+        },
+        {
+            "name": "Raunak Chowdhuri, Founder",
+            "description": "Co-founder/CTO at Reducto. Before Reducto I studied CS at MIT, founded/scaled a comp. chem consulting company to 200k ARR, published computer vision papers with 100+ citations before finishing high school, and spent a little too much time shit posting on Twitter.",
+            "linkedin": "https://linkedin.com/in/sauhaarda"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Reducto**\n\nFounded in 2023 and part of Y Combinator's Winter 2024 batch, Reducto aims to change the way we handle complex documents. Their mission? To provide the most accurate method for parsing these documents, transforming unstructured data into structured outputs that fit seamlessly into workflows for applications like RAG (retrieval-augmented generation) and process automation. Located in an unspecified area, Reducto comprises a tight-knit team of 8 employees, guided by the expertise of Group Partner Diana Hu.\n\n**What They Do**\n\nAt its core, Reducto offers an advanced API designed for robust document ingestion. The service stands out in its ability to convert complex layouts\u2014including tables, forms, and graphs\u2014into LLM (large language model)-ready inputs. This capability guarantees high accuracy, mimicking how humans read and interpret documents. With an emphasis on versatility, Reducto allows custom schema definitions, enabling businesses to extract precisely what they need from their documents.\n\n**Security and Reliability**\n\nSecurity is a pillar of Reducto\u2019s operations. They adhere to top-notch security practices and provide options for zero data retention via their hosted API. Users also have the flexibility to self-host their models on personal cloud or on-premise solutions, giving them full control.\n\n**Use Cases and Industries**\n\nReducto's technology is particularly beneficial for sectors such as:\n\n- **Legal**: Enhancing the analysis and processing of legal documents like contracts and court filings.\n- **Healthcare**: Supporting the extraction of key information from medical records.\n- **Finance**: Streamlining financial document management.\n- **Insurance**: Improving claims processing and policy assessments.\n\n**Current Highlights and Future Directions**\n\nRecently, Reducto announced RD-TableBench, a comprehensive benchmark for PDF table parsing, showcasing their commitment to continuous improvement and innovation. \n\nFor those interested in exploring Reducto's offerings, they provide a demo and thorough documentation on their website. The platform is not just about technology; it\u2019s about creating high-quality data ingestion processes that make life easier for businesses navigating the complexities of document management.\n\n**Website**: [Reducto](https://reducto.ai)\n\nIn a world where data accuracy and security are paramount, Reducto is positioning itself as a reliable partner for enterprises looking to optimize their document handling processes. If you\u2019re dealing with complex documents, their solution could be a game changer.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a34a000ce2630927b026e6a65b2f6a7e5336fe62.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191712Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3b479fce5635b383be3f5d61a2598e5e656540a22d4181e6c32347822577b49d",
+    "social_links": [
+        "https://www.linkedin.com/company/reducto-ai/",
+        "https://github.com/reductoai"
+    ],
+    "logo_path": "data/logos\\Reducto_logo.png"
+}

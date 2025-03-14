@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/pig",
+    "name": "Pig",
+    "headline": "An API for automating Windows apps with AI",
+    "batch": "W25",
+    "description": "Pig is an API to launch and automate Windows desktops. Pig's SDK tools plug into your agent loops to allow them to navigate UIs and integrate with software that doesn't have an API.",
+    "activity_status": "Active",
+    "website": "https://pig.dev",
+    "founded_date": 2024.0,
+    "team_size": 1.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:cloud-computing",
+    "founders": [
+        {
+            "name": "Erik Dunteman, Founder",
+            "description": "Founder and CEO at Pig.dev. Previously founded Banana.dev, a serverless GPU platform where we hosted production-critical inference jobs for more than 3,000 AI teams. Later joined our competitor Modal.com as a Growth Engineer. I also run ultras!",
+            "linkedin": "https://www.linkedin.com/in/edunteman/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Pig: Automating Windows Applications with AI**\n\nFounded in 2024 and based in an unspecified location, Pig is carving out a niche as a powerful API for automating Windows desktop applications using artificial intelligence. The company started with a straightforward mission: to simplify the interaction with Windows environments by providing tools that integrate seamlessly with applications that lack an API. Essentially, it\u2019s about giving an agent the means to launch and control Windows apps\u2014no matter the circumstances.\n\n**What Does Pig Offer?**\n\nPig is part of the Y Combinator Batch W25, underscoring its potential and innovative trajectory. Currently operating with a lean team of just one employee, the foundational tech is backed by significant insights\u2014particularly from Jared Friedman, their group partner.\n\nThe company's offerings are centered around a few key components:\n\n1. **A Simple SDK:** Designed for developers, Pig's SDK integrates smoothly into agent applications, allowing for efficient automation of tasks.\n   \n2. **Serverless VMs:** Automations take place on a serverless infrastructure, ensuring that operations are straightforward, secure, and scalable\u2014a massive advantage in today's demanding tech landscape.\n\n3. **User-Friendly Tools:** Pig empowers agents with natural command tools like `click()`, `type()`, and `screenshot()` to manage Windows applications, enhancing usability and flexibility.\n\n4. **Human Oversight:** Recognizing that AI isn't infallible, Pig includes mechanisms for human oversight. Agents can transfer control back to a human operator whenever needed, ensuring critical operations receive the necessary attention.\n\n**A Sneak Peek Into Its Functionality**\n\nImagine this code snippet representing a simple agent loop:\n\n```python\nfrom pig import VM\n\n# Launch VM\nvm = VM()\nwith vm.session() as conn:\n    # Run your Agent loop\n    while True:\n        screen = conn.screenshot()  # View the desktop\n        conn.click(x=330, y=750)    # Simulate a mouse click\n        conn.type(\"excel\")           # Typing 'excel'\n        conn.yield_control()         # Transfer control to a human\n        conn.await_control()         # Wait for regaining control\n```\n\nThis example illustrates how Pig is built to interact with a Windows desktop, combining automation with a fluid user experience. \n\n**Get Involved**\n\nCurrently in closed alpha, Pig is welcoming early adopters who are ready to tackle automation challenges. You can get a taste of what Pig has to offer on their website: [Pig.dev](https://pig.dev).\n\nWith its focus on developer tools, generative AI, and cloud computing, Pig is poised to make significant waves in the automation space. If you\u2019re brimming with ideas about simplifying Windows application automation, now\u2019s the time to get involved!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a55b014cb22778589e6f60e733be9e903e6e0f4e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191639Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d5f4e038852538f3f93ecc11e6361b2ad18621bf3adedcd000534222ad385cf8",
+    "social_links": [
+        "https://www.linkedin.com/company/pig-dot-dev",
+        "https://x.com/pigdev_",
+        "https://github.com/pig-dot-dev"
+    ],
+    "logo_path": "data/logos\\Pig_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/cenote",
+    "name": "Cenote",
+    "headline": "Automate back office tasks for medical clinics",
+    "batch": "W25",
+    "description": "Cenote uses AI to automate the back office for medical practices \u2014 eliminating the bottlenecks that often delay patient care and clinic revenue.\r\n\nTypically, practices hire teams to manually extract patient info from hundreds to thousands of faxes a week. This slow process risks losing patients to faster competitors. Cenote\u2019s software streamlines this workflow. \r\n\nBetween the 50 million specialist outpatient visits and 40 million specialty drug prescriptions annually, Cenote accelerates access to a $90 billion market.\r\n\nThe team behind Cenote\u2014Kofi, Ajani, and Kristy\u2014met in San Francisco and bring deep expertise in building scalable solutions for highly-regulated industries such as climate and gov tech.",
+    "activity_status": "Active",
+    "website": "https://www.joincenote.com/",
+    "founded_date": 2024.0,
+    "team_size": null,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:robotic-process-automation; industry:health-tech; industry:b2b; industry:healthcare; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kofi Ansong, Founder",
+            "description": "I am the co-founder and CEO of Cenote. I graduated with a degree in computer science and worked for three years at Promise, a YC company in the gov-tech industry, so I have experience building in heavily regulated industries. \nOutside of work, you\u2019ll often find me on a run or perfecting my refried bean paste recipe. :)",
+            "linkedin": "https://www.linkedin.com/in/kofi-ansong-89294016a/"
+        },
+        {
+            "name": "Kristy Gao, Founder",
+            "description": "Hi! I'm the CTO of Cenote. I studied Computer Science at UWaterloo. Before YC I was a software engineer at Watershed, a carbon accounting startup. I've also worked at huge companies like Google and PayPal and also teeny tiny startups. When I'm not working I'm running, surfing, painting, roller blading, and trying to balance my 1001 different hobbies.",
+            "linkedin": "https://www.linkedin.com/in/gaoxk/"
+        },
+        {
+            "name": "Ajani Smith-Washington, Founder",
+            "description": "Before Cenote he spent the last 3 years as an early stage VC at Base10, investing $30M in seed and series A stage companies. Ajani graduated from Howard University with degrees in Physics and Economics.",
+            "linkedin": "https://www.linkedin.com/in/ajani-smith-washington/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Cenote Overview: A Game Changer for Medical Practices**\n\nCenote is a fresh name in the health-tech landscape, founded in 2024 and incubated in Y Combinator\u2019s Batch W25. Its mission is simple but powerful: automate back-office tasks for medical clinics, cutting out inefficiencies that slow down patient care and revenue. This is crucial because, in today\u2019s fast-paced healthcare environment, every minute counts. \n\n**Problem Solving with AI**\n\nTraditionally, medical practices have been bogged down by manual processes, like sifting through hundreds or even thousands of faxes each week to extract patient information. This tedious work not only hampers productivity but also endangers patient retention. Cenote uses advanced AI technology to streamline these workflows, allowing clinics to respond faster and more accurately to patient needs. \n\nImagine this: there are about 50 million specialist outpatient visits and 40 million specialty drug prescriptions each year in the U.S. Cenote is uniquely positioned to tap into this massive $90 billion market by eliminating the bottlenecks that slow practices down. \n\n**Meet the Team**\n\nThe founders\u2014Kofi, Ajani, and Kristy\u2014bring a robust background to the table. Meeting in San Francisco, they\u2019ve previously honed their skills in building scalable solutions for highly regulated industries like climate tech and government services. Their combined expertise lends itself well to the intricacies of healthcare.\n\n**What Cenote Offers**\n\nWith a compact team operating out of the San Francisco Bay Area, Cenote\u2019s offerings include:\n\n1. **Fax and Document Triage**: Automatic routing of incoming documents to eliminate chaos.\n2. **Gap Detection and Denial Reduction**: Advanced AI identifies missing or incomplete patient data before claims are denied, saving clinics from prolonged payment delays.\n3. **Data Extraction and Storage**: Automating data entry into Electronic Health Records (EHRs) reduces errors and repetitive tasks, freeing up staff for more essential patient-facing work.\n4. **AI Callers**: A fleet of AI callers handles authorizations, ensuring clinics never fall behind in their insurance processes.\n\nCenote is not just about automation; it\u2019s about transforming the way medical practices operate, allowing healthcare providers to focus on what truly matters: patient care.\n\n**Community Engagement and Growth**\n\nLooking ahead, Cenote is actively engaging with the medical community. They\u2019ll be present at MedTrade (booth 1656) and are hosting meetups for DMEs and sleep professionals, illustrating their commitment to building relationships and sharing insights.\n\nIf you're intrigued by the idea of working smarter\u2014not harder\u2014in your medical practice, Cenote offers demos that you can book right on their [website](https://www.joincenote.com/).\n\n**Final Thoughts**\n\nCenote embodies a vital evolution in healthcare technology. By marrying AI with an understanding of clinical workflows, they not only improve efficiency but also enhance the patient experience. In a landscape hungry for innovation, Cenote is a name worth watching. \n\nFor any inquiries, you can reach out via founders@joincenote.com or learn more about their solutions on their [website](https://www.joincenote.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ef8239e94ce68f0f5a7e60e50dc1a9238f613f20.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191045Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5ba5d8203fdf36a9ddec03b01fe16c279fcc2cfe14065cf1467af08280a9ad74",
+    "social_links": [],
+    "logo_path": "data/logos\\Cenote_logo.png"
+}

@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "name": "Rain Neuromorphics",
+    "headline": "We build artificial intelligence processors inspired by the brain.",
+    "batch": "S18",
+    "description": "At Rain Neuromorphics, we envision a future where every device possesses a dynamic and continuously learning AI brain. Neural Networks are the most powerful engines behind today's AI, but simulations require massive amounts of power and time to learn all of the synaptic connections. As opposed to a simulation, our neuromorphic hardware is a physical artificial neural network, composed of spiking neurons and physical synapses. We combine unique electroceramic materials, nanofabrication techniques, and biologically plausible models of learning to create the Memristive Nanowire Neural Network (MN3), a new type of AI chip. The MN3 can possess over ten million spiking neurons per square centimeter, and uses far less power than conventional GPUs and CPUs.",
+    "activity_status": "Active",
+    "website": "http://www.rain-neuromorphics.com",
+    "founded_date": null,
+    "team_size": 12.0,
+    "location": "Redwood City, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:hardware; industry:neurotechnology; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Gordon Hirsch Wilson, Founder/CEO",
+            "description": "Gordon is the founding CEO of Rain.",
+            "linkedin": "https://www.linkedin.com/in/gordonhirschwilson/"
+        },
+        {
+            "name": "Juan Claudio Nino, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/juan-claudio-nino-6770b61a2"
+        },
+        {
+            "name": "Jack Kendall, Founder/Chief Technical Officer",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/jack-kendall-21072887/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Rain Neuromorphics: Pioneering Brain-Inspired AI Hardware**\n\nRain Neuromorphics is at the forefront of a new wave in artificial intelligence, leveraging the architecture of the human brain to build ultra-efficient AI processors. Founded in **2018** and a proud participant of **Y Combinator's Batch S18**, this innovative startup is located in **Redwood City, California**, and currently boasts a team of **12 talented employees**.\n\n### The Mission\n\nTheir mission is straightforward yet ambitious: to create a future where every device possesses a dynamic, continuously learning AI brain. Traditional neural networks are powerful but require extensive time and energy to simulate. Rain Neuromorphics addresses this by utilizing **neuromorphic hardware**, meaning they\u2019ve developed a physical artificial neural network that mimics the brain's mechanisms more closely than existing technology.\n\n### The Innovation\n\nCentral to their technology is the **Memristive Nanowire Neural Network (MN3)**. This product employs **spiking neurons** and **physical synapses** using unique electroceramic materials and cutting-edge nanofabrication techniques. What\u2019s remarkable is the capability to house over **ten million spiking neurons** in just one square centimeter, all while consuming significantly less power than conventional GPUs and CPUs.\n\nIn a world where energy efficiency and computational power are paramount, Rain Neuromorphics represents a significant leap forward, harnessing the untapped potential of nano-technology for AI.\n\n### Community and Reach\n\nTagged under **artificial intelligence**, **hardware**, **neurotechnology**, and positioned in the **San Francisco Bay Area**, they are well-placed to tap into one of the most vibrant tech ecosystems in the world.\n\nTheir work isn't just about creating chips; it's about revolutionizing how machines think and learn, aiming for a future where intelligent devices aren't just tools, but partners.\n\nFor more about their groundbreaking work, check out their website: [Rain Neuromorphics](http://www.rain-neuromorphics.com). \n\nThe intersection of neuroscience and technology is only getting started, and Rain Neuromorphics is one of the most exciting players in this field.",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.crunchbase.com/organization/rain-neuromorphics",
+        "https://github.com/rain-neuromorphics"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/lancedb",
+    "name": "LanceDB",
+    "headline": "Open-source, serverless vectordb for production-scale generative AI",
+    "batch": "W22",
+    "description": "LanceDB is a new open-source vector database that can support low-latency billion-scale vector search on a single node. Built around a new columnar data format, LanceDB makes it incredibly easy to build applications for generative AI, recsys, search engines, content moderation, and more.",
+    "activity_status": "Active",
+    "website": "https://lancedb.com",
+    "founded_date": 2022.0,
+    "team_size": 10.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:machine-learning; industry:data-engineering; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Chang She, Founder",
+            "description": "My passion is building tools to make teams more productive working with data. I was VP of Eng at TubiTV where I designed the ML stack and the experiment platform, in addition to growing the team by more than 3x. Previously I was CTO/co-founder of DataPad and the second major contributor to the pandas library. In a former life, I was a financial quant with stints at AQR and Barclays.",
+            "linkedin": "https://www.linkedin.com/in/changshe"
+        },
+        {
+            "name": "Lei Xu, Founder",
+            "description": "Lead in Machine Learning Platform in Cruise.\nApache Hadoop HDFS PMC member and Senior Software Engineer at Cloudera.\nPhD in distributed storage system.",
+            "linkedin": "https://www.linkedin.com/in/eddyxu/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**LanceDB: Your Go-To Open-Source Vector Database for AI**\n\nFounded in 2022 and part of Y Combinator Batch W22, LanceDB is a groundbreaking open-source vector database designed specifically for the needs of generative AI. Located in the bustling tech hub of San Francisco, this nimble company, with a team of just 10, focuses on making low-latency billion-scale vector searches a breeze\u2014all on a single node.\n\n### What's in the Name?\n\nThe mission at LanceDB is crystal clear: they aim to provide a serverless, open-source vector database that caters to production-level generative AI projects. The innovation behind LanceDB lies in its new columnar data format, which supercharges the development of various applications, from recommendation systems and search engines to content moderation tools.\n\n### Performance that Speaks Volumes\n\nLanceDB stands out for its impressive capabilities:\n- **Ultra-fast Searches**: Perform real-time searches across billions of vectors\u2014yes, even on a regular laptop. \n- **Cost-Effective Scalability**: Major companies are leveraging LanceDB to manage billions of vectors and a mountain of multimedia content\u2014all without breaking the bank.\n- **Advanced Retrieval Techniques**: This isn\u2019t just about searching; it\u2019s about quality. With hybrid vector and full text search, users can access rich metadata filters and custom ranking, enhancing the retrieval quality to meet diverse needs.\n\n### A Rich Ecosystem \n\nLanceDB integrates seamlessly into existing AI and data toolchains, allowing users to ingest vast amounts of vectors using frameworks like Spark or Ray. It's optimized not just for search, but for multimodal training and analytics, making it a versatile option for developers. The database is also designed to easily scale down to zero when not in use, providing a flexible deployment model akin to SQLite.\n\n### Building Trust \n\nLanceDB's reliability is backed by crucial certifications where its cloud service is SOC2 Type II and HIPAA compliant, making it a trustworthy choice for enterprises with stringent requirements in sectors like health tech and e-commerce.\n\n### Noteworthy Collaborations \n\nProminent companies, including Midjourney, have chosen LanceDB for its unparalleled performance in handling high-traffic workloads. Their success stories underline how LanceDB meets critical infrastructure needs effectively.\n\nNow, if you\u2019re on the lookout for an easier way to manage AI data\u2014from the experimental stage to production\u2014check out LanceDB. They make it simple to get started, and with a growing community and comprehensive documentation, you're not alone on this journey.\n\nFor more information, visit [LanceDB\u2019s website](https://lancedb.com) and dive into the future of AI with a solid foundation that promises speed, efficiency, and scalability.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f8fd7d13b0440e6d77ce1afb00d9c3af919455e2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191459Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=74315c7a3016d51bb630dfe68799f09acd8da7e23caf42ba82061ea655b2b549",
+    "social_links": [
+        "https://www.linkedin.com/company/lancedb/",
+        "https://twitter.com/lancedb",
+        "github.com/lancedb"
+    ],
+    "logo_path": "data/logos\\LanceDB_logo.png"
+}

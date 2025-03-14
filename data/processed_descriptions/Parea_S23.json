@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/parea",
+    "name": "Parea",
+    "headline": "Test, evaluate & observe your LLM applications",
+    "batch": "S23",
+    "description": "Parea AI is the essential developer platform for debugging and monitoring every stage of LLM application development. We provide testing, evaluation, and monitoring in one unified platform. These capabilities help developers get visibility into LLM responses, quickly test and optimize prompts, and ensure customers get the best user experience.",
+    "activity_status": "Active",
+    "website": "https://www.parea.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:devops; industry:monitoring; location:new-york",
+    "founders": [
+        {
+            "name": "Joel Alexander, Founder",
+            "description": "Senior Software Engineer at Lyft.\nJ.P. Morgan TMT Investment Banking.\nBA @ Columbia University.\nMSc @ New York University",
+            "linkedin": "https://linkedin.com/in/ajoeljr"
+        },
+        {
+            "name": "Joschka Braun, Founder",
+            "description": "Published my first paper in the highest-ranked number theory journal at age 17. Continued to pursue math until my M.Sc. from NYU as a Fulbright scholar. Noticed AI has more real world applications than math and started researching applications of deep learning to medical imaging at Covera Health. Built semantic search systems and automatic code generation software at Jina AI.",
+            "linkedin": "https://linkedin.com/in/joschkabraun"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Parea**\n\n**Founding Year:** 2023  \n**Location:** New York  \n**Team Size:** 2 Employees  \n**Y Combinator Batch:** S23  \n**Key Partner:** Dalton Caldwell  \n\n---\n\n### Mission  \nParea's mission is straightforward yet critical: to test, evaluate, and observe large language model (LLM) applications. They aim to empower developers through a comprehensive platform that combines debugging and monitoring at every step of LLM application development.\n\n### What They Do  \nInitially branded as Parea AI, Parea serves as an essential developer platform designed for testing and optimizing LLM applications. The platform integrates various capabilities\u2014such as testing, evaluation, and monitoring\u2014into a single interface. This holistic approach allows developers to:\n\n- Gain better visibility into LLM responses.\n- Rapidly test and refine prompts.\n- Enhance user experience for their end customers.\n\nEssentially, Parea acts as a safety net, ensuring that the applications built utilizing LLMs perform optimally before they reach production.\n\n### Features\nParea offers a variety of functionalities tailored to AI developers, including:\n\n- **Experiment Tracking**: Monitor performance and changes over time.\n- **Human Annotation**: Gather feedback from users and subject matter experts for fine-tuning applications.\n- **Prompt Playground**: Experiment with different prompts and deploy the successful ones.\n- **Observability Tools**: Capture and log production data to troubleshoot issues efficiently.\n- **Dataset Management**: Utilize logs from production for better model training and fine-tuning.\n\n### Development Tools\nDevelopers can easily integrate Parea into their workflows using simple SDKs for Python and JavaScript, which enable seamless tracking and evaluation of LLM applications.\n\n### Pricing Plans\nParea offers a range of pricing plans:\n- **Free Plan**: Perfect for small teams, includes essential features and limited usage.\n- **Team Plan**: For $150/month, it allows for larger team collaboration with more expansive features.\n- **Enterprise Plan**: Customized solutions for larger organizations with specific needs.\n\n### Community & Support\nParea engages with its users through community platforms such as Discord and social media channels, ensuring that developers have access to support and can exchange knowledge.\n\n### Conclusion\nIf you're in the realm of AI and working with LLM applications, Parea is one of those tools that can significantly ramp up your development process. By bridging the gaps in testing, evaluation, and observability, they not only soothe developers\u2019 nerves but also lead to improved end-user experiences. For more information, check out their website at [Parea.ai](https://www.parea.ai).\n\nThis is the future of LLM application development, and with Parea\u2019s help, you\u2019re equipped to dive in confidently.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bd27d0f9e709514588e145dd62fae8ea4d3cd1d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191623Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=158fd1ce885df425776464c7c807d659767f70b1f9bcb093ea434132eadbcb52",
+    "social_links": [
+        "https://www.linkedin.com/company/parea-ai",
+        "https://twitter.com/PareaAI",
+        "https://github.com/parea-ai"
+    ],
+    "logo_path": "data/logos\\Parea_logo.png"
+}

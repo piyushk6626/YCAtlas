@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/datacurve",
+    "name": "Datacurve",
+    "headline": "Frontier coding data for training and evaluating LLMs",
+    "batch": "W24",
+    "description": "We generate expert quality coding data at scale for fine-tuning LLMs",
+    "activity_status": "Active",
+    "website": "https://datacurve.ai/",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Serena Ge, Founder",
+            "description": "Started building software in high school - built a climbing training app with Team Canada athletes. Studied at Waterloo CS for a year then dropped out. Worked with the Cohere CTO on LLM reasoning and coding capabilities through synthetic data. Went to YC W24, pivoted 3 times until Datacurve. Now scaling high quality coding data production pipelines at Datacurve to enable next generation coding models",
+            "linkedin": "https://linkedin.com/in/serena-ge-4583731b4"
+        },
+        {
+            "name": "Charley Lee, Founder",
+            "description": "Coding since 14, going on to study CS at UWaterloo for a year. Interned at Google, and trained billion parameter models on the side. Now co-founder of Datacurve.",
+            "linkedin": "https://linkedin.com/in/charley-lee"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Datacurve: Frontier Coding Data for LLMs\n\n**Overview**\nFounded in 2024 and based in San Francisco, Datacurve is a Y Combinator W24 company dedicated to providing premium, curated coding data specifically designed for training and evaluating large language models (LLMs). With a lean team of four, the company is positioned at the forefront of generative AI technology.\n\n**Mission**\nDatacurve\u2019s mission revolves around creating expert-quality coding data at scale. It aims to enhance the performance of applications and models through superior training data. By bridging the gap between high-quality data and advanced AI capabilities, Datacurve is reshaping how developers and researchers approach model training.\n\n**Key Features and Offerings**\nDatacurve offers a suite of tools and services aimed primarily at:\n- **Generative AI Developer Tools**: This includes intelligent coding copilot integrations for IDEs, automatic pull requests from GitHub issues, and design-to-code solutions, particularly for frameworks like React.\n- **Foundational Model Research Labs**: The company provides sophisticated datasets that challenge current LLM capabilities, focusing on solving complex coding problems across various frameworks and languages.\n\n**Data Quality Assurance**\n\"High-quality data is directly linked to improved model accuracy, robustness, and generalizability.\" With a thorough vetting process, Datacurve leverages a talented workforce of software engineers, ensuring that every data point meets high standards for accuracy, diversity, and scalability.\n\nEach dataset is subjected to rigorous quality assurance through a combination of automated processes and human evaluations, creating a robust system for data integrity. This not only enhances the model's performance but also increases the confidence of developers in the datasets.\n\n**Team and Leadership**\nThe team includes seasoned developers with backgrounds in top-tier companies and universities, ensuring that the data annotation is managed by professionals who understand the intricate needs of coding data. Garry Tan serves as the group partner, lending his expertise and vision to the company's strategic direction.\n\n**Call to Action**\nIf you're interested in exploring how Datacurve can assist with your coding data needs or if you want to benchmark your models, [schedule a call](https://datacurve.ai/<https:/calendly.com/serena-datacurve/meetingbooking>) for a personalized discussion. \n\nFor more information, visit their website at [datacurve.ai](https://datacurve.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d6ddf3ddffd6d51114fef936a99ec234134b55b5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191112Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9d9eb27805fa94dd688da12dfee42fbe2b926880cae3b1a20c937586de7e6bc8",
+    "social_links": [
+        "https://www.linkedin.com/company/datacurveai",
+        "https://twitter.com/datacurve_ai"
+    ],
+    "logo_path": "data/logos\\Datacurve_logo.png"
+}

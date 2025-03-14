@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/torpedo-therapeutics",
+    "name": "Torpedo Therapeutics",
+    "headline": "High-precision, closed-loop neuromodulation devices",
+    "batch": "W22",
+    "description": "We are building high-precision implantable neuromodulation devices that can sense and stimulate neural activity in the brain with the goal of transforming the efficacy and adoption of deep brain stimulation (DBS), an existing  FDA-approved therapy used to treat Parkinson\u2019s, essential tremor and epilepsy.",
+    "activity_status": "Active",
+    "website": "https://www.torpedotherapeutics.com",
+    "founded_date": 2018.0,
+    "team_size": 5.0,
+    "location": "Boston",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:neurotechnology; industry:medical-devices; industry:biotech; location:boston",
+    "founders": [
+        {
+            "name": "Ingrid van Welie, Founder",
+            "description": "Ingrid van Welie, PhD, is the Founder and CEO of Torpedo Therapeutics. Ingrid is a neuroscientist and biophysicist and is focused on developing and commercializing new technologies for sensing and modulating the electrical properties of neurons in the brain.",
+            "linkedin": "https://www.linkedin.com/in/ingrid-van-welie-28095423/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Torpedo Therapeutics: Revolutionizing Neuromodulation\n\n**Company Overview:**\nFounded in 2018, Torpedo Therapeutics is a Boston-based startup specializing in neurotechnology. As part of Y Combinator's W22 batch, they engage a nimble team of five dedicated employees. Their focus is on developing high-precision, closed-loop neuromodulation devices that enhance the efficacy and adoption of deep brain stimulation (DBS) therapies.\n\n**Mission:**\nTorpedo Therapeutics aims to transform the landscape of neurological disorder treatments by enabling high-precision and closed-loop deep brain stimulation therapy. They are working to refine existing FDA-approved therapies that currently help manage conditions like Parkinson's disease, essential tremor, and epilepsy.\n\n**The Problem:** \nDeep brain stimulation has been a lifesaver for many, yet it\u2019s not without its challenges. Current DBS technology often results in off-target stimulation\u2014where the electrodes affect neighboring brain areas, leading to side effects. The existing models also use continuous stimulation without the ability to adapt in real-time to brain activity, necessitating manual reprogramming that can be stressful for patients.\n\n**The Solution:**\nTorpedo Therapeutics is addressing these issues through innovative technology. By utilizing micro- and nano-fabrication technologies, they are creating electrodes that are much smaller and thus more precise than their predecessors. These electrodes can stimulate at the level of individual neurons, greatly reducing unwanted side effects while enhancing the therapeutic impact. \n\nMoreover, Torpedo is developing a closed-loop system that continuously senses brain activity during stimulation. This allows the device to automatically adjust stimulation parameters based on real-time data, reducing the need for patient reprogramming and conserving battery life in their devices.\n\n**Technological Edge:**\nTheir technology stands out because:\n- **High-precision stimulation:** The micro-electrodes are 150 times smaller than current ones, enabling targeted stimulation that minimizes collateral impact.\n- **Closed-loop sensing:** This system adjusts stimulation in response to brain activity, vastly improving efficacy and user experience.\n- **Automated data analysis:** By employing machine learning, the platform interprets neural data and makes predictive adjustments, which translates into a more tailored patient treatment.\n\nWith a mission to enhance the quality of life for those living with neurological disorders, Torpedo Therapeutics is set to make significant strides in the neuromodulation space. To learn more about their ground-breaking work, visit their [website](https://www.torpedotherapeutics.com). \n\nIn a field where innovation can redefine treatment approaches, Torpedo Therapeutics is definitely a company to watch.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/56f67af3590c933c661393ed73abec91d1826104.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192022Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=561a000c48367ef8a0e277e60a1666878f819148dd1b91a5a1fb9652de921ded",
+    "social_links": [
+        "https://www.linkedin.com/company/35666408",
+        "https://twitter.com/torpedotx"
+    ],
+    "logo_path": "data/logos\\Torpedo_Therapeutics_logo.png"
+}

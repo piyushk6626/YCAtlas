@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/axle",
+    "name": "Axle",
+    "headline": "Universal API for insurance",
+    "batch": "S22",
+    "description": "Axle is Plaid for insurance\u00a0- a universal API for insurance data. With Axle, companies can instantly verify insurance and monitor ongoing coverage, helping them reduce operational cost while creating a frictionless experience for users. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
+    "activity_status": "Active",
+    "website": "https://axle.insure",
+    "founded_date": 2022.0,
+    "team_size": 10.0,
+    "location": "New York",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:fintech; industry:b2b; industry:api; industry:insurance; location:new-york",
+    "founders": [
+        {
+            "name": "Cameron Duncan, Co-Founder & CEO",
+            "description": "I\u2019m passionate about solving problems at the intersection of business, technology, and design. Previously, I led a product team at Clutch (acquired by Cox Automotive) that enabled brands like Porsche deliver new ways to access and own vehicles.",
+            "linkedin": "https://www.linkedin.com/in/cam-duncan/"
+        },
+        {
+            "name": "Nihar Parikh, Founder",
+            "description": "I build tools to help developers abstract complex problems and focus on providing great experiences for their customers. Previously, I led product at a seed-stage devtools company and founded Emory\u2019s first startup accelerator.",
+            "linkedin": "https://www.linkedin.com/in/niharaparikh/"
+        },
+        {
+            "name": "Armaan Sikand, Founder",
+            "description": null,
+            "linkedin": "http://www.linkedin.com/in/armaan-sikand"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Axle: The Plaid for Insurance**\n\nFounded in 2022 and part of Y Combinator's Batch S22, Axle is carving out a unique niche as a universal API for insurance data\u2014think of it as Plaid, but for the insurance industry. Based in New York, this ten-member startup aims to simplify the burdensome task of insurance verification and monitoring, creating a frictionless experience for users while also slashing operational costs for businesses.\n\n### Mission and Proposition\nAxle's mission is straightforward: to democratize access to insurance data through a universal API. By allowing companies to instantly verify insurance coverage and keep tabs on ongoing policies, Axle empowers organizations to avoid costly lapses and improve compliance. Their approach not only reduces risks but also cultivates a seamless user experience.\n\n### Backing and Support\nWith backing from notable investors like Y Combinator and Gradient Ventures\u2014Google's venture arm focused on AI\u2014and industry heavyweights such as Plaid and Cox Automotive, Axle is well-positioned for growth and innovation.\n\n### Key Capabilities\nAxle offers a suite of capabilities designed to streamline insurance processes:\n- **Verification**: Instant access to insurance data directly from carriers.\n- **Policy Monitoring**: Real-time alerts for any changes to insurance policies.\n- **Document AI**: Extracts data from any insurance document effortlessly.\n- **Validation Engine**: Enhances decision-making by assessing whether policies meet specific requirements.\n\n### Interfaces and Solutions\nThe system is accessible through multiple interfaces, including:\n- **Axle Ignition**: A user-friendly consent interface for collecting and verifying data.\n- **API**: Direct integration of insurance data into existing applications.\n- **Dashboard**: For those seeking a straightforward setup without deep integration.\n\nAxle also tailors its solutions to specific industries, offering targeted services for:\n- **Rental Cars**: Verifying insurance for rental customers to mitigate losses.\n- **Dealership Sales**: Ensuring customer insurance meets lender and state requirements.\n- **Mortgage Origination**: Validating insurance policies ahead of closing deals.\n\n### Community and Growth\nAxle is already building partnerships with a diverse range of businesses in mobility, lending, and beyond, aiming to reshape the insurance landscape. They\u2019ve noted that they've been able to eliminate over $20,000 in potential damages due to improper coverage with their integration\u2014demonstrating the real-world impact of their API.\n\n### The Road Ahead\nWith a focus on user experience and operational efficiency, Axle is not just another tech startup; it's a significant player aiming to revolutionize how insurance data is accessed and managed. If you\u2019re an organization dealing with insurance in any capacity, getting familiar with what Axle has to offer could streamline your operations and elevate your customer experience.\n\nFor more details, visit [Axle's website](https://axle.insure).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/70927b31dc7ad6899cca010e2e40e2d5635df0f1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191015Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ed024402c6213baceb9f7d96f9c9a92819207d15330eedbd9cfcacd65f821ffc",
+    "social_links": [
+        "https://www.linkedin.com/company/axle-labs",
+        "https://twitter.com/axlelabs",
+        "https://www.crunchbase.com/organization/axle-f2b6"
+    ],
+    "logo_path": "data/logos\\Axle_logo.png"
+}

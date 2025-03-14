@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/trainy",
+    "name": "Trainy",
+    "headline": "Infrastructure for managing GPU clusters for training/serving.",
+    "batch": "S23",
+    "description": "Goodbye Slurm, Hello Konduktor.\r\n\nTrainy Konduktor is a software platform for AI teams to schedule workloads with priority, control resource allocation, and improve GPU reliability. With Konduktor, teams submit jobs to a healthy pool of GPUs, assign job priority with a simple user interface, and never worry about hardware faults again.",
+    "activity_status": "Active",
+    "website": "https://trainy.ai/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:machine-learning; industry:saas; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Roanak Baviskar, Founder",
+            "description": "Studied CS & Mathematics at UC Santa Cruz. Led Audio team at Hive AI, where we trained and deployed 500M parameter-scale models to production.",
+            "linkedin": "https://linkedin.com/in/roanakb"
+        },
+        {
+            "name": "Andrew Aikawa, Founder",
+            "description": "Co-founder and CTO at Trainy building a training platform to make deep learning go faster. Previously a lead Machine Learning Engineer for Hive AI's object detection products. I completed my Physics Ph.D. UC Berkeley '22 where my thesis focused on applying computer vision and deep learning on nanoscience. Physics & Computer Science B.A. UC Berkeley '17.",
+            "linkedin": "https://linkedin.com/in/asai"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Overview of Trainy**\n\nFounded in 2023 and based in San Francisco, Trainy is a promising startup that emerged from Y Combinator's Batch S23. The company initially branded itself as \"Goodbye Slurm, Hello Konduktor,\" signaling its ambitious aim to revolutionize GPU cluster management for AI workloads.\n\n**Mission & Product**\n\nTrainy\u2019s mission is clear: to build an infrastructure that simplifies the management of GPU clusters used for both training and serving AI models. At the heart of Trainy is its flagship product, **Konduktor**\u2014a software platform tailored for AI teams. This tool is designed to tackle some of the common pain points associated with GPU usage:\n\n- **Workload Scheduling**: Users can submit jobs to a robust pool of GPUs, prioritizing tasks through a user-friendly interface.\n- **Resource Allocation**: Konduktor empowers engineering leaders with control over resource distribution, job priorities, and usage visibility, thereby optimizing efficiency.\n- **Reliability**: The platform proactively monitors GPU health, mitigating issues with faulty hardware that have historically plagued AI training environments.\n\nTrainy emphasizes affordability and reliability, positioning itself as a more cost-effective alternative to traditional solutions like MosaicML. \n\n**Team & Support**\n\nTrainy's team is small, consisting of just two dedicated employees, but they are backed by notable support from Group Partner Diana Hu and investment firms like Y Combinator, Z Venture Capital, and Lynett Capital. This strategic backing underscores the confidence investors have in Trainy's vision and execution.\n\n**Target Audience & Impact**\n\nTrainy primarily targets AI development teams that require consistent and reliable access to GPU resources. Their product has already garnered positive testimonials from industry leaders, highlighting impressive gains in training efficiency\u2014claims include speeding up model training by a factor of four and enhancing scaling capabilities by over one hundred times.\n\n**How to Get Started**\n\nFor those interested in exploring what Trainy can offer, their website provides access to documentation, a blog, and a pathway to book a demo. You can find more at their website: [Trainy.ai](https://trainy.ai).\n\n**Final Thoughts**\n\nTrainy encapsulates a strong blend of innovation and practicality in the burgeoning field of AI infrastructure. By streamlining GPU management, they not only alleviate the overhead for AI teams but also enhance reliability and efficiency\u2014two critical factors in the fast-paced tech landscape. If you're in the AI space, it might be worth keeping an eye on what Trainy has to offer.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/36ab8dc4d2a50579b80b1b9c3d607c648cd8a2e0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192025Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=876a30bcd32d54d879e2e1815dbb06f6888b7033fe8d0d6443b34a57e53de59e",
+    "social_links": [
+        "https://www.linkedin.com/company/trainy-ai/about/",
+        "https://twitter.com/TrainyAI",
+        "https://github.com/Trainy-ai/"
+    ],
+    "logo_path": "data/logos\\Trainy_logo.png"
+}

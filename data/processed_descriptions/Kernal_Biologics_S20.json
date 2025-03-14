@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/kernal-biologics",
+    "name": "Kernal Biologics",
+    "headline": "Kernal is creating mRNA 2.0 therapies that work in specific cells",
+    "batch": "S20",
+    "description": "Kernal Bio creates mRNA 2.0 therapies that instruct specific cells on how to make their own medicine. Kernal Bio encrypts mRNA\u2019s \u201cmessage\u201d in a language that only cancer cells understand. These tumor-specific mRNA therapeutics allow precise targeting of cancer cells, without harming normal cells or tissues. They have recently been validated in preclinical tumor models, showing high efficacy and safety as well as durable adaptive immunity. With roots at MIT, Harvard and Biopharma, Kernal\u2019s management team has deep expertise in mRNA therapeutics space. CEO Yusuf Erkul, M.D., M.B.A. is a successful drug hunter whose research at Merck enabled an FDA-approved drug for ovarian cancer. President, Burak Yilmaz, M.S., previously founded Sentegen, a thriving synthetic biology company which commercializes synthetic DNA, RNA, and diagnostic kits for genetic and infectious diseases. VP of BD, Matt Strout, M.D. Ph.D., M.B.A, is a business development executive who led more than $4.5B worth of BD deals at Alexion and AstraZeneca. VP of R&D Manfred is a leader in immuno-oncology, who was most recently Scientific Senior Director at Bristol-Myers Squibb (BMS).",
+    "activity_status": "Active",
+    "website": "https://www.kernalbio.com/",
+    "founded_date": 2016.0,
+    "team_size": 20.0,
+    "location": "Cambridge, MA",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:biotech; industry:genomics",
+    "founders": [
+        {
+            "name": "Yusuf Erkul, Founder",
+            "description": "I'm co-founder and CEO of Kernal Biologics, a Cambridge, MA-based biotech startup developing next-generation messenger RNA immunotherapy. Backed by Hummingbird, Amgen, HBM, NASA, and Boeing, Kernal Bio raised a $25M Series A round. Early in my career, I worked  at Merck&Co. on the discovery and development of various oncology drugs, including ZEJULA\u00ae, which got FDA approval for ovarian cancer. I hold an executive MBA from MIT Sloan, an M.D. from Hacettepe Univ. and a B.S. in Biology from MIT.",
+            "linkedin": "https://www.linkedin.com/in/yusuf-erkul-b23b4516/"
+        },
+        {
+            "name": "Cafer Ozdemir, Founder",
+            "description": "I got PhD in Molecular Genetics at UTSW Medical Center at Dallas. I moved to Boston for postdoctoral training at Harvard Medical School. I served as Biochemistry instructor at MIT. Then I joined Kernal as a co-founder.",
+            "linkedin": "https://www.linkedin.com/in/cafer-ozdemir-phd-22822321"
+        },
+        {
+            "name": "Burak YILMAZ, Founder",
+            "description": "My name is Burak Yilmaz, MS, co-founder, and lead designer of Kernal Biologics. As a synthetic biologist, I co-invented stealth and onco-selective mRNA platform technology in Kernal. Kernal is my second endeavor. Previously, I  founded Sentegen/Sentebiolab which is a synthetic biology company that produces synthetic DNA for research and diagnostic purposes.",
+            "linkedin": "http://linkedin.com/in/burak-yilmaz-84400730"
+        }
+    ],
+    "status": true,
+    "generated_description": "Kernal Biologics is a pioneering biotech company based in Cambridge, MA, with a mission to revolutionize cancer therapy through what's called mRNA 2.0. Founded in 2016 and part of the Y Combinator Batch S20, Kernal aims to develop therapies using messenger RNA that communicate with specific cells\u2014namely, cancer cells\u2014so they can produce their own medicine while sparing healthy tissue. The clever part? Kernal\u2019s mRNA is \"encrypted\" in a way that only cancer cells can understand, allowing for targeted treatment without collateral damage.\n\nThe team at Kernal combines rich expertise from top institutions like MIT and Harvard, alongside significant biopharma experience. CEO Dr. Yusuf Erkul brings a successful history as a drug hunter, having contributed to an FDA-approved ovarian cancer treatment during his time at Merck. President Burak Yilmaz previously founded Sentegen, a synthetic biology venture, while VP of Business Development Matt Strout has a track record of over $4.5 billion in deals from his time at Alexion and AstraZeneca. R&D VP Manfred's leadership in immuno-oncology, honed at Bristol-Myers Squibb, adds further depth to their research capabilities.\n\nRecent preclinical models have validated Kernal's therapeutic approach, demonstrating both high efficacy and safety, as well as long-lasting adaptive immunity\u2014an encouraging sign for future applications in cancer treatment. With a small but mighty team of 20, Kernal is poised to make waves in the field of oncology and immunology.\n\nFor more about their technology, pipeline, or career opportunities, check out their website at [Kernal Biologics](https://www.kernalbio.com). They\u2019re not just working on biotech; they're paving the way for the next generation of precision medicine.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bca5a86606bfa5e5179a93dede71659031cb1a62.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191449Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2de975e007651d481700d8d8fc5a8859418922614c82e983485b1490434702e8",
+    "social_links": [
+        "https://www.linkedin.com/company/kernal-biologics-inc./",
+        "https://twitter.com/kernalbio",
+        "https://www.facebook.com/KernalBiologics-1770335909881227/",
+        "https://www.crunchbase.com/organization/kernal-biologics"
+    ],
+    "logo_path": "data/logos\\Kernal_Biologics_logo.png"
+}

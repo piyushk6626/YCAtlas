@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/hubble-network",
+    "name": "Hubble Network",
+    "headline": "Bluetooth to Space",
+    "batch": "W22",
+    "description": "Hubble is building a global satellite network that any Bluetooth-enabled device can connect to, even without cellular reception.  Our mission in life is to get a billion devices connected to the network and unlock a new era of human-machine collaboration.",
+    "activity_status": "Active",
+    "website": "https://hubblenetwork.com",
+    "founded_date": 2021.0,
+    "team_size": 20.0,
+    "location": "Seattle, WA",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:hard-tech; industry:hardware; industry:iot; industry:satellites; location:seattle",
+    "founders": [
+        {
+            "name": "Alex Haro, Founder",
+            "description": "Cofounder: Life360\nCofounder: Hubble Network",
+            "linkedin": "https://www.linkedin.com/in/alexanderharo/"
+        },
+        {
+            "name": "John Kim, Founder",
+            "description": "Background in spacecraft design, regulatory affairs, and early stage operations--launched over $1B in space hardware throughout career including four geostationary communication satellites and an experiment to the ISS on Space Shuttle Endeavour's final flight. Deep-space-tech enthusiast, always looking for the next paradigm-shifting space technology.",
+            "linkedin": "https://www.linkedin.com/in/johnsflk/"
+        },
+        {
+            "name": "Ben Wild, Founder",
+            "description": "Background in Electrical Engineering with a focus on wireless communications, signal processing and robotics. Most recently worked at Amazon where I invented and was the product manager for the Amazon Sidewalk wireless IoT network and the Ring Always Home Cam.",
+            "linkedin": "https://www.linkedin.com/in/ben-wild-72131b3"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Hubble Network: Connecting Bluetooth to Space\n\nFounded in 2021 and part of Y Combinator\u2019s Batch W22, Hubble Network is a Seattle-based startup on a groundbreaking mission: to connect a billion Bluetooth-enabled devices directly to a global satellite network\u2014essentially, \u201cBluetooth to Space.\u201d With a small but dedicated team of 20, Hubble is reshaping the Internet of Things (IoT) landscape by bridging the gap between everyday devices and satellite connectivity, even in the absence of cellular networks.\n\n#### What They Do\n\nHubble Network simplifies the connection to space for wireless devices. The secret sauce? Off-the-shelf Bluetooth chips. Instead of relying on proprietary modems or custom hardware, users can simply upload Hubble's firmware to their existing devices to access global satellite communications. The array of potential applications is vast, including:\n\n- **Asset Tracking**: Attach a BLE chip to any item and track its location affordably, globally.\n- **Wildfire Detection**: Use integrated temperature sensors to alert you of fire risks from remote areas directly to satellites.\n- **Fleet Management**: Move beyond traditional tracking services with Hubble\u2019s efficient solutions for managing heavy equipment and deliveries.\n- **Environmental Monitoring**: Collect high-quality environmental data in even the most remote locations, without extensive infrastructure.\n\nWith a focus on sectors like agriculture, environmental monitoring, smart buildings, and logistics, Hubble is geared towards enabling IoT applications that were previously impractical at scale.\n\n#### Why It Matters\n\nImagine if every package shipped, every piece of machinery operating in the field, or even every wildfire risk could be monitored from space. That\u2019s the ambition of Hubble Network. They\u2019re not just pushing the boundaries of IoT; they\u2019re unlocking an entire ecosystem of human-machine collaboration. By enabling a global, satellite-connected network with just Bluetooth, they're set to create a new era for both businesses and consumers who depend on real-time information.\n\nUnder the leadership of Diana Hu and with its innovative tech, Hubble Network is poised to gain traction in an expanding market. If successful, they won\u2019t just revolutionize tracking and monitoring but also catalyze new economic opportunities across numerous industries.\n\nFor more information, check out their website at [Hubble Network](https://hubblenetwork.com). This is a startup to watch as they aim for the stars, or rather, the satellites.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5bddc425401c34aa5215b23a544625c143ed92cc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191423Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=131b3b1386dce6352ac3406a188e3495de516375badc7ded7bc92ad5b6ae1d56",
+    "social_links": [
+        "https://www.linkedin.com/company/hubblenetwork/",
+        "https://twitter.com/hubble_network"
+    ],
+    "logo_path": "data/logos\\Hubble_Network_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/contalink",
+    "name": "Contalink",
+    "headline": "We help Accountants automate work and serve their customers online",
+    "batch": "S21",
+    "description": "Contalink is a SAAS  to help accountants in Mexico automate bookkeeping and serve their clients online. We help accountants do bookkeeping 5x faster..",
+    "activity_status": "Active",
+    "website": "https://www.contalink.com/",
+    "founded_date": 2019.0,
+    "team_size": 28.0,
+    "location": null,
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Eduardo Williams, Founder",
+            "description": "Contalink cofounder and CEO",
+            "linkedin": "https://www.linkedin.com/in/eduardowilliams/"
+        },
+        {
+            "name": "Carlos Salinas, Founder",
+            "description": "CTO at Contalink.",
+            "linkedin": "https://www.linkedin.com/in/carlos-salinas-a83a9493/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Contalink: Revolutionizing Accounting for the Digital Age**\n\nFounded in 2019 and a proud member of Y Combinator Batch S21, Contalink is a forward-thinking SaaS company based in Monterrey, Mexico. Their mission? To empower accountants by automating bookkeeping tasks and enhancing their ability to serve clients online. With a lean yet effective team of 28, led by Group Partner Diana Hu, Contalink is already making waves in the accounting world, helping accountants work **five times faster**.\n\n### Pain Points Addressed\nThe old way of manual bookkeeping is tedious and error-prone. Accountants spend countless hours sifting through documents, reconciling accounts, and keeping up with regulations. Contalink tackles these inefficiencies head-on by providing a cloud-based accounting solution that integrates seamlessly with the Mexican tax authority, SAT. The result is an impressive **80% reduction in time spent** on repetitive tasks.\n\n### Key Features\n1. **Automated Document Processing**: Accountants can automatically classify sales, expenses, and payroll documents, generating adjustments from them with ease.\n2. **Client Financial Dashboards**: Clients can access their financial health through intuitive dashboards, keeping them informed regardless of location.\n3. **Effortless Updates**: Contalink handles all updates and backups in the cloud, so users don\u2019t have to worry about software maintenance.\n4. **Training and Support**: Comprehensive online support is offered free of charge, ensuring that accountants can maximize their use of the platform.\n\n### Pricing Plans\nContalink keeps it straightforward with two pricing tiers:\n- **Pro Plan**: $590/month (discounted to $295 for the first three months) \u2014 Includes automatic downloads from SAT, financial reporting, tax calculations, and more.\n- **Premium Plan**: $990/month (discounted to $495 for the first three months) \u2014 Adds features like unlimited payroll processing and advanced client document management.\n\nBoth plans cater to independent accountants, accounting firms, and financial departments of SMEs.\n\n### Security and Reliability\nContalink employs Amazon Web Services (AWS) to host its platform, ensuring the highest levels of security and reliability, a crucial factor for sensitive financial data.\n\n### Why Contalink?\nFor accountants looking to streamline their practices and offer superior client service, Contalink represents a significant step forward. It's not just about saving time \u2014 it's also about enabling accountants to focus on what truly matters: advising their clients and growing their businesses.\n\nSo, if you're ready to transform your accounting practice, consider checking out [Contalink](https://www.contalink.com/). Their innovative tools are shaping the future of accounting, and who wouldn\u2019t want to be part of that?",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bcdd9a77519849f4ebd75e9a20edbedfe11a9a56.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191102Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=eaafb9d01feaf44cbb08e1d7b4e4c0777746f74dbd399f45f3360cfde0cb0f67",
+    "social_links": [
+        "https://www.linkedin.com/company/contalink",
+        "https://twitter.com/contalink",
+        "https://web.facebook.com/contalink",
+        "https://www.crunchbase.com/organization/contalink"
+    ],
+    "logo_path": "data/logos\\Contalink_logo.png"
+}

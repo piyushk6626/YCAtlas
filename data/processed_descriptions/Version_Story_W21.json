@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/version-story",
+    "name": "Version Story",
+    "headline": "GitHub meets Figma for documents",
+    "batch": "W21",
+    "description": "Version Story organizes a document's history and generates comparisons in a way that is simple and intuitive. It is built to fit seamlessly into your workflow.\r\n\nLawyers, publishers, content creators, academic researchers, documentation-writers, and ops teams use Version Story to compare, track, and merge documents with ease.\r\n\nVersion Story supports comparisons and merging of multiple Word (.doc, .docx), Google Docs, and PDF files.",
+    "activity_status": "Active",
+    "website": "https://versionstory.com/",
+    "founded_date": 2021.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:legal; industry:legaltech; location:new-york",
+    "founders": [
+        {
+            "name": "Kevin O'Connell, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/kkoconnell/"
+        },
+        {
+            "name": "Jordan Bryan, Founder",
+            "description": "Building git for documents.",
+            "linkedin": "https://www.linkedin.com/in/jordanpbryan/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Version Story: A Seamless Document Comparison Tool**\n\nFounded in 2021 and part of Y Combinator's Winter 2021 batch, Version Story is changing how we approach document management\u2014think of it as GitHub meets Figma for documents. Based in New York and consisting of a focused two-person team, their mission is to simplify the workflow for professionals who need to compare, track, and merge documents efficiently.\n\n**Why Version Story?**\n\nThe platform stands out for its intuitive design and ease of use. Whether you're a lawyer, a publisher, or a documentation writer, Version Story allows you to quickly compare Word, Google Docs, and PDF files, ensuring that you can spot changes with minimal hassle. With features like bulk redlining and document merging, it saves users valuable time, transforming tedious document revisions into a smoother process.\n\n**Key Features**:\n\n1. **Visual Redlining**: Version Story takes the pain out of redlining by providing a clear visual approach to highlighting changes, making comparison easy and satisfying.\n   \n2. **Bulk Comparisons**: You can run one-to-many redlines, allowing for quick assessments of multiple documents simultaneously.\n   \n3. **Document Merging**: Merge various documents into a single track-changes draft seamlessly.\n   \n4. **Revision History Tracking**: This feature allows users to trace document evolution, making it easier to see what has changed over time.\n\n**Enterprise-Ready**: \n\nVersion Story boasts robust security measures, including integrations with document management systems like NetDocs and iManage, ensuring that sensitive information avoids unnecessary risks. Plus, users gain control over access and data retention, which is critical in today's data-driven landscape.\n\n**Who Uses Version Story?** \n\nThe product attracts a wide range of professionals such as lawyers, academic researchers, and operations teams\u2014all looking to enhance their document workflow efficiency. Users report significant time savings, with one, Mitch Khurin from Hamilton Zanze, stating it saves him \"hours of work and headache\" every time he uses it.\n\n### In Summary:\n\nVersion Story isn\u2019t just another SaaS tool\u2014it\u2019s designed specifically for those who deal with heavy document usage, particularly in the legal and academic sectors. With its straightforward functionality and emphasis on visual clarity, Version Story makes you wonder how you ever managed without it.\n\n**Visit [Version Story](https://versionstory.com/)** to learn more and try it for yourself.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dc1937cf7dd84744e583918e593438d50af03610.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192046Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=faacca32e42d0a224267c241e8320d68bb6b167588e50ab20d8243e7dac6c818",
+    "social_links": [
+        "https://www.linkedin.com/company/version-story/"
+    ],
+    "logo_path": "data/logos\\Version_Story_logo.png"
+}

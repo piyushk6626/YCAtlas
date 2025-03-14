@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/cairns-health",
+    "name": "Cairns Health",
+    "headline": "Your voice. Your health. We care.",
+    "batch": "S17",
+    "description": "Cairns Health is creating a fundamentally better healthcare experience for people with chronic health conditions and those who care for them. We make healthcare more accessible by simplifying complex care plans, connecting care teams and meeting patients where they live. Through our conversational AI, patients use their voice to interact with our digital care companion, who proactively gives medication reminders, symptom checks, behavioral nudges and even engages in friendly conversation to ease loneliness. Cairns uses a device that includes radar to put the patient in context and passively monitors their activities, including: heart rate, breathing rate and sleep stages, all without a wearable. The result is informed and timely intervention that drives improved clinical outcomes, reduced care delivery costs and a more satisfactory healthcare experience for all.",
+    "activity_status": "Active",
+    "website": "https://www.cairns.ai",
+    "founded_date": 2017.0,
+    "team_size": 17.0,
+    "location": "Sunnyvale, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hardware; industry:machine-learning; industry:consumer-health-services; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Brad Eckert",
+            "description": "Founder/CTO of Woz. Prev Founder & leader of >30 person engineering team at Cairns Health (YC S17, formerly Totemic). Built deep learning radars in consumer electronics for the home environment and an LLM enabled cure for chronic insomnia. MIT EECS, AI Masters dropout, co-author on 25+ patents.",
+            "linkedin": "https://www.linkedin.com/in/bradleymeckert/"
+        },
+        {
+            "name": "Kiran Joshi",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/kiran-joshi-2b11ab4"
+        },
+        {
+            "name": "Neal Khosla",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/nealkhosla/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Cairns Health, founded in 2017 and emerging from Y Combinator's S17 batch, is redefining the healthcare experience for individuals with chronic health conditions and their caregivers. Their mission\u2014\"Your voice. Your health. We care.\"\u2014is central to how they approach healthcare: by making it more accessible and less daunting.\n\nLocated in Sunnyvale, CA, Cairns Health employs a nimble team of 17 and leverages advanced technology to create a digital care companion that interacts with patients through conversational AI. This system simplifies complex care plans, connects care teams, and meets patients right where they live. One of their standout features is a radar-based monitoring device that continuously tracks vital metrics\u2014like heart rate and sleep stages\u2014without the need for wearables. This means proactive, informed interventions that enhance clinical outcomes and patient satisfaction while trimming care delivery costs.\n\nCairns Health\u2019s solution isn\u2019t just about monitoring health; it\u2019s about fostering engagement. Patients, like Jane, can use their voice to manage medications, receive behavioral nudges, and combat feelings of isolation through friendly conversation. For caregivers, like Max caring for his mother, Cairns provides updates and peace of mind. And for clinical teams, it alleviates workload pressures by streamlining communication and care coordination.\n\nThe company is deeply committed to improving healthcare for all stakeholders\u2014from individual patients to health systems and families\u2014by integrating smart technology into everyday routines. Additionally, their involvement with the American Heart Association's Innovators' Network speaks volumes about their commitment to collaboration and innovation.\n\nIn summary, Cairns Health is not merely a tech company; it\u2019s a player in an essential industry, taking bold strides toward improving how care is delivered, making it more user-friendly, and putting the power back into the hands of patients. They are on a mission to build a future where healthcare feels accessible, personalized, and human-like. If you're interested, you can learn more at [Cairns Health](https://www.cairns.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6f4bbf6df95beb1fc3244b7c689ee93446ab5414.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0b4300f6f5611fd11cb11f993150a344a9bf263d05800d8eb0f15a159c71aaca",
+    "social_links": [
+        "https://www.linkedin.com/company/cairnshealth"
+    ],
+    "logo_path": "data/logos\\Cairns_Health_logo.png"
+}

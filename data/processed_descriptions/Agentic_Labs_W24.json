@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/agentic-labs-2",
+    "name": "Agentic Labs",
+    "headline": "AI system design tools for dev teams",
+    "batch": "W24",
+    "description": "Agentic Labs is making software design and architecture less painful by building AI into the process. Today, developers have no shortage of tools for instantly creating chunks of code, but designing the systems that integrate this code is the hardest and most manual part of software engineering.\r\n\nOur first product is Glide, an AI-first editor purpose-built for writing technical design docs. It connects to your codebase and saves your engineering team time on triage, planning, and implementation of complex code changes.",
+    "activity_status": "Active",
+    "website": "https://agenticlabs.com",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; location:new-york",
+    "founders": [
+        {
+            "name": "Maksim Ivanov, Founder",
+            "description": "Building self-assembling software. Previously at hedge funds and doing ML research",
+            "linkedin": "https://linkedin.com/in/maksivanov"
+        },
+        {
+            "name": "Robert McKnight, Founder",
+            "description": "Worked on self-driving cars at Tesla and self-driving tractors at John Deere, with a detour to Bain for consulting after business school. Electrical Engineering and Computer Science (EECS) and Mechanical Engineering degrees from UC Berkeley and an MBA from Harvard Business School.",
+            "linkedin": "https://linkedin.com/in/robmcknight"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Agentic Labs: Transforming Software Design with AI**\n\nFounded in 2023 and based in New York, Agentic Labs is on a mission to simplify the complex world of software design and architecture. The company\u2019s focus is to integrate artificial intelligence into the development process, aiming to alleviate the challenges developers face when crafting systems that effectively incorporate individual code pieces. \n\nTheir flagship product, **Glide**, is an AI-first editor designed specifically for writing technical design documents. It connects directly to your codebase, streamlining the process of triage, planning, and implementing complex changes. In a landscape where coding tools abound but system integration remains labor-intensive, Glide offers a refreshing approach by saving engineering teams valuable time and effort.\n\n### Key Features of Glide:\n- **Instant Documentation:** Automatically generate up-to-date documentation for your entire codebase in a matter of minutes, ensuring no more outdated docs.\n- **AI-Driven Insights:** Quickly answer both specific file-level inquiries and high-level architectural questions, all while maintaining clarity in underlying documentation.\n- **Seamless Integrations:** Connect smoothly with popular platforms like GitHub, GitLab, and Bitbucket, allowing for secure version control of both code and documentation.\n- **Flexible Publishing:** Easily export documentation to platforms like Confluence or Gitbook, customizing the style to fit your company\u2019s branding.\n\nAgentic Labs is part of Y Combinator's Batch W24, gaining traction under the mentorship of notable investors, including Tom Blomfield. Despite its small team of just two employees, Agentic Labs is striving towards enabling software systems that can grow, adapt, and evolve\u2014all while ensuring engineers remain in control of the process.\n\nLooking ahead, the goal is clear: empower developer teams with AI tools that finally make software design less painful and more efficient. Curious to learn more or try out Glide? Check out [Agentic Labs](https://agenticlabs.com) for further insights and opportunities.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f3050ec220ec9bc5c424e2583f99e1115cebc020.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190949Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4ebb71ceff46674f41e7377d25763c6772ab648758438c14f51cec5479c17e17",
+    "social_links": [
+        "https://www.linkedin.com/company/agentic-labs/"
+    ],
+    "logo_path": "data/logos\\Agentic_Labs_logo.png"
+}

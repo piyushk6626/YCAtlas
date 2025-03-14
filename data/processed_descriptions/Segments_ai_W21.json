@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/segments-ai",
+    "name": "Segments.ai",
+    "headline": "Build better computer vision models by building better datasets",
+    "batch": "W21",
+    "description": "[Segments.ai](http://segments.ai/)\u00a0is helping robotics and automotive companies label their multi-sensor data for AI training and validation. Our platform enables customers to efficiently annotate their point cloud and image data, accelerating their path to autonomy.\r\n\nWe're a fast-growing, remote-first YC startup with a lean team and healthy runway. [Segments.ai](http://segments.ai/) is used by large organizations as well as innovative startups building the next generation of autonomous drones, delivery robots, self-driving cars, and more.",
+    "activity_status": "Active",
+    "website": "https://segments.ai",
+    "founded_date": 2020.0,
+    "team_size": 8.0,
+    "location": "Brussels, Belgium",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:deep-learning; industry:developer-tools; industry:computer-vision",
+    "founders": [
+        {
+            "name": "Otto Debals, Founder",
+            "description": "Studied mathematical & electrical engineering, and obtained a PhD in signal separation / multilinear algebra. During my PhD, launched Investimize (a financial robo-advisor) together with my current cofounder Bert and also pursued CFA level I. Spent 2 years afterwards as Associate at McKinsey & Company - supporting >15 projects across different functions, industries and regions. Launched Segments.ai in Jan 2020. Passionate about whisky, F1 and long-distance running!",
+            "linkedin": "https://www.linkedin.com/in/otto-debals/"
+        },
+        {
+            "name": "Bert De Brabandere, Founder",
+            "description": "Founder at Segments.ai, PhD from KU Leuven, Computer Vision and Machine Learning. All the way from Belgium.",
+            "linkedin": "https://www.linkedin.com/in/bert-de-brabandere/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Segments.ai: Building Better Datasets for Computer Vision**\n\nSegments.ai is a fast-growing, remote-first startup based in Brussels, Belgium, founded in 2020 and part of Y Combinator's W21 batch. With a lean team of eight, their mission is straightforward: to build better computer vision models by creating better datasets. This is particularly crucial in fields like robotics and automotive, where accurate data labeling is pivotal for AI training and validation.\n\n### What They Do\nSegments.ai specializes in multi-sensor data labeling, facilitating efficient annotation of point cloud and image data. This capability is essential for companies that are developing advanced technologies such as autonomous drones, delivery robots, and self-driving cars. Their platform allows users to annotate 3D and 2D data concurrently, which enhances workflow speed and ensures the consistency of the labeled data.\n\n### Products and Services\nThe platform supports various data labeling tasks, including:\n- **Multi-Sensor Labeling:** Users can label images and point clouds in a unified interface, improving annotation speed and accuracy.\n- **3D Point Cloud Labeling:** This feature supports complex object segmentation, cuboid annotations, and keypoints.\n- **2D Labeling:** For traditional image processing tasks, it includes bounding boxes, polygons, and keypoints.\n\nThey also integrate machine learning tools to assist with labeling, such as automated tracking and real-time interpolation for dynamic objects. This automation can significantly reduce the manual effort required, allowing teams to focus on higher-value tasks.\n\n### Target Industries\nSegments.ai serves a diverse array of sectors, including:\n- Autonomous vehicles and Advanced Driver-Assistance Systems (ADAS)\n- Off-road robotics\n- Delivery robotics\n- Autonomous public transportation\n- Maritime robotics\n\n### Team and Partners\nThe team at Segments.ai is backed by notable figures in the tech industry, including Harj Taggar as a Group Partner from Y Combinator. With a robust financial runway and a clear strategy, they're poised for further growth.\n\n### Why It Matters\nIn the era of AI, data quality is paramount. Segments.ai recognizes that to drive advancements in autonomous technology, high-quality, well-labeled datasets are essential. Their innovative approach not only accelerates the development of AI-driven applications but also sets a new standard for the data labeling industry.\n\nSegments.ai is a compelling choice for organizations looking to streamline their annotation processes and enhance the reliability of their AI models. They're not just building datasets; they're building the future of machine learning in complex environments.\n\nFor more information or to start a free trial, you can visit their website at [Segments.ai](https://segments.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bc7ff6a2131d17e0e59b7cdb865321474d1d2c63.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191914Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0d6acecdd8ef2034fbf1cdbc1491068ce5fad01e0cd769c27f673cb83e72c5fe",
+    "social_links": [
+        "https://www.linkedin.com/company/segmentsai/",
+        "https://twitter.com/SegmentsAI",
+        "https://www.crunchbase.com/organization/segments-ai",
+        "https://github.com/segments-ai"
+    ],
+    "logo_path": "data/logos\\Segments.ai_logo.png"
+}

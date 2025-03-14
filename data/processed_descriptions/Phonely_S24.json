@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/phonely",
+    "name": "Phonely",
+    "headline": "AI call centers",
+    "batch": "S24",
+    "description": "Phonely uses existing call recordings to create a 'AI vocal twin' that can answer customer support calls and match or outperform call center agents. On top of that we've built a Zapier like workflow that lets businesses connect to software or transfer calls just like a person would. Our platform sits on proprietary deterministic LLM that is both cheaper and more accurate than gpt-4o for call center inquiries.",
+    "activity_status": "Active",
+    "website": "https://phonely.ai",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Will Bodewes, Founder",
+            "description": "Will Bodewes is the co-founder and CEO of Phonely. \n\nPrior to starting Phonely, he was pursuing a PhD at the University of Melbourne researching applied artificial intelligence applications.  Before that, he founded an audio-tech startup that garnished celebrity engagement from Chance the Rapper, the band ASIA and more. During college, he competed in the NCAA's for XC skiing, and was one of the top ultra-endurance cyclists in the world.",
+            "linkedin": "https://www.linkedin.com/in/william-bodewes/"
+        },
+        {
+            "name": "Nisal Ranasinghe, Founder",
+            "description": "Nisal is the Co-founder and CTO of Phonely. With a background in Electronic and Telecommunications Engineering, he worked as a senior engineer in the AI team of a major telecommunications company for nearly three years, where he led projects on advanced AI solutions. Nisal then pursued a PhD at the University of Melbourne, focusing on explainable AI and AI for healthcare.",
+            "linkedin": "https://www.linkedin.com/in/nisalr"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Phonely**\n\n**Founded:** 2023  \n**Location:** Not specified  \n**Team Size:** 4 employees  \n**Y Combinator Batch:** S24  \n**Website:** [Phonely](https://phonely.ai)\n\n---\n\n**Mission:**  \nPhonely aims to revolutionize customer support by leveraging artificial intelligence, specifically through AI-driven call centers.\n\n---\n\n**What They Do:**  \nInitially, Phonely created an innovative solution using existing call recordings to construct an \"AI vocal twin.\" This advanced AI can handle customer support calls, matching or even outperforming human agents. The key features of their offering include:\n\n- **AI Vocal Twin Technology:** Mimics natural conversation patterns and can engage with customers just like a real agent.\n- **Workflow Automation:** Their platform features a Zapier-like functionality, enabling seamless integration and manipulation of various software tools and protocols, such as call transfers.\n- **Proprietary LLM:** Their deterministic large language model (LLM) is noted to be more cost-effective and accurate than alternatives like GPT-4, tailored specifically for call center queries.\n\n---\n\n**Features of the Platform:**\n\n1. **Voice Cloning Technology:** Offers over 100 natural-sounding AI voices, allowing for personalized interactions in multiple languages and accents.\n2. **Real-time Analytics:** The platform provides AI-driven insights and call summaries, optimizing interactions and strategies through data analysis.\n3. **Integrations:** Connects with common business tools (CRMs, billing systems, etc.) to streamline operations.\n4. **User-friendly:** Designed to empower businesses to scale from handling one call to managing millions\u2014efficiently and effectively.\n\n---\n\n**User Feedback:**  \nEarly users have described Phonely as a game-changer, dramatically simplifying their operations. As one test user put it, using Phonely feels \"like life on easy mode.\" \n\n---\n\n**Current Opportunities:**  \nPhonely invites businesses to start using its services for free, with the first 500 minutes complimentary. This makes it accessible for companies to test the waters without immediate investment.\n\n---\n\n**Conclusion:**  \nPhonely is at the forefront of transforming how businesses manage customer interactions, combining the speed of AI with human-like conversational skills to enhance the customer service landscape. As they continue to build and refine their technology, they position themselves as an indispensable partner for any organization looking to modernize their support systems.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bc181da5627e1bb7ae8c0e5fb3e12534c519b188.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191637Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6ebde60da4316717d7f40f609bdd8b6189567d2cd612605c42d1aa3860bc2bc7",
+    "social_links": [
+        "https://www.linkedin.com/company/phonely-ai/",
+        "https://x.com/phonely_ai",
+        "https://www.facebook.com/phonelyai",
+        "https://www.crunchbase.com/organization/phonely"
+    ],
+    "logo_path": "data/logos\\Phonely_logo.png"
+}

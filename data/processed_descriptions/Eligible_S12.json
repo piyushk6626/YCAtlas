@@ -1,0 +1,25 @@
+{
+    "links": "https://www.ycombinator.com/companies/eligible",
+    "name": "Eligible",
+    "headline": "Insurance Billing APIs for Healthcare Businesses",
+    "batch": "S12",
+    "description": "Eligible is the nation's first insurance billing platform built for builders. Founded in Mountain View California in 2011, Eligible's platform gives bootstrapping healthcare startups the scale of enterprise, and the Fortune 500s the agility of the hungry entrepreneur.  Eligible has been listed as one of Business Insider\u2019s 19 Hottest Startups to Watch and Katelyn has been featured in Forbes 30 Under 30 in Healthcare, Fast Company's Most Creative People in Business, and was named a Rising Star of Healthcare by Becker\u2019s IT & CIO Review.",
+    "activity_status": "Active",
+    "website": "https://eligible.com",
+    "founded_date": 2011.0,
+    "team_size": null,
+    "location": "NY",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:healthcare; industry:health-insurance",
+    "founders": [],
+    "status": true,
+    "generated_description": "**Company Overview: Eligible**\n\nFounded in 2011, Eligible is a pioneering technology company based in New York that has established itself as a leader in the healthcare billing space. It was birthed out of the necessity for a streamlined insurance billing process and has the distinction of being the nation's first insurance billing platform specifically tailored for builders. Originally hailing from Mountain View, California, Eligible made headlines as it emerged from Y Combinator\u2019s S12 batch, promoting innovation in healthcare. \n\n**Mission and Vision**\n\nEligible aims to deliver **Insurance Billing APIs** to healthcare businesses, empowering both startups and established enterprises to efficiently navigate the often cumbersome world of healthcare billing. Their mission is straightforward: help providers connect, automate, and revolutionize their insurance billing processes while retaining the agility and creativity of a startup.\n\n**Key Achievements**\n\nEligible has garnered recognition as one of Business Insider\u2019s \"19 Hottest Startups to Watch.\" Its founder, Katelyn, has made multiple influential lists, including Forbes\u2019 30 Under 30 in Healthcare, highlighting the company\u2019s impact and potential in the healthcare sector. \n\n**Products and Services**\n\nThe Eligible platform boasts a robust range of products designed to streamline insurance billing and patient clearance:\n- **Insurance Billing:** Automates the submission of claims to payers, tracks their status, and simplifies revenue cycle management. \n- **Patient Clearance:** Processes eligibility checks and insurance verifications to enhance patient experiences.\n\nEligible\u2019s API-first approach allows healthcare developers to effortlessly integrate billing experiences into their applications, providing solutions ranging from insurance verifications to filing claims.\n\n**Support and Accessibility**\n\nEligible offers two types of support plans: a free Basic plan for general account inquiries and an Enterprise support package which includes more specialized technical assistance. This tiered support system ensures that both fledgling startups and larger health organizations receive the help they need as they scale their operations.\n\n**In Summary**\n\nEligible represents a fresh perspective on how healthcare billing processes should function. By leveraging technology and fostering a client-centric approach, it aims to remove barriers and create an efficient, transparent billing environment. Through their commitment to innovation and excellence, Eligible is not just another tech startup; it\u2019s a critical player reshaping the healthcare landscape for the better. \n\nFor more information, visit their [website](https://eligible.com).",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.crunchbase.com/organization/eligible-api",
+        "https://github.com/eligible"
+    ]
+}

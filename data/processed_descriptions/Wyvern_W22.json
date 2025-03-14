@@ -1,0 +1,49 @@
+{
+    "links": "https://www.ycombinator.com/companies/wyvern",
+    "name": "Wyvern",
+    "headline": "High-res hyperspectral pictures of Earth from space",
+    "batch": "W22",
+    "description": "Wyvern is a space data company that will capture the highest resolution hyperspectral images from satellites that cost 100X less than satellites using traditional telescopes.",
+    "activity_status": "Active",
+    "website": "http://www.wyvern.space",
+    "founded_date": 2018.0,
+    "team_size": 26.0,
+    "location": "Edmonton, Canada",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:satellites; industry:climate",
+    "founders": [
+        {
+            "name": "Chris Robson, Founder",
+            "description": "Captains the [space] ship. MSc in orbital design and analysis, former AlbertaSat Project Manager, an expert in all things mechanical.",
+            "linkedin": "https://www.linkedin.com/in/christopherrjrobson/"
+        },
+        {
+            "name": "Kurtis Broda, Founder",
+            "description": "Space nerd. Passionate about building tech to help mitigate climate change.\n\nOutside of work, I am hiking and bicycling my way through life with my partner.",
+            "linkedin": "https://www.linkedin.com/in/kurtisbroda/"
+        },
+        {
+            "name": "Kristen Cote, Founder",
+            "description": "Kristen specializes in optical imaging technology and laser-based sensing & instrumentation.",
+            "linkedin": "https://www.linkedin.com/in/kristencote/"
+        },
+        {
+            "name": "Callie Lissinna, Founder",
+            "description": "Callie led in-orbit operations for the first made-in-Alberta satellite (launched 2017), accumulating over 100 hours of experience commanding the spacecraft in real time. She was Project Manager of the Ex-Alta 2 satellite mission at the University of Alberta for nearly 3 years, where she reported to the Canadian Space Agency and secured over $100k in grant funding for the mission as a student. She holds a BSc. Mechanical Engineering, Mathematics Minor.",
+            "linkedin": "https://www.linkedin.com/in/callielissinna/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Wyvern is a dynamic space data company revolutionizing the way we perceive Earth's surface through high-resolution hyperspectral imaging. Founded in 2018 and hailing from Edmonton, Canada, Wyvern emerged from the Y Combinator W22 batch with a bold mission: to capture the highest-resolution hyperspectral images of Earth from space at a fraction of the cost of traditional satellite technology\u2014up to 100 times cheaper.\n\nThe company boasts a team of 26 skilled employees, led by visionaries in the hard-tech and satellite sectors. With Aaron Epstein as their Group Partner, they are positioned at the intersection of technology and critical climate needs. Wyvern's imaging technology enables it to provide a groundbreaking spatial resolution of 5.3 meters and features 23 unique spectral bands, making their data invaluable for many applications.\n\nWhat separates Wyvern from many in the field is their commitment solely to data provision. They are not in the business of selling analytical solutions but focus on delivering high-quality, reliable, and affordable data for clients in various industries, including agriculture, mining, forestry, and defense. Their flagship product, the Dragonette satellite constellation, currently includes three satellites that take daily hyperspectral images of Earth, with plans for many more.\n\nWyvern is also deeply committed to accessibility and innovation. They've launched an Open Data Program to provide free hyperspectral imagery to expedite research and application testing. This initiative opens doors for businesses, researchers, and decision-makers to address environmental challenges with fresh insights.\n\nIf you're grappling with issues like crop classification, invasive species management, or mine reclamation, Wyvern\u2019s hyperspectral data could provide the clarity and precision you need. \n\nFor more information about their offerings, you can visit their website at [Wyvern](http://www.wyvern.space).\n\nIn a world where invisible problems often go unnoticed, Wyvern is revealing the hidden truths of our planet\u2014one image at a time.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/42cd1b56d7bb76b165d9d6bb6f74abc7c720b239.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192102Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2591613ae19164f7db2bb08f782b4c2a5a1b2ea0ad12c5381fc2244e8c4a08fd",
+    "social_links": [
+        "https://www.linkedin.com/company/wyvern-space/mycompany/?viewAsMember=true",
+        "https://twitter.com/WyvernSpace",
+        "https://www.facebook.com/WyvernSpace",
+        "https://www.crunchbase.com/organization/wyvern-d3f9"
+    ],
+    "logo_path": "data/logos\\Wyvern_logo.png"
+}

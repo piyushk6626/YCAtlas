@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/edgebit",
+    "name": "EdgeBit",
+    "headline": "Autofix your software dependencies",
+    "batch": "W23",
+    "description": "EdgeBit enables engineering teams to ship security updates 10x faster with confidence by automating dependency update analysis. Our platform turns weeks of manual review into minutes, helping teams find and fix security vulnerabilities while maintaining a secure, up-to-date software supply chain without compromising productivity.",
+    "activity_status": "Active",
+    "website": "https://edgebit.io",
+    "founded_date": 2022.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:devsecops; industry:b2b; industry:security; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Rob Szumski, Founder",
+            "description": "Rob Szumski is CEO and co-founder of EdgeBit, the security platform that secures your software supply chain by focusing on code that is actually running. EdgeBit simplifies vulnerability management as it cuts through noise that distracts engineers merging code.\n\nRob was an early employee of CoreOS (YC S13) which popularized the immutable operating system and propelled Kubernetes/container tech into the mainstream. CoreOS was acquired by Red Hat in 2018, where Rob was a Director of Product.",
+            "linkedin": "https://www.linkedin.com/in/robszumski/"
+        },
+        {
+            "name": "Eugene Yakubovich, Founder",
+            "description": "Eugene is a long time hacker who likes to work at the application / operating systems boundary. In the past, he designed the foundational layers for high-frequency trading, contributed to the container runtimes, and implemented graph algorithms for continent size road networks.\n\nLately he has been on a mission to secure workloads and in 2022 he teamed up with Rob and Russell to tackle the problem, starting with fixing the vulnerability fire hose.",
+            "linkedin": "https://www.linkedin.com/in/eugene-yakubovich-4640604/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**EdgeBit: Autofixing Your Software Dependencies**\n\nEdgeBit is a San Francisco-based startup that emerged from the Y Combinator Batch W23 in 2022. Their mission? To help engineering teams automate the often arduous task of managing software dependencies, especially in the realm of security updates. By enabling teams to ship security updates up to ten times faster, EdgeBit transforms what once took weeks of manual review into mere minutes\u2014a game changer for maintaining secure and up-to-date software supply chains.\n\n### What They Do\nAt the core of EdgeBit\u2019s platform is a sophisticated system that automates dependency update analysis. It allows engineering teams to not only identify security vulnerabilities but also find and apply fixes efficiently. With a team of five and backed by industry partnerships, EdgeBit integrates seamlessly into popular development environments, including GitHub and Kubernetes. Their platform offers robust features such as:\n- **Dependency Autofix:** Automatically keeps dependencies up-to-date using AI and static analysis.\n- **Vulnerability Scanning:** Continuously catalogs open-source usage and maps vulnerabilities to production environments.\n- **Vulnerability Management:** Prioritizes patches in a backlog to focus engineering efforts on impactful resolutions.\n\n### Key Features\nEdgeBit provides solutions tailored to specific frameworks and environments:\n- **GitHub Pipelines**\n- **Kubernetes**\n- **ECS & Containers**\n- Integration with project management tools like Jira and Vanta.\n\nTheir commitment to open source is evident, offering resources and projects on GitHub to empower developers and encourage community contribution.\n\n### The Bigger Picture\nWhat sets EdgeBit apart is their claim that most security tools identify issues but rarely offer solutions. Their platform not only highlights vulnerabilities but actively resolves them\u2014ensuring that security issues are found, fixed, and merged without overly complicating developers' workflows.\n\nEdgeBit is actively researching and expanding supply chain security, exploring projects such as real-time verification of software bills of materials (SBOMs) and enforcing compliance regulations through innovative technologies like eBPF.\n\n### Engagement and Accessibility\nWhether you're a developer drowning in vulnerability remediation or a manager looking to streamline compliance deadlines, EdgeBit is designed to make lives easier. They welcome inquiries and offer demos for those interested in integrating their solutions into existing workflows.\n\n**Explore more at [EdgeBit's website](https://edgebit.io)** and check out their community contributions on [GitHub](https://github.com/edgebitio). With EdgeBit, managing software dependencies just got a serious upgrade.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8d9718747b2775c102694c78db8d9dd40dade86a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191132Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0f481da839c6db0d2a3f93b6093b97b92d39c11501c7c3f835e615120ba0c7d3",
+    "social_links": [
+        "https://www.linkedin.com/company/edgebit/",
+        "https://twitter.com/EdgebitIO",
+        "https://github.com/edgebitio/"
+    ],
+    "logo_path": "data/logos\\EdgeBit_logo.png"
+}

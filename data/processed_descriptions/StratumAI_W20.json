@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/stratumai",
+    "name": "StratumAI",
+    "headline": "AI that tells mining companies where to mine to maximize profits",
+    "batch": "W20",
+    "description": "The mining industry drills narrow holes in the ground called drillholes to identify how much gold is in a ground at any spot. These holes are expensive so the industry uses statistical interpolation to predict what's in between these holes. Stratum replaces these traditional methods by utilizing deep learning to better predict both where to best drill and how much gold is in between these holes. This technology is not limited to gold and has been demonstrated to work on other metals, including base metals like copper. Based on Stratum's current pilots, our technology is projected to create ~10M in annual value for the average mine.",
+    "activity_status": "Active",
+    "website": "https://www.stratum.ai",
+    "founded_date": 2019.0,
+    "team_size": 5.0,
+    "location": "Toronto, Canada",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:climate; industry:mining",
+    "founders": [
+        {
+            "name": "Daniel Mogilny, Founder",
+            "description": "Daniel has significant experience in machine learning from several AI companies including rMarkBio, Sysomos, and a BaAS in Machine Intelligence from the University of Toronto. He is now the cofounder of Stratum, which uses AI to maximize mine production through better geological interpretation.\n\nI'm lucky enough to be born at the dawn of the next industrial revolution and my single objective in life is to bring AI into every walk of life from the mine on the tundra to the corn field of Iowa.",
+            "linkedin": "https://www.linkedin.com/in/danielmogilny"
+        },
+        {
+            "name": "Farzi Yusufali, Founder",
+            "description": "I'm a hardware engineer on paper, a quantum computing and ML engineer in practice, and a student of geology and mining. \n\nIn pursuing my goal of finding elegant solutions to tough problems, I've worked in the tissue engineering, photonics, retail and telecom fields. \n\nMy experiences are as straightforward as my hair.",
+            "linkedin": "https://ca.linkedin.com/in/farziyusufali"
+        }
+    ],
+    "status": true,
+    "generated_description": "### StratumAI: Revolutionizing Mining Through AI\n\nFounded in 2019 and part of Y Combinator's W20 batch, StratumAI is a Toronto-based company aimed at transforming the mining industry with innovative artificial intelligence solutions. Their mission is straightforward: to help mining companies pinpoint the most profitable drilling locations, thereby maximizing their returns.\n\n#### The Problem with Traditional Mining Approaches\n\nTraditionally, mining companies rely on narrow drillholes to assess the presence of gold and other valuable minerals. This method can be costly and time-consuming. Most companies use statistical interpolation to estimate the quantity of resources between these holes, which can lead to unpredictable results. \n\nStratumAI replaces these antiquated methods with sophisticated deep learning algorithms, resulting in more accurate predictions regarding both the best drilling locations and the quantities of minerals available. While the primary focus has been on gold, Stratum's technology has also been effective with other metals, including copper.\n\n#### Tangible Value Creation\n\nThe company's innovative approach has shown potential to generate around $10 million in annual value for the average mine through enhanced operational efficiencies. They accomplish this by creating detailed models that improve mine planning and grade control via machine learning.\n\n#### Key Benefits of StratumAI\u2019s Solutions:\n\n1. **Increased Average Ore Grade**: StratumAI can distinguish better between ore and waste, which allows for more refined extraction processes, enhancing the overall average grade of mined materials.\n  \n2. **Improved Mine Planning**: Their AI-driven models ensure that extraction efforts focus on economically viable areas, optimizing resource allocation and reducing waste.\n\n3. **Real-time Tracking and Corrections**: StratumAI\u2019s systems facilitate dynamic reconciliation of ore tracking, making adjustments easier and faster in the face of operational challenges such as dilution or miscalculations.\n\n4. **Enhanced Drilling Efficiency**: With more effective drill targeting enabled by their AI, companies can extract more useful data per drillhole, accelerating resource development.\n\n#### The Team and Vision\n\nStratumAI manages a lean team of five dedicated employees, collaborating closely with partner Nan, to execute their ambitious vision for the future of mining. The focus is decidedly on leveraging AI to create a low-risk, high-yield mining environment. \n\nIf you're interested in a future where mining is smarter, more efficient, and less wasteful, you might want to keep an eye on StratumAI as they continue to innovate and disrupt traditional practices in the industry.\n\nFor more information, visit their website: [StratumAI](https://www.stratum.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2b09b1223bbede68f3cbb43352f808a6173c5a2a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7e0ddec414db56bf6fcdf0033f723415f65c5474615c14240c20c8e5024d2313",
+    "social_links": [],
+    "logo_path": "data/logos\\StratumAI_logo.png"
+}

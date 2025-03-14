@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/aminoanalytica",
+    "name": "AminoAnalytica",
+    "headline": "Your biotech's first AI protein engineer",
+    "batch": "S24",
+    "description": "At AminoAnalytica, we specialize in AI-powered protein optimization. We\u2019re developing the world's first dedicated AI agent for protein engineering (or AI protein engineer, if you will) that integrates with 'human' bioengineering teams. Common protein engineering challenges like protein property enhancement \u2013 whether it's the stability of therapeutic peptides or the activity of industrial enzymes at high temperatures \u2013 can now be done semi-autonomously, at a fraction of the cost.",
+    "activity_status": "Active",
+    "website": "https://www.aminoanalytica.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:synthetic-biology; industry:biotech; industry:manufacturing; industry:climate; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Abhi Rajendran, CEO & Co-founder",
+            "description": "Materials Engineer from Imperial College London. I previously worked at the Mercedes Formula 1 Team and now work at the intersection of AI and Protein Design - there's a funny story in there somewhere.",
+            "linkedin": "https://linkedin.com/in/abhirajen"
+        },
+        {
+            "name": "Matteo Peluso, Founder",
+            "description": "Compute credits are all you need",
+            "linkedin": "https://linkedin.com/in/matteo-peluso-872b85199"
+        },
+        {
+            "name": "Adam Wu, CSO & Founder",
+            "description": "Materials scientist from Imperial College London. Previously done work on molecular simulations and in chemistry labs.\n\nShameless plug: check out 'adwuu' on spotify for a good time",
+            "linkedin": "https://linkedin.com/in/akhwu"
+        }
+    ],
+    "status": true,
+    "generated_description": "### AminoAnalytica: A Peek into the Future of Protein Engineering\n\nAminoAnalytica is a cutting-edge biotech startup founded in 2024, located in the heart of San Francisco. As part of the Y Combinator Batch S24, this small yet ambitious team of two is on a mission to revolutionize protein engineering by integrating artificial intelligence into the traditionally labor-intensive process.\n\nAt its core, AminoAnalytica aims to be \"your biotech's first AI protein engineer.\" They are developing an AI-powered platform to address common challenges in protein engineering, such as enhancing the stability of therapeutic peptides and improving the performance of industrial enzymes under various conditions. By utilizing advanced AI models and physics-based simulations, they promise to deliver significant improvements in protein properties while reducing costs and time compared to conventional methods.\n\nHere\u2019s what sets them apart:\n\n1. **State-of-the-Art AI Models**: Their proprietary pipelines outperform existing tools, promising tailored solutions with precision and reliability.\n\n2. **Custom Molecular Simulations**: By validating AI model outputs through physics-based simulations, they ensure real-world applicability without the initial high costs associated with lab testing.\n\n3. **Human-in-the-Loop Process**: Recognizing the complexity of protein engineering, AminoAnalytica emphasizes a collaborative approach between AI and human scientists, ensuring that human expertise directs every stage of the engineering process.\n\n4. **In-vitro Validation**: They propose to perform tests on top candidate proteins to confirm their improved properties, providing an extra layer of assurance.\n\nAminoAnalytica is not just about optimizing proteins; they position themselves as a partner that combines the efficiency of AI with the irreplaceable insight of human scientists. This approach signals a new era in biotech, where collaboration between man and machine creates possibilities that neither could achieve alone.\n\nIf you\u2019re curious about how AI can enhance your protein engineering efforts, or if you want to be part of this exciting journey, check out their website [AminoAnalytica](https://www.aminoanalytica.com) or reach out directly at founders@aminoanalytica.com.\n\nAs they say, the future of protein engineering is indeed AI\u2014a future that is knocking at your lab door, ready to change the game.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/856620e2a7e889e9003a72dc965900c5e66a4655.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190957Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7c4ea44aa0b7e8aa5a13237f656eadf3af8374aa4c469a450c4d5f84b76aa1b4",
+    "social_links": [
+        "https://www.linkedin.com/company/aminoanalytica/",
+        "https://x.com/aminoanalytica"
+    ],
+    "logo_path": "data/logos\\AminoAnalytica_logo.png"
+}

@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/decentro",
+    "name": "Decentro",
+    "headline": "API Platform for Banking Integrations (Plaid for India and APAC)",
+    "batch": "S20",
+    "description": "Almost every company that has to integrate with the legacy financial institutions, faces several challenges when it comes to the product cycle. Not only are the APIs and documentations less available, but they are also old school and ridden with errors and loopholes. \r\n\nOn top of that, the lack of a single point of contact from the underlying institutions, makes the already long integration cycle of 5 months feel like a temple run between different departments. And since those services break and update over time, you can imagine the nightmare in terms of coordination between the tech teams. \r\n\nWe are a full-stack platform where you can come, select your desired modules, play in the sandbox, and launch your product with the APIs and SDKs within a couple of weeks! Not only that, but we also take care of all upcoming fixes, iterations, and updates without breaking any flow.\r\n\nIt's that easy, as it should be. Welcome to the future.",
+    "activity_status": "Active",
+    "website": "https://decentro.tech",
+    "founded_date": 2020.0,
+    "team_size": 60.0,
+    "location": "Bengaluru, India",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:banking-as-a-service; industry:fintech; industry:api",
+    "founders": [
+        {
+            "name": "Rohit Taneja, Founder",
+            "description": "My aim in life is to contribute to the world by solving some of the toughest problems that exist. \n\nI believe that to run a technology venture, the culture needs to be set from the foundation and only a highly knowledgeable and passionate person can get it right. That is why I strive to be a polymath. \n\nThe domains that I am planning to work on (sequentially over the course of my lifetime) are - \n1. Digital payments \n2. Block-chain \n3. Sustainability & Climate Change",
+            "linkedin": "https://www.linkedin.com/in/rohit-taneja-69b30b13/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Decentro: Simplifying Banking Integrations for the Future**\n\nFounded in 2020 and part of Y Combinator's S20 batch, Decentro is revolutionizing the way financial services integrate with banking systems in India and the APAC region. Often compared to Plaid, but for the Indian market, Decentro offers a robust API platform that allows companies to seamlessly connect with legacy financial institutions, avoiding the proverbial temple run of bureaucratic red tape.\n\n### The Problem They Solve\nMany businesses looking to integrate with traditional banks face a daunting challenge: outdated APIs, incomplete documentation, and long integration timelines\u2014often stretching up to five months. Decentro recognized this pain point and created a full-stack platform that provides businesses with a suite of banking modules, enabling them to select, test, and deploy banking functionalities efficiently. \n\nGone are the days of frustration navigating through countless departments and dealing with constant updates and errors. With Decentro, clients can play in a sandbox environment, plug in the necessary APIs, and launch their financial products within weeks\u2014without worrying about future updates disrupting their workflow.\n\n### Key Offerings\nDecentro\u2019s platform includes a variety of features aimed at simplifying banking services:\n\n- **Payments**: Solutions for payment collections, settlements, UPI payment gateways, and automated payouts.\n- **Banking-as-a-Service**: Comprehensive offerings that include KYC onboarding, customer identity verification, and financial data retrieval.\n- **Resource Management**: Tools for vendor onboarding, credit bureau checks, and various verification APIs.\n\n### Achievements & Recognition\nOperating out of Bengaluru with a team of 60, Decentro has quickly made its mark, processing over $5 billion annually across more than 200 million API transactions. This momentum has attracted over 1,200 businesses globally, clearly indicating market trust and validating their model. Their ease of use and customer-first approach have received accolades, and they are recognized in the financial technology space for their innovative solutions.\n\n### The Future\nAs Decentro continues to grow, it represents a paradigm shift in how financial integrations are approached. Their mission is straightforward: \"It\u2019s that easy, as it should be. Welcome to the future.\" Whether you\u2019re a startup looking to launch a fintech product or an established firm seeking to innovate within your existing infrastructure, Decentro aims to accelerate that journey, making banking integrations a breeze.\n\nFor more information and to explore their offerings, visit [Decentro's website](https://decentro.tech).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7e1356cd0c8b9c2988c0bf3237aca5109cd9b3ce.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191114Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e17c876c3ff353d4abe159c5b5e70bd3aa24fea285fb95cd4c4cc4c8c7787417",
+    "social_links": [
+        "https://www.linkedin.com/company/decentro/",
+        "https://twitter.com/DecentroTech",
+        "https://facebook.com/Decentro-104637704449006/",
+        "https://www.crunchbase.com/organization/decentro"
+    ],
+    "logo_path": "data/logos\\Decentro_logo.png"
+}

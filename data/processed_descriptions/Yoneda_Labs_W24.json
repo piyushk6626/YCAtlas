@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/yoneda-labs",
+    "name": "Yoneda Labs",
+    "headline": "Foundation Model for Chemical Manufacturing",
+    "batch": "W24",
+    "description": "Yoneda Labs provides software to help chemists optimise reactions. When chemists make a drug or a material, we help them figure out the best reaction parameters such as temperature, concentration and catalyst.\r\n\nWhen Jan was working at chemical labs, he experienced the struggle of spending weeks guessing reaction conditions. We then started experimenting with ML to speed up the process.\r\n\nNow, as a team of three friends from the University of Cambridge, we\u2019ve spent the last month combining our domain expertise in Computer Science, Machine Learning and Chemistry to develop state of the art models for reaction optimisation.\r\n\nAlthough ML is becoming well established in other fields, current chemical models generalise poorly and require lots of programming experience. We make our models easily accessible to chemists in the lab.\r\n\nFinding the right conditions quickly allows pharmaceutical companies to test more drugs, and finding better optima makes manufacturing process cheaper and more environmentally friendly.",
+    "activity_status": "Active",
+    "website": "https://www.yonedalabs.com",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Micha\u0142 Mge\u0142adze-Arciuch, Founder",
+            "description": "Micha\u0142 is the Co-Founder and CEO of Yoneda Labs.\n\nMicha\u0142 studied Computer Science at the University of Cambridge. He has strong software engineering and Artificial Intelligence experience having worked at Jane Street and Berkeley AI Research.",
+            "linkedin": "https://linkedin.com/in/michal-mgeladze-arciuch"
+        },
+        {
+            "name": "Jan Oboril, Founder",
+            "description": "Jan is the Co-Founder and Chief Scientist at Yoneda Labs.\n\nJan studied Chemistry & Biology at the University of Cambridge. Has worked at Bayer and as a research chemist for institutes in Czechia and Austria. He has a lot of experience designing ML models to solve problems in Chemistry and Biology, most notably he designed and sold a model for cell segmentation. He scored 8th/10th/11th at the international Chemistry Olympiad.",
+            "linkedin": "https://linkedin.com/in/jan-oboril-819b44225"
+        },
+        {
+            "name": "Daniel Vlasits, Founder",
+            "description": "Daniel is the Co-Founder and CTO at Yoneda Labs\n\nDaniel studied Computer Science at the University of Cambridge. He has strong software engineering experience having been a software engineer at Cisco, Optiver and a programming languages researcher at the University of Cambridge. \n\nHe won first place at the international robotics competition Pi Wars, and ranked 5th in the Cambridge Computer Science cohort.",
+            "linkedin": "https://linkedin.com/in/danielvlasits"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Yoneda Labs: Revolutionizing Chemical Manufacturing with AI**\n\nYoneda Labs, founded in 2023 and part of the Y Combinator Batch W24, is a dynamic startup on a mission to transform chemical manufacturing through a foundation model designed specifically for this space. It emerged from the experience of its co-founder Jan, who, while working in chemical labs, encountered the frustrating reality of spending weeks trying to determine optimal reaction conditions for drug and material synthesis. This common struggle led him and his friends from the University of Cambridge to leverage machine learning in a bid to streamline and enhance the process.\n\nThe crux of what Yoneda Labs does is providing software that allows chemists to optimize reactions efficiently. Their models are aimed at simplifying the complex task of figuring out the best reaction parameters\u2014like temperature, concentration, and catalysts\u2014allowing chemists to focus more on innovation rather than trial and error.\n\n**Why Yoneda Labs Matters**\n\nIn many industries, including pharmaceuticals and chemical manufacturing, the existing machine learning models haven't lived up to their promise\u2014they generalize poorly and often require extensive programming skills. Yoneda tackles this head-on by creating user-friendly models that chemists can access directly in the lab. This accessibility is a game changer. Their technology not only speeds up the process but also helps companies test more drugs and improve their manufacturing processes, leading to cost reductions and lower environmental impacts.\n\n**The Team and Backing**\n\nWith a compact team of just three talented employees, Yoneda Labs combines expertise in Computer Science, Machine Learning, and Chemistry. Their work is backed by reputable firms, including Y Combinator and Khosla Ventures, highlighting the confidence investors have in their vision.\n\n**Key Features Offered by Yoneda Labs**\n\n1. **Predict**: Enhances the ability to predict reliable conditions for novel reactions, accelerating the nomination of lead compounds significantly.\n2. **Optimize**: Provides insights that can save millions on large-scale projects, pinpointing optimal process conditions much faster.\n3. **Analyze**: Automates the tedious task of LCMS (Liquid Chromatography\u2013Mass Spectrometry) data analysis, saving valuable time in the lab.\n\nOverall, Yoneda Labs is making strides in an area that should have seen progress long ago. By integrating advanced machine learning techniques with practical chemistry, they're not just facilitating research; they're enabling breakthroughs in medicine and manufacturing that have broad implications. \n\nFor more details, check out their website: [Yoneda Labs](https://www.yonedalabs.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a7b9c0a2fba55aacfe0a52625fb501f59a851c91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAFJSOQ65W%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192105Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDHe2krNA4Wz4ZdbboNJG%2B0zG6MmRspOJ5Kex%2FWuhFzDwIhAK4JNrLJx7V6Lp69aumcmLj570j2DR2Eh3hPcEuQGW3%2FKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgweLBjNRNugVRDPT8gqwgPiLGnMwjgQOiNH7FMTInTVKCCJLDe5fdDWlactIzRh2XOtRjauQZptst9ejdBs3vj590lIr07sFFKCWuGV%2B%2BJkmRqS%2BXBC6caH3J97%2FH7W3ch4kKAyKE3TuVCMVl%2BqNFww29jX%2BimNvDUNvCgQtjVE03FWSnfbJrDf3NUx8wttW6l2EC5fgOealDp0Ne7xA51qGtDKfIYSJUUyj6d2WgcNp66ilXSYF5HX3L4wid4xRepJ9Vt1krkNG6bsNoITqg8zMlLgZ7QT5uVwuoY%2Fhv%2F89O661Pa6%2FtGfz6gcZjx3JmkvJh2yaephzjfzpFg43OFS%2B3NnORgMbCqTEcn9piGJokbf9a5xoR2Qt8E4L2AdZTypzC0scYqz%2BA1CsQiK1RrvedAjSsaEw4%2FqFaR6rBrZ4SBiKqlmStv67nu5CMG6DF414F2WlGbkeS8C%2BJYZ2iky%2B19B0K9e4J7Tik78PRFNXoN8lSqP4k%2BLhdrqVq5b2d4m7UHeeProhr%2Fv5HV%2BORFSiFow%2Fhbxt6GN2P2YWxzdIHA32IkBqYD%2BeZ3eFOZSk%2B1Pldgq4PSaiU5lQlEewufIwxcnWXTzGkzSJ%2BLlLlzWX4EwrKPjvQY6pAEqZgWN8cooHP%2FeegIX6R3Pun8lUwrTM2csrvVF8K2udU7KUu1EoXzzxsupULfK9AN%2Bcef1HwWg3GN0hRmtduP9znDwqy7B09eErZHX3iCWPeVm7m2HUwQH0BM7NBnkw%2BBNh35scX3c4lMIghjRFyw9b8VEOGAbUjAxbgvLqemFdd8Zq7DGRWXDbhLqcGd2hHliZLchEjlQhzfD3wdeSwzTgvkJMw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e91797d4d0274588bc92c79f087f05154d7128db4372b94b660b49f37a555916",
+    "social_links": [
+        "https://www.linkedin.com/company/YonedaLabs",
+        "https://twitter.com/YonedaLabs"
+    ],
+    "logo_path": "data/logos\\Yoneda_Labs_logo.png"
+}

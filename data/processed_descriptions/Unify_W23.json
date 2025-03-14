@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/unify",
+    "name": "Unify",
+    "headline": "Take Back Control of Your LLM \u00e2\u009c\u00a8",
+    "batch": "W23",
+    "description": "LLMs run riot in production. Get back in the driving seat. Build your own evals, iterate quickly, and go from prototype to production in no time! Try Now! https://console.unify.ai/ \u00e2\u009c\u00a8",
+    "activity_status": "Active",
+    "website": "https://unify.ai",
+    "founded_date": 2022.0,
+    "team_size": 10.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:saas; industry:api; industry:ai",
+    "founders": [
+        {
+            "name": "Daniel Lenton, Founder",
+            "description": "PhD in ML for 3D Vision + Robotics, Imperial College London.\n\nLove to dive deep into engineering rabbit holes \u00f0\u009f\u0095\u00b3\u00ef\u00b8\u008f\u00f0\u009f\u0090\u0087",
+            "linkedin": "https://www.linkedin.com/in/daniellenton"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Overview of Unify\n\n**Name:** Unify  \n**Founded:** 2022  \n**Location:** London, United Kingdom  \n**Team Size:** 10 employees  \n**Funding:** Recently announced an **$8 million funding round**  \n**Affiliation:** Y Combinator Batch W23  \n\n**Website:** [unify.ai](https://unify.ai)  \n**Mission:** Take back control of your LLM (Large Language Model) \ud83c\udf1f\n\n### The Problem They Solve\n\nUnify emerged in a landscape where LLMs were becoming too complex and unwieldy in production. Their goal? To help users regain control. The platform allows developers to build custom evaluations, iterate quickly, and transition from prototypes to production seamlessly.\n\n### What They Offer\n\nUnify provides a unified API that aggregates multiple LLMs, allowing users to combine models for faster, cheaper, and better responses than relying on a single model. With a focus on simplicity, it enables users to construct workflows in seconds. This makes it ideal for developers who are overwhelmed by the myriad of tools and options available.\n\nKey Features:\n- **One API for all models**: Interact with various models from different providers through a single API key.\n- **Performance optimization**: Personalize responses based on speed, quality, and cost requirements.\n- **Transparent benchmarks**: Real-time dashboards help users assess which LLM performs best for their tasks.\n\n### Who Trusts Unify\n\nTheir technology is already being utilized by notable engineering teams at companies like DeepMind, Amazon, Tesla, Twitter (X), and Salesforce. This endorsement speaks volumes about its credibility and effectiveness.\n\n### Community and Partners\n\nUnify has garnered support from several prominent VCs and angel investors. Their strong backing showcases confidence in the company's potential to simplify the LLM landscape and provide valuable tools for developers.\n\n### Conclusion\n\nIf you're a developer grappling with the complexities of deploying large language models, Unify is worth a look. Their approach combines ease of use with robust functionality, aiming to streamline your workflow in a way that feels intuitive and effective. The idea of having a single point of contact for diverse LLMs is compelling, especially when navigating the evolving tech landscape. \n\nFor more details, check out their offerings at [Unify](https://unify.ai), or dive straight into the console to try it out for yourself!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7d9066a8b68ac448485283b47683ec0eb0960274.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192035Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c2a6b4940edd1008b684ee561729ecdc38ddef0bccec7be84ae9e04e25363945",
+    "social_links": [
+        "https://www.linkedin.com/company/unifyai",
+        "https://twitter.com/letsunifyai",
+        "https://www.crunchbase.com/organization/unify-ai",
+        "https://github.com/unifyai"
+    ],
+    "logo_path": "data/logos\\Unify_logo.png"
+}

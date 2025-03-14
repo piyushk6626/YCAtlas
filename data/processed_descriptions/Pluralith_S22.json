@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/pluralith",
+    "name": "Pluralith",
+    "headline": "Automated infrastructure compliance and documentation",
+    "batch": "S22",
+    "description": "Pluralith automates compliance by documenting cloud infrastructure directly from the codebase. Companies like Jefferson Health pay us to automate their infrastructure compliance and save 5h a week per infrastructure engineer.\r\n\nMore simply put: We generate infrastructure diagrams directly from Terraform state.",
+    "activity_status": "Active",
+    "website": "https://www.pluralith.com",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "Vienna, Austria",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:devsecops; industry:saas",
+    "founders": [
+        {
+            "name": "Daniel Putzer, Founder",
+            "description": "Self-taught developer from Vienna. Avid fan of the Dune series.",
+            "linkedin": "https://www.linkedin.com/in/danielputzer/"
+        },
+        {
+            "name": "Philipp Weber, Founder",
+            "description": "Building Pluralith",
+            "linkedin": "https://www.linkedin.com/in/philipp-weber-a8517b231/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Pluralith**\n\nFounded in 2022 and hailing from Vienna, Austria, Pluralith is a Y Combinator startup (Batch S22) making waves in the world of infrastructure automation. With a compact team of just two, Pluralith addresses a critical pain point for companies managing cloud infrastructure: compliance documentation.\n\n**Mission & Product**\n\nThe aim is simple yet profound: automate infrastructure compliance and documentation. Pluralith directly generates infrastructure diagrams from your Terraform state, allowing companies like Jefferson Health to save an impressive five hours each week per engineer. In essence, they turn code into clear, visual documentation automatically.\n\n**What They Do**\n\nHere's the scoop: instead of manually drafting diagrams or poring over dizzyingly long terminal outputs, Pluralith\u2019s platform allows teams to visualize their Terraform projects directly from the codebase. \n\nSet up is straightforward:\n1. **Set Up Terraform**: Create a GitOps flow using Terraform.\n2. **Run Pluralith**: Integrate it into your pipeline, prompting automatic diagram generation with every pull request.\n3. **Enjoy**: Diagrams pop up as comments in pull requests, with a dashboard providing a visual history of all Terraform plans.\n\nTheir features include:\n- Change highlighting and drift detection to spot issues early.\n- Financial insights by integrating cost data from Infracost.\n- Upcoming compliance checks with Regula to ensure infrastructure adheres to necessary standards.\n\n**Business Model**\n\nPluralith operates on a straightforward pricing model with flexibility for users. They offer a flat-rate package and a pay-as-you-go feature for additional plan runs beyond the base amount.\n\n**Get Involved**\n\nFor developers interested in streamlining their infrastructure documentation and compliance, Pluralith provides a free forever option for local development and a simple setup for CI environments.\n\n**Conclusion**\n\nIn a nutshell, Pluralith is redefining the way teams handle infrastructure documentation by turning what used to be a tedious task into a delightful and automatic experience. If you're struggling with manual compliance and documentation in your cloud operations, it might be time to check them out at [pluralith.com](https://www.pluralith.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3599bbc5f562c7a183ed05f3b76e351f06fb274c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191645Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=241a4559e2669198e2d73692e2e71d48f9affb09661d38fb022c16ef54c6c8b9",
+    "social_links": [
+        "https://www.linkedin.com/company/pluralith",
+        "https://twitter.com/PluralithApp",
+        "https://www.crunchbase.com/organization/pluralith",
+        "https://github.com/Pluralith"
+    ],
+    "logo_path": "data/logos\\Pluralith_logo.png"
+}

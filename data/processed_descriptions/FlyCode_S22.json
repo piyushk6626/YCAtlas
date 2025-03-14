@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/flycode",
+    "name": "FlyCode",
+    "headline": "Recover failed subscription payments to increase retention and LTV",
+    "batch": "S22",
+    "description": "FlyCode Dunning & Payment Management AI that helps subscription merchants maximize revenue. We reduce passive churn by managing payment failures intelligently.\r\n\nWe\u2019re Jake, Etai, and TD and we\u2019re building FlyCode.\r\n\nTL;DR: If you sell SaaS or B2C subscriptions, we\u2019re here to help you recover lost revenue due to failed payments and involuntary churn.\r\n\n\u2018Involuntary\u2019 or \u2018Passive\u2019 churn is a hidden Revenue Killer \ud83d\udcb3 for Subscription Businesses\r\n\n\u274c THE PROBLEM: Recovering Failed Payments is Complex\r\nInvoluntary churn refers to the loss of subscribers due to payment failures, not due to them actively canceling. While it is both possible and a worthwhile strategy to attempt to win back a customer during the cancellation process \u2014 involuntary churn is not intentional and in most cases, your customers aren\u2019t even aware that their payment failed.\r\n\n\ud83d\udcb0 Bottom line?\r\nEffective payment optimization does reduce involuntary churn and will increase ARR by as much as 5-10%\r\n\nFLYCODE SOLUTION \ud83d\udca1\r\nFlyCode leverages ML and AI to provide Payment Optimization and smart payment retries to maximize subscription revenue and reduce churn. We apply a unique model tailored to each Merchant and their customers to ensure optimal results.\r\n\n\u26a1\ufe0fAutomatically recover failed subscription payments and reduce passive churn\r\n\n\u26a1\ufe0fUse ML & AI based payment optimization to find the best time to charge your customers\r\n\n\u26a1\ufe0f Improve customer experience by coordinating payment retries with customer emails/SMS\r\n\n\ud83d\udee0\ufe0f We support OOTB + Custom Integrations for Merchants and White-Label for Platforms",
+    "activity_status": "Active",
+    "website": "https://www.flycode.com",
+    "founded_date": 2021.0,
+    "team_size": 7.0,
+    "location": "Boston",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:payments; industry:e-commerce; industry:subscriptions; industry:ai; location:boston",
+    "founders": [
+        {
+            "name": "Tzachi Davidovich, Founder",
+            "description": "CEO & Cofounder FlyCode",
+            "linkedin": "https://www.linkedin.com/in/tzachidaviovich/"
+        },
+        {
+            "name": "Etai Avrahami, Founder",
+            "description": "CTO & Co-Founder at FlyCode",
+            "linkedin": "https://www.linkedin.com/in/etaia"
+        },
+        {
+            "name": "Jake Vacovec, Founder",
+            "description": "Co-Founder at FlyCode",
+            "linkedin": "https://www.linkedin.com/in/jake-p-vacovec/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: FlyCode**\n\n**Founders and Team:**  \nFlyCode was founded in 2021 by Jake, Etai, and TD and is based in Boston. The team is comprised of 7 employees and is part of Y Combinator's Batch S22. Nicolas Dessaigne serves as their Group Partner.\n\n**Mission:**  \nFlyCode\u2019s mission is clear: help subscription businesses recover failed payments, thereby boosting retention rates and increasing Lifetime Value (LTV). \n\n**The Problem:**  \nSubscription businesses often face what is known as **involuntary churn**\u2014revenue lost not because customers actively cancel but due to payment failures. This is a significant but often overlooked issue that can be a silent killer of revenue. For many companies, ranging from SaaS to e-commerce, the ability to recover lost payments can lead to a 5-10% increase in Annual Recurring Revenue (ARR).\n\n**The Solution:**  \nFlyCode leverages **machine learning (ML) and artificial intelligence (AI)** to optimize payment processes and implement smart retry strategies. Here\u2019s how it works:\n- **Automated Recovery:** The system automatically retries failed subscription payments, minimizing passive churn without adding to your workload.\n- **Intelligent Timing:** FlyCode\u2019s ML models determine the best times to charge customers, enhancing the likelihood of successful payments.\n- **Enhanced Customer Engagement:** Coordinated payment retries are coupled with helpful customer communications via email or SMS, improving the overall customer experience.\n\n**Integrations and Reach:**  \nFlyCode supports both out-of-the-box and custom integrations, particularly with established platforms like **Stripe** and **Shopify**, allowing merchants to integrate smoothly into their existing systems. They also offer white-label solutions for platforms seeking to enhance their payment management capabilities.\n\n**Recognition:**  \nFlyCode was recently recognized as a winner at the **Visa Everywhere Initiative**, showcasing their industry impact and innovative approach to payment management.\n\n**Target Audience:**  \nIf you sell SaaS or B2C subscriptions and are losing revenue to failed payments, FlyCode is tailored for you.\n\n**Bottom Line:**  \nIn a world where every dollar counts, FlyCode provides subscription businesses with the tools they need to turn failed payments into opportunities. Instead of losing out on revenue due to inadvertent payment lapses, businesses can now recover and retain customers more effectively. It\u2019s a game-changer in subscription billing.\n\nVisit [FlyCode](https://www.flycode.com) for more information or to get started.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e41ddb831d5d6782c080838e03b699fc4aa8529f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191345Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d11cb8d8d0e0e49084a66f6938362f66d37c2b04496c026e4469d84a09b0781e",
+    "social_links": [
+        "https://www.linkedin.com/company/flycodehq",
+        "https://twitter.com/FlycodeHQ"
+    ],
+    "logo_path": "data/logos\\FlyCode_logo.png"
+}

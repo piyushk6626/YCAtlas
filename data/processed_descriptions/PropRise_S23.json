@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/proprise",
+    "name": "PropRise",
+    "headline": "AI Investment Analyst for Commercial Real Estate",
+    "batch": "S23",
+    "description": "PropRise is an AI-powered investment analyst for commercial real estate, transforming how firms discover and evaluate opportunities. Our platform acts as a 24/7 analyst that finds hidden deals others miss by analyzing vast amounts of data beyond traditional listings - from local council meetings and permits to community sentiment and market trends. While most firms only see surface-level data like basic financials and broker listings, PropRise connects complex patterns across tech company expansions, local market shifts, and city development plans to identify overlooked opportunities.",
+    "activity_status": "Active",
+    "website": "https://www.proprise.ai/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:saas; industry:real-estate; industry:b2b; industry:analytics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jean-Michael Diei, Founder",
+            "description": "Big fan of applying machine learning to real-world problems. \n\nAt PropRise, we are using AI to provide useful data to the fragmented commercial real estate sector. Prior to this, I led applied ML efforts across various industries at companies such as Stripe, Embark Trucks and Microsoft. \n\nStudied Machine Learning/Computer Vision at Carnegie Mellon University.",
+            "linkedin": "https://linkedin.com/in/jeanmichaeldiei"
+        },
+        {
+            "name": "Matthew Krager, Founder",
+            "description": "Heyo! I'm Krager. \n- Currently working in PropTech.\n- Long-time iOS and Full-Stack Dev.\n- Worked on FB Recruiting and Stripe Terminal",
+            "linkedin": "https://linkedin.com/in/matthew-krager-60b360102"
+        }
+    ],
+    "status": true,
+    "generated_description": "**PropRise: Uncovering Hidden Opportunities in Commercial Real Estate**\n\n**Overview**  \nFounded in 2023 and hailing from San Francisco, PropRise is an innovative player in the commercial real estate sector, leveraging artificial intelligence to function as a round-the-clock investment analyst. By moving beyond traditional listings, PropRise helps firms discover hidden opportunities that are easily overlooked. Think of it as the smart friend who knows all the insider tips on where to find the best investment prospects.\n\n**The Mission**  \nPropRise\u2019s core mission is clear: transform how investment opportunities are discovered and evaluated in commercial real estate. By analyzing not just financials but also local council meetings, community sentiment, and market trends, PropRise equips investors with comprehensive insights that lead to smarter decisions.\n\n**The Problem**  \nNavigating the self-storage market\u2014and indeed the broader commercial real estate landscape\u2014can feel like finding a needle in a haystack. Investors often struggle with identifying quality properties and managing various opportunities due to outdated tools and limited data. It's a classic case of missing the forest for the trees. PropRise seeks to eliminate these barriers, offering a platform that simplifies this journey.\n\n**How They Solve It**  \nAt the heart of PropRise is its **Discovery Engine**, an AI-powered tool designed for powerful deal sourcing. It enables users to spot prime self-storage opportunities through a robust search mechanism that includes location details, demographics, rents, and supply data. PropRise also goes the extra mile by offering comprehensive market analytics, with automated alerts that keep investors ahead of the curve on new listings and market shifts.\n\n**The Team**  \nTo turn this vision into reality, PropRise boasts a tight-knit team of three employees. Among them are co-founders Jean-Michael Diei (CEO) and Matthew Krager (CTO), along with Kenny Sandon as Director of Sales. They\u2019re supported by Jared Friedman as their Group Partner at Y Combinator, where PropRise was part of the Batch S23 program.\n\n**User Testimonials**  \nThe value of PropRise speaks volumes through the words of its users. One VP of Development noted, \u201cPropRise eliminates 75% of the manual work of searching for deals.\u201d Another user pointed out that the platform drastically reduces the time it takes to identify valuable sites\u2014a crucial edge in a competitive market.\n\n**The Bottom Line**  \nAs PropRise continues to shape the commercial real estate investment landscape, it\u2019s clear they\u2019re unlocking an unfair advantage for investors. By marrying AI with real estate, they\u2019re not just finding opportunities; they\u2019re redefining how deals are sourced and analyzed. If you're in the market for commercial real estate investments, you might want to consider what PropRise can do for you.\n\nFor more information, check out their website: [PropRise.ai](https://www.proprise.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dc849d9f54fc31c44388907b39f475b9dd361a50.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191656Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=429d84aec2b7e2bc0afbe70b8c0089d9490d5487b5c4a2bbdfc362ee9b4aaee3",
+    "social_links": [
+        "https://www.linkedin.com/company/proprise/"
+    ],
+    "logo_path": "data/logos\\PropRise_logo.png"
+}

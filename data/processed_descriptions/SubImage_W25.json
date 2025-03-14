@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/subimage",
+    "name": "SubImage",
+    "headline": "See your infra from an attacker's perspective",
+    "batch": "W25",
+    "description": "SubImage builds maps of your cloud environment to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
+    "activity_status": "Active",
+    "website": "https://subimage.io",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:security; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alex Chantavy, Founder",
+            "description": "Alex has 13+ years of expertise in information security, building capabilities years ahead of what was commercially available at Lyft, Microsoft, and the NSA. He was the lead engineer on Lyft\u2019s vulnerability management program, led penetration tests for Microsoft\u2019s Red Team, and developed tools and techniques in support of NSA\u2019s Computer Network Exploitation mission.",
+            "linkedin": "https://www.linkedin.com/in/alexchantavy/"
+        },
+        {
+            "name": "Kunaal Sikka, Founder",
+            "description": "Kunaal is a former Lyft Staff Engineer and Member of Technical Staff at Anthropic. He architected critical systems such as Lyft\u2019s SIEM, insider abuse program, and vulnerability management platform, significantly reducing security risk. His career has been marked by rapid progression\u2014winning Microsoft\u2019s internal employee hackathon in high school, joining Lyft at 20, and becoming a Staff Engineer within four years while reporting directly to Lyft\u2019s CISO.",
+            "linkedin": "https://www.linkedin.com/in/kunaals/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### SubImage: Navigating Cloud Security through Visual Mapping\n\nFounded in 2024 and nestled in the heart of San Francisco, SubImage emerged from the foundations of the Cartography open-source project, which originated at Lyft. The company is run by a tight-knit team of two, including co-founders Alex Chantavy and Kunaal Sikka, both of whom have impressive backgrounds in cybersecurity.\n\nSubImage's mission is straightforward but critical: to help organizations \u201csee your infra from an attacker's perspective.\u201d In today\u2019s complex digital landscape, understanding your cloud environment is not just a technical requirement but a crucial strategy for minimizing risk. Their software builds detailed visual maps of cloud assets, showing how everything connects and where vulnerabilities lie\u2014similar to how an attacker would assess your environment.\n\n#### Why It Matters\nImagine operating your business without knowing your digital assets' potential weak points. SubImage tackles this directly, enabling security teams to prioritize efforts based on real risk, not just theoretical threats. They empower organizations to see who accesses sensitive data, understand internet exposure, and integrate data from various vendors. \n\nWith features like natural language querying, they allow users to ask straightforward questions\u2014think, \u201cWhich S3 buckets allow public read access?\u201d\u2014and get instant clarity on potential security lapses.\n\n#### The Team Behind the Vision\nChantavy and Sikka are no strangers to the high-stakes world of information security. Their combined experience includes significant roles at Lyft, Microsoft, and the NSA. They know firsthand the vulnerabilities that can emerge in cloud environments, and with their expertise in building advanced security systems, they\u2019re keen on making those systems accessible to more organizations.\n\n#### The Bigger Picture\nSubImage is part of Y Combinator's Batch W25, a prestigious accelerator that has birthed numerous successful startups. Their approach not only emphasizes proactive risk management but also invites companies to enrich their security maps with proprietary data. This capability sets them apart, enabling organizations to truly tailor defenses according to their unique contexts and challenges.\n\nSubImage is at the intersection of artificial intelligence, security, and open source, making complex security analyses intuitive and effective. If you\u2019re wrestling with your security posture in a cloud-dominated era, their offering could represent a vital step forward.\n\nYou can explore more about their services or request a demo on their [website](https://subimage.io). It\u2019s worth a closer look, especially if you\u2019re serious about fortifying your defenses against the ever-evolving threat landscape.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/daea0c44c99d497a2d41c5d255b9ad6fd14e55a2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191954Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=954d97208c1d866769b6faae7070861813b9eb48a79e8ecbe8e6acdf3fc19212",
+    "social_links": [
+        "https://x.com/subimagesec"
+    ],
+    "logo_path": "data/logos\\SubImage_logo.png"
+}

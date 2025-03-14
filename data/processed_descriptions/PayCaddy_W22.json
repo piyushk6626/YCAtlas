@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/paycaddy",
+    "name": "PayCaddy",
+    "headline": "Simplified Banking as a Service for Latam",
+    "batch": "W22",
+    "description": "PayCaddy enables Latam companies to launch financial products with an API based platform. Rather than building fintech from scratch, or dealing with a legacy bank, companies can use PayCaddy to open digital wallets with KYC checks, automate online payments, and issue personalized debit and prepaid cards for customers or employees.",
+    "activity_status": "Active",
+    "website": "https://paycaddy.com/",
+    "founded_date": 2018.0,
+    "team_size": 20.0,
+    "location": "Panama City, Panama",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:banking-as-a-service; industry:fintech; industry:b2b",
+    "founders": [
+        {
+            "name": "Juan Diego Galvez, Founder",
+            "description": "I'm an entrepreneur with a background in consulting and banking. My experience comes from working in electronic payments since 2016, by helping mid and large sized companies handle cross border payments. Currently on a mission to make fintech accesible in Latam for any company looking to embed financial services.",
+            "linkedin": "https://www.linkedin.com/in/juan-diego-galvez-a78659a7/"
+        },
+        {
+            "name": "Federico Benavides, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/federico-benavides-06985016b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### PayCaddy: Simplifying Banking as a Service in Latin America\n\nFounded in 2018 and based in Panama City, PayCaddy is on a mission to streamline banking options for businesses throughout Latin America. As part of Y Combinator's W22 batch, PayCaddy offers a robust API platform that allows companies to launch their own financial products without the heavy lifting typically associated with building a fintech from scratch or dealing with legacy banking systems.\n\n#### What They Do\n\nPayCaddy targets businesses looking to develop financial services efficiently. They provide:\n\n- **Digital Wallets**: Enable companies to open digital wallets with built-in KYC checks.\n- **Payment Automation**: Facilitate automated online payments to enhance transactional efficiency.\n- **Card Issuance**: Offer customizable debit and prepaid cards for customers and employees.\n\nTheir solutions are designed for businesses of varying technical abilities, providing a choice between a fully coded solution (Bespoke) and a no-code, white-label offering (Express).\n\n#### Why PayCaddy Stands Out\n\n1. **Targeted Solutions**: Whether you\u2019re in gig work, fintech, retail, or lending, PayCaddy has tools to empower your business\u2014whether you need immediate access to funds, seamless payment options, or card programs.\n   \n2. **Flexibility**: PayCaddy supports a variety of financial products, including asset-backed cards, USD-backed cards from crypto accounts, and tailored wallets depending on your business structure.\n\n3. **Rapid Integration**: They boast the capability to launch a card issuing program in just weeks, making it a compelling option for businesses eager to roll out financial services without the traditional delays.\n\n4. **Support for Developers**: For tech-savvy teams, there's comprehensive API documentation and a sandbox for testing, making integration straightforward and adaptable to existing systems.\n\n#### Team & Support\n\nWith a lean team of 20 and mentorship from Tom Blomfield, PayCaddy is well-equipped to support its clients through the sometimes complicated waters of digital banking. Their array of resources\u2014including a detailed FAQ, news updates, and tailored support\u2014ensures businesses have the assistance they need to thrive.\n\nFor companies in LATAM looking to modernize their banking solutions and enhance customer experience, PayCaddy offers a compelling entry point into the world of fintech, pushing traditional boundaries and making financial services more accessible and efficient. If you\u2019re interested in learning more, feel free to check out their offerings at [PayCaddy's website](https://paycaddy.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e14b919aa02775c92d46a1ffbc3c0876a9248bb9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191626Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0c8a0b613da8267ce3938b3e6bdb239e33a261afbda1ebe15f0802ef8d3d2b3e",
+    "social_links": [
+        "https://www.linkedin.com/company/65344002/admin/",
+        "https://twitter.com/paycaddy?lang=en",
+        "https://www.crunchbase.com/organization/paycaddy"
+    ],
+    "logo_path": "data/logos\\PayCaddy_logo.png"
+}

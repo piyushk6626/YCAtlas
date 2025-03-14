@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/dyte",
+    "name": "Dyte",
+    "headline": "Real-time audio & video SDKs, ready to launch \u00f0\u009f\u009a\u0080",
+    "batch": "W21",
+    "description": "Integrate live video calls with Dyte Video SDK with less than 10 lines of code.",
+    "activity_status": "Active",
+    "website": "https://dyte.io",
+    "founded_date": 2020.0,
+    "team_size": 45.0,
+    "location": "Bengaluru, India",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:video; industry:api; industry:telecommunications",
+    "founders": [
+        {
+            "name": "Abhishek Kankani, Founder",
+            "description": "Busy building dyte.io\n\nHappy to help with Product, Hiring & GTM \u00f0\u009f\u0098\u0083",
+            "linkedin": "http://www.linkedin.com/in/abhishekkankani"
+        },
+        {
+            "name": "Palash Golecha, Founder",
+            "description": "Bengaluru, India",
+            "linkedin": "https://linkedin.com/in/palash-golecha-827a78145/"
+        },
+        {
+            "name": "Kushagra Vaish, Founder",
+            "description": "//TODO: Add some meaningful intro",
+            "linkedin": "https://www.linkedin.com/in/kushagra-vaish-9437b3110/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Dyte: Revolutionizing Real-time Communication\n\n**Overview:**\nFounded in 2020 and part of Y Combinator's Winter 2021 batch, Dyte is a Bengaluru-based company that's already making waves in the telecommunications sector with its real-time audio and video SDKs. It aims to simplify the integration of live video calls, allowing developers to embed high-quality video communication in their applications with just a few lines of code\u2014less than 10, to be precise! \n\n**What They Do:**\nDyte's offerings center around three main products:\n1. **Live Video SDK**: Integrate real-time video experiences into applications.\n2. **Voice Conferencing SDK**: Incorporate high-fidelity voice chat seamlessly.\n3. **Live Streaming SDK**: Deliver scalable live streaming solutions.\n\nThese SDKs are designed for various industries including **Ed-tech**, **Telehealth**, **HR Tech**, **Fitness**, **Gaming**, **Events**, and even **Dating**. You can find practical examples of their use through a showcase on their website.\n\n**Team & Culture:**\nWith a dedicated team of 45 employees, Dyte prides itself on being developer-friendly, blending cutting-edge technology with robust support. They are focused on providing a unified platform that reduces complexity, allowing businesses to deliver engaging live experiences without the hassle of juggling multiple SDKs.\n\n**Security & Compliance:**\nDyte takes safety seriously, being SOC-2 and GDPR compliant. This ensures that applications built using their technology are not just effective, but also secure, enabling users to communicate with peace of mind.\n\n**Getting Started:**\nFor those looking to dive in, Dyte offers **10,000 free minutes** over three months of their SDK services, allowing developers to prototype and integrate functionalities without immediate costs. The company encourages experimentation, ensuring that support is just a step away\u2014available 24/7 via their dedicated channels.\n\n**Why Choose Dyte?**\nDyte stands out for its ability to deliver high-quality, low-latency communication solutions that are easy to implement. The architecture is designed to handle everything from one-on-one interactions to large-scale conferencing, all while keeping the focus on customization. This flexibility allows businesses to create unique applications tailored to their specific needs.\n\nFor a closer look and to start building, check out [Dyte's website](https://dyte.io) and explore their offerings. In a world where real-time communication is crucial, Dyte is paving the way for effortless integration and exceptional user experiences. \n\nSo, jump in, the water's fine!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7e69eded1f41ba6345f75227e93c32d796e51060.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191130Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5c549a5a4ba5f9a3c285f1a02dad80a67ee786fdf5bf83fd373d1deba1299798",
+    "social_links": [
+        "https://linkedin.com/company/dyteio",
+        "https://twitter.com/dyte_io",
+        "https://github.com/dyte-in"
+    ],
+    "logo_path": "data/logos\\Dyte_logo.png"
+}

@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/linc",
+    "name": "Linc.",
+    "headline": "AI Copilot for Shippers, Carriers and Brokers",
+    "batch": "S23",
+    "description": "Linc is an AI agent to automate workflows in logistics. Our first product is an AI Copilot for logistics vendors that parses inbound (emails + documents + spreadsheets) and syncs this data with systems of record (ERPs/spreadsheets).",
+    "activity_status": "Active",
+    "website": "https://www.linc-ai.com/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Rahul Prakash, Founder",
+            "description": "Solving hard problems @ Linc AI. Interested in algorithms, data and ML.",
+            "linkedin": "https://linkedin.com/in/rahul-prakash-538633225"
+        },
+        {
+            "name": "Shrey Sambhwani, Founder",
+            "description": "Automating logistics data integrations @ Linc AI. Passionate about AI and the supply chain economy.",
+            "linkedin": "https://linkedin.com/in/shreysambhwani"
+        },
+        {
+            "name": "Harshavardhan Srijay, Founder",
+            "description": "Building Linc AI. Interested in AI and decision-making.",
+            "linkedin": "https://linkedin.com/in/harshavardhan-srijay"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Linc: Your AI Copilot for Logistics \n\n**Overview**  \nFounded in 2023 and part of Y Combinator\u2019s S23 batch, Linc is on a mission to revolutionize the logistics industry by acting as an AI copilot for shippers, carriers, and brokers. The company, located in an undisclosed area with a team of just 3 employees, develops automation tools that reduce manual data entry and streamline workflows in logistics.\n\n**Product Offering**  \nLinc's flagship product is an AI agent designed to parse various forms of inbound data\u2014emails, documents, and spreadsheets\u2014and synchronize this information with existing systems of record like ERPs and spreadsheets. This means logistics professionals can spend less time on tedious data entry and more time focusing on growth and operational efficiency.\n\nHere are some key features:  \n- **Eliminate Manual Data Entry**: Instantly extract data from documents and email and sync it with your existing systems.\n- **User-Friendly API**: Users can upload files, define data schemas, and see results in real-time.\n- **Support for Various Document Types**: Whether it\u2019s transport management documents or safety compliance forms, Linc is built to handle it all.\n\n**Impact**  \nBy automating 0-10% of data entry tasks, Linc claims to help users regain 0-7 hours per day, significantly reduce operating costs, and improve data quality. This kind of efficiency is not just a nice-to-have; it\u2019s essential in today\u2019s fast-paced logistics environment.\n\n**Contact and Further Learning**  \nIf you\u2019re intrigued by what Linc offers and keen on a live demo, you can check out their website [here](https://www.linc-ai.com/) or reach out via email at founders@linc-ai.com. Their aim is simple: to supercharge your growth with smart automation tools that save time and resources.\n\n### Conclusion  \nIn an industry marred by inefficiencies, Linc stands out by leveraging AI to tackle the most mundane yet critical tasks in logistics workflows. Their focus on automation isn\u2019t just about keeping up with the industry; it\u2019s about setting a new standard for what efficient logistics can and should look like. If you\u2019re in logistics and haven\u2019t yet looked into Linc, it\u2019s worth your time.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2007dfc7f348b1c44f96c00ccc3add233db9ccbf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191508Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8dfd24cfe545d09ec79a9b99e39b7c091acc61ea82bffe8ec6959ace698f9bbc",
+    "social_links": [
+        "https://linkedin.com/company/linc-ai"
+    ],
+    "logo_path": "data/logos\\Linc._logo.png"
+}

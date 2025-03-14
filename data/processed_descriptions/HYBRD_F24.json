@@ -1,0 +1,48 @@
+{
+    "links": "https://www.ycombinator.com/companies/hybrd",
+    "name": "HYBRD",
+    "headline": "Strava for the modern athlete",
+    "batch": "F24",
+    "description": "HYBRD is Strava for modern athletes who do more than just cardio. It brings all your training data together by integrating with top wearables and uses AI to make tracking weightlifting easy. This allows athletes to fully understand their training load, track holistic progress over time, and compete with friends in fresh, exciting ways.\r\n\nExisting products tend to focus on only one type of exercise\u2014either cardio or strength\u2014leaving hybrid athletes juggling disconnected tools. As hybrid athletes themselves the founders found this frustrating and set out to build the unified approach they needed for their training.\r\n\nThree of HYBRD\u2019s founders previously worked at WHOOP, each leading teams across product, growth and analytics. In parallel, Mats was a member of the US national rowing team and Ben, Shoe and Ruiters have all completed Ironman 70.3s.",
+    "activity_status": "Active",
+    "website": "https://www.hybrd.app/",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "Boston",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:consumer; industry:fitness; industry:social; industry:digital-health; industry:ai; location:boston",
+    "founders": [
+        {
+            "name": "Ben Katz, Founder",
+            "description": "Co-Founder & CEO of HYBRD. Previously led the growth product team at WHOOP and the fitness app portfolio at Appex. In my free time I train as a hybrid athlete, having completed a 50k ultramarathon, an Ironman 70.3, and am currently preparing for my first full Ironman.",
+            "linkedin": "https://www.linkedin.com/in/benjaminlkatz/"
+        },
+        {
+            "name": "Matt Ruiters, Founder",
+            "description": "\ud83c\uddff\ud83c\udde6 Co-Founder & CTO @ HYBRD, the Strava for elite athletes.  Exercise and cooking keep me sane. Loved playing rugby, but since my shoulders gave out, I've gotten into triathlon and surfing. \n\nPreviously was a senior tech lead at AWS, where I led teams of 10-15 engineers. He delivered features in Billing and Amazon Connect that drove millions of dollars in revenue and won strategic customers. He has played on the USA Rugby team and has completed two Ironman 70.3s.\n\nLet's ship.",
+            "linkedin": "https://www.linkedin.com/in/matthew-c-ruiters/"
+        },
+        {
+            "name": "Caroline \"Shoe\" Shoemaker, Founder",
+            "description": "Shoe has had years of experience in the fitness tech space, first at WHOOP building their analytics team, then at Appex, a mobile app roll-up company responsible for 1/2 the portfolio. Now she's focused on building HYBRD, the Strava for elite athletes while training for an Ironman in 2025.",
+            "linkedin": "https://www.linkedin.com/in/shoe-shoemaker/"
+        },
+        {
+            "name": "Mats Terwiesch, Founder",
+            "description": "At HYBRD, I\u2019m focused on core product and sport science. \n\nI previously was an early employee and product manager at WHOOP, where I launched the Strength Trainer feature and expanded free trials internationally. \n\nI also have experience leading product management for the fitness vertical of a profitable mobile app roll-up, and was a research associate publishing on health and artificial intelligence at Harvard. \n\nIn parallel to my tech career, I was a member of the US national rowing team.",
+            "linkedin": "https://www.linkedin.com/in/mats-terwiesch/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**HYBRD: Revolutionizing Training for Hybrid Athletes**\n\n**Overview:**  \nFounded in 2024 and hailing from Boston, HYBRD describes itself as \"Strava for the modern athlete.\" It targets hybrid athletes who juggle strength and cardio training, providing them with an integrated platform for tracking workouts across different disciplines. The company is part of Y Combinator's Batch F24 and is backed by Dalton Caldwell as their Group Partner.\n\n**Mission:**  \nHYBRD's mission is clear: unify the fragmented fitness tools available today. Most existing fitness apps focus solely on cardio or strength training, which often leaves hybrid athletes scrambling between multiple tools. HYBRD aims to collect all training data\u2014whether from weightlifting, running, or other activities\u2014into one place, leveraging AI to simplify the tracking of workouts.\n\n**The Founders:**  \nThe founding team combines expertise with practical experience; three founders previously worked at WHOOP, specializing in product development, growth, and analytics. They are athletes themselves, with experiences that range from rowing on the US national team to competing in Ironman 70.3s.\n\n**Product Features:**\n- **Comprehensive Tracking:** HYBRD aggregates data from various wearables, enabling users to see their workout performance holistically.\n- **AI Insights:** It uses AI to streamline weightlifting logs, making it easier for users to record their workouts through voice, photos, or text.\n- **Engaged Community:** Users are encouraged to compete with friends in innovative ways, transforming the way they approach fitness and motivation.\n- **Integration:** Compatible with popular fitness tools and platforms such as Apple Health, WHOOP, Strava, and more, it ensures users can easily incorporate HYBRD into their existing routines.\n\n**User Experience:**  \nFeedback from early members indicates a strong community engagement and a sense of personalization\u2014many users have reported quickly seeing their suggested features implemented. Athletes appreciate having their various metrics and workouts in one consolidated space. This not only simplifies tracking but also enriches their training experience.\n\n**Current Status:**  \nHYBRD is currently operating as an invitation-only platform, charging a membership fee of $149 per year. It's available on iOS, with plans for an Android release down the line. \n\nFor those looking to elevate their training regimen and gain unique insights into their performance, HYBRD is positioned as a pioneering force in the realm of hybrid athletics.\n\n**Explore more** at [HYBRD\u2019s website](https://www.hybrd.app/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f64915ebc412808353789bcacabc3a6bbe75a10f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191425Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bc876b7ed410dbdfec242a0432eb816c7ee51a00d4f62238d77c3ad0d93487c5",
+    "social_links": [
+        "https://www.linkedin.com/company/hybrd-do-hard-things/",
+        "https://twitter.com/hybrd_app",
+        "https://www.crunchbase.com/organization/hybrd"
+    ],
+    "logo_path": "data/logos\\HYBRD_logo.png"
+}

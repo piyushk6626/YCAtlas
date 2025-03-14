@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/mineflow",
+    "name": "Mineflow",
+    "headline": "Mineflow predicts the shape and location of mineral deposits",
+    "batch": "S24",
+    "description": "Mineflow is an AI platform for mineral exploration. We generate predictions for mineral deposit shapes and locations, empowering mining companies from initial exploration to advanced feasibility studies.\r\n\nGeologists need to know precisely where their deposits are because drilling is expensive. In early trials with a lithium mining company, we found that Mineflow predicts the shape of hard rock lithium deposits more than an order of magnitude more accurately than our competitors.\r\n\nRyan received a BS in Artificial Intelligence from Carnegie Mellon's School of Computer Science where he helped teach both the grad-level Deep Learning course and the grad-level Search Engines course. He built ML models at Google in the Display Ads optimization org for 2 years and launched products that generated ~125m USD in ARR.",
+    "activity_status": "Active",
+    "website": "http://mineflow.ai/",
+    "founded_date": 2024.0,
+    "team_size": 1.0,
+    "location": null,
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Ryan Goggins, Founder",
+            "description": "studied AI at CMU in SCS, built ML models for Google Ads, now trying to predict the shape of mineral deposits underground",
+            "linkedin": "https://www.linkedin.com/in/rgoggins"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Mineflow: Predicting Mineral Deposits with AI**\n\nMineflow, founded in 2024 and part of Y Combinator Batch S24, is an innovative AI platform revolutionizing mineral exploration. The company focuses on predicting the shape and location of mineral deposits, which is crucial for mining companies looking to optimize their exploration efforts\u2014especially considering that drilling can be prohibitively expensive.\n\n**The Problem and Solution**\n\nGeologists need pinpoint accuracy to reduce costs and enhance efficiency in exploration. Early results show that Mineflow outperforms competitors significantly, predicting the shape of hard rock lithium deposits with over ten times the accuracy of alternatives. This not only aids in initial exploration but also supports advanced feasibility studies, making Mineflow an indispensable tool for mining firms.\n\n**About the Founder**\n\nRyan, the founder, has a notable background with a BS in Artificial Intelligence from Carnegie Mellon, where he not only studied but taught graduate-level courses on Deep Learning and Search Engines. His two-year stint at Google in the Display Ads optimization realm allowed him to apply machine learning models effectively, leading to products that generated an impressive ~$125 million in Annual Recurring Revenue (ARR).\n\n**Current Offerings**\n\nMineflow specializes in transforming exploration site data into precise predictions through two primary services: 2D Prospectivity Mapping and 3D Resource Modeling for various minerals, including gold and copper porphyry. The platform is accessible through their website, where interested parties can book demos or explore pricing.\n\n**Location and Team**\n\nMineflow is located in [insert location here], with a compact team of just one employee\u2014Ryan himself. The company is mentored by David Lieb, a Group Partner at Y Combinator, which positions Mineflow advantageously within the startup ecosystem.\n\nFor deeper insights, demos, or to connect, check out their website at [mineflow.ai](http://mineflow.ai/).\n\nIn summary, Mineflow isn't just another tech company; it\u2019s a game-changer in the mining industry, leveraging cutting-edge AI to drive smarter exploration strategies.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3a90ca5b585a9061abb691666f80fd3ff2275460.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191541Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=13aa976d33a9f894d0e399bbbfb3bdd115165bba99ee008f2ca7a535c9a4e7f4",
+    "social_links": [
+        "https://www.linkedin.com/company/mineflowai"
+    ],
+    "logo_path": "data/logos\\Mineflow_logo.png"
+}

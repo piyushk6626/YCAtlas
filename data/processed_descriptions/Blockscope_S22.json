@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/blockscope",
+    "name": "Blockscope",
+    "headline": "Palantir for Web3",
+    "batch": "S22",
+    "description": "Blockscope is a Web3 data platform that enables anyone interested in on-chain data to quickly spin up live or historical data pipelines (for blocks, event, transaction, wallets, token, NFTs, etc). Similar to AWS, users have access to variety of managed software services to analyze, interact with or inject captured data into their apps.\r\n\nOur platform is built around the core idea of off-loading the on-chain data that our customers need for their Web3 apps, and reliably storing them for quick access/use.\r\n\nWe offer products on top of the core data we index for our customers. Some of these services are contract analytics, wallet profiling, events & transactions database as a service, push notifications, webhooks, and developer tools.\r\n\nOur mission is to enable everyone to easily access and consume on-chain data!",
+    "activity_status": "Active",
+    "website": "https://www.blockscope.co/",
+    "founded_date": 2022.0,
+    "team_size": 4.0,
+    "location": "New York",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:crypto-web3; location:new-york",
+    "founders": [
+        {
+            "name": "Adit Patel, Founder",
+            "description": "Adit Patel is a cofounder & CEO at Blockscope. After building multiple projects in the Web3 space, it was abundantly clear to us that interacting with on-chain data is an unnecessarily complex process. We are building out a Web3 Data Platform that enables all types of individuals, developers, portfolio managers, institutions or even crypto newcomers to capture, analyze and understand any on-chain data! Easy to use crypto tools for all.",
+            "linkedin": "https://www.linkedin.com/in/pateladit/"
+        },
+        {
+            "name": "Maharshi Patel, Founder",
+            "description": "Maharshi is a software engineer at Blockscope.",
+            "linkedin": "https://www.linkedin.com/in/maharshipatel1997/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Blockscope: Your Gateway to On-Chain Data**\n\nFounded in 2022 and hailing from Y Combinator's Batch S22, Blockscope is carving out its niche in the evolving Web3 ecosystem with a clear ambition\u2014\"Palantir for Web3.\" Based in New York and operated by a compact team of four, Blockscope aims to democratize access to on-chain data for anyone interested in the blockchain landscape.\n\n### What They Do\nBlockscope is best described as a data platform specifically designed for the Web3 space. It allows users\u2014from individual developers to larger enterprises\u2014to quickly build live and historical data pipelines that encompass a wide array of blockchain-related information including blocks, events, transactions, wallets, and NFTs. Think of it like Amazon Web Services but tailored for blockchain needs.\n\nTheir core mission is straightforward: make on-chain data easily accessible and usable. This involves not just storing data but also providing advanced tools and services to analyze and inject that data into applications.\n\n### Products and Services\nBlockscope offers a suite of powerful tools crafted for Web3 developers and crypto professionals:\n\n1. **Tracer**: Track funds moving across wallets and contracts.\n2. **Transaction Decoder**: Break down transactions into easily digestible formats.\n3. **Wallet Profiler**: Gain complete insights about wallet activities.\n4. **Investigator**: Conduct thorough investigations and document findings.\n5. **Contract Analysis**: Analyze smart contract code and functionalities.\n6. **Watchtower**: No-code tool for monitoring specific on-chain activities.\n7. **Pipelines**: Stream on-chain data into your databases in real time.\n8. **Entity Interactions**: Visualize interactions between on-chain entities.\n\nAdditionally, they offer services related to compliance, risk monitoring, and more\u2014all aimed at enhancing the observability and security of on-chain activities.\n\n### Why It Matters\nAs blockchain technology matures, the ability to navigate and utilize on-chain data becomes increasingly critical for developers, firms, and even investigators. Blockscope positions itself not just as a service provider but as an enabler of informed decision-making in a decentralized world.\n\n### Backing and Community\nTheir efforts are backed by notable names from the tech industry, lending credibility and insight to their development efforts.\n\n### Final Takeaway\nWhether you're building a decentralized application, conducting on-chain investigations, or simply looking to leverage blockchain data more effectively, Blockscope stands as a promising partner. Their dedication to simplifying access to complex data embodies the spirit of the Web3 movement\u2014enabling anyone to participate in the blockchain revolution with the right tools at their fingertips.\n\nFor more information about Blockscope and their offerings, check out their website [here](https://www.blockscope.co/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cb2a041584bb4f62c1320a8d03e3f91d8877dad6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191026Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c06cfdbb9d77645edbe050e22ea34effb64f829e25eb539876747286b36c9d39",
+    "social_links": [
+        "https://www.linkedin.com/company/blockscopeco"
+    ],
+    "logo_path": "data/logos\\Blockscope_logo.png"
+}

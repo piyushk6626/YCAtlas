@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/doublezero",
+    "name": "Doublezero",
+    "headline": "Platform to build, use, and monetize fully autonomous agents",
+    "batch": "S24",
+    "description": "Doublezero is a platform that provides developers with everything they need to build, operate, and monetize autonomous agents. Developers can focus on creating tools while Doublezero handles reasoning frameworks, state management, analytics, monetization, and a runner UI.\r\n\nUsers can interact with agents through a powerful UI that allows play, pause, rewind, and human intervention, and discover or share agents and tools through an integrated marketplace.",
+    "activity_status": "Active",
+    "website": "https://doublezero.tech",
+    "founded_date": 2025.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:infrastructure; industry:ai",
+    "founders": [
+        {
+            "name": "Albrey Brown, Founder",
+            "description": "Co-founder at Ceejay. I'm really good at helping early stage start ups go to market. I built and sold my second company in 2016. Since then I've had the pleasure of working with amazing people at startups like DocuSign, and Airtable. \n\nCeejay is an assistant that saves you time. Mainly by managing your email inbox. Send me an email if you'd like to use it or want to talk sales, marketing, parenting, or crossfit.",
+            "linkedin": "https://www.linkedin.com/in/albreybrown/"
+        },
+        {
+            "name": "Scott Moss, Founder",
+            "description": "Co-founder at Doublezero S24, Tipe W18. Prev eng @Netflix, former VC.",
+            "linkedin": "https://www.linkedin.com/in/willscottmoss/"
+        },
+        {
+            "name": "Travis Ueki, Founder",
+            "description": "Co-Founder of Ceejay, Previously Tipe (W18),  Coinbase (S12)\n\nObsessed with building product. Born and raised on Oahu, Hawaii, my journey\u2019s been anything but conventional.",
+            "linkedin": "https://www.linkedin.com/in/travis-ueki/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Doublezero, founded in 2025 and backed by Y Combinator's Batch S24, is stepping into the exhilarating world of autonomous agents. The company\u2019s mission is straightforward: provide developers with a comprehensive platform to build, use, and monetize these agents without getting bogged down by the underlying complexities. \n\nThink of it like this: if you're a developer, you can concentrate on crafting the tools your agents need, while Doublezero takes care of the heavy lifting\u2014think reasoning frameworks, state management, analytics, monetization, and an intuitive user interface for managing these agents. It\u2019s designed for simplicity and power, allowing users to start, stop, rewind, and even intervene in real-time with the agents they create.\n\nThe platform's architecture is solid. It offers robust functionality: from observing and thinking to deciding and executing\u2014essentially everything your autonomous agents need to thrive. Developers can create their own tools via API routes and leverage an extension library to enhance their agents' capabilities. Moreover, you can track everything that matters\u2014performance metrics, costs, insights for optimization\u2014all in one dashboard.\n\nDoublezero's platform also features a marketplace for tools and agents, making it quick and easy to find community-driven resources. This not only accelerates the development process but also opens up monetization pathways, allowing developers to earn from their creations.\n\nWith a compact team of just two employees and the backing of Garry Tan as their Group Partner, Doublezero is poised to capitalize on the growing demand for autonomous agents. It positions itself as a vital player in a future where these intelligent systems will likely become commonplace.\n\nFor developers eager to start building, Doublezero is currently in beta. If you're interested, you can join the waitlist on their website at [doublezero.tech](https://doublezero.tech). It's an exciting time to dive into the realm of autonomous agents\u2014Doublezero aims to help you do just that.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c25468de1eaf3e2ea9b13a687ab4fd20738a8bef.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191126Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=27811eaffd95dcd4025b887cd9afd51857ffd0bebf58ecd0216ba83b56c24c35",
+    "social_links": [
+        "https://www.linkedin.com/company/doublezero-tech"
+    ],
+    "logo_path": "data/logos\\Doublezero_logo.png"
+}

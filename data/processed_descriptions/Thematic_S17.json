@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/thematic",
+    "name": "Thematic",
+    "headline": "We analyze feedback to help companies improve customer experience",
+    "batch": "S17",
+    "description": "Thematic is a Customer Feedback Analysis platform. We pull feedback from sources you already use for surveying or talking to customers. We automatically discover themes in feedback and provide visualizations and reports that help improve customer satisfaction, prioritize product roadmap and track trends in customer feedback over time.",
+    "activity_status": "Active",
+    "website": "http://www.getthematic.com",
+    "founded_date": 2017.0,
+    "team_size": 25.0,
+    "location": "Auckland, New Zealand",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Alyona Medelyan, Founder/CEO",
+            "description": "Alyona Medelyan, Ph.D. is the CEO of Thematic, an AI-driven customer insights solution. Thematic helps companies improve customer and product experience through insights from customer feedback. Their customers include LinkedIn, DoorDash, LinkedIn and Vodafone. Alyona holds a PhD in Natural Language Processing (NLP). Her academic publications have been cited by more than 2500 researchers. She frequently speaks on this topic at Data Science, AI and Customer Experience conferences.",
+            "linkedin": "https://www.linkedin.com/in/medelyan"
+        },
+        {
+            "name": "Nathan Holmberg, Founder/Vice President of Product",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/nathanholmberg/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Thematic: Transforming Customer Feedback into Actionable Insights**\n\nFounded in 2017 and based in Auckland, New Zealand, Thematic is an innovative AI-powered platform that analyzes customer feedback. As a member of Y Combinator\u2019s Batch S17, they\u2019ve made a significant mark in the realm of customer experience optimization. Thematic empowers organizations by automatically identifying themes from customer feedback gathered through various channels like surveys and reviews. \n\n### Mission\nAt its core, Thematic's mission is straightforward: to enhance customer experience by delivering deep, actionable insights from feedback.\n\n### How It Works\nThematic integrates seamlessly with tools businesses already use for customer interactions. It transforms unstructured data into structured insights, providing visualizations and reports that help companies focus on enhancing customer satisfaction, shaping product roadmaps, and tracking trends over time. \n\n### Key Features\n1. **Automated Theme Detection**: Thematic employs artificial intelligence to automatically tag and group similar feedback, revealing hidden patterns and sentiments within customer responses.\n2. **Powerful Analytics**: Users can explore insights through sophisticated analytics that break down feedback by various parameters\u2014be it product, theme, or sentiment.\n3. **Quick Answers**: Their platform can generate specific insights in seconds, enabling teams to respond to customer needs rapidly.\n4. **Robust Integrations**: One-click integrations allow for an easy amalgamation of feedback from multiple sources, making sure nothing slips through the cracks.\n\n### Impact\nThematic boasts impressive ROI metrics, such as a reported **543% return on investment**, as highlighted in Forrester's TEI report. Their clientele includes well-known companies like DoorDash, Vodafone, and LendingTree, who utilize Thematic to not only enhance their services but also align their teams around key customer insights.\n\n### The Team\nWith a compact but agile team of about 25 employees, Thematic operates under the guidance of Group Partner Michael Seibel from Y Combinator, ensuring they stay on the cutting edge of customer analytics.\n\n### Why Choose Thematic?\nThe platform offers a unique white-box approach to feedback analytics\u2014making the workings of its AI visible and understandable. This transparency, combined with powerful analytics, allows organizations to get to the heart of customer sentiments promptly and effectively.\n\nFor those looking to dive deeper or to see how Thematic can transform customer feedback into growth, a demo can be requested through their website at [getthematic.com](http://www.getthematic.com).\n\nIn a world where understanding customer feedback can feel like hunting for treasure, Thematic not only provides a map but also lends a hand in digging up the insights that truly matter.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5e484118499384e1d02e4d2e1b8b087bd8c182a1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192013Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=584d3deb3c1d3b2440d3369f22d837299d9d0e8131238c9c5aec29222231cea7",
+    "social_links": [
+        "https://www.linkedin.com/company/thematic-ltd",
+        "https://twitter.com/getthematic",
+        "https://www.facebook.com/getthematic",
+        "https://www.crunchbase.com/organization/thematic"
+    ],
+    "logo_path": "data/logos\\Thematic_logo.png"
+}

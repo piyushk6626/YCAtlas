@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/linkgrep",
+    "name": "LinkGrep",
+    "headline": "AI browser copilot for teams",
+    "batch": "W23",
+    "description": "Modern teams work in the browser. But browsers weren't built for teams \ud83d\ude14. \r\n\nThis leads to a bunch of problems like:\r\n- Knowledge/info that is hard to find (links that get lost, documentation that gets, buried, silos, etc)\r\n- Poor collaboration\r\n- Inefficient workflows\r\n\nLinkGrep is an AI browser copilot that solves those problems by making your browser team friendly.\r\n\nSpecifically we help teams:\r\n1. \ud83d\udd17 Keep track of links, documents, and more automatically. With LinkGrep you'll never have to manually add or save a link.\r\n2. \ud83d\udd0d Find information that matters. LinkGrep connects with your existing tools like Notion and Slack and will automatically suggest relevant information to you as your browse (we have semantic search that you can fallback on). Demo: https://youtu.be/jwcPGDRy4oQ\r\n3. \ud83d\udc65 Collaborate better. LinkGrep lets you leave notes and comments directly on web pages \u2014\u00a0you won't ever have to copy paste a link into Slack ever again. \r\n4. \ud83e\udd16 Automate team actions like opening up the right links before a meeting. Never disrupt a meeting to send a link again. Demo: https://youtu.be/an3VKpAWft0",
+    "activity_status": "Active",
+    "website": "https://linkgrep.com",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:productivity; industry:collaboration; industry:remote-work; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Divyagnan Kandala, Founder",
+            "description": "Love working on developer & productivity tools. Previously was a frontend engineer at Stripe, Uber, and Amazon.",
+            "linkedin": "https://www.linkedin.com/in/divyagnan"
+        },
+        {
+            "name": "TJ Kandala, Founder",
+            "description": "Dev and productivity tool builder. Previously was a software engineer at Sourcegraph where I worked on a bunch of extensions (VS Code, Browser, and the Sourcegraph extensions platform).",
+            "linkedin": "https://www.linkedin.com/in/tjkandala/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**LinkGrep: Your AI-Powered Browser Copilot for Teams**\n\nFounded in 2023 and nestled in the vibrant tech sphere of San Francisco, LinkGrep is tackling a crucial problem: browsers weren\u2019t designed for team collaboration. Modern teams are increasingly reliant on browsers for work, yet they often struggle with inefficiencies like lost information, poor collaboration, and cumbersome workflows. Enter LinkGrep\u2014a revolutionary AI browser copilot set to transform the way teams operate within web environments.\n\n### The Mission\nLinkGrep's mission is simple yet ambitious: to make your browser team-friendly. By providing essential tools that streamline how teams share, find, and collaborate on information, LinkGrep reimagines the browsing experience to better suit collaborative efforts.\n\n### Key Features\n1. **Automatic Link Tracking**: Forget the hassle of manually saving links. LinkGrep effortlessly keeps track of all your team\u2019s links and documents.\n2. **Intelligent Information Retrieval**: With integrations into popular tools like Notion and Slack, LinkGrep suggests relevant resources while you browse, ensuring you always find the information that matters.\n3. **Enhanced Collaboration**: No more copying and pasting links into your chat tools! Leave notes and comments directly on web pages\u2014making team discussions more contextual and productive.\n4. **Meeting Ready**: LinkGrep can anticipate which links you need open for meetings and prepare them in advance. That means no more frantic searches for vital resources just as the meeting starts.\n\n### Getting Started\nCurious to see LinkGrep in action? You can book early access through their [website](https://linkgrep.com). For a quick demo, check out their [YouTube](https://www.youtube.com/@linkgrep) channel.\n\n### Where They Stand\nCurrently part of Y Combinator\u2019s Batch W23, LinkGrep is supported by Group Partner Dalton Caldwell and is emerging as a key player in the realms of B2B productivity, collaboration, and remote work solutions. With a lean team of two, they are poised for rapid growth in a demanding market.\n\n### Join the Movement\nIf you\u2019re looking to enhance your team's effectiveness and redefine browser-based collaboration, LinkGrep could be exactly what you need. Don\u2019t miss out; request early access [here](https://linkgrep.com).\n\n---\n\nLinkGrep is where the future of team-based browsing begins\u2014making collaborative online work seamless, straightforward, and surprisingly fun.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5464f63bd272cc999ac2b2dc875dae3b50218adf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191510Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e7ac3313e88012eab894b473c6290944d4f2596075fa2e87cd10fbd8eab77795",
+    "social_links": [
+        "https://www.linkedin.com/company/linkgrep/",
+        "https://twitter.com/linkgrep",
+        "https://github.com/LinkGrep"
+    ],
+    "logo_path": "data/logos\\LinkGrep_logo.png"
+}

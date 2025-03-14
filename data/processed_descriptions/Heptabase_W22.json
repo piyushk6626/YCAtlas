@@ -1,0 +1,45 @@
+{
+    "links": "https://www.ycombinator.com/companies/heptabase",
+    "name": "Heptabase",
+    "headline": "The visual note-taking tool for learning complex topics.",
+    "batch": "W22",
+    "description": "Heptabase is a visual note-taking tool that helps you learn complex topics. You can put your rich-text notes on whiteboards to record your thinking process. When you search for a note in the future, you can find the whiteboards it appears on to remember how you think with perfect visual memory.\r\n\nHeptabase is backed by Y Combinator, HOF Capital, Kleiner Perkins, Moving Capital, Tonic Fund, and other investors, including the founders of Socialcam, Triplebyte, Codementor, and more.",
+    "activity_status": "Active",
+    "website": "https://heptabase.com/",
+    "founded_date": 2021.0,
+    "team_size": 10.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:assistive-tech; industry:saas; industry:consumer; industry:productivity; industry:note-taking",
+    "founders": [
+        {
+            "name": "Alan Chan, Founder",
+            "description": "I'm the co-founder and CEO of Heptabase. I previously studied CS at Minerva University (2019), Physics & Math at National Taiwan University (2016) and voluntarily dropped out from both of them to pursue better ways of learning. I want to help people learn better, think deeper, and make sense of the massive information in our complex world. To achieve that, we're building the best learning tools that will sit on top of a global knowledge discovery platform.",
+            "linkedin": "https://www.linkedin.com/in/yu-an-chan/"
+        },
+        {
+            "name": "Yeefun Lin, Founder",
+            "description": "I'm the co-founder and CTO of Heptabase. I studied Sociology at National Taiwan University (2019) and became a software engineer through self-learning. I believe the best knowledge management can produce the greatest ideas. Starting from Heptabase, we want to reinvent the whole knowledge management system.",
+            "linkedin": "https://www.linkedin.com/in/yeefun/"
+        },
+        {
+            "name": "Ethan Wu, Founder",
+            "description": "I\u2019m the co-founder and product designer of Heptabase. Starting with my electronics engineering background in university, I ended up becoming obsessed with information design. I have a deep belief that knowledge coming from cross-disciplinary exploration plays a crucial part in human technology progress, and Heptabase\u2019s original design began from here.",
+            "linkedin": "https://www.linkedin.com/in/yc-wu/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Heptabase: Redefining Visual Note-Taking\n\n**Overview:**  \nHeptabase is a London-based startup founded in 2021, initially launched as a visual note-taking tool designed to simplify the learning of complex topics. It's like having a digital whiteboard where users can organize rich-text notes, visualize concepts, and map out their thoughts, making learning not just effective but visually engaging. \n\n**Mission:**  \nAt its core, Heptabase aims to empower users to make sense of intricate topics through visual means. By leveraging various formats like whiteboards, mind maps, tables, and more, it helps users integrate and synthesize information seamlessly.\n\n**Funding & Backing:**  \nHeptabase has gained traction and investment from notable names in the tech ecosystem, including Y Combinator, Kleiner Perkins, and Moving Capital, among others. This not only highlights the product's potential but also the confidence investors have in its capability to transform the way people take notes and learn.\n\n**Key Features:**\n- **Visual Learning:** Users can create collaborative whiteboards for research projects, annotate PDFs, and even transcribe audio and video notes.\n- **Offline Functionality:** Need to take notes without Wi-Fi? No problem. Heptabase supports offline access, allowing users to work unfettered by connectivity issues.\n- **Real-Time Syncing:** Whether you're on a desktop, mobile device, or web browser, your notes sync in real-time, ensuring consistency across platforms.\n- **User-Centric Design:** Heptabase boasts a clean UI that combines features reminiscent of RoamResearch and Miro, giving users a unique and intuitive experience.\n\n**Target Users:**  \nHeptabase caters to a diverse audience including:\n- Knowledge workers diving into new domains.\n- Academic researchers compiling literature reviews.\n- Students engaging in deep learning processes.\n\n**Community Feedback:**  \nThe response from users has been overwhelmingly positive, emphasizing Heptabase\u2019s intuitive approach to note-making. Many share that the tool enhances their productivity, helps them visualize ideas, and transforms their learning experience into something more enjoyable. Users describe the platform as a \u201cvisual memex,\u201d highlighting its effectiveness in structuring knowledge in a visual manner.\n\n**Pricing:**  \nHeptabase offers flexible pricing plans:\n- Monthly: $11.99 (with a 7-day free trial).\n- Yearly: $8.99/month (billed annually).\n\n**Conclusion:**  \nIn a world where information overload is the norm, Heptabase emerges as a powerful ally. Its commitment to visual learning and collaborative knowledge building sets it apart in the crowded note-taking space. If you're someone who wrestles with complex ideas and wants a dynamic tool to help you think clearer, Heptabase might just be the solution you need.\n\nFor more information, check out their [website](https://heptabase.com/) and consider starting a free trial to see how it fits into your learning toolkit.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/355abd4505ec4eb2cacdf46f54d49306f1c47671.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191417Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2a6e9da778b47488d518de22704390e10bf85608469ec74f7b5c66c13430bbe1",
+    "social_links": [
+        "https://www.linkedin.com/company/heptabase/",
+        "https://twitter.com/Heptabase",
+        "https://www.facebook.com/heptabase/",
+        "https://www.crunchbase.com/organization/heptabase",
+        "https://github.com/heptameta"
+    ],
+    "logo_path": "data/logos\\Heptabase_logo.png"
+}

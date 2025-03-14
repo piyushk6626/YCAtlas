@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/whaly",
+    "name": "Whaly",
+    "headline": "Whaly is building a self-service analytics platform",
+    "batch": "S21",
+    "description": "Whaly helps data teams save time on maintenance and analysis building while making business users more autonomous on the analysis they want to improve their decision making.\r\n\nWe do this by providing a self service data platform where both data and business teams can work together.\r\n\nWe understood that most data teams were ending up being a bottleneck for the rest of the company and needed to give more autonomy to business teams to back their decisions with data.\r\n\nEmilien, Florian and Pierre were the minds behind the Data advertising platforms of the major media and e-commerce companies in France in their earlier position as Product Manager and head of Customer Success, giving them an edge on how to execute successfully a data project.",
+    "activity_status": "Active",
+    "website": "https://whaly.io",
+    "founded_date": 2021.0,
+    "team_size": 3.0,
+    "location": "Paris, France",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:data-engineering",
+    "founders": [
+        {
+            "name": "Emilien Sanchez, Founder",
+            "description": "As a former product manager I love building products that are heavily used by customers, I also enjoy doing sales and understanding pains and drivers.",
+            "linkedin": "https://www.linkedin.com/in/emiliensanchez/"
+        },
+        {
+            "name": "Florian Buguet, Founder",
+            "description": "COO & Co-Founder @Whaly\nHead of CS @mediarithmics\nPreviously consulting @Accenture & Deloitte",
+            "linkedin": "https://www.linkedin.com/in/florian-buguet-a1150812/"
+        },
+        {
+            "name": "Pierre de Poulpiquet, Founder",
+            "description": "Engineer from Paris, France \ud83c\uddeb\ud83c\uddf7\ud83d\udc13\n\nLoves to hack around \ud83d\udc68\u200d\ud83d\udcbb, eat baguette \ud83e\udd56 and learn new things \ud83e\udde0!\n\nAfter initial experience in Business Consulting \ud83d\udc54 at large firms and product manager \ud83e\udd84 at a Data marketing startup, I'm building Whaly \ud83d\udc33 with my 2 co-founders!\n\nI often have strong opinions/learnings about the stuff that interest me so, keep me posted to see if I can help you with something \ud83d\ude09",
+            "linkedin": "https://www.linkedin.com/in/pierre-de-poulpiquet-28ba1a95/"
+        }
+    ],
+    "status": true,
+    "generated_description": "## Company Overview: Whaly\n\n**Founded:** 2021  \n**Location:** Paris, France  \n**Team Size:** 3 employees  \n**YC Batch:** S21  \n**Website:** [whaly.io](https://whaly.io)  \n\n### Mission\nWhaly aims to build a self-service analytics platform that empowers both data and business teams. Initially, their focus was on reducing the burden on data teams by minimizing maintenance and analysis time, thus increasing autonomy for business users. This approach allows organizations to make data-driven decisions more effectively.\n\n### Problem Addressed\nIn many organizations, data teams act as bottlenecks, hindering swift decision-making across departments. Whaly tackles this challenge by promoting collaboration between data and business teams. The founders, Emilien, Florian, and Pierre, bring extensive experience from creating data advertising platforms for prominent companies in France, which gives them a unique advantage in executing data projects successfully.\n\n### Core Offerings\nWhaly provides a platform that aggregates data and delivers real-time insights, helping businesses to:\n\n- Improve decision-making with actionable insights.\n- Enhance operational efficiencies using AI-based solutions.\n- Enable business users to autonomously engage with data rather than depending on data teams.\n\nTheir features include:\n\n1. **Sales Performance Monitoring**: Track sales metrics in real-time.\n2. **Retail Execution Monitoring**: Optimize field sales operations.\n3. **Custom Application Building**: Develop apps tailored for specific business processes.\n4. **Self-Service Business Intelligence**: Facilitate data exploration for non-technical users.\n\n### Customer Impact\nWhaly has gained traction with several clients, helping them transition to a more data-centric approach. Companies trust Whaly for its effectiveness in driving data adoption, increasing visibility, and facilitating swift, informed decision-making across their operations.\n\n### Testimonials and Success Stories\nCustomers have praised Whaly for saving time, enhancing data visibility, and transforming their data engagement process. One customer noted that Whaly reduced their data preparation time from months to days. Another highlighted the ability to generate metrics quickly without extensive technical knowledge.\n\n### Future Vision\nWhaly is determined to combine human expertise with AI-powered solutions, envisioning a future where businesses can operate without traditional data silos, enabling more strategic decision-making across all levels of the organization.\n\nOverall, Whaly is making strides in democratizing data access and usage, ultimately driving growth and efficiency in an increasingly data-driven world.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/12bb078f9a7ebceeac5451f6d5246f731122fdc4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192059Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7b9e3b83106b7a1135788158cb2a5447a3aab47803b0286bad210b2e7602fa57",
+    "social_links": [
+        "https://www.linkedin.com/company/whalyhq/",
+        "https://twitter.com/WhalyHQ",
+        "https://www.facebook.com/Whaly-110195867443096",
+        "https://www.crunchbase.com/organization/whaly"
+    ],
+    "logo_path": "data/logos\\Whaly_logo.png"
+}

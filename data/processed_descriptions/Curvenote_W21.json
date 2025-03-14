@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/curvenote",
+    "name": "Curvenote",
+    "headline": "Communication and publishing tools for scientists",
+    "batch": "W21",
+    "description": "At Curvenote we are building the communication and publishing tools for scientists and engineers. In the future, every scientific report will feature interactive graphs with live data that will make it significantly easier to share and reproduce the work.",
+    "activity_status": "Active",
+    "website": "https://curvenote.com",
+    "founded_date": 2019.0,
+    "team_size": 3.0,
+    "location": "Calgary, Canada",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:documents; industry:developer-tools; industry:saas",
+    "founders": [
+        {
+            "name": "Rowan Cockett, Founder",
+            "description": "I started and sold my previous web-based 3d visualization startup while I was finishing my PhD in computational geophysics. I then ran the cloud team at Seequent ($1.05B exit, 2021).\n\nI am interested in the intersection of education, industry, and research, and am on a mission to make powerful scientific data, visualization and communication tools accessible through the web. Curvenote is part of my mission to reimagine collective knowledge creation for modern science.",
+            "linkedin": "https://www.linkedin.com/in/rowancockett/"
+        },
+        {
+            "name": "Steve Purves, Founder",
+            "description": "An engineer with 20+ years industry experience building software for scientists and engineers. Deep technical expertise in computer vision, data science and machine learning. Led product development and R&D teams and managed multi-year R&D projects with Oil & Gas majors. In 2013, he founded a consultancy and leading distributed technical teams in both startups and enterprise in energy, healthcare, finance and electronic manufacturing. Founding member of an open geoscience society.",
+            "linkedin": "https://www.linkedin.com/in/stevejpurves/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Curvenote is a SaaS company redefining how scientists and engineers communicate and publish their work. Founded in 2019 and hailing from Calgary, Canada, Curvenote is a member of Y Combinator\u2019s Winter 2021 batch and currently consists of a compact team of three.\n\nIts mission is rooted in transforming scientific publishing from static formats to dynamic, interactive platforms. Imagine scientific reports filled with live data graphs, engaging readers more effectively and making replication of studies a breeze\u2014that\u2019s the future Curvenote is building toward.\n\nThe platform offers a suite of tools designed to enhance the readability and interactivity of scientific content. Researchers can craft articles that prioritize web-first experiences, making it easier to digest complex data. Essentially, it's about bringing science into a modern context where engagement and reproducibility are vastly improved.\n\nCurvenote supports a range of users\u2014from individual researchers to large universities and research institutes\u2014by streamlining the publishing process, integrating rich datasets, and enriching documents with metadata to improve discoverability. Their offerings don't stop there: they also enable collaborative reporting, tool integration, and even flexible hosting options tailored to teams that vary in scale.\n\nSome of Curvenote\u2019s current initiatives include partnerships with organizations like the American Geophysical Union and the Microscopy Society of America. These collaborations are aimed at embedding computational notebooks into traditional publishing workflows, which is a game-changer for producing rich, reproducible research.\n\nCurvenote's vision clearly acknowledges a simple truth: science deserves better than a PDF. By embracing this ethos, they aim to elevate the entire experience of research publication, ensuring that insights are shared, understood, and built upon effectively. \n\nIf you\u2019re curious about what Curvenote offers or want a firsthand experience, you can check out their website at [curvenote.com](https://curvenote.com). More than just a tool, Curvenote represents a shift toward more integrated, interactive, and ultimately impactful scientific communication.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dcaae3e7455937f59220dd07450cf572406922a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=50b259fa2cd221cb1999d8fdb1c569e6027cc7fd7c7f7b372266a6e719143ba5",
+    "social_links": [
+        "https://www.linkedin.com/company/curvenote/",
+        "https://twitter.com/curvenote",
+        "https://www.crunchbase.com/organization/curvenote",
+        "https://github.com/curvenote"
+    ],
+    "logo_path": "data/logos\\Curvenote_logo.png"
+}

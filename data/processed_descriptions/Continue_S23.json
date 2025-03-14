@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/continue",
+    "name": "Continue",
+    "headline": "The leading open-source AI code assistant",
+    "batch": "S23",
+    "description": "The leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside the IDE",
+    "activity_status": "Active",
+    "website": "https://continue.dev",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:devsecops; industry:machine-learning; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ty Dunn, Founder",
+            "description": "an amplified.dev @ Continue. Previously Founding --> Group PM @ Rasa, adaptive computation @ UMich",
+            "linkedin": "http://linkedin.com/tylerjdunn"
+        },
+        {
+            "name": "Nate Sesti, Founder",
+            "description": "Coding @ Continue. Previously math and physics @ MIT ('23), first hire @ Mayan (W21), building mission control software @ NASA Jet Propulsion Laboratory",
+            "linkedin": "https://linkedin.com/in/natesesti"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Continue: The Open-Source AI Code Assistant\n\n**Company Overview:**\n\nFounded in 2023 and based in San Francisco, Continue positions itself as the leading open-source AI code assistant. It aims to significantly enhance the coding experience by allowing developers to connect any models and contexts, creating custom autocomplete and chat experiences directly within their Integrated Development Environments (IDEs).\n\n**Founders and Team:**\n\nContinue is a burgeoning startup with a compact team of five members. They are part of the Y Combinator Batch S23, a prestigious startup accelerator known for nurturing some of the most successful tech companies. Nicolas Dessaigne serves as a group partner, lending his expertise to guide the company towards growth and success.\n\n**Mission and Features:**\n\nThe mission of Continue is straightforward yet ambitious: to amplify developers' productivity through AI-enhanced development tools. The platform offers a plug-and-play system that seamlessly integrates with widely-used IDEs like VS Code and JetBrains. \n\n**Key Functionalities:**\n1. **Autocomplete:** The AI assists in autocompleting single lines or entire sections of code, accommodating any programming language.\n2. **Reference and Chat:** Developers can attach code snippets and context to pose questions about functions or the entire codebase, essentially functioning like a coding assistant that keeps you in flow.\n3. **Highlight and Instruct:** Users can highlight code sections and utilize natural language to rewrite code, bridging the gap between coding and communication.\n\n**Customizable AI Ecosystem:**\n\nContinue empowers developers to tailor their coding assistants to fit their unique workflows. They can leverage different models (like OpenAI and Anthropic) and contexts (from entire codebases to documentation) to create robust, personalized coding experiences. \n\n**Community and Support:**\n\nContinue actively fosters a community via GitHub and Discord, encouraging collaboration and feedback. They also provide extensive documentation and support to help users maximize the potential of their AI assistants.\n\n**Where to Find Them:**\n- Website: [continue.dev](https://continue.dev)\n- GitHub: Check out their source code and contribute to their growth.\n- Join their Discord for real-time community engagement.\n\n### Closing Thoughts\n\nContinue is stepping into a vital space in the developer tools market\u2014where open-source software meets the accelerating world of AI. By focusing on productivity enhancements, customizable solutions, and community involvement, they are poised to make a significant impact on how developers engage with code. If you're a developer looking to amplify your productivity, Continue might just be the companion you've been waiting for.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7e3caff6885f7956798fbaab998c02b23342b58c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191102Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2903dfc1f09e3fbc8d63eaacec3ace24c02c220217e55e6b096233177ee97301",
+    "social_links": [
+        "https://www.linkedin.com/company/continuedev",
+        "https://twitter.com/continuedev",
+        "https://github.com/continuedev"
+    ],
+    "logo_path": "data/logos\\Continue_logo.png"
+}

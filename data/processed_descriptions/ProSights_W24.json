@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/prosights",
+    "name": "ProSights",
+    "headline": "ProSights is an AI-native workflow automation / search platform for\u00e2\u0080\u00a6",
+    "batch": "W24",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://prosights.co/",
+    "founded_date": 2023.0,
+    "team_size": 14.0,
+    "location": "New York",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:analytics; industry:enterprise-software; industry:investments; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Justin Wu, Founder",
+            "description": "Justin is a co-founder of ProSights. Previously, he worked in consumer tech PE / growth equity at Permira, PE at BayPine Capital, and investment banking at Citi. Justin studied economics at Harvard.",
+            "linkedin": "https://linkedin.com/in/justinwuokc"
+        },
+        {
+            "name": "Aaron Guo, Founder",
+            "description": "Aaron is a co-founder of ProSights. Previously, he worked in consumer tech PE / growth equity at Permira and before that in technology investment banking at Goldman Sachs. Aaron studied economics at UChicago.",
+            "linkedin": "https://linkedin.com/in/guoaaron"
+        },
+        {
+            "name": "Howard Zhong, Founder",
+            "description": "Howard is a co-founder of ProSights. He studied CS and Math in his undergrad and CS in his masters at MIT. He previously worked in quant trading at Jane Street, software engineering at Apple, and research at MIT-IBM Watson AI Lab and MIT CSAIL. Before ProSights, Howard was doing his PhD in AI/ML at Princeton.",
+            "linkedin": "https://linkedin.com/in/howard-zhong"
+        }
+    ],
+    "status": true,
+    "generated_description": "**ProSights: Revolutionizing Financial Workflows with AI**\n\n**Overview**\nFounded in 2023 and currently part of Y Combinator Batch W24, ProSights is setting out to transform how financial institutions handle data and workflows. Situated in New York, the company boasts a nimble team of 14 employees, led under the partnership of Brad Flora.\n\n**Mission**\nProSights seeks to provide an \"AI-native workflow automation/search platform\" specifically designed for the financial sector. By employing advanced AI and machine learning techniques, the goal is to streamline complex financial processes and enhance data accessibility, ultimately leading to faster and more informed decision-making.\n\n**Core Offerings**\nProSights specializes in a suite of tools that enable financial professionals to automate, extract, and analyze data efficiently. Key features of the platform include:\n\n- **Data Extraction**: Instant data extraction from PDFs, scanned documents, and images directly into Excel, ensuring accuracy and saving valuable time.\n- **Smart Chart Generation**: Ability to create charts from any PDF or image, complete with Excel-ready formats.\n- **Workflow Automation**: Custom-trained AI models designed to handle intricate financial workflows, offering both templated and customizable outputs tailored to user needs.\n- **AI-powered Knowledge Retrieval**: Utilizing finance-specific models to deliver insights, with robust document tracking and citation mechanisms.\n\n**Security and Compliance**\nAcknowledging the sensitivity of financial data, ProSights emphasizes top-notch data security with AES-256 encryption and stringent compliance measures, including SOC II certification. The platform is structured to ensure that client data stays private, as it's designed to operate within a user's Virtual Private Cloud (VPC).\n\n**Trusted by Experts**\nProSights\u2019s tools have been validated by leading industry professionals. Users have praised its ability to drastically reduce the time typically spent on tasks like data recreation, document review, and presentation preparation. For many, ProSights has become an indispensable part of their workflow\u2014saving hours of effort, ensuring accuracy, and enabling a more efficient allocation of resources.\n\n**Why ProSights Stands Out**\nWhat uniquely positions ProSights within the crowded AI landscape is its laser focus on the financial industry. With advanced tagging and retrieval algorithms specifically crafted for investors, this platform integrates seamlessly with existing investment workflows, granting users rapid access to critical insights without compromising data security.\n\n**Conclusion**\nIn a world where data is paramount, ProSights stands poised to lead the charge in financial AI applications. By simplifying complex processes and ensuring robust security, it's not just another tool\u2014it's a potential game-changer for financial institutions looking to thrive in an increasingly data-driven environment. For those involved in finance, now\u2019s the time to explore how ProSights can empower your decision-making processes. \n\nFor more information, check out [ProSights\u2019 official website](https://prosights.co/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/90b99e6e67621a89c02b0d6824f1fcb39a787c3e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191656Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9c3dc989f0194d56f0ea681521aeb55d4f44cafef3792ed76c3e4a5b39ffa545",
+    "social_links": [
+        "https://www.linkedin.com/company/prosightsdata/",
+        "https://www.crunchbase.com/organization/prosights"
+    ],
+    "logo_path": "data/logos\\ProSights_logo.png"
+}

@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/ionworks",
+    "name": "Ionworks",
+    "headline": "Simulation software used by leading battery and automotive companies",
+    "batch": "S24",
+    "description": "Every battery company spends tens of millions of dollars a year on experiments. Simulations that replace experiments reduce these costs but are currently underutilized in industry because they are hard to create and run. We make simulations accessible to every engineer, by helping them to create models from their own data, then run large scale simulations in the cloud to explore the full design space.",
+    "activity_status": "Active",
+    "website": "https://ionworks.com/",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": null,
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Valentin Sulzer, Founder",
+            "description": "Created PyBaMM, the world's leading open-source battery simulation software. Now building Ionworks to make it accessible to every single battery engineer around the world. Previously PhD (Maths) at Oxford + 4 years engineering research at University of Michigan and Carnegie Mellon",
+            "linkedin": "https://www.linkedin.com/in/valentinsulzer/"
+        },
+        {
+            "name": "Rob Timms, Founder",
+            "description": "Co-Founder and CTO at Ionworks, building the modern software stack for batteries, powered by PyBaMM. Core developer of the leading open-source battery modelling package PyBaMM. Ex-Oxford mathematician.",
+            "linkedin": "https://www.linkedin.com/in/robertwtimms/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Ionworks Overview\n\n**Company Name:** Ionworks  \n**Founded:** 2023  \n**Location:** Pittsburgh, PA  \n**Team Size:** 5 employees  \n**Y Combinator Batch:** S24  \n**Group Partner:** Gustaf Alstromer  \n\n#### Mission\nIonworks is on a mission to revolutionize the battery industry by providing simulation software that empowers engineers at battery and automotive companies to design and refine products without costly physical experiments. Their platform simplifies the creation and execution of simulations, helping teams to efficiently explore the full design space.\n\n#### The Problem\nBattery companies often spend millions annually on experimentation. Traditional testing methods are expensive and slow, which leads to increased time-to-market and raised costs. Ionworks aims to change that by making simulations more accessible to engineers, allowing them to draw on their own data to create dynamic models.\n\n#### What They Do\nIonworks provides an all-in-one battery simulation platform that enables users to:\n- **Run Simulations Efficiently:** Reduce reliance on prototypes and lab tests by simulating battery performance under various conditions.\n- **Test Multiple Scenarios:** Instantly explore different chemistries and conditions to identify viable designs early in the development phase.\n- **Utilize Advanced Models:** Rely on electrochemical and data-driven models that closely predict real-world battery behavior.\n- **Collaborate with Teams:** Share findings and insights seamlessly across teams to enhance decision-making processes.\n\n#### Key Features\n1. **Create Models:** Users can easily create ready-to-use battery cell models based on provided chemistry and capacity.\n2. **Run Experiments:** Choose from a library of predefined tests to explore a variety of parameters.\n3. **Visualize Data:** Present simulation results through intuitive charts, allowing for easy trend analysis and performance tracking.\n4. **Iterate Rapidly:** Adjusting design parameters is easy, helping users to experiment without the need for tedious coding or physical builds.\n5. **Track Improvements:** Past simulations can be compared side-by-side for continuous improvement.\n\n### Services Offered\n- **Battery Cycler Simulator:** This feature helps users to verify their testing protocols, preventing costly mistakes before actual experiments are conducted.\n  \n### Call to Action\nIonworks encourages interested parties to book a demo and experience their cutting-edge simulation capabilities firsthand. More information can be found on their [website](https://ionworks.com/).\n\n### Conclusion\nIonworks is poised to accelerate innovation in battery technology by transforming how companies approach product development. Their simulation platform not only reduces costs but also streamlines the workflow for engineers, making it an essential tool for any organization dedicated to advancing battery technology.\n\nFor more insights and to book a demo, check out Ionworks\u2019 services at [ionworks.com](https://ionworks.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/98b60679a7312610f90e7802a86b365893e8dce6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191438Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c5ca7d6f384ba73483f5c3cf6c5cfa5cc6286ba64f4c6dc4bf6091e158e4140c",
+    "social_links": [
+        "https://www.linkedin.com/company/ionworks-technologies/",
+        "https://x.com/ionworks_",
+        "https://github.com/ionworks"
+    ],
+    "logo_path": "data/logos\\Ionworks_logo.png"
+}

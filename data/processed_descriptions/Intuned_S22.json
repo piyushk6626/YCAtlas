@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/intuned",
+    "name": "Intuned",
+    "headline": "Reliably integrate with websites that don\u00e2\u0080\u0099t have official APIs",
+    "batch": "S22",
+    "description": "Intuned is an AI enabled cloud platform to author, deploy, and monitor integrations to extract web data and execute browser automation. We enable engineers to build reliable integrations to access data and complete actions on other web services when official APIs are not available or complete.",
+    "activity_status": "Active",
+    "website": "https://intunedhq.com",
+    "founded_date": 2022.0,
+    "team_size": 7.0,
+    "location": "Kirkland, WA",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:robotic-process-automation; industry:b2b; industry:api",
+    "founders": [
+        {
+            "name": "Faisal Ilaiwi, Founder",
+            "description": "I am a software engineer. I started my career at Microsoft (6.5 years) and then joined UiPath (3.5 years). In UiPath, I had the roles of an Engineering Manager and a Director of Engineering, where I grew my team from 2 to ~20 people within 2.5 years and faced many challenges doing that. We are building Intuned to help ease some of these challenges.\n\nI grow up in Palestine and went to college there; I was then hired to join Microsoft from there.",
+            "linkedin": "https://www.linkedin.com/in/faisal-ilaiwi-77356135/"
+        },
+        {
+            "name": "Zawad Chowdhury, Founder",
+            "description": "Previously I served as a Platform Product Manager at Microsoft and UiPath. \n\nNow I'm on a mission to help developers reliably integrate with websites that don\u00e2\u0080\u0099t have official APIs.\n\nI enjoy convincing people to do intramurals, spending time with family, reading mangas, and listening to audiobooks.",
+            "linkedin": "https://www.linkedin.com/in/zawad-chowdhury"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Intuned: A Game-Changer in Web Automation**\n\nFounded in 2022 and part of Y Combinator Batch S22, Intuned is an innovative AI-enabled cloud platform located in Kirkland, WA. With a compact but agile team of seven, Intuned is on a mission to integrate with websites that lack official APIs, simplifying the complex landscape of web data extraction and browser automation.\n\nAt its core, Intuned serves developers and product teams by allowing them to develop, deploy, and monitor reliable web scrapers and browser automations. What sets it apart is its ability to handle scenarios where traditional APIs fall short. Imagine not having to manually construct selectors\u2014Intuned automates that process. As a developer, you just describe the data you need, and Intuned does the rest, keeping you focused on building instead of breaking.\n\n### Use Cases Across Industries\n\n- **Government Services:** Extract and act on data from government websites at scale.\n- **Sales Automation:** Automate social media actions for your users effortlessly.\n- **Insurance:** Collect and analyze data for market trends, enhancing investment decisions.\n\nWith tools like their Intuned IDE, built-in support for user authentication, and seamless scaling capabilities, the platform positions itself as not just a product, but a robust infrastructure for browser automation.\n\n### Competitive Advantage\n\nBefore Intuned, creating scrapers meant constant tweaking and updates. Now? With their optimized extractors, your focus shifts from maintenance to leveraging data\u2014in a simple and straightforward manner.\n\n### Learn More\n\nFor developers and teams looking to level up their web scraping and automation processes, Intuned provides an accessible way to get started. You can explore their offerings through [their website](https://intunedhq.com), check out pricing details, or even book a demo to see the magic in action.\n\n**In summary**, Intuned is pushing the envelope in web automation, making it more accessible and manageable for developers everywhere. With AI at play, they are making complex tasks feel effortless, and that\u2019s something worth tuning into.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0038d889e6a3c26da42758d9adf2d24b7436c3ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191436Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=43f1dbe0fc50a219b13d31b6bb8ef5100ccada9b26bb572f4572f655da8c5ca5",
+    "social_links": [
+        "https://www.linkedin.com/company/82287935",
+        "https://twitter.com/IntunedHQ",
+        "https://www.facebook.com/IntunedHQ/",
+        "https://www.crunchbase.com/organization/metrics-shop"
+    ],
+    "logo_path": "data/logos\\Intuned_logo.png"
+}

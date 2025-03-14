@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/customeros",
+    "name": "CustomerOS",
+    "headline": "The only agent-first CRM, designed for humans and built for B2B SaaS.",
+    "batch": "S22",
+    "description": "The Top 10% of SaaS companies generate 87% of all market returns.  CustomerOS gives you the data and tooling to compete with the top 10%.  \r\n\nSpecifically, we solve three major problems in B2B SaaS today:\r\n\n1. CustomerOS is a system of record for all your customer data.  We support 100+ integrations with any app or database that touches customer data.  And there's no engineering required.\r\n\n2. CustomerOS provides tooling for your in-life customer motion.  We predict renewals (and churn), provide risk-weighted ARR forecasts, and manage all your customer workflows, from onboarding to invoicing to expansion to advocacy.\r\n\n3. CustomerOS lead scores your pipeline against your ICP.  We build data-driven profiles of your best customers and provide a real-time ICP-fit indicator on your sales and marketing pipeline.  This ensures you're spending your CAC acquiring customers who are primed to renew year after year and expand as they grow.",
+    "activity_status": "Active",
+    "website": "https://customeros.ai",
+    "founded_date": 2021.0,
+    "team_size": 10.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:customer-success; industry:open-source; industry:sales",
+    "founders": [
+        {
+            "name": "Matt Brown, Founder",
+            "description": "Matt Brown is a three-time entrepreneur with one successful exit.  As the VP of Product at Voxbone, he launched and grew the business across 38 countries and over 900 customers.  In October 2020 Voxbone was acquired by Bandwidth for $519.4 million.  \n\nMatt was also the co-founder and CEO of Tengo Inc., a fintech platform serving the unbanked in ascending economies, and VP of Product at Prove, a digital identity platform trusted by 1000+ Enterprises and 500+ Financial Institutions globally.",
+            "linkedin": "https://www.linkedin.com/in/mateocafe/"
+        },
+        {
+            "name": "Vasi Coscotin, Founder",
+            "description": "Vasi is a technical and people leader having 10+ years of experience building complex distributed systems developed and managed by distributed teams all over the globe. Vasi started in software for education sector, then tried to build a couple of startups that failed. Joined Voxbone for a 7 years jurney to scaled up the systems and the tech teams to support the accelerated growth from a start-up to a global communication network that is behind most used communication platforms.",
+            "linkedin": "https://www.linkedin.com/in/vasilica-coscotin-2755b153/"
+        },
+        {
+            "name": "Jonty Knox, Founder",
+            "description": "Jonty is a natural tech leader, after cutting his teeth closing $1B+ contracts with BT while at Huawei, he went on to build several product and tech teams in the communications space that built $100M's of value. Prior to founding CustomerOS, he exited Voxbone in a $500M+ acquisition by Bandwidth, and then set fintech startup Otto on the path to success, being selected for Sequoia Arc's first ever batch in 2022.",
+            "linkedin": "https://www.linkedin.com/in/jontyknox/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**CustomerOS Overview**\n\nCustomerOS is an innovative player in the B2B SaaS space, operating out of London, United Kingdom. Founded in 2021 and part of Y Combinator's Batch S22, their mission is clear: to provide a CRM that prioritizes the agent experience, designed for human interaction and optimized for B2B companies.\n\n**Core Problems They Address**\n\nThe company identified three major challenges in the B2B SaaS realm that they aim to solve:\n\n1. **Centralized Customer Data:** CustomerOS functions as a comprehensive system of record, supporting over 100 integrations with various applications and databases without needing any engineering work.\n\n2. **Customer Workflow Management:** The platform predicts renewals and churn, offers risk-weighted ARR forecasts, and manages end-to-end customer workflows\u2014from onboarding through invoicing to advocacy.\n\n3. **Lead Scoring and ICP Fit:** By leveraging data-driven profiles, CustomerOS evaluates the sales pipeline against Ideal Customer Profiles (ICPs). This approach ensures that marketing and sales efforts are channeled towards customers likely to renew and expand.\n\n**What They Offer**\n\nWhat set CustomerOS apart is their use of AI agents aimed at automating inbound sales processes. These agents free up sales teams by handling repetitive tasks and providing insights, allowing professionals to focus on building meaningful relationships. \n\n### Key Features:\n- **AI Agents:** Automate inbound sales tasks, saving time and increasing efficiency.\n- **Lead Qualification:** Utilize CRM data and social signals to quickly qualify leads.\n- **Pipeline Notifications:** Get real-time alerts for new leads via Slack.\n- **Data Enrichment:** Automatically update CRM data and enrich profiles.\n- **Flexible Integrations:** Full API control and support for 110+ platforms.\n\n### Current Status\nWith a team of just ten employees and backed by notable investors like Y Combinator and Seedcamp, CustomerOS is making waves in the sector. Michael Seibel serves as their Group Partner, and as of October 2023, the company is well-positioned for growth.\n\nThe company's approach is authentic: \"We created the Growth & GTM platform we wish we had at Voxbone,\" says Matt Brown, one of the founders. Their background includes building Voxbone into a significant voice communications provider, culminating in a $519 million exit, which deeply informs their current venture.\n\nFor businesses looking to harness the power of an adaptable CRM that aligns closely with their operational needs, CustomerOS could be the tool that redefines how B2B relationships are managed.\n\n**Explore More:**\nFor further details on their offerings, visit their website at [CustomerOS.ai](https://customeros.ai).\n\n*CustomerOS \u2013 Where AI meets human-centric sales strategies.*",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2a793f0ab43b556de9990e11b37da885eb3c6f21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=15afc0b9cd6ab0c87bd0f8d716fa4ce980ba0379147f3c12e8ffab1a74058489",
+    "social_links": [
+        "https://www.linkedin.com/company/customer-os/",
+        "https://twitter.com/customer_os",
+        "https://www.crunchbase.com/organization/customer-os",
+        "https://github.com/customeros/customeros"
+    ],
+    "logo_path": "data/logos\\CustomerOS_logo.png"
+}

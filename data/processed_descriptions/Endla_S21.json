@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/endla",
+    "name": "Endla",
+    "headline": "Software that increases the value of oil & gas wells",
+    "batch": "S21",
+    "description": "Endla increases the value of oil & gas wells by providing software that helps design the well that maximizes ROI.\r\n\nOur product AlphaSpace, optimizes the well design by automatically producing many high-quality options which the engineer can then measure against their business objectives (auto-design). Having software that finds the optimal solution, empowers the engineer to work a layer up on understanding the problem and specifying the important objectives.\r\n\nOur vision is to make auto-design and auto-operation software part of the workflow for every engineer working with physical assets.",
+    "activity_status": "Active",
+    "website": "https://endla.com",
+    "founded_date": 2019.0,
+    "team_size": 8.0,
+    "location": "Brisbane, Australia",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; industry:energy; industry:big-data",
+    "founders": [
+        {
+            "name": "Riley O'Donnell, Founder",
+            "description": "I worked in industry as a process engineer and built internal software to help my team do its job at both ExxonMobil and Santos. I saw the benefit of the software first hand, however, I also saw that these organisations were unable to maintain it long term. I'm passionate about combining engineer and software skill sets to address these shortcomings and help move the traditional engineering sector forwards.",
+            "linkedin": "https://www.linkedin.com/in/rileyodonnell-1/"
+        },
+        {
+            "name": "Michael Moore, Founder",
+            "description": "I\u2019m a software specialist with a strong software architecture and mathematics background. Before Endla I consulted on software and infrastructure architecture design to solve pressing problems for businesses of all sizes. Through this I have seen many ways which software fails and how to avoid these issues. I cofounded Endla with Riley to solve a class of problems in a high value and underserviced industry, bringing the energy industry forward.",
+            "linkedin": "https://www.linkedin.com/in/michaelmoore1997/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Endla: Optimizing Oil & Gas Well Performance through Software Innovation**\n\nFounded in 2019 and hailing from Brisbane, Australia, Endla is shaking up the oil and gas sector with its innovative software solutions. They are part of the Y Combinator Batch S21, which speaks volumes about their potential and the backing they have. The mission at Endla is clear: to enhance the value of oil and gas wells through intelligent software designed to maximize return on investment (ROI).\n\nTheir flagship product, **AlphaSpace**, employs automation to generate high-quality design options for wells. Engineers can leverage these options to align with their business objectives effectively. By streamlining the design process, Endla empowers engineers to shift focus from mere execution to a deeper understanding of the problems at hand. This progressive approach to well design is not just smart; it\u2019s crucial in today\u2019s resource-intensive landscape.\n\nEndla\u2019s vision extends well beyond just a single product; they aim for **auto-design and auto-operation** software to become standard in the workflows of engineers handling physical assets. This ambition positions Endla not just as a tool provider, but as a vital partner in the energy industry\u2019s transformation.\n\nTheir **Deep Insight** platform takes things a step further by offering a digital twin technology that visualizes, automates, and optimizes oil and gas assets. With features that facilitate the automation of various engineering processes\u2014like well casing tallies with **AlphaSpace** and pipeline design workflows\u2014Endla makes complex tasks significantly easier and more efficient. \n\nToday, with a lean team of eight, including their Group Partner Michael Seibel, Endla has already made an impact, earning praise from clients like Santos and Origin Energy, who highlight the software's efficiency and effectiveness. One client remarked on how a task that used to take a week could now be completed in just days, underscoring the software's power for real-world applications.\n\nEndla is tagged in key areas such as **analytics**, **energy**, and **big-data**, aligning perfectly with the industry's shift towards data-driven decision-making. \n\nIf you're interested in harnessing advanced technological solutions to enhance the performance of oil and gas wells, Endla should be on your radar. Check out their website at [Endla.com](https://endla.com) for more insights into their innovative products and to get started on optimizing your operations.\n\nIn summary, Endla is not just improving the status quo in oil and gas; they are redefining it. With automation and optimization at their core, they are paving the way for engineers to operate at their best, maximizing the value of critical resources in today\u2019s fast-paced market.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d9070e2b6abfe651a44a7df0bceb491c2c2365c8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191315Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ced1a20aad32dc070c29e317180675e42c70ff26593329f41d48ef483f790153",
+    "social_links": [
+        "https://www.linkedin.com/company/endla",
+        "https://github.com/madebyendla"
+    ],
+    "logo_path": "data/logos\\Endla_logo.png"
+}

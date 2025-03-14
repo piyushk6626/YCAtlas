@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/truffle-ai",
+    "Name": "Truffle AI",
+    "Headline": "AI Agents that work in any software",
+    "Batch": "W25",
+    "Description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "Activity_Status": "Active",
+    "Website": "https://www.trytruffle.ai/",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "https://www.linkedin.com/company/truffle-ai/",
+    "Company_Twitter": "",
+    "Tags": "industry:developer-tools; industry:generative-ai; industry:infrastructure; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/truffle-ai/",
+        "https://github.com/truffle-ai/truffle-ai-sdk"
+    ],
+    "logo_path": "data\\logos\\Truffle_AI.png",
+    "Active_Founders": [
+        {
+            "Name": "Rahul Karajgikar, Founder",
+            "Description": "Former engineer at AWS OpenSearch. Building developer tools for AI Agents at Truffle AI.",
+            "LinkedIn": "https://www.linkedin.com/in/rahul-karajgikar"
+        },
+        {
+            "Name": "Shaunak Srivastava, Founder",
+            "Description": "Co-founder & CEO of Truffle AI. Previously worked on developing AI products for face recognition and health estimation. Spent a year at CMU as a visiting scholar researching 3D generative models.",
+            "LinkedIn": "https://www.linkedin.com/in/shaunak-srivastava-244567163/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Truffle AI: A Streamlined Approach to AI Integration**\n\nFounded in 2024 and nestled in the heart of San Francisco, Truffle AI\u2019s mission is straightforward yet transformative: to create AI agents that seamlessly function within any software environment. Imagine being able to tap into the power of AI without the usual complexities\u2014that's exactly what Truffle AI is bringing to the table.\n\nInitially, Truffle AI aimed to simplify the integration of AI agents for developers. By exposing these agents as simple APIs, the team allows developers to enhance software applications effortlessly. So far, they've laid the groundwork for innovations like customer support agents in WhatsApp or analytics agents in Slack. This means that companies can now incorporate smart, responsive AI solutions into their existing workflows, enhancing productivity and user experiences.\n\nThe startup is a proud member of the prestigious Y Combinator Batch W25, which is not just a badge of honor but a signal of considerable potential and validation from one of the top incubators. Despite being a small team of just two, they\u2019re backed by Harj Taggar as their Group Partner\u2014a choice that reflects their commitment to growth and strategic insight.\n\nTruffle AI is categorized as a player in the developer tools, generative AI, AI infrastructure, and assistants space, making them a versatile tool for developers looking to elevate their applications.\n\nFor those interested in exploring what they have to offer, you can check out their website at [trytruffle.ai](https://www.trytruffle.ai/). If you want to integrate AI agents into your software but thought it was too complicated, Truffle AI might just be the solution you didn't know you were looking for."
+}

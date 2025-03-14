@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/suger",
+    "name": "Suger",
+    "headline": "Salesforce for Cloud marketplaces on AWS, Azure, GCP",
+    "batch": "W23",
+    "description": "The cloud marketplaces on AWS, Azure, and GCP have become the App Store for B2B software products. It\u2019s growing close to 100% year-over-year since it gives software sellers access to cloud budgets and makes procurement 40% faster. The core problem is the cloud marketplace is hard to navigate and requires an upfront technical investment without knowing the expected ROI. Suger eliminates the need to reinvent the wheel with your own engineering resource or spend a fortune on consulting-based solutions.",
+    "activity_status": "Active",
+    "website": "https://www.suger.io/",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "San Mateo, CA",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:marketplace; industry:saas; industry:b2b; industry:sales; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Chengjun Yuan, Founder",
+            "description": "ex-Google, FB & Confluent",
+            "linkedin": "https://www.linkedin.com/in/chengjunyuan/"
+        },
+        {
+            "name": "Jon Yoo, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/jongwoo-yoo-4861439a/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Suger: Simplifying Cloud Marketplace Transactions\n\n**Overview:**\nFounded in 2022 and based in San Mateo, California, Suger is a startup that aims to revolutionize the way B2B software products operate within cloud marketplaces, specifically Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Having recently emerged from Y Combinator's Batch W23, the company is already making waves in a market that thrives on accessibility and efficiency.\n\n**Mission:**\nSuger\u2019s mission is clear-cut: to create a Salesforce-like experience for cloud marketplaces. They recognize that while these platforms might resemble an App Store for businesses, navigating them can be daunting. The upfront technical investment required, along with uncertainty about returns, often discourages potential sellers. Suger effectively removes this barrier, allowing companies to leverage existing cloud budgets while expediting procurement by as much as 40%.\n\n**What They Do:**\nWith a lean team of six, Suger provides a suite of services that streamline the marketplace experience:\n- **Marketplace Management:** Tools to simplify listing, transacting, and co-selling of software offerings.\n- **Co-Sell Feature:** Integrates directly with CRMs to manage referrals and deals with cloud providers like AWS, Azure, and GCP.\n- **Metering & Billing Solutions:** Converts raw usage data into actionable billing reports with seamless integrations.\n\n**Why Choose Suger?**\n- **No Need for Technical Overhaul:** Suger eliminates the hassle of hiring engineers or spending on consultants with ready-to-use solutions.\n- **API-First Approach:** Their technology supports easy integrations with existing business tools, enhancing workflow without significant overhead.\n- **Proven Results:** Customers like Astrix Security and Fireblocks sing praises for the efficiency and support provided by Suger, testament to their effectiveness in streamlining marketplace transactions.\n\n**Target Market:**\nSuger is ideally positioned for businesses looking to capitalize on cloud marketplaces without the common pitfalls. Their focus on B2B software products allows them to cater to a high-demand sector eager for efficiency.\n\n**Joining the Cloud Revolution:**\nAs marketplaces continue to grow\u2014nearly doubling in size year-on-year\u2014Suger stands poised to be a key player. Their proactive approach in removing barriers to entry means they aren\u2019t just a service provider; they\u2019re a crucial partner in adapting to the evolving landscape of cloud software sales.\n\n**Contact Suger:**\nFor companies eager to dive into this marketplace revolution, Suger can be reached through their [website](https://www.suger.io/) for demos and inquiries. If you\u2019re part of the cloud software ecosystem and want to simplify your operations, Suger might just be the partner you need to propel your business forward. \n\nIn a world where cloud budgets are up for grabs, Suger is here to help you capture market share effortlessly.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/453761e30bebff29b4bc7e802f7f6d0460e9585c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191955Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=57e0c639c4a14739bb806a37aecaa7e17e252665f5c22603d8208dffccbf7ec7",
+    "social_links": [
+        "https://www.linkedin.com/company/suger-inc",
+        "https://www.crunchbase.com/organization/suger"
+    ],
+    "logo_path": "data/logos\\Suger_logo.png"
+}

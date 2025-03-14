@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/momentic",
+    "name": "Momentic",
+    "headline": "The modern standard for software testing",
+    "batch": "W24",
+    "description": "Momentic is the most advanced AI platform for testing. We're accelerating engineering teams at companies like Retool, Podium, Chegg, Runway, and many more.",
+    "activity_status": "Active",
+    "website": "https://momentic.ai",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:enterprise-software; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Wei-Wei Wu, Founder",
+            "description": "Wei-Wei Wu is a co-founder and CEO of Momentic. Previously, he worked at Assembled, building infrastructure and real-time features. Before that, he was the first employee and founding engineer at Nashi, a startup tackling RTO during Covid, which was acquired by Density in 2021.",
+            "linkedin": "https://linkedin.com/in/hungweiwu"
+        },
+        {
+            "name": "Jeff An, Founder",
+            "description": "I'm a curious and driven technical founder hailing from Toronto, Canada. I love up-leveling others through my work and after graduating from the University of Waterloo, I found my calling in cloud and test infrastructure at companies like Splunk, Google, and Robinhood. Aside from engineering, I love traveling the world (over 100K miles flown in 2023!), playing piano, and hiking.",
+            "linkedin": "https://linkedin.com/in/jeff-an"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Momentic: Revolutionizing Software Testing with AI**\n\nFounded in 2023 and incubated in Y Combinator Batch W24, Momentic is making waves as a pioneering AI platform aimed at modernizing the software testing landscape. Headquartered in San Francisco, this nimble team of six is already partnering with notable engineering groups at companies like Retool, Podium, Chegg, and Runway. Momentic claims to set the \"modern standard for software testing,\" which is a bold statement, but they back it up with innovative features that resonate particularly well with both developer and non-developer teams.\n\n### What Momentic Offers:\n\n1. **Speed and Efficiency**: With their intuitive low-code editor, Momentic allows teams to create and deploy tests faster than ever. This integration into developer workflows means less friction and more shipping.\n\n2. **AI-Powered Automation**: Their technology intelligently handles the often-frustrating issue of flaky tests, automatically adapting and improving over time. This means engineers can focus on new features rather than maintenance headaches.\n\n3. **Flexibility in Testing**: Whether in the cloud, locally, or even behind private networks, Momentic provides the versatility to run tests anytime and anywhere. Their CI/CD pipeline compatibility further enhances the appeal for modern engineering teams.\n\n4. **User-Centric Design**: Momentic caters to teams held back by the complexities of traditional testing tools. It combines ease of use with powerful capabilities, enabling even junior developers to take part in creating automated tests right from their first day on the job.\n\n### Key Features:\n\n- **AI-Powered Assertions**: Users can create assertions in natural language, making the platform approachable for everyone.\n- **Auto-Healing Locators**: Forget about the maintenance of conventional locators\u2014Momentic locates elements based on descriptions, making test scripts resilient to changes.\n- **Version Control Friendly**: Test files are stored in YAML format, making them easy to edit and sync alongside application features.\n\n### Testimonials:\n\nMomentic\u2019s impact is illustrated through endorsements from various engineering leads who highlight how the platform has dramatically decreased manual QA efforts and boosted productivity. Users have noted the simplicity of getting results\u2014one developer shared they could run extensive evaluations in a fraction of the time it used to take them manually.\n\nIf you\u2019re looking to enhance your testing processes and leverage the benefits of AI, Momentic presents a compelling case. You can explore more about them or even book a demo through their website: [momentic.ai](https://momentic.ai).\n\nIn summary, Momentic seems to understand the modern developer\u2019s challenges and has engineered an AI solution that not only addresses these but does so in a way that feels accessible and powerful. Whether you\u2019re a startup looking to scale fast or an established company aiming to streamline, Momentic might just be the tool you need for your software testing arsenal.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/735a61b597dd6405f559fd19ca3412b6d10d713d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191546Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5b1e63c937c2067d2af4826b3bcb06d0c4e45c53d9880bf8ee41802dda6fa179",
+    "social_links": [
+        "https://www.linkedin.com/company/momentic-ai",
+        "https://twitter.com/MomenticAI",
+        "https://www.crunchbase.com/organization/momentic-0b4b",
+        "https://github.com/momentic-ai"
+    ],
+    "logo_path": "data/logos\\Momentic_logo.png"
+}

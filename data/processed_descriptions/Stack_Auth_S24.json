@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/stack-auth",
+    "name": "Stack Auth",
+    "headline": "The open-source Auth0 alternative",
+    "batch": "S24",
+    "description": "Stack is the open-source authN, authZ, and user management platform.\r\n\nWe build for devs who want to iterate quickly, offering both managed auth and self-hosting. You can set it up in one minute and scale with the project as it grows.\r\n\nStack was built by repeat founders with strong technical backgrounds. Check out our GitHub: https://github.com/stack-auth/stack",
+    "activity_status": "Active",
+    "website": "https://stack-auth.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Konstantin Wohlwend, Founder",
+            "description": "I build user authentication @ Stack.\n\nIf you're building a modern web app with user logins, we should chat!\n\nhttps://n2d4.github.io \ud83d\udc4b",
+            "linkedin": "https://www.linkedin.com/in/stan-wohlwend-b30340167/"
+        },
+        {
+            "name": "Zai Shi, Founder",
+            "description": "Building the best user login/management experience for developers, 100% open-source!",
+            "linkedin": "https://www.linkedin.com/in/zaishi"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Stack Auth: An Open-Source Alternative for Developers**\n\nFounded in 2024 and part of Y Combinator's Batch S24, Stack Auth is revolutionizing the world of authentication and user management. It's essentially an open-source alternative to Auth0, designed specifically for developers who need speed and flexibility in their projects.\n\n### Mission and Vision\nStack Auth encapsulates the idea of building a platform that enhances the way developers manage authentication (authN) and authorization (authZ). The goal? To empower developers with tools that allow them to iterate quickly, whether they prefer managed solutions or self-hosting. At Stack Auth, you can have your user management system set up in just a minute, making it a perfect fit for fast-growing projects.\n\n### What They Offer\n- **Ease of Use:** With an emphasis on simplicity, you can install and integrate Stack Auth into any Next.js project without fuss.\n- **Managed and Self-Hosted Options:** Developers can choose how they'd like to deploy, whether in-house or using Stack Auth's hosting services.\n- **Developer-Centric Features:** They offer support for standards like JWT, SSO, and 2FA, along with robust user management capabilities\u2014all within a developer-friendly interface.\n\n### Robust Functionality\nStack Auth not only manages authentication but also offers seamless integrations for organizations and teams, permissions management, and even webhooks for syncing with tools like Slack and databases. It caters to a variety of user needs with features that are both intuitive and powerful.\n\n### Comparative Advantage\nWhat sets Stack Auth apart from its competitors? It's the combination of being fully open-source, developer-focused, and offering reasonable pricing. Stack Auth appeals to the developer community looking for transparency and control over their authentication systems. It's built for those who want to own their auth solutions rather than being tied to enterprise-level options.\n\n### Community and Growth\nBeing an open-source project, organic growth is vital for Stack Auth. The feedback from users speaks volumes\u2014developers have reported rapid implementations and high satisfaction thanks to the responsive support team. You can check out their [GitHub](https://github.com/stack-auth/stack) for contributions and to become a part of the community.\n\n### Pricing\nThey have a straightforward pricing model:\n- **Free:** For individuals wanting to self-host.\n- **Team Plan:** $49/month for small teams.\n- **Growth Plan:** $299/month for larger enterprises needing scalability.\n\n### Conclusion\nIn a nutshell, Stack Auth is positioning itself as a vital tool for developers looking to simplify their authentication needs without sacrificing control or flexibility. It\u2019s about building with confidence, and if you're in the tech community, it\u2019s worth checking out. To learn more or to get started, visit their [website](https://stack-auth.com). \n\nThis isn\u2019t just about identity management; it\u2019s about empowering developers to take charge of their tech stack. If you\u2019re tired of the cumbersome setups of traditional authentication services, Stack Auth might just be what you\u2019re looking for.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/609b8bc497dc3ab4fe72e339cd3476cf3ef45e7e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191946Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f2b4d685c43aefe900ff90767d0566d8992170ddedb58154a7f78f234fa702fe",
+    "social_links": [
+        "https://www.linkedin.com/company/102201169",
+        "https://x.com/stack_auth",
+        "https://github.com/stack-auth"
+    ],
+    "logo_path": "data/logos\\Stack_Auth_logo.png"
+}

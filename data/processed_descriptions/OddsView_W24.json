@@ -1,0 +1,49 @@
+{
+    "links": "https://www.ycombinator.com/companies/oddsview",
+    "name": "OddsView",
+    "headline": "The Bloomberg Terminal of Sports Betting",
+    "batch": "W24",
+    "description": "OddsView is the one-stop-shop for sports betting tools and media. \r\n\nThe OddsView terminal allows users to browse millions of odds updated in real time to find the best bets. Users can access familiar features like positive expected value and arbitrage finders, as well as exclusive tools such as historical odds charts, all within a single platform.",
+    "activity_status": "Active",
+    "website": "https://oddsview.com",
+    "founded_date": 2024.0,
+    "team_size": 5.0,
+    "location": "New York",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:sports-tech; industry:consumer; location:new-york",
+    "founders": [
+        {
+            "name": "Davis Tong, Founder",
+            "description": "OddsView co-founder and CEO\n\nDavis graduated as an Applied Science engineer from the Rutgers Honors College and started at Amazon as a software engineer. He mostly notably developed the data pipeline currently powering the Comparison Widget on 75% of product pages.",
+            "linkedin": "https://linkedin.com/in/davistong"
+        },
+        {
+            "name": "Ajay Koritala, Founder",
+            "description": "Ajay is a Co-Founder at OddsView. He graduated with a degree in Mathematics and Computer Science from the Rutgers University Honors College. After graduating, he worked on the Visual Innovation Team at Amazon where he helped build a virtual photo studio.",
+            "linkedin": "https://linkedin.com/in/ajaykoritala"
+        },
+        {
+            "name": "Akaash Patel, Founder",
+            "description": "OddsView co-founder. Akaash graduated from Rutgers Honors college in 2021 and worked at Amazon in their Live streaming shopping startup team Amazon Live. He has experience in product design with some personal projects reaching 5k+ daily returning users.",
+            "linkedin": "https://linkedin.com/in/akaashp"
+        },
+        {
+            "name": "Anthony Ter-Saakov, Founder",
+            "description": "Anthony is a Co-Founder and CTO of OddsView. Previously he obtained a math degree and a master's in statistics from Boston University. After college he worked as a Software Engineer at Verkada.",
+            "linkedin": "https://linkedin.com/in/anthony-ter"
+        },
+        {
+            "name": "Henri Zhang, Founder",
+            "description": "Henri graduated in Computer Science and Cognitive Science from Rutgers University Honors College in 2021. He later stepped down from his software development role at Amazon to become a full-time sports betting consultant, which led him to co-founding OddsView.",
+            "linkedin": "https://linkedin.com/in/zhanghenri"
+        }
+    ],
+    "status": true,
+    "generated_description": "**OddsView: Your Go-To Sports Betting Terminal**\n\nFounded in 2024 and hailing from New York, OddsView has a mission to become the Bloomberg Terminal for sports betting. Think of it as a one-stop hub where sports bettors can access powerful analytical tools and up-to-date betting information, all consolidated into a single platform.\n\nAt the heart of OddsView is its terminal, which offers users access to millions of odds that are updated in real-time. Whether you\u2019re a seasoned bettor or just starting, you\u2019ll find familiar features like positive expected value (EV) calculators and arbitrage finders, enabling you to spot profitable betting opportunities. Additionally, the service boasts unique tools such as historical odds charts, which can help bettors analyze trends over time.\n\n**Team and Community**\nOddsView operates with a small yet agile team of five people and is part of the illustrious Y Combinator Batch W24. Jared Friedman serves as the group partner, potentially guiding the strategic vision of the company. Given the competitive nature of sports betting, the OddsView platform aims to empower bettors with data-driven insights that can enhance their decision-making process.\n\n**Key Features of OddsView:**\n- **Real-Time Odds**: With over 10 million odds updated daily across various sports and markets, you\u2019ll always get the latest information at your fingertips.\n- **Comprehensive Tools**: From arbitrage finders to positive EV features and detailed odds charts, users have access to everything they need to gamble smarter.\n- **User Community**: The platform includes a Discord channel where bettors can engage, ask questions, and share strategies, further enhancing the user experience.\n\n**Current Growth and Impact**\nThe early response to OddsView is promising, with over 4,000 active users reporting thousands of EV opportunities discovered. Users rave about the profitability of the tools\u2014some have turned small initial investments into substantial gains, showcasing how OddsView can truly make a difference in sports betting strategies.\n\nIn a marketplace flooded with generic betting platforms, OddsView seeks to carve out its space by providing sophisticated and user-friendly tools that both novice and expert bettors would appreciate. \n\nFor those interested in betting like a trader, OddsView opens doors to data-backed decision-making. With its innovative approach and commitment to improving user experience, this company is positioning itself as a game-changer in the sports betting arena. \n\n**Get Started**\nCurious to see how it all works? You can explore their offerings and start utilizing their tools at [OddsView](https://oddsview.com). \n\nIn a nutshell, OddsView isn't just another sports betting app\u2014it's an entire ecosystem designed to help you optimize and enhance your betting game.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b645c805204708614e243151375e6e5fefd95abb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=37cc7ee35fcec0d2f4cae712ab68218a8e6ffebd0d938f6f8809770ff122e46e",
+    "social_links": [],
+    "logo_path": "data/logos\\OddsView_logo.png"
+}

@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/mach9",
+    "name": "Mach9",
+    "headline": "The Fastest Tool for Automating Geospatial Production",
+    "batch": "S21",
+    "description": "Mach9 is at the forefront of leveraging advanced machine learning and computer vision techniques to transform geospatial data into actionable insights for urban development and infrastructure management. Our cutting-edge technology automates the detection and analysis of key urban features, aiding in the planning and maintenance of transportation networks.",
+    "activity_status": "Active",
+    "website": "https://www.mach9.ai/",
+    "founded_date": 2021.0,
+    "team_size": 15.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:computer-vision; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alexander Baikovitz, Founder",
+            "description": "I'm excited about building technology that understands how the world changes and can see the unseen.",
+            "linkedin": "https://www.linkedin.com/in/alexbaikovitz/"
+        },
+        {
+            "name": "Haowen Shi, Founder",
+            "description": "Building software to efficiently create actionable 3D maps for critical infrastructure.",
+            "linkedin": "https://www.linkedin.com/in/haowensh/"
+        },
+        {
+            "name": "Joshua Spisak, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/josh-spisak-b573b972"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Mach9: Revolutionizing Geospatial Production\n\nFounded in 2021 and part of Y Combinator's S21 batch, Mach9 is a San Francisco-based startup that\u2019s redefining how we handle geospatial data. Its mission? To be the *fastest tool for automating geospatial production.* With a team of 15, the company\u2019s focus is on leveraging advanced machine learning and computer vision to transform complex geospatial datasets into useful insights\u2014especially in the realm of urban development and infrastructure management.\n\n#### What They Do\n\nMach9\u2019s flagship software takes massive-scale mobile LiDAR (Light Detection and Ranging) scans and converts them into 2D and 3D engineering models. The result? Up to *30 times faster* processing at *half the cost* of traditional methods. This software automates tedious tasks like feature extraction from image and LIDAR datasets and key measurements (e.g., distances and clearances), enabling engineering and construction professionals to focus on the broader aspects of their projects instead of getting bogged down in data.\n\n#### Why It Matters\n\nIn today\u2019s fast-paced world, the ability to instantly transform large datasets into actionable insights isn't just nice to have\u2014it\u2019s essential. Mach9 is shaking up the surveying, engineering, and construction industries by drastically reducing the time and labor needed for mapping and model generation. The company is already trusted by major organizations like the U.S. Department of Energy, Michael Baker International, and various engineering firms around the globe.\n\n#### Getting Started with Mach9\n\nInterested in what Mach9 offers? Getting started is simple:\n1. Fill out a project request form.\n2. Schedule an onboarding session with a technical expert.\n3. Review your processed Mach9 map and iterate as needed through user-friendly prompts.\n\n#### The Bigger Picture\n\nMach9 isn't just about speed; it\u2019s about enabling organizations to leverage their data effectively and efficiently. As cities grow and infrastructure demand increases, firms need advanced tools to process geospatial data without losing sight of their goals. The promise of Mach9 is to take that burden off their plates, letting them concentrate on executing their vision.\n\n#### Leadership and Community\n\nWith Aaron Epstein as a group partner and a strong backing from investors (including a recent $12 million round led by Quiet Capital), Mach9 is poised for growth. Their innovations and contributions to the infrastructure sector are gaining traction, making headlines in tech news outlets for their transformative approaches.\n\nFor more information, check their website at [Mach9.ai](https://www.mach9.ai/) and see how they can speed up your geospatial production efforts. ",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9b96db3d560a99588fe76099691e6c720c48c06d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191518Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d64b36f7166f0eabde157c200c0422ef6970c5bddc1bbf300745b21d3eb856c4",
+    "social_links": [
+        "https://www.linkedin.com/company/mach9robotics",
+        "https://github.com/mach9robotics"
+    ],
+    "logo_path": "data/logos\\Mach9_logo.png"
+}

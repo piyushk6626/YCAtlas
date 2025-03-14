@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/fractal-labs",
+    "name": "Fractal Labs",
+    "headline": "AI powered UGC platform for RPGs",
+    "batch": "W24",
+    "description": "Making a game engine that can code itself at runtime to adapt to player actions.\r\n\nCheck out the first application of our engine, Wizard Cats (https://store.steampowered.com/app/3176500/Wizard_Cats/), with all game mechanics being generated at runtime (https://www.reddit.com/r/LocalLLaMA/comments/1el1et6/were_making_a_game_where_llms_power_spell_and/).\r\n\nWe are three friends who met in undergrad at Princeton. The team has published multiple papers at Neurips on LLM's, developed HFT options trading algorithms, and created robust large scale server infrastructure.",
+    "activity_status": "Active",
+    "website": "https://fractal-labs.gg/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:consumer; industry:gaming; industry:social; industry:ai",
+    "founders": [
+        {
+            "name": "Alan Du, Founder",
+            "description": "Cofounder at Fractal Labs. Former quant trader at Virtu, Volant. Applied Math at Princeton.",
+            "linkedin": "https://linkedin.com/in/alan-du-6525b28a"
+        },
+        {
+            "name": "Jason Cai, Founder",
+            "description": "Co-Founder at Fractal Labs. Formerly engineering @ Duolingo & Google. Computer engineering @ Princeton.",
+            "linkedin": "https://www.linkedin.com/in/jycai/"
+        },
+        {
+            "name": "Derrick Xin, Founder",
+            "description": "Cofounder at Fractal Labs. Previously at Google Research, Google Ad Ranking. Applied Math at Stanford, Princeton.",
+            "linkedin": "https://openreview.net/profile?id=~Derrick_Xin1"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Fractal Labs: Shaping a New Era of AI-Powered Gaming**\n\nFounded in 2024, Fractal Labs is a fresh entrant into the gaming space, leveraging cutting-edge AI to create an innovative user-generated content (UGC) platform specifically for role-playing games (RPGs). The company emerged from a novel idea\u2014the ambition to develop a game engine capable of coding itself dynamically based on player actions. This approach allows for real-time adaptation, creating an incredibly rich and immersive gaming experience.\n\nThe first manifestation of this technology can be seen in their debut game, *Wizard Cats*. You can check it out [here](https://store.steampowered.com/app/3176500/Wizard_Cats/). In this title, every aspect of gameplay is generated at runtime, which pushes the boundaries of traditional game design and makes each player's journey unique. If you\u2019re curious about the mechanics behind it, there\u2019s an ongoing discussion [on Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1el1et6/were_making_a_game_where_llms_power_spell_and/).\n\nThe three co-founders\u2014who met while studying at Princeton\u2014bring impressive credentials to the table. They've published multiple research papers on large language models (LLMs) at prestigious conferences like NeurIPS, developed high-frequency trading (HFT) algorithms, and built robust large-scale server infrastructures. This diverse skill set underpins Fractal Labs\u2019 commitment to redefining the gaming landscape.\n\nCurrently, Fractal Labs is part of Y Combinator\u2019s Batch W24, benefitting from the mentorship of prominent figures in the startup ecosystem, including Michael Seibel as their Group Partner. With a compact team of just three employees based in a niche tech locale, they are driving forward with innovative ideas in the realms of consumer technology, gaming, social interaction, and artificial intelligence.\n\nFor updates, community engagement, or to get involved, you can connect with Fractal Labs on their [Discord](https://fractal-labs.gg/<https:/tinyurl.com/29dz46f2>) and follow their developments on social platforms like [Twitter](https://fractal-labs.gg/<https:/x.com/fractallabs_gg>).\n\nIf you\u2019re excited about the intersection of AI and gaming, keep an eye on Fractal Labs. They're not just making games; they're redefining how stories in games are told and experienced, one line of code at a time.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1eadba7b4329bd7ab4eb3d02e874112f3003e092.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191350Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d563785817c4a837b4c95b89f6d94c488880910490e838744d951b7e03c08683",
+    "social_links": [
+        "https://x.com/fractallabs_gg"
+    ],
+    "logo_path": "data/logos\\Fractal_Labs_logo.png"
+}

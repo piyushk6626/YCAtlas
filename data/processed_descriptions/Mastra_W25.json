@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/mastra",
+    "name": "Mastra",
+    "headline": "The Typescript AI framework",
+    "batch": "W25",
+    "description": "Mastra is the easiest way to build a production AI application, built by the team that brought you Gatsby. We provide a complete set of AI primitives: workflows for complex operations, agents for autonomous decisions, RAG for knowledge integration, and evals for quality & accuracy. Mastra is open-source, modular, and built in Typescript for product developers. You can deploy Mastra on any cloud, and it gives you a straightforward syntax to solve the hardest problems building with AI: human-in-the-loop workflows, agent memory and tool selection, and output quality.",
+    "activity_status": "Active",
+    "website": "https://mastra.ai",
+    "founded_date": 2024.0,
+    "team_size": 8.0,
+    "location": null,
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:open-source; industry:ai",
+    "founders": [
+        {
+            "name": "Abhi Aiyer, Founder",
+            "description": "Founder/CTO of Mastra. Principal eng & lead of >100 person eng org at Netlify. Built Gatsby Cloud infra that ran 10s of thousands of build nodes, served billions of files, and 100s of TB of monthly bandwidth.",
+            "linkedin": "https://www.linkedin.com/in/abhi-aiyer-aa41bb42/"
+        },
+        {
+            "name": "Sam Bhagwat, Founder",
+            "description": "Founder/CEO of Mastra. Spent last ~8yrs as cofounder of Gatsby.js, an open-source React website framework, scaled to $5M ARR, sold to Netlify. Eng <20 at Zenefits (W13) and Plangrid (W12). Spent two years knocking doors. Stanford '11.",
+            "linkedin": "https://linkedin.com/in/sambhagwat"
+        },
+        {
+            "name": "Shane Thomas, Founder",
+            "description": "Founder/CPO of Mastra. Prev: built Audiofeed (AI podcasting). Staff eng / head of product @ Gatsby. 15+ years in open source. State wrestling champion.",
+            "linkedin": "https://www.linkedin.com/in/smthomas3"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Mastra Overview**\n\nFounded in 2024 and part of Y Combinator's Batch W25, Mastra is a promising startup positioned to simplify the development of AI applications through its innovative platform\u2014designed especially for Typescript developers. The team behind Mastra includes veterans from the successful Gatsby project, bringing a wealth of expertise and an open-source ethos.\n\n### Mission and Offering\n\nMastra\u2019s mission is clear: it aims to be *the* easiest way to build production-ready AI applications. At its core, it offers a comprehensive suite of AI tools\u2014what it refers to as \"AI primitives.\" These include workflows for intricate operations, agents that can make autonomous decisions, retrieval-augmented generation (RAG) for knowledge integration, and evaluation mechanisms to ensure quality and accuracy.\n\nThe platform supports the following capabilities:\n\n- **Intelligent Agents:** Developers can create agents that execute tasks, access knowledge bases, and maintain relevant memory\u2014key for mimicking human-like interaction in applications.\n- **Knowledge Base Construction:** Users can effortlessly sync data from various SaaS tools or scrape the web, channeling information into a structured format for retrieval.\n- **Flexible Workflows:** Mastra allows for the creation of workflows that are easy to visualize, debug, and optimize\u2014perfect for tweaking AI features before deployment.\n\nAll of this can be deployed on any cloud provider, making it versatile. The user-friendly syntax aims to tackle some of the trickiest aspects of AI development, such as ensuring quality and reliability in outputs.\n\n### Team and Leadership\n\nMastra is a small but dynamic team of 8, steered by partnership with Gustaf Alstromer, known for his insightful guidance in tech startups. This nimbleness is a significant advantage in a fast-evolving industry like AI.\n\n### Tags and Focus Areas\n\nMastra is focused on the realms of artificial intelligence, developer tools, open-source initiatives, and AI technologies. This gives it a broad appeal while maintaining concentrated expertise that can genuinely tackle the complexities developers face today.\n\n### Getting Started\n\nWhether you're a seasoned developer or a newcomer eager to leverage the power of AI, Mastra provides extensive documentation and examples to help you hit the ground running. With a modern JS/TS stack, starting your AI journey with Mastra may just be a simple command away:\n\n```bash\n$ npx create-mastra@latest\n```\n\nIn summary, if you\u2019re exploring AI application development and want a framework that balances robustness with simplicity, Mastra should be on your radar. For more details, make sure to check out their [website](https://mastra.ai). Keep an eye on this one; it has the potential to shape how we think about AI development in the years to come.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/11b3b972eece4c01c685f3414c2b326e3eea6c44.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191526Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=aae6ffaac483649610e7af0bf22b1b51fa727e818f91b8defe7431f3ed5f8cd0",
+    "social_links": [
+        "https://www.linkedin.com/company/mastra-ai/",
+        "https://x.com/mastra_ai",
+        "https://github.com/mastra-ai"
+    ],
+    "logo_path": "data/logos\\Mastra_logo.png"
+}

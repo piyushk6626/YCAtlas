@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/ivycheck",
+    "name": "IvyCheck",
+    "headline": "Clean and enrich your data 10x faster",
+    "batch": "S22",
+    "description": "IvyCheck helps you extract hidden insights from your data and ensures high data quality and consistency. Use Generative AI in your data warehouse to transform data at scale.",
+    "activity_status": "Active",
+    "website": "https://www.ivycheck.com",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "Berlin, Germany",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:b2b; industry:data-engineering; industry:ai; industry:databases",
+    "founders": [
+        {
+            "name": "Dustin Lange, Founder",
+            "description": "Dustin is co-founder of IvyCheck. Dustin has 8.5 years of industry experience at Amazon as Machine Learning Scientist and Applied Science Manager. He founded a team that built tools for data quality measurement and cleaning, including Deequ (2.4k+ stars on GitHub). Dustin later owned data products powering the Amazon product search page, used by millions of users every day. Dustin holds a PhD in database systems from Hasso Plattner Institute, Potsdam, Germany.",
+            "linkedin": "https://www.linkedin.com/in/dustin--lange/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**IvyCheck: Transforming Data at Lightning Speed with AI**\n\nFounded in 2022 and based in Berlin, IvyCheck is on a mission to *clean and enrich your data 10x faster*. This innovative company emerged from Y Combinator's Batch S22, signaling its potential in the bustling landscape of generative AI and data engineering. The team is lean, with just two employees, but they\u2019re backed by notable names in the startup ecosystem, including Michael Seibel from Y Combinator.\n\nIvyCheck started with a straightforward premise: help users extract hidden insights from their data while maintaining high quality and consistency. In practical terms, they leverage generative AI within your data warehouse to enable transformations at scale. This means businesses can retrieve data that\u2019s not just accurate but also clean and structured\u2014no more wrestling with messy HTML or outdated information.\n\nTheir core product is a search engine tailored for large language models (LLMs). Think of it as a smart assistant that automates search requests in real-time, scrapes web pages, and delivers actionable answers via a simple API. IvyCheck ensures you get fresh, relevant data without the hassle of potential roadblocks that typically accompany scraping.\n\nThe product's capabilities extend to:\n- **Real-time Extraction**: Capture live web data seamlessly.\n- **Clean Data Handling**: Data is outputted in Markdown format, making it easy to integrate with AI applications without the clutter of web markup.\n- **AI Optimization**: They even incorporate reranking models to serve the most pertinent information, tailored to your specific context.\n\nFor businesses looking to enhance their data strategies, IvyCheck offers a promising gateway to harnessing the web's vast resources and bolstering decision-making processes. If you\u2019re intrigued, you can explore more on their website: [IvyCheck](https://www.ivycheck.com).\n\nThis is a company worth keeping an eye on as they develop further; with a strong vision and support from industry leaders, IvyCheck is set to make waves in the world of data engineering.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9f3fbca0a0ffdcabfbb8986f711b9ca04b80b94e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191439Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e34b65e36e643a5e80d15ed662edc4e38f848762fdf943903e5da33ffd3a47a6",
+    "social_links": [
+        "https://www.linkedin.com/company/ivycheck/",
+        "https://twitter.com/IvyCheck"
+    ],
+    "logo_path": "data/logos\\IvyCheck_logo.png"
+}

@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/axiom-ai",
+    "name": "Axiom.ai",
+    "headline": "No-code Browser RPA",
+    "batch": "W21",
+    "description": "Axiom.ai is building a no-code browser automation tool. This lets anyone automate repetitive work by recording clicking and typing actions in their browser.\r\n\nWe think the market has huge potential - companies like UiPath built $10 billion+ businesses by automating processes on the desktop - an industry now known as Robotic Process Automation (RPA). We think RPA has a lot more potential outside the Enterprise. \r\n\nAxiom is on its way to being the industry-standard RPA tool for the browser. It now ranks alongside Selenium - the historical industry standard - as the top result when searching for \u2018Browser Automation\u2019 on Google, and is the top-result on Chrome\u2019s extension store.",
+    "activity_status": "Active",
+    "website": "https://axiom.ai",
+    "founded_date": 2019.0,
+    "team_size": 8.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:robotic-process-automation; industry:saas",
+    "founders": [
+        {
+            "name": "Yaseer Sheriff, Founder",
+            "description": "My co-founders and I ran a software consultancy together, which evolved to focus on RPA. \n\nAxiom is a spin-out of that software consultancy and our previous RPA expertise. \n\nMy background before that was engineering, computer science, automated theorem proving and computational biology (the latter two are surprisingly related). \n\nhttps://yaseersheriff.github.io/",
+            "linkedin": "https://www.linkedin.com/in/yaseer-sheriff-14752b18/"
+        },
+        {
+            "name": "Simon Williams, Founder",
+            "description": "I studied Psychology at university but then switched to programming afterwards when I saw that you could get paid for making things on the computer. This makes me a technical person who is also intersted in people and their many odd ways.\n\nFounded and ran a moderately successul software engineering and web design consultancy for about 8 years. My co-founders and I founded Axiom after transitioning from that business.\n\nI have a big passion for game design theory and making games, too.",
+            "linkedin": "https://uk.linkedin.com/in/simon-williams-20653618"
+        },
+        {
+            "name": "Alex Barlow, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/alex-barlow-9b489330/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Axiom.ai: The Future of No-Code Browser Automation**\n\nFounded in 2019 and part of Y Combinator's Winter 2021 batch, Axiom.ai is a London-based startup that aims to revolutionize the way we automate browser tasks. With a core mission of \"No-code Browser RPA\" (Robotic Process Automation), they are building a tool that allows anyone\u2014tech-savvy or not\u2014to automate repetitive actions in their web browser by simply recording clicks and typing.\n\nThe vision behind Axiom.ai is clear: harnessing the power of automation to free up valuable time. The potential of this market is enormous. Just look at companies like UiPath, which built businesses worth over $10 billion by automating desktop processes. But Axiom sees boundless opportunities beyond the enterprise-level, especially in browser automation.\n\nAs of now, Axiom.ai has established itself as a leading player in browser automation, ranking high alongside industry staples like Selenium. It\u2019s not just talk\u2014when you search \"Browser Automation\" on Google, you\u2019ll see Axiom.ai at the forefront. It also boasts a strong presence in the Chrome extension marketplace, where it continues to receive positive feedback from users.\n\n### Key Features:\n\n1. **No-Code Automation**: Create complex automations with an intuitive interface that doesn't require any programming. \n2. **Visual Web Scraping**: Extract data from websites effortlessly without writing a single line of code.\n3. **Seamless Integrations**: Connect with popular platforms like Google Sheets, Zapier, and even ChatGPT for enhanced functionality.\n4. **Versatile Use Cases**: Whether it's for web scraping, data entry, or social media management, Axiom.ai can handle it all.\n\n### Real-World Impact:\n\nUser testimonials highlight dramatic results. One user reported saving 63 hours of manual work in just a month, while another shared how Axiom helped process 11,000 emails in less than two days\u2014tasks that would typically take much longer and cost significantly more in labor.\n\n### The Team and Support:\n\nAxiom.ai is a tight-knit team based in London, consisting of just eight employees, but they\u2019re making a big impact. They have Jared Friedman as a Group Partner, signifying a strong backing that aligns with their growth trajectory. Their user support is frequently praised, reflecting a commitment to helping users maximize the value from the platform.\n\n### Conclusion:\n\nAxiom.ai is not just another automation tool\u2014it's a glimpse into a more efficient future where manual tasks can be easily automated by anyone, regardless of technical ability. With a powerful Chrome extension, active user engagement, and robust support, Axiom.ai is genuinely set to be the industry standard for no-code browser automation.\n\nGet started today and discover how Axiom.ai can transform your workflow: [Axiom.ai](https://axiom.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/824adc6861556bd74b57fb99ce727eccd0753feb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191015Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2cbe137a1cb7adba5c2fa714074eabc96b2bcdc646a17d55dcbc39e30dd57d9e",
+    "social_links": [
+        "https://www.linkedin.com/company/11860018",
+        "https://twitter.com/AxiomRPA",
+        "https://www.facebook.com/browserbots"
+    ],
+    "logo_path": "data/logos\\Axiom.ai_logo.png"
+}

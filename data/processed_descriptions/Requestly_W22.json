@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/requestly",
+    "name": "Requestly",
+    "headline": "Open-Source Postman alternative",
+    "batch": "W22",
+    "description": "Requestly helps developers build faster by intercepting, mocking, and testing API responses. No more waiting for backend developers, struggling with flaky staging environments, or fighting over API contracts. With 200,000+ active installs, Requestly is trusted by Google, Amazon, Workday, Indeed, and many other Fortune 500 companies.",
+    "activity_status": "Active",
+    "website": "https://requestly.com",
+    "founded_date": 2021.0,
+    "team_size": 19.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:open-source; industry:api; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sachin Jain, Founder",
+            "description": "Sachin is the co-founder & CEO, Requestly. Sachin plays a leading role in defining the vision of the company, the product direction, talking to existing & potential customers. He has over 10 years of industry experience and has worked with Google, Adobe & Grofers in the past. He built many side projects & participated in many hackathons. Requestly was also started as a side-project on which he worked tirelessly for the sake of love of the product eventually making it into it full-time.",
+            "linkedin": "https://www.linkedin.com/in/sachin-jain-20b20731/t"
+        },
+        {
+            "name": "Sagar Soni, Founder",
+            "description": "I'm the co-founder and CTO of Requestly, a developer tools platform serving 200,000+ developers globally. We're backed by Y Combinator and Sequoia Capital SEA.\nPreviously, I founded College-Adviser, bootstrapping it to $12K ARR with 500K+ monthly visitors in its first year. I started coding at 11 and have since built multiple software projects.",
+            "linkedin": "https://www.linkedin.com/in/mesagarsoni/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Requestly: An Open-Source Alternative for API Development**\n\nFounded in 2021 and a part of Y Combinator's W22 batch, Requestly is carving out its niche as an open-source alternative to Postman. The company, based in San Francisco, set out on a mission to help developers accelerate their workflow by intercepting, mocking, and testing API responses. It's a lifesaver for developers who are tired of waiting on backend teams or wrestling with unstable staging environments. With over 200,000 active installations, Requestly has gained the trust of industry giants like Google, Amazon, Workday, and Indeed.\n\n### Key Features & Offerings:\n\n1. **HTTP Interceptor**: Modify and inject HTTP requests and responses in real time. This means developers can tweak API requests as needed without any backend changes.\n   \n2. **Mock API Server**: Easily create mock servers for API responses, which helps teams build and test without waiting for backend development. \n\n3. **API Client**: A lightweight tool designed for testing APIs that's perfect for quick setups and team collaborations.\n\n4. **SessionBook**: A comprehensive tool that captures, reports, and debugs errors with session replay capabilities, allowing developers to easily trace issues.\n\n5. **Cross-Device Testing**: Users can inspect and manipulate HTTP traffic across Android and iOS simulators, which is invaluable for testing mobile applications.\n\n6. **GraphQL Support**: More targeted API modifications are possible with specific support for GraphQL endpoints, making it an even more robust tool for modern developers.\n\n### Security and Compliance\n\nRequestly recently achieved SOC 2 compliance, ensuring that it meets stringent security standards. They prioritize data privacy and security, which is crucial for organizations handling sensitive information.\n\n### Team and Vision\n\nWith a team of just 19, Requestly is a lean operation focused on delivering powerful developer tools. Their straightforward approach and dedication to open-source principles resonate well with a community eager for effective tech solutions.\n\n### Why Use Requestly?\n\nFor developers, especially frontend engineers and QA professionals, Requestly provides the flexibility to build and test independently. In a landscape where speed and efficiency are paramount, this tool empowers teams, removes bottlenecks, and enhances collaboration.\n\nIn summary, Requestly isn\u2019t just another tool; it represents a shift toward more independent, agile development practices. If you\u2019re in tech and find yourself waiting too long for backend support, it might just be the missing piece in your developer toolbox. Check it out at their [website](https://requestly.com)!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0f998d27c4db2d71e95d9c0da9386397dccd921f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191718Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=947868c490a12304c3a45d7953f5b3528c526f3d3ff13ac49809ddafa7e0016c",
+    "social_links": [
+        "https://www.linkedin.com/company/requestly/",
+        "https://twitter.com/requestlyIO",
+        "https://github.com/requestly"
+    ],
+    "logo_path": "data/logos\\Requestly_logo.png"
+}

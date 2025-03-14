@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/khoj",
+    "name": "Khoj",
+    "headline": "The open-source AI assistant for your digital brain.",
+    "batch": "S23",
+    "description": "Khoj is an open-source, personal AI application that helps you get answers to your questions, whether they be in your own notes or online. You can use it to get answers that are grounded in reality, references included. Rather than spending an hour researching collating information from different sources, have Khoj do it for you, easily and quickly. Khoj can also generate images and understand your voice via TTS, so you can work hands-free.\r\n\nWith our specialized agents, you can get deeper assistance on topics related to Health, Tutoring, Therapy, or something else altogether. \r\n\nBecause we're open-source, you can always choose to self-host Khoj on your own machine for more privacy.\r\n\nWe've previously built products for Cortana AI at Microsoft and scaled them from 0 to 20M daily active users.",
+    "activity_status": "Active",
+    "website": "https://khoj.dev/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:consumer; industry:productivity; industry:open-source; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Debanjum Singh Solanky, Founder",
+            "description": "Previously worked on personal AIs at Cortana (aka Viva Insights) and scaled it from 0 to 20M daily active users at Microsoft. Building open-source tools & communities since a decade.",
+            "linkedin": "https://linkedin.com/in/debanjum"
+        },
+        {
+            "name": "Saba Imran, Founder",
+            "description": "Helping people get answers to their questions.",
+            "linkedin": "https://linkedin.com/in/sabaimran"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Khoj: Your Open-Source AI Assistant**\n\nKhoj is an innovative startup founded in 2023 and based in the San Francisco Bay Area, recently emerging from Y Combinator's Batch S23. The company is committed to enhancing your digital experience with an open-source AI assistant that acts as your personal research copilot. With a compact team of just two, Khoj harnesses extensive expertise, including prior experience with Microsoft\u2019s Cortana AI, where they scaled it impressively to 20 million daily active users.\n\n### Mission and Features\n\nKhoj\u2019s mission is bold: to be your go-to open-source AI assistant for navigating the vast expanse of information available both in your own notes and online. Imagine cutting down your research time from hours to mere minutes\u2014with verified sources and reference-rich answers. \n\nHere's what sets Khoj apart:\n- **Versatile Capabilities**: It answers questions across various subjects, providing both personalized AI agents for health, education, and therapy, and generates images or understands voice commands, enabling hands-free operation.\n- **Self-Hosting for Privacy**: Since it\u2019s open-source, users can choose to self-host Khoj for enhanced privacy control\u2014a crucial consideration today.\n- **Transparency & Reliability**: Users can delve into the workings of their AI, verifying how responses are generated, minimizing misinformation, or 'hallucination,' as the tech world calls it.\n\n### Diverse Offerings\n\nKhoj caters not only to casual users but also to enterprises. They provide flexible pricing plans:\n- **Humanist Plan**: Free access with basic features.\n- **Futurist Plan**: $30/month for a more robust AI experience and increased data limits.\n- **Team Plans**: Designed for groups at $20/seat/month.\n- **Enterprise Solutions**: Custom pricing tailored to organizational needs.\n\n### Community and Resources\n\nKhoj emphasizes community engagement, with resources available through their [website](https://khoj.dev/), a [GitHub repository](https://github.com/khoj-ai/khoj) for developers, and active social channels on [Twitter](https://twitter.com/khoj_ai) and [Discord](https://discord.gg/BDgyabRM6e).\n\nWith Khoj, the goal is clear: simplify the way we access information in our increasingly cluttered digital lives. This is not just about tapping into a tool; it's about empowering users to work smarter and leverage AI as a genuine extension of their cognitive process. Whether you\u2019re a student, professional, or an inquisitive individual, Khoj could just be the AI assistant you've been waiting for.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b3e311ed663eb10067b0757503f2e004ea518440.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191451Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=af00d01212461db65bea7dbc65c12c77f6c73d32f6899df0958e85cfd36acedf",
+    "social_links": [
+        "https://www.linkedin.com/company/khoj-ai/",
+        "https://twitter.com/khoj_ai",
+        "https://www.crunchbase.com/organization/khoj",
+        "https://github.com/khoj-ai/khoj"
+    ],
+    "logo_path": "data/logos\\Khoj_logo.png"
+}

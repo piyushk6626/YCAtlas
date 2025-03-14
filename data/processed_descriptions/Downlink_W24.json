@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/downlink",
+    "name": "Downlink",
+    "headline": "Downlink makes LLMs 70%+ faster with a few lines of code",
+    "batch": "W24",
+    "description": "Downlink is the turbo button for AI. We make LLMs 70%+ faster with a few lines of code.\r\n\nDownlink learns which prompts are easy or hard. We train fast models to handle simple prompts, your existing LLM takes the complex ones.",
+    "activity_status": "Active",
+    "website": "https://downlink.dev/",
+    "founded_date": 2024.0,
+    "team_size": 1.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:api; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "TJ Murphy, Founder",
+            "description": "Downlink. The turbo button for AI.\n\nI build internet-scale data infrastructure.",
+            "linkedin": "https://linkedin.com/in/tjmurphy"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Downlink: Turbocharging AI LLMs\n\nFounded in 2024 and part of Y Combinator Batch W24, Downlink is a young yet ambitious startup based in San Francisco. Imagine being able to make your Language Learning Models (LLMs) run 70% faster with just a few lines of code\u2014that's exactly what Downlink promises. They call themselves the \u201cturbo button for AI,\u201d aiming to streamline AI application development without compromising performance.\n\n#### What's Their Mission?\n\nDownlink's mission is straightforward: to expedite the processing of LLMs significantly while keeping the integration process remarkably simple for developers. They achieve this by intelligently determining which prompts are straightforward and which ones require more computational power. Their solution intelligently routes less complex requests to faster models while your current LLM handles the more intricate queries.\n\n#### Solutions for Developers\n\nDownlink enhances your AI infrastructure by:\n- **Boosting Performance**: Experience a performance increase of 20% or more without sacrificing accuracy, lowering response times, and expanding rate limits.\n- **Simplifying Architecture**: Their drop-in API means less technical debt and complexity, allowing developers to focus on shipping rather than maintenance.\n- **Getting Started Quickly**: Their service works seamlessly with various languages like Python, TypeScript, and Go, meaning you can plug it into your existing stack with ease. \n\nFor example, a simple use case in Python looks like this:\n\n```python\nimport openai\n\nopenai.base_url = \"https://app.downlink.dev/api/v1\"\nopenai.api_key = \"__YOUR_DOWNLINK_API_KEY__\"\n\nresponse = openai.chat.completions.create(\n    model=\"gpt-4o\",\n    messages=[{\"role\": \"user\", \"content\": \"Say 'Hello World'\"}]\n)\n\nprint(response.choices[0].message.content) # Output: \"Hello World\"\n```\n\n#### A Lean Team, Big Ambitions\n\nThough currently there\u2019s just one employee, Downlink is built on a solid vision and aspirations. Led by their Group Partner, Nicolas Dessaigne, they\u2019re poised to redefine how companies leverage AI in their applications. \n\nIf you're an AI engineer tired of wrestling with latency and complex architectures, Downlink offers a much-needed lifeline. Check them out at their website [downlink.dev](https://downlink.dev/) to see how they can optimize your AI models.\n\nWith Downlink, you\u2019re not just keeping pace; you\u2019re setting the pace.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f2fe30e40c28edb97666095936551f9f557e8938.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191126Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6241553a05405b21afb5a6a05505354dc47002545a8d715c3e67ba4926191128",
+    "social_links": [
+        "https://www.linkedin.com/company/downlink/",
+        "https://github.com/Titan-Systems"
+    ],
+    "logo_path": "data/logos\\Downlink_logo.png"
+}

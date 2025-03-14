@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/repacket",
+    "name": "Repacket",
+    "headline": "Secure-by-default web browsing for your employees.",
+    "batch": "W23",
+    "description": "90% of security breaches are caused by a simple employee mistake. \r\n\nYour employee clicks a bad link, and gives up their password. They download a virus and run it. They leak your source code and PHI to ChatGPT.\r\n\nRepacket allows your employees to enjoy the internet without risk - instantly blocking threats like data leaks and phishing using content inspection and AI. This gives your employees the ability to make that mistake without impacting your company.\r\n\nFounded by cybersecurity leaders from SpaceX, AWS, and Google - we're building security tools that solve the biggest problems, without headaches for your employees.",
+    "activity_status": "Active",
+    "website": "https://repacket.com",
+    "founded_date": 2021.0,
+    "team_size": 4.0,
+    "location": null,
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Noah Stanford, Founder",
+            "description": "CEO @ repacket.com (previously 0pass.com) | Most recently, I created and led the security team for AWS Cognito. Previously, I created and led the Identity and Authentication team at SpaceX.",
+            "linkedin": "https://linkedin.com/in/pwned"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Repacket**\n\n**Website:** [Repacket](https://repacket.com)  \n**Founded:** 2021  \n**Location:** San Francisco, CA  \n**Team Size:** 4 employees  \n**Y Combinator Batch:** W23  \n**Group Partner:** Harj Taggar\n\n### Mission\nRepacket\u2019s guiding philosophy is to create a \"Secure-by-default\" web browsing experience for employees. Designed to mitigate the risk of security breaches\u2014after all, studies show that 90% of breaches are initiated by employee errors\u2014Repacket aims to allow employees to navigate the internet without fear.\n\n### The Problem\nWhen an employee accidentally clicks a malicious link, their organization can suffer severe consequences, including leaked sensitive information or compromised systems. Repacket recognizes that human error can lead to catastrophic results, from phishing attacks to data leaks.\n\n### The Solution\nRepacket\u2019s platform intelligently blocks threats in real-time through advanced content inspection and AI technologies. The tool empowers employees to make online mistakes\u2014like clicking bad links\u2014without jeopardizing the security of the entire organization.\n\n### Key Features\n- **Phishing Prevention:** Instantly neutralizes phishing links.\n- **Data Protection:** Prevents sensitive information leaks to unauthorized platforms like AI applications or social media.\n- **Content Filtering:** Controls web access in real time to ensure safe browsing practices.\n- **Governance of AI Usage:** Monitors and promotes compliance with acceptable AI tools for work.\n- **One-Click Installation:** Setup is quick, accommodating both managed and BYOD environments.\n\n### Ideal For\nRepacket caters to organizations of all shapes and sizes:\n- **Small Businesses** looking to establish essential security foundations.\n- **IT Teams of One** needing streamlined security controls.\n- **Mid-Sized Organizations** with established security teams to enhance their existing protocols.\n- **Enterprises** facing complex security challenges across multiple departments.\n\n### The Way Forward\nThe company is currently in early access and encourages organizations to sign up for features that include data loss prevention, content filtering, and session protections. Interested parties can schedule a demo through their website to see how Repacket can seamlessly integrate into their workflow, enhancing security without stifling productivity.\n\nIn conclusion, Repacket's innovative approach positions it as a leader in enabling secure and productive web environments, reducing the burden of inevitable human errors within the digital workspace.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fc5c0cbc0e77fe4cc0bb19b23f448515561bc827.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191717Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9cef8877c427d63c8b425beaae2df7bf60b614646530b9a0003d312b7a3f4494",
+    "social_links": [
+        "https://www.linkedin.com/company/0pass/",
+        "https://www.crunchbase.com/organization/0pass"
+    ],
+    "logo_path": "data/logos\\Repacket_logo.png"
+}

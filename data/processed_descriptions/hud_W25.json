@@ -1,0 +1,41 @@
+{
+    "Links": "https://www.ycombinator.com/companies/hud",
+    "Name": "hud",
+    "Headline": "Hud is building evals for the drop-in worker",
+    "Batch": "W25",
+    "Description": "",
+    "Activity_Status": "Active",
+    "Website": "https://hud.so",
+    "Founded_Date": "2025",
+    "Team_Size": "3",
+    "Location": "",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/aaron-epstein",
+    "Group_Partner": "Aaron Epstein",
+    "Company_Linkedin": "",
+    "Company_Twitter": "",
+    "Tags": "",
+    "social_links": [
+        "https://x.com/hud_evals",
+        "https://github.com/Human-Data"
+    ],
+    "logo_path": "data\\logos\\hud.png",
+    "Active_Founders": [
+        {
+            "Name": "Jay Ram, Founder",
+            "Description": "CEO @HUD",
+            "LinkedIn": "https://www.linkedin.com/in/jay-ram-29003b198/"
+        },
+        {
+            "Name": "Lorenss Martinsons, Founder",
+            "Description": "interested in natural intelligence, flowers, and the human condition",
+            "LinkedIn": "https://linkedin.com/in/lorenss"
+        },
+        {
+            "Name": "Parth Patel, Founder",
+            "Description": "Co-founder of Human U Data.\n[a-z]*",
+            "LinkedIn": "https://linkedin.com/in/parth220"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "### Overview of Hud\n\n**Company Name:** Hud  \n**Website:** [hud.so](https://hud.so)  \n**Founded:** 2025  \n**Y Combinator Batch:** W25  \n**Location:** Not specified  \n**Team Size:** 3 employees  \n**Group Partner:** Aaron Epstein  \n\n---\n\n#### Mission\n\nHud is dedicated to enhancing the capabilities of computer use agents through dynamic evaluations tailored specifically for drop-in workers. Their platform is geared toward streamlining and optimizing how these agents operate within various environments.\n\n---\n\n#### Current Offerings\n\nHud is actively pursuing the development of an evaluation platform for computer use agents. Essentially, it allows users to assess and improve their agents' performance across a myriad of tasks and scenarios. Here\u2019s what they offer:\n\n- **Rich Evaluation Sets:** The platform hosts hundreds of environments, allowing agents to be evaluated in various scenarios. \n- **Adaptive Evaluations:** Tailor the evaluations to fit the specific needs of your agent, employing unique tools and services for a comprehensive analysis.\n- **Rapid Setup:** Leveraging advanced orchestration, Hud can spin up environments quickly\u2014often in just 20 seconds per task.\n\n#### Key Features\n\n- **Scalable Evaluations:** Conduct multiple evaluations concurrently without delay.\n- **Telemetry Insights:** Access state-of-the-art telemetry data for each evaluation.\n- **Comprehensive Task Analysis:** Over 52,000 actions have been performed to analyze computer use.\n\n---\n\n#### Use Cases\n\nHud's platform is not just theoretical; it's gaining traction with notable academic institutions and organizations, including:\n\n- **UC Berkeley**\n- **OpenAI**\n- **MIT**\n- **Columbia University**\n- **Silverstream**\n\nThey cater to various sectors, including academia, finance, gaming, and legal research, promising upcoming evaluations in these fields.\n\n---\n\n#### Pricing Structure\n\nHud offers two pricing tiers:\n\n1. **Basic Tier:** $1 per evaluation\n   - Access to all stock evaluations\n   - Full control over telemetry\n   - Participation in public leaderboards\n\n2. **Enterprise Tier:** Custom pricing\n   - Builds bespoke evaluation sets\n   - Priority access to evaluation environments\n   - Dedicated support team\n\n---\n\n#### Conclusion\n\nHud stands out as a proactive player in the tech landscape, addressing the complexities of evaluating AI agents. With tools designed to foster improvement and customization, Hud is carving a niche that could redefine how organizations leverage artificial intelligence. If you're interested in understanding how to optimize your computer use agent or dive deeper into Hud\u2019s offerings, considering a demo could be a valuable next step."
+}

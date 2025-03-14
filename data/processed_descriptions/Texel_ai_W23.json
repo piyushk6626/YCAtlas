@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/texel-ai",
+    "name": "Texel.ai",
+    "headline": "Run AI pipelines 10x faster",
+    "batch": "W23",
+    "description": "Texel is a platform that enables developers to generate hardware-accelerated APIs for running AI pipelines 10 times faster, including image and video applications. For example, developers can use the latest NVIDIA GPUs or Google TPUs without having to become hardware experts themselves.",
+    "activity_status": "Active",
+    "website": "https://texel.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Rahul Sheth, Founder",
+            "description": "Rahul is co-founder and CEO of Texel.ai. He worked on Bitmoji at Snapchat for almost 8 years after completing a Computer Science PhD at Stanford in character animation and physics simulation. He is interested in scalable systems for computer graphics and artificial intelligence.",
+            "linkedin": "https://www.linkedin.com/in/rbsheth/"
+        },
+        {
+            "name": "Eli Semory, Founder",
+            "description": "Eli is the Co-founder and CTO of Texel.ai. He worked at Snapchat for the last 5 years, building one of the worlds largest graphics GPU deployments. At Texel.ai he's solving the next big problems in Generative AI enabling new and exciting large scale applications.",
+            "linkedin": "https://www.linkedin.com/in/eli-semory-8697b15/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Texel.ai, founded in 2023, is a startup on a mission to supercharge AI workflows by running AI pipelines 10x faster. Initially launched as Texel, the platform is designed for developers to create hardware-accelerated APIs, making it easier to utilize advanced GPUs like NVIDIA or TPUs from Google without the steep learning curve that usually comes with hardware expertise.\n\nBased in [Y Combinator's Batch W23](https://texel.ai), Texel.ai is a lean operation, currently powered by a small team of just two people, but they\u2019re brimming with ambition. Under the guidance of Group Partner Brad Flora, the company is set to revolutionize the way developers process images and videos at scale.\n\nWhat\u2019s fascinating about Texel.ai is its focus on efficiency. The company claims to process over 2 million videos each month, which is no small feat. They pride themselves on fast and cost-effective APIs that optimize video editing tools, enabling quick turnaround times that keep users engaged. This is especially attractive for developers looking to minimize costs while maximizing performance.\n\nBut it\u2019s not just about speed. Texel.ai offers customizable video pipeline solutions that can be tailored to the specific needs of a project, along with direct support for users. Their pricing model is also straightforward, offering a pay-as-you-go structure that's flexible for different scales of usage\u2014and they\u2019re open to custom enterprise solutions too.\n\nWith a deep bench of experience in graphics, rendering, and video that spans over three decades, Texel.ai is well poised to meet the demands of modern developers. If you\u2019re looking to optimize your AI pipeline workflow, or simply want to learn more, you can check them out at their [website](https://texel.ai).\n\nIn summary, Texel.ai positions itself as an essential tool for developers eager to harness the power of AI with simplicity and speed, all while keeping costs in check. The future is fast, and Texel.ai is here to help you keep pace.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9ab35ee64998c738a877b9bb7dcc7438df4d8abf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192013Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1f833b7b017571d73d0548e486b0a3c0937eb62da9f1126f2beaa54f7bd0e206",
+    "social_links": [
+        "https://www.linkedin.com/company/texel-ai"
+    ],
+    "logo_path": "data/logos\\Texel.ai_logo.png"
+}

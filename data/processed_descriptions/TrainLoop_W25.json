@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/trainloop",
+    "name": "TrainLoop",
+    "headline": "Fine-tune reasoning models",
+    "batch": "W25",
+    "description": "TrainLoop makes it effortless for developers to improve reasoning models like deepseek-r1 for their task.",
+    "activity_status": "Active",
+    "website": "http://trainloop.ai",
+    "founded_date": 2025.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:reinforcement-learning; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Mason Pierce, Cofounder / CTO",
+            "description": "My background is in applying AI models to business use-cases and have always been \"scared\" of fine-tuning - building a platform to unlock fine-tuning for all builders :)",
+            "linkedin": "https://www.linkedin.com/in/malapier"
+        },
+        {
+            "name": "Jackson Stokes, Founder",
+            "description": "Cofounder at TrainLoop; I optimize language models. \n\nPreviously, I worked on kernel level optimizations for Gemini at Google, and framework level optimizations on video models at Google Research.",
+            "linkedin": "https://www.linkedin.com/in/jacksonstokes/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Summary of TrainLoop\n\n**Company Overview:**\nTrainLoop is a San Francisco-based startup founded in 2025 and part of Y Combinator's Winter 2025 batch. With a small team of just two employees, TrainLoop aims to simplify the process of improving reasoning models for developers\u2014especially those like deepseek-r1\u2014without requiring deep machine learning expertise. You can learn more about them at [TrainLoop's website](http://trainloop.ai).\n\n**Mission:**\nThe company's mission revolves around fine-tuning reasoning models, enabling developers to achieve better accuracy and reliability from these AI tools. They focus on ensuring that models don\u2019t just sound correct but actually \"think\" and follow instructions effectively.\n\n**What They Do:**\nTrainLoop offers a streamlined, four-step process for developers to fine-tune reasoning models:\n1. **Data Collection**: Integrating the SDK allows developers to capture relevant data from their existing models.\n2. **Training**: Using reinforcement learning, TrainLoop fine-tunes the model, enhancing its accuracy and reasoning capability.\n3. **Inference**: The customized model is automatically deployed and ready for production use.\n\n**Why Choose TrainLoop?**\n- **Simplicity**: Collecting the necessary data requires only a few lines of code.\n- **Efficiency**: The fine-tuning process emphasizes correctness, yielding improved reasoning with minimal data.\n- **Convenience**: Instant deployment means you can call your fine-tuned models in the same way you would access offerings from larger companies like OpenAI or Anthropic.\n- **Versatility**: You can upload any document to customize models for specific content understanding and reasoning.\n\n**Join the Beta:**\nTrainLoop understands the challenges of waitlists but stresses their commitment to offering a high-quality customer experience. Interested developers can [join their waitlist](http://trainloop.ai/<https:/app.trainloop.ai/waitlist>).\n\n**Key Details:**\n- **Location**: North Beach, San Francisco, CA\n- **Focus Areas**: Developer tools, generative AI, reinforcement learning, and tailored solutions for the Bay Area.\n- **Group Partner**: Michael Seibel, a key figure in Y Combinator, supports TrainLoop's mission and growth.\n\nIn a world where generating the right responses matters more than ever, TrainLoop positions itself as a valuable ally for developers seeking to enhance AI reasoning capabilities efficiently and effectively.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/237ae9bd6674ad489d4e3e189b26fc85b98e48cf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192025Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e2b05127aebae6ceaf543de1afa2a7469f2c90f415af67b7d8e03c23722845af",
+    "social_links": [
+        "https://www.linkedin.com/company/trainloopai/",
+        "https://x.com/TrainLoop_ai",
+        "https://github.com/TrainLoop"
+    ],
+    "logo_path": "data/logos\\TrainLoop_logo.png"
+}

@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/instabug",
+    "name": "Instabug",
+    "headline": "Mobile Apps Observability and Performance Monitoring Platform",
+    "batch": "W16",
+    "description": "Monitor, prioritize, and debug performance and stability issues throughout the entire mobile app development lifecycle.",
+    "activity_status": "Active",
+    "website": "https://instabug.com",
+    "founded_date": null,
+    "team_size": 190.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Omar Gabr, Founder/CEO",
+            "description": "CEO/Cofounder at Instabug",
+            "linkedin": "https://www.linkedin.com/in/okgabr"
+        },
+        {
+            "name": "Moataz Soliman, Founder/CEO",
+            "description": null,
+            "linkedin": "https://eg.linkedin.com/pub/moataz-soliman/53/42/289"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Instabug: Revolutionizing Mobile App Observability\n\n**Overview**  \nInstabug is a prominent player in the mobile app development world, offering a platform designed for mobile apps' observability and performance monitoring. Founded during the Y Combinator Batch W16 in 2016, and based in San Francisco, Instabug is helmed by a talented team of around 190 employees. The company's mission? To help developers monitor, prioritize, and debug performance and stability issues throughout the mobile app development lifecycle.\n\n**Product and Services**  \nInstabug delivers a robust mobile observability platform that integrates seamlessly into the app development process. Their services include:\n\n- **AI-Powered Mobile Observability**: Enhanced insights for optimizing app performance.\n- **Bug and Crash Reporting**: Identify and address critical issues effortlessly.\n- **Test and Release Management**: Ensure seamless releases backed by proactive bug detection.\n- **User Feedback Collection**: Continuously gather actionable insights to improve app quality.\n\nThe platform stands out with its focus on **zero-maintenance apps**, powered by AI, making it easier for developers to deliver high-quality apps without the cumbersome upkeep of manual processes. They boast an impressive integration ecosystem with tools like Jira, GitHub, and Slack, making collaboration smoother than ever.\n\n**Industry Impact**  \nInstabug has set a high bar in mobile performance monitoring, recognized as a leader by G2 for its user adoption and customer satisfaction. Over 25,000 mobile teams, including heavyweights like Lyft and Verizon, trust Instabug to provide the insights necessary for maintaining app quality and stability.\n\n**Team and Leadership**  \nWith Jared Friedman as their Group Partner, Instabug benefits from a wealth of experience and mentorship in the startup ecosystem. Their team culture is geared toward innovation and user-centric empathy, crucial for a tech company at the forefront of mobile app solutions.\n\n**Security and Privacy**  \nInstabug takes user security seriously, adhering to top standards including SOC2 compliance and GDPR regulations, promising robust data protection without compromising on service availability.\n\n### Proactive Approach for Developers  \nThe core of Instabug's strategy is to empower developers with better tools for monitoring and feedback. By making app performance insights available in real-time, they allow teams to focus not just on troubleshooting, but on creating better experiences for users. \n\nIn summary, Instabug isn\u2019t just about fixing problems; it\u2019s about preventing them before they arise, an essential paradigm shift in the app development lifecycle. For anyone serious about mobile development, it\u2019s a partnership worth considering as they push the boundaries of performance monitoring and user experience. \n\nFor more details, explore their offerings at [Instabug](https://instabug.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dc05941ff0465b11d147fd0449d24dabda36cb32.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191435Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ad4bd907e1473820d3f440907b35af7f4f272a39c026378afec08d1e10100ca0",
+    "social_links": [
+        "https://www.linkedin.com/company/instabug/",
+        "https://www.twitter.com/Instabug/",
+        "https://www.facebook.com/Instabug/",
+        "https://www.crunchbase.com/organization/instabug",
+        "https://github.com/Instabug"
+    ],
+    "logo_path": "data/logos\\Instabug_logo.png"
+}

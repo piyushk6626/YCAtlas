@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/glide-2",
+    "name": "Glide",
+    "headline": "Let users pay for onchain transactions with any token on any chain",
+    "batch": "S23",
+    "description": "**What is Glide?**\r\nGlide lets users pay for transactions with tokens they already have on any chain. This eliminates the need to swap, bridge, or hold specific tokens to pay for transactions.\r\n\nGlide supports all EVM-compatible chains and hundreds of tokens, and lets users transact with the most popular smart contracts.\r\n\n**Who is Glide for?**\r\nGlide can be used by dapps and wallets to help their users complete transactions with tokens they already have. These tokens can be used to make cross-chain or same-chain transactions.",
+    "activity_status": "Active",
+    "website": "https://paywithglide.xyz",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:crypto-web3; industry:b2b; industry:api; industry:infrastructure; location:new-york",
+    "founders": [
+        {
+            "name": "Tushar Soni, Founder",
+            "description": "I'm the co-founder at WalletKit building the best developer platform for web3 consumer apps.\n\nPrior to starting WalletKit, I was a tech lead at Robinhood Crypto building the Robinhood Wallet app. Previously, I worked on large-scale consumer apps such as Uber Eats, Apple Music, and App Store.\n\nI also created and maintain Copper (https://gocopper.dev) - a fullstack toolkit to build web apps in Go.",
+            "linkedin": "https://linkedin.com/in/tusharsoni"
+        },
+        {
+            "name": "Qinyu Tong, Founder",
+            "description": "I'm the co-founder at WalletKit building the best developer platform for web3 consumer app developers. Prior WalletKit, I was at Robinhood Crypto building the Robinhood Wallet. Previously, I worked at LinkedIn on enterprise infra such as Ads API, AI Infra.",
+            "linkedin": "https://linkedin.com/in/tongqinyu"
+        }
+    ],
+    "status": true,
+    "generated_description": "Glide is a forward-thinking startup that launched in 2023 and is currently part of Y Combinator's Batch S23. The company, which has a modest team of just two based in New York, has set out on an ambitious mission: to simplify on-chain transactions for users. \n\nSo, what exactly does Glide do? At its core, Glide allows users to pay for on-chain transactions using any token they already possess, across any blockchain. This eliminates the cumbersome steps of swapping tokens or bridging assets to settle transactions. Glide is designed with convenience in mind, supporting all Ethereum Virtual Machine (EVM) compatible chains and hundreds of tokens. The platform makes it seamless for users, whether they\u2019re engaged in cross-chain transactions or comfortable with their existing tokens on a single chain.\n\nGlide targets a dual audience: decentralized applications (dapps) and wallets. By integrating Glide, these platforms can elevate the user experience, enabling transactions with ease\u2014users can pay directly with their current tokens, use credit/debit cards, or even engage with centralized exchanges like Coinbase or Binance. For those without any crypto assets, Glide provides options to purchase crypto on-the-go, ensuring high-intent users complete their transactions without frustration.\n\nOne of the standout features of Glide is its pre-built checkout flows. These are optimized for conversion and designed to integrate quickly into dapps. Thanks to Glide's developer-friendly APIs, the integration process is straightforward, often completed within an hour. Developers can choose from customizable UI components or leverage Glide's headless SDK for a tailored experience.\n\nIn a space where friction often leads to loss of users and transaction drop-offs, Glide sets itself apart by letting payments occur without the user's need to jump through hoops. It's all about maximizing flexibility\u2014pay from anywhere, even using hardware wallets, and enjoy over 100 tokens supported without ever needing to swap.\n\nIf you\u2019re looking for a way to enhance your dapp\u2019s payments framework, Glide could just be the solution you need. Check them out at [paywithglide.xyz](https://paywithglide.xyz) to learn how they\u2019re powering the future of web3 transactions.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/40152a76c0993740243c843008a4d0be1823f26a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191359Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bec312802b3cc41242f6855c6f69eaaad8290f3e8da820a74a9bc6cfefb1e7cc",
+    "social_links": [
+        "https://www.linkedin.com/company/paywithglide",
+        "https://twitter.com/tusharsoni1205",
+        "https://github.com/usewalletkit"
+    ],
+    "logo_path": "data/logos\\Glide_logo.png"
+}

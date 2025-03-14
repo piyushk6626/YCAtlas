@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/soteris",
+    "name": "Soteris",
+    "headline": "We write ML software to more accurately select & price insurance risk.",
+    "batch": "S19",
+    "description": "Soteris is a YC-backed company with a four-person team and a great investor base building a first-of-its-kind data ML pricing system for insurance, starting with personal auto.",
+    "activity_status": "Active",
+    "website": "http://www.soteris.co",
+    "founded_date": 2018.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:machine-learning; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sunit Shah, Founder",
+            "description": "Sunit entered the insurance industry in 2005, spending six years building pricing models for life insurance. He later joined the $16B hedge fund Pine River Capital, where he spent 2 years building a $750m P&C insurance company from scratch. He is an author of both Behavioral Finance (Wiley) and the Principal-Agent Problem in Finance (CFA Research). Prior experience also includes the Boston Consulting Group and adjunct faculty positions at UVA. He received his Ph.D. in Economics from UVA in 2011.",
+            "linkedin": "https://www.linkedin.com/in/sunit-n-shah/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: Soteris\n\n**Founded**: 2018  \n**Location**: San Francisco, CA  \n**Team Size**: 4 employees  \n**Y Combinator Batch**: S19  \n**Website**: [soteris.co](http://www.soteris.co)  \n**Group Partner**: Nan  \n\n**Mission**: Soteris aims to write machine learning software that more accurately selects and prices insurance risk. They are focused on transforming how auto insurance underwriting is done, specifically targeting the inefficiencies that typically lead to poor risk assessments and inflated loss ratios.\n\n### What Soteris Does\n\nAt its core, Soteris is developing a first-of-its-kind, data-driven machine learning pricing system for the insurance industry, starting with personal auto insurance. Their software helps insurers accurately select and quote risks on a policy-by-policy basis in real-time, addressing a critical gap in the conventional underwriting process. \n\nTraditional methods often force insurers to turn off entire segments of risk due to fears of poor profitability, which results in lost opportunities. Soteris flips that approach by providing policy-level intelligence that enables insurers to keep all segments active. This results in a more inclusive strategy that captures both adequately-rated and inadequately-rated risks, thus expanding potential premium volume.\n\n### The Technology\n\nSoteris leverages a SaaS platform that integrates easily with existing systems, allowing insurers of all sizes to tap into sophisticated data science and machine learning resources. The implementation timeframe is efficient\u2014typically around four months\u2014making it a viable option for firms eager to modernize their underwriting processes.\n\nKey features of Soteris's solution include:\n- Predictive scoring of policies in under one second.\n- Intelligent selection of risks that minimizes the overall loss ratio.\n- Customizable quoting that allows insurers to respond dynamically to market fluctuations and capitalize on favorable risk segments.\n\n### Market Position\n\nPart of the fintech and AI sectors, Soteris is positioned at the intersection of technology and insurance. By addressing a fundamental challenge in risk assessment, they not only aim to improve profitability for insurers but also to modernize outdated underwriting practices that have persisted for decades. The potential to drive down loss ratios while retaining a wider array of risks represents a compelling value proposition.\n\n### Conclusion\n\nSoteris is a promising player in the insurtech space, demonstrating how machine learning can overhaul conventional underwriting. By focusing on smarter risk selection and pricing, Soteris is set to make a notable impact on the insurance landscape, ultimately enabling insurers to grow their businesses while mitigating losses.\n\nFor more insights about Soteris and its solutions, visit their [website](http://www.soteris.co).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ab92928905ca77264783d4d4fa2bfc94cd3c5cae.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191937Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=31e71fd455d1fdf70e0d406c2339d9d1bada5ec38b0a3ad001ad5cb76ab6c1ee",
+    "social_links": [
+        "https://www.linkedin.com/company/soteris-inc/"
+    ],
+    "logo_path": "data/logos\\Soteris_logo.png"
+}

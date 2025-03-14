@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/rosebud-biosciences",
+    "name": "Rosebud Biosciences",
+    "headline": "Growing micro-organs to find new drugs",
+    "batch": "W22",
+    "description": "Rosebud Biosciences accelerates drug development by screening drugs against organoids (micro-organs) that have the same gene mutations as the patients. We partner with therapeutics companies to screen their drugs, and we perform our own drug discovery for rare diseases that have no existing treatments. Our organoids are also fetal-like and enable discovery of novel drug targets for pediatric diseases. This technology was validated at Stanford, published in a prestigious journal, and has already led to the discovery of a drug target in a pediatric heart disease that could not have been found using traditional disease models.",
+    "activity_status": "Active",
+    "website": "https://rosebudbiosciences.com/",
+    "founded_date": 2020.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-powered-drug-discovery; industry:pediatrics; industry:biotech; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kitch Wilson, Founder",
+            "description": "Kitch is CEO and co-founder of Rosebud Biosciences. He is a Physician-Scientist (MD, PhD) with 16 years\u2019 experience merging human induced pluripotent stem cells with genomic and molecular technologies. A Stanford-trained molecular pathologist, Kitch was an attending physician at Stanford for 6 years before cofounding Rosebud.",
+            "linkedin": "https://www.linkedin.com/in/kitch-wilson-1b915349/"
+        },
+        {
+            "name": "Evan Lyall, Founder",
+            "description": "Evan is co-founder and CTO of Rosebud Biosciences. Evan is a Scientist-Engineer (PhD) with 10 years\u2019 experience in advanced microscopy, machine learning, and data engineering. At UC Berkeley he studied the neural coding of perception and was part of a team that built the first bidirectional brain machine interface with proven single cell resolution. Before joining Rosebud he contracted for startups as a data and ML engineer.",
+            "linkedin": "https://linkedin.com/in/evlyall"
+        }
+    ],
+    "status": true,
+    "generated_description": "## Rosebud Biosciences: Pioneering Drug Development for Rare Genetic Diseases\n\n**Mission**: Rosebud Biosciences is on a quest to grow micro-organs, or organoids, to discover new drugs that can potentially change lives, especially for children suffering from rare genetic diseases.\n\n### Overview\nFounded in 2020 and based in San Francisco, Rosebud Biosciences emerged from the renowned Y Combinator Batch W22. Their innovative approach involves using organoids that replicate the genetic mutations found in patients, thus allowing for more effective drug screening and discovery. The ultimate goal? To find treatments for the 95% of rare diseases that currently lack approved therapies.\n\n### Technology and Approach\nRosebud's unique advantage stems from their organoid platform, which utilizes human induced pluripotent stem cells (hiPSCs). These \"2.5D\" organoids not only mimic human development but also consist of various cell lineages, facilitating a more accurate model for testing drug efficacy. This allows for the screening of small molecules, RNA therapies, and gene therapies in a fully human biological system. \n\nCritically, the technology has shown its strength during early validation at Stanford, leading to the discovery of a potential drug target for a pediatric heart disease that traditional models failed to identify.\n\n### Team\nRosebud operates with a lean team of three dedicated professionals:\n- **Kitch Wilson**, CEO: A physician-scientist with a rich background in merging hiPSCs with genomic technology.\n- **Evan Lyall**, CTO: An engineer-scientist specializing in advanced microscopy and data engineering.\n- **Aditya Khedkar**, Senior Scientist: Focused on gene editing and stem cell biology.\n\n### Partnerships and Opportunities\nRosebud Biosciences is actively seeking collaboration with pharmaceutical companies that share their vision for advancing drug development in pediatric diseases. Their organoid platform is perfectly suited for partners interested in developing therapies across a range of conditions, including heart, liver, neural, and kidney diseases.\n\n### Why It Matters\nCurrently, around 350 million people globally suffer from genetic diseases, with a heartbreaking 30% of affected children not living to see their fifth birthday. Rosebud's pioneering work focuses on reversing this trend by harnessing cutting-edge science to discover treatments for these rare diseases\u2014those that existing approaches have often overlooked.\n\nBy building a brighter future for children dealing with rare genetic conditions, Rosebud Biosciences is not just part of a technological revolution in medicine; they are a beacon of hope for families around the world. For more information, you can check their website [here](https://rosebudbiosciences.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ec5e3bf74119bfa39314a68e39b42c4afa0430eb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191901Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=34fbaa8891a5893ceaabd37e199c3af2a61258d372b18a7c6408bc4dc4d30d02",
+    "social_links": [
+        "https://www.linkedin.com/company/rosebud-biosciences",
+        "https://twitter.com/rosebudbiosci"
+    ],
+    "logo_path": "data/logos\\Rosebud_Biosciences_logo.png"
+}

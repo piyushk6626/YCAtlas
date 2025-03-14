@@ -1,0 +1,45 @@
+{
+    "links": "https://www.ycombinator.com/companies/bitmovin",
+    "name": "Bitmovin",
+    "headline": "Powers OTT online video providers with video developer tools.",
+    "batch": "S15",
+    "description": "Bitmovin has been a first mover in almost every significant development in online video, from building and deploying the world\u2019s first (and fastest) commercial adaptive streaming (MPEG-DASH/HLS) HTML5 Player, to being the first to achieve 100x realtime encoding speeds in the cloud. Bitmovin provides HEVC as well as VP9 live streaming with 60FPS and 4K resolution, and built the first containerized video encoding solution with Docker and Kubernetes.\r\n\nBitmovin products are completely in-house developed, easy and fast to integrate and highly customizable. In combination with our great support, documentation and SLAs, this is a true enterprise offering.\r\n\nTo find out more about Bitmovin\u2019s video infrastructure solutions, or about any individual products, contact sales@bitmovin.com, or visit our website: bitmovin.com",
+    "activity_status": "Active",
+    "website": "http://bitmovin.com",
+    "founded_date": null,
+    "team_size": 145.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:video; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Christian Timmerer, Founder/CIO",
+            "description": "Researcher, entrepreneur, & teacher on immersive multimedia communication, streaming, adaptation, & QoE. CIO & Co-Founder @bitmovin | Assoc.-Prof @itecmmc",
+            "linkedin": "https://www.linkedin.com/in/christiantimmerer"
+        },
+        {
+            "name": "Stefan Lederer, Founder/CEO",
+            "description": null,
+            "linkedin": "http://at.linkedin.com/pub/stefan-lederer/25/236/2a1"
+        },
+        {
+            "name": "Christopher Mueller, Founder/CTO",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/bitmovin-chris/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Bitmovin is a powerhouse in the video streaming industry, primarily focusing on providing developers with robust tools to enhance over-the-top (OTT) video services. Founded as part of Y Combinator's S15 batch and operating from San Francisco with a team of about 145, Bitmovin quickly made its mark by pioneering various innovative technologies in online video.\n\nFrom its inception, Bitmovin has led in significant advancements in streaming technology. They were the first to develop the adaptive streaming for HTML5 video, which employs technologies like MPEG-DASH and HLS. Furthermore, they have achieved incredible results in encoding speed, boasting up to 100x real-time elapsed processing in the cloud. Their offerings also include HEVC and VP9 for live streaming at 4K resolution with 60 frames per second\u2014no small feat in today's competitive landscape.\n\nBitmovin's product suite is entirely developed in-house, ensuring tight integration and customization options tailored to client needs. Their flagship products include the Bitmovin Player, a highly performant and modular video player that ensures a seamless viewing experience across numerous devices. In addition, their analytics and encoding services give developers valuable insights and tools to manage video quality and playback efficiently.\n\nThe company's commitment to ease of integration is backed by robust documentation and dedicated support, making it an attractive option for enterprises looking to enhance their video streaming capabilities. \n\nFor anyone interested in learning more about their services or products, they can visit [Bitmovin's website](http://bitmovin.com) or reach out directly via email at sales@bitmovin.com.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1d903a1a9360d21725b5f86b2c015378bdeec0a5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191024Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0e320a3536cef188f6946b64a3dd0ad9b132920ebf90a7183e8c5ded7f8c5d71",
+    "social_links": [
+        "https://www.linkedin.com/company/bitmovin/",
+        "https://twitter.com/bitmovin",
+        "https://www.facebook.com/bitmovin/",
+        "https://www.crunchbase.com/organization/bitmovin",
+        "https://github.com/bitmovin"
+    ],
+    "logo_path": "data/logos\\Bitmovin_logo.png"
+}

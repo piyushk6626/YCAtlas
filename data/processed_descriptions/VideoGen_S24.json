@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/videogen",
+    "name": "VideoGen",
+    "headline": "AI that can create and edit professional videos",
+    "batch": "S24",
+    "description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Today, we serve thousands of customers, from individuals and small businesses to teams at Google and ByteDance.\r\n\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks!",
+    "activity_status": "Active",
+    "website": "https://videogen.io",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:saas; industry:video; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Anton Koenig, Founder",
+            "description": "Co-founder and CEO of VideoGen. I previously interned at AWS and dropped out of UMass Amherst Computer Science to focus on VideoGen full-time.",
+            "linkedin": "https://linkedin.com/in/antonckoenig"
+        },
+        {
+            "name": "David Grossman, Founder",
+            "description": "I'm the cofounder and CTO of VideoGen (S24), a platform for generating professional videos using AI. Before this, I studied Computer Science and Applied Math at Brown and interned at Palantir.",
+            "linkedin": "https://linkedin.com/in/dg314"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: VideoGen**\n\nFounded in 2023, VideoGen is a San Francisco-based startup that leverages artificial intelligence to transform the cumbersome world of video production. As part of Y Combinator's Batch S24, they aim to make video creation accessible to everyone\u2014from independent creators to large corporations like Google and ByteDance.\n\n**Mission and Vision (AI-Driven Video Production)**\n\nAt its core, VideoGen's mission is to enable anyone to generate and edit professional, copyright-free videos in seconds using AI. Forget the old days of hiring expensive professionals or spending countless hours fine-tuning your footage. With just a few clicks, VideoGen promises to deliver high-quality videos that are ready for commercial use. \n\n**What They Offer:**\n\n1. **User-Friendly Interface**: The platform simplifies video production, allowing users to create videos effortlessly. It's designed for speed, aiming for the fastest video generation experience available.\n\n2. **Robust Features**:\n   - One-click video creation with access to over 3 million copyright-free assets.\n   - Advanced text-to-speech capabilities, boasting over 150 unique voices in 50 languages and accents. \n   - A streamlined editing process that allows for instant, browser-based edits.\n\n3. **Value-Driven**: Users report significant time savings on video production\u2014what used to take days can now take minutes.\n\n**Customer Base and Feedback**\n\nVideoGen already serves thousands of customers across various sectors, including marketers and content creators. Users rave about the tool's ability to expedite video production, allowing for quick A/B testing and iterative improvements. For example, Ary Mas-Aranguiz from Google Fiber praised it for enhancing video turnaround times remarkably.\n\n**Team and Leadership**\n\nThe company currently operates with a small but efficient team of five, guided by the insights of Garry Tan as their Group Partner. This lean structure reflects the startup\u2019s agility and focus on innovative solutions in the competitive video creation space.\n\n**Conclusion**\n\nIn a nutshell, VideoGen is not just another SaaS tool; it's positioning itself as a game-changer in the realm of content creation. With the explosive growth in video content demand, a platform like VideoGen\u2014which cuts down production time and costs while enhancing quality\u2014seems well-timed to make waves as it continues to evolve. \n\nFor more information, check out their website: [VideoGen](https://videogen.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8fb9bce74a49cab8e3ef6284eb616284d108df5d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192047Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=29c9a2d7bbebe547df23b35a96c8c6f230265b36eb34f67c29bd05908e84f556",
+    "social_links": [
+        "https://www.linkedin.com/company/videogen",
+        "https://www.crunchbase.com/organization/videogen"
+    ],
+    "logo_path": "data/logos\\VideoGen_logo.png"
+}

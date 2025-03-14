@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/buildjet",
+    "name": "BuildJet",
+    "headline": "High-performance computing cloud",
+    "batch": "W23",
+    "description": "BuildJet makes CI faster by running its own cloud on top of Gaming CPUs\r\n\nToday, BuildJet offers a CI product that makes GitHub Actions 2x faster and cheaper, by plugging in BuildJet's Gaming CPU Cloud into GitHub Actions. Simply change 1 line, and enjoy the speed-up.",
+    "activity_status": "Active",
+    "website": "https://buildjet.com",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "Berlin, Germany",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:infrastructure",
+    "founders": [
+        {
+            "name": "Adam Shiervani, Founder",
+            "description": "Adam Shiervani is a co-founder of BuildJet, with over a decade of experience working in startups, Adam began as a frontend developer and progressed over the years to become the Chief Product Officer at Germany's largest market research company, Civey. At Civey, Adam, together with Lian, who served as CTO, scaled the company and discovered the significant impact that consumer CPUs have on CI speed.",
+            "linkedin": "https://www.linkedin.com/in/adamshiervani/"
+        },
+        {
+            "name": "Lian Duan, Founder",
+            "description": "Lian Duan, co-founder of BuildJet, holds a master\u2019s degree in bioinformatics from ETH and began his career working as a Senior Full-stack developer at a German data privacy startup alongside Adam Shiervani. Lian later moved to become the CTO of Germany\u2019s largest market research company, Civey, where he worked closely with Adam to scale the company and gain insight into the significant impact of gaming CPUs on CI speed.",
+            "linkedin": "https://www.linkedin.com/in/y2hlbwhhy2s/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**BuildJet: Accelerating CI with Gaming Power**\n\nFounded in 2022 and part of Y Combinator's Batch W23, BuildJet is based in Berlin, Germany. Its mission revolves around enhancing high-performance computing in the cloud, specifically aimed at making Continuous Integration (CI) significantly faster and affordable.\n\nOriginally conceived to leverage gaming CPUs, BuildJet amplifies the speed and cost-efficiency of GitHub Actions by a staggering 2x. This is achieved simply by swapping out a single line in your config\u2014you plug in BuildJet's Gaming CPU Cloud, and voil\u00e0, you\u2019re faster and your build costs are lower.\n\n### What They Offer\nWith a team of just two people, BuildJet has designed a cloud-native CI product that seamlessly integrates with GitHub Actions. Users report impressive speed-ups, with indications that even the heaviest workflows can get completed in half the time.\n\n- **Speed:** Double the performance as compared to standard GitHub Actions.\n- **Cost-Efficiency:** Lower per minute pricing compared to traditional CI options, reducing overall build costs.\n- **Security First:** BuildJet emphasizes data safety, ensuring that user code is kept confidential and secure.\n\n### Target Audience\nBuildJet primarily caters to developers and teams using GitHub Actions, providing a more performant alternative to the default runners offered by GitHub. The platform is tagged under developer-tools, SaaS, B2B, and infrastructure, clearly showcasing its focus on tech-savvy users.\n\n### Customer Validation\nBuildJet already commands trust with notable users like Netflix, NASA, and various open-source projects, all of whom have experienced considerable gains in both speed and efficiency since adopting its service. Happy clients rave about drastic reductions in build times and costs\u2014one team reported going from a 40-minute process down to just 10!\n\n### Explore Further\nIf you\u2019re looking to supercharge your CI processes without the burden of hefty costs, BuildJet is worth a try. You can get started for free, and with no credit card required, it\u2019s as easy as changing a line in your configuration.\n\nVisit [BuildJet's Website](https://buildjet.com) to learn more about their offerings, pricing, and customer stories. \n\nIn the world of development, speed matters. BuildJet is here to make CI build times a thing of the past, letting teams focus on what truly matters\u2014building great products.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/715504322d5cc9cada82a6803ee8c8faaf619e87.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191034Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=30dc4dac78520a594e0307799e6100219b097f7c9b79a0a99edf7b44385300cf",
+    "social_links": [
+        "https://www.linkedin.com/company/buildjet/",
+        "https://twitter.com/buildjet"
+    ],
+    "logo_path": "data/logos\\BuildJet_logo.png"
+}

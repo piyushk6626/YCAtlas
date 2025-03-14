@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/momo-medical",
+    "name": "Momo Medical",
+    "headline": "We help nurses in nursing homes to be 30% more effective",
+    "batch": "S21",
+    "description": "We go to nursing homes, and we put an internet-connected bed sensor underneath all their beds. Our app gives nurses valuable insights and an overview of all their residents. We reduce fall incidents and bedsores while improving evening and night shift productivity by over 30%. \r\n\nMomo Medical solves the biggest problem affecting nursing homes, staff shortages while increasing the quality of care.",
+    "activity_status": "Active",
+    "website": "https://www.momomedical.com/",
+    "founded_date": 2017.0,
+    "team_size": 10.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:iot; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Menno Gravemaker, Founder",
+            "description": "When I was young I already had a fascination for creating and building things. I collected candle stumps from the neighbors, made new candles from these stumps, and then sold those to the same neighbors. \n\nMy grandmother was in a nursing home, I decided to join a lot of evening and night shifts. I needed to know how we can help nurses care for the people we deeply love. I found out they still worked with walkie-talkies and sensors that give 50% false alarms. We need to change this.",
+            "linkedin": "https://www.linkedin.com/in/menno-gravemaker-70674b53/"
+        },
+        {
+            "name": "Thomas Bakker, Founder",
+            "description": "Thomas, CTO of Momo Medical. He is a multi-talented Engineer, and a master in combining technical knowledge with the needs of nurses. By managing a variety of teams he has a leading role in building the IOT solution for nursing homes.",
+            "linkedin": "https://www.linkedin.com/in/thomasbakker118"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Momo Medical: Revolutionizing Care in Nursing Homes\n\nMomo Medical, founded in 2017 and based in San Francisco, is on a mission: to help nurses in nursing homes become 30% more efficient. This is not just about numbers; it\u2019s about enhancing the quality of care for residents who need it most. \n\nInitially, Momo Medical hit the ground running with a smart solution\u2014a bed sensor that connects to the internet and is placed under the mattresses in nursing homes. Their innovative app provides invaluable insights, enabling nurses to have a clearer overview of all residents. By reducing incidents like falls and bedsores, Momo Medical has managed to boost the nighttime productivity of nursing staff significantly.\n\n### The Problem They Solve\n\nThe healthcare sector, particularly in nursing homes, faces critical challenges\u2014most notably, staff shortages. Momo Medical steps in to tackle these issues head-on. By equipping nursing homes with advanced technology, they not only enhance the efficiency of existing staff but also raise the standards of care. The results speak for themselves: facilities using Momo Medical\u2019s technology experience a notable drop in emergencies and an increase in the quality of life of their residents.\n\n### The Team and Backing\n\nWith a lean team of about 10 passionate individuals, Momo Medical is partially supported by Y Combinator's Batch S21, giving them access to a powerful network and resources. They are also tagged as a SaaS (Software as a Service), IoT (Internet of Things), and B2B (Business to Business) company, reflecting their product\u2019s nature and market.\n\n### Why it Works\n\nSo, what makes Momo Medical's approach so effective? Firstly, the **Momo BedSense App** lets caregivers monitor who is getting out of bed, how residents are doing at any given time, and alerts them to any unusual inactivity. It's a shift from traditional rounds to a more personalized care model. The app has been touted for bringing peace of mind to caregivers, who maintain an overview of their entire department effortlessly.\n\n**Key Benefits Include:**\n- **Reduced fall incidents**: Alerts caregivers before a resident gets out of bed, allowing for timely intervention.\n- **Improved rest for residents**: More personalized care leads to better sleep quality.\n- **Enhanced job satisfaction**: Not only do staff members find their workloads lightened, but they also feel more competent in providing high-quality care.\n\n### Real Stories, Real Impact\n\nThe feedback from caregivers and family members has been overwhelmingly positive. Nurses report feeling more at ease knowing they can oversee numerous residents at once, while family members appreciate the added safety for their loved ones. The heartfelt reflections highlight not just a better workflow but a deeper emotional connection to the care provided.\n\n### Looking Ahead\n\nAs Momo Medical continues to grow, they focus on improving the lives of residents while supporting the hardworking staff in nursing homes. If you're curious to experience the Momo BedSense yourself, they offer the opportunity to trial the system for three months, providing hands-on guidance throughout.\n\nFor more details, visit their website at [Momo Medical](https://www.momomedical.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d94b73a71894c78dc4b66ea755f29dc6a1bcd0d6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191546Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=36bdf30af4cc6c55b390210ccd5cb4dca699c7c9bdcecdc6c767358b035e1c7c",
+    "social_links": [
+        "https://nl.linkedin.com/company/momo-medical",
+        "https://www.crunchbase.com/organization/momo-medical"
+    ],
+    "logo_path": "data/logos\\Momo_Medical_logo.png"
+}

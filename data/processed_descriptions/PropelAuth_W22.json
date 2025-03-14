@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/propelauth",
+    "name": "PropelAuth",
+    "headline": "Team-based authentication for B2B SaaS",
+    "batch": "W22",
+    "description": "PropelAuth provides the right level of authentication for all stages of a company. New startups can use our hosted pre-built UIs which provide the simplest possible integration. Out of the box, our customers immediately have the same auth experience as large tech companies like Slack. As those startups grow, they can use our APIs and component libraries to pull aspects of the experience into their product.\r\n\nMore than just authentication, we will also provide useful functions tied to a \"user\" or \"organization\", like analytics, billing/subscriptions, referral programs, etc.",
+    "activity_status": "Active",
+    "website": "https://www.propelauth.com",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "CA",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:identity",
+    "founders": [
+        {
+            "name": "Andrew Israel, Founder",
+            "description": "Andrew is the founder and CEO of PropelAuth. He has more than 10 years experience building software and leading teams for companies like Palantir, SafeGraph, and Clockwise.  He first started writing code in the 6th grade.\nIn his free time, you can find him playing chess or hiking with his dog.",
+            "linkedin": "https://www.linkedin.com/in/andrew-israel-457751b8/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### PropelAuth: Streamlined Authentication for B2B SaaS\n\n**Founded:** 2021  \n**Location:** California  \n**Team Size:** 6 employees  \n**Y Combinator Batch:** W22  \n**Website:** [propelauth.com](https://www.propelauth.com)  \n\n---\n\nPropelAuth is a fresh player in the B2B SaaS world, focusing on team-based authentication solutions that cater to businesses at all stages. The company\u2019s core mission is to make authentication simple, accessible, and effective for SaaS products, all while leveling the playing field between startups and established tech giants like Slack.\n\n**Key Offering:**  \nPropelAuth offers hosted, pre-built user interfaces that facilitate straightforward integration for new SaaS startups. This means that right out the door, startups can provide an authentication experience that rivals larger companies, allowing them to focus more on growing their business and less on backend development.\n\n**More Than Just Authentication:**  \nWhat sets PropelAuth apart is its commitment to offering more than basic authentication. Alongside user management, they provide essential functions like analytics, billing, subscriptions, and referral programs. This comprehensive approach helps businesses not only manage user identities but also understand their customers better.\n\n**Unique Features:**\n- **Customization:** Startups can leverage PropelAuth\u2019s APIs and libraries to gradually integrate various aspects of authentication into their products as they scale.\n- **Built-in Management Tools:** They offer advanced security features, such as multi-factor authentication (MFA), customizable session durations, and audit logs, ensuring both security and compliance are handled seamlessly.\n- **User-Centric Design:** The platform intelligently adapts UI elements based on the user schema, making it easy for developers to implement.\n\n**Testimonials:**  \nFounders from companies like Kintsugi and Tennr praise PropelAuth for addressing the gaps left by other authentication tools, particularly noting its ease of setup, excellent customer support, and rapid feature delivery.\n\n**Culture and Philosophy:**  \nWith a tagline suggesting they're \"built by introverts,\" PropelAuth takes a pragmatic approach to development. They believe that a good authentication system should get out of the way, providing tools that help teams focus on what truly matters\u2014delivering value to their users.\n\nWhether you're a budding startup or an established B2B company, PropelAuth positions itself as a reliable partner in authentication\u2014making it easier for you to manage users while you concentrate on innovating and expanding your services.\n\n---\n\nFor more details about their features, customer stories, or to request a demo, visit [PropelAuth](https://www.propelauth.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bc0274ef46cf48dd965fa2e7a2b67fdf95ae9646.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191656Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=24cd953b2247f7b546a5c5792fc205602961a81e37138d40a2b30eef2af5722b",
+    "social_links": [
+        "https://www.linkedin.com/company/propelauth/",
+        "https://twitter.com/PropelAuth",
+        "https://github.com/propelauth"
+    ],
+    "logo_path": "data/logos\\PropelAuth_logo.png"
+}

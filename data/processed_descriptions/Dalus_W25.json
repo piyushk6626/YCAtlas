@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/dalus",
+    "name": "Dalus",
+    "headline": "AI-powered hardware system design software",
+    "batch": "W25",
+    "description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)\r\n\nRead why we started Dalus: https://dalus.io/articles/why-dalus",
+    "activity_status": "Active",
+    "website": "https://dalus.io",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:aerospace; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Eliot Khachi, Founder",
+            "description": "Co-Founder & CTO at Dalus\nBuilding the next generation of software for hardware engineers designing complex systems.\n\nPreviously worked as a systems integration / test engineer at Aerojet Rocketdyne where I planned tests for a propulsion system undergoing Proof Of Design for the navy. This is where I witnessed the inefficiencies of large, siloed engineering teams firsthand.\n\nB.S. Aerospace Engineering. Software enthusiast. Autodidact.",
+            "linkedin": "https://www.linkedin.com/in/eliot-khachi-426424159/"
+        },
+        {
+            "name": "Sebastian V\u00f6lkl, Founder",
+            "description": "Co-Founder/CEO @ Dalus\nSoftware to model/validate complex systems for industries like aerospace/defense\n\nI co-founded two companies in the past (one software startup, scaled it to 40k MRR and sold it and one hardware startup, building Brain-Computer-Interface electronics)\n\nBefore starting Dalus, I was involved in a project with the European Space Agency modeling a Greenhouse module for the Moon, where I learned firsthand how inefficient existing software is.",
+            "linkedin": "https://www.linkedin.com/in/sebastian-voelkl/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Dalus is a startup founded in 2024, nestled in the heart of San Francisco, and currently part of Y Combinator's Batch W25. The company is on a mission to revolutionize systems engineering through AI-powered hardware system design software. Initially focused on aerospace, defense, and robotics, Dalus has expanded its view to include various mission-critical industries.\n\nThe brain behind Dalus is Eliot, who transitioned from being a test/systems engineer at Aerojet Rocketdyne (part of the L3Harris conglomerate) to launch this venture. Eliot's experiences made him acutely aware of how team inefficiencies and siloed communication stifle productivity, kickstarting his journey to create a tool that unites engineering teams.\n\nAt its core, Dalus offers a platform that allows engineers to trace requirements seamlessly, conduct analyses, and update system models in real-time, which is crucial in today\u2019s fast-paced engineering environments. With a nimble team of just three, including Gustaf Alstromer as their group partner, they\u2019re committed to assisting both budding startups and established giants like Israel Aerospace Industries in managing complex engineering tasks.\n\nTheir toolset is comprehensive, boasting features like:\n\n- **Real-time Requirement Tracking:** Engineers can effortlessly import and set up requirements from PDFs.\n- **Rapid System Modeling:** With an intuitive UI, users can create complex system models in minutes.\n- **Advanced Simulation:** They run system-level simulations to visualize how modifications impact the entire system.\n- **Collaborative Workflows:** Live collaboration features allow team members to work on the same models with varied access permissions.\n- **AI Assistance:** The platform includes an AI Co-Pilot that digests extensive engineering documentation, making model creation more efficient.\n  \nThere are different pricing tiers ranging from a $99/month plan for startups\u2014 allowing limited models and components\u2014to a more expansive professional plan at $249/month, and enterprise solutions offering tailored deployments.\n\nFor those interested in starting their journey with Dalus, a 7-day free trial is available. If you're in the aerospace, defense, energy, or automotive sectors and your engineering workflows are getting cumbersome, Dalus could be the solution you've been waiting for.\n\nIn summary, if you\u2019re grappling with complex engineering challenges and need a streamlined, AI-enhanced platform, Dalus offers a promising avenue. Visit [Dalus](https://dalus.io) to learn more and sign up for an early access opportunity.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/645913bc5b924a5fb0cbb389f31f963b8c0910ef.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4f01dcb95a551bc33279af3d935f020ff677dd3fbbca802796c9add30bec30e7",
+    "social_links": [
+        "https://www.linkedin.com/company/dalus-tech/",
+        "https://x.com/Dalus_io"
+    ],
+    "logo_path": "data/logos\\Dalus_logo.png"
+}

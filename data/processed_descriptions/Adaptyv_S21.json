@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/adaptyv",
+    "name": "Adaptyv",
+    "headline": "We're building fully automated labs for protein engineering",
+    "batch": "S21",
+    "description": "Proteins are the most advanced nanotechnology we know of. At Adaptyv, we\u2019re building a fully automated protein foundry to allow you to synthesize and test any protein you design.",
+    "activity_status": "Active",
+    "website": "https://www.adaptyvbio.com/",
+    "founded_date": null,
+    "team_size": 12.0,
+    "location": "Lausanne, Switzerland",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-powered-drug-discovery; industry:synthetic-biology",
+    "founders": [
+        {
+            "name": "Julian Englert, Founder",
+            "description": "MSc in Materials Science / Biomedical Technologies\nWorked for health-tech startup Xsensio in Lausanne, Switzerland for a year\nQuit, travelled for a few months and then started working on Adaptyv",
+            "linkedin": "https://linkedin.com/in/julian-englert"
+        },
+        {
+            "name": "Daniel Nakhaee-Zadeh Gutierrez, Founder",
+            "description": "I am passionate about engineering biology to positively impact society and the environment. I have been lucky enough to develop my experience over the years in the fields of immunoengineering, synthetic biology and computational biology in some of the best universities in the world (Harvard, University of Leeds, KAIST, EPFL). Now in charge of Operations at Adaptyv.",
+            "linkedin": "https://www.linkedin.com/in/danielnzg"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Adaptyv**\n\nAdaptyv is revolutionizing the field of protein engineering by creating fully automated labs dedicated to designing and synthesizing proteins. Founded as part of Y Combinator\u2019s S21 batch, and situated in the picturesque city of Lausanne, Switzerland, Adaptyv operates with a nimble team of 12 employees. The company operates under the belief that proteins are the most advanced nanotechnology known to humanity, and they are proving this concept by building a protein foundry where anyone can test their designs.\n\n**Mission and Vision**\n\nAdaptyv\u2019s mission is straightforward yet profound: to allow researchers to synthesize and analyze any protein they can imagine. They leverage AI to enrich the process, helping to design proteins that could bring solutions to myriad modern challenges in medicine, materials, and biotechnology.\n\nPicture this: what if we could design smart medicines that preemptively repair damage before it manifests as a disease? Or create molecular machines capable of revolutionary tasks like catalysis and energy generation? Adaptyv is not just dreaming about this future; they are building the tools to make it a reality.\n\n**Technology and Process**\n\nAt the core of Adaptyv's innovation is an AI-first lab that integrates cutting-edge technology at every stage of protein engineering. Their process involves:\n\n1. **Design**: Utilizing generative AI to create novel protein designs tailored for specific applications.\n2. **Build**: Employing cell-free synthetic biology to facilitate the rapid synthesis of hundreds of designed proteins simultaneously.\n3. **Learn**: Gathering and refining data to inform future designs continuously.\n4. **Test**: Using automated workcells to evaluate the functions and interactions of these proteins, leading to high-quality experimental data.\n\nThis closed-loop system ensures that every round of experimentation not only tests proteins but also enhances the AI models guiding future designs, creating a feedback loop that accelerates knowledge and innovation.\n\n**Key Areas of Focus**\n\nAdaptyv is categorized under 'AI-powered drug discovery' and 'synthetic biology', emphasizing its dual commitment to enhancing therapeutic development through advanced automation and artificial intelligence. Their ongoing initiatives include hosting protein design competitions and developing an accessible API for researchers.\n\n**Looking Ahead**\n\nAs we stand at the brink of a new era in biotechnology, companies like Adaptyv are primed to lead the charge. By integrating AI with the complexities of protein synthesis, they are opening doors to unprecedented biotechnological advancements. Whether it's in health, energy, or sustainable materials, Adaptyv is poised to make a substantial impact.\n\nFor more information or to get involved, check out their website at [Adaptyv Bio](https://www.adaptyvbio.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d100e43c4b37b0cb969545e22a7ce66d4108a3f9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190943Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8ac726fce57ed76e35de5638ba949c016aa9cf24500a8ddea91de678a5cb074f",
+    "social_links": [
+        "https://www.linkedin.com/company/adaptyvbio",
+        "https://twitter.com/adaptyvbio",
+        "https://github.com/adaptyvbio/"
+    ],
+    "logo_path": "data/logos\\Adaptyv_logo.png"
+}

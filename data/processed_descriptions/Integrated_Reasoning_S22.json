@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/integrated-reasoning",
+    "name": "Integrated Reasoning",
+    "headline": "Faster processors for solving NP-complete problems",
+    "batch": "S22",
+    "description": "Integrated Reasoning builds efficient computer processors that are tailored to the memory access patterns of Karp's 21 NP-complete problems. We\u2019re making it 100x - 10,000x faster to perform computations like scheduling airline pilots or optimizing packing layouts for shipping containers.",
+    "activity_status": "Active",
+    "website": "https://integrated-reasoning.com",
+    "founded_date": 2021.0,
+    "team_size": 1.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:hard-tech; industry:hardware; industry:saas; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "David Cox, Founder",
+            "description": "David Cox is excited about building technology that empowers people to accomplish things that would otherwise be impossible. He believes that computers should extend, rather than attempt to replace, the capabilities of the human mind. David's best work includes a resource control system for iOS which computes and applies the best of 2.89 x 10^76 possible memory management policies faster than you can blink to ensure a snappy UX on over 1.5 billion Apple devices every day.",
+            "linkedin": "https://www.linkedin.com/in/davidcox143"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Integrated Reasoning: Revolutionizing NP-Complete Problem Solving**\n\nFounded in 2021 and nestled in the tech hub of San Francisco, Integrated Reasoning is on a mission to tackle NP-complete problems with lightning speed. As a portfolio company of Y Combinator\u2019s Summer 2022 batch, they focus on building specialized computer processors that are intricately designed to optimize the memory access patterns associated with Karp's 21 NP-complete problems.\n\nWhat exactly do they mean by faster? Well, their flagship product, the IRX-Honu, boasts the capability to solve complex optimization tasks\u2014like scheduling airline pilots or optimizing shipping layouts\u2014up to 7,000 times faster than existing state-of-the-art software. This is not mere tech hype; they are positioning themselves as game-changers in a landscape where quick decision-making can mean the difference between profit and loss for businesses across the globe.\n\nIntegrated Reasoning isn\u2019t just theoretical; they\u2019re delivering tangible advancements through innovative hardware and algorithms working in tandem. This unique synergy allows them to remove bottlenecks present in traditional computing for combinatorial optimization. Their focus on high-throughput processors caters to a burgeoning market that demands efficiency at unprecedented speeds.\n\nCurrently, the company has a single team member but is backed by the notable Jared Friedman of Y Combinator, indicating a robust support network. Their diverse tags highlight their multifaceted approach\u2014spanning artificial intelligence, developer tools, hardware, and SaaS.\n\nFor those intrigued by their bold vision and technology, more information can be found on their website: [Integrated Reasoning](https://integrated-reasoning.com).\n\n**In short**, Integrated Reasoning is out to prove that when it comes to NP-completeness, speed is everything. If you're in a business that wrestles with complex decision-making, their processors could very well be the secret ingredient to unlocking your company's potential. Why wait? Start building smarter, faster today.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9328c9b5dbe7668d3cc74ac29d51fc4dca2228a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191435Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ee25b891774a58288803ccfbdc4bab80b1ced07be490825e719c71cd564c78f6",
+    "social_links": [
+        "https://www.linkedin.com/company/integrated-reasoning",
+        "https://twitter.com/IntegrateReason",
+        "https://www.crunchbase.com/organization/integrated-reasoning",
+        "https://github.com/integrated-reasoning"
+    ],
+    "logo_path": "data/logos\\Integrated_Reasoning_logo.png"
+}

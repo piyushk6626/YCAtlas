@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/diligent",
+    "name": "Diligent",
+    "headline": "GenAI assistants for fintech risk and compliance operations",
+    "batch": "S23",
+    "description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
+    "activity_status": "Active",
+    "website": "https://godiligent.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "Berlin, Germany",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:compliance; industry:fraud-prevention; industry:regtech; industry:ai",
+    "founders": [
+        {
+            "name": "Edoardo Maschio, Founder",
+            "description": "I was an investment associate and chief of staff @ Rocket Internet early-stage team. Incubated and invested multiple ventures with the fintech team. Previously worked as Junior associate @ Boston Consulting Group.",
+            "linkedin": "https://linkedin.com/in/edoardo-maschio-704"
+        },
+        {
+            "name": "Ahmed Gaber, Founder",
+            "description": "I'm Co-founder and CTO at Diligent and I worked in Fintech for more than a decade.\nMost recently I was VP of engineering at Billie (Europe\u2019s largest B2B BNPL) and led multiple engineering teams on various domains: business identification, fraud, credit, and AML risk. Previously I was a technical PM and software engineer at Funding Circle.",
+            "linkedin": "https://linkedin.com/in/ahmedsamygaber"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Diligent: Revolutionizing Risk and Compliance in Fintech**\n\nFounded in 2023 and part of Y Combinator's Batch S23, Diligent is a Berlin-based startup on a mission to empower fintech risk and compliance teams. Their innovative use of Generative AI (GenAI) is designed to streamline and enhance routine customer due diligence tasks, particularly in the realms of anti-money laundering (AML) and regulatory compliance.\n\n### What Does Diligent Do?\n\nInitially focused on helping fintechs and banks automate essential due diligence, Diligent leverages large language models (LLMs) to significantly cut compliance costs, improve risk detection, and allow teams to focus on more complex investigations. Their offerings include automating workflows that cover everything from thorough checks on business legitimacy to the review of customer documents and managing false positive alerts from AML systems. \n\n### Key Features\n\nDiligent's suite of tools includes:\n\n- **Web Presence Analysis**: Investigates a business\u2019s online footprint and flags connections to high-risk activities or entities.\n- **Ongoing Monitoring**: Keeps track of any changes in business activities that might indicate emerging risks.\n- **Risk Assessment**: Provides a holistic view of business relationships through deep dives into industry classification, transaction counterparties, and online presence signals.\n- **Screening Automation**: Remediates false positive alerts from existing sanctions and adverse media systems efficiently.\n- **Know Your Business (KYB) Assistant**: Validates business information by checking uploaded documents against established protocols.\n\n### The Value Proposition\n\nDiligent aims to usher in a new era in risk and compliance operations. By automating tedious tasks and enhancing risk assessments, they help organizations:\n\n- Reduce time and costs associated with compliance.\n- Strengthen overall risk assessment capabilities.\n- Minimize friction during the customer onboarding process.\n\n### The Team and Vision\n\nWith a small but dedicated team of two, Diligent has the backing of Jared Friedman, a partner at Y Combinator, who lends valuable expertise and vision. Their approach is not about replacing human intelligence but augmenting it; Diligent's AI systems provide a comprehensive audit trail and are designed to integrate seamlessly with existing KYC/AML frameworks without requiring overlord changes.\n\n### Ready to Dive In?\n\nFor interested fintech companies, Diligent invites you to explore their innovative solutions. Catch a demo of how they can elevate your compliance operations at [godiligent.ai](https://godiligent.ai).\n\nIn a rapidly evolving regulatory landscape, Diligent stands out as a beacon of efficiency and effectiveness in risk and compliance operations. They\u2019re not just helping to tackle compliance; they\u2019re redefining how it\u2019s done.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f522e57ddf45a1987eb08fc2fb34d03bc152aa3c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191122Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dd7263c8f3b639984f7dd04e4c65ddf5b9e4e9cbbbb5939d6e8c94cc48141cec",
+    "social_links": [
+        "https://www.linkedin.com/company/godiligentai"
+    ],
+    "logo_path": "data/logos\\Diligent_logo.png"
+}

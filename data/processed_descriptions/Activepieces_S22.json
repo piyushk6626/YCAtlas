@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/activepieces",
+    "name": "Activepieces",
+    "headline": "Open-source, AI-first and no-code business automation tool",
+    "batch": "S22",
+    "description": "Activepieces is an open-source (MIT) business automation software.\r\nFor example, you can build automations to receive email and Slack notifications about new contacts add to your HubSpot CRM.",
+    "activity_status": "Active",
+    "website": "https://www.activepieces.com",
+    "founded_date": 2022.0,
+    "team_size": 10.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:workflow-automation; industry:open-source; industry:no-code; industry:enterprise-software; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ashraf Samhouri, Co-founder and CEO",
+            "description": "Ended up responsible for growing our ARR so I guess I do sales from the perspective of a software engineer, on a mission to make AI a native part of enterprise through open source automation (aka Activepieces)",
+            "linkedin": "https://www.linkedin.com/in/ashrafsam"
+        },
+        {
+            "name": "Mohammad AbuAboud, Co-Founder & CTO",
+            "description": "I love building cool stuff. Started programming at 13 and never looked back\u2014turns out, breaking things is the fastest way to learn.",
+            "linkedin": "https://www.linkedin.com/in/mohammad-abuaboud/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Activepieces: Your No-Code AI Automation Partner\n\n**Overview**\nActivepieces is an open-source, AI-first, no-code business automation tool launched in 2022 and hailing from San Francisco, nestled in the vibrant Y Combinator Batch S22. With a lean team of 10 employees, it aims to simplify the automation landscape for businesses of all sizes.\n\n**Mission**\nThe vision at Activepieces is straightforward: enable organizations to automate their workflows seamlessly through AI-driven solutions, without needing to write a single line of code. Imagine receiving automated notifications from your HubSpot about new contacts\u2014this is just a glimpse of what's possible with Activepieces.\n\n**Key Features**\n- **Open-Source Advantage**: Licensed under the MIT, Activepieces has gained significant traction with around 10,000 stars on GitHub, fostering a community that continuously contributes to its development.\n- **User-Friendly Interface**: The platform is designed for everyone\u2014from tech-savvy individuals to those with zero coding experience. It's all about making automation accessible.\n- **AI Integration**: The \"AI Pieces\" feature allows users to create simplified AI agents that enhance their workflows. The application is built to be robust enough for IT teams while remaining intuitive for non-technical users.\n- **Compatibility**: Activepieces connects with numerous applications, enabling users to weave together various tools into a cohesive workflow.\n\n**Current Offerings**\nActivepieces is hard at work expanding its capabilities. Features in the pipeline include a chat interface for advanced logic in conversations, assistance with coding through AI, as well as tools for governance and compliance to help organizations manage their workflows securely.\n\n**Security and Usability**\nSecurity is not just an add-on; it\u2019s built into Activepieces' DNA. Users can host the software on their own infrastructure, ensuring control over sensitive data, while ongoing code scanning protects against vulnerabilities.\n\n**Community and Support**\nActivepieces actively encourages a collaborative environment, offering extensive documentation, a community forum, and engagement through platforms like Discord. The focus on knowledge sharing helps foster innovation, making it easier for teams to adopt and adapt automation practices.\n\n**Conclusion**\nIn a world where AI continues to accelerate business processes, Activepieces stands out by marrying open-source flexibility with no-code simplicity. Whether you're a small startup or a Fortune 50 company, this tool aims to unlock automation's full potential across all departments, making it easier for teams to leverage AI in everyday operations. \n\nCurious to dive in? Explore more [here](https://www.activepieces.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/98a78d42ea4aeba80ac772ee6905e272de3dd6ce.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190942Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=524b2d9f7bd50e5f697b13050c51a45a18c70e9af8ee8edc10b94da3cd95354c",
+    "social_links": [
+        "https://www.linkedin.com/company/activepieces/",
+        "https://twitter.com/activepieces",
+        "https://www.facebook.com/activepieces",
+        "https://www.crunchbase.com/organization/activepieces",
+        "https://github.com/activepieces/activepieces"
+    ],
+    "logo_path": "data/logos\\Activepieces_logo.png"
+}

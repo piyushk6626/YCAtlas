@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/tradeflow",
+    "name": "TradeFlow",
+    "headline": "AI-powered settlement for financial securities",
+    "batch": "S24",
+    "description": "TradeFlow is AI-powered settlement for financial securities. During her time in financial services, Taryn saw firsthand how inefficient and costly it is to settle trades. Historically, it\u2019s been difficult to improve this process because it\u2019s heavily reliant on manual emails, disparate systems, and inconsistently structured data. However, the advent of powerful AI technology allows us to unlock greater automation than ever before. TradeFlow empowers back offices to do more with less by offloading these time-intensive tasks to AI.",
+    "activity_status": "Active",
+    "website": "https://www.tradeflowai.com/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:finops; industry:fintech; industry:saas; industry:b2b; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Taryn Reardon, Founder",
+            "description": "Taryn is the Co-Founder and CEO of TradeFlow. She has expertise in financial services, with experience in electronic trading, middle office, and digital transformation roles. Prior to TradeFlow, Taryn worked at Goldman Sachs, where she managed institutional client relationships to drive bottom-line results. Taryn graduated from Cornell University with a B.S. in Policy Analysis & Management.",
+            "linkedin": "https://www.linkedin.com/in/taryn-reardon/"
+        },
+        {
+            "name": "Liam Breen, Founder",
+            "description": "Liam is the Co-Founder and CTO of TradeFlow. Previously, he was a software engineer at Meta, where he drove critical privacy initiatives for Facebook and built a data mining tool to identify malicious entities on the platform. Liam graduated from Cornell University with a B.S. in Computer Science. He is also a graduate of Phillips Exeter Academy.",
+            "linkedin": "https://www.linkedin.com/in/liam-breen-456081124/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**TradeFlow: Revolutionizing Post-Trade Operations with AI**\n\nTradeFlow is a promising startup founded in 2024 and currently participating in Y Combinator's Batch S24. Based in New York and operated by a small team of two, TradeFlow is tackling a prominent issue in the financial services sector: the cumbersome and outdated practice of settling trades. \n\n### Mission and Vision\nTradeFlow's mission is straightforward yet impactful: to leverage AI for the settlement of financial securities. Co-founder Taryn, with her background in financial services, experienced firsthand the inefficiencies plaguing trade settlements, which often involve countless emails, fragmented systems, and poorly structured data. The emergence of robust AI technologies offers an opportunity to automate away much of this manual burden, enabling back offices to operate more efficiently.\n\n### Unique Approach\nAt the core of TradeFlow\u2019s offering is an AI-powered workflow platform designed to streamline the confirmation of over-the-counter (OTC) derivatives and complex transactions. TradeFlow takes aim at automating the traditionally labor-intensive aspects of post-trade operations, from data extraction to reconciliation and contract lifecycle management. This not only saves time but significantly reduces human errors and the risks associated with manual processing.\n\n#### Key Features:\n1. **Data Extraction**: Automates the extraction of critical trade details from complex documents, turning unstructured data into structured formats.\n2. **Automated Reconciliation**: Matches trade information against internal databases to quickly identify and resolve discrepancies.\n3. **Lifecycle Tracking**: Monitors every stage of contract management, making workflows transparent and accountable.\n4. **Seamless Integration**: The platform is designed to fit within existing infrastructures, minimizing disruption while maximizing efficiency.\n\n### Benefits\nThe benefits are clear: increased operational efficiency, reduced manual workload, and enhanced capacity to handle complex transactions while safeguarding sensitive data. TradeFlow's innovative model addresses not just the current needs of the market but also prepares firms for the increasing trading volumes of the future.\n\n### Community and Collaboration\nDalton Caldwell, a notable figure in the tech industry, serves as the group partner for TradeFlow, underscoring the company\u2019s commitment to supporting and guiding startups through the burgeoning fintech landscape.\n\n### Join the Movement\nIn a world where efficiency is key, TradeFlow stands out by reimagining how post-trade operations can function. If you\u2019re interested in seeing how TradeFlow can transform your operations, you can [schedule a demo](https://www.tradeflowai.com/scheduledemo/) or explore more about their offerings on their [website](https://www.tradeflowai.com/)!\n\nIn summary, TradeFlow is not just another fintech startup; it represents the future of automated post-trade processes, driving greater productivity and efficiency that the financial services market has been longing for.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dd3bdd3a1af7c83e38eb8a139e56359838a9a450.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192024Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9cfa9d5f8464cf8f33fc3ff60d2643a1f44be597e52c81c634106ac0ce539c60",
+    "social_links": [
+        "https://www.linkedin.com/company/tradeflowai/"
+    ],
+    "logo_path": "data/logos\\TradeFlow_logo.png"
+}

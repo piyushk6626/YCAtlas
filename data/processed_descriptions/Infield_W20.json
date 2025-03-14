@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/infield",
+    "name": "Infield",
+    "headline": "Safer, faster dependency upgrades",
+    "batch": "W20",
+    "description": "Infield helps software teams keep their open source dependencies up to date. We\u2019re automating away the toilsome work of reading changelogs, assessing risk, and upgrading packages so that software teams can focus on shipping features.  We\u2019re a small team of repeat founders passionate about making open source easier to use.",
+    "activity_status": "Active",
+    "website": "https://www.infield.ai",
+    "founded_date": 2019.0,
+    "team_size": 5.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:devsecops; location:new-york",
+    "founders": [
+        {
+            "name": "Allison Pike, Founder",
+            "description": "Allison is the COO and co-founder of Infield. Prior to founding Infield, Allison was the COO of SevenFifty, a b2b marketplace for beverage alcohol. Allison started her career in quant finance working at D. E. Shaw and Tower Research Capital, where she took high-frequency trading strategies into new markets. She graduated from UPenn with a BA in Political Science and Psychology. She likes her gin in martinis, up with a twist.",
+            "linkedin": "https://www.linkedin.com/in/swihartpike"
+        },
+        {
+            "name": "Steve Pike, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/stephen-pike-53992419/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Infield is tackling a classic headache in software development: managing open-source dependency upgrades. Founded in 2019 by a small team of seasoned founders, Infield's mission is clear\u2014\"Safer, faster dependency upgrades.\" They emerged from the Y Combinator W20 batch and are based in New York, boasting a lean team of five.\n\nThe essence of what Infield does is about automating the often tedious process of keeping software dependencies up-to-date. No more losing time reading changelogs, assessing risks, or wrestling with packages. Instead, Infield leverages automation and expertise to streamline this crucial aspect of software maintenance so that engineering teams can focus their efforts on shipping new features instead of getting bogged down in upkeep.\n\n### How It Works\n\nGetting started is designed to be painless. Users can connect their code via a GitHub app or Infield's CLI tool. Once linked, Infield assesses the project's upgrade status, mapping out a living upgrade plan that factors in risks and dependencies\u2014essentially laying out a roadmap for potential upgrades.\n\nThe core service offers a \u201cwhite glove\u201d experience, meaning Infield can handle the heavy lifting of upgrading dependencies on behalf of their clients. For teams that prefer a more hands-on approach, they also provide software-only plans to enhance their internal upgrade efforts.\n\n### Why It Stands Out\n\nInfield sets itself apart from other tools like Dependabot by not just notifying teams of upgrades but actively managing the process, including fixing breaking changes and providing in-depth changelog research. They tackle the nuances that simple scanners might overlook, ensuring a more reliable and secure update process.\n\n### Current Offering\n\nInfield supports major programming languages such as Ruby, JavaScript, and Python, with plans to add Java soon. They have a strong roster of clients, including world-class engineering teams, ensuring that their service is trusted across the board.\n\nInfield\u2019s unique combination of automating dependency management while offering expert human oversight positions it favorably in a space that\u2019s becoming increasingly complex as technology evolves. So, if you're a software team tired of dependency upgrades slowing you down\u2014Infield might just be your answer.\n\nCheck them out at [Infield.ai](https://www.infield.ai) and see if they can help you upgrade your workflow.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/de244f12b37e13b0d5445bd65f024669a05278df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191430Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a00f1529eee3329cbe304766593854b74e1f3a3d17e95cd443e2dbdac3004c62",
+    "social_links": [
+        "https://www.linkedin.com/company/infieldai/",
+        "https://twitter.com/infieldai?s=20&t=PESqzI_SKacNZK-RjHuOGQ",
+        "https://www.crunchbase.com/organization/syndetic"
+    ],
+    "logo_path": "data/logos\\Infield_logo.png"
+}

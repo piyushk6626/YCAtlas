@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/runlocal",
+    "name": "RunLocal",
+    "headline": "The On-Device AI Development Platform",
+    "batch": "S24",
+    "description": "RunLocal helps engineering teams discover, optimize, evaluate and deploy the best on-device AI model for their use case.",
+    "activity_status": "Active",
+    "website": "https://runlocal.ai",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:machine-learning; industry:devops; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ismail Salim, Founder/CEO",
+            "description": "CEO of Neuralize. Previously a product manager at the forefront of on-device AI/ML deployment, shipping AR/VR applications at Meta and the first AI video codec at Deep Render.",
+            "linkedin": "https://linkedin.com/in/ismail-salim-cv"
+        },
+        {
+            "name": "Ivan Chan, Founder/CTO",
+            "description": "CTO of Neuralize. Previously a software engineer at Marshall Wace (Europe's largest hedge fund) building an internal AI platform for developers and optimizing low latency streaming systems.",
+            "linkedin": "https://www.linkedin.com/in/ivan-chan-959610b7/"
+        },
+        {
+            "name": "Ciar\u00e1n O' Rourke, Founder/CSO",
+            "description": "CSO of Neuralize. Previously an ML performance engineer optimizing cross-platform on-device inference at Deep Render and scientific simulations at the Irish Centre for High-End Computing.",
+            "linkedin": "https://www.linkedin.com/in/ciaran-o-rourke-0a92a7236/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### RunLocal: On-Device AI Made Easy\n\nFounded in 2024 and backed by Y Combinator's Batch S24, RunLocal is carving out a niche in the complex world of on-device AI. Based in San Francisco, this compact yet dynamic team of three is focused on developing an innovative on-device AI development platform. Their mission is simple: to help engineering teams discover, optimize, evaluate, and deploy the best AI models tailored to their specific use cases.\n\n**What Does RunLocal Do?**\n\nRunLocal simplifies the deployment of on-device AI in applications, allowing companies to ship superior models faster without the usual headaches. The platform provides robust tools for model experimentation across a variety of devices\u2014think iOS, Android, MacOS, and Windows. This means you can test optimizations efficiently and make informed decisions rather than relying on outdated DIY methods or spreadsheets.\n\nTheir key offerings include:\n\n- **Model Experimentation**: Faster, more comprehensive testing of model optimizations across multiple platforms.\n- **Bespoke Optimization Support**: Beyond mere testing, RunLocal offers specific support for model optimizations, including layer-level adjustments and performance debugging.\n- **Device Representation**: They acquire and maintain a diverse range of devices that reflect the users you aim to serve. This saves engineering teams precious time and resources that would otherwise be spent maintaining their own device library.\n- **Ease of Decision-Making**: With their tailored evaluation tools, navigating quality data and performance benchmarks becomes far more manageable, enabling clearer insights into trade-offs.\n\n**The Foundational Team and Support**\n\nAt the helm of this ambitious startup is David Lieb, a Group Partner, ensuring that the company stays well-connected and knowledgeable within the industry. While currently a small operation, the focused expertise of the team is crucial for addressing the challenging demands of machine-learning deployment in real-world applications.\n\n**Why Choose RunLocal?**\n\nThe platform is rapidly gaining traction because of its proven ability to drastically reduce model conversion and optimization times\u2014testimonials highlight reductions from weeks down to days. This efficiency not only accelerates the deployment process but also enhances model quality and performance across diverse hardware and software environments.\n\nIn short, if you\u2019re in the business of deploying on-device AI and seeking a reliable partner to streamline your development process and enhance model performance, RunLocal should be on your radar. You can explore more about their offerings and book a demo at [RunLocal.ai](https://runlocal.ai).\n\n---\n\nWhether you're a startup or an established player in AI, RunLocal provides the tools you need to innovate faster and deploy smarter. The era of cumbersome deployment processes is over\u2014embrace the simplicity and efficiency that RunLocal offers!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ccc21a2384bd655fe76683207fc9e792d64ba010.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191904Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6535bb7ce9e65c3bf631d7e8167a1086fbbded4febdd82c11a7589e12764db67",
+    "social_links": [
+        "https://www.linkedin.com/company/runlocalai",
+        "https://x.com/RunLocalAI"
+    ],
+    "logo_path": "data/logos\\RunLocal_logo.png"
+}

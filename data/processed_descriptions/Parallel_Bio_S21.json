@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/parallel-bio",
+    "name": "Parallel Bio",
+    "headline": "Using the immune system to cure disease",
+    "batch": "S21",
+    "description": "Parallel Bio created a human 'immune system in a dish' to discover drugs and immunotherapies more likely to work in patients. Our platform has all of the same elements as a human immune system, meaning you can test drugs and vaccines as if you were testing them in actual patients from the start. The biggest reason why 95% of new drugs fail is that they were tested in mice - but with our human platform, pharma companies will know which drugs will successfully treat patients, speeding up the process and reducing the cost. To date our platform has successfully been used to test 12 drugs, and vaccines against 8 different diseases. The company is founded by Robert DiFazio, a former Stanford R&D director with a PhD in immunology, and Juliana Hilliard, a former System1 Biosciences R&D lead with an MSc in bioengineering, both of whom have led drug discovery programs for years.",
+    "activity_status": "Active",
+    "website": "http://parallel.bio",
+    "founded_date": 2021.0,
+    "team_size": 9.0,
+    "location": "Cambridge, MA",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-powered-drug-discovery; industry:biotech",
+    "founders": [
+        {
+            "name": "Robert DiFazio, Founder",
+            "description": "Robert is a co-founder and CEO of Parallel Bio. Previously he was Director of Strategy & Research Development at Stanford University where he oversaw a $100M scientific portfolio and ran 8 large-scale R&D programs. He also worked in global health and ran vaccine programs with GSK, the NIH, and the Danish government. He completed his postdoctoral training at Stanford, holds a PhD from the University of Pittsburgh, and a BS from the University of Illinois.",
+            "linkedin": "https://www.linkedin.com/in/rdifazio/"
+        },
+        {
+            "name": "Juliana Hilliard, Founder",
+            "description": "Juliana is a co-founder and the CSO of Parallel Bio. She previously worked at System1 Biosciences managing R&D brain organoid drug discovery teams and has extensive experience developing mini-organ systems to better model human disease and discover new drugs.",
+            "linkedin": "https://www.linkedin.com/in/juliana-hilliard-774717100/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Parallel Bio is a groundbreaking company located in Cambridge, MA, that's revolutionizing drug discovery by leveraging the immune system. Founded in 2021 as part of Y Combinator's Summer 2021 Batch, its mission is straightforward yet profound: to use the human immune system to cure diseases, creating a future where therapies are not just potent but also rely on ethical, accurate science.\n\nThe founders, Robert DiFazio and Juliana Hilliard, bring deep expertise in immunology and bioengineering to the table. They initially developed a platform that mimics the human immune system within a lab setting\u2014a \"human immune system in a dish.\" This innovative approach addresses a critical flaw in traditional drug testing: the reliance on animal models, primarily mice, which often fail to predict human responses accurately. In fact, 95% of drugs that undergo animal testing never make it to market, costing the pharmaceutical industry billions and wasting years of research.\n\nParallel Bio\u2019s platform allows for early-stage testing of drugs and vaccines that resemble actual human responses. This means that pharmaceutical companies can gain insights into which therapies are likely to succeed in human patients without the lengthy and expensive preclinical trials. So far, they have successfully tested 12 drugs and vaccines targeting eight different diseases.\n\nWhat sets Parallel Bio apart is its use of immune organoids\u2014miniature, scaled replicas of human lymph nodes. This technology enables testing drugs in a fully ethical manner, without the need for animal models, ultimately enhancing the safety and efficacy of new therapies. The integration of artificial intelligence into this process further amplifies their ability to discover novel drug candidates swiftly.\n\nWith a lean team of nine, supported by Jared Friedman from Y Combinator, Parallel Bio is poised to transform the landscape of immunotherapy and drug development. Their ultimate aim? To accelerate the availability of effective, accessible medications for diverse populations around the world, ensuring a healthier future for everyone.\n\nFor more information, you can visit their [website](http://parallel.bio).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/685761006c450a080d2d3bbdee9ef7bfc8fe5662.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191623Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ca3418aec67a3cd2850f8f6e0cbe70fa79a3a08eaff520f936b9902d2e54a6c7",
+    "social_links": [
+        "https://www.linkedin.com/company/parallelbio",
+        "https://twitter.com/ParallelBio",
+        "https://www.crunchbase.com/organization/parallel-bio"
+    ],
+    "logo_path": "data/logos\\Parallel_Bio_logo.png"
+}

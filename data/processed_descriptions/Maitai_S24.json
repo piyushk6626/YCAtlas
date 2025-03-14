@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/maitai",
+    "name": "Maitai",
+    "headline": "Reliable, self-improving enterprise AI",
+    "batch": "S24",
+    "description": "Maitai makes building reliable AI applications easy. We autocorrect faulty model output in real-time and automatically fine-tune models that learn from their mistakes. This means our customers get more reliable results immediately, and over time, they gain custom models built specifically for their application that only get better and faster. You wouldn\u2019t hire an employee who doesn\u2019t learn from their mistakes\u2014so why use a model that doesn\u2019t? Maitai is here to deliver the next generation of reliable AI inference.",
+    "activity_status": "Active",
+    "website": "https://trymaitai.ai",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Christian DalSanto, Co-Founder / CEO",
+            "description": "Co-founder and CEO @ Maitai. Previous co-founder at Yew, led the AI engineering org at Presto (S10), and Big Bets team at Earnin. I spent most of my career getting AI applications from skunkworks to production, and then scaling them from there.",
+            "linkedin": "https://linkedin.com/in/christian-dalsanto"
+        },
+        {
+            "name": "Ian Hoegen, Founder and CTO",
+            "description": "Co-founder and CTO @ Maitai. Previously a Tech Lead at Presto (S10), delivering CV based analytics and LLM powered voice ordering for the enterprise drive thru. A true jack of all trades, I have hands-on experience with infrastructure, software development, the machine learning stack, and everything in between.",
+            "linkedin": "https://linkedin.com/in/ihoegen"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Maitai: Redefining Reliable AI\n\nFounded in 2024 and part of Y Combinator's Batch S24, Maitai is making waves in the AI space from San Francisco. Their mission? To create a **reliable, self-improving enterprise AI** that streamlines the development of AI applications. If that sounds like a game-changer, it is.\n\n#### What Does Maitai Do?\n\nMaitai started with the simple idea that building reliable AI applications shouldn't be a headache. They've crafted a platform that autocorrects faulty model outputs in real time and fine-tunes models based on past mistakes. The logic is straightforward: your models should learn and improve, just like a good employee. This leads to immediate reliability in results and the gradual emergence of tailored models that become better and faster over time.\n\nThink of it as providing your AI systems with an immune response\u2014detecting faults and correcting them before they escalate. \n\n#### Key Features\n\n1. **Bespoke Models**: Maitai builds and manages AI models tailored to specific applications, providing fast and effective inference.\n   \n2. **Real-time Autocorrections**: Fault detection and automatic corrections ensure your models stay on track and perform as expected.\n\n3. **Production Resilience**: A fail-safe mechanism kicks in when issues arise, utilizing backup models to maintain seamless service.\n\n4. **Simple Integration**: Maitai is designed for easy swapping with your current provider\u2014no disruptions, just results.\n\n5. **Transparent Pricing**: Maitai offers flexible, clear pricing plans catering to individuals, startups, and larger enterprises, ensuring everyone can access their technology effortlessly.\n\n#### The Team and Mentorship\n\nMaitai operates with a lean team of three, guided by Group Partner **Nicolas Dessaigne** of Y Combinator, adding a robust mentorship layer to their operation. This means they\u2019re small but mighty, able to pivot quickly and innovate continuously.\n\n#### The Bigger Picture\n\nIn a world where AI can often feel like a risky endeavor, Maitai's innovative approach is refreshing. They're focused on **de-risking AI applications**, offering real-time monitoring and actionable alerts through integrations with platforms like Slack and PagerDuty. This ensures that teams can respond swiftly to potential issues, thus keeping operations smooth.\n\nIf you're an engineer or operations specialist tired of unpredictable AI output, or if you're simply looking to bolster your AI capabilities with robust, dependable technology, Maitai's the partner you want on your side.\n\nFor more details, or to get started with their service, check out their website at [trymaitai.ai](https://trymaitai.ai). The AI of the future is here, and it learns from its mistakes\u2014just like us.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dd01b804dcd89bea5cfbf5386cc57377f6c374f5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191521Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3455b53301ec3602c8acfa1f4e34fb45faf1d7ef196b53cb937fc7144a635846",
+    "social_links": [
+        "https://www.linkedin.com/company/maitai-inc/",
+        "https://www.crunchbase.com/organization/maitai-fbf8"
+    ],
+    "logo_path": "data/logos\\Maitai_logo.png"
+}

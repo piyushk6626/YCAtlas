@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/zitara-technologies-inc",
+    "name": "Zitara Technologies, Inc.",
+    "headline": "Predictive battery management software for electrified fleets",
+    "batch": "S20",
+    "description": "Batteries have a big role to play in tackling the climate crisis, and it\u2019s essential to make sure that they\u2019re safe and reliable to operate.\r\n\nAt Zitara, we build cutting-edge software solutions that empower companies to deeply understand their batteries, both in design and deployment. It\u2019s all part of our work to enable a renewable energy revolution, powered by safer batteries, at a lower cost, with less waste.",
+    "activity_status": "Active",
+    "website": "https://zitara.com",
+    "founded_date": 2019.0,
+    "team_size": 33.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:climate; industry:electric-vehicles; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Shyam Srinivasan, Founder",
+            "description": "Shyam started his career in consumer electronics. But after nearly a decade helping to architect, design, and manufacture 10+ products for companies like Apple, Nest, and Google, he began to think about the environmental impact of building devices that embody a great deal of energy in countries with loose emissions standards, and inevitably end up in landfills.\n\nHe and Evan founded Zitara with the mission of accelerating the electrification of transportation and grid-scale energy storage.",
+            "linkedin": "https://www.linkedin.com/in/shyam-srinivasan-1a10b944/"
+        },
+        {
+            "name": "Evan Murphy, Founder",
+            "description": "CTO and co-founder, Zitara Technologies.\n\nGeneralist software engineer with 10+ years experience, focusing on data infrastructure. Previously:\n - Tower Research - infrastructure for HFT\n - Tesla - Simulation for Autopilot\n - Stemcentrx (acq by Abbvie) - lab informatics for cancer research\n\nAlso co-founded a toy company, E&M Labs: 3 Kickstarter projects, ~10 kilotrebuchets, 2 laser cutters, 4 years of retail sales.",
+            "linkedin": "https://www.linkedin.com/in/evan-murphy-swdev/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Zitara Technologies, Inc. Overview\n\n**Founded:** 2019  \n**Location:** San Francisco, CA  \n**Employees:** 33  \n**Y Combinator Batch:** S20  \n**Website:** [zitara.com](https://zitara.com)  \n\n**Mission:** \nZitara Technologies is on a mission to revolutionize how we manage battery systems in electrified fleets. Their predictive battery management software aims to enhance safety and reliability while supporting the necessary transition to renewable energy.\n\n### What They Do\n\nBatteries are critical in tackling the climate crisis, and Zitara has stepped up to ensure that they function safely and effectively. Their software offers insights that help businesses not just design but also optimize battery usage in the field. By providing real-time monitoring and actionable data, Zitara empowers companies to unlock more capacity from their energy storage systems\u2014potentially adding up to 15% more capacity just by improving visibility and management.\n\n#### Key Products\n\n1. **Zitara Power**: This algorithm transforms existing, often flawed, signals into accurate real-time control signals regarding your battery\u2019s state of power and energy.\n\n2. **Zitara Balance**: This product monitors and prioritizes balancing needs at a granular level for every rack, eliminating broad downtime and maximizing revenue potential.\n\n3. **Zitara Insight**: Analyzes historical data from your battery systems to identify issues and improve performance, ultimately optimizing revenue drivers.\n\n### Industry Challenges They Address\n\n- **Complexity of Batteries**: Understanding what to ask and which specs matter when investing in battery assets is a daunting task without expert guidance.\n  \n- **Management System Flaws**: Many onboard systems start with great data but degrade over time. Zitara\u2019s solutions tackle this issue with accurate predictive modeling.\n\n- **Unexpected Shutdowns**: Conventional management systems often miss early signs of trouble due to rigid safety protocols\u2014Zitara adapts to changing conditions proactively.\n\n### Future-Focused Funding\n\nRecently, Zitara secured **$17 million** in Series AA funding led by Salesforce Ventures, which will help accelerate their software innovations. This foothold allows Zitara to further develop their expertise and solidify their position in a rapidly evolving market.\n\n### Conclusion\n\nZitara Technologies, Inc. is carving a niche at the intersection of tech and sustainability, helping businesses make informed decisions about battery management while contributing to a greener future. With predictive insights and advanced software solutions, they're not just managing batteries\u2014they're empowering a revolution in energy storage efficiency and reliability. \n\nWant to learn more? Check out their [blog](https://zitara.com/battery-blog) or get in touch via their [contact page](https://zitara.com/contact).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c80505fc5e6787e191730e3d59eb947df1cea965.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=506091c58497be9424c98ba1466b48164e764656d43471009fa68b8cb11cf769",
+    "social_links": [
+        "https://www.linkedin.com/company/78458532/admin/"
+    ],
+    "logo_path": "data/logos\\Zitara_Technologies,_Inc._logo.png"
+}

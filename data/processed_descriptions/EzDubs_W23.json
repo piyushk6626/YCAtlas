@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/ezdubs",
+    "name": "EzDubs",
+    "headline": "Real-time speech translation",
+    "batch": "W23",
+    "description": "EzDubs is a real-time speech translator. Our proprietary models translate speech without waiting for complete sentences, clone voices on the fly (without enrollments), and even replicate emotions in the translated language. \r\n\nOur iOS and Android apps translate live phone calls, automatically dub voice messages, and auto-translate text conversations so that you can communicate seamlessly across languages, with your voice and emotions. Thousands of users use EzDubs to communicate with friends and family who speak different languages, manage offshore teams, and even have relationships across languages. \r\n\nVisit https://ezdubs.ai to download our app and try a live demo of our real-time speech translator, or reach out to explore how EzDubs can integrate with your communication stack to enable live multilingual conversations.",
+    "activity_status": "Active",
+    "website": "http://www.ezdubs.ai",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:api; industry:telecommunications; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Padmanabhan (Paddy) Krishnamurthy, Founder",
+            "description": "Building EzDubs. Ex-Columbia, Webex, USC, HKUST ML research",
+            "linkedin": "https://www.linkedin.com/in/padmanabhan-krishnamurthy/"
+        },
+        {
+            "name": "Amrutavarsh Kinagi, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/amrutavarsh-kinagi/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**EzDubs: Breaking Language Barriers in Real-Time**\n\nFounded in 2022 and part of the Y Combinator Batch W23, EzDubs is a San Francisco-based startup revolutionizing communication through real-time speech translation. Their mission is simple yet ambitious: make seamless multilingual communication accessible to everyone.\n\n**What Makes EzDubs Unique?**\nEzDubs\u2019 proprietary technology translates speech without waiting for full sentences, mimics voices in real time without requiring prior voice training, and even captures emotional nuances in translation. This capability sets it apart in a crowded field of translation apps.\n\n**User-Friendly Applications**  \nEzDubs is available on both iOS and Android and can translate live phone calls, automatically dub voice messages, and facilitate text conversations. Think of it as a versatile communication tool perfect for connecting with friends, managing remote teams, or maintaining relationships where language differences exist. It's like chatting with a neighbor, regardless of the spoken language.\n\n**Core Features:**\n- **Real-time Translation:** Instant translation during conversations.\n- **Voice and Emotion Cloning:** Users can maintain their unique tone and emotional expressions in translations.\n- **Multiple Communication Channels:** Supports phone calls, voice and text messaging, and even video message dubbing.\n\n**Integration Made Easy**  \nEzDubs isn\u2019t just limited to its app. It\u2019s designed to integrate with popular communication tools such as WhatsApp, Skype, Google Meet, and Discord, making it a versatile addition to any communication stack.\n\n**Languages Supported**\nEzDubs currently translates between English, Spanish, French, Arabic, Dutch, and Catalan. \n\n**Why Choose EzDubs?**\nThousands of users have already embraced EzDubs to enhance their communication experiences. Testimonials reveal how the app has improved their interactions, whether in personal or professional settings, eliminating the hassle of switching between apps or relying on personal translators.\n\n**How to Get Started**  \nCurious to try this innovative technology? Visit [EzDubs.ai](http://www.ezdubs.ai) to download the app and experience a live demo. For businesses looking to enhance multilingual communications, EzDubs can integrate effortlessly into your existing frameworks.\n\nWith a lean team of six and backed by notable investors like Jared Friedman, EzDubs is on a mission to change how we connect across cultures. In a world where communication is increasingly vital, EzDubs makes breaking language barriers not just possible but remarkably easy. \n\nWant to be part of this revolution? Check out the app today, and take your conversations global!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/877a3fe1a32fa12a3be667b259ca6caec7a4c108.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191325Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=41ff7cbd5bdf4b41a69e39dc8c7b1836e9810288677b5d8ecf3bc9b35d001e67",
+    "social_links": [
+        "https://twitter.com/ezdubs_bot/with_replies"
+    ],
+    "logo_path": "data/logos\\EzDubs_logo.png"
+}

@@ -1,0 +1,25 @@
+{
+    "links": "https://www.ycombinator.com/companies/virtualmin",
+    "name": "Virtualmin",
+    "headline": null,
+    "batch": "W07",
+    "description": "Virtualmin is taking on the lack of innovation in the server admin programs, like Plesk, by making a more accessable version for pages managed by the non-technical crowd. The program will feature simple installs of popular programs like content management systems that often cost extra on other providers. It will also let you administer your website from your desktop and mobile device.",
+    "activity_status": "Active",
+    "website": "http://virtualmin.com",
+    "founded_date": null,
+    "team_size": 2.0,
+    "location": "Mountain View",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [],
+    "status": true,
+    "generated_description": "**Company Overview: Virtualmin**\n\nVirtualmin is a web hosting control panel that\u2019s primarily focused on providing a superior management experience for Linux systems. Founded as part of Y Combinator\u2019s W07 batch and headquartered in Mountain View, California, the company aims to tackle the stagnation in server administration software by offering more accessible tools for non-technical users.\n\n### Mission\nWhile an explicit mission statement wasn\u2019t provided, it\u2019s evident that Virtualmin is dedicated to innovation in server management, making it easier for website admins\u2014especially those without a technical background\u2014to manage and deploy various web applications.\n\n### What they do\nVirtualmin stands out by offering both a free, community-supported GPL version and a premium Pro version of their software, which integrates smooth functionality with a wide array of Linux distributions like Debian, Ubuntu, Rocky Linux, and others. \n\nThe core offering is a powerful control panel that helps web developers, IT professionals, and hosting providers simplify the tasks associated with server management. You can expect features such as:\n\n- **Domain Management**: Create and manage multiple domain accounts easily.\n- **DNS Management**: Control DNS settings locally or integrate with services like Cloudflare.\n- **Email Management**: Full mailbox control with spam protection, forwarding, and auto-responders.\n- **Database Management**: Import, export, and delegate database control.\n- **Enhanced Security**: Features like two-factor authentication and brute force protection.\n- **Seamless Backups and Migrations**: Integration with popular cloud storage options for backups.\n- **Easy Installation of Web Applications**: Quickly install popular content management systems like WordPress and Joomla.\n\n### Unique Features\nWhat really makes Virtualmin compelling is its flexibility and user-friendliness. It caters to both amateur users and seasoned system administrators by adjusting the complexity of the interface based on a user\u2019s privileges. Additionally, being command-line friendly ensures that power users can enjoy a more traditional experience if they prefer.\n\n- **Customizability**: The software\u2019s modular architecture allows for extensions and custom scripts to enhance functionality.\n- **Support**: Virtualmin boasts professional support delivered by the developers themselves\u2014tickets are usually answered promptly, usually within a day.\n\n### Why Choose Virtualmin?\nIn a saturated market with solid competitors, Virtualmin's versatile features, user-centric design, and focus on automation set it apart. It's a tool designed by administrators for administrators, making it both powerful and adaptable for various skill levels.\n\nTo give it a try and elevate your web management experience, check out their [website](http://virtualmin.com).\n\n---\n\nIn essence, Virtualmin is not just another hosting control panel; it\u2019s an efficient platform designed with both power and simplicity in mind, catering to a wide user base with diverse needs.",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.crunchbase.com/organization/virtualmin",
+        "https://github.com/virtualmin"
+    ]
+}

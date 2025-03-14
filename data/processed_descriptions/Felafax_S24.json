@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/felafax",
+    "name": "Felafax",
+    "headline": "Building AI Infra for non-NVIDIA GPUs",
+    "batch": "S24",
+    "description": "Felafax is building AI infra for non-NVIDIA GPUs. With our ML experience from Google and Meta, we built a new AI stack that is 2x more cost-efficient and performant without needing Nvidia\u2019s CUDA.",
+    "activity_status": "Active",
+    "website": "https://felafax.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nithin Sonti, Founder",
+            "description": "Building AI Infra for non-NVIDIA GPUs and democratizing large-scale AI training!\n\nPreviously, ML Engineer at Google/Youtube and NVIDIA.",
+            "linkedin": "https://www.linkedin.com/in/nithinsonti"
+        },
+        {
+            "name": "Nikhil Sonti, Founder",
+            "description": "Building AI Infra for non-NVIDIA GPUs. Previously, spent over 6 years at Meta, worked on ML inference infra for serving ranking models for Newsfeed, Reels, and Watch. Before that, worked at Microsoft for 3 years.",
+            "linkedin": "https://www.linkedin.com/in/nikhilvenkatsonti"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Felafax Overview\n\nFelafax is an innovative startup founded in 2024, based in San Francisco, and is part of Y Combinator's Batch S24. The company specializes in providing AI infrastructure that runs on non-NVIDIA GPUs, aiming to democratize access to advanced AI capabilities without the hefty price tag associated with traditional GPU platforms. With a lean team of just two founders, Felafax is leveraging deep expertise from tech giants like Google and Meta to create a more cost-effective AI stack.\n\n**Mission:**  \nFelafax is dedicated to building AI infrastructure for non-NVIDIA GPUs, specifically designed to be 2x more cost-efficient and high-performing without relying on NVIDIA's CUDA technology.\n\n### Key Features of Felafax\n\n1. **Seamless Scaling:**  \n   The platform allows one-click deployment of clusters ranging from 8 to 1024 TPU chips, streamlining the training process at any scale.\n\n2. **Cost and Performance:**  \n   Felafax's custom-built training platform utilizes the XLA compiler and JAX, offering performance on par with H100-level GPUs at 30% lower costs.\n\n3. **Secure On-Prem Deployment:**  \n   They ensure data security by deploying within your own Virtual Private Cloud (VPC), meaning your sensitive data stays put.\n\n4. **Highly Customizable Solutions:**  \n   Users can either employ a no-code UI for fine-tuning or dive into Jupyter notebooks for a more tailored training experience.\n\n5. **ML Ops Simplified:**  \n   Felafax manages the heavy lifting of ML operations, including model partitioning for larger models, allowing customers to focus on innovation rather than infrastructure.\n\n6. **Out-of-the-Box Templates:**  \n   Start quickly with pre-configured environments that come with all necessary dependencies, whether using PyTorch XLA or JAX.\n\n### The Team Behind Felafax\n\n- **Nikhil Sonti, Co-Founder & CEO:**  \n  With over six years of experience at Meta and three years at Microsoft, Nikhil has honed his skills in ML inference infrastructure and is focused on driving performance and efficiency in AI deployments.\n\n- **Nithin Sonti, Co-Founder & CTO:**  \n  Nithin brings over five years of experience from Google and Nvidia, famously working on large-scale ML training infrastructures, including efforts related to the YouTube recommender models.\n\n### Connection and Further Information\n\nFelafax is committed to building relationships with potential users and partners. If you\u2019re interested in exploring how their platform can help you fine-tune and deploy models like Llama 3 in your enterprise VPC, they invite you to reach out. \n\n- **Website:** [felafax.ai](https://felafax.ai)\n- **Contact:** founders@felafax.ai\n- **Demo & Access:** [Request Access](https://felafax.ai/<https:/tally.so/r/mRLeaQ>) | [Schedule Demo](https://felafax.ai/<https:/cal.com/nikhilsv/meet>)\n\nIn summary, Felafax is at the forefront of a critical shift in the AI infrastructure landscape, championing accessibility and efficiency in processing power. They're an exciting team to watch as they continue to evolve and empower their users with groundbreaking tools.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d8819d0898e96c809dc01ef0105e3c0ae88d49ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=219536e6e6e6a4cc236c1970e0ec011e6173658abd0baff5a7e41ee438dd3a7b",
+    "social_links": [
+        "https://www.linkedin.com/company/felafax/",
+        "https://x.com/felafax_ai",
+        "https://github.com/felafax"
+    ],
+    "logo_path": "data/logos\\Felafax_logo.png"
+}

@@ -1,0 +1,35 @@
+{
+    "Links": "https://www.ycombinator.com/companies/closure",
+    "Name": "Closure",
+    "Headline": "We help law enforcement solve crime",
+    "Batch": "W25",
+    "Description": "Law enforcement is drowning in data. Closure helps search it to solve crime. \r\n\n- Hiring: UX, Engineering; \r\n- Expanding: Local, state, and federal law enforcement.",
+    "Activity_Status": "Active",
+    "Website": "https://closure-intel.com/",
+    "Founded_Date": "2024",
+    "Team_Size": "4",
+    "Location": "New York",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/tom-blomfield",
+    "Group_Partner": "Tom Blomfield",
+    "Company_Linkedin": "https://www.linkedin.com/company/closure-intel",
+    "Company_Twitter": "",
+    "Tags": "industry:govtech; industry:ai; location:new-york",
+    "social_links": [
+        "https://www.linkedin.com/company/closure-intel"
+    ],
+    "logo_path": "data\\logos\\Closure.png",
+    "Active_Founders": [
+        {
+            "Name": "Gilad Levy, Co-Founder and CTO",
+            "Description": "Building the platform for closing cases faster.\n6 yrs Israeli Air Force (pilot & cyber security), 1 yr Spot.io (acquired by NetApp), 3 yrs Microsoft, 3 yrs Rivery (acquired by Boomi), MSc CS (Reichman), MBA (Tel Aviv)",
+            "LinkedIn": "https://www.linkedin.com/in/gilad-levy/"
+        },
+        {
+            "Name": "Aaron Zelinger, Co-Founder",
+            "Description": "Helping law enforcement solve crime @Closure with @GiladLevy. \n\nTakes helping government seriously; takes himself not so seriously.\n\nPreviously: 2 yrs @Arena, 6 yrs @Palantir (#savetheshire)",
+            "LinkedIn": "https://www.linkedin.com/in/aaron-zelinger/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Closure: Bridging Data and Law Enforcement**\n\nFounded in 2024 and a proud member of Y Combinator Batch W25, Closure is a New York-based startup on a mission to empower law enforcement agencies in their fight against crime. The reality is that law enforcement is often \"drowning in data,\" making it challenging to sift through the noise and find actionable insights. Closure aims to change this narrative.\n\nAt its core, Closure is about harnessing the vast troves of information available to help investigators do their jobs more effectively. By transforming how data can be searched and utilized, Closure is positioning itself as an essential tool for local, state, and federal law enforcement agencies.\n\nWith a compact yet skilled team of four, including backing from Group Partner Tom Blomfield, Closure is set on a path of strategic growth. They are currently hiring for roles in UX and Engineering, aiming to expand their capabilities and reach within the govtech sector. Their focus on artificial intelligence suggests an innovative approach to making complex data digestible and actionable for investigators.\n\nIf you want to see how they\u2019re pushing the boundaries in crime-solving tech, you can visit their website at [closure-intel.com](https://closure-intel.com/). They're inviting interested parties to join their waitlist, which signals an eagerness to engage with those who can benefit from their solutions.\n\nIn short, Closure is not just another tech startup; it\u2019s a frontier in the intersection of technology and law enforcement that aims to make a tangible impact in keeping communities safe. Keep an eye on them; they might just be the partner law enforcement didn\u2019t know they needed."
+}

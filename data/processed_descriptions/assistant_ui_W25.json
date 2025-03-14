@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/assistant-ui",
+    "name": "assistant-ui",
+    "headline": "Open Source Typescript/React Library for AI Chat",
+    "batch": "W25",
+    "description": "assistant-ui helps frontend developers add AI chat to their apps. Our product is used by several dozen companies, like LangChain, Stack AI, Browser Use, and Athena Intelligence. We're building an open source Typescript/React library and a backend as a service, with first class integrations into popular agent frameworks like LangGraph and Vercel AI SDK.",
+    "activity_status": "Active",
+    "website": "https://assistant-ui.com",
+    "founded_date": 2024.0,
+    "team_size": 1.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Simon Farshid, Founder",
+            "description": "Simon is the Founder and CEO of assistant-ui. Before assistant-ui, he co-founded and exited READO, a book recommendation engine and community with over 140k monthly active users. Simon is a hacker at heart - he started coding at age 12 and has won 8 hackathons. Simon grew up in Iran and Germany and moved to the San Francisco early 2024.",
+            "linkedin": "https://linkedin.com/in/simon-farshid"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: assistant-ui**\n\nFounded in 2024 and based in San Francisco, assistant-ui is making waves as an innovative open-source library designed specifically for integrating AI chat functionalities within applications built on Typescript and React. The company has quickly gathered a notable following, being part of Y Combinator\u2019s Batch W25, which speaks to its promise and potential in the developer tools sector.\n\n### Mission\nThe mission of assistant-ui is clear: to empower developers with easy-to-use, robust AI chat capabilities to enhance user interaction within their applications. By lowering the barriers to implementing conversational AI, they aim to enrich the frontend development landscape.\n\n### Product and Features\nAt its core, assistant-ui is leveraging popular technologies like Tailwind and shadcn/ui to create a library that not only facilitates AI chat integration but provides a backend-as-a-service complemented with first-class integrations into frameworks like LangGraph and Vercel AI SDK.\n\nSo far, their product is trusted by an impressive array of companies, including LangChain and Stack AI, showcasing a growing market acceptance. \n\n### Community and Development Resources\nassistant-ui maintains an active engagement with its developer community, boasting over 500 developers currently utilizing their library. They provide extensive resources for getting started, including:\n- [Documentation](https://assistant-ui.com/docs/getting-started)\n- [Showcase](https://assistant-ui.com/showcase)\n- [Examples](https://assistant-ui.com/examples)\n- [Blog](https://assistant-ui.com/blog)\n- [Cloud Dashboard](https://cloud.assistant-ui.com)\n- [Pricing](https://assistant-ui.com/pricing)\n\nMoreover, the company encourages collaboration and feedback through platforms like [Discord](https://discord.gg/S9dwgCNEFs) and [GitHub](https://github.com/assistant-ui/assistant-ui). \n\n### Leadership and Team\nThe team is small yet impactful, consisting of just one founder, illustrating a lean development approach \u2014 which often leads to nimble decision-making and innovative pivots in the fast-evolving tech landscape. Jared Friedman serves as their Group Partner, likely bringing invaluable mentorship and guidance given his experience.\n\n### Conclusion\nIn summary, assistant-ui stands at the intersection of AI and frontend development, simplifying the way developers can bring conversational capabilities into their applications. With its commitment to being open-source and community-driven, it\u2019s worth keeping an eye on this startup as it grows and evolves. For more information, check out their [website](https://assistant-ui.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d7eac3d3ab7a6578e149ea41f64dfa4976077812.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191007Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=96c7ba5249afdc0875bb5de2373e1b2bbac457bf170a42fb21c6e64ecc3e3ceb",
+    "social_links": [
+        "https://linkedin.com/company/assistant-ui",
+        "https://x.com/assistantui",
+        "https://github.com/assistant-ui"
+    ],
+    "logo_path": "data/logos\\assistant-ui_logo.png"
+}

@@ -1,0 +1,35 @@
+{
+    "Links": "https://www.ycombinator.com/companies/cardamon",
+    "Name": "Cardamon",
+    "Headline": "AI compliance co-pilot for regulated financial businesses",
+    "Batch": "W25",
+    "Description": "Cardamon is an AI powered platform that ingests relevant regulation, understands what applies to each regulated financial firm, and gets compliance officers from regulation, to obligations, to product requirements in minutes - not weeks.\r\n\nFinancial firms face a host of complex regulations that make it incredibly painful to launch and maintain products in a compliant way. As a Product team at Revolut, we felt this pain deeply ourselves - we had products ready to launch but stuck in compliance limbo, often for weeks. Turns out, getting compliant took as long as building the product itself. \r\n\nFrustrated, we dug in and were shocked by how manual and inefficient the processes were. That\u2019s when it clicked: there\u2019s a huge opportunity to automate the boring stuff (and solve our own problem!). Compliance teams win because they ditch the tedious tasks. Product teams win because they ship faster. Everyone\u2019s happy.",
+    "Activity_Status": "Active",
+    "Website": "https://cardamon.ai/",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/aaron-epstein",
+    "Group_Partner": "Aaron Epstein",
+    "Company_Linkedin": "https://www.linkedin.com/company/cardamonai",
+    "Company_Twitter": "",
+    "Tags": "industry:fintech; industry:compliance; industry:regtech; industry:ai; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/cardamonai"
+    ],
+    "logo_path": "data\\logos\\Cardamon.png",
+    "Active_Founders": [
+        {
+            "Name": "Areg Nzsdejan, Founder",
+            "Description": "Formerly Product Owner at Revolut leading Diversified Assets & Engagement teams, managing 14 engineers and launching ETFs, EU stocks and Bonds to millions of customers. Prior to that worked as a management consultant at Oliver Wyman and studied Mechanical Engineering at Imperial College London.",
+            "LinkedIn": "https://www.linkedin.com/in/areg-nzsdejan-85b894a1/"
+        },
+        {
+            "Name": "Dmytro Astakhov, Founder",
+            "Description": "Formerly Senior Software Engineer at Revolut leading development of ETFs and EU stocks to millions of customers.",
+            "LinkedIn": "https://www.linkedin.com/in/dmytro-astakhov"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "Cardamon, founded in 2025 and hailing from the innovative Y Combinator Batch W25, is on a mission to transform compliance for the financial sector. Based in San Francisco, this nimble fintech startup operates with a lean team of just two employees, but they\u2019re tackling a formidable challenge: navigating the complex web of financial regulations.\n\nThe core of Cardamon's offering is an AI-powered platform designed to serve as a compliance co-pilot for regulated financial businesses. It streamlines the often tedious and time-consuming process of compliance by rapidly ingesting and understanding relevant regulations. In mere minutes, it helps compliance officers identify applicable regulations, obligations, and product requirements, drastically reducing what used to take weeks of manual work.\n\nThe idea sprang from firsthand experience within the product team at Revolut, where the frustration of products getting stuck in compliance limbo became painfully clear. They realized that getting compliant could take as long as building the product itself, prompting them to find a solution. With Cardamon, compliance teams shed tedious tasks while product teams can launch and iterate faster. It\u2019s a win-win that not only enhances efficiency but also keeps everyone\u2014compliance officers, product teams, and ultimately customers\u2014satisfied.\n\nWith a clear focus on fintech, compliance, regtech, and AI, Cardamon positions itself to disrupt the status quo and simplify one of the most boring yet critical aspects of financial product development. For those interested in a glimpse of their innovative approach, the website is a good starting point: [Cardamon](https://cardamon.ai/)."
+}

@@ -1,0 +1,33 @@
+{
+    "Links": "https://www.ycombinator.com/companies/egress-health",
+    "Name": "Egress Health",
+    "Headline": "Automated revenue cycle management, starting with dentists",
+    "Batch": "W25",
+    "Description": "Egress Health builds AI agents to automate revenue cycle management, starting with dental offices. Our workflows span eligibility checks, claims scrubbing, payment posting, and denial management. On average, our customers eliminate 1-2 full time employees and collect 5-15% more revenue each month. Interested in learning more? Shoot us a note at founders@tryegress.com",
+    "Activity_Status": "Active",
+    "Website": "https://tryegress.com",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "",
+    "Company_Twitter": "",
+    "Tags": "industry:workflow-automation; industry:healthcare; industry:health-insurance; location:san-francisco-bay-area",
+    "social_links": [],
+    "logo_path": "data\\logos\\Egress_Health.png",
+    "Active_Founders": [
+        {
+            "Name": "Matthew Kiflu, Founder",
+            "Description": "Cofounder of Egress Health. Harvard alum",
+            "LinkedIn": "https://www.linkedin.com/in/matthewkiflu/"
+        },
+        {
+            "Name": "Alex Pedersen, Founder",
+            "Description": "Co-founder of Egress. Prev Microsoft, Harvard CS",
+            "LinkedIn": "https://linkedin.com/in/alex-pedersen-30340915a"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "Egress Health is a cutting-edge company on a mission to transform revenue cycle management in the dental industry through automation. Founded in 2024 and based in San Francisco, Egress Health is part of Y Combinator\u2019s W25 batch\u2014a clear signal that they\u2019re onto something worthwhile.\n\nAt its core, Egress Health is leveraging AI to streamline tedious insurance tasks like benefits verification, prior authorization, and posting Explanation of Benefits (EOBs). This isn\u2019t just about efficiency; it\u2019s about financial impact. Their customers typically see the elimination of 1-2 full-time employee roles and a boost in monthly revenue ranging from 5-15%. So, if you\u2019ve ever wondered how to optimize your dental office\u2019s operations, Egress Health might just be the answer.\n\nAs of now, they\u2019ve already processed over 106,000 appointments and they\u2019re just getting started. Egress Health is agile with a lean team of just two employees, and they are eager to expand their impact in the massive $4.5 trillion healthcare industry. If you want to learn more or get involved, you can shoot an email to their founders or join their waitlist directly from their website.\n\nIn summary, Egress Health is tackling the complexities of healthcare payment with an innovative, automated approach that not only saves time but also increases revenue for dental practices. If you\u2019re in the dental field and tired of the administrative headache that comes with insurance, it might be worth reaching out to see how they can help."
+}

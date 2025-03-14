@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/atopile",
+    "name": "atopile",
+    "headline": "We make tools to design electronics circuit boards with code",
+    "batch": "W24",
+    "description": "atopile is a new language to design electronic circuit boards with code. We replace point and click graphical interfaces with code to bring software level automation and reuse to the field of hardware design. Our project is open source on GitHub! https://github.com/atopile/atopile",
+    "activity_status": "Active",
+    "website": "http://atopile.io",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hardware; industry:saas; industry:design-tools; industry:electronics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Matt Wildoer, Founder",
+            "description": "Co-founder of atopile. Formerly SWE @ Tesla, Mech Eng @ Lilium",
+            "linkedin": "https://linkedin.com/in/matthew-wildoer-467a4992"
+        },
+        {
+            "name": "Narayan Powderly, Founder",
+            "description": "If something sucks, fix it. I love building tools that solve real problems, at Tesla I increased the rate at which we could build prototypes by 10x, at our company atopile we are making tools to bring the speed of software development to hardware engineering.",
+            "linkedin": "https://linkedin.com/in/narayan-powderly-21949a180"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Atopile**: Redefining Electronic Circuit Design Through Code\n\nFounded in 2023 and part of Y Combinator's Batch W24, Atopile is making waves in the world of hardware design by introducing a language that connects software principles with electronic circuit design. Located in San Francisco and with a small but passionate team of three, Atopile focuses on one clear mission: to enable users to design electronics circuit boards through code instead of traditional graphical interfaces. \n\n### The Innovation\n\nUsing a language dubbed **ato**, Atopile allows designers to create circuit specifications that are not only human-readable but also version-controllable\u2014similar to how software developers manage their code. This transformation means that users can benefit from software-level automation and reusability. By swapping point-and-click workflows for coding, Atopile empowers engineers to iterate quickly and share designs efficiently within communities.\n\nAtopile\u2019s core offering\u2014the electronics compiler\u2014integrates seamlessly with existing tools. Developers can create their circuits, manage components, and export their designs for manufacturing with ease, ushering in a new level of sophistication in the field of electronics.\n\n### The Structure\n\n- **Website**: [atopile.io](http://atopile.io)\n- **GitHub**: [Atopile Repository](https://github.com/atopile/atopile)\n- **Social Links**: Engage with them on [Twitter](https://twitter.com/atopile_io), [YouTube](https://www.youtube.com/@atopile_io), and [Discord](https://discord.gg/nkpC7wYRVw).\n\n### Key Features\n\n1. **Open Source**: Their project is openly available on GitHub, welcoming contributions and collaboration from developers around the globe.\n2. **Automated Design**: The ato language streamlines the process of circuit creation, allowing designers to focus on innovation rather than repetitive tasks.\n3. **Community Driven**: With a modular approach, Atopile encourages sharing and leveraging community-built components, enhancing collaboration.\n4. **Version Control**: By using git and familiar project management strategies, teams can track changes and collaborate effectively.\n\n### Conclusion\n\nAtopile is at the frontier of a much-needed evolution in how we design electronics. By merging the best practices of software development with hardware design, they are setting a new standard for what it means to build electronic circuits. With their promising technology and open-source philosophy, they may not just change how we build circuits, but the very landscape of hardware innovation itself.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/31abb5561cc1b91c7ad2d84e97e33bb0fa2bf0a9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191010Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=992c00f311c813d7239667b3c8d26f73ec1eb130373079551c71919c9890115c",
+    "social_links": [
+        "https://www.linkedin.com/company/99142194/",
+        "https://twitter.com/atopile_io",
+        "https://github.com/atopile"
+    ],
+    "logo_path": "data/logos\\atopile_logo.png"
+}

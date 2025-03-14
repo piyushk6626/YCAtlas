@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/chart",
+    "name": "Chart",
+    "headline": "Realtime Access to Verified Tax Records",
+    "batch": "W23",
+    "description": "Chart's Unified Tax Record API provides a direct bridge to tax records from the IRS, state tax agencies, and major tax preparation platforms such as TurboTax and H&R Block.",
+    "activity_status": "Active",
+    "website": "https://trychart.com",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:finops; industry:fintech; industry:finance",
+    "founders": [
+        {
+            "name": "Fatih Celikbas, Founder",
+            "description": "Building the only real-time API for verified tax data.\n\nPreviously at Meta.\nYale 20'",
+            "linkedin": "https://www.linkedin.com/in/fatih-celikbas"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Chart: Revolutionizing Access to Tax Records**  \n\nFounded in 2022 and part of Y Combinator Batch W23, Chart is on a mission to provide real-time access to verified tax records. Located in a currently unlisted area, this small but ambitious team of three is led by Group Partner Dalton Caldwell.  \n\nChart\u2019s flagship product, the Unified Tax Record API, connects users directly to tax records from the IRS, state tax agencies, and major tax preparation platforms such as TurboTax and H&R Block. This means businesses can automate income verification and streamline client onboarding processes, all while ensuring the data is both accurate and secure.  \n\nThe company positions itself squarely within the fintech sector, appearing under tags like 'finops', 'fintech', and 'finance'. They cater specifically to modern fintech companies, offering flexibility in how client records are submitted\u2014whether through IRS accounts, tax preparation software, or official IRS forms.  \n\n### Key Features  \n\n1. **Real-time Access**: Clients can access their tax records within seconds, thanks to Chart's direct connection to the IRS and key tax platforms.\n  \n2. **Verified Documents**: Rely on official tax records, as the API connects directly to government sources.\n\n3. **Structured Data**: Tax documents are transformed into clean, organized JSON format, making integration hassle-free for developers.\n\n4. **Security First**: With non-persistent credentials and SOC 2 Type II compliance, Chart ensures the highest data security and privacy standards. Users maintain control over what documents they share, and sensitive information can be anonymized upon request.\n\nFor companies looking to enhance their financial operations by leveraging tax data, Chart presents a compelling solution. They offer developer-friendly REST APIs, comprehensive documentation, and a commitment to protecting client data.  \n\nIf you\u2019re interested in exploring what Chart can do for you, they invite you to [book a demo](https://trychart.com/<https:/calendly.com/trychart/demo>) or visit their site at [trychart.com](https://trychart.com). In a world where data is crucial, Chart is paving the way to seamless access and maximum trust in client financials.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/359cb232aeea1c78cf4c454d8d7d16aa36a297c2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191047Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3d0c7a357a1b958d26223dde3dcc2b7cbd13314e716182cc427cb8be3f426b41",
+    "social_links": [
+        "https://www.linkedin.com/company/trychart"
+    ],
+    "logo_path": "data/logos\\Chart_logo.png"
+}

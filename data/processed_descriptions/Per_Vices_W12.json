@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/per-vices",
+    "name": "Per Vices",
+    "headline": "Building Mission Critical Software Defined Radio products.",
+    "batch": "W12",
+    "description": "Per Vices builds the highest performing Software Defined Radios for mission critical applications for industries that can't live without them. Our products are modular, easy to use, provide the best possible performance, and replace a number complex sub-systems and components. \r\n\nCustomers developing wireless applications use our products because they dramatically lower integration and development complexity, total cost of ownership, and time to market. Our proprietary, industry leading, technology provides the best performance and maintains an efficient abstraction layer that allows customers to easily incorporate our product into their application.",
+    "activity_status": "Active",
+    "website": "https://www.pervices.com",
+    "founded_date": 2005.0,
+    "team_size": 11.0,
+    "location": "Toronto, Canada",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hardware; industry:iot; industry:telecommunications",
+    "founders": [
+        {
+            "name": "Victor Wollesen, Founder",
+            "description": "You can reach me at:\n\nvictor.w@pervices.com",
+            "linkedin": null
+        },
+        {
+            "name": "Brandon Malatest, Founder/COO",
+            "description": null,
+            "linkedin": null
+        }
+    ],
+    "status": true,
+    "generated_description": "**Per Vices: A Summary**\n\nFounded in 2005 and part of Y Combinator's W12 batch, Per Vices operates out of Toronto, Canada. With a small team of 11 dedicated employees, they specialize in building high-performance Software Defined Radio (SDR) products that cater to mission-critical applications across various industries, including telecommunications and IoT.\n\n**Mission and Vision**\n\nPer Vices leverages its expertise to design modular and easy-to-use SDR systems that not only enhance performance but also streamline the integration process for customers. Their products are aimed at reducing the complexity and costs associated with traditional wireless applications, providing a competitive edge in terms of time to market.\n\n**Core Products**\n\nThe company has developed several standout SDR platforms:\n- **Crimson TNG**: A flexible platform designed for high bandwidth communications and capable of tuning from near DC to 6 GHz.\n- **Cyan**: Known for its high channel count and extensive tuning range up to 18 GHz, this platform supports multiple independent radio channels.\n- **Chestnut**: Balancing performance and cost, this model offers extended tuning and high digital throughput.\n- **Calamine**: Offers the highest tuning range, reaching up to 40 GHz, suitable for applications demanding precision and flexibility.\n\n**Market Applications**\nPer Vices supplies their SDR products to a diverse range of applications, including radar, GPS/GNSS, medical imaging, electronic warfare, and more. Their technology is pivotal for customers ranging from government agencies to commercial enterprises, helping them meet regulatory approvals while maintaining performance and cost-effectiveness.\n\n**Customer-Centric Approach**\nThe company prides itself on its integration support and collaboration with clients to customize solutions that meet specific project requirements. Feedback from notable partners underscores their commitment to quality and responsiveness, showcasing the reliability of their products in demanding environments.\n\n**Conclusion**\nPer Vices stands as a leader in the realm of software-defined radios, providing cutting-edge solutions that simplify wireless communications while offering superior performance. With a focus on continuous innovation and customer satisfaction, they are positioned well for future growth in a rapidly evolving telecommunications landscape.\n\nFor more information, visit their website: [Per Vices](https://www.pervices.com)",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/af89c24afa74d854be78b49ad6452ad675afdce3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191635Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c546ae281879fcad1dbcb4bd2539645c2a1abc556dc6edc37bd84926992d771d",
+    "social_links": [
+        "https://www.crunchbase.com/organization/per-vices",
+        "https://github.com/pervices"
+    ],
+    "logo_path": "data/logos\\Per_Vices_logo.png"
+}

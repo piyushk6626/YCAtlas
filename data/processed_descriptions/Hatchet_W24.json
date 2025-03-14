@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/hatchet-2",
+    "name": "Hatchet",
+    "headline": "Background task orchestration and visibility",
+    "batch": "W24",
+    "description": "Hatchet abstracts away the infrastructure for managing task queues and message brokers, so you can focus on writing your background task and workflow logic. With Hatchet, you can run slow OpenAI requests in the background with async tasks, chain complex tasks together into workflows, and set retries and timeouts to recover from failure.",
+    "activity_status": "Active",
+    "website": "https://hatchet.run",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:infrastructure; location:new-york",
+    "founders": [
+        {
+            "name": "Alexander Belanger, Founder",
+            "description": "Co-founder & CEO at Hatchet (W24), previously co-founder & CTO at Porter (S20). M.S. in Physics, B.A. in Physics and Computer Science from the University of Pennsylvania. \n\nAlways happy to chat anything devtools, OSS, infrastructure!",
+            "linkedin": "https://linkedin.com/in/alexander-belanger-aa3974135"
+        },
+        {
+            "name": "Gabe Ruttner, Founder",
+            "description": "Co-founder & CTO at Hatchet (W24), previously co-founder & CTO at ClearMix (S20). Masters in CS/AI from Cornell. Always game to chat anything dev tools, OSS, AI Architecture!",
+            "linkedin": "https://linkedin.com/in/gruttner"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Hatchet Overview**\n\nFounded in 2023 and based in New York, Hatchet is a cutting-edge company that specializes in background task orchestration and visibility. As a proud member of Y Combinator Batch W24, Hatchet is reshaping how developers handle task queues and message brokers. The vision? To streamline your focus on writing background task logic, leaving the heavy lifting of infrastructure management to Hatchet.\n\n**What Does Hatchet Do?**\n\nThink of Hatchet as a distributed task queue that simplifies the process of creating resilient web applications. It tackles issues like concurrency, fairness, and durability with ease. Its features allow developers to run slow OpenAI requests as asynchronous tasks, chain complex workflows, and implement retries and timeouts to recover from failures. This means you can optimize your workflows without getting bogged down by the intricacies of the underlying infrastructure.\n\n**Key Features:**\n1. **Fault-Tolerant Architecture**: Hatchet replaces traditional message brokers, making distributed operations smoother and more reliable.\n2. **Fairness for Users**: Whether for generative AI or batch processing documents, Hatchet ensures that resources are allocated equitably across users\u2014this is especially useful in high-demand environments.\n3. **High Throughput**: With an average startup latency of just 25ms, it promises low-latency scheduling and high throughput, essential for real-time applications.\n4. **Flexible Workflows**: Using Directed Acyclic Graphs (DAG), developers can design complex workflows that can also resume mid-job on failure.\n\n**Open-Source and Community-Centric**\n\nEmphasizing open-source collaboration, Hatchet invites the community to get involved. You can check out their [GitHub page](https://github.com/hatchet-dev/hatchet) to contribute, raise issues, or simply star the project.\n\n**Getting Started**\n\nFor developers eager to try Hatchet, the process is straightforward:\n1. **Register your functions** using the SDK available in Python, Typescript, and Go.\n2. **Start a Hatchet worker** to listen for events.\n3. **Run your tasks** by pushing events into the system.\n\nThis simplicity is designed to keep your focus on the core logic without getting lost in the technical weeds.\n\n**The Team and Support**\n\nLed by a small but dedicated team of two, with Dalton Caldwell as their Group Partner, Hatchet embodies the startup spirit\u2014lean, focused, and innovative. They offer robust documentation and community support to help you navigate and maximize the capabilities of their platform.\n\nFor more in-depth information, visit their website at [hatchet.run](https://hatchet.run).\n\n**Final Thoughts**\n\nIn a world where background tasks can often become a bottleneck, Hatchet emerges as a powerful tool to handle orchestration with style and reliability. Its open-source approach not only democratizes access but also fosters a community of developers keen on building the next generation of resilient applications. If you\u2019re dealing with complex background tasks, Hatchet is definitely worth a look.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a54e74d98cc8d8cae8cc798d384913a168fd9b99.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191413Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=526c3ab00fc60e9a8becaab4aa32584f31fda0f2ce6910d10bd5401e2d67f79c",
+    "social_links": [
+        "https://www.linkedin.com/company/hatchet-run",
+        "https://twitter.com/hatchet_dev",
+        "https://github.com/hatchet-dev"
+    ],
+    "logo_path": "data/logos\\Hatchet_logo.png"
+}

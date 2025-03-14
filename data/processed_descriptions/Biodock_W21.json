@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/biodock",
+    "name": "Biodock",
+    "headline": "Cloud AI microscopy automation",
+    "batch": "W21",
+    "description": "Biodock's cloud platform accelerates microscopy analysis, automating months of microscopy analysis and infrastructure to minutes with our end-to-end AI architecture.  Scientists enjoy auto-scaling storage, GPU compute, and 30-50% more accurate analysis.\r\n\nWe're building an amazing experience to translate microscopy images to therapeutic insights for academic and enterprise scientists.",
+    "activity_status": "Active",
+    "website": "https://www.biodock.ai",
+    "founded_date": 2020.0,
+    "team_size": 8.0,
+    "location": "Austin, TX",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:deep-learning; industry:saas; location:austin",
+    "founders": [
+        {
+            "name": "Michael Lee, Founder",
+            "description": "Hi!  I'm Michael Lee, originally from Manhasset, NY.  Previously, I was a deep learning researcher at the Nolan Laboratory and CS BS at Stanford University.  At Biodock, I work on product and technical development.  Outside of Biodock, I'm interested most in AI, optimization, and behavioral economics.",
+            "linkedin": "https://www.linkedin.com/in/mike21/"
+        },
+        {
+            "name": "Nurlybek Mursaliyev, Founder",
+            "description": "I have a Ph.D. in Cell and Molecular Biology from the Stanford University Department of Biology. My research focus was on stem cell biology and embryo development. I have experienced firsthand the problem we are solving with Biodock while doing my Ph.D. Previously, I also co-founded a med-tech company SmartLens but decided to focus on my Ph.D. I am also a history nerd and love visiting historical places.",
+            "linkedin": "http://www.linkedin.com/in/nurlybek"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Biodock: Revolutionizing Microscopy with AI**\n\nFounded in 2020 and hailing from Austin, TX, Biodock is a dynamic startup that's making waves in the realm of microscopy analysis. As a proud member of Y Combinator's W21 batch, this eight-person team is built around a compelling mission: to harness the power of cloud AI for automating microscopy, enabling researchers to streamline analysis that once took months down to mere minutes.\n\n### The Problem They Solve\nMicroscopy is an essential tool in biological research, but the analysis phase can be painfully time-consuming. Biodock recognizes this challenge and aims to transform the field with their end-to-end artificial intelligence architecture. The platform not only enhances the speed of analysis\u2014promising up to a whopping 3000x increase for larger jobs\u2014but also boosts accuracy by 30-50%.\n\n### What They Offer\nBiodock\u2019s technology is designed for scientists across the academic and enterprise sectors. It enables users to:\n- **Rapidly Train AI Models**: Create a robust analysis model with 15 minutes of initial work, utilizing AI-assisted labeling for increased efficiency.\n- **One-Click Analysis**: Once trained, your AI model can run analyses in one click, significantly simplifying complex processes.\n- **Custom Metrics**: Tailor analysis metrics based on area, intensity, and colocalization to fit specific research needs.\n- **Intuitive User Interface**: Biodock focuses on user-friendliness, requiring no installation or coding skills\u2014just an easy onboarding experience with all the resources available online.\n\n### A Valuable Partner in Research\nBiodock isn't just a standalone platform; it integrates seamlessly with common cloud storage solutions such as AWS S3, Google Drive, and Dropbox. Security is a top priority, with SOC2 Type II certification and robust data protection measures in place.\n\nTheir AI capabilities allow researchers to label images efficiently and process biological images of all types\u2014be it human, animal, or even inorganic materials. This flexibility makes Biodock a versatile and powerful tool in the hands of serious researchers.\n\n### Current Status and Vision\nWhile Biodock is still relatively young, they are committed to pushing the boundaries of AI applications in biology. They\u2019re focused on creating a collaborative scientific environment where world-class researchers can harness the power of advanced microscopy analysis.\n\n### How to Get Involved\nIf you're intrigued by what Biodock offers, their platform is accessible for sign-up, allowing users to dive into AI image analysis and start using the technology to expedite their own research efforts.\n\nIn short, Biodock is carving out a niche that addresses a crucial pain point in the scientific community. By combining AI and microscopy, they're not just improving research methodology; they're accelerating scientific discovery itself. For more updates or to explore their offerings, check out their website: [Biodock.ai](https://www.biodock.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8600c49696d04000a3b9f5c047c88436bb9ef1f4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191023Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9c253b97b857ff7b15db1a239f1e0933b6d85884f517f20c2e728043dbdda432",
+    "social_links": [
+        "https://www.linkedin.com/company/biodockai",
+        "https://www.facebook.com/biodock"
+    ],
+    "logo_path": "data/logos\\Biodock_logo.png"
+}

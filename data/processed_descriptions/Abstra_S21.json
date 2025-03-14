@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/abstra",
+    "name": "Abstra",
+    "headline": "Python-based BPM",
+    "batch": "S21",
+    "description": "Scale business processes with orchestrated scripts, integrations and UIs. Skip engineering hours, stay auditable & lock-in free.",
+    "activity_status": "Active",
+    "website": "https://abstra.io",
+    "founded_date": 2020.0,
+    "team_size": 10.0,
+    "location": "Rio de Janeiro, Brazil",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:b2b; industry:automation",
+    "founders": [
+        {
+            "name": "Bruno Vieira Costa, Founder",
+            "description": "I'm Bruno, founder of Abstra. I'm a computer engineer and programmer since 7.\n\nPrevious Abstra, I co-founded an edtech called PaperX where I was CTO. I sold it during college to Descomplica (biggest edtech in Brazil) where I worked after as Product Manager and Tech Lead.\nAlso, I co-founded a Game Studio called Sinextra where I was Game Designer before college.\n\nI love all kind of creative activities, from making music, comics, games or software.",
+            "linkedin": "https://www.linkedin.com/in/brunovcosta/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Abstra: Simplifying Business Process Management with Python\n\n**Overview**  \nFounded in 2020 and hailing from the vibrant tech scene in Rio de Janeiro, Brazil, Abstra is a Y Combinator S21 graduate focused on streamlining business processes using Python. The company offers a Python-based Business Process Management (BPM) solution that enables companies to elevate their workflows without the usual engineering overhead. Their service stands out with features that ensure everything is auditable and, importantly, lock-in free.\n\n**Mission**  \nAbstra is on a mission to empower businesses to scale their operations seamlessly through orchestrated scripts, integrations, and user interfaces. They aim to eliminate the cumbersome engineering hours typically needed for these processes, providing a more efficient and transparent approach to BPM.\n\n**Team and Structure**  \nWith a compact team of 10 dedicated employees, Abstra positions itself as a nimble player in the expansive SaaS market. They operate under the umbrella of Artificial Intelligence (AI) and Developer Tools, focusing on B2B automation solutions that make business processes smarter.\n\n**Key Solutions**  \nAbstra offers various solutions designed to address specific business needs, such as:\n\n- **Credit Analysis**\n- **Finance Management**\n- **Account Onboarding**\n- **Revenue Operations**\n- **Human-in-the-loop Integration**\n\nEach solution leverages the power of Python and AI, ensuring optimal workflow management and significant reductions in manual efforts.\n\n**Customer Success**  \nAbstra's impact is tangible, with clients across diverse industries reporting substantial productivity gains. For instance:\n- One client transformed a task that previously took five people two weeks into a process that takes just one person two days, saving over **510 hours a month**.\n- Another reported a **220% ROI** within the first month, alongside avoiding additional hires.\n- A third client shifted from **20 hours of manual work per week to zero** through automation.\n  \nSuch results showcase Abstra\u2019s capabilities in not just delivering software but transforming operational efficiency for its clients.\n\n**Deployment and Integration**  \nAbstra emphasizes a user-friendly integration experience. Users can deploy their solutions with a simple click, integrating various data sources and services seamlessly into their workflows. With features that support Git integration and allow for custom built-in tables via PostgreSQL, it offers flexibility and control over operations.\n\n**Get Involved**  \nFor those interested in experiencing this next-gen BPM solution, Abstra provides numerous resources: documentation, templates, tutorials, and connectors, all geared towards helping potential customers get started swiftly.\n\n**Conclusion**  \nIn summary, Abstra is addressing a critical gap in business process management by packaging the robustness of Python and AI into a deceptively simple product. Their approach is not just about technology; it's about real-world results and transforming how businesses operate, making them a company to watch in the evolving BPM landscape. For more information, check out their [website](https://abstra.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e0ca968dac910be13388719030cdb7600c711829.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190943Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=93291480c0c3184df36cb0b84ac173de511477bf625653d6298b1b8a32307dc9",
+    "social_links": [
+        "https://www.linkedin.com/company/abstra-tech",
+        "https://twitter.com/abstra_cloud",
+        "https://www.crunchbase.com/organization/abstra"
+    ],
+    "logo_path": "data/logos\\Abstra_logo.png"
+}

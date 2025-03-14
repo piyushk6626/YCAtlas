@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/firstwork",
+    "name": "FirstWork",
+    "headline": "Rippling for seasonal workers",
+    "batch": "S24",
+    "description": "Firstwork is a next-generation HR platform designed specifically for companies with dynamic workforce needs. Our mission is to streamline and automate key HR processes to help businesses operate more efficiently and effectively.\r\n\nWhat We Do (for now):\r\n\n(1) Smart Onboarding \ud83d\udccb: Our platform simplifies the onboarding process by automating the collection and verification of credentials, such as right-to-work documents, insurance forms and driver\u2019s licenses. This reduces administrative burden and accelerates the time-to-productivity for new hires.\r\n\n(2) AI-Assisted Activation \ud83e\udd16: Leveraging AI, we enhance communication and messaging for new hires, ensuring they receive timely and relevant information. This helps in better engagement and faster integration into their roles.\r\n\n(3) Perpetual Compliance \u2705: Our system uses AI and OCR technology to continuously monitor and ensure compliance with various regulatory requirements. This includes tracking expirations of critical documents, updating records, and generating compliance reports, thus reducing the risk of penalties and legal issues.",
+    "activity_status": "Active",
+    "website": "https://firstwork.com",
+    "founded_date": 2024.0,
+    "team_size": 9.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:human-resources; industry:workflow-automation; industry:compliance; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Vardhan Kapoor, Founder/CEO",
+            "description": "Co-founder and CEO @ Firstwork, Rippling for seasonal workers.\n\nPreviously:\nHead of Region, APAC at Remitly (NASDAQ: RELY) where I launched and scaled Remitly\u2019s expansion into the APAC region, building the P&L from ground up to high-eight figures USD ARR across 5+ geographies.\nStrategy Head at Deliveroo (LSE:ROO) where I led regional growth and strategy.",
+            "linkedin": "https://www.linkedin.com/in/vardhan-kapoor/"
+        },
+        {
+            "name": "Shubham Choudhary, Founder",
+            "description": "Co-founder and CTO @Firstwork, Rippling for seasonal workers.\nPreviously:\nDirector of Engineering @Deel, led the development and management of PEO, Immigration/Mobility, Time-Off & Time-Tracking products at Deel. \nBuilt out the core infrastructure for the Employer Of Record (EOR) systems at @Rippling, which enabled Rippling\u2019s market entry into end-to-end employee lifecycle in 50+ countries.",
+            "linkedin": "https://www.linkedin.com/in/shubhamtech/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**FirstWork** is an innovative HR platform founded in 2024 and nestled in the heart of San Francisco. It aims to revolutionize how companies manage seasonal workers by leveraging AI and streamlined processes. Think of it as \"Rippling for seasonal workers.\" \n\n### Mission & Vision\nFirstWork exists to alleviate the administrative burden of HR by automating and optimizing key processes, making it a perfect fit for businesses with dynamic workforce needs.\n\n### What We Do\nCurrently, FirstWork offers an impressive suite of features that cater to various industries such as construction, food and beverage, healthcare, and more:\n\n1. **Smart Onboarding** \ud83d\udccb: This feature automates the collection and verification of essential credentials like worker permits and licenses, speeding up the onboarding process and enhancing productivity.\n   \n2. **AI-Assisted Activation** \ud83e\udd16: FirstWork employs AI to streamline communication with new hires, ensuring that they receive relevant information in a timely manner, which significantly boosts engagement and accelerates their ramp-up time.\n\n3. **Perpetual Compliance** \u2705: By utilizing AI and OCR technology, FirstWork continuously monitors compliance with regulatory requirements. It tracks document expirations, updates records, and generates essential compliance reports, ultimately minimizing legal risks.\n\n### The Stack\nFirstWork keeps it simple yet powerful: the mission is to cut down workers' time-to-earn by 80%, improve hiring quality, and save companies millions. This is achieved with key functionalities in hiring, training, payroll, and real-time analytics, all wrapped in an AI-powered umbrella.\n\n### Backed by Y Combinator\nAs a part of **Y Combinator's Batch S24**, FirstWork is not just a startup; it\u2019s a promising venture backed by some of the best minds in the industry. Their team of nine is led by Group Partner **Harj Taggar**, ensuring that visionary guidance is always in play.\n\nIn a nutshell, FirstWork represents the future of workforce management. It intertwines the complexities of HR with cutting-edge technology, creating a seamless experience for both employers and employees. Whether you're in construction, healthcare, or any other frontline industry, FirstWork has tailored solutions designed to empower your workforce and elevate performance.\n\nVisit their [website](https://firstwork.com) to learn more or to book a demo!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5ac27a28db9b5560a8c389488291874bd664a74d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191339Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d5d992aa5184f47279fda2aa25d6253881f9ddb2fc01649174c4fd9add9ca93a",
+    "social_links": [
+        "https://www.linkedin.com/company/firstworkhr/",
+        "https://x.com/firstworkhr",
+        "https://www.crunchbase.com/organization/firstwork-16ba"
+    ],
+    "logo_path": "data/logos\\FirstWork_logo.png"
+}

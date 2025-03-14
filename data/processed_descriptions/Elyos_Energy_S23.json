@@ -1,0 +1,45 @@
+{
+    "links": "https://www.ycombinator.com/companies/elyos-energy",
+    "name": "Elyos Energy",
+    "headline": "The platform for energy flexibility and demand response",
+    "batch": "S23",
+    "description": "Elyos Energy helps companies save cost and reduce carbon emissions by shifting electricity consumption outside of peak demand. We connect to smart thermostats, HVAC systems, batteries and EV chargers to automatically lower consumption during peak times. \r\n\nElectrification is at the core of the UK\u2019s net zero strategy. However, with the increase of renewable energy as a mix of the electricity supply, comes an intermittent and more volatile balance between supply and demand.  With the mass adoption of EVs, the increasingly urgent demand for air conditioning and electrification of heat, overall electricity demand is outpacing the transformation of the grid. \r\n\nElyos Energy is helping to solve the problem of supply and demand with energy flexibility at scale, starting with the 1.6 million commercial buildings in the UK.\r\n\nOur SaaS platform enables large commercial buildings to leverage their distributed energy resources (smart thermostats, HVAC systems, solar, battery) to reduce strain on the grid at hours of peak demand and lower their energy costs.\r\n\nWe connect to a range of APIs from smart thermostats, HVAC systems, solar, battery etc. to automate measures of energy consumption reduction and opt-in to national grid demand response events where customers can earn money for energy reduction. By shifting 10% of peak time consumption, we save companies 15% on their electricity bill and reduce their CO2 emissions by 7%.\r\n\nElyos Energy is leveraging energy flexibility, at mass-market scale to enable electrification of the energy system.",
+    "activity_status": "Active",
+    "website": "https://www.elyosenergy.com",
+    "founded_date": 2023.0,
+    "team_size": 7.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:climate; industry:energy; industry:climatetech",
+    "founders": [
+        {
+            "name": "Adrian Johnston, Founder",
+            "description": "Second-time founder. My first business (Una Brands) got to $70m ARR and raised $100m in funding.  Masters in Public Administration (MPA) from Harvard with a specialism in Climate change and the energy transition.  4 years as a consultant at Boston Consulting Group (BCG)  in the Energy Practice, focusing on renewable energy",
+            "linkedin": "https://www.linkedin.com/in/adrian-johnston-87667a2b/"
+        },
+        {
+            "name": "Philippa Brown, Founder",
+            "description": "Previously Head of Group Strategy at OVO Energy, the largest renewable energy company ($2b revenue) in the UK.  Prior to that worked for four years at Rolls-Royce in the Head Office as an operations consultant.\n\nMBA from INSEAD focused on financing the energy transition.",
+            "linkedin": "https://www.linkedin.com/in/philippa-brown-"
+        },
+        {
+            "name": "Panos Stravopodis, Founder",
+            "description": "Co-founder and CTO at Elyos Energy. Ex VP Engineering (Zoa, Bulb) with more than 10 years of experience in leading big engineering organisations(100+ engineers) in FinTech, MarTech and Climate Tech.\nExperienced in building great B2B Enterprise SaaS products and finding PMF. \nDetermined to accelerate the transition to a net zero world. \nBSc + MSc Computer Engineering, MSc Software Engineering, ML PhD Candidate in Machine Learning.",
+            "linkedin": "https://linkedin.com/in/pstrav"
+        }
+    ],
+    "status": true,
+    "generated_description": "Elyos Energy is a fresh entrant in the energy sector, having been founded in 2023 and being part of the Y Combinator Batch S23. Based in London, this nimble startup consists of a small but dedicated team of seven employees. Their mission is clear: to provide a platform for energy flexibility and demand response.\n\nThe core of Elyos Energy's offering is a SaaS platform that helps companies optimize their energy usage, particularly during peak demand periods. By tapping into a range of distributed energy resources (like smart thermostats, HVAC systems, solar panels, and batteries), the platform not only aids businesses in slashing their energy costs but also plays a crucial role in reducing carbon emissions. The company touts impressive figures\u2014by shifting just 10% of peak time consumption, clients can save around 15% on their electricity bills and cut their CO2 emissions by about 7%.\n\nIn a landscape where electrification is key to the UK\u2019s net-zero strategy, Elyos Energy is positioning itself as a solution to the growing mismatch between energy demand and supply, particularly as renewable energy sources become more prevalent and electric vehicles (EVs) gain traction. They are focusing initially on the 1.6 million commercial buildings in the UK, allowing these entities to play a part in easing the strain on the grid during peak times.\n\nElyos Energy\u2019s product lineup includes:\n- **Elyos Core**: A platform designed for managing energy across multiple buildings using AI-powered insights and anomaly detection.\n- **Elyos Pro**: Automates energy use shifts to help businesses save money through integrated Building Management System (BMS) controls.\n- **Elyos DR**: Facilitates participation in demand response events, which can financially benefit customers while supporting grid stability.\n\nTheir approach is highly relevant today. As the electricity grid evolves, achieving energy flexibility is vital for successfully navigating the increasing demand spurred by mass EV adoption and greater air conditioning needs. \n\nWith strategic guidance from Group Partner Gustaf Alstromer and a clear vision of leveraging energy flexibility on a mass-market scale, Elyos Energy is on a path to help transform how commercial entities manage their energy consumption. \n\nFor more information, check out their website: [Elyos Energy](https://www.elyosenergy.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f928f673a94b882faa0b75a117295bdeeed3ef92.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191305Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f66b78d9c64acf167a8d8a4689cb8eb5bb8bf15466c749fd809b7a9a199ad213",
+    "social_links": [
+        "https://www.linkedin.com/company/elyosenergy",
+        "https://twitter.com/elyosenergy",
+        "https://www.facebook.com/elyosenergy",
+        "https://www.crunchbase.com/organization/elyos-energy",
+        "https://github.com/elyosenergy/"
+    ],
+    "logo_path": "data/logos\\Elyos_Energy_logo.png"
+}

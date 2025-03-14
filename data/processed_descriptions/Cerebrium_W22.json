@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/cerebrium",
+    "name": "Cerebrium",
+    "headline": "Serverless Infrastructure Platform for AI",
+    "batch": "W22",
+    "description": "Cerebrium is a serverless infrastructure\u00a0platform for AI applications. We make it easier for companies to build and deploy AI based applications. We offer Serverless GPU's\u00a0with low cold start times, over 12 varieties of GPU chips, allow you to run large scale batch jobs, run realtime voice applications\u00a0and much more. We are used by the teams at Tavus, CivitAI, Twilio and many more.\u00a0\r\n\nCustomers typically experience 40% in cost savings when compared to using traditional cloud providers and can scale models to more than 10K requests per minute with minimal engineering overhead.",
+    "activity_status": "Active",
+    "website": "https://www.cerebrium.ai/",
+    "founded_date": 2021.0,
+    "team_size": 4.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:machine-learning; industry:infrastructure; location:new-york",
+    "founders": [
+        {
+            "name": "Michael Louis, Founder",
+            "description": "Michael is a South African entrepreneur that has founded multiple businesses across ML & A.I, Blockchain, Retail, and consumer marketplaces. Previously he was the CTO of OneCart which sold to Walmart/Massmart for an undisclosed sum.  Currently, he is a co-founder at Cerebrium, a machine learning platform that makes it easier for businesses to train, deploy and monitor ML models in production.",
+            "linkedin": "https://www.linkedin.com/in/michael-louis-94104a113/"
+        },
+        {
+            "name": "Jonathan Irwin, Founder",
+            "description": "Co-founder & CTO of Cerebrium\n\n8+ years experience as a Javascript developer including a lot of time spent in a lead developer role.\n\nBComm undergrad and Finance Honours at the University of Cape Town. Data Science at Tilburg University.",
+            "linkedin": "https://www.linkedin.com/in/jono-irwin/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Cerebrium is an innovative company on a mission to transform how businesses deploy AI applications. Founded in 2021 and part of Y Combinator's Winter 2022 batch, it hails from New York City and operates with a compact team of four.\n\nAt its core, Cerebrium offers a serverless infrastructure platform designed specifically for AI needs. What sets them apart are their Serverless GPUs that boast low cold start times and support for over 12 different GPU chip varieties. This allows companies to run everything from large-scale batch jobs to real-time voice applications seamlessly.\n\nThe platform has proven beneficial for various clients, including Tavus, CivitAI, and Twilio. One of the standout benefits for customers is the cost efficiency\u2014users often see up to 40% savings compared to traditional cloud providers. Moreover, Cerebrium allows organizations to scale their models to handle more than 10,000 requests per minute without the usual engineering headaches.\n\nIn a nutshell, Cerebrium is carving out a niche in the AI infrastructure market, making it easier and more cost-effective for teams to harness the power of artificial intelligence. If you\u2019re looking to streamline your AI workloads, Cerebrium could be worth your attention. You can learn more about their offerings at [cerebrium.ai](https://www.cerebrium.ai/). \n\n### Tags\n- artificial-intelligence\n- machine-learning\n- infrastructure\n- new-york",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2c28771d8b0939edb4a800ef8a77ea9284842829.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191046Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=63d0074851d00c1d163c1d640d6acba5cb8c3d83879ad3de8d045ad87da201d2",
+    "social_links": [
+        "https://www.linkedin.com/company/cerebrium",
+        "https://twitter.com/cerebriumai"
+    ],
+    "logo_path": "data/logos\\Cerebrium_logo.png"
+}

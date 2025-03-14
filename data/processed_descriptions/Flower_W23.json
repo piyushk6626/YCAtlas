@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/flower",
+    "name": "Flower",
+    "headline": "Train AI on distributed data",
+    "batch": "W23",
+    "description": "Flower is an open-source framework for training AI on distributed data using federated learning. Companies like Banking Circle, Nokia, Porsche, and Brave use Flower to easily improve their AI models on sensitive data that is distributed across organizational silos or user devices. Almost all AI today is based on centralized public data \u2014 a small fraction of the data we have; we believe that training on orders of magnitude more data will unlock the next leaps in AI.",
+    "activity_status": "Active",
+    "website": "https://flower.ai",
+    "founded_date": 2023.0,
+    "team_size": 15.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Daniel J. Beutel, Founder",
+            "description": "Daniel is one of the creators of Flower, the first fully agnostic federated learning framework, which is now being used at many Fortune 500 companies and most top universities worldwide. He previously held roles as Head of AI and CTO and has considerable experience in running and scaling engineering teams. Daniel is a CS PhD candidate at the University of Cambridge and has an MSc (with distinction) in Software Engineering from the University of Oxford.",
+            "linkedin": "https://www.linkedin.com/in/daniel-janes/"
+        },
+        {
+            "name": "Nic Lane, Founder",
+            "description": "Nic Lane is a co-founder of Flower Labs, and has been working on Flower since its creation. Nic is also a full Professor in Machine Learning Systems at the University of Cambridge . Previously, he has been on the faculty of Oxford and UCL. Nic additionally has 12-years experience in industrial research (including Microsoft Research and Nokia Bell Labs). Most recently as co-founder and Head of the Samsung AI Center in Cambridge; a 50-staff AI lab started in 2018.",
+            "linkedin": "https://www.linkedin.com/in/niclane/"
+        },
+        {
+            "name": "Taner Topal, Founder",
+            "description": "Taner is one of the creators of Flower, the first fully agnostic federated learning framework, which is now being used at many Fortune 500 companies and most top universities worldwide. He previously held roles as Head of Engineering and CTO in two prior startups. Some companies using products he helped build include Porsche, Lufthansa, and Vattenfall. Taner is also a Visiting Researcher at the University of Cambridge.",
+            "linkedin": "https://www.linkedin.com/in/taner-topal/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Flower: The Future of Federated Learning\n\n**About the Company**  \nFlower is paving the way for a new approach to artificial intelligence by focusing on federated learning\u2014a method that allows AI to be trained on decentralized data. Founded in 2023 and part of Y Combinator's Winter 2023 batch, this innovative company is based on the simple yet bold idea that more diverse and distributed data can significantly enhance AI capabilities. \n\n**Mission**  \nAt its core, Flower's mission is clear: to train AI on distributed data, enabling organizations to leverage the vast amounts of sensitive information they possess without compromising privacy or compliance.\n\n**Who Uses Flower?**  \nThe platform has already garnered attention from major players across various industries, including Banking Circle, Nokia, Porsche, and Brave. These organizations utilize Flower to enhance their AI models in a secure and efficient manner, dealing with sensitive data that\u2019s often trapped in silos or across different user devices.\n\n**Why Does It Matter?**  \nMost AI today is built on a small fraction of centralized public data. Flower flips this notion on its head, proposing that training AI on much broader and diverse datasets will unlock monumental advancements in the technology. This is particularly important as industries increasingly recognize the value of their own data and the imperative to protect clients' privacy.\n\n**The Team**  \nWith a dedicated team of 15 employees under the mentorship of Group Partner Nicolas Dessaigne, Flower is positioned to push the envelope in AI training methodologies.\n\n**Features & Community**  \nThe Flower framework is designed to be user-friendly and adaptable, supporting various programming languages and machine learning frameworks. Its versatility makes it accessible for developers, researchers, and companies alike. The community around Flower is growing, with active engagement through events, Slack channels, and GitHub where users can not only share their experiences but also enhance the platform collaboratively.\n\n**Getting Started**  \nThose interested in diving into federated learning can quickly get started with Flower. Just a few lines of Python code are needed to set up a full federated learning system. The platform supports frameworks like TensorFlow, PyTorch, and many more, making it an ideal choice for developers at all levels.\n\n**Conclusion**  \nIn a world where data privacy and effective AI training strategies are paramount, Flower represents a promising frontier. By leveraging distributed data through federated learning, it not only addresses pressing concerns about privacy but also broadens the horizons for what AI systems can achieve. For more information, visit [Flower's website](https://flower.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1b440a8c1f19953516e0d994b02a667dbe0ace70.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191343Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f5b9e8f2627f585c92c48daf06ae299aea2624133ed582e7e26f50774b6ac686",
+    "social_links": [
+        "https://www.linkedin.com/company/flwrlabs",
+        "https://twitter.com/flwrlabs",
+        "http://github.com/adap/flower"
+    ],
+    "logo_path": "data/logos\\Flower_logo.png"
+}

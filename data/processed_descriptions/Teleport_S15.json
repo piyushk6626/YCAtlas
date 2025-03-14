@@ -1,0 +1,45 @@
+{
+    "links": "https://www.ycombinator.com/companies/teleport",
+    "name": "Teleport",
+    "headline": "The easiest, most secure way to access all your infrastructure",
+    "batch": "S15",
+    "description": "Our open source Infrastructure Access Platform helps developers and security professionals to simplify secure access to servers, Kubernetes, internal web apps, databases, and cloud provider APIs across all environments.",
+    "activity_status": "Active",
+    "website": "https://goteleport.com",
+    "founded_date": 2015.0,
+    "team_size": 200.0,
+    "location": "Oakland, CA",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:devsecops; industry:next-gen-network-security; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alexander Klizhentas, Founder/CTO",
+            "description": "I\u2019m focusing on building distributed infrastructure systems while keeping things as simple as possible. I\u2019m writing code and managing engineering teams, helping team members to be happy, productive and grow their technical and communication skills.",
+            "linkedin": null
+        },
+        {
+            "name": "Ev Kontsevoy, Founder/CEO",
+            "description": "- CEO/cofounder Teleport\n- Product at Rackspace\n- CEO/cofounder Mailgun\n- Software engineer",
+            "linkedin": "https://www.linkedin.com/in/kontsevoy/"
+        },
+        {
+            "name": "Taylor Wakefield, Founder/COO",
+            "description": "- Co-Founder of Teleport (fka, Gravitational) (S2015) and Mailgun (W2011). \n- Director at Rackspace in product for 3 years after Mailgun was acquired by Rackspace in 2012. \n- Boston College alumni.",
+            "linkedin": "https://www.linkedin.com/in/taylorwakefield/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Teleport: Simplifying Access to Infrastructure**\n\nFounded in 2015 and part of the Y Combinator Batch S15, Teleport operates out of Oakland, California, with a team of around 200 dedicated employees. Their mission? To offer the \"easiest, most secure way to access all your infrastructure.\" Initially starting as an open-source platform, Teleport has evolved into a robust Infrastructure Access Platform that empowers developers and security professionals alike. \n\nTeleport focuses on simplifying secure access to servers, Kubernetes, internal web apps, databases, and cloud provider APIs across various environments. Their offerings are particularly relevant today, as organizations grapple with security challenges and regulatory compliance. As cyber threats intensify, their approach emphasizes a zero-trust model and cryptographic identity, which bolsters infrastructure security while allowing for efficient operational practices.\n\n**Key Features of Teleport:**\n1. **Teleport Access Platform:** Offers on-demand, least-privileged access to infrastructure.\n2. **Identity Governance:** Protects your systems with robust identity management.\n3. **Policy Control:** Centralizes access policies and maintains governance across cloud environments.\n\n**Why Teleport Stands Out:**\nIt addresses three significant concerns:\n- **Eliminating Shadow Access:** By tackling the risks from SSH and API keys.\n- **Enhancing Engineer Productivity:** With seamless onboarding and just-in-time access.\n- **Supporting Compliance:** Their tools align with standards like FedRAMP, SOC 2, HIPAA, and more.\n\n**Use Cases:**\nTeleport's solutions cater to various industries, including e-commerce, financial services, SaaS providers, and healthcare. This versatility helps organizations secure access and comply with demanding regulations.\n\n**Strategic Partnerships:**\nTeleport collaborates with leading cloud providers, enhancing functionality and integration with existing infrastructures.\n\nIn summary, Teleport aims to modernize secure access to infrastructure, making it straightforward for teams to embrace security without sacrificing productivity. Interested in learning more? Check out their website at [goteleport.com](https://goteleport.com) for additional resources and insights into their offerings.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3c929b32c30c3a3606324f2d933e5386b4c729f1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192008Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=13d8fd5b2adc344bbecbe519b183896da05cd6bed2a8b264ad86319cf7308a34",
+    "social_links": [
+        "https://www.linkedin.com/company/go-teleport/",
+        "https://twitter.com/goteleport",
+        "https://www.facebook.com/gravitationalinc",
+        "https://www.crunchbase.com/organization/gravitational",
+        "https://github.com/gravitational"
+    ],
+    "logo_path": "data/logos\\Teleport_logo.png"
+}

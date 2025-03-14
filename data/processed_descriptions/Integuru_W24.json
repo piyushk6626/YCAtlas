@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/integuru",
+    "name": "Integuru",
+    "headline": "Integrations without official APIs",
+    "batch": "W24",
+    "description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that creates permissionless integrations by reverse-engineering internal APIs. Our services include authentication management, building integrations, and hosting.",
+    "activity_status": "Active",
+    "website": "https://www.integuru.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:b2b; industry:open-source; industry:api; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Richard Zhang, Founder",
+            "description": "Co-Founder & CEO of Integuru. Previously, product at Alibaba Cloud; data science at DiDi; and investor at Dragonfly, ZhenFund, and Gaorong Capital.",
+            "linkedin": "https://linkedin.com/in/richardfzhang"
+        },
+        {
+            "name": "Alan Lu, Founder",
+            "description": "Co-Founder and CTO of Integuru. Previously, software engineer at Amazon and in the robotic automation division at Bayer.",
+            "linkedin": "https://linkedin.com/in/alan-lu-57094517b"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Integuru: Integrations Made Easy without Official APIs**\n\nFounded in 2024 and part of Y Combinator Batch W24, Integuru is a San Francisco-based company with a sharp focus: building low-latency integrations with platforms that lack official APIs. It\u2019s a space that many developers find frustrating, and Integuru is here to change that.\n\n### Mission\nInteguru's mission is simple and powerful: **Integrations without official APIs**. They\u2019re on a quest to democratize access to data through innovative integration solutions.\n\n### The Technology\nInteguru stands out for developing the first AI agent designed to create permissionless integrations by reverse-engineering internal APIs. This means they can help businesses connect their tools in ways that were previously impossible or cumbersome. Their service encompasses everything from **authentication management** to building and hosting integrations, all aimed at making the developer's life easier.\n\n### Services Offered\nInteguru provides a comprehensive set of services:\n- **Custom Integrations:** They handle the full lifecycle of integrations, ensuring seamless connectivity between platforms.\n- **Hosting and Authentication Management:** They offer hosted services to manage authentication for various integrations.\n\n### Pricing\nPricing is designed to be straightforward:\n- **$0.10 per API call**, with a **minimum of $150/month** per platform. They\u2019re also open to special requests from enterprises.\n\n### User-Friendly Approach\nTheir integrations are open-source by default, a testament to their commitment to transparency and community collaboration. They encourage users to leverage their AI agent, making third-party integration creation more accessible. You can dive into their work via their [GitHub Repo](https://www.integuru.ai/<https:/github.com/Integuru-AI/Integuru>).\n\n### Trust and Partnerships\nInteguru has quickly garnered trust from notable companies like Andy AI, Cal.com, Electric Air, Luminai, and more. This speaks volumes about their credibility and the value they provide.\n\n### The Team\nDespite being a small team of two, Integuru is making big waves. They\u2019re led by a capable group partner, Gustaf Alstromer, who is no stranger to fostering innovative startups. \n\nAs they continue to carve out their niche in the developer tools market, Integuru represents a significant step forward in how we create integrations. If you\u2019re interested in exploring what they can do for you, you can schedule a call with Richard on their website.\n\n**Website:** [Integuru](https://www.integuru.ai) \n\nInteguru isn\u2019t just about solving a problem; they\u2019re about creating opportunities in the world of integrations. If you\u2019re tired of the limitations imposed by official APIs, it might be time to check them out.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4d64ec242a73085ef31953077bd4e089a94fbe40.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191435Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bdb5a9e60d80932c8423727bec78e736198bc9bd08828e0d5b02125cc4b3b23f",
+    "social_links": [
+        "https://www.linkedin.com/company/integuru-ai/",
+        "https://x.com/InteguruAI",
+        "https://github.com/Integuru-AI/Integuru"
+    ],
+    "logo_path": "data/logos\\Integuru_logo.png"
+}

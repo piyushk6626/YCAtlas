@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/outerport",
+    "name": "Outerport",
+    "headline": "Chain-of-memory reasoning for document understanding",
+    "batch": "S24",
+    "description": "Outerport helps AI read documents the way a researcher would - building up understanding section by section and checking facts along the way, instead of just matching similar phrases. For example, when a team needs to confirm a specific requirement in a 200-page compliance policy document, Outerport pinpoints the right section, provides the reasoning, and presents a fact-based summary.\r\n\nOuterport is built for performance- run thousands of queries against your critical documents, with reasoning behind every retrieval. No more faulty vector RAG.",
+    "activity_status": "Active",
+    "website": "https://outerport.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:saas; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Towaki Takikawa, Co-Founder / CEO",
+            "description": "Ex-Research Scientist at NVIDIA Research, worked on generative AI, compression, hyperscale graphics systems, and neural graphics. Enjoys high-performance systems, CUDA programming, and operations (automation and integration).",
+            "linkedin": "https://linkedin.com/in/tovacinni"
+        },
+        {
+            "name": "Allen Wang, Co-founder / CTO",
+            "description": "I previously worked at Tome (LLM for sales), Embark (self-driving), Vector Institute (ML research), Facebook (ads), and LinkedIn (infra). CS and math alum from UWaterloo.",
+            "linkedin": "https://www.linkedin.com/in/allenhw"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Outerport: Unlocking Document Understanding with AI**\n\nFounded in 2024 and currently part of Y Combinator's Batch S24, Outerport is a cutting-edge startup located in San Francisco with a mission to revolutionize how AI comprehends documents. Their innovative technology employs a unique \"chain-of-memory reasoning\" approach that empowers AI to read and interpret complex documents like a human researcher would\u2014section by section\u2014while checking facts along the way.\n\nImagine needing to sift through a hefty 200-page compliance document. Traditional AI models often struggle with vague queries or complex structures, typically relying on vector similarity that doesn't quite grasp the intricacies of context. This is where Outerport shines. Their system not only identifies the relevant sections but also provides fact-based summaries and reasoning behind every retrieval, eliminating the fear of unreliable outputs often associated with AI\u2019s tendency to \u201challucinate\u201d facts.\n\nAt its core, Outerport is built for performance. With capabilities that allow running thousands of queries on your documents without compromising quality, this tool is robust enough to handle unlimited document lengths\u2014from a simple email to a dense policy manual\u2014while maintaining clarity and context. The key to their process is smart reading, where their AI breaks down text into natural sections and builds a verified memory chain. This means it remembers critical details as it parses content, just as a human would, leading to a more comprehensive understanding of the material.\n\nBacked by a team of AI scientists from major tech companies like NVIDIA and Meta, Outerport aims to outpace traditional document processing systems by being 10x to 20x more efficient. Their intelligent processing redefines resource management, ensuring users get profound insights without the usual pitfalls of long context deterioration seen in many large language models.\n\nWhether it's for compliance, research, or general document inquiry, Outerport gives organizations the robust tools they need to make sense of their extensive documentation intelligently. For financial services firms and research institutions looking to streamline their document comprehension process, Outerport is a game changer.\n\nTo learn more about Outerport and how it can transform your document handling experience, visit their website at [Outerport.com](https://outerport.com) or reach out directly via email at info@outerport.com. Welcome to the next generation of document understanding.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d28c966c5ad9f48196b8621179c157cbb24faced.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191616Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d4c9a9b109af4beec5d11f20b64964baea846b3faef9aacf8070218b05b25223",
+    "social_links": [
+        "https://www.linkedin.com/company/outerport",
+        "https://x.com/outerport",
+        "https://github.com/outerport"
+    ],
+    "logo_path": "data/logos\\Outerport_logo.png"
+}

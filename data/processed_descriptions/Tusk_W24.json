@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/tusk",
+    "name": "Tusk",
+    "headline": "AI agent that generates unit and integration tests",
+    "batch": "W24",
+    "description": "Tusk is an AI agent that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams use Tusk to merge PRs 25% faster with increased feature coverage.",
+    "activity_status": "Active",
+    "website": "https://usetusk.ai",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:b2b; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Marcel Tan, Founder",
+            "description": "Marcel is the co-founder and CEO of Tusk. Self-taught software engineer. Prev. technical PM for 6sense's AI email product, which he took from $300K to $8.9M TCV in a year. Working hard to help engineers hit release deadlines while meeting their testing goals. Graduated from UC Berkeley. Hacking on projects with Sohil since college. Saved a bar from going out of business once. Former Company Commander of 300 officers in the Singapore Police Force.",
+            "linkedin": "https://linkedin.com/in/marcel-tan"
+        },
+        {
+            "name": "Sohil Kshirsagar, Founder",
+            "description": "Sohil is the co-founder and CTO of Tusk. Previously a Senior Software Engineer at Aspire, where he led the workflow orchestration and automations team that powered millions of influencer collaborations. Now working hard to help engineers focus their time on fulfilling work. Graduated from UC Berkeley with a degree in Electrical Engineering and Computer Science. Built the most popular online prop bets game for the Super Bowl in a weekend.",
+            "linkedin": "https://linkedin.com/in/sohil-kshirsagar"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Tusk**\n\nFounded in 2023 and part of Y Combinator's W24 batch, Tusk is an innovative startup based in San Francisco, comprised of a tight-knit team of four. The company's mission? To harness the power of artificial intelligence to streamline the software development process by generating unit and integration tests tailored to specific codebases.\n\n**What Does Tusk Offer?**\n\nTusk is designed to be a helpful companion for engineering teams, running as a non-blocking check on pull requests (PRs). This means developers can keep their workflow intact while Tusk suggests both happy path tests and edge case tests that existing coverage may overlook. In doing so, Tusk decreases the time it takes to merge PRs by an impressive 25%, all while enhancing feature coverage.\n\nThe tool integrates seamlessly into existing CI/CD workflows, making it a natural fit within systems like GitHub. Developers benefit from Tusk\u2019s ability to analyze the context of their code to recommend relevant tests, significantly reducing the risk of undetected bugs sneaking through the cracks. \n\n**Core Functionalities:**\n\n- **Test Generation**: Automatically generates tests based on the latest code changes, allowing developers to focus on coding rather than bug-checking.\n- **Context-Aware**: Utilizes the specifics of your project to identify potential edge cases that need testing.\n- **User-Centric Design**: Provides customization options for teams to tailor their experience and settings.\n- **Mock Services**: Uses existing tests to simulate services and data structures for writing integration tests, further enhancing test reliability.\n- **Performance & Scalability**: Built on a scalable architecture that can accommodate growth and high data volume efficiently.\n\n**Customer Experiences:**\n\nThe early adopters of Tusk have shared glowing feedback. Zack Moy, Co-Founder and CTO at Afterword, highlighted how Tusk has accelerated their development cycle, stating it was \"instrumental in helping our lean team scale across three stacks.\" Similarly, Amo Chen from DeepLearning.AI appreciates Tusk's role in protecting their product from edge case threats. Aakash Shah, CEO of Wyndly, emphasizes Tusk's ability to improve code quality with minimal effort, making it a vital component for teams aiming for fast, high-caliber releases.\n\n**Conclusion:**\n\nTusk is not just about increasing test coverage\u2014it's about revolutionizing the testing culture in software development. With a focus on preventing regressions while fostering a sense of security for developers, Tusk positions itself as a key tool for any engineering team looking to ship faster and safer. Ready to see what Tusk can do for you? Check out their website for more details: [Tusk](https://usetusk.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3f9e275ef73f7bd202facad5920b900dc8a19930.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192033Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=050dbb1cdc368bc19adb1c345227c339ccb14208983d0d3d096188eb935d0abd",
+    "social_links": [
+        "https://www.linkedin.com/company/usetusk",
+        "https://twitter.com/usetusk",
+        "https://www.crunchbase.com/organization/tusk-5ac6"
+    ],
+    "logo_path": "data/logos\\Tusk_logo.png"
+}

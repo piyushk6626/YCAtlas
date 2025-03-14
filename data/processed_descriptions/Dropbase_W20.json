@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/dropbase",
+    "name": "Dropbase",
+    "headline": "Prompt-based app builder. Build back-office software faster with AI",
+    "batch": "W20",
+    "description": "Dropbase is a prompt-based app builder that empowers developers to create custom back-office software fast and efficiently.\r\n\nWith Dropbase, you can build backend panels, order/billing dashboards, and internal\u00a0tools that can fetch data and trigger action across any database or service.\r\n\nKey Features:\r\n* Rapid development of backend panels, order/billing dashboards, and internal tools\r\n* Seamless data fetching and action triggering across any database or service\r\n* Intuitive prompt-based interface for streamlined app development\r\n\nDropbase customers are companies in support and operations-intensive industries such as financial services, telecom, logistics, and retail that want to:\r\n* Dramatically reduce software development costs\r\n* Enhance operational efficiency\r\n* Accelerate the creation of tools to empower business teams",
+    "activity_status": "Active",
+    "website": "https://dropbase.io",
+    "founded_date": 2019.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jimmy Chan, Founder",
+            "description": "Co-founder & CEO at Dropbase",
+            "linkedin": "https://www.linkedin.com/in/jimmyechan/"
+        },
+        {
+            "name": "Ayazhan Zhakhan, Founder",
+            "description": "Co-founder & CTO at Dropbase",
+            "linkedin": "https://www.linkedin.com/in/zhakhan/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Dropbase: Building Back-Office Software with AI**\n\nDropbase is a company that emerged in 2019, hot off the Y Combinator Batch W20, and is based in the bustling tech hub of San Francisco. At its core, Dropbase serves as a prompt-based app builder, designed to streamline the creation of custom back-office software, enabling developers to work faster and more efficiently. Imagine quickly spinning up backend panels, order dashboards, or internal tools\u2014all powered by AI.\n\n### The Mission\n\nThe mission at Dropbase is clear: to empower small teams in support and operations-heavy industries\u2014like financial services, telecom, logistics, and retail\u2014to reduce software development costs dramatically while enhancing operational efficiency. With Dropbase, these companies can accelerate tool creation, enabling business teams to leverage technology where it counts.\n\n### Key Features\n\n- **Rapid Development**: Build backend panels and internal tools quickly with an intuitive prompt-based interface that simplifies the development process.\n- **Seamless Integration**: Connect effortlessly with various databases and services, allowing for real-time data updates and action triggering.\n- **Streamlined UI Customization**: Utilize a drag-and-drop feature combined with the power of natural language input to declare and adjust app interfaces.\n\n### How It Works\n\nIt\u2019s straightforward. You can declare applications using everyday language, adjust the UI elements to your liking with simple drag-and-drop actions, and even edit the underlying code to fine-tune logic. Whether you're creating admin panels for managing user accounts or workflows for billing, the framework supports extensive customization.\n\n1. **Declare UI**: Dropbase AI generates relevant UI components based on your input.\n2. **Drag-and-Drop**: Position components in a way that delivers the best user experience.\n3. **Behavior Logic**: Describe the desired behavior, and the tool generates code you can review and adjust.\n4. **Testing**: Debug applications through an easy code execution interface, catching issues before launch.\n5. **Launch**: Preview the app in real time, ensuring it meets expectations before going live.\n\n### Target Customers\n\nDropbase is tailored for organizations that often grapple with high development costs and lengthy deployment times. Their clientele is largely composed of businesses with intensive operations requiring efficient and reliable internal tools.\n\n### The Team\n\nWith a small but powerful team of just five, Dropbase embodies agility and focus. Their Group Partner, Nan, plays a vital role in propelling the company forward.\n\n### Why It Matters\n\nIn a world where being agile determines the victor, Dropbase is essential for teams looking to leverage modern technology without the usual overhead. By focusing on developer tools enhanced with AI, they provide a foundation for companies to innovate on the backend without getting bogged down in traditional development bottlenecks.\n\nIf you're ready to transform how you build internal software, head over to [Dropbase.io](https://dropbase.io) to explore their offerings. The future of back-office software building is here, and it's powered by prompts.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/91382365e66fe3ed9ede5ef0fd7c0bd3745536f7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191128Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=57706e9954caba27cbdfbe3827c189b01165323be96a5de5af5e2d24d2fba7fe",
+    "social_links": [
+        "https://www.linkedin.com/company/dropbase/",
+        "https://twitter.com/DropbaseHQ",
+        "https://github.com/dropbaseHQ/"
+    ],
+    "logo_path": "data/logos\\Dropbase_logo.png"
+}

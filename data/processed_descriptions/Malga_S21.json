@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/malga",
+    "name": "Malga",
+    "headline": "Malga is an API to accept payments with multiple payment providers",
+    "batch": "S21",
+    "description": "Malga gives digital businesses access to multiple payments services through a single integration, and the ability to change between them on a transaction to transaction basis without writing code.",
+    "activity_status": "Active",
+    "website": "https://malga.io/",
+    "founded_date": 2020.0,
+    "team_size": 46.0,
+    "location": "Rio de Janeiro, Brazil",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:payments; industry:b2b",
+    "founders": [
+        {
+            "name": "Alex Vilhena, Founder",
+            "description": "Raised between Brazil and the US, and spent last 7 years across US and Europe working for tech companies.",
+            "linkedin": "https://www.linkedin.com/in/alexvilhena/"
+        },
+        {
+            "name": "Thiago Garuti, Founder",
+            "description": "Majored in industrial engineering and started in the financial market working at some hedge funds in Rio de Janeiro for 8 years.\nIn 2015 I went to a venture builder named Finxi, began as a Project Manager and moved to Product.\nIn 2016 founded Medicinae Solutions, which was a startup to advance health insurance receivables. There I was responsible for the product and development team. I stayed 3 years. Medicinae had an exit, it was sold to Afya, a NASDAQ listed company.",
+            "linkedin": "https://www.linkedin.com/in/thiago-garuti-6844b557/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Malga: Simplifying Payment Integration for Digital Businesses**\n\n**Overview:**\nFounded in 2020 and part of Y Combinator's Batch S21, Malga is a Brazilian startup located in Rio de Janeiro. It prides itself as an API that simplifies payment processes for digital businesses by allowing them to access a multitude of payment providers through a single integration. With a growing team of 46, Malga focuses on enhancing transaction success rates and overall payment security, tackling common pain points in the e-commerce landscape.\n\n**Core Mission:**\nMalga's mission is simple yet impactful: to enable digital businesses to accept payments seamlessly from various providers without the need for complex coding. This empowers businesses to switch providers on a transaction-by-transaction basis, making payments smoother and more flexible.\n\n**Key Features:**\n1. **Tokenization of Cards:** Ensures secure storage of payment data, mitigating the risks of fraud and data breaches.\n2. **Payment Retry and Routing:** Automates processes to capture sales, increasing approval rates even in cases of initial payment failures.\n3. **Analytics and Dashboard:** Provides businesses with insights into their transactions and provider preferences, allowing for data-driven decisions.\n4. **Payment Orchestration:** Offers a pathway to connect with multiple providers through a single integration, promoting autonomy and scalability.\n5. **Anti-Fraud Protection:** Deploys advanced techniques to protect transactions, ensuring customer data is encrypted and secure.\n6. **Custom Payment Links:** Facilitates sales through direct links, allowing businesses to sell effortlessly via channels like WhatsApp and Instagram.\n7. **Payment Split:** Automatically divides transaction amounts among multiple recipients, useful for platforms like marketplaces and delivery apps.\n\n**Why Choose Malga?**\nMalga transcends traditional payment gateways by allowing businesses to adapt their payment solutions according to their evolving needs without technical hurdles. Their clients, ranging from e-commerce platforms to fintechs, have reported significant boosts in their transaction success rates and overall revenue after integrating Malga's solutions.\n\n**Customer Testimonials:**\nMalga boasts glowing reviews from various clients, highlighting improved transaction rates, reduced fraud incidents, and enhanced integration experiences. For instance, a client increased their credit card conversion rate from 79% to 92% simply by leveraging Malga's robust solutions.\n\n**Conclusion:**\nAs businesses increasingly seek flexibility and efficiency in payment processes, Malga stands out as a proactive player in the payment integration space. With ongoing innovations and a clear commitment to customer success, Malga is poised to play a significant role in shaping the future of digital payments in Brazil and beyond.\n\nFor more information, visit [Malga's website](https://malga.io/) and explore how it can transform your payment processes.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8bcebe9af9bea69ddedf1d7704b11709cf5907c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191521Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=896da1d877d4c719d257c9fdf416830cc40de6aced427f7c4159fc01e31ffd23",
+    "social_links": [
+        "https://www.linkedin.com/company/gomalga"
+    ],
+    "logo_path": "data/logos\\Malga_logo.png"
+}

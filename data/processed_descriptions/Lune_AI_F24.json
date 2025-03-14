@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/lune-ai",
+    "name": "Lune AI",
+    "headline": "Better GPT and Claude for coding",
+    "batch": "F24",
+    "description": "A replacement to standard LLMs for coding tasks - eliminate hallucinations with a marketplace of expert LLMs trained on hundreds of technical topics.",
+    "activity_status": "Active",
+    "website": "https://www.lune.dev/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sam Park, Founder",
+            "description": "Dropped out of Harvard to build better LLMs for code generation and answering technical questions. Striving towards a reality where all people are 100x more productive because of AI + coding.",
+            "linkedin": "https://www.linkedin.com/in/samuel-park04/"
+        },
+        {
+            "name": "Josh Park, Founder",
+            "description": "Harvard dropout, currently building Lune AI, the platform that gives developers access to better LLMs for code generation and answers from up-to-date technical knowledge sources.",
+            "linkedin": "https://www.linkedin.com/in/josh-park-a26561279"
+        }
+    ],
+    "status": true,
+    "generated_description": "Lune AI is an innovative tech startup aiming to enhance coding experiences using advanced AI models. Founded in 2024 as part of Y Combinator's Batch F24, this San Francisco-based company is on a mission to create a better AI coding assistant\u2014specifically, a better alternative to existing large language models like GPT and Claude. \n\nThe problem Lune AI seeks to address is the common issue of AI hallucinations\u2014unreliable outputs that can lead to confusion and inefficiency in coding tasks. To tackle this, they've developed a marketplace of expert language models specifically trained on a wide array of technical topics. This approach promises to provide developers with accurate and relevant assistance without the noise often associated with generic LLMs.\n\nDespite being a small team of two, Lune AI is backed by noteworthy influence, having David Lieb as their Group Partner. They label themselves within the developer-tools and AI spaces, focusing on building a seamless interface for coding interactions.\n\nTheir platform facilitates meaningful AI-human conversations, where users can pose questions and receive instantaneous answers\u2014fully moderated by AI, eliminating the delays often found in human-driven support systems. The cornerstone of their offering is a chat functionality that promises to keep the conversation fluid and dynamic, with trending questions and topics directly accessible to users.\n\nFor more information, you can check out their [website here](https://www.lune.dev/). In a world where efficient coding tools can make all the difference, Lune AI is positioning itself as a serious contender for developers seeking smarter, more reliable AI assistance in their workflows.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7825df863691dc768b6bf71245e9272653b06d2c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191516Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0238a9c01cb99b9c0007bcacc711be37a244f13f871d9d84f80655b257f54115",
+    "social_links": [
+        "https://www.linkedin.com/company/lune-inc/",
+        "https://x.com/lune_inc"
+    ],
+    "logo_path": "data/logos\\Lune_AI_logo.png"
+}

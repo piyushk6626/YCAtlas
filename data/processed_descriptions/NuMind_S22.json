@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/numind",
+    "name": "NuMind",
+    "headline": "Create custom NLP models",
+    "batch": "S22",
+    "description": "NuMind is a tool for data scientists, data analysts, but also software engineers to create custom NLP models. For example, a recruiting company uses NuMind to find which job offers best match a given resume. Etienne (CEO) was head of Machine Learning at Wolfram Research, and Samuel (CTO) co-founded Make.org (8M users). NuMind originated from our own frustration when developing NLP models. Leveraging large language models similar to GPT-3, NuMind allows to complete NLP projects at least 10x faster than before. We launched a private beta August 2 and had 9 paying customers one month later.",
+    "activity_status": "Active",
+    "website": "https://www.numind.ai",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "Cambridge, MA",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:artificial-intelligence; industry:machine-learning; industry:nlp",
+    "founders": [
+        {
+            "name": "Etienne Bernard, Founder",
+            "description": "Etienne is an expert in AI & machine learning. After a PhD (ENS) & postdoc (MIT) in statistical physics, Etienne joined Wolfram Research where he became the head of machine learning for 7 years. During this time, Etienne led the development of automatic learning tools, a user-friendly deep learning framework, and various machine learning applications. Etienne founded NuMind in 2022.",
+            "linkedin": "https://www.linkedin.com/in/etiennebcp/"
+        },
+        {
+            "name": "Samuel Bernard, Founder",
+            "description": "After a PhD in Distributed Systems, Samuel was an early employee of Criteo, the Technology Innovation leader at S4M, co-founder & CTO at Make.org, and an independent coach/advisor of start-ups & data teams.  Over the years he refined his skills and became an expert in DevOps/DataOps and at managing tech teams.\nHe is now founder & CTO at Numind.ai.",
+            "linkedin": "https://www.linkedin.com/in/samuelbernardphd/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### NuMind: Simplifying Custom NLP Model Creation\n\n**Overview:**\nNuMind is a fresh player in the artificial intelligence space, launched in 2022 and currently part of Y Combinator's Batch S22. Based in Cambridge, MA, this nimble startup is tackling the common frustrations encountered during the development of Natural Language Processing (NLP) models. With a small team of six, including seasoned leaders Etienne, the CEO who formerly led machine learning at Wolfram Research, and CTO Samuel, a co-founder of Make.org with millions of users, NuMind is primed to leave its mark.\n\n**Mission:**\nThe core mission of NuMind is straightforward: empower users to create custom NLP models swiftly and efficiently. They aim to significantly reduce the time and effort required to complete NLP projects, offering tools that make this possible\u2014often achieving results at least ten times faster than traditional methods.\n\n**Product Offering:**\nNuMind specializes in creating custom models particularly suited for tasks like job matching in recruitment. For instance, a recruiting firm can utilize NuMind's technology to match job postings with candidate resumes effectively. Their proprietary model, NuExtract, focuses on extracting high-quality information from various document formats (PDFs, images, tables, and text), ensuring that users can build robust databases with clean, reliable data.\n\n**Key Features and Use Cases:**\nNuMind's platform is packed with features that cater to a wide array of applications\u2014from structured data extraction to domain-specific tasks such as medical coding. Their API allows users with some technical expertise to harness the power of their models and extract information at scale. Additionally, NuMind provides an enterprise solution that caters to organizations needing enhanced privacy and on-prem deployment.\n\n**Traction:**\nSince launching their private beta on August 2, 2022, NuMind has already secured nine paying customers within the first month\u2014a promising indication of demand and readiness in the market.\n\n**Why It Matters:**\nIn a world increasingly driven by data, the need for customizable, fast, and efficient NLP solutions is ever-present. NuMind not only acknowledges this necessity but seeks to streamline the process, making powerful tools accessible to data scientists, analysts, and software engineers alike. Their focus on user-friendly models signifies a shift towards democratizing machine learning applications.\n\n**Conclusion:**\nIf you're curious about their offerings or want to dive into custom NLP model-making, NuMind stands at the ready. They\u2019re not just building a product; they\u2019re reshaping how businesses interact with data through intelligent automation and tailored solutions. You can visit them at [NuMind.ai](https://www.numind.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e4783284923de491a512eca5c7da2152fe4141dd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191603Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9f36d9c27b12f634a809971ac9ace76d2df0a2b4f816521f03a7033512806684",
+    "social_links": [
+        "https://www.linkedin.com/company/numind-ai",
+        "https://twitter.com/numind_ai",
+        "https://www.crunchbase.com/organization/numind"
+    ],
+    "logo_path": "data/logos\\NuMind_logo.png"
+}

@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/hona",
+    "name": "Hona",
+    "headline": "The Domino's Pizza Tracker for service businesses and their clients.",
+    "batch": "W23",
+    "description": "Hona is a software application that allows for businesses to automatically keep their clients up to date as to the status of their service. Alongside these updates, clients will have a unique user interface that will allow them to see the important milestones within their service and also receive education as to how it works and the next steps. Beyond the updates and education, Hona serves as a tool for clients to upload documents, directly communicate with the business, leave reviews and feedback to the business, and more. The long-term vision for Hona is to be the all in solution for client experience management used across many different industries. Clients will have one app to communicate and interact with multiple different businesses. As clients enjoy the use of Hona with one business, they will yearn to use it with other businesses. Additionally, the seamless integration between the business's CRM and Hona makes it desirable for the business to use as well.",
+    "activity_status": "Active",
+    "website": "https://hona.com",
+    "founded_date": 2021.0,
+    "team_size": 48.0,
+    "location": "Orem, UT",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Manny Griffiths, Founder",
+            "description": "After studying Finance at BYU, I did B2B SaaS sales for a legal tech company in Utah. While selling that software, my clients asked for a specific feature, they wanted \"a dominos pizza tracker for legal cases\". I left that company to create that tool so that all businesses can update and educate their clients on their services.",
+            "linkedin": "https://www.linkedin.com/in/manny-griffiths-b5876884/"
+        },
+        {
+            "name": "Josh Christensen, Founder",
+            "description": "While studying Mechanical Engineering at BYU, I started an e-commerce sandal company called J-Slips Hawaii which I scaled to $1M+ in revenue in 2 years. I turned it over to my family to run so I could pursue a career in tech. I taught myself how to code and became a software engineer working at extremely fast growing tech companies, first Qualtrics and then Route, before co-founding Hona.",
+            "linkedin": "https://www.linkedin.com/in/joshua-n-christensen/"
+        },
+        {
+            "name": "Matt McClellan, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/matthew-mcclellan22/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Hona**\n\nFounded in 2021 and part of Y Combinator's Batch W23, Hona is a groundbreaking client communication platform based in Orem, Utah. With a growing team of 48, Hona aims to revolutionize how service businesses interact with their clients, akin to how Domino's Pizza Tracker transformed the fast-food experience. You can explore more about Hona at [hona.com](https://hona.com).\n\n**Mission & Vision**\n\nAt its core, Hona's mission is simple yet profound: to provide real-time updates and insights into service progress for clients of various businesses. Their vision extends beyond just one-on-one interactions; Hona aims to be the all-encompassing tool for client experience management across multiple industries. The idea is compelling\u2014clients using Hona will not only appreciate its functionalities with one business but will begin to seek it out with others too. The seamless integration with a business's Customer Relationship Management (CRM) systems only sweetens the deal, making it a vital tool for businesses seeking improved client engagement.\n\n**How It Works**\n\nHona offers a user-friendly software application that automates client status updates, milestones, and educational content on service processes. Clients can easily upload documents, message businesses directly, and leave reviews\u2014all from a single portal. This cohesive experience not only enhances communication but also builds trust between businesses and clients by keeping everyone in the loop.\n\n**Services Provided**\n\nHona emphasizes several key solutions:\n- **Education**: Educating clients about their services and processes.\n- **Drip Campaigns**: Engaging clients over time with relevant information.\n- **Client Updates**: Providing regular status updates on their service.\n- **Two-Way Messaging**: Allowing clients to communicate directly with the business.\n- **Branding Support**: Helping businesses maintain a consistent identity.\n\nThese solutions are tailored to multiple practice types, including personal injury, bankruptcy, criminal law, and more.\n\n**Integration Capabilities**\n\nOne of Hona\u2019s standout features is its ability to integrate seamlessly with popular case management software like Clio, MyCase, CASEpeer, and many others. This feature helps law firms manage their processes efficiently, automating updates and keeping clients informed without added work\u2014the kind of efficiency every business craves.\n\n**Social Proof**\n\nTestimonials from users highlight Hona's user-friendliness and effectiveness in enhancing communication. Many law firms have expressed satisfaction not only with the platform's performance but also with the attentive support from Hona's team, indicating a partnership that prioritizes their clients' needs.\n\n**Looking Ahead**\n\nAs Hona continues to evolve, its ambition to edge closer to a universal solution for client experience management becomes clearer. It's about transforming client interactions into seamless journeys that are predictable and satisfying\u2014something that, given the current pace of innovation, seems within Hona's grasp.\n\nIn essence, Hona isn't just about updates and messages; it's about fostering a relationship of trust and transparency between service providers and their clients. If you're in the service sector and are looking to improve your client interactions, Hona could be your game-changer.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/27a5628fb490cf40d880178c53c4f35f2120a6ab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191422Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8373dd2954fd6adc1a5e74d9fac1e4d3743100669309abc1a23e7e655638d83c",
+    "social_links": [
+        "https://www.linkedin.com/company/honasoftware",
+        "https://twitter.com/honasoftware",
+        "https://www.facebook.com/honasoftware",
+        "https://www.crunchbase.com/organization/milestones"
+    ],
+    "logo_path": "data/logos\\Hona_logo.png"
+}

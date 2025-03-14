@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/menten-ai",
+    "name": "Menten AI",
+    "headline": "Menten AI designs peptide and protein therapeutics using quantum\u00e2\u0080\u00a6",
+    "batch": "W20",
+    "description": "Menten AI designs protein drugs and enzymes using quantum computing and machine learning. Their technology leapfrogs current computational methods making it possible to design previously intractable proteins. The team created the first protein design algorithm for current and near-term quantum computers and created the world\u00e2\u0080\u0099s first protein designed on a quantum computer. They are now working on 3 new proteins, including a peptide to prevent the spread of viruses like Covid-19. They have 2 paid pilot projects with multinational chemical companies and 4 LOI\u00e2\u0080\u0099s with pharma and biotech companies.",
+    "activity_status": "Active",
+    "website": "http://menten.ai",
+    "founded_date": null,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-powered-drug-discovery; industry:quantum-computing; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Tamas Gorbe, Founder",
+            "description": "TechBio startup founder with hands-on operational and finance experience. Working at the intersection of chemistry, biology, and computer science.\nPassionate about investing and value creation in the Life Science ecosystem.\nOutside of work, I enjoy several different sports activities, such as scuba diving, surfing, MTB, wakeboarding, and have 10 years of triathlon experience.",
+            "linkedin": "https://www.linkedin.com/in/tamasgorbe/"
+        },
+        {
+            "name": "Hans Melo, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/hansmelo/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Menten AI: Pioneering Peptide and Protein Therapeutics with Quantum Computing\n\n**Overview**  \nMenten AI is a groundbreaking company based in San Francisco, forged in the fires of Y Combinator's W20 batch. The company specializes in designing peptide and protein therapeutics by leveraging the power of quantum computing and machine learning. Founded in an era where traditional computational approaches face significant hurdles, Menten AI is charting a new path in drug discovery.\n\n**Mission**  \nThe driving mission of Menten AI is to create powerful therapeutics that can tackle \"undruggable\" targets\u2014essentially, diseases and conditions for which current treatments do not exist or fail to yield effective results.\n\n**Innovative Technology**  \nWhat sets Menten AI apart is its innovative approach that combines physics-based design with generative machine learning. This unique methodology allows them to overcome historical limitations prevalent in drug design, such as small datasets and inefficient sampling methods. In practice, this means they can produce viable drug-like candidates in record time: typically within 8 weeks, compared to the industry standard of 1 to 2 years.\n\nKey milestones for Menten AI include:\n- Development of the first protein design algorithm specifically for current and near-term quantum computers.\n- Creating the world's first protein designed on a quantum computer.\n- Ongoing projects to design three new proteins, with one aimed at preventing the spread of viruses like Covid-19.\n\n**Current Partnerships and Projects**  \nMenten AI is not just an abstract idea; they are currently engaged in tangible projects:\n- They\u2019ve executed two paid pilot projects with multinational chemical companies.\n- They also have four letters of intent (LOIs) from various pharmaceutical and biotech firms eager to collaborate.\n\n**The Future of Drug Design**  \nTheir approach offers a staggering increase in efficiency, boasting a 10,000x greater sampling power with a hit success rate in vitro of over 50%, far surpassing the industry average of around 9%. This method not only promises rapid drug candidate generation but has already validated efficacy at various stages of the preclinical discovery pipeline.\n\nBacked by esteemed investors including Khosla Ventures, Uncork Capital, and Social Impact Capital, Menten AI is not just creating drugs; they are crafting a new paradigm for drug discovery.\n\n**Wrap-Up**  \nMenten AI is poised to revolutionize the biopharmaceutical landscape. By harnessing the capabilities of generative AI and quantum computing, they are pushing the boundaries of what is possible in drug discovery, offering hope against some of the most challenging health threats today.\n\nFor more details, you can visit their website at [menten.ai](http://menten.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/48017a18c91e26d8f550dfd69bdd17e9a799fd2a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191531Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=463244c126fd2ffbe57d630b1f2d62a915937a8a8b478d8d315edc341e503798",
+    "social_links": [
+        "https://www.linkedin.com/company/menten-ai",
+        "https://twitter.com/menten_ai",
+        "https://www.crunchbase.com/organization/menten-biotechnology-labs-inc",
+        "https://github.com/MentenAI"
+    ],
+    "logo_path": "data/logos\\Menten_AI_logo.png"
+}

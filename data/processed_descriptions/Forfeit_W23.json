@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/forfeit",
+    "name": "Forfeit",
+    "headline": "An app that takes your money if you don't complete your habits.",
+    "batch": "W23",
+    "description": "Say what you're going to do, when you're going to do it, and how much money you'll forfeit if you don't do it. Send photo or timelapse evidence of you completing the habit by the time you set, or we take your money.\r\n\nEg, I could set it to go to the gym (or meditate for 30 mins, or take a photo of a sent email, or of a max amount of calories on MyFitnessPal) tomorrow at 6am, or lose $30. If I don't send photo evidence in the gym (that we manually approve), I lose $30.",
+    "activity_status": "Active",
+    "website": "https://www.forfeit.app/",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:mental-health-tech; industry:consumer; industry:fitness; industry:productivity; industry:digital-health; location:new-york",
+    "founders": [
+        {
+            "name": "Josh Mitchell, Founder",
+            "description": "Grew up in a village near Manchester, England. Was really into building 3D printers/CNC machines as a kid, went to Stanford for 2 years, and dropped out to do YC.",
+            "linkedin": "https://www.linkedin.com/in/josh-mitchell-252b2a182/"
+        },
+        {
+            "name": "Eddie Raven, Founder",
+            "description": "Went straight into industry as a software engineer after graduating high school. Now working on Forfeit.",
+            "linkedin": "https://www.linkedin.com/in/eddie-raven-1a7b6a24b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Forfeit: Locking Down Habits with a Penalty\n\n#### Overview\nFounded in 2022 and hailing from the Y Combinator Batch W23, Forfeit is a unique productivity app situated in New York that's on a mission to help users cement their habits\u2014under the threat of losing their own money. The central idea is straightforward, yet powerful: declare what you plan to do, set a deadline, and attach a financial penalty if you don\u2019t deliver. If you fail to submit proof of your completion\u2014be it a photo or a timelapse\u2014your stake is gone.\n\n### How It Works\n1. **Set Your Intentions**: You articulate a specific habit or task, along with a time frame for completion and the amount of money you'll lose if you don't follow through.\n2. **Provide Evidence**: By your deadline, send proof via a photo or capture a timelapse of you completing the task.\n3. **Verification**: Your submission is either verified by AI or a human, ensuring accountability.\n4. **Consequences**: Miss the deadline or provide invalid proof? Sorry, you lose the stake.\n\n#### Why It Matters\nIn a world rife with distractions, Forfeit taps into the psychology of accountability. It\u2019s the digital version of putting your money where your mouth is. With features that allow syncing with platforms like Apple Health or using timelapses, it's designed for everyone\u2014from fitness buffs wanting to hit the gym regularly to students trying to meet their study goals.\n\n### Statistics That Speak\n- **Forfeits Set**: 371k\n- **Total USD Staked**: $4.7M\n- **Success Rate**: An impressive 94.2%\n\n#### Target Audience\nForfeit appeals to those serious about enhancing their productivity\u2014particularly individuals battling procrastination, and even those with mental health challenges (like ADHD) that make sticking to habits troublesome. It\u2019s like having a financial coach at your fingertips.\n\n### User Experiences\nTestimonials paint a rosy picture. Users report life-altering outcomes\u2014better mental health, improved fitness, and a newfound sense of discipline. Whether it\u2019s Zane from the USA, who feels his life\u2019s trajectory would\u2019ve changed if this app had been around longer, or Brice in Austria, who credits Forfeit for his turn from a habit-breaking lifestyle to achieving tangible goals, the stories resonate.\n\n### The Team\nWith a minimalist setup of just two employees, Forfeit remains agile. They're backed by Dalton Caldwell as a group partner, showcasing the commitment to maintaining high operational standards.\n\n### The Future\nImagine a feature where failed forfeits could automatically contribute to a charity or a friend. That\u2019s the think tank behind Forfeit\u2014constantly evolving to provide more value to users.\n\n### In Summary\nForfeit isn\u2019t just an app; it's a commitment device that flips the script on willpower. If achieving your goals often feels like a tug-of-war with your own motivation, Forfeit could be the ally you need\u2014just beware, those stakes can truly hurt. If you're ready to test your resolve, why not give it a shot?",
+    "logo": "/logos/medium/missing.png",
+    "social_links": []
+}

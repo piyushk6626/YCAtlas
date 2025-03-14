@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/terminal",
+    "name": "Terminal",
+    "headline": "Plaid for Telematics Data in Commercial Trucking",
+    "batch": "S23",
+    "description": "Terminal is Plaid for telematics data in commercial trucking. Companies building next generation insurance products, financial services and fleet software for trucking use our Universal API to access GPS data, speeding data and vehicle stats.\r\n\nRaghav (CEO) and Connor (CTO) led product and engineering at a series b-funded neobank where they spent 2.5 years integrating middleware APIs like Plaid & Stripe. Before that, Connor spent 3 years building software for his family-owned logistics company which was acquired by a private equity firm. Raghav\u2019s family is in fleet operations and owns an HVAC company in San Francisco where they operate a fleet of 13 commercial vehicles.",
+    "activity_status": "Active",
+    "website": "https://www.withterminal.com/",
+    "founded_date": 2023.0,
+    "team_size": 9.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:logistics; industry:api; industry:supply-chain; industry:transportation",
+    "founders": [
+        {
+            "name": "Raghav Midha, Founder",
+            "description": "CEO & Co-Founder of Terminal (S23)",
+            "linkedin": "https://linkedin.com/in/raghavmidha"
+        },
+        {
+            "name": "Connor Giles, Founder",
+            "description": "CTO & Co-Founder of Terminal (S23)",
+            "linkedin": "https://linkedin.com/in/connorgiles"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Terminal**\n\n*Founded:* 2023  \n*Location:* Toronto, Canada  \n*Team Size:* 9  \n*Founders:* Raghav (CEO) and Connor (CTO)  \n*Y Combinator Batch:* S23  \n*Website:* [www.withterminal.com](https://www.withterminal.com)\n\n### Mission\n\nTerminal aims to be the \"Plaid for telematics data\" in commercial trucking. Essentially, they provide a universal API that enables companies\u2014particularly in insurance, financial services, and fleet management\u2014to easily access crucial telematics data like GPS locations, speed metrics, and vehicle statistics. By streamlining this process, they aim to eliminate the cumbersome integrations typically associated with telematics solutions.\n\n### Founders' Background\n\nRaghav and Connor have a rich history in both tech and logistics. They previously led product and engineering teams at a Series B-funded neobank, gaining invaluable experience integrating middleware APIs like Plaid and Stripe. Connor's hands-on experience in logistics comes from building software for his family\u2019s logistics company, which was acquired by a private equity firm, while Raghav has a personal connection to fleet operations through his family's HVAC company, managing a fleet of 13 commercial vehicles. \n\n### Product Advantage\n\nTerminal's key selling proposition lies in its ability to:\n- **Normalize Data:** They provide a unified data model that reduces the need for time-consuming transformations and solves common API idiosyncrasies.\n- **Rapid Integrations:** Their single API allows businesses to launch telematics integrations within minutes, rather than the weeks or months often required by competitors.\n- **Focus on Core Development:** By taking on the integrations, Terminal enables developers to focus on crafting features that provide real value to their customers.\n\n### Target Customers\n\nTerminal is tailored for various industries, including:\n- **Fleet Management:** Unifying data across multiple sources to derive fleet performance insights.\n- **Carrier TMS:** Integrating various ELD (Electronic Logging Devices) providers to increase revenue.\n- **Digital Brokerage:** Building customized solutions for visibility needs.\n- **Insurance:** Leveraging telematics data for better product offerings.\n- **Factoring and Fuel Cards:** Providing data that helps verify deliveries and monitor fuel usage/behaviors.\n\n### Conclusion\n\nWith its innovative approach to telematics data integration, Terminal is uniquely positioned to transform how trucking companies access and analyze their vehicle data. Backed by Y Combinator and a passionate team, they are set to make waves in the commercial trucking industry. If you want to see them in action, feel free to [book a demo](https://www.withterminal.com/<https:/calendly.com/raghav-midha/30min>) or dive into their [documentation](https://www.withterminal.com/<https:/docs.withterminal.com/>).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f5ad6c1db37906304498f990e428467bc8920d0e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192011Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ffc466359e6ec072d00f911e8595429e6385d6d45b4f861588024bb3e7202bb2",
+    "social_links": [
+        "https://www.linkedin.com/company/terminal-api",
+        "https://x.com/withterminal",
+        "https://www.crunchbase.com/organization/terminal-4fea"
+    ],
+    "logo_path": "data/logos\\Terminal_logo.png"
+}

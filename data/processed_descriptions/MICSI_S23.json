@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/micsi",
+    "name": "MICSI",
+    "headline": "Higher resolution MRI with faster scan times.",
+    "batch": "S23",
+    "description": "MICSI is introducing AI software that doubles resolution and halves scan time. This breakthrough enables imaging centers to significantly enhance their capacity and patient throughput, potentially saving countless lives and generating an additional $2 million of revenue per MRI scanner. Our initial offering serves as a stepping stone toward the company\u2019s larger vision of transforming the MRI into a truly quantitative instrument that is capable of providing highly reproducible data for more accurate diagnoses and patient management.",
+    "activity_status": "Active",
+    "website": "https://www.micsi.co/",
+    "founded_date": 2018.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:computer-vision; industry:medical-devices; industry:healthcare; location:new-york",
+    "founders": [
+        {
+            "name": "Gregory Lemberskiy, Founder",
+            "description": "Gregory Lemberskiy (CEO) co-founded MICSI with goal of bringing cutting edge image processing tools, that he encountered in the research setting into clinical practice. His PhD work (2019) focused on algorithm development for image enhancement and biophysical modeling of the MRI signal. His methods have been used to enable high-end quality on low field MRI systems through noise reduction (MICSI\u2019s first product) and use MRI to characterize the physical properties of prostate glandular lumen.",
+            "linkedin": "https://linkedin.com/in/gregory-lemberskiy"
+        },
+        {
+            "name": "Benjamin Ades-Aron, Founder",
+            "description": "I got my PhD in electrical engineering in 2022 from NYU, where I specialized in developing machine learning based computer vision algorithms for the visualization of MRI data. I specialize in developing software to process and route diffusion and functional MRI data, with a goal of improving image signal, reducing noise, and producing clinically viable diagnostic imaging biomarkers.",
+            "linkedin": "https://linkedin.com/in/benjamin-aron-b0313349"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: MICSI\n\nFounded in 2018, MICSI (Microstructure Imaging Inc.) operates out of New York and is a part of Y Combinator's Batch S23. With a small yet focused team of two, the company is on a mission to revolutionize magnetic resonance imaging (MRI) by introducing advanced AI software that significantly enhances the quality of MRI scans while drastically reducing their duration.\n\n### Mission and Achievements\n\nThe primary goal of MICSI is to provide higher resolution MRIs with faster scan times. Their innovative software doubles the resolution of images and halves the scan time, resulting in substantial benefits for both imaging centers and patients. The potential to save lives is a central tenet of their mission, as the improved efficiency can lead to quicker diagnoses and treatments. Financially, facilities using MICSI's technology could see an uptick of up to $2 million per MRI scanner annually.\n\nThe company\u2019s flagship product, MICSI-RMT, is FDA-approved and utilizes a unique MP-PCA denoising algorithm. This method effectively reduces noise levels in MRI images by four times, preserving the anatomical integrity that is crucial for accurate diagnosis. By allowing fewer images to be taken per session, MICSI improves patient comfort and accelerates throughput at imaging centers.\n\n### Technology and Market Impact\n\nMICSI targets the healthcare sectors, specifically focusing on creating a more accessible and cost-effective MRI experience. The software enhances both diffusion and functional MRI quality, and through rigorous clinical research, it has been validated for its efficacy. Their approach is not merely about better images; it's also about revolutionizing how MRIs are performed and utilized across the healthcare system.\n\nPatients benefit from a reduced need for repeat scans, not only enhancing their experience but also streamlining processes within medical facilities. The technology is designed to make advanced imaging methods simpler and more widely available, bridging the gap between high-field MRIs and accessibility.\n\n### Current Focus and Future Directions\n\nGoing forward, MICSI is set to expand its impact in different medical contexts, such as brain and prostate imaging. They are actively engaging in partnerships and seeking opportunities to present their solution at industry events, recently being recognized as a semi-finalist for the best new radiology software by AuntMinnie.com.\n\nIn summary, MICSI stands at the forefront of a vital transformation in medical imaging. By marrying advanced computer vision technology with critical healthcare needs, they've positioned themselves as a key player in making MRIs not only better but also significantly more efficient\u2014a true game-changer in the field of healthcare imaging.\n\nFor more information, check out their website [here](https://www.micsi.co/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/edf1d510224c59a2638a7e4729aa6a5cf32ce5f0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191536Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=69695b12f7447035ee8268ea45f8ed2f2a9e82d670f43be58d6f064018657bb4",
+    "social_links": [
+        "https://www.linkedin.com/company/microstructure-imaging-inc/"
+    ],
+    "logo_path": "data/logos\\MICSI_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/cloudchipr",
+    "name": "Cloudchipr",
+    "headline": "Workflow Automation for Cloud Operations",
+    "batch": "W23",
+    "description": "Cloudchipr helps engineering and finance teams save time and money by automating cloud operations. With Cloudchipr, teams can schedule different automated workflows that send Slack alerts, build Tableau charts, create Jira tickets, and deactivate unused resources across all major cloud platforms. It\u2019s like Zapier for cloud ops.",
+    "activity_status": "Active",
+    "website": "https://cloudchipr.com/",
+    "founded_date": 2022.0,
+    "team_size": 8.0,
+    "location": "Berlin, Germany",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:finops; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Ashot Ayvazyan, Founder",
+            "description": "Ashot is an engineer and entrepreneur with a computer science background and 14 years of experience in the design, implementation, and operations of distributed computing systems based on cloud and bare metal infrastructures. Now he is the Co-founder and CEO at Cloudchipr, which helps companies to reduce their cloud costs with infrastructure optimisation automation workflows.",
+            "linkedin": "https://www.linkedin.com/in/ashotayvazyan/"
+        },
+        {
+            "name": "Suren Marashlyan, Founder",
+            "description": "Suren is a software engineer and entrepreneur with a math and computer science background. He has 10+ years of experience in computer software design and development. Now he is the Co-founder and VP of Engineering at Cloudchipr, which helps companies to reduce their cloud costs with infrastructure optimization automation workflows.",
+            "linkedin": "https://www.linkedin.com/in/surenmarashlyan"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Cloudchipr: Simplifying Cloud Operations through Automation**\n\nFounded in 2022, Cloudchipr is a Y Combinator-backed startup based in Berlin, Germany, striving to save engineering and finance teams time and money with its automation platform dedicated to cloud operations. The essence of their mission is simple yet powerful: if you can automate it, you should. \n\nThink of Cloudchipr as the Zapier for cloud operations. It allows teams to create scheduled workflows that can send alerts via Slack, build visualizations in Tableau, generate Jira tickets, and deactivate unused resources\u2014all across major cloud platforms. This means reduced time spent on mundane tasks and increased efficiency in managing cloud environments.\n\nWith a compact and efficient team of just 8 employees, Cloudchipr is making waves in several fields, particularly in developer tools, financial operations (FinOps), SaaS, and B2B services. The platform enables users to visualize cloud costs through real-time dashboards, explore resource usage, and implement no-code automations with ease. \n\n### What Can You Do with Cloudchipr?\n- **Dashboards**: Track and predict your costs effortlessly.\n- **Resource Explorer**: Dive into your multi-cloud costs in just a few clicks.\n- **Live Management**: Manage live resources across all clouds from a unified platform.\n- **Automations**: Set up no-code workflows to automate your cloud operations.\n- **Collaboration Tools**: Improve teamwork with real-time communication features.\n\nCloudchipr caters to three main personas: FinOps teams seeking to optimize and operate cloud finances, engineering teams looking for insights and real-time automation, and leadership needing a consolidated view of cloud expenditures.\n\n### Results that Speak for Themselves\nThe numbers are compelling. On average, customers save over $180,000 per month and gain back up to 200 hours of engineering time monthly. Total savings reported by users have surpassed $50 million thus far, showcasing how automating cloud operations can lead to substantial financial benefits.\n\n### The Security Angle\nIn an age where data security is paramount, Cloudchipr meets enterprise-grade security compliance, follows strict data policies, and ensures that sensitive data remains outside their reach.\n\nIf you're considering a way to streamline your cloud operations, Cloudchipr provides a free trial to get you started without any financial commitment. Their website is clean and user-friendly\u2014you can start experimenting with the platform in just a few minutes.\n\nFor anyone operating in the complex realm of cloud services, the insights, automation, and cost savings that Cloudchipr brings could redefine their operational efficiency and strategic planning. \n\nNeed to see for yourself? Check out their site: [Cloudchipr](https://cloudchipr.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6bcff7ffa2c9399a63ff0c9f6246065229b44bae.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191054Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=60014e728586784411c21a1533d1840b8fb556d3b984a6c11c81447611fdb86a",
+    "social_links": [
+        "https://www.linkedin.com/company/cloudchipr",
+        "https://twitter.com/cloudchipr",
+        "https://facebook.com/cloudchipr",
+        "https://www.crunchbase.com/organization/cloudchipr"
+    ],
+    "logo_path": "data/logos\\Cloudchipr_logo.png"
+}

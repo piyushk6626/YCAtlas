@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/evidently-ai",
+    "name": "Evidently AI",
+    "headline": "Open-source monitoring for machine learning models",
+    "batch": "S21",
+    "description": "We are building an open-source standard to monitor ML models in production. The tool is used by enterprise data science teams to operate their models reliably and detect and resolve issues.",
+    "activity_status": "Active",
+    "website": "https://evidentlyai.com",
+    "founded_date": 2020.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:machine-learning; industry:b2b; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Elena Samuylova, Founder",
+            "description": "- CEO and Co-founder Evidently AI\n- Spent 7 years helping large enterprises deploy ML systems\n- Previously built an industrial AI startup focused on steel and chemical markets\n- Led business development for an enterprise ML division at Yandex (NASDAQ:YNDX)",
+            "linkedin": "https://www.linkedin.com/in/elenasamuylova/"
+        },
+        {
+            "name": "Emeli Dral, Founder",
+            "description": "- CTO and Co-founder Evidently AI\n- Co-author of the most popular Coursera course on ML in the Russian language with 100K+ students\n- 50+ real-world ML projects from e-commerce to manufacturing \n- Ex-Chief Data Scientist at Yandex Data Factory, enterprise ML division at Yandex",
+            "linkedin": "https://www.linkedin.com/in/emelidral/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Evidently AI: Open-Source Machine Learning Monitoring**\n\nFounded in 2020 and part of Y Combinator\u2019s Batch S21, Evidently AI is a small but mighty company based in San Francisco, focused on creating open-source tools for monitoring machine learning (ML) models. The mission? To establish a standard that helps enterprises manage their ML models in production reliably.\n\n### What They Do\nEvidently AI developed a comprehensive platform that allows data science teams to monitor key performance indicators of their ML models. This includes tracking data drift, validating data quality, and ensuring that models perform as expected in real-world conditions. They also emphasize community and collaboration\u2014providing resources like tutorials, benchmarks, and a dedicated community for support.\n\nTheir core product offerings include:\n- **LLM Observability**: Tools for monitoring large language models in various applications from chatbots to AI assistants.\n- **ML Observability**: A system for overseeing data quality and model performance in predictive tasks.\n- **Open-Source Library**: Their library has over 25 million downloads, reflecting a robust community engagement and usability.\n\n### The Team\nEvidently AI operates with a lean team of just two employees. This small structure allows for agility and a focused approach to product development. Nicolas Dessaigne, a notable figure in the tech community, serves as a Group Partner.\n\n### Role in the AI Ecosystem\nAs a developer tool, Evidently AI stands out by not just focusing on model creation but on maintaining model performance and reliability over time. Companies can leverage their offerings to preemptively spot issues and make informed decisions based on insights drawn from real-time data analysis.\n\n### Community Impact\nWith thousands of companies\u2014from fledgling startups to established enterprises\u2014utilizing their tools, Evidently AI has become entrenched in the AI observability landscape. Users rave about its efficiency in monitoring model performance and data quality, calling it a \"Swiss army knife\" for ML.\n\nIn a tech environment that often emphasizes innovation at all costs, Evidently AI provides a refreshing reminder: Monitoring and quality assurance are just as crucial as the initial model building.\n\n### Conclusion\nIn the ever-evolving world of AI, Evidently AI is carving out a niche by combining open-source accessibility with powerful monitoring capabilities, encouraging collaboration among engineers and fostering an active community. For those looking to ensure the integrity and performance of their ML models, Evidently AI is worth considering. You can explore their offerings further at [Evidently AI](https://evidentlyai.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a33847a6843f9d5c4f40c18c00044cfb898d4384.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191323Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=530abcd5bea177a775be26b85d8a327135ee36a5a7f5893fea47069237d2d1d5",
+    "social_links": [
+        "https://www.linkedin.com/company/37508785",
+        "https://twitter.com/EvidentlyAI",
+        "https://github.com/evidentlyai"
+    ],
+    "logo_path": "data/logos\\Evidently_AI_logo.png"
+}

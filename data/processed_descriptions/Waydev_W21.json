@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/waydev",
+    "name": "Waydev",
+    "headline": "AI Agents for Software Engineering Intelligence (SEI) market",
+    "batch": "W21",
+    "description": "AI Agents for Engineering Leadership. Designed to boost productivity, predict outcomes, and support team well-being, these agents will provide insights into team mood and challenges and offer practical improvement suggestions.",
+    "activity_status": "Active",
+    "website": "https://waydev.co",
+    "founded_date": 2017.0,
+    "team_size": 15.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:analytics; industry:enterprise; industry:data-engineering; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alex Circei, Founder",
+            "description": "Chat GPT 4 Description: \n\nAlex Circei is an entrepreneur and technology professional. He is the co-founder and CEO of Waydev, an analytics platform for engineering leaders. Waydev helps engineering managers and executives gain insights into their software development teams' performance by analyzing codebases, pull requests, and other development metrics.\n\nBefore founding Waydev, Alex Circei had been involved in multiple technology companies and projects, gaining experience in software developmen",
+            "linkedin": "https://www.linkedin.com/in/alexcircei"
+        },
+        {
+            "name": "Valentin Buzea, Founder",
+            "description": "Software is eating the world, but we are not data-driven in understanding software development.\n\nMost of the software development reports are related to manual input from engineers, Waydev generates useful reports for managers, without the input of the engineers.\n\nWaydev provides value with real-time metrics for your daily stand-ups, 1-to-1 meetings, history of your engineers' work, and benchmarking the stats with the industry average.",
+            "linkedin": "https://www.linkedin.com/in/valentinbuzea/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Waydev: Your AI Ally in Software Engineering Intelligence**\n\nFounded in 2017 and backed by Y Combinator, Waydev is a San Francisco-based startup that\u2019s setting the stage for AI-driven insights in software engineering. With a lean team of 15, their mission is clear: harness the power of artificial intelligence to enhance productivity and boost team well-being in software development.\n\nInitially targeting engineering leadership, Waydev has evolved to provide AI agents that predict project outcomes, assess team sentiment, and offer actionable suggestions to improve workflows. This focus is not just on metrics but also on nurturing the health and morale of teams\u2014something that can often be overlooked in the demanding tech landscape.\n\nWaydev operates within the growing Software Engineering Intelligence (SEI) market, a niche that\u2019s becoming increasingly vital as organizations strive to streamline operations. Features like DORA metrics, cycle time analysis, and pull request insights provide real-time visibility into software delivery efficiency, allowing companies to fine-tune their engineering processes with precision.\n\nWhat really sets Waydev apart is its commitment to integrating seamlessly with existing engineering tools. Its platform collects data from various sources\u2014think git repositories, ticketing systems, and CI/CD pipelines\u2014to give a cohesive view of team performance. This means that rather than complex manual reporting, teams can focus on innovation and delivery.\n\nAs a recognized market leader\u2014evidence by their accolades on platforms like G2\u2014Waydev is gaining traction among companies of all sizes, including Fortune 500 enterprises. Its user-friendly interface and robust analytics capabilities not only help teams increase throughput but also ensure their efforts align with broader business objectives.\n\nIn a world where the pace of software development never ceases, Waydev stands as a vital partner for engineering teams that want to thrive. If you\u2019re looking to transform your engineering processes with AI-driven insights, Waydev offers a compelling solution that promises to make the invisible\u2014visible. You can explore more about Waydev and their offerings by visiting their [website](https://waydev.co).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6687b75edf53473c0ea3a4049fcfb8243413b52b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192056Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=869830052b6470ea2f5863ea1804a4947f9189b0ace5acda100c1bb8335210a1",
+    "social_links": [
+        "https://www.linkedin.com/company/waydev",
+        "https://twitter.com/waydevco",
+        "https://www.facebook.com/waydevco",
+        "https://www.crunchbase.com/organization/waydev",
+        "https://github.com/waydevco"
+    ],
+    "logo_path": "data/logos\\Waydev_logo.png"
+}

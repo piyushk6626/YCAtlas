@@ -1,0 +1,25 @@
+{
+    "links": "https://www.ycombinator.com/companies/increase",
+    "name": "Increase",
+    "headline": "Enterprise-grade banking APIs",
+    "batch": "S20",
+    "description": "Modern banking infrastructure that enables technology companies to programmatically store, move, and reconcile money.",
+    "activity_status": "Active",
+    "website": "https://increase.com/",
+    "founded_date": 2020.0,
+    "team_size": 15.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech",
+    "founders": [],
+    "status": true,
+    "generated_description": "**Company Overview: Increase**\n\n**Founded:** 2020  \n**Headquarters:** San Francisco, California  \n**Team Size:** 15 employees  \n**Y Combinator Batch:** S20  \n**Website:** [increase.com](https://increase.com)  \n**Industry Tag:** Fintech  \n\n---\n\n**Mission:**\nIncrease is on a mission to provide enterprise-grade banking APIs that empower technology companies to seamlessly store, move, and reconcile money at scale. \n\n---\n\n**What They Do:**\nInitially aimed at revolutionizing modern banking infrastructure, Increase offers an extensive suite of tools tailored for technology companies. This isn't just about payments; it\u2019s about redefining how money moves, with direct connections to the Federal Reserve, Visa, and other major financial networks. \n\nIncrease's products include:\n\n- **ACH Transfers:** Programmatically send and receive ACH payments with same-day processing.\n- **Bank Accounts:** Users can create unlimited account numbers that are FDIC insured.\n- **Card Program:** Offers the ability to issue custom physical and virtual cards, complete with real-time authorizations.\n- **Checks & Wires:** Facilitates sending checks globally and initiating instantaneous wire transfers.\n- **Real-Time Payments:** Move money to accounts at major banks within seconds.\n\nThey also emphasize flexibility and transparency, allowing developers to access powerful tools without being bogged down by outdated legacy systems.\n\n---\n\n**Noteworthy Features:**\n- **Bare-Metal APIs:** Direct access to intricate banking systems without unnecessary abstraction.\n- **Instant Settlement Tracking:** Live updates on transaction settlements from the Federal Reserve.\n- **Custom Compliance Solutions:** Tailored to meet the unique needs of each client.\n\n---\n\n**Partnerships:**\nIncrease partners with notable companies like **Modern Treasury** and **Ramp**, showcasing its capability to support fast-growing businesses in need of high-quality banking technology.\n\n---\n\n**Conclusion:**\nIn just a few years, Increase has carved a niche for itself in the fintech space by focusing on robust, flexible, and developer-friendly banking solutions. They not only provide the technology but also advocate for their clients, assisting them in navigating the complexities of the financial ecosystem.\n\nFor more details about their offerings, feel free to explore their [website](https://increase.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f4974d26a6bdb64a7bc82e1a0b99f7c4eb96d648.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191429Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0f2ba7f7f3f8f0cc764213f6d2f9452e309977d1794fc68c37153bc46c003457",
+    "social_links": [
+        "https://github.com/increase"
+    ],
+    "logo_path": "data/logos\\Increase_logo.png"
+}

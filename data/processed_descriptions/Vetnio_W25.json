@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/vetnio",
+    "name": "Vetnio",
+    "headline": "Streamlining admin work for veterinary professionals",
+    "batch": "W25",
+    "description": "Veterinarians spend 40% of their time on admin work, >20% on note taking alone. We're here to change that so they can focus on what really matters - providing the best care possible for animals.",
+    "activity_status": "Active",
+    "website": "https://vetnio.com/",
+    "founded_date": 2024.0,
+    "team_size": 8.0,
+    "location": null,
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:ai",
+    "founders": [
+        {
+            "name": "Arman Kar\u00e9gar, Founder",
+            "description": "Founded three companies and served as the youngest board member ever for two firms with a combined turnover of 100 million euros. Elected politician during university and have 20 years of expertise in audio processing; from optimizing voice recordings to designing custom instruments by shaping waveforms using oscillators, envelopes, and LFOs. Master's in Industrial Engineering and Management from KTH Royal Institute of Technology, with additional studies at Nanyang Technological Institute.",
+            "linkedin": "https://linkedin.com/in/armankaregar"
+        },
+        {
+            "name": "Max Henry Xie, Founder",
+            "description": "Second time technical founder with years of machine learning, and data science experience. Self-taught full stack developer since childhood with numerous hackathon wins. Implemented machine learning models from scratch for fraud detection at big banks. Studied industrial engineering and management at KTH (Stockholm). Dropped out of school to work Accenture (deployed engineer), then Paypal (data scientist) before founding first his start-up.",
+            "linkedin": "https://linkedin.com/in/max-henry-xie"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Vetnio: Streamlining Veterinary Administration with AI**\n\nFounded in 2024 and a proud participant in Y Combinator's W25 batch, Vetnio is on a mission to revolutionize how veterinary professionals manage their administrative tasks. With an impressive insight that veterinarians spend around 40% of their time on administrative work, including over 20% just on note-taking, Vetnio aims to free them up to focus where it really counts \u2014 caring for animals.\n\nLocated in an undisclosed location with a tight-knit team of 8, Vetnio utilizes artificial intelligence to simplify the note-taking process during veterinary consultations. Picture this: a veterinarian can just conduct their meeting as usual, and at the end, Vetnio's technology automatically generates comprehensive clinical notes. This not only saves time but also enhances accuracy in record-keeping without the need for disruptive procedural changes.\n\n### Key Features:\n- **Automatic Note Generation**: Virtually eliminates the tedious task of manually documenting meetings. \n- **User-Friendly**: Can seamlessly integrate with existing electronic medical records and practice management systems without replacing them.\n- **Accessibility**: Operates across devices, from mobile phones to computers, making it easy to use without special equipment.\n- **GDPR-Compliant**: With a strong focus on data privacy, all data is stored within the EU, ensuring compliance with regulations. \n\n### Why Vetnio Matters:\nPet care professionals are dedicated to their craft; however, the burden of administration has historically taken a toll on their efficiency and effectiveness. By integrating Vetnio's system, veterinarians can reclaim precious time, allowing them to devote more energy to their patients. \n\nBacked by Y Combinator and led by Group Partner Gustaf Alstromer, Vetnio is set to make a significant impact in the veterinary field by leveraging technology to bring a vital change in how veterinary care is delivered.\n\nYou can explore more about Vetnio and their innovative solutions at [vetnio.com](https://vetnio.com). \n\nIn a nutshell, Vetnio is about pushing boundaries in veterinary care, where the focus should be on healing, not paperwork. That's a goal worth pursuing.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/907d1e5454d7771a7bf369c604fdb02fd25dd4b4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192047Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c3f67173fe046461cd81c661d8727e76c12768a56f46322a5be2bac8ce3c55d8",
+    "social_links": [
+        "https://www.linkedin.com/company/vetnio"
+    ],
+    "logo_path": "data/logos\\Vetnio_logo.png"
+}

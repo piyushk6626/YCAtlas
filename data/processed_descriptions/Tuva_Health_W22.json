@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/tuva-health",
+    "name": "Tuva Health",
+    "headline": "Open source software that cleans and transforms messy healthcare data.",
+    "batch": "W22",
+    "description": "At Tuva Health, we make open source software that cleans and transforms messy healthcare data.  We\u2019re founded by Aaron Neiderhiser and Coco Zuloaga, former senior execs from Health Catalyst and Strive Health.  We realized data transformation and data quality is the fundamental problem preventing the healthcare industry from building scalable data products.  We launched Tuva and joined the W22 batch of Y Combinator to solve this problem for the entire industry.  Since January 1st, we signed our first customer (paying $10k per month) and completed the first major release of the Tuva Project.  At Tuva, our goal is to (1) become the open standard for healthcare data transformation and (2) build the data network for multi-site benchmarking, research, and machine learning on top of this open standard.",
+    "activity_status": "Active",
+    "website": "https://tuvahealth.com/",
+    "founded_date": 2021.0,
+    "team_size": 3.0,
+    "location": "Salt Lake City, UT",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:digital-health",
+    "founders": [
+        {
+            "name": "Aaron Neiderhiser, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/aaronneiderhiser/"
+        },
+        {
+            "name": "Coco Zuloaga, Founder",
+            "description": "Before co-founding Tuva, I worked at Strive Health as VP of Data Science, where I focused on using techniques in machine learning, statistics, and analytics engineering to improve outcomes in value-based care. Prior to Strive Health I served in leading data science roles at different healthcare tech companies. Before my life in data science I was a mathematician and physicist doing research in high-performance scientific computation.",
+            "linkedin": "https://www.linkedin.com/in/jorge-zuloaga/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Tuva Health: Transforming Healthcare Data with Open Source\n\n**Overview**\nFounded in 2021 by Aaron Neiderhiser and Coco Zuloaga, Tuva Health is a Salt Lake City-based startup focused on solving a fundamental issue in the healthcare sphere\u2014data quality and transformation. With their roots at Health Catalyst and Strive Health, the founders recognized that messy healthcare data hampers the creation of scalable data products. To tackle this, they launched Tuva Health and joined the W22 batch of Y Combinator.\n\n**Mission**\nTuva's mission is clear: to create open-source software that cleans and transforms messy healthcare data. They aim to establish themselves as the open standard for healthcare data transformation while building a data network for multi-site benchmarking, research, and machine learning.\n\n**Key Milestones**\n- **Launch Date**: 2021\n- **Y Combinator Batch**: W22\n- **First Customer Signed**: January 1st, 2023, for a recurring $10,000 per month.\n- **First Major Release**: Completed shortly after signing their first customer, marking a significant milestone in their early growth.\n\n**The Team**\nCurrently, Tuva boasts a compact team of three, including experienced founders who leverage their backgrounds in healthcare to shape the platform. Jared Friedman serves as a group partner, adding further credibility and expertise to their venture.\n\n**Product Offering**\nTuva markets its service as a fully managed data platform that operates within clients' cloud data warehouses (like Snowflake and Databricks). This platform helps healthcare organizations aggregate claims data, normalize clinical datasets, and generate analytics quickly\u2014often at a fraction of the cost compared to traditional solutions.\n\n### Customer Testimonials\nTuva has already begun attracting positive feedback from its clients:\n- **Masoud Nourmohammadi, CTO at Herself Health**, praised Tuva for allowing them to deliver analytics from various data sources at the cost equivalent of a single full-time employee.\n- **Donald Rauscher, VP Data and Analytics at Tuesday Health**, highlighted the platform as a lifesaver that enables his team to focus more on analytics rather than data wrangling.\n\n### Why Tuva Health Matters\nTuva Health isn't just another healthcare technology company. They are at the forefront of a significant shift towards open-source solutions in healthcare data management. By democratizing access to high-quality data transformation tools, they are empowering healthcare providers and researchers to leverage analytics effectively without being locked into expensive vendor contracts. Customers often report saving between 50% to 90% on their data platform costs compared to conventional models.\n\n**Conclusion**\nTuva Health is steadily carving its niche in the digital health landscape. With an ambitious mission, a solid foundational team, and a clear focus on open-source software solutions, they're positioned to drive substantial change in how healthcare data is managed and utilized. If you\u2019re looking to innovate in the healthcare sector without breaking the bank, Tuva Health is a name to watch. \n\nFor more information, check out their [website](https://tuvahealth.com) for product details, customer stories, and how they can help streamline your healthcare data processes.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fa7e3c307f824b19b37fbf03c763109369161d9e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192033Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0a02641b116306f204870e851287a0a96907eed57d2a6b32ca90cf5972a9f69c",
+    "social_links": [
+        "https://www.linkedin.com/company/tuva-health/",
+        "https://github.com/tuva-health"
+    ],
+    "logo_path": "data/logos\\Tuva_Health_logo.png"
+}

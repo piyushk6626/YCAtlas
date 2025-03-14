@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/general-analysis",
+    "name": "General Analysis",
+    "headline": "Automated AI Safety and Red Teaming Tools",
+    "batch": "S24",
+    "description": "General Analysis provides a comprehensive suite of AI safety tools, including red-teaming frameworks, interpretability techniques, and more. As AI systems become increasingly capable, their deployment in high-stakes environments poses significant risks\u2014financial, ethical, and otherwise\u2014where errors can lead to substantial consequences. To address these challenges, we offer access to novel tools and methodologies designed to systematically find model failure-modes and enhance model robustness.",
+    "activity_status": "Active",
+    "website": "https://generalanalysis.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:trust-&-safety; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Rez Havaei, Founder",
+            "description": "Rez is the Co-Founder and CEO @ General Analysis. Previously he worked at Jane Street as a trader, as well as NVIDIA and Cohere as an AI researcher. He also helped build an LLM evaluation platform and benchmark at vals.ai as the founding engineer.",
+            "linkedin": "https://www.linkedin.com/in/rez-havaei"
+        }
+    ],
+    "status": true,
+    "generated_description": "**General Analysis: Company Overview**\n\nFounded in 2024 and hailing from Y Combinator's Batch S24, **General Analysis** is a San Francisco-based startup with a sharp focus on enhancing AI safety through automation. With a compact team of just two, they are tackling significant challenges in the realm of artificial intelligence by offering a sophisticated suite of tools aimed primarily at red-teaming, stress testing, and model robustness.\n\n### Mission \nGeneral Analysis is on a mission to create **Automated AI Safety and Red Teaming Tools**. As AI deployments grow in complexity and reach, the risks associated with their use in critical areas also escalate. The company\u2019s solutions are designed to systematically uncover failure modes in AI models and improve their reliability, especially when dealing with situations outside the expected input range\u2014a crucial need in high-stakes environments.\n\n### What They Offer\nTheir offerings include:\n- **Stress Testing Frameworks**: Essential for ensuring AI models can withstand unusual inputs.\n- **Red-Teaming Tools**: Methodologies to challenge AI frameworks to find weaknesses.\n- **Interpretability Techniques**: Ensuring models are not only robust but understandable to users.\n\nBy consolidating various stress testing, jailbreaking methods, and red teaming resources, General Analysis provides a knowledge base that empowers enterprises to safeguard their AI systems effectively.\n\n### Backing and Tags\nThe company is backed by Y Combinator, a significant endorsement in the startup world, signaling strong potential. General Analysis is situated at the intersection of several vital sectors: \n- **Artificial Intelligence**\n- **SaaS (Software as a Service)**\n- **Trust & Safety**\n- **San Francisco Bay Area Innovation**\n\nJared Friedman, a prominent figure in the Y Combinator network, serves as their Group Partner, adding invaluable industry insight and mentorship.\n\n### Conclusion\nIn a world where AI's impact is growing, General Analysis is carving out a niche of utmost importance: the safety and reliability of AI technologies. They are not just building tools; they are building trust in AI by systematically reducing its failure risks. For anyone looking to deep dive into AI safety, their website is a worthwhile stop: [General Analysis](https://generalanalysis.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9a0ab784f298bd4d38fc0fde49a144e2001b934e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191356Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=58f084d81b876999e17b345b72133ac5325c6aa28d841a82a140b81111efb883",
+    "social_links": [
+        "https://github.com/General-Analysis/GA"
+    ],
+    "logo_path": "data/logos\\General_Analysis_logo.png"
+}

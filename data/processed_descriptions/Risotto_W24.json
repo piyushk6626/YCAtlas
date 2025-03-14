@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/risotto",
+    "name": "Risotto",
+    "headline": "Risotto auto-solves IT support requests using AI",
+    "batch": "W24",
+    "description": "Want to apply AI to your IT Helpdesk queue? Risotto helps you grant software access, limit access/permission grants by time, serve knowledge, and get approvals from people like managers. All using natural language directly in chat (AKA \"ChatOps\")\r\n\nIT teams spend too much time manually provisioning software and answering the same question repeatedly. We help them improve resolution times, reduce SaaS spend, and enhance security with 24/7 automated software access and IT support. Check us out at: https://www.tryrisotto.com",
+    "activity_status": "Active",
+    "website": "https://tryrisotto.com",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:compliance; industry:security; industry:enterprise; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Aron Solberg, Founder",
+            "description": "Aron is the founder and CEO of Risotto. When not working on his company he enjoys getting outdoors at every opportunity including hiking, skiing, and sailing.",
+            "linkedin": "https://linkedin.com/in/aronsolberg"
+        },
+        {
+            "name": "Alex Confer, Founder",
+            "description": "Co-founder of Risotto! Formerly Hellosign, Dropbox, Gusto.",
+            "linkedin": "https://linkedin.com/in/aconfer"
+        },
+        {
+            "name": "Chris Paul, Founder",
+            "description": "CTO and co-founder of Risotto. Formerly engineer and lead at HelloSign (YC11), interviewing.io, and Square.",
+            "linkedin": "https://linkedin.com/in/cmpaul/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Risotto: Simplifying IT Support with AI\n\n**Founding Year**: 2023  \n**Location**: San Francisco  \n**Team Size**: 3  \n**Acceleration**: Part of Y Combinator Batch W24\n\n**Mission**: Risotto aims to revolutionize IT support by automating requests through AI, making internal processes smoother and more efficient.\n\nIn an era where IT teams are often bogged down with repetitive tasks, Risotto steps in to provide a powerful solution. The company started with a straightforward premise: Why not use AI to tackle IT Helpdesk requests directly in chat? Through a ChatOps interface, Risotto empowers communication tools like Slack, allowing employees to manage software access, request information, and seek approvals\u2014all via natural language.\n\n### What Does Risotto Do?\nRisotto automates the resolution of IT support queries, translating employee requests into actionable insights without piling up tickets or draining resources. Here\u2019s a closer look at what it offers:\n\n- **24/7 Automated Support**: Employees can access software and knowledge anytime, reducing reliance on IT staff for basic queries.\n- **Enhanced Compliance and Security**: Automated permission management ensures that access to sensitive data is time-limited and appropriately audited.\n- **Cost Efficiency**: By improving resolution times and deflecting up to 60% of tier 1 tickets, Risotto helps organizations cut down on SaaS expenditures and optimize workflow.\n\nThis platform is designed to integrate seamlessly with existing tools, streamlining everything from access requests to knowledge management\u2014all while fostering a culture of self-service and efficiency.\n\n### Key Features\n- **Knowledge Management**: Leverages historical data to deliver quick answers to common IT questions.\n- **Automated Approvals & Access Requests**: Facilitates time-sensitive access to software, improving operational agility.\n- **Ticket and Task Management**: Organizes requests effectively within Slack, minimizing confusion and enhancing transparency.\n\n### Meet the Team\nUnder the guidance of Dalton Caldwell, Risotto\u2019s compact team is focused on making IT support less of a headache and more of a manageable task. With just three dedicated employees, they are committed to refining the platform and expanding its capabilities further.\n\n### Why Choose Risotto?\nIf you're looking to supercharge your IT support operations, Risotto delivers a compelling case for efficiency:\n- **Doubling Your SLA Capacity**: With speed and automation, you can handle more requests in less time.\n- **High Customer Satisfaction**: Maintain a customer satisfaction score of over 90% by resolving issues swiftly.\n- **Adaptability Across Departments**: It serves not just IT but HR, security, and engineering, making it a versatile tool for any organization.\n\n### The Bottom Line\nFounded just this year, Risotto is an innovative new entrant in the tech space, addressing a persistent problem head-on. As remote work becomes the norm, their solution is perfectly positioned to help companies evolve their IT departments into responsive, proactive teams.\n\nCurious about how Risotto can benefit your organization? Check out their [website](https://tryrisotto.com) to book a demo today!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/629b4701d3449b9ee81c76b33444984117b100c6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191725Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=56f6f205056f48651da001c4ae9c9100109317eb1c73ee0745fd32b41b2007ef",
+    "social_links": [
+        "https://www.linkedin.com/company/tryrisotto/"
+    ],
+    "logo_path": "data/logos\\Risotto_logo.png"
+}

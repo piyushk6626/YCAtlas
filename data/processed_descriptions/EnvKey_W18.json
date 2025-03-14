@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/envkey",
+    "name": "EnvKey",
+    "headline": "End-to-end encrypted configuration and secrets management",
+    "batch": "W18",
+    "description": "EnvKey is a developer-friendly, cross-platform, end-to-end encrypted configuration and secrets manager. It can be used to store API keys, database credentials, and other application config securely. \r\n\nEnvKey makes it easy to grant least-privilege access to the developers and servers that need it from a user-friendly UI. Integration takes minutes.\r\n\nUsing EnvKey ensures that no 3rd party, including EnvKey itself, ever has access to your secrets. \r\n\nIt takes a part of your system that used to be error-prone and insecure and makes it just work.",
+    "activity_status": "Active",
+    "website": "https://envkey.com",
+    "founded_date": null,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:security; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Dane Schneider",
+            "description": "Developer and startup guy.",
+            "linkedin": "https://www.linkedin.com/in/daneschneider/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### EnvKey: Your Secure Secrets Management Solution\n\n**Introduction**\nEnvKey is a San Francisco-based startup, proudly part of Y Combinator's Batch W18, focused on end-to-end encrypted secrets and configuration management. With a minimal team of just two employees, EnvKey offers a developer-friendly approach to managing sensitive information like API keys and database credentials safely.\n\n**Mission and Features**\nThe core mission of EnvKey is simple yet crucial in today's tech landscape: to provide secure, encrypted management of configuration and secrets while ensuring no third party, including EnvKey itself, has access to your sensitive data. The tool is designed to make it easy to grant limited access to developers and servers through a user-friendly interface, which ensures integration takes mere minutes.\n\nWith EnvKey, you can:\n- **Prevent security incidents**: Keep secrets away from code, email, and chat applications.\n- **Ship faster**: Avoid configuration bugs and maintain environment consistency.\n- **Tame configuration**: Prevent sprawl and duplication while controlling access and logging everything.\n- **Integrate anywhere**: Compatible with multiple programming languages and platforms, EnvKey works seamlessly with your existing workflows.\n\n**Security First**\nEnvKey employs a zero-knowledge, end-to-end encryption model with out-of-band verification to protect secrets from any unauthorized access, including insiders, ex-employees, and data breaches. This robust security model gives teams peace of mind while boosting productivity through streamlined configuration management.\n\n**Current Updates**\nAs of August 1st, 2024, EnvKey is winding down its cloud service, which will officially shut down on February 1st, 2025. However, the company continues to provide resources and documentation for its users to transition smoothly. You can still visit their website [here](https://envkey.com) to learn more about features, pricing, and how to integrate with various programming languages.\n\n**User Experience and Testimonials**\nThousands of engineers rely on EnvKey to simplify their secrets management. Customers have praised EnvKey for:\n- Seamless onboarding for new developers.\n- Vast productivity improvements in environment setups.\n- Overall efficiency in managing secrets across development, staging, and production.\n\n**Closing Thoughts**\nIn a world where security breaches are becoming increasingly frequent, EnvKey stands out as a reliable solution for secrets management. Its developer-centric design allows teams to focus on building great products without getting bogged down by security concerns. If you're looking for a way to effortlessly manage your application's sensitive information, EnvKey is definitely worth considering.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2772775ff2980a26f8103039b2fc8a9c82d407d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191319Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=25d6a7914be846c16cc3f594565471147f6591fcce51bb575135ae522488b697",
+    "social_links": [
+        "https://twitter.com/EnvKeyConfig",
+        "https://www.crunchbase.com/organization/envkey",
+        "https://github.com/envkey"
+    ],
+    "logo_path": "data/logos\\EnvKey_logo.png"
+}

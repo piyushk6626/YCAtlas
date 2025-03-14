@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/lume-2",
+    "name": "Lume",
+    "headline": "Automate data mapping using AI",
+    "batch": "W23",
+    "description": "Lume automates data mapping using AI. Lume helps teams ingest client data, normalize data from different sources, and create one to many integrations, automatically.",
+    "activity_status": "Active",
+    "website": "https://www.lume.ai",
+    "founded_date": 2022.0,
+    "team_size": 5.0,
+    "location": null,
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:data-engineering; industry:infrastructure",
+    "founders": [
+        {
+            "name": "Robert Ross, Founder",
+            "description": "Co-Founder of Lume (W23) || Stanford CS",
+            "linkedin": "https://www.linkedin.com/in/robertross04"
+        },
+        {
+            "name": "Nicolas Machado, Founder",
+            "description": "Co-Founder of Lume (W23), Stanford AI, Brazilian.",
+            "linkedin": "https://www.linkedin.com/in/machado-nicolas"
+        },
+        {
+            "name": "Nebyou Zewde, Founder",
+            "description": "Co-Founder of Lume, Stanford CS AI, Ethiopian",
+            "linkedin": "https://www.linkedin.com/in/nebyou-zewde-b6ba02157/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Lume: Automating Data Mapping with AI\n\n**Overview:**\nLume is a tech startup that emerged from Y Combinator's W23 batch, shining a light on the often tedious process of data mapping. Founded in 2022, their mission is clear: to automate data mapping using artificial intelligence. By helping teams to integrate and normalize data from various sources seamlessly, Lume positions itself as a valuable ally in the data engineering landscape.\n\n**What They Do:**\nLume provides a robust platform that allows businesses to map, clean, and validate data effortlessly at any stage of their workflow. The process is remarkably user-friendly; teams can either employ a no-code interface or fully leverage API capabilities, depending on their needs. This flexibility is what makes Lume both approachable for non-technical users and powerful for developers.\n\n**Key Features:**\n\n- **Data Mapping & Cleaning:** Lume uses AI to intelligently map and cleanse incoming data, preparing it perfectly for analysis or integration.\n  \n- **Customization:** Users can define target fields and upload source data efficiently, harnessing Lume's AI to take care of the heavy lifting.\n  \n- **Data Validation and Pipeline Management:** Advanced tools ensure the integrity and flow of data are maintained throughout the mapping process.\n  \n- **Enterprise Security:** With certifications like SOC 2 Type II, Lume emphasizes data protection, ensuring compliance with industry standards.\n\n**Current Status:**\nLume has recently celebrated raising **$4.2M in Seed funding**, which underscores the investor confidence in their approach to tackling data integration challenges. With a compact team of five located in an innovative environment, they\u2019re growing fast, catering to both large enterprises and agile startups.\n\n**Why Choose Lume?**\nCompanies are drawn to Lume for its ability to save time and resources. By automating what was once a manual and error-prone process, teams can focus on their core values, boosting productivity significantly. Testimonials indicate that Lume has dramatically reduced the time spent on custom mappings, allowing businesses to enhance their efficiency.\n\n**Connect with Them:**\nYou can explore their offerings further on their [website](https://www.lume.ai), where you can also request a demo or get in touch for personalized support.\n\nLume is not just automating processes; it's redefining them, and that's something every data-driven organization should consider.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2daa571b77842b25d4eeae68f914dfcbe7a9b6bc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191515Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c1061b35fbfefe64feb792cb7d484c0f0315263149c0e068fe52ef859ea21542",
+    "social_links": [
+        "https://www.linkedin.com/company/lume-ai/",
+        "https://twitter.com/TryLume",
+        "https://www.crunchbase.com/organization/lume-ee1a"
+    ],
+    "logo_path": "data/logos\\Lume_logo.png"
+}

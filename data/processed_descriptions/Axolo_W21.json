@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/axolo",
+    "name": "Axolo",
+    "headline": "Improving Developer Experience with Streamlined Code Reviews",
+    "batch": "W21",
+    "description": "Better Code Reviews, Less Hassle, All in Slack\r\n\nAxolo takes your team's code review practices to the next level, integrating seamlessly with Slack to deliver real-time notifications and natural discussions.",
+    "activity_status": "Active",
+    "website": "https://axolo.co",
+    "founded_date": 2021.0,
+    "team_size": 2.0,
+    "location": "Paris, France",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas",
+    "founders": [
+        {
+            "name": "Arthur Coudouy, Founder",
+            "description": "Co-founder & CEO @ axolo.co",
+            "linkedin": "https://www.linkedin.com/in/arthurcoudouy/"
+        },
+        {
+            "name": "Sydney Cohen, Founder",
+            "description": "Founder and maker at heart. Building Axolo, helping dev teams be more productive.",
+            "linkedin": "https://www.linkedin.com/in/cohensydney/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Axolo: Streamlining Developer Experience Through Code Reviews**\n\nFounded in 2021 and part of Y Combinator Batch W21, Axolo is on a mission to improve developer experience by transforming how code reviews are conducted. Nestled in Paris, France, this small but mighty team of two is committed to making developers\u2019 lives easier, particularly when it comes to the often tedious code review process.\n\nInitially branded as \"Better Code Reviews, Less Hassle, All in Slack,\" Axolo seamlessly integrates with Slack, providing real-time notifications and a collaborative environment for discussing pull requests. It doesn't just connect teams; it enhances communication, reduces friction, and boosts productivity.\n\n### What Axolo Does\n\nAxolo is essentially a GitHub Slack bot designed to simplify code reviews. Its key features include:\n- **Instant Feedback**: No more waiting days for code reviews; Axolo automates reminders to ensure timely reviews, speeding up development cycles.\n- **Centralized Communication**: Each pull request gets its own ephemeral Slack channel, keeping discussions organized and context-rich.\n- **Customizable Notifications**: Developers can tailor notification settings to enhance focus and minimize distractions.\n\nThe impact of Axolo is impressive. Users report significant reductions in time-to-merge for pull requests\u2014from an average of 2.40 days down to 1.51 days, just two weeks after implementation. The tool has become a favorite among engineering teams who appreciate how it fosters collaboration while reducing context-switching.\n\n### Why Developers Love Axolo\n\nFeedback from CTOs and engineering leaders speaks volumes:\n- **Enhanced Collaboration**: Axolo is praised for bridging the gap between communication and code reviews\u2014turning what used to be siloed discussions into fluid, real-time collaborations.\n- **Increased Accountability**: With Axolo, ensuring that requests for reviews don't fall through the cracks is much easier, making everyone on the team more accountable for timely feedback.\n\nAxolo's accolades include being recognized as a \"High Performer\" in several categories on platforms like G2, where it boasts an impressive 4.9/5 star rating from users. The tool is quickly becoming a must-have for agile teams looking to improve efficiency and foster a collaborative work environment.\n\nFor those looking to streamline their code reviews and improve overall developer experience, Axolo offers a refreshing solution that integrates well into existing workflows. Interested users can explore its features further on [Axolo's website](https://axolo.co).\n\nIn summary, Axolo is not just an app; it\u2019s a game-changer for developers tired of tangled communication and delayed feedback loops when it comes to code reviews. With its focus on blending productivity with seamless collaboration, it's clear that Axolo is paving the way for a more efficient software development experience.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f0af46d660fe3f70edd75e5c70d77823d537d824.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191015Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=41c421b192ca67d8ca5898c29a3c1279ff309aa817cb1bfbc3ad14e49eb3404b",
+    "social_links": [
+        "https://www.linkedin.com/company/axolo",
+        "https://twitter.com/axolo_co"
+    ],
+    "logo_path": "data/logos\\Axolo_logo.png"
+}

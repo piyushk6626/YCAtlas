@@ -1,0 +1,47 @@
+{
+    "links": "https://www.ycombinator.com/companies/ultra",
+    "name": "Ultra",
+    "headline": "Robots to package billions of e-commerce orders in warehouses",
+    "batch": "S24",
+    "description": "Ultra builds AI-powered robots that automate the dull, repetitive labor still done by people in American warehouses. We\u2019re starting with e-commerce order packaging in fulfillment centers \u2014 where a worker puts items in a box, seals it, and labels it. Traditional automation isn't working for warehouses because it's costly, rigid, and often underutilized. Ultra\u2019s robots are different: they\u2019re easy to deploy, adaptable, and powered by AI that\u2019s trained through examples.",
+    "activity_status": "Active",
+    "website": "https://ultra.tech",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "New York",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:robotics; industry:logistics; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Jon Miller Schwartz, Founder",
+            "description": "Building intelligent-industrial robots at Ultra. Prev Arena AI, Voodoo Manufacturing (YC W17), Body Labs, and Layer By Layer (YC S13).",
+            "linkedin": "https://www.linkedin.com/in/jmschwartz11"
+        },
+        {
+            "name": "Max Friefeld, Founder",
+            "description": "Max is the co-founder and COO of Ultra. \n\nHe studied Computer and Electrical Engineering at Harvey Mudd College ('13), and founded two YC-backed companies, Layer By Layer (S13) and Voodoo Manufacturing (W17).\n\nImmediately prior to starting Ultra, Max led teams at Boston Consulting Group optimizing  operations for the largest logistics networks in the world and developing go-to-market strategy for private equity backed robotics companies.",
+            "linkedin": "https://www.linkedin.com/in/mfriefeld"
+        },
+        {
+            "name": "Oliver Ortlieb, Founder",
+            "description": "Oliver is the co-founder and CTO of Ultra.\n\nBefore co-founding Ultra, Oliver Ortlieb was the Co-founder & CTO at Voodoo Manufacturing where he built the software and systems to support one of the largest 3D printing factories in the world. Prior to that, he co-founded Layer By Layer, a secure marketplace for 3D-printable products. He holds multiple patents in the field of 3D printing, and received his BS in Computer Science from Harvey Mudd College.",
+            "linkedin": "https://www.linkedin.com/in/oliverortlieb"
+        },
+        {
+            "name": "Chetan Parthiban, Founder",
+            "description": "Chetan is a Co-Founder and Chief Scientist of Ultra. \n\nHe studied Mathematics and Robotics at the University of Pennsylvania, where he received both his BA and MSE. Chetan has deep experience in applied AI as he was one of the first machine learning scientists at Arena, where he focused on applying machine learning to solve high frequency decision making problems.",
+            "linkedin": "https://www.linkedin.com/in/chetan-parthiban"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Ultra**\n\nUltra is on a mission to revolutionize the way e-commerce orders are packaged in warehouses. Founded in 2024 and part of Y Combinator Batch S24, this New York-based startup is setting out to build AI-powered robots that tackle the monotony of order packaging\u2014a task that remains predominantly performed by human workers in fulfillment centers.\n\nThe problem with traditional automation in warehouses is that it's often expensive, inflexible, and not as efficient as you'd hope. Ultra's solution? Robots that are not just smart, but also adaptable and easy to deploy. Their AI technology learns from real-world examples, making these robots capable of handling the nuances of the packaging process without needing extensive retraining.\n\nCurrently, Ultra is focused on a bold objective: building the next million robots designed to streamline operations in American warehouses. This approach is not just about increasing productivity; it\u2019s about redefining what automation looks like in an industry that is craving efficient solutions.\n\nWith a small but dedicated team of four employees and backed by Jared Friedman as their Group Partner, Ultra embodies the kind of innovative spirit needed to push the boundaries in hard-tech, robotics, logistics, and AI.\n\nIf you\u2019re interested in learning more about Ultra and their groundbreaking robots, you can find them at [ultra.tech](https://ultra.tech).\n\nIn summary, Ultra is not just creating robots; they\u2019re crafting the future of order fulfillment, where efficiency meets intelligence.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b3a6cce65dc062f43260741b615c0690a1bcaf63.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192035Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5f91f478f42bd45a3798e5e81ba1cb7c78adee5ad4ae236b8f59d175f26ab930",
+    "social_links": [
+        "https://www.linkedin.com/company/ultraroboticsco",
+        "https://x.com/Ultraroboticsco"
+    ],
+    "logo_path": "data/logos\\Ultra_logo.png"
+}

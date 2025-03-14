@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/radmate-ai",
+    "name": "RadMate AI",
+    "headline": "Copilot for radiologists",
+    "batch": "W24",
+    "description": "We\u2019re building the AI copilot for radiologists, powered by a foundational model for medical imaging. RadMate AI will read radiology images and generate full reports for radiologists to review and submit.\r\n\nMohamed and Adam are technical co-founders who met while studying Computer Science at Cornell University. Before starting RadMate AI to solve the problems his dad faced as a radiologist, Adam worked at Palantir on the initial launch of Palantir\u2019s Al Platform. Mohamed has experience at AWS, where his goal was to help enterprises innovate on the cloud, and PathAl, where he worked on their image viewer platform to improve the workflow of pathologists.",
+    "activity_status": "Active",
+    "website": "https://www.radmate.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:digital-health; industry:enterprise-software; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Mohamed Khalifa, Founder",
+            "description": "Cofounder & CEO of RadMate AI. Cornell University Alumni. Worked at Amazon Web Services as a Customer Solutions Manager. In this role, I played a pivotal part in assisting customers with their migration to and innovation on the cloud. Following this, I joined PathAI as a Software Engineer, a Biotech company at the forefront of integrating AI into pathology.",
+            "linkedin": "https://linkedin.com/in/mohamed-taha-khalifa"
+        },
+        {
+            "name": "Adam Skrocki, Founder",
+            "description": "Cofounder and CTO of RadMate AI. Before starting RadMate AI, I graduated Cornell with a computer science degree and worked at Palantir as a software engineer on the AI Platform.",
+            "linkedin": "https://linkedin.com/in/adamskrocki"
+        }
+    ],
+    "status": true,
+    "generated_description": "RadMate AI is on a mission to change the landscape of radiology reporting by creating an AI-powered copilot for radiologists. Founded in 2023 and part of Y Combinator's W24 batch, this San Francisco-based startup aims to streamline how radiologists work with medical imaging. The core product is designed to analyze radiology images and automatically generate comprehensive reports that radiologists can review and finalize.\n\nThe brain behind RadMate AI are co-founders Adam and Mohamed, both of whom bring a wealth of technical expertise to the table. Adam\u2019s background includes a stint at Palantir, where he contributed to launching their AI platform, while Mohamed has experience from AWS helping enterprises harness cloud capabilities and improving workflow for pathologists at PathAl. They took the leap to build RadMate AI partly out of personal motivation, addressing challenges that Adam\u2019s father faced as a radiologist.\n\nWith just a two-person team, RadMate AI is nimble but ambitious. Their current workflow is straightforward but impactful: radiologists dictate their findings, the AI generates a full report, and then the radiologists review and sign off on it. This process not only saves time but also enhances efficiency and accuracy in report generation\u2014an absolute boon for the healthcare industry.\n\nHere\u2019s what RadMate AI is doing:\n- **Efficiency**: It automates report generation, allowing radiologists to focus more on patient care.\n- **Accuracy**: The underlying AI model reduces the likelihood of errors, thanks to thorough verification of findings.\n- **Support**: Their cloud-based architecture means updates happen seamlessly, and users can access support anytime.\n- **Cost Reduction**: By streamlining workflows, RadMate AI helps in cutting operational costs, making radiology practices more sustainable.\n\nSo, if you\u2019re in the hospital or healthcare space looking to transform your radiology reporting, booking a demo with RadMate AI could be well worth your time. Check out their website at [radmate.ai](https://www.radmate.ai) to learn more, explore features, or reach out for a demo. With their innovative approach, RadMate AI is poised to make a significant impact in the digital healthcare landscape.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6f6035eb8217702995e321a0201af856ef85345d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191705Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f06c9de95ebb65b21b79ca6ce3f1a5b31f24d8e74aa2751777f4fd03937738df",
+    "social_links": [
+        "https://www.linkedin.com/company/radmate-ai"
+    ],
+    "logo_path": "data/logos\\RadMate_AI_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/trackstar",
+    "name": "Trackstar",
+    "headline": "Plaid for supply chain logistics",
+    "batch": "W23",
+    "description": "Trackstar is the Plaid for supply chain logistics. Our universal API provides a simple and well-documented way for companies to integrate with hundreds of warehouse management systems in minutes, not months.",
+    "activity_status": "Active",
+    "website": "https://www.trackstarhq.com/",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "New York",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:logistics; industry:supply-chain; location:new-york",
+    "founders": [
+        {
+            "name": "Jeremy Schneck, Founder",
+            "description": "Co-founder of Trackstar. Former Vice President on the retail, consumer products, and food & beverage investing team at Oak Hill Advisors. Board Member and former President of Reading Reflections, a 501(c)(3) registered non-profit that donates books to underserved local and international youth. Studied finance and management at Wharton.",
+            "linkedin": "https://www.linkedin.com/in/jeremy-schneck-a67b5479/"
+        },
+        {
+            "name": "Daniel Langer, Founder",
+            "description": "Chicago born & raised. Former Director of Product @ Datadog. Lover of surfing, tennis, and sci-fi books.",
+            "linkedin": "https://www.linkedin.com/in/daniel-langer-84846548/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Trackstar is a promising startup that's essentially the \"Plaid for supply chain logistics.\" Founded in 2021 and part of Y Combinator's Winter '23 batch, Trackstar seeks to simplify and accelerate integrations for companies looking to manage their warehouse logistics efficiently. Headquartered in New York with a lean team of six, Trackstar enables businesses to connect with numerous warehouse management systems via their universal API\u2014making integration a matter of minutes instead of months.\n\nThe company\u2019s mission is straightforward: make the complexities of supply chain logistics manageable and user-friendly. They provide a robust platform that allows developers to normalize data across various third-party logistics (3PL) and warehouse systems into a unified schema. This helps businesses seamlessly onboard customers and enhance their offerings without the usual technical headaches.\n\nTrackstar currently offers several solutions, including services tailored for commerce, supply chain logistics, fintech, and direct integrations with 3PLs. Their API covers key logistics data like inventory levels, order tracking, and billing insights, which can significantly streamline operations for companies dealing with logistics.\n\nKey team member Aaron Epstein acts as the Group Partner, and the company is tagged in the SaaS, B2B, logistics, and supply chain sectors, reflecting its broad applicability to various industries. \n\nWhat\u2019s really enticing about Trackstar is its focus on developer experience. The platform boasts beautiful documentation, a developer portal, and sandbox environments for testing, which are crucial for modern software development. This, combined with its strategic backing by Y Combinator, positions Trackstar as a significant player in the logistics tech space.\n\nIf you're involved in any aspect of logistics or supply chain management and find yourself needing to simplify complex integrations, Trackstar might just be the solution you\u2019ve been looking for. To find out more, you can visit their website at [TrackstarHQ.com](https://www.trackstarhq.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6b4620704b703864a015bb3221b598d8ac9a5189.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192024Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=45ae8928e5cd17492a4e28c232b6a4d42ff459a810b50b1b7deaed47f35cb238",
+    "social_links": [
+        "https://www.linkedin.com/company/trackstarhq"
+    ],
+    "logo_path": "data/logos\\Trackstar_logo.png"
+}

@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/serra",
+    "name": "Serra",
+    "headline": "AI-powered candidate search",
+    "batch": "S23",
+    "description": "Serra is an AI-driven search engine for recruiters to find best-fit candidates.\r\n\nConnected to your ATS and external candidate sources, recruiters can search \u201cB2B sales reps that have managed key enterprise accounts\u201d and see top matches.",
+    "activity_status": "Active",
+    "website": "https://www.serra.io/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:recruiting; industry:hr-tech; industry:enterprise-software; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alan Wang, Founder",
+            "description": "Co-founder/CEO @ Serra. Former Data Engineer at Disney+. UCLA Stats + Data Science.",
+            "linkedin": "https://linkedin.com/in/alanhlwang"
+        },
+        {
+            "name": "Albert Stanley, Founder",
+            "description": "Prior to Serra, I was a CS graduate student at UCLA and worked on software products at Amazon Lab126. In the past, I've built and trained neural networks for the prediction of RNA-DNA hybrids in the genome.",
+            "linkedin": "https://linkedin.com/in/albertjstanley"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Serra**\n\nFounded in 2023 and part of Y Combinator Batch S23, Serra is an innovative startup based in San Francisco, specializing in AI-powered recruitment solutions. With a small but agile team of just two employees and Jared Friedman as their Group Partner, Serra is on a mission to enhance the candidate search process for recruiters.\n\n**What Serra Does:**\n\nAt its core, Serra is an intelligent search engine designed specifically for recruiters. It connects seamlessly with your Applicant Tracking System (ATS) as well as external candidate sources like LinkedIn and Github. Recruiters can input specific searches\u2014think \"B2B sales reps that have managed key enterprise accounts\"\u2014and receive a curated list of top candidates. This capability not only streamlines the recruitment process but also ensures that recruiters focus on the best fits, saving time and enhancing hiring efficacy.\n\n**Key Features:**\n\n1. **AI-Powered Search**: Serra leverages GPT technology to rank and identify candidates based on defined criteria and predicted job performance.\n  \n2. **Integration**: Directly integrates with existing ATS, enhancing candidate data with insights from external platforms.\n  \n3. **Candidate Filtering**: Easily filter candidates based on niche skills and metrics, which is crucial for diversity and inclusion initiatives.\n  \n4. **Inbound & Outbound Sourcing**: Proactively source candidates who haven\u2019t applied yet, expanding the talent pool beyond inbound applications.\n\n**Pricing Structure:**\n\n- **Starter Plan**: $400/month, ideal for seed to Series B startups. It includes one search account, ATS integration, and customizable dashboards.\n  \n- **Team Plan**: $900/month for Series C+ startups, offering five search accounts, automated candidate sourcing, and shared workflows with enterprise-level support.\n\n**Current Status:**\n\nSerra is currently trusted by over 3,000 recruiters worldwide, positioning itself as a critical tool in the HR-tech landscape. Their website https://www.serra.io/ provides additional information on features, pricing, and a chance to book a demo.\n\nIn a world where efficiency is paramount, Serra is taking significant strides to redefine how recruiters discover top talent. By combining sophisticated AI technology with an understanding of the recruitment landscape, Serra is not just another applicant tracking tool; it\u2019s a game-changer in identifying best-fit candidates.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/68539bf63540ee7df9b35ffe9ea5b03143307081.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191918Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=50129fadfd212431692aee1ddc11c6af195c127d956d92d59eeb7a88a04e98a6",
+    "social_links": [
+        "https://www.linkedin.com/company/serraio/",
+        "https://github.com/Serra-Technologies"
+    ],
+    "logo_path": "data/logos\\Serra_logo.png"
+}

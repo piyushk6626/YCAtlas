@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/keywords-ai",
+    "name": "Keywords AI",
+    "headline": "LLM observability, prompt management, evals.",
+    "batch": "W24",
+    "description": "Keywords AI is used by 40+ fastest growing YC startups to ship reliable AI features really fast.\r\n\nMonitor and debug:\r\n- Request logging with full text search to monitor AI in prod\r\n- LLM agent tracing to debug workflows with ease\r\n- Metrics dashboard to understand usage, cost, latency, and get product growth metrics\r\n- User analytics to learn how every user is using your product\r\n\nBuild and iterate:\r\n- Collaborative prompt management\r\n- Playground for 350+ models\r\n- Model gateway with OpenAI/Anthropic API interface\r\n- Eval & experiments",
+    "activity_status": "Active",
+    "website": "https://keywordsai.co",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:saas; industry:monitoring; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Andy Li, Founder",
+            "description": "CEO @ Keywords AI, the platform to do prompt engineering, observability, and evaluations for AI software. Helping startups ship reliable AI features to prod, debug, and iterate really fast.\n\nPrevious @ UIUC (dropped out) & Apple Product Design",
+            "linkedin": "https://linkedin.com/in/hanheli"
+        },
+        {
+            "name": "Raymond Huang, Founder",
+            "description": "CTO @ Keywords AI, the platform to do prompt engineering, observability, and evaluations for AI software. Helping startups ship reliable AI features to prod, debug, and iterate really fast.",
+            "linkedin": "www.pareon.com"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Keywords AI: The LLM Observability Platform\n\n#### Overview\nFounded in 2023 as part of Y Combinator's W24 batch, Keywords AI is a San Francisco-based startup with a small but agile team of four. Their mission is straightforward: to enhance Large Language Model (LLM) observability, streamline prompt management, and simplify evaluations. Effectively, they aim to be the go-to tool for AI developers who want to ship reliable AI features quickly\u2014a claim supported by their usage among over 40 of the fastest-growing startups from Y Combinator.\n\n#### What They Offer\nAt its core, Keywords AI allows developers to monitor, debug, and build their LLM-based applications with incredible ease. Here\u2019s a breakdown of their primary offerings:\n\n1. **Monitor and Debug**:\n   - **Request Logging**: Full-text search capabilities allow developers to monitor AI in production.\n   - **LLM Agent Tracing**: Makes debugging workflows easier.\n   - **Metrics Dashboard**: Get insights into usage patterns, costs, latency, and product growth metrics.\n   - **User Analytics**: Helps understand how every user interacts with the product.\n\n2. **Build and Iterate**:\n   - **Collaborative Prompt Management**: Simplifies managing prompts across teams.\n   - **Model Playground**: Access to over 350 models for experimentation and development.\n   - **Model Gateway**: An API interface compatible with leading frameworks like OpenAI and Anthropic.\n   - **Evaluation & Experiments**: Tools to run tests and analyses.\n\n#### Why Choose Keywords AI?\nIf you\u2019re familiar with Datadog, you\u2019ll appreciate the analogy\u2014Keywords AI positions itself as the Datadog for LLM applications. It provides a unified developer platform that allows users to bypass the headaches of model integration, offering:\n- **One-stop DevOps Platform**: From MVP to production, it supports the entire LLM development lifecycle.\n- **Lightning-fast Integration**: A simple change in code gets you started, making adoption seamless.\n- **Built for Scale**: It handles hundreds of concurrent calls without latency issues.\n\nDevelopers are raving about their user experience, claiming it\u2019s one of the best they've encountered, with easy integration and intuitive navigation through keyboard shortcuts.\n\n#### Growing with Keywords AI\nAs Keywords AI rapidly evolves, their goal is to make the experience of building and managing AI applications smoother and more efficient. With their powerful toolkit for data collection and performance monitoring, developers can continually enhance their models based on real-world usage.\n\nFor anyone in the AI startup scene looking for a strong partner in LLM observability, Keywords AI is definitely worth a look. You can check them out and get started for free at [Keywords AI](https://keywordsai.co).\n\n---\n\n**In Summary**: Keywords AI is here to make life easier for AI developers, providing tools to monitor and manage LLM applications effortlessly. With a solid backing from Y Combinator and a focus on user experience, they have the potential to become a must-have resource in the fast-evolving AI landscape.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8a6112bb3585bda954ce1d130e8437e2d5ad6652.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191450Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=48d4d5a4047c2392311e96c20c54229995ca6a5edb696e9dfcb29220bedc85a3",
+    "social_links": [
+        "https://www.linkedin.com/company/keywordsai/",
+        "https://twitter.com/keywordsai",
+        "https://www.crunchbase.com/organization/keywords-ai"
+    ],
+    "logo_path": "data/logos\\Keywords_AI_logo.png"
+}

@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/traceloop",
+    "name": "Traceloop",
+    "headline": "OpenTelemetry-based observability for your LLM application",
+    "batch": "W23",
+    "description": "Traceloop monitors the quality of your LLM application in production. It provides you with alerts, insights and gradual rollout capabilities to confidently deploy changes to your prompts and model configurations.",
+    "activity_status": "Active",
+    "website": "https://www.traceloop.com",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "Tel Aviv-Yafo, Israel",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:open-source",
+    "founders": [
+        {
+            "name": "Nir Gazit, Co-Founder & CEO",
+            "description": "Ex-Google, formerly chief architect at Fiverr. Over 15 years of experience building software. M.Sc in CS from the Hebrew University in Jerusalem.",
+            "linkedin": "https://www.linkedin.com/in/nirga/"
+        },
+        {
+            "name": "Gal Kleinman, Founder",
+            "description": "Formerly an R&D Group Manager @ Fiverr. Tech savvy with a vast experience leading software development projects from SaaS products and experiences to Data & ML infrastructure.",
+            "linkedin": "https://www.linkedin.com/in/gal-kleinman-16898384/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Traceloop: Elevating LLM Application Observability\n\n**Overview**\nFounded in 2022 and hailing from the vibrant tech hub of Tel Aviv-Yafo, Israel, Traceloop is on a mission: to provide OpenTelemetry-based observability for Language Model (LLM) applications. As part of Y Combinator's Batch W23, this burgeoning startup comprises a dedicated team of six members, with Aaron Epstein serving as their Group Partner.\n\n**What They Do**\nTraceloop began with a simple yet powerful focus\u2014monitoring the quality of LLM applications in real-time. Their platform equips developers with essential alerts, insights, and capabilities for gradual rollout to ensure that deploying changes to prompts and model configurations is done with confidence. \n\nTheir tool is particularly effective at catching issues, such as when an LLM starts hallucinating or producing other unintended results. With capabilities to backtest changes, monitor output quality, and debug prompts, Traceloop stands as a guardian for developers looking to enhance their applications.\n\n**Key Features**\n1. **Real-Time Monitoring**: Get notifications about changes in output quality as they happen.\n2. **Backtesting Capability**: Understand how modifications to prompts and models affect performance.\n3. **Integration Simplicity**: Installation is straightforward\u2014just add a code snippet to get started with monitoring immediately.\n4. **Alerts and Debugging**: Users receive performance improvement suggestions along with tools to rerun failed processes seamlessly.\n\n**User Engagement**\nTraceloop isn't just about operational efficiency; it thrives on community. They leverage open-source principles through their OpenLLMetry initiative, inviting developers globally to participate in creating and improving the tool. \n\n### The Numbers\n- **22 LLM Providers Supported**\n- **155,424,054 Traces Monitored**\n- **1,365,530 Hallucinations Detected**\n\n**Why Choose Traceloop?**\nWith a tag of \u201cdeveloper-tools,\u201d \u201cgenerative-ai,\u201d \u201csaas,\u201d and \u201copen-source,\u201d Traceloop positions itself as an essential companion for developers working within the LLM space. Their subscription models are flexible\u2014scalable to match your business needs without hidden surprises. \n\n**Get Started**\nFor those eager to enhance their LLM applications, Traceloop offers features like:\n- Unlimited request handling during your subscription.\n- Fast turnaround times.\n- A playful approach to customer support that's available via popular communication platforms.\n\nAt Traceloop, they are ready to help you ensure that your LLM outputs remain consistent and reliable, allowing you to focus on what truly matters\u2014building great applications.\n\n**Explore More**: [Visit Traceloop](https://www.traceloop.com) for demos, pricing, and to join their open-source community efforts.\n\nIn a world driven by ever-evolving AI technologies, Traceloop provides the clarity and oversight that every developer can benefit from.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7130a12cfbfd9d706170559cc1e4eb8dace05efb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192024Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=29650df373d615f9a7c97378a637ce7606bfc785802b67bdecb10f88a5010635",
+    "social_links": [
+        "https://www.linkedin.com/company/traceloop/",
+        "https://twitter.com/traceloopdev",
+        "https://github.com/traceloop"
+    ],
+    "logo_path": "data/logos\\Traceloop_logo.png"
+}

@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/inlet-2",
+    "name": "Inlet",
+    "headline": "AI-powered ETL for complex data",
+    "batch": "S23",
+    "description": "Inlet gets customer data into your system.\r\n\nB2B companies use Inlet to sync data from ERPs and other sources, connect to any API, and transform data quickly with our AI tools.\r\n\nReach out:\r\n\nfounders@getinlet.ai",
+    "activity_status": "Active",
+    "website": "https://getinlet.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:b2b; industry:data-engineering; location:new-york",
+    "founders": [
+        {
+            "name": "Sean Adler, Founder",
+            "description": "Sean is co-founder and CEO of Inlet. 10+ years writing code and building AI products at startups. Previously at AKASA (Head of NLP) and ASAPP (ML Engineer).",
+            "linkedin": "https://linkedin.com/in/sean-adler-b5872446"
+        },
+        {
+            "name": "Adam Miller, Founder",
+            "description": "Co-founder and CTO of Inlet. Previously lead product and machine learning teams at Gridspace, where we built best-in-class voicebots to automate complex contact center workflows. Now building Inlet. Would love to talk, just reach out!",
+            "linkedin": "https://linkedin.com/in/adam-miller-14940631"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Inlet: AI-Powered ETL for Complex Data**\n\nInlet is a fresh entry into the world of data management, founded in 2023 as a part of the Y Combinator Batch S23, and based in New York City. Their mission is simple yet ambitious: to provide an AI-driven ETL (Extract, Transform, Load) solution that helps businesses seamlessly integrate complex data from various sources.\n\n**What They Do:**\n\nInlet specializes in connecting B2B companies with their customer data, streamlining the process of data synchronization from ERPs and other disparate sources through a user-friendly API. Their AI tools allow businesses to transform and map data with impressive speed, which translates into implementations being finished up to eight times faster and with fewer errors.\n\n**Core Features:**\n\n1. **Data Mapper:** This feature utilizes AI to facilitate field mapping, enabling instant updates to your code with built-in support for Python and dbt.\n   \n2. **AI Assistant:** An intelligent helper that guides users in exploring customer data, integrating design ideas, and updating mapping code.\n\n3. **Scheduled Pipelines:** These ensure that data syncs occur without hitches, thanks to fault tolerance and fair queueing systems.\n\n4. **100+ App Connectors:** Inlet comes packed with pre-built connectors for widely-used applications across sectors like ERP and TMS.\n\n5. **API Browser:** This unique tool allows users to create an interactive interface for any API, making it easier to access documentation and execute requests.\n\n**Why Choose Inlet?**\n\nUsers testify that Inlet dramatically slashes integration time\u2014from weeks down to just days\u2014while reducing maintenance work significantly. For instance, Sasha Oelsner, a Senior Data Manager at Smartwyre, claims, \u201cInlet cut our integration time from weeks to just 2 days. Our whole team can now build integrations with minimal training, leading us to see 80% less maintenance work.\u201d\n\n**The Team and Leadership:**\n\nCurrently, the core team consists of two employees, guided by Dalton Caldwell as their Group Partner. Though it\u2019s a small team, they are clearly making waves in the industry.\n\n**Reach Out:**\n\nIf you\u2019re interested in learning more about Inlet or would like a demo, you can reach them at [founders@getinlet.ai](mailto:founders@getinlet.ai) or visit their website at [getinlet.ai](https://getinlet.ai).\n\nInlet represents a leap towards a more efficient data landscape, utilizing AI for quicker, more reliable integrations. If you're in need of robust data solutions, this is a company worth your attention.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/706debc16aafb473669f005588a57ef5464bd228.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191432Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7615eda2b18da045b1110cbec789c2bc22d081078d35e0343ac81be0579aefda",
+    "social_links": [
+        "https://www.linkedin.com/company/inletai",
+        "https://twitter.com/inlet_ai"
+    ],
+    "logo_path": "data/logos\\Inlet_logo.png"
+}

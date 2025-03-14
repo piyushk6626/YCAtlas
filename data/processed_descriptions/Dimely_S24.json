@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/dimely",
+    "name": "Dimely",
+    "headline": "AI agents for B2B SaaS Finance Teams",
+    "batch": "S24",
+    "description": "Dimely builds AI agents for B2B SaaS finance teams. Our agents automate and bring visibility to time-consuming and error-prone finance workflows so teams can stay lean and audit-ready.\r\n\nWe do this by completing, logging, and reconciling the data work, including converting contracts to invoices, calculating overages, reconciling payments, and streamlining revenue recognition.\r\n\nWe pride ourselves in our fast time to value. Dimely seamlessly slots into your existing workflows without requiring a rip and replace, meaning you'll immediately see results from Day 1. Stop spending hours on billing today!",
+    "activity_status": "Active",
+    "website": "https://dimely.com/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:finops; industry:b2b; industry:automation; industry:billing; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "David Pang, Founder/CEO",
+            "description": "David is co-founder and CEO of Dimely. Before Dimely, David led Business Operations at OneSignal (YCS11) where he was heavily involved with billing. He also co-founded (with Peter) SheetWhiz, a productivity tool for Sheets used by thousands of finance startup professionals every month. He began his career as a tech private equity investor at Silver Lake. He graduated summa cum laude from the Wharton School at the University of Pennsylvania where he studied finance and accounting",
+            "linkedin": "https://linkedin.com/in/davidnpang"
+        },
+        {
+            "name": "Peter Sun, Founder/CTO",
+            "description": "Peter is the co-founder and CTO of Dimely. Before Dimely, Peter was the founding Data Scientist at OneSignal (YCS11) where he built data infrastructure for billing. He co-founded (with David) SheetWhiz, a Chrome Extension that brings Excel features to Google Sheets used by thousands of finance professionals. Peter started his career at Meta where he built onboarding experiences for SMB advertisers. Peter graduated from the University of Waterloo with a degree in Electrical Engineering.",
+            "linkedin": "https://linkedin.com/in/p2sun"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Dimely: Revolutionizing Finance Teams with AI**\n\nFounded in 2024 and part of Y Combinator's Batch S24, Dimely is a San Francisco-based startup that's tackling a compelling niche: automating the cumbersome workflows of B2B SaaS finance teams. With a lean team of just two, they've set out on an ambitious mission to create AI agents specifically designed for finance operations, allowing these teams to operate more efficiently and remain audit-ready.\n\n**What Do They Do?**\n\nDimely's primary offering revolves around streamlining finance workflows. Their AI agents tackle time-consuming tasks that are often riddled with errors, such as:\n\n- **Contract to Invoice Conversion**\n- **Payment Reconciliation**\n- **Revenue Recognition**\n- **Calculating Overage Charges**\n\nThe beauty of Dimely lies in its quick implementation. You won\u2019t need to tear apart your current systems\u2014a relief for anyone who's ever dealt with the tedious 'rip and replace' fiasco. Instead, Dimely integrates seamlessly, allowing finance teams to see tangible results from Day 1. Imagine freeing up hours of manual billing work just when you need it most!\n\n**Why Dimely?**\n\nThey have a strong commitment to \"fast time to value.\" As they claim, why spend countless hours on billing when Dimely's agents can automate these processes? Their current integrations support major platforms like Salesforce, Stripe, and QuickBooks, and their clients seem genuinely impressed. According to Kevin Li, Director of Finance at OneSignal, the automation enabled by Dimely allowed their finance team to remain efficient and avoid extensive reevaluations of their existing workflows.\n\n**What's Next?**\n\nWith sponsorship from Y Combinator and a clear focus on enhancing finance operations through automation, Dimely is set to grow. They\u2019re not just stepping into a market; they\u2019re positioning themselves as essential players within the B2B SaaS landscape, making finance processes not just bearable, but\u2014dare we say\u2014effortless.\n\nIf you're intrigued and want to see it in action, Dimely offers demos right on their website. In the world of finance, they might just be the breath of fresh air you've been waiting for. \n\n**Visit:** [Dimely's Website](https://dimely.com) to learn more or book a demo!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2bcea5726a36171708f07cee35600341766a6fe2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191122Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=326637412acaaac1428d45b60feda797e3ac81427bb8dc9cbad945df4613111f",
+    "social_links": [
+        "https://www.linkedin.com/company/usedimely/",
+        "https://x.com/UseDimely"
+    ],
+    "logo_path": "data/logos\\Dimely_logo.png"
+}

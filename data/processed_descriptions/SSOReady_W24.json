@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/ssoready",
+    "name": "SSOReady",
+    "headline": "Open source developer tools for enterprise single sign-on",
+    "batch": "W24",
+    "description": "Large contracts with large companies usually require software companies to offer SAML SSO and SCIM. \r\n\nImplementing SAML SSO and SCIM yourself is pretty hard and not a good use of your time. \r\n\nWe make it really easy to implement SAML SSO and SCIM in your product.",
+    "activity_status": "Active",
+    "website": "http://ssoready.com",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:security; industry:open-source; industry:api; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ned O'Leary, Founder",
+            "description": "Deeply obsessed with arcane details of business models and operations -- this isn't a joke, I literally wrote a wandering 3,500 word essay about net dollar retention (https://cranberryblog.substack.com/p/net-retention-convexity-in-saas).\n\nBefore this, I worked in business operations at Gem, where I owned go-to-market analytics, overhauled pricing & packaging, and supported the executive team in designing and executing a new corporate strategy. \n\nAlso had a prior career at BCG and in SaaS VC.",
+            "linkedin": "https://linkedin.com/in/nedoleary"
+        },
+        {
+            "name": "Ulysse Carion, Founder",
+            "description": "Software engineer. I unironically love enterprise software and integrations.\n\nFormerly of Segment and Gem. I built Segment's permissions and identity resolution system. Editor of IETF RFC 8927. \ud83c\uddeb\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8",
+            "linkedin": "https://www.linkedin.com/in/ucarion/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### SSOReady Overview\n\n**Company Name:** SSOReady  \n**Founded:** 2023  \n**Location:** San Francisco  \n**Team Size:** 2 employees\n\n**Mission:** SSOReady aims to provide open-source developer tools focused on enterprise single sign-on (SSO) solutions. Their services simplify the implementation of SAML SSO and SCIM, making it easier for developers to integrate these complex systems into their products.\n\n**Background:** The idea behind SSOReady came from the realization that large contracts often necessitate strong authentication solutions like SAML SSO and SCIM. But let's be real\u2014implementing these yourself can be a bear. Essentially, SSOReady helps you bypass that hassle, letting you focus on what truly matters\u2014growing your business.\n\n#### Services Offered\n- **SAML SSO Implementation:** With SSOReady, you can integrate SAML SSO into your applications in less than a day. Their solution is free and available for both cloud and self-hosted options.\n- **SCIM Directory Sync:** Their single unified API allows for seamless user provisioning and de-provisioning across identity providers, streamlining directory sync processes for companies.\n\n**Key Features:**\n- Supports all major identity providers.\n- Multi-tenant SSO support requiring just two API calls.\n- Comprehensive documentation to get developers up and running quickly.\n\n#### Additional Information\n- **Backing:** SSOReady is a part of Y Combinator's Batch W24 and is supported by investor Dalton Caldwell, who serves as the Group Partner.\n- **Tags:** The company is categorized under developer tools, SaaS, security, open-source, APIs, and is notably part of the San Francisco Bay Area tech scene.\n\n#### How to Get Started\nYou can check out their offerings and get started with SSOReady for free at [ssoready.com](http://ssoready.com). They provide a rich set of documentation and pricing information on their site, making it easy to understand what they offer and how it can benefit your projects.\n\nSSOReady is real and they\u2019re actively working on shaping the future of user authentication in enterprise software\u2014so if your company needs a pathway to easy SSO, you might want to take a closer look.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2382f257a5f5fd97ac958c6229808f699579b4aa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191946Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=450950ba7ff2cc46117ca19d2ef875c96e569b9a7802d90c9ec3e4ce141a0506",
+    "social_links": [
+        "https://linkedin.com/company/ssoready",
+        "https://x.com/ssoready",
+        "https://github.com/ssoready"
+    ],
+    "logo_path": "data/logos\\SSOReady_logo.png"
+}

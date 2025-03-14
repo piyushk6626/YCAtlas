@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/svix",
+    "name": "Svix",
+    "headline": "Enterprise ready webhooks service, open-source and in the cloud",
+    "batch": "W21",
+    "description": "Svix is the enterprise ready and open source webhooks service.\r\n\nWebhooks are a pain. Developers need to worry about deliverability, retries, monitoring and security. All of which are different for webhooks compared to the rest of the stack. We turn all of that into a simple API call.\r\n\nSvix is sending billions of webhooks for customers both large (Fortune 500) and small (startups), and is backed by Y Combinator, Andreessen Horowitz (a16z), Aleph, and founders and CTOs of companies such as Github, PagerDuty, Segment and Lookout.",
+    "activity_status": "Active",
+    "website": "https://www.svix.com",
+    "founded_date": 2021.0,
+    "team_size": 12.0,
+    "location": "New York",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:api; location:new-york",
+    "founders": [
+        {
+            "name": "Tom Hacohen, Founder & CEO",
+            "description": "I've been programming for as long as I can remember, and I'm passionate about coding and technology.\n\nI'm also a long-time open-source developer, have contributed to many projects, and was even shortlisted for the \"HaMakor prize\" (Israeli equivalent to the FSF award).",
+            "linkedin": "https://uk.linkedin.com/in/tomhacohen/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Svix: Simplifying the Complexity of Webhooks**\n\nFounded in 2021 and hailing from Y Combinator's W21 batch, Svix is carving out a key role in the world of developer tools by offering an enterprise-ready webhooks service. It specializes in managing the often problematic aspects of webhooks\u2014like deliverability, retries, monitoring, and security\u2014transforming these challenges into straightforward API solutions.\n\n### The Problem with Webhooks\n\nWebhooks are critical for various applications but can be a headache to implement. Developers typically dread the intricacies: failing endpoints, the need for automatic retries, and numerous security considerations. Svix steps in to alleviate these concerns, allowing developers to focus on building their products without worrying about the hidden complexities of webhooks.\n\n### Key Features\n\n- **Easy Integration**: With just a few lines of code, developers can send and receive webhooks effortlessly. \n- **Automatic Retrying and Monitoring**: Ensures that messages reach their destinations\u2014even when there are hiccups.\n- **Robust Security**: Committed to high standards, Svix addresses common vulnerabilities associated with webhooks.\n- **Enterprise-Grade Reliability**: Capable of handling billions of webhooks annually for both startups and Fortune 500 companies.\n- **Community and Documentation**: Svix boasts comprehensive resources like SDKs, guides, and a responsive community for support.\n\n### Support and Backing\n\nSvix is not only backed by some of the most reputable names in venture capital\u2014such as Andreessen Horowitz and Aleph\u2014but also boasts a team enriched with expertise from industry giants like GitHub and PagerDuty. With a small, agile team of 12 based in New York, they continue to enhance their service and expand their offerings.\n\n### The Business Model\n\nSvix operates on a SaaS model, allowing businesses to offload their webhook management, thus freeing up engineering resources to tackle more product-specific challenges. You can trust Svix to improve efficiency and reliability while ensuring you stay compliant with industry standards (SOC 2, HIPAA, GDPR, and more).\n\n### Industries Served\n\nSvix is particularly well-suited for various sectors, including:\n- Fintech\n- AI and Machine Learning\n- Healthcare\n- Developer Tools\n- Logistics\n- SaaS products\n\n### A Vision for the Future\n\nSvix isn\u2019t just about simplifying webhooks; it\u2019s about enabling the seamless connect-and-integrate philosophy that modern applications require. With their focus on developer experience, robust security measures, and scalable solutions, Svix is positioned to become the go-to solution for webhook services.\n\nIf you\u2019re a developer tired of the webhook hassle, **[give Svix a try](https://www.svix.com/signup/)** today\u2014no credit card required.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a8fdf2ab76367e183f68ce08c19d6c6d201127cd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191959Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a65ac53917c8b9faf2860087e32db40b0108e1379151e81f69800e6486791ffc",
+    "social_links": [
+        "https://www.linkedin.com/company/svix/",
+        "https://twitter.com/SvixHQ",
+        "https://www.crunchbase.com/organization/svix",
+        "https://github.com/svix"
+    ],
+    "logo_path": "data/logos\\Svix_logo.png"
+}

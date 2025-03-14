@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/growthbook",
+    "name": "GrowthBook",
+    "headline": "Open source feature flagging and A/B testing",
+    "batch": "W22",
+    "description": "GrowthBook is an open source platform to help companies make data-driven product decisions with feature flags and A/B tests.  \r\n\nExisting SaaS solutions like LaunchDarkly require a company to send all of their data to them. This results in high costs, data compliance issues, and vendor lock-in.  As a result, many companies end up building their own platforms in-house, which can take thousands of hours of work and lots of headaches.  To solve this, GrowthBook uses a company's existing data infrastructure and business metrics.\r\n\nWe believe feature flags and experimentation are the right way to build products at scale and that they will become a standard part of the development process.  GrowthBook is well positioned to be a leader in this growing market.",
+    "activity_status": "Active",
+    "website": "https://www.growthbook.io",
+    "founded_date": 2020.0,
+    "team_size": 21.0,
+    "location": "Palo Alto",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:analytics; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Graham McNicoll, Founder",
+            "description": "Graham is the Co-founder and CEO of GrowthBook. Previously he was the CTO of Education.com for 6 years. He helped grow Education.com into one of the largest Ed-tech platforms, helping millions with access to quality educational material, and led to a successful exit in 2019. Graham is a three times startup founder, including starting an international non-profit to increase access to communication in the developing world, particularly sub Saharan Africa. He has a degree in Physics from CMU.",
+            "linkedin": "https://www.linkedin.com/in/grahammcnicoll/"
+        },
+        {
+            "name": "Jeremy Dorn, Founder",
+            "description": "Jeremy is the Co-founder and CTO of GrowthBook.  Prior to that, he was Chief Architect at Education.com where he scaled the web application to over 1 billion requests per month. Jeremy is also heavily involved in the open source community and speaks at conferences on the importance of building great developer experiences.",
+            "linkedin": "https://www.linkedin.com/in/jeremy-dorn-6198a09/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: GrowthBook**\n\nFounded in 2020 and hailing from Y Combinator\u2019s Batch W22, GrowthBook is carving out its niche as an open-source feature flagging and A/B testing platform. Located in Palo Alto, California, and staffed with a team of 21, it sets itself apart from traditional SaaS giants like LaunchDarkly by allowing organizations to leverage their existing data infrastructures. This approach not only reduces costs associated with data transfer but also alleviates compliance issues and mitigates the vendor lock-in that tends to haunt many companies.\n\n### Mission and Vision\nAt its core, GrowthBook believes that integrating feature flags and experimentation into the product development lifecycle is crucial for scaling effectively. The company aims to democratize experimentation by providing tools that enable businesses to make data-driven decisions without the headaches of heavy data transfers or extensive in-house builds.\n\n### Products and Solutions\nGrowthBook's main offerings include:\n\n1. **Feature Flagging**: This feature allows teams to launch new code with confidence while keeping their codebase clean and manageable.\n2. **A/B Testing**: With tools to seamlessly manage experiments from start to finish, teams can continuously refine product features based on real user interactions.\n\nThe platform is specifically tailored for various industries, offering dedicated solutions for fintech, health tech, ed-tech, and AI, making it versatile for users across sectors.\n\n### Key Features\n- **Data Native**: GrowthBook integrates directly with existing data sources, allowing organizations to maintain control and compliance without extra costs tied to transferring data to third-party platforms.\n- **Open Source**: Being open-source, GrowthBook promotes transparency and flexibility, enabling developers to customize their implementations per unique needs.\n- **Community Support**: GrowthBook has fostered a burgeoning community with over 4,500 members, encouraging collaboration and sharing of best practices.\n\n### Testimonials and Adoption\nGrowthBook has gained traction with major organizations, simplifying the complexities surrounding experimentation and feature releases. Customer testimonials highlight the platform's speed, ease of integration, and significant impact on conversion rates and decision-making processes.\n\n### Leadership\nLed by Nicolas Dessaigne as Group Partner, GrowthBook stands poised to dominate the feature flagging and testing market, presenting itself as an attractive alternative for teams looking to innovate efficiently.\n\nIn essence, GrowthBook isn\u2019t just a tool; it\u2019s a philosophy aimed at transforming how companies experiment and grow, all while ensuring they retain control over their data. If you\u2019re intrigued by the potential of open-source experimentation, check out [GrowthBook](https://www.growthbook.io) to learn how it can fit within your organization.\n\nHere\u2019s the crux: at GrowthBook, they believe it's not just about releasing features\u2014it's about empowering teams to experiment and evolve seamlessly.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/48568f877d957f0b3e6a5fdaab63ca5b5d471310.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191405Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d25788a0ba61e1766fef7cc948f23ff5ecbf2cde268861292b91a5cb54dc518c",
+    "social_links": [
+        "https://www.linkedin.com/company/growthbook/",
+        "https://twitter.com/growth_book",
+        "https://www.crunchbase.com/organization/growth-book",
+        "https://github.com/growthbook"
+    ],
+    "logo_path": "data/logos\\GrowthBook_logo.png"
+}

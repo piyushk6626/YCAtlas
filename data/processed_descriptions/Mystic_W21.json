@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/mystic",
+    "name": "Mystic",
+    "headline": "Low latency API to run and deploy ML models",
+    "batch": "W21",
+    "description": "Mystic\u2019s platform allows companies to easily and reliably deploy ML models on our serverless cloud or on their own infrastructure without requiring a team of MLOps engineers. With our Python SDK, data-scientists immediately get an endpoint from their own model, or any open-source models.\r\nOnce uploaded, our platform handles routing, multi-cloud scaling, caching, GPU optimization and other features to provide the ultimate ML inference platform.",
+    "activity_status": "Active",
+    "website": "https://www.mystic.ai/",
+    "founded_date": 2019.0,
+    "team_size": 11.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:machine-learning",
+    "founders": [
+        {
+            "name": "Paul Hetherington, Founder",
+            "description": "Full stack + hardware developer - Bath university Alumn.",
+            "linkedin": "https://www.linkedin.com/in/paul-hetherington/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Mystic is an innovative company founded in 2019, operating out of London, UK. As part of the Y Combinator Batch W21, Mystic has positioned itself as a key player in the machine learning infrastructure space. The company's core mission is to provide a low-latency API that enables businesses to seamlessly deploy and run their machine learning models.\n\nHere\u2019s the essential part: Mystic offers a platform that simplifies the deployment of ML models, allowing companies to use their own infrastructure or take advantage of Mystic's serverless cloud. What\u2019s compelling here is that you don\u2019t need a full team of MLOps engineers to make this happen. With their Python SDK, data scientists can easily transform their models (or even utilize open-source options) into a live endpoint without hassle. \n\nOnce a model is uploaded, Mystic's platform automates vital backend processes, including routing, multi-cloud scaling, caching, and GPU optimization. This makes it a robust solution for ML inference\u2014essentially, it allows users to focus on building models rather than getting bogged down with deployment complexities.\n\nThe company is currently a small team of 11, driven and agile. Brad Flora serves as their Group Partner, guiding them in their mission. Mystic is tagged as a developer tool in the realms of AIOps, artificial intelligence, and machine learning, showcasing its relevance in today\u2019s data-driven world.\n\nIn summary, Mystic is on a journey to make machine learning deployment as straightforward as possible, enabling faster innovation for companies across various sectors. If you\u2019re looking to cut through the technical clutter of deploying ML models, Mystic appears to be the tool you didn\u2019t know you needed. Check them out at [mystic.ai](https://www.mystic.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/83331148ef2f483b8afe6a3192c2c21fc2109681.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191552Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=048655aa45de3fa198f5ab8b0c678e15b0614985d79929672e405d46e8690221",
+    "social_links": [
+        "https://www.linkedin.com/company/mystic-ai",
+        "https://twitter.com/mysticdotai",
+        "https://www.crunchbase.com/organization/neuro-ai",
+        "https://github.com/mystic-ai/pipeline"
+    ],
+    "logo_path": "data/logos\\Mystic_logo.png"
+}

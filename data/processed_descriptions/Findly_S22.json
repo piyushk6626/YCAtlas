@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/findly",
+    "name": "Findly",
+    "headline": "Co-pilot for Business Intelligence",
+    "batch": "S22",
+    "description": "Findly.ai is the co-pilot for Business Intelligence that revolutionizes how businesses understand and interact with their data. By creating an engaging chat environment, it empowers decision-makers to gain insights, request reports, and generate visualizations based on their company's metrics. This seamless interaction is made possible by integrating a metric layer that comprehends all your company's metrics. The chat-based exploration simplifies complex data analysis, allowing users to generate comprehensive summaries with a single click, which can be exported to various formats. Furthermore, with the introduction of scheduled chats and action-triggered automations, Findly.ai enhances the autonomy and efficiency of decision-makers. It's more than a tool; it's a decision-making operational system aiming to facilitate decision-makers in achieving their KPIs while spending less time waiting for data.",
+    "activity_status": "Active",
+    "website": "https://www.findly.ai/join",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:b2b; industry:chatbot; industry:data-engineering; industry:ai",
+    "founders": [
+        {
+            "name": "Jonathan Aeschlimann, Founder",
+            "description": "Swiss-Brazilan entrepreneur starting his third venture. Co-founder of divbrands.io, where we grew to become one of Google's most prominent display and video customers in Europe, reached $40M in yearly revenue bootstrapped and managed a team of 100+ remotely.\nExecutive education at Stanford GSB and Chicago Booth. Member of YPO and WEF Global Shapers.",
+            "linkedin": "https://www.linkedin.com/in/jonaesh47/"
+        },
+        {
+            "name": "Louren\u00e7o Maciel, Founder",
+            "description": "Louren\u00e7o is a self-made entrepreneur with 12 years of digital marketing experience. He has built and led a successful eCommerce company, selling to over 30 countries in 9 languages. Louren\u00e7o specializes in advertising, tracking, and attribution with a strategic focus on driving profitable advertising spend, having spent over 50M in ads throughout his career. In 2021, he taught himself to code and developed a system that kept his business attribution working and helped secure 35M in revenue.",
+            "linkedin": "https://linkedin.com/in/lourencomaciel"
+        },
+        {
+            "name": "Pedro Nascimento, Founder",
+            "description": "Pedro is passionate about creating functional teams, great culture and helping people to become the best version of themselves. He has deep interest in computer science, machine learning and math, having large experience on them in both academic and corporate environments. Pedro expertise is to use a strong theoretical framework to solve real world problems. He is a former Google and Twitter engineer.",
+            "linkedin": "https://www.linkedin.com/in/pedro-paulo-nascimento-5792426b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Summary of Findly\n\n**Name:** Findly  \n**Website:** [findly.ai](https://www.findly.ai/join)  \n**Founded:** 2022  \n**Location:** London, United Kingdom  \n**Team Size:** 6 employees  \n**Y Combinator Batch:** S22  \n**Group Partner:** Brad Flora  \n\n#### Mission\nFindly's mission is to be the co-pilot for business intelligence, transforming how companies perceive and interact with their data. \n\n#### Overview\nOriginally launched as Findly.ai, this innovative platform provides a chat-based environment designed to simplify data exploration. Its primary goal is to empower business decision-makers by enabling them to gain insights, request reports, and visualize important metrics with ease. The integration of a comprehensive metric layer aids in understanding complex datasets without the hassle. \n\nWith features like one-click summaries that export to various formats, scheduled chats, and action-triggered automations, Findly is not just a tool\u2014it functions as an operational system for decision-making. This helps decision-makers focus more on achieving their key performance indicators (KPIs) rather than getting hung up waiting for data.\n\n#### Key Features\n- **Engaging Chat Environment:** Simplifies data interaction and exploration.\n- **Metric Layer Integration:** Understand all company metrics seamlessly.\n- **One-Click Reporting:** Generate and export summaries with minimal effort.\n- **Scheduled Chats & Automations:** Enhances efficiency and autonomy for users.\n\n#### Tags\n- Generative AI\n- B2B\n- Chatbot\n- Data Engineering\n- AI\n\nIn a nutshell, Findly is setting out to make data more accessible and actionable for businesses by turning complex analytics into simple conversations, allowing users to focus on what truly matters: making informed decisions quickly.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9dae4e73fd8e80ee640066913bc68f277a05bb9e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191332Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=538651fb76a5bb06143fd56c109b1092d20ac2c48f4c79a266c85353da1812c6",
+    "social_links": [
+        "https://www.linkedin.com/company/findlyai",
+        "https://twitter.com/findlyai",
+        "https://www.facebook.com/findlyai",
+        "https://www.crunchbase.com/organization/findlyai"
+    ],
+    "logo_path": "data/logos\\Findly_logo.png"
+}

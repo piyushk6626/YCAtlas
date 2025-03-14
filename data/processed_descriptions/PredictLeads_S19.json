@@ -1,0 +1,25 @@
+{
+    "links": "https://www.ycombinator.com/companies/predictleads",
+    "name": "PredictLeads",
+    "headline": "Best in class company intelligence data.",
+    "batch": "S19",
+    "description": "PredictLeads provides structured data on companies. Using our data Sales teams can discover companies in their buy mode, Quant funds know when to perform trades and VCs can predict when a startup will be raising a new round. PredictLeads cuts down their market research time. Our goal is to structure the sea of public information on companies.",
+    "activity_status": "Active",
+    "website": "https://predictleads.com",
+    "founded_date": 2018.0,
+    "team_size": 24.0,
+    "location": "Ljubljana, Slovenia",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning",
+    "founders": [],
+    "status": true,
+    "generated_description": "**PredictLeads** is a company that specializes in delivering structured company intelligence data, designed to empower businesses with insights that can significantly enhance their decision-making processes. Founded in 2018 and a proud member of Y Combinator's Batch S19, PredictLeads is based in Ljubljana, Slovenia, and boasts a dedicated team of 24 employees.\n\nThe company\u2019s mission is to provide best-in-class company intelligence data, allowing sales teams to discover companies poised to make purchases, enabling quantitative funds to time their trades effectively, and assisting venture capitalists in predicting when startups will seek new funding rounds. Essentially, PredictLeads takes the ocean of publicly available data about companies and structures it, making it more accessible and actionable, thus shortening the market research time dramatically.\n\nTheir services leverage machine learning to extract meaningful signals from a variety of sources, helping users to identify growing companies, understand their target markets, and personalize outreach strategies. Customers can access this information through APIs, flat files, and webhooks, making integration seamless for businesses of all sizes. \n\nThe PredictLeads platform is known for its capabilities, including monitoring job openings, tracking company investments, and observing technological shifts within firms. By offering insights like hiring intent and customer acquisitions, users can stay ahead of market trends and identify potential leads more effectively.\n\nWith a commitment to empowering organizations through data, PredictLeads provides a free tier that allows new users to test the platform with 100 free API requests each month. This enables businesses to explore how structured data can enhance their operations without upfront investment.\n\nCurious to learn more? Feel free to check out their website at [predictleads.com](https://predictleads.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/55ac721747b21274cfd96c96baa194d5f71c9c1f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191651Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d8fc63b0b0452ecfef810603887b79f2f14dd83957401cf33aec638098c7f680",
+    "social_links": [
+        "https://www.crunchbase.com/organization/predictleads"
+    ],
+    "logo_path": "data/logos\\PredictLeads_logo.png"
+}

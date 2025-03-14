@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/dot",
+    "name": "Dot",
+    "headline": "Chat with your Data Warehouse",
+    "batch": "S21",
+    "description": "Our mission is to help everybody in an organization to take data-driven decisions, by democratizing access to trusted high-quality data and metrics. \r\n\n**Chat with your Data Warehouse**\r\n\nAnswer most business questions instantly 24/7. Data teams can focus on deep work, not on answering easy questions about dashboards.\r\n\nDot understands your existing data stack: tables, SQL queries, documentation, DBT metrics or LookML are its learning material.\r\n\nUsers can interact via Slack, Teams or our native web app.\r\n\n\u27a1\ufe0f  https://getdot.ai/",
+    "activity_status": "Active",
+    "website": "https://getdot.ai",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "Berlin, Germany",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:analytics; industry:enterprise",
+    "founders": [
+        {
+            "name": "Theo Tortorici, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/theo-tortorici/"
+        },
+        {
+            "name": "Rick Radewagen, Founder",
+            "description": "analyst in a world of data; creator of well-arranged pixels; surprised language learner",
+            "linkedin": "https://www.linkedin.com/in/radewagen/"
+        },
+        {
+            "name": "Sven Rudolph, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/sven-rudolph-0b7910a0/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Dot: Chat with Your Data Warehouse\n\n**Overview:**\nFounded in 2021, Dot emerged from Y Combinator's Batch S21 and is based in Berlin, Germany. The company\u2019s mission is to empower every member of an organization to make data-driven decisions by democratizing access to high-quality data. It's fueled by the idea that everyone should effortlessly interact with their data warehouse. \n\n**Core Offering:**\nDot allows users to **chat with their data warehouse** 24/7, answering business questions instantly. This feature enables data teams to concentrate on more complex analytical tasks rather than fielding basic inquiries. Users can simply query their data using natural language through platforms like Slack, Microsoft Teams, or even a native web application. \n\n**Key Features:**\n- **Instant Insights:** Forget long waits for data analysis; users can receive answers in seconds.\n- **Seamless Integration:** Dot is designed to integrate effortlessly with existing data stacks, understanding SQL queries, documentation, and other metrics.\n- **Multi-Language Support:** Users can communicate in various languages, including English, Spanish, German, and more.\n- **Enhanced Analytics Self-Service:** By automating ad-hoc requests, Dot frees data teams to tackle high-impact projects, showcasing the strength of AI in making data exploration accessible.\n\n**Security & Trust:** \nDot prioritizes security with features like role-based permissions and row-level security, ensuring trusted and consistent answers for all users. \n\n**The Team & Impact:**\nDot operates with a lean team of six but aims to reach over 50,000 users, illustrating its rapid adoption. Backed by Y Combinator, Dot is tagged with several attributes: artificial intelligence, SaaS, B2B, analytics, and enterprise. The founding vision is to truly empower users at all levels to analyze data without needing a data science background.\n\n**Current Engagements:**\nThe Dot team encourages potential users to book a demo, visit them at industry events like the Snowflake Summit, and get a feel for how they can enhance their data analytics capabilities\u2014plus, who doesn\u2019t love free socks?\n\n**Conclusion:**\nWith Dot, navigating data doesn\u2019t have to be a labyrinthine task reserved for experts. Instead, it offers a friendly, AI-driven approach to analytics, making it possible for anyone in an organization to converse with their data. If you\u2019re looking to transform your data interactions, Dot seems like a straightforward, insightful solution to explore.\n\nFor more, visit [GetDot.ai](https://getdot.ai) and start chatting with your data today!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5214ac87ba290dee1e89d5d8b1708ca91699d14a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191125Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9b90e1b30a091bdb172b34ee638e8fdacb7f539001042cf5a73097b5350f1612",
+    "social_links": [
+        "https://www.linkedin.com/company/sled-software",
+        "https://twitter.com/GetDotAi"
+    ],
+    "logo_path": "data/logos\\Dot_logo.png"
+}

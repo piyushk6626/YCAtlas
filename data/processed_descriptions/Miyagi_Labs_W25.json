@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/miyagi-labs",
+    "Name": "Miyagi Labs",
+    "Headline": "AI to transform YouTube content into interactive courses",
+    "Batch": "W25",
+    "Description": "Miyagi Labs is an AI-powered platform that transforms videos from content creators and professors into complete, interactive courses.\r\n\nYouTube is one of the best educational resources in the world, but it lacks the tools to turn passive watching into active learning. By making course creation as simple as uploading a video, we\u2019re building Shopify for online education, empowering content creators and educators to transform their knowledge into engaging, interactive learning experiences.\r\n\nWe automatically generate high-quality courses\u2014in under an hour\u2014that people actually complete. On our platform, learners engage with short-answer and multiple-choice questions, as well as quizzes, receiving instant feedback and support from an AI voice tutor if they need more help.",
+    "Activity_Status": "Active",
+    "Website": "https://miyagilabs.ai",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "New York",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "https://www.linkedin.com/company/miyagi-labs/",
+    "Company_Twitter": "",
+    "Tags": "industry:education; industry:generative-ai; industry:saas; industry:video; industry:media; location:new-york",
+    "social_links": [
+        "https://www.linkedin.com/company/miyagi-labs/",
+        "https://x.com/miyagi_labs"
+    ],
+    "logo_path": "data\\logos\\Miyagi_Labs.png",
+    "Active_Founders": [
+        {
+            "Name": "Guang Cui, Founder",
+            "Description": "Helping students learn better. Building Miyagi Labs, where we turn videos into complete and interactive courses. I'm originally from Maryland and studied computer science at MIT. I love music and ninja warrior.",
+            "LinkedIn": "https://www.linkedin.com/in/guang-cui/"
+        },
+        {
+            "Name": "Tyrone Davis III, Founder",
+            "Description": "Co-Founder of Miyagi Labs\n\nPreviously founded the nonprofit The Gift of Chess and grew it to become the largest chess charity in the world spreading chess education. Led donations of over 100,000+ chess sets to partner schools, clubs, refugee centers, orphanages and prisons. I'm from NYC and studied computer science at MIT.",
+            "LinkedIn": "https://www.linkedin.com/in/tyroned3/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "Miyagi Labs is on a mission to revolutionize the educational landscape by transforming YouTube videos into interactive courses. Launched in 2025 and part of Y Combinator's W25 batch, this New York-based startup aims to make learning active rather than passive. The vision is simple: harness the wealth of knowledge found on YouTube and provide tools that allow creators\u2014educators, professors, and influencers alike\u2014to easily convert their video content into structured, engaging learning experiences.\n\nThink of Miyagi Labs as the Shopify for online education. By enabling course creation to be as easy as uploading a video, it empowers users to deliver educational content that's not just watched but completed. The platform automatically generates high-quality, interactive courses in less than an hour, complete with quizzes, short-answer questions, and AI-driven feedback to support learners.\n\nThe company is a small team of two, backed by Harj Taggar as their Group Partner. Their unique approach sits at the intersection of education, generative AI, and software as a service, and they\u2019ve tagged themselves in a variety of relevant sectors including media and video.\n\nCurrently, they provide a platform where users can browse an array of courses created by their favorite YouTube educators and professors. With functionality that allows professors to convert lecture materials into courses or creators to expand their content into full-fledged educational experiences, Miyagi Labs is opening doors for innovative learning methods. \n\nFor anyone interested in exploring their offerings or becoming part of this learning journey, you can check out their website at [miyagilabs.ai](https://miyagilabs.ai). It\u2019s where education meets technology, born out of a vision to make learning interactive and engaging for everyone."
+}

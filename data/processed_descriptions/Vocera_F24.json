@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/vocera",
+    "name": "Vocera",
+    "headline": "Testing & Observability for AI voice agents",
+    "batch": "F24",
+    "description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Vocera - a solution that automates the testing process for your voice agents. With Vocera, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+    "activity_status": "Active",
+    "website": "https://www.vocera.ai/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Tarush Agarwal, Founder",
+            "description": "Tarush is the Co-founder and CEO @ Vocera. \n\nBefore this, Tarush spent 3 years in quant finance where he developed ultra low latency systems (think nanoseconds) and helped transform a loss making trading strategy into a successful desk doing millions in MRR in 3 months. \n\nHe studied computer science and statistics at IIT Bombay.",
+            "linkedin": "https://www.linkedin.com/in/tarush-agarwal-b14851160/"
+        },
+        {
+            "name": "Shashij Gupta, Founder",
+            "description": "Shashij is the Co-Founder & CTO @ Vocera.\n\nPreviously Shashij worked as a quantitative researcher in a trading firm searching for complex alphas. Shashij has also researched in NLP at Google Research and has a first author paper on testing transformers with 50+ citations from his work at ETH Zurich. \n\nHe has also studied computer science at IIT Bombay.",
+            "linkedin": "https://linkedin.com/in/shashij-gupta-671aa614a"
+        },
+        {
+            "name": "Sidhant Kabra, Founder",
+            "description": "Sidhant is the Co-Founder & CBO @ Vocera. \n\nSidhant comes from a consulting background advising CEOs at Fortune 500 companies in FMCG and medical devices. He also led a 100+ member team handling customer experience. Recently he drove product and growth at an edtech startup scaling from 0 to 170K+ users in 6 months. \n\nSidhant completed his bachelor\u2019s from IIT Bombay. During university, he raised $500K in sponsorship deals for Asia\u2019s largest student-led festival.",
+            "linkedin": "https://www.linkedin.com/in/sidhantkabra"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Summary of Vocera\n\n**Company Overview:**\nVocera, founded in 2024 and part of Y Combinator's Batch F24, operates under a clear mission: to provide testing and observability for AI voice agents. Imagine you're developing a voice assistant\u2014think digital receptionists or customer support bots. That\u2019s where Vocera steps in, making the tedious process of testing these bots not just manageable, but efficient.\n\n**The Problem They're Solving:**\nIn sectors where compliance and reliability are paramount, like health care or finance, manual testing can be a nightmare. Vocera recognizes this struggle, which is why they created a solution to automate testing. Users can validate the performance of their voice agents, ensuring they meet the required standards before going live. \n\n**How It Works:**\nVocera's platform simulates real-world conversations through various scenarios, using workflows, personas, and historical interactions. This helps developers pre-emptively identify and fix issues\u2014whether it's a new prompt that breaks functionality or an impatient user disrupting communication. Essentially, this is about saving time and increasing confidence in the technology being deployed.\n\n**What's Unique:**\nWith Vocera, you\u2019re not just getting a testing tool; you\u2019re accessing a platform that allows for real-time monitoring, trend analysis, and actionable insights. Imagine a dashboard that not only displays performance metrics but alerts you to potential failures before they affect users.\n\n**Who They Serve:**\nVocera is versatile, working across industries including customer support, sales, legal, and healthcare. They\u2019ve already gained traction, servicing over 50 conversational AI companies who trust them to ensure their voice agents work flawlessly.\n\n**Current Status:**\nThe company has a lean team of three and is operating out of Sunnyvale, CA. They\u2019re led by Nicolas Dessaigne as their group partner and are backed by Y Combinator\u2014a strong signal of their potential in the tech landscape.\n\n**Customer Testimonials:**\nUsers praise Vocera for its effectiveness and responsive support. CEOs and CTOs from various organizations highlight how they can now launch voice agents much faster, all while ensuring those agents are fine-tuned and ready for real-world scenarios.\n\nIf you\u2019re building AI voice agents, particularly in a compliance-heavy industry, Vocera is positioned to significantly streamline your development process. \n\n**Connect with Vocera:**\nFor more details, check their website at [Vocera](https://www.vocera.ai/). \n\nSo if you\u2019re tired of wasting time manually testing your bots, Vocera could just be the solution you\u2019ve been looking for.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/84488114be6567fedbb2fcdc1074aea22b7afc5c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192051Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8083b1da9b7164b3011826fc3913dcc0aed3eaa53d12dd77a4c26e4e32817eec",
+    "social_links": [
+        "https://www.linkedin.com/company/104795138",
+        "https://x.com/VoceraAI",
+        "https://github.com/vocera-ai"
+    ],
+    "logo_path": "data/logos\\Vocera_logo.png"
+}

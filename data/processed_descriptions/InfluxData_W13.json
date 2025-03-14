@@ -1,0 +1,35 @@
+{
+    "links": "https://www.ycombinator.com/companies/influxdata",
+    "name": "InfluxData",
+    "headline": "The platform for building and operating time series applications.",
+    "batch": "W13",
+    "description": "InfluxData, the creators of InfluxDB, delivers a modern Open Source Platform built from the ground up for analyzing metrics and events (time series data) for DevOps and IoT applications. Whether the data comes from humans, sensors, or machines, InfluxData empowers developers to build next-generation monitoring, analytics, and IoT applications faster, easier, and to scale delivering real business value quickly. Based in San Francisco, InfluxData customers include Autodesk, Cisco, eBay, and Coupa. Visit https://www.influxdata.com.",
+    "activity_status": "Active",
+    "website": "https://influxdata.com",
+    "founded_date": 2012.0,
+    "team_size": 210.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; industry:open-source; industry:time-series; industry:databases; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Paul Dix, Founder/CTO",
+            "description": "Co-founder and CTO of InfluxData, the company behind InfluxDB, an open source time series database. Creator of NYC Machine Learning Meetup, author of Service Oriented Design with Ruby, and series editor of Addison Wesley's Data & Analytics book and video series.",
+            "linkedin": "https://www.linkedin.com/in/pauldix/"
+        }
+    ],
+    "status": true,
+    "generated_description": "InfluxData is a dynamic company at the forefront of time series data management, founded in 2012 in San Francisco and notable for developing InfluxDB, a powerful open-source platform designed specifically for analyzing time series data. This platform caters primarily to applications in DevOps and Internet of Things (IoT), positioning itself as a cornerstone for industries needing real-time data processing capabilities.\n\n**Mission and Vision**: InfluxData's mission is clear: it aims to simplify the process of building and operating time series applications. Their tools allow developers to collect, analyze, and act on data\u2014from sensors, devices, or even human inputs\u2014faster and more efficiently than ever before.\n\n**Key Offerings**: InfluxData provides a range of products tailored for flexibility and control:\n- **InfluxDB Cloud**: Fully managed services, both in Serverless and Dedicated forms, allowing users to scale effortlessly in the cloud.\n- **Self-Managed Solutions**: For organizations that desire complete control, InfluxData offers Clustered versions of InfluxDB that can be implemented on-premises or in hybrid environments.\n\n**Use Cases**: The applications of InfluxData\u2019s technology are broad and impactful, including:\n- Real-time analytics for infrastructure and application monitoring\n- Network and device telemetry for IoT systems\n- Predictive maintenance through advanced analytics\n- Machine Learning and AI project support\n\n**Clientele**: With a customer base that includes tech giants like Autodesk, Cisco, and eBay, InfluxData has proven its reliability and efficacy in the marketplace, translating complex data into actionable insights across numerous industries.\n\n**Team and Culture**: Backed by a robust team of around 210 employees and advice from prominent partners like Y Combinator (where they were part of Batch W13), InfluxData represents a solid blend of innovative technology and skilled talent.\n\n**Marketplace Position**: As of 2023, InfluxData stands as a leader in the time series database arena, boasting over a billion downloads of InfluxDB and a thriving open-source ecosystem with over 1 million active instances.\n\nTo learn more and explore how InfluxData can empower your time series applications, check out their website at [InfluxData](https://www.influxdata.com). If you\u2019re looking to dive into the world of time series analytics, they have the tools and resources to get you started swiftly and effectively.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b4499916c9fc2261d6461b0cea5a5d35fcc67e5e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191432Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=705960260956db2fb194c79f92f65226f8b2c7b15371c7cad5838405353122f3",
+    "social_links": [
+        "https://www.linkedin.com/company/influxdb",
+        "https://twitter.com/InfluxDB?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "https://www.facebook.com/influxdb/",
+        "https://www.crunchbase.com/organization/influxdb",
+        "https://github.com/influxdata"
+    ],
+    "logo_path": "data/logos\\InfluxData_logo.png"
+}

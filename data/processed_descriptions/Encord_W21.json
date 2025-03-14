@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/encord",
+    "name": "Encord",
+    "headline": "The data development platform for AI teams",
+    "batch": "W21",
+    "description": "Encord is the leading data development platform for advanced vision and multimodal AI teams. We build tools and infrastructure to help the world's leading AI teams get their models into production faster - with data-centric model testing, human-centric workflow and annotation tools for labeling & RLHF, and data curation and management software. \r\n\nEncord is trusted by pioneering AI teams at Stanford Medicine, Mass General Brigham, Tractable, Viz AI, Iterative Health, the UHN, the Royal Navy, Veo, and many more global companies.",
+    "activity_status": "Active",
+    "website": "https://encord.com",
+    "founded_date": 2021.0,
+    "team_size": 70.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:machine-learning; industry:computer-vision; industry:ai",
+    "founders": [
+        {
+            "name": "Ulrik Stig Hansen, Co-Founder & President",
+            "description": "Co-Founder & President, Encord",
+            "linkedin": "https://www.linkedin.com/in/ulrik-stig-hansen-2658273b/"
+        },
+        {
+            "name": "Eric Landau, Founder",
+            "description": "Senior Quantitative Researcher | DRW \nSM Applied Physics | Harvard University\nMS Electrical Engineering, BS Physics  |  Stanford University",
+            "linkedin": "https://www.linkedin.com/in/eric-landau-40992ab0/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Encord is a London-based company founded in 2021, and it\u2019s making waves in the AI landscape as a premier data development platform specifically tailored for advanced vision and multimodal AI teams. As part of Y Combinator's W21 batch, Encord is laser-focused on helping organizations bring their AI models into production quickly and efficiently. Their mission? To provide a suite of tools for data-centric model testing, human-centric workflows, and robust data management.\n\nThe platform streamlines data management, curation, and annotation across various modalities\u2014think images, videos, texts, and medical files like DICOM. This allows users to transform massive volumes of unstructured data into high-quality training datasets, supporting the fine-tuning and alignment of AI models. Whether you're a researcher at Stanford Medicine or an AI innovator at Tractable, Encord's solutions are already trusted by industry leaders.\n\nEncord's skilled team of 70 employees is led by Nicolas Dessaigne, a Group Partner who brings valuable expertise to the operation. The company's pricing models are designed for accessibility, inviting potential users to explore [book a demo](https://encord.com/<https:/encord.com/try-it-free/>) and experience the platform's capabilities first-hand.\n\nTheir platform's features include advanced capabilities like customizable workflows, multimodal annotations, API access for developers, and strict adherence to security standards like SOC2, HIPAA, and GDPR compliance. Encord not only aims to simplify the process of managing and annotating data but also provides extensive resources for users, including e-books, blogs, and case studies showcasing significant improvements in tagging speeds and reduction in false positives for its clients.\n\nIf you\u2019re curious about Encord, take a peek at their website at [encord.com](https://encord.com). With tools that promise efficiency and reliability in AI data operations, Encord is carving out a significant niche in the fast-evolving AI arena.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8046e78047bbcf2f5537ad1cde271d9f25dcd8ba.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191314Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a171392e1e60a68ff429dcac809d4181fa59b69025357b709902e5b9c4a2c972",
+    "social_links": [
+        "https://www.linkedin.com/company/encord-team",
+        "https://twitter.com/encord_team",
+        "https://www.crunchbase.com/organization/cord-0d3f",
+        "https://github.com/encord-team"
+    ],
+    "logo_path": "data/logos\\Encord_logo.png"
+}

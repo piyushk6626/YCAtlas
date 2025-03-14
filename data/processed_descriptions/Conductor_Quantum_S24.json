@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/conductor-quantum",
+    "name": "Conductor Quantum",
+    "headline": "Quantum computers on silicon chips using AI.",
+    "batch": "S24",
+    "description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of silicon quantum technology and build a silicon-based quantum computer.",
+    "activity_status": "Active",
+    "website": "https://www.conductorquantum.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:machine-learning; industry:quantum-computing; industry:semiconductors; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Brandon Severin, Founder",
+            "description": "During my PhD at Oxford, I worked with 4 quantum institutions across the globe (IST Austria, Basel, UNSW, Diraq), developing algorithms for semiconductor quantum device control and published 4 papers on the topic including one in Nature.",
+            "linkedin": "https://www.linkedin.com/in/brandon-severin/"
+        },
+        {
+            "name": "Joel Pendleton, Founder",
+            "description": "Co-founder of Conductor Quantum, building quantum computers on silicon chips with AI. I\u2019ve worked at many deep tech startups and research labs, exploring various quantum computing technologies \u2014 from carbon nanotubes to superconducting transmon qubits. I left my PhD at Oxford to start Conductor Quantum.",
+            "linkedin": "https://www.linkedin.com/in/joelpendleton/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Conductor Quantum**\n\n**Founded:** 2024  \n**Location:** San Francisco, CA  \n**Team Size:** 2 Employees  \n**Y Combinator Batch:** S24  \n**Website:** [conductorquantum.com](https://www.conductorquantum.com)  \n\n**Mission:** Conductor Quantum is on a mission to revolutionize quantum computing by integrating AI into silicon chips. They believe that quantum computers will unlock fundamental understanding of our universe, speeding up processes like drug discovery and new materials development.\n\n**Current Challenges:**  \nQuantum engineers currently spend an inordinate amount of time \u2014 days or even weeks \u2014 fine-tuning silicon chips to operational conditions to manage just two qubits. A qubit, the basic unit of quantum information, is reminiscent of the bit in classical computing. However, to create a practical quantum computer, we need billions of these qubits.\n\n**Solution - Automation through AI:**  \nConductor Quantum aims to eliminate the need for intensive manual labor with their cutting-edge AI software that automates the process. The goal? Make scaling silicon quantum technology feasible and ultimately build a silicon-based quantum computer.\n\n**Product Highlights:**\n- **Push Button; Get Billions of Qubits:** Their product ethos emphasizes ease of access and automation in quantum computing. With a playful nod, Conductor Quantum positions itself as a pioneer in the field, promising to drastically simplify the quantum computing process.\n- **Advisory Team:** The company has enlisted experts like Andrea Morello, Susan Coppersmith, and Silvano De Franceschi to guide their scientific efforts.\n\n**Tags:** This venture is part of the broader hard-tech and machine-learning landscape, fitting snugly in the intersections of quantum computing, semiconductors, and AI, all buzzing out of the vibrant San Francisco Bay Area.\n\nIn essence, Conductor Quantum isn\u2019t just building a new tool; they\u2019re trying to define a new way of thinking about quantum computing. By combining AI with silicon technology, they're set to challenge what we currently consider possible in the realm of quantum capabilities.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e85d95bd4e525c0eed50302f438cb0313f6914b1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191100Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=775556fe0d74cfb62357f31672b01824e5e1771de6937aa1384c4d468fb61352",
+    "social_links": [
+        "https://www.linkedin.com/company/conductorquantum/",
+        "https://twitter.com/conductorquant",
+        "https://github.com/conductorquantum"
+    ],
+    "logo_path": "data/logos\\Conductor_Quantum_logo.png"
+}

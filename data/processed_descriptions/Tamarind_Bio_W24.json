@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/tamarind-bio",
+    "name": "Tamarind Bio",
+    "headline": "Easy to use computational biology tools for drug discovery",
+    "batch": "W24",
+    "description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\nGet in touch at founders@tamarind.bio",
+    "activity_status": "Active",
+    "website": "https://www.tamarind.bio",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-powered-drug-discovery; industry:artificial-intelligence; industry:saas; industry:b2b; industry:biotech",
+    "founders": [
+        {
+            "name": "Deniz Kavi, Founder",
+            "description": "Building great software for life scientists.",
+            "linkedin": "https://linkedin.com/in/deniz-kavi"
+        },
+        {
+            "name": "Sherry Liu, Founder",
+            "description": "I'm currently building Tamarind Bio: easy to use computational biology tools for scientists. I studied Computer Science at Stanford. Previously, I've worked at AWS and as a machine learning researcher at Stanford.",
+            "linkedin": "https://linkedin.com/in/sherryliu987"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Name:** Tamarind Bio\n\n**Founded:** 2023, part of Y Combinator Batch W24\n\n**Mission:** Tamarind Bio aims to simplify the drug discovery process by providing easy-to-use computational biology tools. \n\n**Overview:** Initially launched as a website and API, Tamarind Bio offers scientists access to advanced computational biology resources without the hassle of setting up complex computing environments. Users can leverage cutting-edge machine learning models like AlphaFold to efficiently design and simulate molecules through a straightforward interface. This means that researchers can focus more on their discoveries and less on the technical overhead.\n\n**Target Audience:** Tamarind's tools cater to a diverse range of users including researchers from large pharmaceutical companies, leading biotechs, and academic institutions. The primary focus is on protein design and engineering, specifically for antibodies, therapeutics, and enzymes.\n\n**Team:** Comprised of just two employees, Tamarind maintains a lean operation while still supporting thousands of researchers globally.\n\n**Key Features:**\n- **User-friendly Interface:** Simplifies access to sophisticated tools, allowing anyone to run experiments without needing deep technical expertise.\n- **Scalable Solutions:** The platform is designed to handle massive computational tasks, making it possible to process hundreds of thousands of inputs simultaneously.\n- **Security Assured:** Tamarind emphasizes data security, ensuring that all user data is stored securely with privacy guarantees.\n\n**Product Offerings:**\n- **Protein Design:** Flexible tools that allow users to create improved protein variants and innovative molecules.\n- **AI Integration:** Makes use of state-of-the-art machine learning methods and published methodologies like AlphaFold, RFdiffusion, and more.\n\n**Contact Information:** For inquiries, Tamarind Bio can be reached at founders@tamarind.bio. \n\n**Website:** Interested users can explore their offerings in detail at [Tamarind Bio's official website](https://www.tamarind.bio).\n\n**Conclusion:** Tamarind Bio represents a promising advancement in the field of computational biology, taking on the heavy lifting of drug discovery tools to empower scientists. By removing the barriers typically associated with high-performance computing, they are poised to accelerate research and innovation in the life sciences landscape. If you're involved in biotech or pharma research, getting started with Tamarind could be a game changer for your projects. ",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a1fecfc2e9dc6cf767c30eb4a80173ebf546dac9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192005Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dd47d11f7113a5b25e8427426e26871d493650d84e3364f0c42962a50402d11e",
+    "social_links": [
+        "https://www.linkedin.com/company/tamarind-bio/"
+    ],
+    "logo_path": "data/logos\\Tamarind_Bio_logo.png"
+}

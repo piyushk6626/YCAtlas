@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/paragon",
+    "name": "Paragon",
+    "headline": "The embedded integration platform for SaaS apps.",
+    "batch": "W20",
+    "description": "Paragon enables companies to build products that integrate with the SaaS ecosystem. With Paragon, software companies can integrate with hundreds of different SaaS apps in minutes while providing their customers with a seamless, unified integration experience",
+    "activity_status": "Active",
+    "website": "http://useparagon.com",
+    "founded_date": 2019.0,
+    "team_size": 22.0,
+    "location": "Los Angeles, CA",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; location:los-angeles",
+    "founders": [
+        {
+            "name": "Brandon Foo, Founder",
+            "description": "Founder and CEO of Paragon.",
+            "linkedin": "https://www.linkedin.com/in/brandonfoo"
+        },
+        {
+            "name": "Ishmael Samuel, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/ishmaelsamuel"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: Paragon\n\n**Mission:** \nParagon is on a mission to be the embedded integration platform for SaaS applications. It provides a seamless way for software companies to integrate their products with thousands of different SaaS apps, making data synchronization effortless and reliable.\n\n**Background:**\nFounded in 2019 and a proud member of Y Combinator Batch W20, Paragon has grown into a significant player in the developer tools and SaaS space. Based in Los Angeles, California, the company operates with a talented team of 22 employees.\n\n**Key People:**\n- **Dalton Caldwell** serves as the Group Partner, helping guide the strategy and growth of the company.\n\n**What They Offer:**\nParagon empowers developers by simplifying integration tasks. With Paragon, businesses can build and manage integrations faster and more efficiently, enabling users to connect their 3rd-party applications with just a few clicks. The platform is purpose-built to handle various use cases, from data ingestion to real-time sync, all while sustaining a high level of security and scalability. Here are some of its standout features:\n- **Integration Connectors:** Over 100 pre-built connectors to popular SaaS tools (think Salesforce, HubSpot, Slack).\n- **Workflows:** Automate data transfers and syncs across multiple applications, enhancing productivity.\n- **Custom Integration Builder:** Allow companies to create tailored solutions that meet specific needs.\n- **Monitoring & Logging:** Full visibility over integrations helps troubleshoot and optimize performance effortlessly.\n\n**Target Audience:**\nPrimarily focused on B2B and AI SaaS engineering teams, Paragon caters to over 150 engineering teams globally, streamlining their integration processes and enhancing user experience.\n\n**Why Engineers Choose Paragon:**\nFeedback from users highlights:\n- A user-friendly design coupled with thorough documentation.\n- Rapid deployment of integrations\u2014some clients report launching solutions in under two weeks.\n- An exceptional support team that is proactive in responding to technical challenges.\n\n**Get Involved:**\nInterested companies can get their foot in the door by signing up for a demo or exploring the platform through interactive product tours. \n\nFor those looking to connect, Paragon\u2019s website (http://useparagon.com) offers extensive resources, including case studies from satisfied clients, detailed documentation, and real-time status updates on their services.\n\n### Conclusion\nParagon stands as a robust solution for developers grappling with integrations in our increasingly interconnected software ecosystem. It promises efficiency and reliability, making it a compelling choice for those in the SaaS domain.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b4bb6b425a4381a2030621ef3c6a5bc0f60291e9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191623Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6ae99376eaa8387badfa9f3b1fc71fa15bc3b4c4d68265182c816bbbfc609563",
+    "social_links": [
+        "https://www.linkedin.com/company/useparagon/",
+        "https://www.twitter.com/useparagon",
+        "https://www.crunchbase.com/organization/paragon-853c"
+    ],
+    "logo_path": "data/logos\\Paragon_logo.png"
+}

@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/jitsu",
+    "name": "Jitsu",
+    "headline": "Capture Event Data into Your Stack",
+    "batch": "S20",
+    "description": "Jitsu is the fastest, most durable way to collect event data from every source - web, app, email, chatbot, CRM - into your data warehouse. 100% open-source. Purpose built, secure and ready in minutes.",
+    "activity_status": "Active",
+    "website": "https://jitsu.com",
+    "founded_date": 2020.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:open-source; industry:data-engineering; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Vladimir Klimontovich, Founder",
+            "description": "Vladimir is currently co-founder and CTO of Jitsu. Prior to Jitsu he was COO and co-founder of GetIntent, a high-performance AI-powered ad-tech platform.",
+            "linkedin": "https://www.linkedin.com/in/klimontovich/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Jitsu Overview**\n\nFounded in 2020 as part of Y Combinator's Summer 2020 batch, Jitsu is a San Francisco-based company that specializes in the seamless collection of event data across various platforms\u2014be it web browsers, applications, emails, or chatbots. Its mission? To capture event data into your data stack. And the way it's doing this? Fast, open-source, and incredibly durable.\n\n**What Makes Jitsu Stand Out?**\n\n- **Open Source**: 100% open-source and designed for flexibility, Jitsu can be deployed on your own infrastructure or it can run in the cloud, with no strings attached. This setup resonates well with developers who favor autonomy and customization.\n  \n- **Rapid Implementation**: Setting up Jitsu is refreshingly simple. You just add a tag to your source, similar to Google Analytics. In just minutes, you can start collecting data with minimal hassle. \n\n- **No Vendor Lock-in**: Jitsu emphasizes a \"warehouse-first\" strategy, allowing users to maintain their data warehouses as single sources of truth without getting tangled up with vendor restrictions.\n\n- **Real-Time Streaming**: It boasts real-time event streaming capabilities, meaning your user behavior data flows directly into your preferred data warehouse, ready for analysis within minutes instead of hours.\n\n- **Developer Flexibility**: Jitsu Functions allow developers to modify and filter events in real-time using a familiar JavaScript environment, tapping into the rich ecosystem of npm packages and libraries.\n\n**Key Features**\n\n1. **Event Capture**: A straightforward tagging mechanism to capture events from any platform.\n   \n2. **Data Privacy**: Users can utilize their data warehouses (like Snowflake or BigQuery) while also having free access to Clickhouse.\n\n3. **Automatic User Identity**: Jitsu builds a real-time identity graph, aggregating user data seamlessly\u2014no complex SQL queries needed.\n\n4. **Custom Domains**: To combat ad-blockers and to maintain clean analytics, Jitsu can operate under your own subdomain.\n\n**Customer Support and Pricing**\n\nJitsu offers a generous free tier for businesses, allowing up to 200,000 events without requiring a credit card. Trusted by industry leaders like PandaDoc and Investing.com, Jitsu is demonstrably effective for organizations looking to enhance their data handling capabilities.\n\n**In Summary**\n\nJitsu is not just another tool in the crowded space of data collection; it\u2019s an open-source solution designed for speed and flexibility. If you need to collect and analyze event data effortlessly, this might just be the tool you\u2019ve been looking for. Check it out at [jitsu.com](https://jitsu.com) and transform how you manage your event data.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8f87a90daef2a7d77df196148f508e98ed13b0e8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191442Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=92e12e611efb78406d0b8eada4b3280a0c2653eed4dde223a735d3fbd648d3ea",
+    "social_links": [
+        "https://www.linkedin.com/company/jitsucom",
+        "https://twitter.com/jitsucom",
+        "https://github.com/jitsucom"
+    ],
+    "logo_path": "data/logos\\Jitsu_logo.png"
+}

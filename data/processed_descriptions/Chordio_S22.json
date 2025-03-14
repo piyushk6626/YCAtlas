@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/chordio",
+    "name": "Chordio",
+    "headline": "UX design copilot",
+    "batch": "S22",
+    "description": "Chordio is an AI design companion that reviews your designs for UX copy, best practices, and design system compliance. It also helps you ideate and compose solid product briefs in minutes, including flow charts and lo-fi wireframes. \r\n\nIt goes beyond generic advice and learns the nuances of your product, design system, and best practices. This means every suggestion is fine tuned to help you thoughtfully enhance your existing product. \r\n\nFinally, it works where you do - in Figma, Slack, and web, so it's easy to incorporate into your existing workflow.",
+    "activity_status": "Active",
+    "website": "https://chordio.com",
+    "founded_date": 2022.0,
+    "team_size": 4.0,
+    "location": "Issaquah, WA",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Ehud Halberstam, Founder/CEO",
+            "description": "I'm the co-founder and CEO of Chordio. From 2014-2017 I was a co-founder and CEO of Brand.ai, where we built a platform that solved problems of design at scale at the enterprise. \nIn 2015 Brand.ai participated in the Techstars accelerator and raised financing from amazing investors. It was acquired by InVision in 2017. \nFrom 2017-2022 I helped build Brand.ai into InVision DSM, InVision's second commercial product.",
+            "linkedin": "http://www.linkedin.com/in/halberstam"
+        },
+        {
+            "name": "Amit Bar, Founder",
+            "description": "Co-founder and CTO - Chordio.\n\nPreviously co-founded Brand.ai - a platform for design system management. Sold to InVision in 2017, and stayed on as an engineering manager and director of engineering. Continued to scale and evolve the product into InVision's DSM (Design System Manager).\n\nMoved on in 2022 to lean into the project management space, where I see many familiar patterns and challenges waiting to be solved.",
+            "linkedin": "https://il.linkedin.com/in/amithalb"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Chordio: Your UX Design Copilot**\n\nFounded in 2022 and hailing from the creative hub of Issaquah, WA, Chordio is on a mission to revolutionize the world of user experience design. As part of the Y Combinator Batch S22, this startup is making waves in the SaaS and B2B sectors with its unique approach to UX design.\n\nAt its core, Chordio acts as an AI design companion that goes beyond mere templates or generic suggestions. It meticulously reviews your UX designs, offering insights on copy, best practices, and compliance with your design system. Imagine having a savvy co-pilot that can help you draft comprehensive product briefs in a matter of minutes, complete with flow charts and lo-fi wireframes.\n\nWhat sets Chordio apart is its ability to learn the specific nuances of your product. It fine-tunes its suggestions to align with your unique design system, ensuring that each piece of advice directly enhances your existing work. This means more thoughtful, impactful design decisions without the usual delays.\n\nEase of integration is another hallmark of Chordio. Whether you\u2019re a Figma user or prefer Slack for communications, Chordio fits seamlessly into your workflow, making it easier than ever to enhance your designs.\n\nWith a small but dedicated team of four, Chordio is poised to help designers and organizations create products that are not just functional, but delightful to use. If you want to learn more about Chordio and its offerings, check out their website at [chordio.com](https://chordio.com). \n\nIn a nutshell, Chordio isn\u2019t just another tool; it\u2019s a design partner ready to elevate your user experience.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0c429d888bd727bc7dbe02ef114c021aadd9d7b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191048Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=607e51c0453d35552f6635cb05fddc158d829ec8a3b34921a6c92466cd814137",
+    "social_links": [
+        "https://www.linkedin.com/company/chordio/",
+        "https://twitter.com/chordioapp"
+    ],
+    "logo_path": "data/logos\\Chordio_logo.png"
+}

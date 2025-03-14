@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/atomwise",
+    "name": "Atomwise",
+    "headline": "Artificial intelligence for drug discovery.",
+    "batch": "W15",
+    "description": "Atomwise is a preclinical tech-enabled biotech using machine learning for hit discovery, hit expansion, and lead optimization.  We were the first team to apply convolutional neural networks to drug discovery.  We focus on identifying and optimizing novel small molecule scaffolds and unlocking previously-undrugged protein targets.",
+    "activity_status": "Active",
+    "website": "http://atomwise.com",
+    "founded_date": null,
+    "team_size": 67.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-powered-drug-discovery; industry:deep-learning; industry:biotech; industry:drug-discovery; industry:oncology; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Abraham Heifets, Founder/CEO",
+            "description": "Abraham Heifets is cofounder and CEO of Atomwise. He was a Massey Fellow at the University of Toronto and the Ontario Brain Institute, where his doctoral work used machine learning to plan organic syntheses, a long-standing challenge in chemistry. Previously, Abraham researched compilers for high-performance data processing at IBM's T.J. Watson Research Center and helped build the AI system of the world-champion robotic soccer team at Cornell University. He was Time's Person of the Year in 2006.",
+            "linkedin": "https://www.linkedin.com/in/abrahamheifets/"
+        },
+        {
+            "name": "Izhar Wallach, Founder/CTO",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/izhar-wallach-a0403811/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Atomwise: Revolutionizing Drug Discovery with AI**\n\nAtomwise is a biotech company based in San Francisco, dedicated to leveraging artificial intelligence (AI) for drug discovery. Specifically, they\u2019re harnessing the power of deep learning to create new medicines, especially in areas that have been traditionally challenging, like oncology. Atomwise was established as part of Y Combinator's W15 batch, and it has evolved to become a leader in tech-enabled biotech.\n\n**What They Do**\n\nAt the forefront of Atomwise\u2019s innovation is their application of convolutional neural networks, which they claim was a first in drug discovery. Their mission revolves around identifying and optimizing novel small molecule scaffolds while unlocking previously undrugged protein targets. This focus enables them to streamline the process of hit discovery, hit expansion, and lead optimization in preclinical drug development.\n\n**Team and Culture**\n\nWith a dedicated team of 67 employees, Atomwise combines a highly skilled workforce with a collaborative environment. They are serious about their culture, as showcased on their website, where you can explore life at Atomwise and current career opportunities.\n\n**Partnerships and Pipeline**\n\nAtomwise develops both wholly owned and co-developed pipeline assets, working alongside prominent investors and other research institutions. Their commitment to transparency in their approach can be seen in their robust pipeline, which includes partnerships that augment their research capabilities.\n\n**Founders and Leadership**\n\nThe company operates under strong leadership, promising to blend technological prowess with scientific expertise to tackle some of the toughest problems in drug discovery. They highlight the importance of people as key drivers of their innovation.\n\n**Further Involvement**\n\nIf you're interested in staying updated on Atomwise's advancements, they maintain a section for news and events, which keeps stakeholders informed about their progress and studies.\n\nFor more comprehensive information, you can check out their [website](http://atomwise.com) and learn more about their approach, team, and ongoing projects.\n\n---\n\nAtomwise is not just another biotech; it\u2019s a glimpse into the future of drug discovery, utilizing AI to break barriers that have long hindered medical advancements. With them, the intersection of technology and health is poised for substantial transformation.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b1e78c91127811e9c9ef8034007c296ac5aff28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191010Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6aa16f7d4b3256512f16c20c8b84c4741976d37eea0d4315953848c9855e0a5c",
+    "social_links": [
+        "https://www.linkedin.com/company/atomwise/",
+        "https://twitter.com/atomwiseinc",
+        "https://www.crunchbase.com/organization/atomwise"
+    ],
+    "logo_path": "data/logos\\Atomwise_logo.png"
+}

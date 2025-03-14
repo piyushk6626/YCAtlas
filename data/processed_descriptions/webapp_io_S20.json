@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/webapp-io",
+    "name": "webapp.io",
+    "headline": "Build webapps faster with 10x better CI/CD + preview envs",
+    "batch": "S20",
+    "description": "Webapp.io's custom hypervisor makes webapp CI/CD, E2E testing, and preview environments as simple as writing a Dockerfile.\r\n\nIf your team is building a webapp + using github/gitlab/bitbucket, please reach out!",
+    "activity_status": "Active",
+    "website": "https://webapp.io",
+    "founded_date": 2020.0,
+    "team_size": 4.0,
+    "location": "Toronto, Canada",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Colin Chartier, Founder",
+            "description": "Technical founder, full-stack, system design, & devops\nTriple major (CS/stats/math) from University of Toronto",
+            "linkedin": "https://www.linkedin.com/in/colinchartier/"
+        },
+        {
+            "name": "Lyn Chen, Founder",
+            "description": "Now Co-founder & COO @ https://Webapp.io\n\nPreviously worked in growth eng roles from startups all the way to tech giants, one of which she saved from shutting down. Former CEO of a food tech company that sold products to PWC, Marriott Hotels, WeWork.\n\nQueen's CS + Econ, dropped out via Thiel Fellowship. Powerlifter!",
+            "linkedin": "https://www.linkedin.com/in/lynchen/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Webapp.io: Accelerating Webapp Development\n\n**Introduction**\nFounded in 2020 and a proud member of Y Combinator's Batch S20, Webapp.io is revolutionizing the way teams build web applications. Based in Toronto, Canada, this lean team of four is dedicated to making CI/CD processes ten times faster, enhancing productivity through powerful preview environments and streamlined pipelines.\n\n**Mission**\nWebapp.io is on a mission to help development teams build web applications faster, simplifying what can often be a convoluted deployment process. Their early innovation\u2014a custom hypervisor\u2014makes Continuous Integration (CI), Continuous Deployment (CD), end-to-end testing, and preview environments as easy as creating a Dockerfile.\n\n**Core Features**\n1. **Preview Environments**: Access full-stack previews of applications with ease, allowing developers to see their changes live before merging to production.\n2. **Enhanced CI/CD**: Fast and efficient pipelines eliminate waiting time with advanced caching strategies. This means no more delays waiting for dependencies to install.\n3. **Parallel Testing**: Webapp.io allows for creating multiple copies of your app for rapid testing, significantly speeding up the feedback loop during development.\n\n**Getting Started**\nSetting up Webapp.io is refreshingly quick\u2014you're just three steps away:\n1. Integrate with your source control system (GitHub, GitLab, Bitbucket).\n2. Define build processes with a Layerfile, akin to a Dockerfile.\n3. Push your code, and let Webapp.io handle the rest.\n\n**Integration and Compatibility**\nWebapp.io seamlessly integrates with popular tools and frameworks including Docker, Cypress, and Jest. This compatibility ensures that developers can easily plug Webapp.io into their existing workflows.\n\n**Why Developers Love Webapp.io**\nThe core of Webapp.io's appeal lies in its ability to eliminate bottlenecks in the development process. Developers rave about:\n- **10x Faster Iteration**: Streamlined builds and tests save valuable time.\n- **Ease of Use**: No complex systems\u2014just straightforward integration and deployment.\n- **Active Community Support**: The team and fellow users are eager to assist, making troubleshooting easier.\n\n**Future & Outlook**\nWhile the company has set its sights firmly on reshaping web application development now, they have announced a shutdown date of June 1, 2025. This creates an urgency to try out their offering and potentially shape future integrations or similar tools. \n\nWhether your team is building web apps or looking for better deployment solutions, Webapp.io is ready to help. Reach out for a trial and experience faster CI/CD flows. \n\nTo learn more, visit their website: [Webapp.io](https://webapp.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/621381e9ea2c757b2c80b4faab68ca8b5b2865b9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192057Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=38a45a477dff034ceca1bba5e1881f968563a8cc8987517ad0543e5201bf05b7",
+    "social_links": [
+        "https://www.linkedin.com/company/webappio",
+        "https://twitter.com/webappio",
+        "https://facebook.com/webappio",
+        "https://github.com/webappio"
+    ],
+    "logo_path": "data/logos\\webapp.io_logo.png"
+}

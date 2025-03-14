@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/shaped",
+    "name": "Shaped",
+    "headline": "The fastest path to relevant recommendations and search",
+    "batch": "W22",
+    "description": "Increase engagement, conversion, and revenue with a configurable search and recommendation system that adapts in real-time.",
+    "activity_status": "Active",
+    "website": "https://shaped.ai",
+    "founded_date": 2021.0,
+    "team_size": 12.0,
+    "location": "New York",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:machine-learning; industry:api; industry:search; industry:recommendation-system; location:new-york",
+    "founders": [
+        {
+            "name": "Tullie Murrell, Founder/CEO",
+            "description": "CEO of Shaped. \nPreviously an AI researcher at Facebook AI Research (FAIR).\nCreator of PyTorchVideo & original core contributor to PyTorch Lightning.\nPassionate about anything AI, machine-learning and statistics.",
+            "linkedin": "https://www.linkedin.com/in/tullie/"
+        },
+        {
+            "name": "Daniel Camilleri, Founder",
+            "description": "COO of Shaped. \nPreviously head of product research at Afterpay and lead UXR at Uber. \nPassionate about behavioural economics, statistics and design.",
+            "linkedin": "https://www.linkedin.com/in/danielcamilleri/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Shaped: Your Partner in Real-Time Recommendations**\n\nFounded in 2021 and located in New York, Shaped is on a mission to enhance the way users receive recommendations and navigate searches online. At its core, Shaped offers a configurable search and recommendation system designed to boost engagement, conversion rates, and revenue for businesses of all sizes. With a team of 12 and backers like Y Combinator (Batch W22), Shaped is quickly establishing itself as a leader in the AI-driven recommendation space.\n\n**What Does Shaped Do?**\n\nShaped provides tools that allow businesses to seamlessly integrate sophisticated search and recommendation functionalities into their existing workflow. Their system adapts in real-time, meaning that as user behavior changes, so too do the recommendations and search results. This adaptability translates into higher engagement and better user experiences across platforms, whether it\u2019s a marketplace, e-commerce site, or media platform.\n\nTheir product offerings include:\n- **Semantic Search**: Making search results more relevant by understanding user intent better.\n- **Recommendations**: Tailoring suggestions based on user behavior and preferences.\n- **Analytics**: Providing insights into user interactions and system performance.\n\n**Why Choose Shaped?**\n\n1. **Easy Integration**: Businesses can connect to Shaped rapidly without extensive overhauls of their existing data systems.\n2. **Real-Time Adaptability**: The platform utilizes behavioral signals to adjust recommendations dynamically.\n3. **Advanced Technology**: Shaped makes use of Large Language Models (LLMs) for nuanced understanding of unstructured data.\n4. **Customization**: Users can create and test various ranking models tailored to their specific needs.\n5. **Security**: With enterprise-grade security measures, including GDPR and SOC2 compliance, Shaped is designed with data privacy in mind.\n\nShaped has built a platform that caters not just to developers but also to data scientists and data engineers, ensuring that everyone can benefit from its capabilities.\n\n**Proven Impact**\n\nShaped boasts impressive metrics:\n- Over 100 million users and items processed.\n- Capable of handling over 1,000 queries per second.\n- In some implementations, clients have seen up to a 4x increase in redemption rates and a 16% lift in average order value.\n\nSo if you\u2019re looking to fundamentally change how your users interact with your digital spaces, consider Shaped. With their innovative approach to AI-driven recommendations and a proven track record of success, they may just be the partner you need to elevate your platform\u2019s performance.\n\nYou can learn more or request a demo through their [website](https://shaped.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/14c3fc0353a7300e602c0819335b94ad82914cf1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191918Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d43766ef0737a5c0f6ba7911bc02fcda65c77a37a9c0af1c91ffa83d9eb63516",
+    "social_links": [
+        "https://www.linkedin.com/company/shapedai",
+        "https://twitter.com/shapedai"
+    ],
+    "logo_path": "data/logos\\Shaped_logo.png"
+}

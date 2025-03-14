@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/autumn",
+    "name": "Autumn",
+    "headline": "Build any pricing model in a few lines of code",
+    "batch": "F24",
+    "description": "Autumn is an open-source layer over Stripe that handles any pricing model in a few lines of code.",
+    "activity_status": "Active",
+    "website": "https://useautumn.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Pete Koomen",
+    "group_partner_yc": "https://www.ycombinator.com/people/pete-koomen",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:payments; industry:b2b; industry:subscriptions; industry:billing",
+    "founders": [
+        {
+            "name": "Ayush Rodrigues, Founder",
+            "description": "Previously a PM at a London-based payment company called Checkout.com.",
+            "linkedin": "https://www.linkedin.com/in/ayrod"
+        },
+        {
+            "name": "John Yeo, Founder",
+            "description": "I've been building software for 6 years now, and before Recase, built a low-code platform to help devs speed up backend development. Studied computer engineering at Imperial College London.",
+            "linkedin": "https://www.linkedin.com/in/johnyeocx"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Autumn**\n\nAutumn is a startup that launched in 2024 as part of Y Combinator's Batch F24, geared towards simplifying the way businesses handle pricing models. With just a team of two, Autumn has a clear mission: to let developers build any pricing model within a couple of lines of code. This concept stems from its foundation as an open-source layer over Stripe, designed to tackle the complexities of pricing and billing.\n\n**What It Does:**\nAt its core, Autumn helps businesses create customizable billing solutions effortlessly. Users can define pricing models for subscriptions, usage, add-ons, and more, all without heavy engineering overhead. The key selling point? With Autumn, you can embed a complete pricing solution into your application swiftly. Just define how users are charged, connect products to Stripe, and Autumn handles the rest\u2014tracking subscriptions and entitlement checks seamlessly.\n\n**Why It Matters:**\nIn today's competitive landscape, companies need flexibility in their pricing strategies, but traditional methods can be cumbersome and prone to errors. Autumn addresses this by reducing development time and assembling a product that allows for quick iterations and easier updates to pricing models. It removes the headaches associated with managing customer subscriptions and integrations, allowing developers to focus on building features rather than infrastructure.\n\n**Funding and Support:**\nAutumn is backed by notable investors, including Khosla Ventures and Kleiner Perkins, providing it with the necessary resources to continue developing its platform.\n\n**Team:**\nThe company is based in an undisclosed location, with a compact team of two, led by Group Partner Pete Koomen.\n\n**Conclusion:**\nIf you're a developer or a startup looking to streamline your billing efforts, Autumn positions itself as a powerful ally. By leveraging existing systems like Stripe and coupling them with user-friendly code interfaces, Autumn proves to be a practical solution for modern software monetization challenges. In a world where engineering time is precious, few tools can compete with the simplicity and effectiveness of Autumn's model.\n  \nFor more information or to get started, visit their website at [useautumn.com](https://useautumn.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d2d9d531a3ad719d8c83927314ae7594c1d1e3fa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191012Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b5f0e253b8524f558d62dc80684805a6afc7258ee0a70c80c8464554ac55eee0",
+    "social_links": [
+        "https://www.linkedin.com/company/useautumn",
+        "https://x.com/autumnpricing",
+        "https://github.com/johnyeocx/autumn"
+    ],
+    "logo_path": "data/logos\\Autumn_logo.png"
+}

@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/albedo",
+    "name": "Albedo",
+    "headline": "Capturing the highest resolution satellite imagery",
+    "batch": "W21",
+    "description": "Albedo is the first space company to commercialize the new orbit regime of VLEO (very low earth orbit). VLEO enables enhanced data quality for numerous earth observation modalities.\r\n\nOur first VLEO satellite, named Clarity and built in-house, is launching in 2025 and will capture visible & thermal images at a resolution that can only be obtained today from drones/planes (commercially) or classified National Security systems.\r\n\nThe world is rapidly changing and a new level of visibility and transparency is required to solve some of our largest problems. Albedo\u2019s 10cm visible and 2m thermal imagery will fuel insights for industries such as mapping, insurance, utilities, solar, agriculture, carbon offsets, infrastructure sustainability, national security, and much more.",
+    "activity_status": "Active",
+    "website": "https://albedo.com",
+    "founded_date": 2020.0,
+    "team_size": 55.0,
+    "location": "Denver, CO",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:satellites; industry:climate; industry:aerospace",
+    "founders": [
+        {
+            "name": "Topher Haddad, Founder",
+            "description": "Previous to being CEO of Albedo, Topher was a systems engineer at Lockheed Martin working on top secret remote sensing satellites. Topher led teams involved in the optical design and imaging architecture across multiple $B+ government programs. He holds a B.S. in Mechanical Engineering from UT Austin and an M.S. in Electrical Engineering from Johns Hopkins.",
+            "linkedin": "https://www.linkedin.com/in/topher-haddad-a9a460a4/"
+        },
+        {
+            "name": "AyJay Lasater, Founder",
+            "description": "CTO at Albedo. Previous to Albedo, AyJay was a System Architect at Lockheed Martin, developing satellite constellations, satellite designs from concept to launch and in-obit ops, and iterated on various in-depth performance analysis. He managed teams, contracts, and schedules for multiple programs. AyJa worked with high performing small sats and exquisite large satellites for the government. He holds a B.S. in Mechanical Engineering from Colorado School of Mines and M.S. in Mechatronics from DU.",
+            "linkedin": "https://www.linkedin.com/in/aj-lasater/"
+        },
+        {
+            "name": "Winston Tri, Founder",
+            "description": "Chief Product Officer at Albedo\n\nFormer Facebook engineer specializing in using remote-sensing data and techniques for wireless network planning and satellite imagery feature detection. Previous founder of Ping Social, a small-scale event planning application for spontaneous hangouts with friends.",
+            "linkedin": "https://www.linkedin.com/in/winstontri/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Albedo: Capturing a New Perspective from Space**\n\nFounded in 2020 and based in Denver, Colorado, Albedo is on a mission to revolutionize the way we perceive our planet through ultra-high-resolution satellite imagery. Their cutting-edge technology leverages a unique orbital regime known as Very Low Earth Orbit (VLEO), which allows the company to deliver imagery with a level of detail previously only achievable by drones or specialized military systems.\n\n### What They Do\nAlbedo's flagship satellite, Clarity, is set to launch in 2025. It will provide stunning 10cm visible and 2m thermal images\u2014a significant upgrade in resolution compared to existing commercial satellites. This capability opens doors for a myriad of applications, from mapping and agriculture to insurance, utilities, and national security.\n\n### The Need for Transparency\nToday, as the world faces complex challenges like climate change and urban development, the need for clear and immediate data is growing. Albedo\u2019s imagery will deliver insights that enable businesses, governments, and researchers to make informed decisions quickly and effectively.\n\n### Target Industries\nAlbedo aims to serve a broad range of industries:\n- **Agriculture**: Enhance crop management and yield forecasting.\n- **Insurance**: Provide detailed assessments for risk management.\n- **Urban Development**: Analyze land use and urban planning.\n- **Infrastructure**: Monitor condition and sustainability of critical assets.\n- **Defense**: Gain accurate situational awareness in real-time.\n\n### The Team and Backing\nCurrently employing about 55 people, Albedo is backed by prominent investors including Y Combinator, which they joined as part of their Winter 2021 batch. Brad Flora, their Group Partner, underscores their commitment to innovation in the aerospace realm.\n\n### Future Impact\nAlbedo isn't just launching a satellite; they are crafting a tool for transparency and sustainability. By bridging the gap between space technology and immediate applications, they\u2019re positioning themselves as a leader in the hard-tech and climate-tech sectors. As they prepare for launch, the anticipation of the impact their high-resolution data will have on decision-making processes across various fields is palpable.\n\nWith Albedo, the future looks clearer\u2014literally.\n\nFor more information, visit their website at [Albedo.com](https://albedo.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d4e01d052db255ebab3127a2625cb6f9c7a51349.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7b5bf98b80d030460dfe66fa679fcf49c083c020c265bec6f249163afbd756b5",
+    "social_links": [
+        "https://www.linkedin.com/company/albedo-space",
+        "https://twitter.com/albedo",
+        "https://www.crunchbase.com/organization/albedo"
+    ],
+    "logo_path": "data/logos\\Albedo_logo.png"
+}

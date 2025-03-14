@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/roboflow",
+    "name": "Roboflow",
+    "headline": "\u00f0\u009f\u0096\u00bc\u00ef\u00b8\u008f Give your software the sense of sight.",
+    "batch": "S20",
+    "description": "Roboflow enables developers to make the world programmable.\r\n\nUse our tools to build better datasets (collect image, video / annotate), models (foundation and fine tuned small models), and deployments (self hosted, edge, APIs, SDKs) for computer vision. Over 250k developers, including those from over half the Fortune 100, build with our open source and hosted tools.\r\n\nBuild with us: https://app.roboflow.com\r\nHack with us: https://roboflow.slab.com/public/posts/roboflow-hackathons-external-u478m1iz\r\nWork with us: roboflow.com/careers",
+    "activity_status": "Active",
+    "website": "https://roboflow.com",
+    "founded_date": 2019.0,
+    "team_size": 50.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:machine-learning; industry:computer-vision; industry:api; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Joseph Nelson, Founder",
+            "description": "Cofounder of Roboflow, enabling developers to make the world programmable with open source and hosted computer vision tools for dataset, models, and deployments.\n\nPreviously, cofounded/sold Represently (\"Zendesk for Congress\"), taught at General Assembly, and worked at Facebook.",
+            "linkedin": "https://www.linkedin.com/in/josephofiowa/"
+        },
+        {
+            "name": "Brad Dwyer, Founder",
+            "description": "Co-founder of Roboflow; putting computer vision into the toolbelt of every developer.\n\nPreviously founded and bootstrapped Hatchlings, a social gaming company, to 10 million+ users and 7 figures in revenue.\n\nI love building things. I've been putting stuff online for basically as long as I can remember. In high school ran a web development company that did work for companies including Charles Schwab, Sony BMG, and PAX TV (on the Internet, no one knows you're still in high school).",
+            "linkedin": "https://www.linkedin.com/in/brad-dwyer-b6b4136"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Summary of Roboflow\n\n**Company Name:** Roboflow  \n**Founded:** 2019  \n**Location:** San Francisco, California  \n**Team Size:** ~50 employees  \n**Funding:** Recently completed a $40M Series B funding round.  \n\n---\n\n**Mission Statement:** Roboflow aims to give software \u201cthe sense of sight.\u201d Essentially, they're in the business of making computer vision accessible and effective for developers, enabling them to build intelligent applications that can interpret visual data.\n\n#### Core Offerings\nRoboflow offers a comprehensive suite of tools that assist developers in the following:\n- **Building Datasets:** Collecting and annotating images and videos efficiently.\n- **Training Models:** Providing access to foundational and fine-tuned models for various applications.\n- **Deployments:** Offering diverse deployment options including self-hosting, edge computing, APIs, and SDKs.  \n\nOver 250,000 developers (including teams from over half of Fortune 100 companies) utilize Roboflow\u2019s open-source and hosted tools.\n\n**Platforms and Solutions:**\n1. **Universe** - A repository for open-source computer vision datasets and pre-trained models.\n2. **Annotate** - AI-assisted data annotation tools for labeling images quickly.\n3. **Train** - Model training infrastructure with GPU support.\n4. **Workflows** - A low-code interface for building pipelines and applications.\n5. **Deploy** - Infrastructure to run models on various platforms - be it on-device, at the edge, or through APIs.\n\n#### Industry Applications\nRoboflow caters to diverse industries, including:\n- **Aerospace & Defense**\n- **Automotive**\n- **Agriculture**\n- **Banking & Finance**\n- **Healthcare**\n- **Telecommunications**\n- **Retail & E-commerce**\n- **Manufacturing**\n- **Logistics**\n\nTheir technology is transformative, proving beneficial by improving efficiency, reducing costs, and enhancing the quality of products across these sectors.\n\n#### Developer Focus\nRoboflow is all about enabling developers. They provide comprehensive documentation, user forums, and even hold hackathons to engage the community. Their platform supports a variety of integrations with popular tools and cloud services (like AWS, Google Cloud, Azure), making it straightforward for developers to adopt.\n\n#### Reliability and Compliance\nSecurity is a priority for Roboflow. They comply with SOC2 Type 2 and HIPAA regulations, ensuring data is handled securely. Their enterprise-grade infrastructure appeals to businesses looking for trusted solutions in machine learning and AI.\n\n---\n\nRoboflow isn\u2019t just about tools; it\u2019s about creating an ecosystem where developers can leverage computer vision to build smarter applications. Whether you're just starting or looking to scale your vision technology, Roboflow makes it not just possible but efficient and effective.\n\n**Want to dive in?** Check them out at [Roboflow.com](https://roboflow.com). Happy building!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1f147b7526b12554a4ea7cd2312a694892459acc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191806Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=21a9e3e31ff2f49a3b0a116979978191a6db9fb982f755d11c23c966eb7a2ab7",
+    "social_links": [
+        "https://www.linkedin.com/company/roboflow-ai",
+        "https://twitter.com/roboflow",
+        "https://github.com/roboflow"
+    ],
+    "logo_path": "data/logos\\Roboflow_logo.png"
+}

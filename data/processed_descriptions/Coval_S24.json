@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/coval",
+    "name": "Coval",
+    "headline": "Simulation & Evaluation for AI Agents",
+    "batch": "S24",
+    "description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
+    "activity_status": "Active",
+    "website": "https://coval.dev",
+    "founded_date": 2024.0,
+    "team_size": 5.0,
+    "location": null,
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Brooke Hopkins, Founder",
+            "description": "Building evaluation for AI agents, previously led eval infra at Waymo \ud83d\ude99",
+            "linkedin": "https://linkedin.com/in/bnhop"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Coval: Revolutionizing AI Agent Simulation and Evaluation**\n\nFounded in 2024 and a proud member of Y Combinator\u2019s Batch S24, Coval is a forward-thinking startup focused on refining the way we test and launch autonomous AI agents, specifically in chat and voice modalities. With a lean team of five, Coval is making waves in the industry by transforming the cumbersome process of manual testing into an automated, efficient simulation experience.\n\n**Mission at Hand**\n\nCoval's mission is simple yet powerful: to enhance the simulation and evaluation processes for AI agents. By enabling engineers to simulate thousands of potential scenarios, Coval allows for comprehensive testing without the labor-intensive manual effort that usually accompanies it. The platform automatically detects regressions through Continuous Integration/Continuous Deployment (CI/CD) evaluations, ensuring that agents maintain their reliability and performance standards.\n\n**Recent Innovations and Developments**\n\nRecently, Coval has been making headlines, having successfully raised $3.3 million to expand its capabilities, particularly in integrating self-driving car simulation techniques into AI voice and chat agents. This significant funding round highlights the potential and demand for robust evaluation platforms. \n\nYou can read more about it here: [Tech Crunch Announcement](https://coval.dev/<./blog/coval-raises-3-3-to-to-bring-self-driving-car-simulation-to-ai-voice-chat-agents>).\n\n**How Does Coval Work?**\n\nCoval\u2019s platform is built on a foundation of expert research from the self-driving sector, particularly from Waymo, bringing a decade of proven testing infrastructure to the world of conversational AI. Here\u2019s how it operates:\n\n1. **Simulation Scenarios**: Coval allows users to simulate conversations and agent interactions using various inputs\u2014be it prompts, transcripts, or workflows\u2014across customizable environments.\n\n2. **Performance Evaluation**: Whether it\u2019s latency, accuracy, or custom metrics tailored to user needs, Coval provides thorough evaluations to ensure agents meet performance standards.\n\n3. **Regression Tracking**: Users can easily compare results, re-simulate changes, and set performance alerts to quickly address any issues.\n\n4. **Holistic Monitoring**: Coval enables users to log and evaluate live production calls, ensuring that AI agents are continuously performing well in real-world scenarios.\n\n**Why Choose Coval?**\n\nCoval isn't just another testing tool; it's a complete ecosystem aimed at accelerating the development lifecycle of AI agents. By focusing on seamless integrations, user-friendly workflows, and tailored metrics, Coval helps businesses release reliable AI agents faster than ever before.\n\nCoval\u2019s platform has already received praise from peers such as Will Bodewes, CEO of Phonely, who describes it as a \"game changer\" in deploying production-ready voice agents with remarkable efficiency.\n\nFor those eager to enhance their AI capabilities, Coval offers a free demo\u2014a clear indication that they are confident in their platform's value. \n\nDiscover more about Coval on their [website](https://coval.dev).\n\nIn a space where reliability is crucial, Coval is elevating the standard for what AI agent testing can and should be.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/55c4a4f1ff2b8521100ab7c0c26ea7006b72f56b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191105Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=077fbfd617755223b3497d7deab56b15d89449c8509518c25f187eaf7b3b3cc2",
+    "social_links": [
+        "https://www.linkedin.com/company/covaldev",
+        "https://x.com/covaldev"
+    ],
+    "logo_path": "data/logos\\Coval_logo.png"
+}

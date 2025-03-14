@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/spott",
+    "name": "Spott",
+    "headline": "AI for Executive Search",
+    "batch": "W25",
+    "description": "Spott is building the next generation ATS & CRM for executive search firms. Today, headhunters use our software to produce detailed candidate presentation reports in minutes instead of hours.",
+    "activity_status": "Active",
+    "website": "https://spott.io",
+    "founded_date": 2024.0,
+    "team_size": 5.0,
+    "location": null,
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:hr-tech; industry:enterprise-software",
+    "founders": [
+        {
+            "name": "Lander Degreve, Founder",
+            "description": "Co-Founder & CPO at Spott. Previously worked at Bain building an AI job match tool and built a GenAI consulting-case interviewer as a side project. Background in Financial Statistics with internship in IB at JPMorgan and Master's degree at Bocconi.",
+            "linkedin": "https://www.linkedin.com/in/lander-degr%C3%A8ve/"
+        },
+        {
+            "name": "Samuel Smeys, Founder",
+            "description": "Co-Founder & CTO at Spott. Previously worked at BCG, building Data & ML pipelines for Recruitment Agencies in the UK, USA, EU with a wide range of industry, experience & staffing type specializations. Background in Mathematical Statistics, Machine Learning & AI. Backend, DevOps & Infra enthusiast. Master's degree in Statistics at LSE.",
+            "linkedin": "https://www.linkedin.com/in/samuelsmeys/"
+        },
+        {
+            "name": "Manu Vanderveeren, Founder",
+            "description": "Co-Founder & CEO at Spott. Previously worked at McKinsey on Strategy, Tech DD and HR projects. Background in Finance with internships in IB & PE at Morgan Stanley and CVC. Master's degree in Financial Analysis at LBS",
+            "linkedin": "https://www.linkedin.com/in/manuvanderveeren/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Welcome to Spott, a fresh face in the world of executive search, launched in 2024 and backed by Y Combinator's Batch W25. With a compact team of five, Spott is reimagining how headhunters approach their craft by developing next-generation ATS (Applicant Tracking System) and CRM (Customer Relationship Management) tools specifically designed for executive search agencies.\n\nSo, what\u2019s the deal? Spott streamlines processes that once took hours, allowing recruiters to generate detailed candidate presentation reports in just minutes. Utilizing artificial intelligence at its core, the platform empowers users to quickly draft job descriptions, find new leads, and manage client interactions seamlessly. Imagine being notified instantly about job opportunities at firms you\u2019re targeting. That\u2019s Spott in action, taking the grunt work out of talent acquisition.\n\nThe platform also boasts features like semantic search to match candidates with outstanding precision, meaning no more sifting through mountains of notes just to find the right fit. Everything from client management to automated report generation is designed for efficiency, allowing recruiters to focus on what truly matters: connecting exceptional candidates with great companies.\n\nTom Blomfield, a notable Group Partner, lends his expertise to Spott, which isn\u2019t just a software solution but a complete ecosystem designed to amplify your recruitment capabilities. The company is definitely tagged as a forward-thinking player in the realms of \u2018artificial intelligence\u2019, \u2018SaaS\u2019, \u2018HR-tech\u2019, and \u2018B2B\u2019 enterprise software.\n\nIf you're intrigued, Spott invites you to try their service at a starting price of $250 per month for the first 50 customers. They offer a 14-day free trial, making it an easy entry point to see how they can revolutionize your hiring process.\n\nCheck out more about Spott through their website at [spott.io](https://spott.io), and tap into the future of executive search where efficiency meets innovation.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/439cc974b4a4c51e16ea116bc7394e55351fe814.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191943Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=30cc0226347842f9649968f7fc1f79d3971d81d31fe6e44d3b24da09305ba5e4",
+    "social_links": [
+        "https://www.linkedin.com/company/gospott/"
+    ],
+    "logo_path": "data/logos\\Spott_logo.png"
+}

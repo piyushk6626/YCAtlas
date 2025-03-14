@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/devcycle",
+    "name": "DevCycle",
+    "headline": "Feature Flag Management Built for Developers",
+    "batch": "W14",
+    "description": "DevCycle empowers development teams with seamless management of code deployment and feature releases. Our flexible and integrated Feature Management solution, specifically designed for developers, grants teams full control over their feature flags while preventing the accumulation of tech debt. With our scalable and cost-efficient platform, teams can focus on what truly matters\u2014building exceptional software\u2014without being bogged down by the complexities of feature management.\r\n\nPreviously known as Taplytics, born at Y Combinator in Silicon Valley as an A/B Testing and Experimentation solution for product and marketing teams, we have evolved into DevCycle, a trusted Feature Management Solution utilized by some of the world's largest brands. Serving millions of end-users and launching billions of events, we understand the demands of high-scale operations.",
+    "activity_status": "Active",
+    "website": "http://devcycle.com",
+    "founded_date": 2011.0,
+    "team_size": 55.0,
+    "location": "Toronto, Canada",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Andrew Norris, Founder/COO",
+            "description": "COO and Co-Founder, here to help with anything B2B sales, A/B testing, Finance, Operations, etc.",
+            "linkedin": "https://www.linkedin.com/in/andrewsnorris/"
+        },
+        {
+            "name": "Jonathan Norris, Founder/CTO",
+            "description": "Co-Founder & CTO @ DevCycle + Taplytics W14",
+            "linkedin": "https://www.linkedin.com/in/jonathantnorris"
+        },
+        {
+            "name": "Cobi Druxerman, Founder/CPO",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/druxerman/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**DevCycle: Empowering Developers with Feature Flag Management**\n\nFounded in 2011 and originally known as Taplytics, DevCycle emerged from the prestigious halls of Y Combinator's W14 batch. Today, it stands as a robust solution in the realm of feature flag management, specifically crafted for developers who want to take control of their code deployment and feature releases without succumbing to technical debt.\n\n**Mission Statement**\nDevCycle champions the idea that feature flag management should be straightforward and user-friendly. Their mission is to deliver a platform that enables development teams to ship features faster and more confidently, with complete visibility and control over their feature flags.\n\n**Evolution and Expertise**\nStarting as an A/B testing tool tailored for product and marketing teams, DevCycle has metamorphosed into a versatile platform that handles millions of end-users and billions of event launches. This evolution underscores their in-depth understanding of high-scale operational demands, making them a trusted partner for some of the world's leading brands.\n\n**Key Features & Benefits**\n- **Flexible Integration**: DevCycle provides an integrated Feature Management solution, reducing the time developers spend managing feature flags, allowing them to focus on what they do best\u2014building exceptional software.\n- **Scalable and Cost-Efficient**: With its low-latency and fault-tolerant edge network, the platform ensures that teams can manage feature flags with reliability while also keeping costs in check.\n- **Advanced Functionalities**: DevCycle includes features like real-time updates, gradual rollouts, A/B testing, and permissions management, ensuring teams can implement changes carefully and track their impact.\n\n**A Supportive Developer Ecosystem**\nDevCycle is part of the OpenFeature ecosystem, supporting open-source SDKs and enabling developers to avoid vendor lock-in. This transparency and flexibility are hallmarks of their approach, allowing easy migrations and provider swaps.\n\n**Pricing Model**\nTrue to its ethos, DevCycle embraces a usage-based pricing model rather than charging by seat. This approach ensures that all team members can access the platform, fostering collaboration and maximizing value.\n\n**Team and Location**\nLocated in Toronto, Canada, DevCycle has a dedicated team of 55 professionals, all focused on enhancing the developer experience and streamlining software releases.\n\n**Conclusion**\nIn a fast-paced technological landscape where speed and reliability are paramount, DevCycle offers a straightforward, scalable solution for feature flag management. By doing so, it not only aids developers but ultimately empowers companies to innovate without the burden of complexity. If you\u2019re interested in cutting-edge feature management, check out their [website](http://devcycle.com) and consider signing up for a trial today\u2014your dev team might thank you later!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/835012dab3caa732955c533dbbe4288852681af8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191118Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=22bb5c3ccc1996f1e721e24c685800d375277b30e8b720e4e6003127f4624b19",
+    "social_links": [
+        "https://www.linkedin.com/company/devcyclehq",
+        "https://twitter.com/devcycleHQ",
+        "https://www.crunchbase.com/organization/devcycle",
+        "https://github.com/DevCycleHQ"
+    ],
+    "logo_path": "data/logos\\DevCycle_logo.png"
+}

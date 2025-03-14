@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/hiro-systems",
+    "name": "Hiro Systems",
+    "headline": "Hiro Systems build developer tools for Bitcoin L1 and the Stacks L2",
+    "batch": "S14",
+    "description": "Hiro System builds developer tools for Bitcoin L1 and the Stacks L2 (layer-2). Stacks is a Bitcoin layer for smart contracts; it's an open-source project with an ecosystem of independent entities. Hiro serves 350M+ monthly API requests and thousands of crypto users on dev products.",
+    "activity_status": "Active",
+    "website": "https://hiro.so",
+    "founded_date": 2013.0,
+    "team_size": 40.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:defi; industry:crypto-web3; location:new-york",
+    "founders": [
+        {
+            "name": "Muneeb Ali, Founder",
+            "description": "Co-founder of the Stacks project, CEO of Trust Machines.",
+            "linkedin": null
+        }
+    ],
+    "status": true,
+    "generated_description": "Hiro Systems is a New York-based company that specializes in developing tools for building on Bitcoin's Layer 1 (L1) and Stacks Layer 2 (L2) platforms. Established in 2013 and part of Y Combinator's S14 batch, Hiro has carved out a niche in the crypto space, serving over **350 million API requests each month** and supporting thousands of developers with its products.\n\n**The Mission**:\nHiro's mission is straightforward: to provide developer tools that extend Bitcoin's capabilities without compromising its security or decentralization. This is particularly significant as they work with Stacks, a smart contract platform that operates on top of Bitcoin.\n\n**Team & Structure**:\nHiro Systems has a team of **40 employees** and is backed by notable partners like Nan. The company is tagged as being part of the **DeFi**, **Crypto/Web3** scene, reflecting its focus in these fast-evolving sectors.\n\n**What They Offer**:\nHiro is about empowering developers. Their platform focuses on various tools and APIs designed for interacting with Bitcoin and Stacks:\n\n- **Hiro Platform**: A web3 development platform making writing and deploying smart contracts simpler.\n- **Chainhook**: A real-time event streaming service that integrates with Bitcoin and Stacks.\n- **Ordhook**: An indexer for Ordinals, allowing developers to build protocols and standards for Bitcoin inscriptions.\n- **API Services**: They provide a production-hardened API for Ordinals, as well as various other valuable developer tools, including the Stacks Blockchain API and Token Metadata API.\n\nFor anyone looking to get a handle on how Bitcoin and its layers function, Hiro has a **free guide** to Bitcoin layers that's definitely worth a read.\n\nTheir website serves as a comprehensive resource where developers can access documentation, educational guides, and tools necessary to navigate the landscape of Bitcoin-based development.\n\nIf you're interested in the evolving world of Bitcoin and how Hiro is positioned in it, check out their platform at [hiro.so](https://hiro.so). Whether you\u2019re developing dApps or diving into smart contracts, Hiro is working to make Bitcoin development more accessible and efficient.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/12830c46451ca29c799cc7606ec99c389e30457a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191420Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0935e72d2f983a8a3b42b92e1201877b95119e6526ff58aeae4a12f8106ff07f",
+    "social_links": [
+        "https://www.linkedin.com/company/75437401/admin/",
+        "https://twitter.com/hirosystems",
+        "https://github.com/hirosystems"
+    ],
+    "logo_path": "data/logos\\Hiro_Systems_logo.png"
+}

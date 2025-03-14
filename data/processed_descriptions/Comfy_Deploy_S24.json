@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/comfy-deploy",
+    "name": "Comfy Deploy",
+    "headline": "Vercel for Gen AI applications",
+    "batch": "S24",
+    "description": "Comfy Deploy lets developers build and deploy workflows that use Stable Diffusion and other models to produce images and video. Instead of cobbling together fragmented tools, teams now build workflows that generate assets they need on their own.\r\n\n**Team ComfyUI workspace**\r\n\n\u2022 Replacing cobbled-together solutions with a unified, team-focused environment without the pain of self-hosting.\r\n\n\u2022 Eliminate \"works on my machine\" issues with version control.\r\n\n\u2022 Share storage for models and outputs.\r\n\n\u2022 Leverage the power of ComfyUI without the complexities of self-hosting\r\n\n**Powerful GPU Infrastructure**\r\n\u2022 Access managed GPUs that grow with your teams needs\r\n\n\u2022 Tailor the platform to your requirements by easily installing custom nodes and models\r\n\n**Custom configuration**\r\n\n\u2022 Download the models you want, stored privately in your personal volume\r\n\n\u2022 Install the custom nodes your workflow needs\r\n\n\u2022 Train models on your own datasets.\r\n\n**API Deployments: From workflow to production in seconds**\r\n\n\u2022 Transform any workflow into a fully functional API immediately without extra engineering\r\n\n\u2022 Comprehensive observability on every run\r\n\n\u2022 Built-in API authentication\r\n\n\u2022 TS/JS/Python/Ruby SDKs for seamless integration",
+    "activity_status": "Active",
+    "website": "https://comfydeploy.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:api; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nicholas Kao, Founder",
+            "description": "Building an image generation platform.",
+            "linkedin": "https://www.linkedin.com/in/nick-kao-468540174/"
+        },
+        {
+            "name": "Benny Kok, Founder",
+            "description": "Building ComfyDeploy, a platform empowering teams to deploy custom AI workflows using ComfyUI. With a background in music, game development, and programming, he's passionate about making advanced AI tools accessible to non-technical users, revolutionizing how teams interact with AI in creative processes.",
+            "linkedin": "https://www.linkedin.com/in/benny-kok-226a52127/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Comfy Deploy: Simplifying AI Workflow Deployment**\n\nFounded in 2024 and emerging from Y Combinator's Batch S24, Comfy Deploy is making waves in the AI application landscape. Imagine a world where you can smoothly build, deploy, and manage workflows for generative AI\u2014Comfy Deploy is here to make that a reality, akin to what Vercel has accomplished for front-end development.\n\n**The Mission**\nThe mission of Comfy Deploy is to provide developers with a cohesive platform akin to Vercel, but specifically tailored for generative AI applications. Initially, the focus was on workflows using Stable Diffusion and other models to create rich media like images and videos. The philosophy? Why juggle disparate tools when you can construct integrated workflows that cater to your asset generation needs?\n\n**Key Features**\n\n1. **Team-Centric Workspace:** \n   - Bid farewell to \"works on my machine\" confusion with built-in version control.\n   - Share models and outputs effortlessly, fostering collaboration.\n   - No need for self-hosting complexities; everything operates smoothly from a unified workspace.\n\n2. **Robust GPU Infrastructure:**\n   - Scale GPU resources as your team grows, ensuring you never hit a hardware ceiling.\n   - Easily customize your platform with the models and nodes that suit your workflows.\n\n3. **Custom Configuration:** \n   - Download models and store them privately, plus install nodes tailored to your project requirements.\n   - Train models using your datasets for precision.\n\n4. **Rapid API Deployments:** \n   - Transform any workflow into a functional API in seconds without the need for extensive engineering.\n   - Enjoy real-time observability and built-in API authentication, with support for popular SDKs like TypeScript, JavaScript, Python, and Ruby.\n\n**Current Collaborations and Impact**\nWith a nimble team based in San Francisco, Comfy Deploy is leveraging its technology for more than 100 teams. Users have reported up to 300% increases in production efficiency; a character pack that once took six man-weeks can now be completed in just 1.5 weeks. That\u2019s not just an improvement; it\u2019s a game-changer in project timelines.\n\n**Testimonials from the Frontline**\n- Ben Chevalier, Chief AI Officer at Mighty Bear Games, praises the platform for trimming project turnaround drastically.\n- Javid, CEO of Secret Desires, appreciates the speed it brings while being budget-friendly.\n- A representative from Stealth highlights the ease of deployment for unique workflows.\n\n**Let's Wrap It Up**\nComfy Deploy is not just a tool; it\u2019s a platform that empowers teams to leverage AI without getting tangled in the complexities of deployment. The future of collaborative AI-driven development is here, ready to supercharge your projects. For those interested in exploring their offerings further, check out their website: [Comfy Deploy](https://comfydeploy.com).\n\nIn short, if you're in the AI space and tired of fiddling with fragmented solutions, it's time to explore the comfy side of deployment.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dd1aae6c38d72ff6e65754a8dae09e58fa39a5e1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191059Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a75ad3cd14229d96995863c63cb92af1d2fada507dcfea88c8636372d90a9c1e",
+    "social_links": [
+        "https://www.linkedin.com/company/comfy-deploy",
+        "https://x.com/comfydeploy",
+        "https://github.com/comfy-deploy"
+    ],
+    "logo_path": "data/logos\\Comfy_Deploy_logo.png"
+}

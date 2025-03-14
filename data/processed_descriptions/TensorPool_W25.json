@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/tensorpool",
+    "name": "TensorPool",
+    "headline": "The easiest way to execute ML jobs on the cloud",
+    "batch": "W25",
+    "description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
+    "activity_status": "Active",
+    "website": "https://tensorpool.dev",
+    "founded_date": 2025.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:saas; industry:devops; industry:cloud-computing",
+    "founders": [
+        {
+            "name": "Joshua Martinez, Founder",
+            "description": "Co-Founder & CTO of TensorPool (W25)\nPrev. AI/ML @ Apple, SWE @ CZI\nStanford BS & MS in Computer Science + Statistics",
+            "linkedin": "https://www.linkedin.com/in/joshkmartinez/"
+        },
+        {
+            "name": "Hlumelo Notshe, Founder",
+            "description": "Co-Founder & CPO of TensorPool\nEx-DeepMind & NextDoor",
+            "linkedin": "https://www.linkedin.com/in/hlumelo-notshe"
+        },
+        {
+            "name": "Tycho Svoboda, Founder",
+            "description": "Co-founder & CEO of Tensorpool. Ex-Blackstone, Stanford",
+            "linkedin": "https://www.linkedin.com/in/tycho-svoboda/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**TensorPool: Simplifying Machine Learning in the Cloud**\n\nFounded in 2025 and part of Y Combinator's W25 batch, TensorPool is on a mission to make machine learning (ML) job execution in the cloud as straightforward as possible. With a laser focus on ease-of-use, TensorPool offers a command-line interface (CLI) that simplifies ML model training. Users just need to describe their jobs, and TensorPool takes care of GPU orchestration and execution\u2014doing it all at half the cost of traditional cloud providers.\n\nLocated in [insert location], TensorPool operates with a compact but dedicated team of three employees. The company is spearheaded by Jared Friedman, their Group Partner, who brings valuable expertise in the tech industry.\n\nTensorPool falls within several important categories: AI Operations (AIOps), Developer Tools, Software as a Service (SaaS), DevOps, and Cloud Computing. This diverse tagging reflects their commitment to addressing the varied needs of developers and data scientists looking to streamline their ML workflows.\n\nIn a world where processing power and efficiency are critical, TensorPool is not just another tool\u2014it's a game-changer for anyone looking to harness the power of machine learning without the excessive costs and complexities typically associated with cloud computing.\n\nExplore more about TensorPool on their website: [https://tensorpool.dev](https://tensorpool.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/38e6ac97f7a159c7aa277c414ce583ce1d8743b1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192011Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=27f54adea1e495302d268761b0374728aeafc6482e81c40bdabba6665aba07c0",
+    "social_links": [
+        "https://www.linkedin.com/company/105594641/",
+        "https://x.com/tensorpool",
+        "https://github.com/tensorpool/tensorpool"
+    ],
+    "logo_path": "data/logos\\TensorPool_logo.png"
+}

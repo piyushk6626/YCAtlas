@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/honeydew",
+    "name": "Honeydew",
+    "headline": "The home for shared data logic",
+    "batch": "W23",
+    "description": "The way people use data is constantly changing. Data teams must support every new context without breaking the shared truth. Honeydew\u2019s semantic layer does it automatically. We validate each change and update every data flow.\r\n\nUsing Honeydew, data teams can support 10x more data users - without more engineers or compromising integrity.",
+    "activity_status": "Active",
+    "website": "https://honeydew.ai",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "Tel Aviv-Yafo, Israel",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:analytics; industry:data-engineering",
+    "founders": [
+        {
+            "name": "David Krakov, Founder",
+            "description": "My last 20 years are in and around data and software. At the first startup I founded, Varada (acq. by Starburst), we created an acceleration engine for data lakes - helping queries run faster on huge amounts of data. Before becoming a founder, I was an early employee at XtremIO (later EMC) - which became the market leader in all-flash-storage. Even before that, I was a computer science and physics nerd. Still am.\nI live in Tel Aviv with my wife and two kids.",
+            "linkedin": "https://www.linkedin.com/in/david-krakov/"
+        },
+        {
+            "name": "Baruch Oxman, Founder",
+            "description": "I have been in software for over 20 years, leading technology and engineering, and building products around data. I was the first employee of Implisit, building AI for sales. After being acquired by Salesforce, I led the architecture and engineering of Einstein for Sales.\nMy passion is traveling, cycling and finding simple solutions for complex problems.\nI live in Tel Aviv, with my wife and 2 daughters.",
+            "linkedin": "https://www.linkedin.com/in/baruchoxman/"
+        },
+        {
+            "name": "Liron Slonimsky-Shemy, Founder",
+            "description": "In my previous life, I worked as a script writer (and even won first prize for best drama feature), I pivoted and decided to \"produce\" my scripts in real life by opening a startup. At my first startup, Awear, we did \"Frequent-Flyer for fashion\" - We sold data to fashion companies showing how people are actually wearing their garments. \nCurrently living in Tel Aviv with my husband and our two kids - Orr and Eyal.",
+            "linkedin": "https://www.linkedin.com/in/liron-slonimsky-0aba3240/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Honeydew: The Semantic Layer for Data Empowerment**\n\nFounded in 2022, Honeydew is on a mission to revolutionize the way organizations manage and utilize data with its standout offering\u2014a semantic layer that provides a consistent source of truth for data teams and users alike. Positioned in Tel Aviv-Yafo, Israel, and backed by Y Combinator\u2019s W23 batch, Honeydew has quickly made its mark in the SaaS, B2B, analytics, and data engineering domains.\n\n### What's the Big Idea?\nHoneydew emerged to tackle a crucial problem: as data usage evolves, the complexity of maintaining a \"shared truth\" proliferates. Data teams often find themselves overwhelmed, needing to support a myriad of tools and metrics without compromising on data integrity. Enter Honeydew's semantic layer\u2014a game changer that automates the validation of data changes and updates across all flows.\n\nWith Honeydew, companies can empower up to **10x more data users** without the need for additional engineering resources. This is no small feat. By allowing data teams to establish consistent business logic across spreadsheets, dashboards, notebooks, and AI tools, Honeydew helps prevent data silos and enhances efficiency.\n\n### Core Features\n1. **Unified Business Logic:** Honeydew ensures metrics like active users, churn rate, and revenue stay consistent and reusable, regardless of where they're accessed.\n2. **Self-Serve Data Accessibility:** Users can interact freely with data and insights they care about, using any tool they choose\u2014spreadsheets, BI tools, or AI chatbots.\n3. **Ease of Integration with Snowflake:** As a native solution for Snowflake environments, Honeydew optimizes the data handling experience by bridging gaps in the current data landscape.\n\n### The Team\nHoneydew operates with a performance-driven team of six, led by experienced partners including Michael Seibel from Y Combinator. This compact crew is focused on delivering revolutionary data solutions while maintaining flexibility and responsiveness to market needs.\n\n### Why It Matters\nIn a world inundated with data, Honeydew not only simplifies access but also fortifies the integrity of that information. This is crucial for businesses looking to leverage data-driven insights for decision-making while preserving a consistent narrative.\n\nHoneydew is more than just a tool; it\u2019s a platform for transformation. For data teams feeling the pressure of escalating demand, it presents a robust avenue to scale operations without sacrificing quality or overextending resources.\n\nCurious to see how Honeydew can transform your data strategy? Visit them at [Honeydew.ai](https://honeydew.ai). If you\u2019re attending the **Snowflake Summit**, don\u2019t miss their booth (#1206) for a firsthand look at this innovation in action!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/710bc86c85db182da5d3ced870821dd0c7f625f2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191422Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e9f6be10459880544db3d94bcdf0c26c950164953d448694479e4d6ee4b4d0cb",
+    "social_links": [
+        "https://www.linkedin.com/company/honeydewai/",
+        "https://twitter.com/honeydewai",
+        "https://www.crunchbase.com/organization/honeydew"
+    ],
+    "logo_path": "data/logos\\Honeydew_logo.png"
+}

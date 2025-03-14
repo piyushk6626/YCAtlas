@@ -1,0 +1,54 @@
+{
+    "links": "https://www.ycombinator.com/companies/retell-ai",
+    "name": "Retell AI",
+    "headline": "Supercharge Your Contact Center Operations with AI Phone Agents",
+    "batch": "W24",
+    "description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
+    "activity_status": "Active",
+    "website": "https://retellai.com",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": null,
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Bing Wu, Founder",
+            "description": "Co-founder & CEO at Retell AI.\nEnthusiastic about the human brain and AI, Bing spent three years as a product manager at ByteDance/TikTok, where he led B2B and consumer products that delighted billions.\n\nBefore joining ByteDance/TikTok, Bing founded two investor-backed startups in college, generating six-figure revenues.",
+            "linkedin": "https://linkedin.com/in/binw"
+        },
+        {
+            "name": "Todd Li, Founder",
+            "description": "Todd is the founder of several venture-backed startups. Before his startup journey at Retell, Todd worked at Google Ads as a software engineer.",
+            "linkedin": "https://linkedin.com/in/zhengtaoli"
+        },
+        {
+            "name": "Evie Wang, Founder",
+            "description": "Evie is the Co-founder and CMO of Retell AI\nShe has a design background and a deep understanding of B2B business as she spent 3 years as a Product Designer at Bytedance.",
+            "linkedin": "https://linkedin.com/in/yanwang131415"
+        },
+        {
+            "name": "Weijia Yu, Founder",
+            "description": "Weijia excels in product and software development, with a specialization in machine learning. At Meta, he spent three years as a PM hybrid Tech Lead within Facebook product team.\n\nPrior to Meta, Weijia led app development at ObEN, a Series B AI tech startup, providing full-stack AI solutions including TTS(text-to-speech), computer vision and chatbot.",
+            "linkedin": "https://linkedin.com/in/weijia-y-76b816194"
+        },
+        {
+            "name": "Zexia Zhang, Founder",
+            "description": "Zexia is the co-founder and CTO of Retell AI. Passionate about ML, Zexia is always at the frontier of advancing speech technologies. Before Retell, Zexia spent four years at Google where he led the development of next-gen speech translation experience, and NLP solutions for call analysis.",
+            "linkedin": "https://linkedin.com/in/zexia-zhang-171480133"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Retell AI: Transforming Contact Center Operations with Voice AI**\n\nFounded in 2023 and part of Y Combinator's Batch W24, Retell AI is already making waves in the field of artificial intelligence, particularly in the contact center industry. Their mission is clear: to supercharge contact center operations using AI phone agents. The company offers a state-of-the-art platform designed for building and managing AI voice agents, aiming to revolutionize how businesses handle customer interactions.\n\nLocated in the Bay Area, with a lean team of just five employees, Retell AI operates under the guidance of its Group Partner, Michael Seibel. The company\u2019s innovative strides are aimed at addressing common pain points in customer service by utilizing AI technology to automate and enhance communication efficiency.\n\n### **Key Features and Offerings**\n\nRetell AI's platform boasts a suite of robust features designed to streamline contact center tasks:\n\n- **Call Transfer and Appointment Booking:** Equipped with warm transfer capabilities and seamless integration with scheduling services like Cal.com, Retell AI ensures transitions from AI to human agents are smooth.\n  \n- **Knowledge Base Syncing:** The system can auto-sync with existing resources, keeping AI agents up-to-date without manual intervention.\n\n- **IVR Navigation:** The AI can handle complex Interactive Voice Response systems, making it versatile in various scenarios.\n\n- **Batch Calls:** Users can send masses of calls simultaneously, optimizing outreach without overwhelming their existing systems.\n\n- **Customization and Monitoring:** The platform allows for post-call analysis and monitoring of agent performance, ensuring continuous improvement.\n\n### **Industries Served**\n\nRetell AI is tailored to serve a broad spectrum of industries, including:\n\n- **Healthcare**\n- **Financial Services**\n- **Insurance**\n- **Logistics**\n- **Home Services**\n- **Retail & Consumer Goods**\n- **Travel & Hospitality**\n- **Debt Collection**\n\n### **Measurable Impact**\n\nThe early adopters of Retell AI's technology report impressive results:\nFor instance, Gifthealth achieved a **4x operational efficiency**, with 50% of calls resolved without human intervention. Similarly, Everise saved over **600 hours** of manpower monthly, showcasing the substantial productivity gains that can be realized through Retell\u2019s AI solutions.\n\n### **Get Started**\n\nRetell AI offers a **60-minute free trial** for potential users, operating on a pay-as-you-go model with pricing beginning at just $0.07 per minute. This approach allows businesses to easily integrate Retell AI with existing technologies like Twilio and Vonage, or connect through SIP trunking to optimize their communication channels.\n\nYou can explore more about Retell AI and how to transform your contact center by visiting their website: [Retell AI](https://retellai.com).\n\nIn the customer service landscape where efficiency and customer satisfaction are paramount, Retell AI is not just an option; it\u2019s becoming a necessity for businesses eager to leverage cutting-edge technology to enhance their operations.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1a8537326cec1508a5051c913e288dcb0859143f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191721Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=032abe6ebd9af40686ef19cbc7b131e28d33f47f9f46dbfc0ef8a8d9dc96b80c",
+    "social_links": [
+        "https://www.linkedin.com/company/98828489",
+        "https://twitter.com/retellai",
+        "https://www.facebook.com/retellai",
+        "https://www.crunchbase.com/organization/retell-ai"
+    ],
+    "logo_path": "data/logos\\Retell_AI_logo.png"
+}

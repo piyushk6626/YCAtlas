@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/morf-health",
+    "name": "Morf Health",
+    "headline": "Workflow automation for healthcare providers",
+    "batch": "S22",
+    "description": "Morf is an integration platform that allows healthcare providers to sync patient data and automate workflows across their tools. For example, when a patient submits an intake form, Morf creates a patient record in an EHR and sends insurance information for an eligibility check. You can think about it like Segment + Zapier for healthcare providers.\r\n\nMorf helps their customers eliminate tedious administrative tasks and empowers them to focus on patient care as they grow.",
+    "activity_status": "Active",
+    "website": "https://morf.health",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": null,
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:health-tech; industry:healthcare-it",
+    "founders": [
+        {
+            "name": "Montana Scher, Founder",
+            "description": "After studying product design + computer science at Stanford, I learned how to launch and iterate on great products at Google and Square. I moved into healthcare in order to work on problems I cared deeply about. As the first product hire at Parsley Health, I led the team that built our patient data infrastructure and the tech to launch and grow our virtual care offering. I'm starting Morf to solve the problems we faced at Parsley -- to empower the next gen of digital healthcare.",
+            "linkedin": "https://www.linkedin.com/in/montanascher"
+        },
+        {
+            "name": "James Thompson, Founder",
+            "description": "I have built and managed teams at a number of early-stage companies in the highly regulated health-tech and fin-tech / data spaces. As an engineering contributor I've created simplified data models and services for complicated healthcare problems in seed and Series A+ stage companies. I have also built and managed peta-scale data pipelines.  My entrepreneurial interest in health-tech was borne out of having my patented work licensed by a major UK biotech company.",
+            "linkedin": "https://www.linkedin.com/in/jamesrth/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Morf Health: Automating Healthcare Workflows**\n\nFounded in 2022 and part of Y Combinator's Batch S22, Morf Health is a rising star in the health-tech sector, focused on streamlining operations for healthcare providers. At its core, Morf offers a powerful integration platform designed to synchronize patient data across various tools, effectively eliminating manual, tedious administrative tasks. The company aims to empower healthcare professionals to concentrate on patient care instead of getting bogged down with workflows.\n\n### The Mission\nMorf Health\u2019s mission is straightforward: automate workflows for healthcare providers. Think of Morf as a blend of Segment and Zapier specifically tailored for the healthcare industry. It handles tasks like creating patient records in Electronic Health Records (EHR) and performing insurance eligibility checks when a patient submits an intake form.\n\n### What They Offer\nMorf Health allows healthcare providers to:\n- **Automate Patient Onboarding**: Quickly sign up and onboard patients, capturing leads and seamlessly integrating with existing data systems.\n- **Centralized Patient View**: Access a unified view of patient data across clinical, operational, and marketing tools, enhancing personalized patient experiences.\n- **Integrate Easily**: No coding required. Providers can connect various applications and start automating immediately, thereby saving time and streamlining processes.\n\n### Use Cases\nMorf Health offers numerous use cases that benefit healthcare organizations:\n- **Lead Capture & Conversion Tracking**: Automatically create contacts in your CRM when new email addresses come in.\n- **Patient Record Updates**: Continuously update patient records as eligibility and intake information rolls in.\n- **Visit Preparation**: Automate the process of sending medical history forms and preparing staff for upcoming patient visits.\n- **Custom Scheduling**: Embed a customizable scheduling interface directly into patient sign-up flows.\n\n### With a Small but Mighty Team\nMorf Health operates with a lean team of six employees. Despite their size, they are making a big impact and are already trusted by notable names in the healthcare industry, showcasing their capabilities early on.\n\n### Why Choose Morf?\nMorf Health stands out for its ease of use and rapid deployment\u2014allowing healthcare providers to have better insights and more time to focus on what really matters: the patients. By automating labor-intensive tasks and synchronizing disparate data sources, Morf positions itself as a critical partner for healthcare providers looking to modernize their operations.\n\nFor more information or to get started with automating your healthcare workflows, visit [Morf Health](https://morf.health).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/76953d120427b286570503c348f6cb9646993f3a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191549Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3589c21463e41b500c3a8299d6f0fd71e87d1aad47a6dfacdb6d9e0845cda525",
+    "social_links": [
+        "https://linkedin.com/in/morf-health"
+    ],
+    "logo_path": "data/logos\\Morf_Health_logo.png"
+}

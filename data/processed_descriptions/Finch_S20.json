@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/finch",
+    "name": "Finch",
+    "headline": "Finch is the universal API for payroll and HR",
+    "batch": "S20",
+    "description": "Finch is the API to access payroll and HR systems. We allow admins to connect their company in a compliant and secure manner to applications. Finch integrates across providers enabling developers to access a previously closed system and are at the source of truth for employee data and money flow. Our API powers use cases across lending, insurance, benefits, FP&A, and HR applications.",
+    "activity_status": "Active",
+    "website": "https://tryfinch.com",
+    "founded_date": 2020.0,
+    "team_size": 63.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:hr-tech; industry:api; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jeremy Zhang, Founder",
+            "description": "CEO/Co-founder of Finch",
+            "linkedin": "https://www.linkedin.com/in/jeremyziyuzhang/"
+        },
+        {
+            "name": "Ansel Parikh, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/ansel-parikh/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Finch, launched in 2020 and part of Y Combinator's Summer 2020 batch, positions itself as a game-changer in the fintech and HR-tech sectors. Based in San Francisco, Finch is on a mission to serve as the universal API for payroll and HR. Their innovative API helps organizations securely and compliantly integrate employee data and financial information across various applications\u2014a transparency win in a traditionally opaque domain.\n\nThe Finch API allows developers and administrators to tap into previously closed payroll systems, unlocking crucial data that drives multiple use cases in lending, insurance, employee benefits, financial planning, and HR management. With a growing team of 63 employees, Finch aims to streamline and modernize employment infrastructure for businesses, paving the way for easier onboarding, efficient payroll management, and seamless integration across different systems. \n\nWhat\u2019s impressive about Finch is their commitment to providing an all-in-one solution for organizations' HR and payroll needs. Developers love their platform for several reasons:\n\n1. **Unified Data Model**: Finch provides market-leading compatibility with various HRIS and payroll systems. As new systems are added, users can activate them with just one click, making it a breeze for developers to expand integration capabilities.\n\n2. **Enterprise-Grade Security**: They take data security seriously, employing advanced encryption protocols that protect user data at every stage.\n\n3. **Developer Experience**: Finch focuses on a positive developer experience with efficient tools like sandboxes and SDKs, allowing users to build and maintain integrations without frictions.\n\nTheir suite of products includes APIs that cater to organization and employee data, payroll, deductions, and more. Finch also supports critical solutions like 401k and retirement plans, employee benefits, tax compliance, and insurance\u2014all tailored to enhance operational efficiency and employee experience.\n\nCustomer success stories are pivotal for Finch, with companies like Ubiquity and CandorIQ reporting significant time savings and cost reduction through Finch\u2019s automated processes.\n\nIf you\u2019re looking to modernize your HR and payroll systems or tap into powerful integrations that simplify complex data flows, Finch is worth a closer look. For more information or to explore their API, visit [Finch's website](https://tryfinch.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5a80ebe558dc7e99eddec30adcb79fc037a649e9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191332Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b94d2c7de8954f3000a928aaadb740a573addf08798b58bfa61ae46dee3f5b19",
+    "social_links": [
+        "https://www.linkedin.com/company/finchapi/",
+        "https://twitter.com/tryfinch"
+    ],
+    "logo_path": "data/logos\\Finch_logo.png"
+}

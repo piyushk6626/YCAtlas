@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/lifecast",
+    "name": "Lifecast",
+    "headline": "Software to create 3D video for VR, robotics and film.",
+    "batch": "W22",
+    "description": "We make tools for state-of-the-art 3D VR video, which fix motion sickness for a more comfortable and immersive experience. Our team's experience includes building VR cameras at Facebook, and robot perception systems at Lyft and Google X.",
+    "activity_status": "Active",
+    "website": "http://www.lifecastvr.com",
+    "founded_date": 2021.0,
+    "team_size": 2.0,
+    "location": "Palo Alto",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:robotics; industry:virtual-reality; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Forrest Briggs, Founder",
+            "description": "Forrest (CEO at Lifecast) has a Ph.D. in machine learning and over 20 patents in VR video and AI perception systems. He previously developed computer-vision based VR video rendering software at Facebook, and was a tech lead at Lyft and Google X working on perception systems for self-driving cars and robots.",
+            "linkedin": "https://www.linkedin.com/in/forrest-briggs-45b233b7/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Lifecast: Bringing Immersive Storytelling to Life**\n\nFounded in 2021 and hailing from the innovation hub of Palo Alto, Lifecast is on a mission to redefine the world of 3D video creation. They've built a platform aimed explicitly at producing high-quality volumetric video for various applications, including virtual reality (VR), film, and robotics. The company's roots trace back to its earlier vision: creating cutting-edge tools for capturing 3D VR video that alleviates motion sickness, offering users a more enjoyable and immersive viewing experience.\n\n**The Team Behind the Vision**\n\nLifecast operates with a lean team of just two employees, but don't underestimate their capabilities. The company's founders bring a wealth of experience from top tech companies like Facebook and Lyft, specifically focusing on VR camera systems and robotics perception. This expertise lends a strong technical foundation to their ambitious venture.\n\n**Innovative Solutions for Creative Professionals**\n\nAt the core of Lifecast's offerings is their *Volumetric Video Editor*, which allows creators to capture and render stunning 8K+ volumetric video using any VR180 camera. This flexibility facilitates the creation of photorealistic video backgrounds and immersive mixed-reality experiences across platforms like Unreal Engine, Unity, and even mobile devices. With pricing models catering to both professionals ($299/month) and non-commercial users ($7.99/month), Lifecast makes its technology accessible to a broad audience.\n\nIn addition to the video editor, they offer a suite of tools, including:\n\n- **UpscaleVideo.ai**: A powerful AI-driven solution enabling users to enhance video resolution significantly, perfect for VR applications.\n- **Volurama**: A tool for capturing volumetric panoramas that simplifies the process for creators using just a smartphone.\n- A **Royalty Free Volumetric Video Library**: A collection of high-quality content available for integration into various projects.\n\n**Open-Source Initiatives**\n\nLifecast is also committed to the open-source community, providing resources such as volumetric video players for Unreal Engine and Unity, and tutorials on how to integrate this technology into projects seamlessly. This approach not only showcases their technology but also fosters a community of developers and creators.\n\n**The Road Ahead**\n\nWith their innovative tools and commitment to enhancing the creator experience, Lifecast is positioned to make a substantial impact in the fields of virtual reality and film production. Their involvement with Y Combinator (Batch W22) signifies broader backing and growth potential. As they continue to refine their technology, the team at Lifecast is likely to play a pivotal role in shaping the future of immersive storytelling.\n\nFor more information, you can check out their website at [Lifecast VR](http://www.lifecastvr.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dcad90b12467109f49d78b244728f82dac72df5e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191506Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e87af27f32c4ee6506ed2005fd3406f38a8ea0d93a9fcdf72e683ce7c0ad2c09",
+    "social_links": [
+        "https://www.linkedin.com/company/lifecast",
+        "https://twitter.com/LifecastI",
+        "https://www.facebook.com/groups/1075792393218140"
+    ],
+    "logo_path": "data/logos\\Lifecast_logo.png"
+}

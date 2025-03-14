@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/quetzal",
+    "name": "Quetzal",
+    "headline": "Simple, LLM-first translation and internationalization for software",
+    "batch": "S24",
+    "description": "Quetzal is the first fully LLM-powered translation and internationalization suite, enabling companies to translate and internationalize their software and content instantly with minimal setup. We also handle all of your internationalization issues, from managing all of your stakeholders to bringing your product and marketing to market. No more waiting days or even weeks for translated content! Deliver a perfect experience to your users in any language, instantly.",
+    "activity_status": "Active",
+    "website": "https://getquetzal.com/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "Oakland, CA",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:enterprise-software; industry:international; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "John Thompson, Founder",
+            "description": "Former SWE at Slack, working to make software internationalization as easy and painless as possible",
+            "linkedin": "https://linkedin.com/in/jthompson4004"
+        },
+        {
+            "name": "Brendan Agliardo, Founder",
+            "description": "Founder of Quetzal, former SWE at Mercatalyst, UMD CS dropout",
+            "linkedin": null
+        }
+    ],
+    "status": true,
+    "generated_description": "**Quetzal: Revolutionizing Translation and Internationalization**\n\nFounded in 2024, Quetzal is on a mission to simplify the complex world of translation and internationalization for software developers. Based in Oakland, California, and part of Y Combinator's Batch S24, Quetzal is the first fully LLM (Large Language Model) powered translation suite that promises instant multilingual support with minimal setup.\n\n### What They Do\nQuetzal's core offering is a translation and internationalization suite that allows companies to deliver their software and content in multiple languages at lightning speed\u2014think minutes, not weeks. With a focus on user experience, Quetzal intelligently captures user-facing text via a VSCode extension and translates it while keeping context in mind. It supports over 20 languages and is compatible with popular frameworks such as Next.js and React.\n\n**Key Features:**\n- **Instant Translations**: Leveraging AI, Quetzal provides accurate translations that maintain the original context.\n- **Monitor and Manage**: Their dashboard offers a complete view of all translations, allowing for easy management of languages and strings.\n- **Flexible Pricing**: Quetzal is designed for all, ranging from individuals to large enterprises, with plans that cater to various budgets.\n\n### Pricing Plans\n1. **Starter**: Free for personal use, limited to one project.\n2. **Business**: $50/month per locale, ideal for small teams.\n3. **Enterprise**: Custom pricing for larger organizations, featuring unlimited projects and 24/7 support.\n\n### The Takeaway\nQuetzal's approach reduces the typical friction associated with internationalization processes. Their goal is straightforward: making it possible for businesses to connect with users in any language, effortlessly and efficiently. With a lean team of 2 and a strong backing from Y Combinator, they're poised to make a significant impact in the software localization space.\n\nFor more information, check out [Quetzal's website](https://getquetzal.com/) and get started on your internationalization journey today. If you have inquiries, their founders are just an email away at founders@getquetzal.com.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/25f0ec2e7ccc062556f1fd111c6a8d64907622fa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191702Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4757f8bb57fc1ec3632da9c78724eb032c4ad58302c09e44b0f2822ee0eb4dc1",
+    "social_links": [],
+    "logo_path": "data/logos\\Quetzal_logo.png"
+}

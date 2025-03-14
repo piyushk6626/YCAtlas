@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/outerbase",
+    "name": "Outerbase",
+    "headline": "The interface for your database",
+    "batch": "W23",
+    "description": "Outerbase is the interface for your database. Companies use Outerbase to view, edit, and modify their data and even generate beautiful visual dashboards without having to write a single line of SQL.",
+    "activity_status": "Active",
+    "website": "https://www.outerbase.com",
+    "founded_date": 2022.0,
+    "team_size": 4.0,
+    "location": "Pittsburgh, PA",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:analytics; industry:data-engineering; industry:ai",
+    "founders": [
+        {
+            "name": "Brandon Strittmatter, Founder",
+            "description": "Brandon is co-founder of Outerbase, the interface for your database. Modern teams use Outerbase to view, edit, query, visualize, and share their data. Prior to co-founding Outerbase, Brandon led design for DigitalOcean's managed solutions (App Platform, Serverless, and DBaaS (Database as a Service), and was the founding designer of Containership, a startup building a multi-cloud Kubernetes platform.",
+            "linkedin": "https://linkedin.com/in/brandonstrittmatter"
+        },
+        {
+            "name": "Brayden Wilmoth, Founder",
+            "description": "Brayden is a co-founder of Outerbase, the interface for your database. Prior to founding Outerbase, Brayden was a software engineering manager at Walmart leading multiple teams of engineers on various platforms for the native applications and web experiences. At his time there he guided teams in making key data-driven decisions, in which he took his experience from to assist in building Outerbase.",
+            "linkedin": "https://www.linkedin.com/in/brayden-wilmoth/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Outerbase: The Interface for Your Database**\n\nFounded in 2022 and proudly part of Y Combinator's Batch W23, Outerbase is on a mission to simplify database interaction for everyone. Based in Pittsburgh, PA, this agile startup consists of a focused team of four, enabling companies to seamlessly engage with their data through an intuitive interface that requires no coding\u2014no SQL needed.\n\nOuterbase's core selling point? It empowers engineers, researchers, and analysts to manipulate their database with confidence\u2014safely and securely. By harnessing the power of AI, users can effortlessly visualize data, build dashboards, and generate insights with tools like **Ask EZQL\u2122**, a feature that allows for natural language questions about data.\n\n### Key Features:\n- **User-Friendly Interface:** Replace SQL complexity with an intuitive UI that integrates with various database providers like PostgreSQL, MySQL, and MongoDB.\n- **AI-Powered Tools:** Generate charts and receive query suggestions in real-time, eliminating common coding pitfalls. \n- **Dashboards and Analytics:** Build customized or AI-generated dashboards, making insights just a click away.\n- **Security First:** Compliance with HIPAA and SOC 2 Type 2, plus robust security measures like two-factor authentication and data encryption.\n\n### Why Choose Outerbase?\nOuterbase blends the world of developer tools, generative AI, and analytics to create an accessible platform that\u2019s particularly beneficial for startups and enterprises alike. Whether you're a seasoned data engineer or a small company looking to harness data insights, Outerbase provides the tools needed to make data-centric decisions without the traditional hurdles.\n\nFor those interested in simplifying their data interaction process, you can explore more about Outerbase or get started for free at [Outerbase\u2019s website](https://www.outerbase.com).\n\nIn summary, if you want to view, edit, and analyze your data without the complexities of SQL, Outerbase is your go-to solution. As they say, \"We make working with data easy.\"",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/08c433d25bceb02a5be3aaadacd8b9a71b2f87b3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191616Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=82e7feb4cf962b3a111e6a246bc63314c1ad0b7049274361f85f9f6e47b27e9b",
+    "social_links": [
+        "https://www.linkedin.com/company/outerbase",
+        "https://www.twitter.com/outerbase",
+        "https://www.crunchbase.com/organization/outerbase"
+    ],
+    "logo_path": "data/logos\\Outerbase_logo.png"
+}

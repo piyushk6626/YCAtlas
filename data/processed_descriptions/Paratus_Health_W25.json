@@ -1,0 +1,35 @@
+{
+    "Links": "https://www.ycombinator.com/companies/paratus-health",
+    "Name": "Paratus Health",
+    "Headline": "Smarter than forms, cheaper than nurses\u00e2\u0080\u0094your AI-powered intake nurse.",
+    "Batch": "W25",
+    "Description": "Paratus Health is an AI-powered intake nurse that automates pre-appointment patient interviews, saving doctors time and improving diagnostic accuracy. By conducting dynamic symptom assessments before the visit, it delivers a structured summary\u00e2\u0080\u0094helping doctors walk in prepared, reducing missed diagnoses, and increasing clinic efficiency. Designed to replace inefficient forms and costly triage calls, Paratus Health turns wasted waiting time into better care and higher ROI for providers.",
+    "Activity_Status": "Active",
+    "Website": "https://paratushealth.com/",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/aaron-epstein",
+    "Group_Partner": "Aaron Epstein",
+    "Company_Linkedin": "https://www.linkedin.com/company/paratus-health/",
+    "Company_Twitter": "",
+    "Tags": "industry:health-tech; industry:digital-health; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/paratus-health/"
+    ],
+    "logo_path": "data\\logos\\Paratus_Health.png",
+    "Active_Founders": [
+        {
+            "Name": "Pablo Bermudez-Canete, Founder",
+            "Description": "Digital Healthcare | Stanford CS - AI | Spain",
+            "LinkedIn": "https://www.linkedin.com/in/pablobermudezcanete?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        },
+        {
+            "Name": "Tannen Hall, Founder",
+            "Description": "Digital Healthcare Stanford CS - AI",
+            "LinkedIn": "https://www.linkedin.com/in/tannen-hall/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Paratus Health: Transforming Patient Intake with AI**\n\nParatus Health is a fresh-faced innovator in the health-tech space, launched in 2024 and boasting the mantra: \"Smarter than forms, cheaper than nurses\u2014your AI-powered intake nurse.\" This tells you a lot about their mission. By harnessing the power of AI, they\u2019re automating pre-appointment patient interviews, which saves doctors valuable time and ramps up diagnostic accuracy.\n\nLocated in San Francisco and part of Y Combinator's W25 batch, Paratus began its journey with just two employees, leveraging cutting-edge technology to create a smoother healthcare experience. At its core, the product streamlines the intake process, transforming wasted waiting time into productive prep time. Its AI conducts intelligent symptom assessments and compiles comprehensive patient summaries\u2014all before the first visit. This means doctors are ready to make informed decisions right off the bat, improving both efficiency and patient satisfaction.\n\n**What Sets Them Apart?**\n\n1. **Dynamic Symptom Analysis:** The AI dissects patients' symptoms and history, providing actionable insights that equip healthcare providers with the information they need.\n\n2. **Operational Efficiency:** By automating administrative tasks, Paratus alleviates burnout among physicians and decreases unnecessary follow-up visits, resulting in a better patient experience.\n\n3. **HIPAA Compliant Security:** Their infrastructure guarantees secure handling of sensitive patient data, ensuring compliance and peace of mind for both patients and healthcare providers.\n\n4. **Rapid Data Collection:** The AI system can conduct in-depth patient interviews effortlessly, capturing crucial health information without the tediousness of traditional methods.\n\nParatus Health\u2019s unique approach bridges the gap between technology and patient care, turning what used to be a cumbersome process into an intuitive journey for both patients and healthcare professionals.\n\nIf you\u2019re in the healthcare space looking to enhance your patient intake process, Paratus Health offers a simple solution that could revolutionize your practice. The future of healthcare isn\u2019t just in better diagnostics; it\u2019s in how efficiently we can gather the right information, and Paratus is at the forefront of making that happen.\n\nFor more details, check out their website: [Paratus Health](https://paratushealth.com/)."
+}

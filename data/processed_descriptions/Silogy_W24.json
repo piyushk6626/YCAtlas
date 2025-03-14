@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/silogy",
+    "name": "Silogy",
+    "headline": "An AI-powered test and debug platform for chip developers",
+    "batch": "W24",
+    "description": "Silogy is building an AI-powered platform for chip developers to simulate and debug their designs.",
+    "activity_status": "Active",
+    "website": "https://silogy.io",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "New York",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:semiconductors; location:new-york",
+    "founders": [
+        {
+            "name": "Kay Li, Founder",
+            "description": "Cofounder and CEO of Silogy. Originally a math major, I became passionate about chips while working in high-frequency trading for 8 years. Previously Hudson River Trading. Interested in all things related to chips and money.",
+            "linkedin": "https://linkedin.com/in/kay-li-84924128b"
+        },
+        {
+            "name": "Paul Kim, Founder",
+            "description": "SiLogy CTO and cofounder. Previously Cloudflare, Sense Talent Labs, United Auto Workers. Interested in all things software, especially EDA.",
+            "linkedin": "https://linkedin.com/in/paul-kim-7b766262"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Introducing Silogy: Transforming Chip Development with AI\n\nFounded in 2023 and based in New York, Silogy is carving out a unique niche as a pioneering AI-powered platform designed specifically for chip developers. As part of Y Combinator's Batch W24, the company is not just another tech startup; it's at the forefront of revolutionizing how chips are designed and debugged.\n\n**Mission and Vision**\n\nSilogy aims to empower chip developers by streamlining the testing and debugging processes through cutting-edge artificial intelligence. Their innovative platform helps users simulate and debug their designs, promising to increase productivity by a staggering tenfold. \n\nAt the heart of this offering is **Viv**\u2014the world's first virtual verification engineer, which automates much of the grueling work typically handled manually by engineers. Viv analyzes log files and code, making it significantly easier for developers to root-cause bugs in real-time and quickly provide actionable insights.\n\n**The Team Behind Silogy**\n\nWith a compact team of just three employees, Silogy packs a punch in the tech space. Led by Brad Flora as their Group Partner, this small but mighty team is committed to delivering high-quality developer tools that enhance efficiency and security in chip development.\n\n**Core Features**\n\n1. **AI-Powered Debugging**: Utilizing open source Large Language Models (LLMs), Viv assists in identifying the source of test failures without human intervention. This allows chip developers to focus on innovation rather than micromanagement of bugs.\n   \n2. **Security First**: Understanding the sensitivity of chip design data, Silogy offers the option to host Viv on-premise, ensuring that all essential data remains within the customer's ecosystem. They\u2019re also committed to best practices in security, including encryption and regular audits.\n\n3. **Compatibility and Support**: The platform supports major simulators like Synopsys VCS, Siemens QuestaSim, Verilator, and Vivado, making it a versatile choice for various engineering needs.\n\n**Getting Started**\n\nSilogy makes it easy for potential users to dive in. They offer a demo that lets interested parties see Viv in action. You can find more information and book your demo at [Silogy's Website](https://silogy.io).\n\n**Conclusion**\n\nSilogy is not just building tools; it's creating a new paradigm in chip design verification. With Viv as a revolutionary assistant, developers can expect faster, more secure, and efficient workflows. As technology continues to advance, Silogy stands ready to lead the charge, making chip development smarter and more accessible than ever before.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a78c7a93549f2faf7f44857179a672e06337d579.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191928Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=be540ca7bc932edfccc131cdc86f22f9cd90deccbbae4d13087f5f42850815c6",
+    "social_links": [
+        "https://www.linkedin.com/company/100808053/"
+    ],
+    "logo_path": "data/logos\\Silogy_logo.png"
+}

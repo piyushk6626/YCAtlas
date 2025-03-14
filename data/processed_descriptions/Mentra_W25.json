@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/mentra",
+    "name": "Mentra",
+    "headline": "Building the open source smart glasses operating system.",
+    "batch": "W25",
+    "description": "Mentra is building AugmentOS, the open source OS for smart glasses, like Android for smart glasses. Smart glasses hardware is finally ready, and we're building the software ecosystem to unlock the next personal computer.",
+    "activity_status": "Active",
+    "website": "https://mentra.glass",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hardware; industry:consumer; industry:open-source; industry:ai; industry:ar; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alexander Israelov, Founder",
+            "description": "Three years ago, a small shard of glass launched into my right eye, and I needed glasses for the first time. I immediately recognized the untapped potential of smart eyewear. I built my first pair of smart glasses in 2021, then again in 2022. Today, the hardware is finally ready for mass-adoption, but the software - the final requirement for mass adoption - is not. That's what we're building at Mentra.",
+            "linkedin": "https://linkedin.com/in/alexanderisraelov"
+        },
+        {
+            "name": "Cayden Pierce, Founder",
+            "description": "Six years ago, I saw that smart glasses would be the next computing interface. I then started building smart glasses tech, but learned the hardware wasn't there, the AI wasn't there, and the operating system wasn't there. Now after six years, the hardware has arrived and the AI has arrived, but there's still no smart glasses operating system. I dropped out of the MIT Media Lab and started Mentra to build the last piece needed to unlock the next human computer interface.",
+            "linkedin": "https://www.linkedin.com/in/cayden-pierce/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Mentra**\n\n**Foundation and Mission**  \nMentra was founded in 2024 and operates from the vibrant tech hub of San Francisco. The company\u2019s mission? Building AugmentOS, an open-source operating system designed for smart glasses, akin to Android but for wearables. This is all about creating a software ecosystem that fully realizes the potential of smart glasses as the next personal computing platform.\n\n**Backed by Y Combinator**  \nMentra is part of the prestigious Y Combinator Batch W25, which gives it a strong startup pedigree and access to a network of peers and mentors. With a compact team of just four employees, Mentra is nimble and focused on achieving its goals.\n\n**The Product**  \nMentra is not just about software; they offer two innovative products:  \n1. **Mach1 (Display Glasses):** Priced at $339, these glasses provide full AugmentOS support, enabling developers to craft a variety of applications, from navigation overlays to live translations and AI-driven tools.  \n2. **Live (Camera Glasses):** At $219, these glasses come equipped with a camera and microphone, also fully supporting AugmentOS. They\u2019re scheduled to ship in March 2025 and include features for streaming and recording.\n\n**Innovative Applications**  \nDevelopers using AugmentOS can create a wide range of applications that integrate artificial intelligence and augmented reality. Imagine having an AI tour guide, an instant translation service, or even smart reminders\u2014all right in your field of view. The platform supports developers using languages like TypeScript, JavaScript, and Python, making it accessible for many tech enthusiasts.\n\n**Join the Movement**  \nMentra aims to revolutionize how we interact with the world through augmented reality and artificial intelligence. They seek to attract talented individuals passionate about pushing the boundaries of human-computer interaction. If you\u2019re interested in hacking away at the future of computing, they are on the lookout for software and hardware talent. \n\n**Contact and More**  \nFor those eager to explore the future of computing, Mentra\u2019s website [mentra.glass](https://mentra.glass) offers insights, a mailing list for updates, and options to purchase their products.\n\nIn summary, Mentra stands at the frontier of augmented reality and AI, creating an open-source platform that empowers developers and enriches user experiences. If you\u2019ve ever dreamed of building the future of smart glasses, Mentra is where you\u2019d want to be.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3e26e73882c202fa08f55265d276ca5e2617a46b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191531Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0684f9ec3b30e7b582aa81c2dac193df58b4f05b01a8a0894529833b35a60b77",
+    "social_links": [],
+    "logo_path": "data/logos\\Mentra_logo.png"
+}

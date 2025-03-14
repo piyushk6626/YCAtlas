@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/ledgerup",
+    "name": "LedgerUp",
+    "headline": "Your AI billing teammate that automates contracts to revenue",
+    "batch": "S24",
+    "description": "LedgerUp is your AI RevOps teammate for B2B SaaS, transforming contract-based billing from a chore into a frictionless, revenue-accelerating process. We parse contracts, issue invoices, and collect payments in real-time, all while surfacing actionable analytics\u2014allowing your finance team to escape spreadsheet chaos and focus on strategic growth. Just close deals and let us handle your RevOps for you.",
+    "activity_status": "Active",
+    "website": "https://ledgerup.ai/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:finops; industry:workflow-automation; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Joseph Johnson, Founder",
+            "description": "I\u2019ve held multiple finance and accounting roles across companies from seed stage to Series A and beyond. I've experienced all stages of company growth, including most recently serving as Controller and then Director of Finance at a company where I led the accounting/finance efforts for public filings, including S-4 and 10-Q filings. With my background in scaling finance operations, I\u2019m passionate about helping SMBs streamline their financial workflows and prepare for growth.",
+            "linkedin": "https://linkedin.com/in/joseph-johnson-"
+        },
+        {
+            "name": "Bailey Spell, Founder",
+            "description": "Previously, I worked at Microsoft, where I was one of two selected by the Office CTO to integrate agents into Office while then becoming the first engineering hire at a seed-stage workflow automation startup. There, I helped the company grow from $0 to $120k in ARR. Now, I am helping lead a new era of finance and accounting for businesses starting with bookkeeping.",
+            "linkedin": "https://linkedin.com/in/bailey-spell-b487ab149"
+        }
+    ],
+    "status": true,
+    "generated_description": "**LedgerUp: Your AI Billing Teammate**\n\nFounded in 2024 and based in San Francisco, LedgerUp is a dynamic startup that has caught the attention of the Y Combinator Batch S24. With a lean team of just three people, LedgerUp aims to redefine how B2B SaaS companies handle revenue operations\u2014turning what often feels like an insurmountable task into a seamless, data-driven experience.\n\n**Mission and Vision**\nLedgerUp's mission is clear: to automate the entire revenue lifecycle, from contracts to cash flow. Think of them as your AI copilot in revenue operations, handling everything from parsing contracts to issuing invoices and collecting payments\u2014all in real time. The idea is to free finance teams from the clutches of chaotic spreadsheets so they can focus on what really matters: strategic growth.\n\n**Core Functionality**\nRepetitive manual tasks and the pain of delayed payments are archetypal burdens on finance teams, and LedgerUp is out to eliminate these inefficiencies. By integrating with your current contracts or CRM systems, LedgerUp turns signed agreements into automatic revenue without the manual headaches. This not only enhances visibility into every invoice and payment metric but also helps businesses capture 100% of their revenue and boost on-time payments by 40%.\n\n**User Experience**\nOne of the most appealing aspects of LedgerUp is that it\u2019s not just another tool to learn. The AI operates quietly in the background, allowing users to breeze through their billing cycles while focusing on growth, rather than the minutiae of invoice management. Plus, it provides real-time visibility and supports approvals via platforms like Slack, making the entire process user-friendly.\n\n**Endorsements and Backing**\nLedgerUp has garnered the trust of leading startups and has the backing of Y Combinator, which is often a stamp of approval for potential success in the startup world. Diana Hu serves as the Group Partner, supporting LedgerUp\u2019s growth while they strive to make revenue operations as effortless as possible.\n\n**Conclusion**\nIf you're a B2B SaaS company looking to streamline your revenue processes without getting bogged down by software complexity, LedgerUp could be your next essential teammate. As they like to say, just close the deals, and let LedgerUp handle the rest. Get started on your journey to a more effortless revenue operation at [LedgerUp.ai](https://ledgerup.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a20d666b04e457a5513a8d6cc2db810bcbf0a921.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191502Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1c4e8d1ef3090228b4de376abe298f5d57093f2bea270da081fd10e4553dd9f5",
+    "social_links": [
+        "https://www.linkedin.com/company/ledgerup-ai",
+        "https://x.com/tryLedgerUp",
+        "https://www.crunchbase.com/organization/ledgerup"
+    ],
+    "logo_path": "data/logos\\LedgerUp_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/provision",
+    "name": "Provision",
+    "headline": "Ironclad for construction",
+    "batch": "S22",
+    "description": "Provision is building the contract analysis platform for construction. Instead of manually reading through thousands of pages of documents and revisions, Provision organizes and extracts information so constructors can save time and reduce the cost of future mistakes.",
+    "activity_status": "Active",
+    "website": "https://useprovision.com",
+    "founded_date": 2022.0,
+    "team_size": 9.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:documents; industry:machine-learning; industry:construction; industry:productivity; industry:nlp",
+    "founders": [
+        {
+            "name": "Luigi La Corte, Founder",
+            "description": "Luigi is the co-founder and CEO of Provision. Before co-founding Provision, he worked in the construction industry for seven years between Arup (a multi-disciplinary engineering design firm) as a civil engineer and Plenary (infrastructure developer) as a Director. He managed $3B+ of large infrastructure projects with some of the most sophisticated stakeholders across the value chain (owners, GCs, sub-contractors, facility managers).",
+            "linkedin": "https://www.linkedin.com/in/luigi-r-la-corte"
+        },
+        {
+            "name": "Brendan Ardagh, Founder",
+            "description": null,
+            "linkedin": "https://linkedin.com/in/brendan-ardagh/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Provision**\n\nFounded in 2022 and hailing from Toronto, Canada, Provision is part of Y Combinator's Batch S22. With a compact yet dynamic team of nine, their mission is to streamline the construction industry's approach to contract analysis. The essence of their innovation? An intelligent platform that cuts through the tedious noise of contract documents, making it easier for constructors to save time and dodge costly mistakes.\n\n### The Problem They Solve\n\nIn construction, time is money and misreading a contract can lead to significant financial repercussions. Provision addresses this dilemma by offering a platform that organizes and extracts vital information from extensive document sets. Instead of painstakingly combing through pages of text, users can quickly sift through contracts to find the risks and requirements that matter most.\n\n### Key Features\n\n1. **Contract Review**: Gain insights quickly through a standardized review process that highlights risks and crucial points in contracts.\n   \n2. **Project Co-Pilot**: Navigate through monumental documents with ease; focus on critical areas while bypassing irrelevant information to understand the contract better.\n\n3. **Instant Risk Identification**: Potential issues, whether they're crucial qualifications or operational restrictions, are flagged promptly, ensuring nothing slips under the radar before bids are submitted.\n\n4. **Specifications & Drawing Notes**: Quickly retrieve competitive edge information which is vital for operations.\n\n5. **Automated Reconciliation**: Supplemental conditions are reconciled automatically, saving you from hours of manual verification.\n\n### Who Benefits?\n\nProvision is particularly tailored for pre-construction teams and legal experts. It allows teams to filter out unsuitable projects, surface critical information before bids, and streamline risk reviews across various projects.\n\n### Security First\n\nWith SOC2 certification, Provision prioritizes data integrity and security. They ensure that all data is protected both in transit and at rest, providing clients with peace of mind.\n\n### Proven Impact\n\nThe effectiveness of Provision is echoed through glowing customer feedback. Industry professionals from firms like M. Sullivan and Sons and Marco Group Limited laud how this tool has woven itself into their routines, drastically cutting down review times\u2014by as much as three times faster than traditional methods\u2014and enhancing overall project value evaluation, with over $10 billion assessed through their platform.\n\nFor anyone involved in construction, Provision is not just a tool; it\u2019s the safety net you didn\u2019t know you needed. Whether you're looking to streamline your contract processes or just want to minimize your risks on the next big project, check them out at [useprovision.com](https://useprovision.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/410108f27e7a24ec075d5d945012b2c0d70db4a1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191657Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5a8690f2cf767f67ff98655bdd11f8a6690a3132e5845c80ddcedaee581dfe88",
+    "social_links": [
+        "https://www.linkedin.com/company/provision-software-co",
+        "https://twitter.com/UseProvision",
+        "https://www.crunchbase.com/organization/provision-1d32",
+        "https://github.com/nostrapollo"
+    ],
+    "logo_path": "data/logos\\Provision_logo.png"
+}

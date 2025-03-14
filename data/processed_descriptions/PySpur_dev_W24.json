@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/pyspur-dev",
+    "name": "PySpur.dev",
+    "headline": "Open Source AI Agents Builder",
+    "batch": "W24",
+    "description": null,
+    "activity_status": "Active",
+    "website": "http://pyspur.dev",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:open-source; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jean Kaddour, Founder",
+            "description": "ML PhD @ UCL, co-authored >10 papers in top AI conferences like NeurIPS, ICLR, etc., >1k citations",
+            "linkedin": "https://linkedin.com/in/jean-kaddour-344837267"
+        },
+        {
+            "name": "Srijan Patel, Founder",
+            "description": "Co-Founder @ PySpur\nPreviously: ML @ Meta, JioSaavn",
+            "linkedin": "https://linkedin.com/in/srijanpatel"
+        }
+    ],
+    "status": true,
+    "generated_description": "**PySpur.dev: The Open Source AI Agents Builder**\n\nFounded in 2024 and part of the Y Combinator W24 batch, PySpur.dev is on a mission to revolutionize AI with their open-source AI agents builder. Located in the heart of San Francisco, this nimble startup operates with a compact team of just two employees, under the guidance of Diana Hu as their Group Partner.\n\nAt its core, PySpur is about making AI accessible and modular. Their platform allows users to build reliable AI agents using a straightforward drag-and-drop interface. Once built, these agents can be deployed to an API with just one click. That\u2019s pretty much as user-friendly as it gets. \n\n### Key Features\n- **Multimodal Capability**: PySpur's system is not just limited to text; it works seamlessly with videos, images, audio, PDFs, and more.\n- **Modular Building Blocks**: Users can easily integrate various functionalities like self-refinement and external tools in no time.\n- **Behavior Profiling**: You get insight into the agent's decision-making process, allowing for quicker interventions when needed.\n- **Advanced Management**: Tools for chunking, parsing, embedding, and vector database management make for a robust backend.\n\n### Open Source and Community Driven\nPySpur is built for engineers and developers who want control over their infrastructure. As an entirely open-source project licensed under Apache 2.0, it empowers users to self-host and maintain full control over their data. The ease of adding new tools and sharing agent configurations as JSON files ensures that collaboration is straightforward.\n\nPython and TypeScript SDKs are available, making integration into existing workflows a breeze. Simply put, if you\u2019re looking to dabble in AI without getting bogged down by complexity, PySpur is worth exploring.\n\n### Join the Movement\nIf you\u2019re intrigued by what PySpur has to offer and want to keep up with their developments, you can star their GitHub repository or check their blog. In a world increasingly reliant on AI, having tools that democratize access is not just welcome\u2014it's necessary.\n\nExplore more about PySpur at [pyspur.dev](http://pyspur.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9d18ef0611d731d654346962f9a66e9b706d8eb7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191659Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=acba59fbd8227a186c55cc25f26286fb89d1ee52d0d4f2ba2aa030094791cfb2",
+    "social_links": [
+        "https://www.linkedin.com/company/pyspur/",
+        "https://github.com/PySpur-com/PySpur"
+    ],
+    "logo_path": "data/logos\\PySpur.dev_logo.png"
+}

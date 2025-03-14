@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/langdock",
+    "name": "Langdock",
+    "headline": "The all-in-one AI platform for companies.",
+    "batch": "S23",
+    "description": "Langdock is a comprehensive and secure platform for deploying AI in companies. From a powerful chat interface for all employees to tools for creating custom workflow automations with AI-driven agents.",
+    "activity_status": "Active",
+    "website": "https://langdock.com",
+    "founded_date": 2023.0,
+    "team_size": 10.0,
+    "location": null,
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Lennard Schmidt, Founder",
+            "description": "Co-Founder of Langdock :)",
+            "linkedin": "https://linkedin.com/in/lennardschmidt"
+        },
+        {
+            "name": "Jonas Beisswenger, Founder",
+            "description": "Building Langdock (S23)",
+            "linkedin": "https://linkedin.com/in/jonasbeisswenger"
+        },
+        {
+            "name": "Tobias Kemkes, Founder",
+            "description": "Before Langdock, I was the founding engineer at Blair (YC S19) and built an end-to-end automated servicing platform to manage their $100M debt facility. The platform was audited, handled sensitive data, and moved millions of dollars around. I later became Blair's first head of product, managing a team of five engineers.",
+            "linkedin": "https://linkedin.com/in/tobiaskemkes"
+        }
+    ],
+    "status": true,
+    "generated_description": "Langdock is an ambitious startup that emerged from the Y Combinator Batch S23 in 2023, launching with a clear mission: to serve as a comprehensive AI platform for companies. Based in Berlin, Germany, Langdock has quickly assembled a team of 10 dedicated employees under the guidance of Aaron Epstein as their Group Partner.\n\nAt its core, Langdock positions itself as an enterprise-ready solution that allows businesses to deploy AI across all levels of their organization. Its offerings include a robust AI chat interface, specialized assistants for various use-cases, an AI-driven workplace search feature, and the ability to create custom workflow automations. This flexibility ensures that users can tap into the power of AI\u2014regardless of their specific needs or data privacy concerns.\n\nWhat\u2019s particularly compelling about Langdock is its model-agnostic approach, allowing companies to use various AI models from different providers without being locked into a single solution. This not only adds a layer of freedom for developers building custom applications but also promotes a scalable architecture that can grow according to the company's demands.\n\nCurrently, Langdock is trusted by over 250 companies, illustrating its effectiveness and the tangible impact of its platform. With features like AI chat capabilities, dedicated assistants for tasks such as sales enablement, HR inquiries, and customer support, organizations can enhance productivity while maintaining data privacy compliance.\n\nLangdock\u2019s commitment to security is evident as it adheres to stringent regulations, being GDPR-compliant and ISO 27001 & SOC 2 TYPE II certified. It's hosted in Europe, ensuring robust data governance and compliance with local regulations.\n\nFor organizations interested in dipping their toes into the AI revolution, Langdock offers a 7-day free trial that allows potential customers to explore the platform\u2019s full suite of functionalities. This makes it easy for businesses to see firsthand how AI can transform their workflows and improve overall efficiency.\n\nIn summary, Langdock is not just another tech startup; it's a comprehensive AI platform designed with the enterprise in mind. From dynamic customer support systems to custom workflow automations, Langdock is shaping how companies can leverage AI to drive productivity and innovation. If you're looking to integrate AI into your organization without the hassles of complicated implementations, Langdock is certainly worth a look. \n\nFor more information, check out their website: [Langdock](https://langdock.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/05d18d07fab8d9b272ebf582d0e2f0708e7c53b6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191459Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=32ac1bffe6e31ff83fb14824731c3d917f4366e1f6de0ae96eca899b1f6611c2",
+    "social_links": [
+        "https://www.linkedin.com/company/langdock/",
+        "https://twitter.com/langdock_hq",
+        "https://github.com/Langdock"
+    ],
+    "logo_path": "data/logos\\Langdock_logo.png"
+}

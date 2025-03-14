@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/networkocean",
+    "name": "NetworkOcean",
+    "headline": "We build and operate underwater data centers.",
+    "batch": "S24",
+    "description": "We build underwater data centers to cut power usage by up to 30%, operating GPUs cheaper and more sustainably. Our 1 MW capsule is being tested underwater in the SF Bay",
+    "activity_status": "Active",
+    "website": "https://networkocean.io/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:hardware; industry:cloud-computing; industry:climatetech; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sam Mendel, CEO, Co-Founder",
+            "description": "CEO, Co-founder of NetworkOcean - building underwater data centers.",
+            "linkedin": "https://linkedin.com/in/sammendel2000"
+        },
+        {
+            "name": "Eric Kim, CTO, Co-Founder",
+            "description": "Co-founder and CTO building underwater data centers @ NetworkOcean. Background in Physics and CS, with a focus on ML and renewable energy.",
+            "linkedin": "https://linkedin.com/in/yekime"
+        }
+    ],
+    "status": true,
+    "generated_description": "**NetworkOcean: Diving into Efficiency**\n\nFounded in 2023 and part of Y Combinator's S24 batch, NetworkOcean is pioneering a novel approach to data centers by building and operating them underwater. The goal? To reduce power consumption by up to 30% and enhance the sustainability of GPU operations.\n\nWhy underwater? The concept targets significant efficiencies, including eliminating freshwater waste\u2014about 10 billion gallons per year that conventional data centers squander cooling their systems. Plus, by situating the data centers in the ocean, the company can lower operational costs by 25% while also achieving edge-compute-level latency\u2014up to a staggering 98% reduction in latency for users near coastal areas.\n\nCurrently a nimble team of just two, NetworkOcean operates out of San Francisco and is strategically guided by Group Partner Dalton Caldwell. Tagged as a hard-tech startup, the company unites interests in hardware, cloud computing, climate technology, and artificial intelligence. \n\nTheir initial 1 MW capsule is undergoing testing in the San Francisco Bay, representing a critical step in validating their vision of sustainable computing. \n\nFor those interested in reserving GPU access or learning more, you can visit their website at [NetworkOcean.io](https://networkocean.io/).\n\nIn summary, NetworkOcean is riding the wave of innovation, focusing on sustainability in a sector notorious for its high energy needs, all while tapping into what seems like an untapped resource: the ocean. Keep your eyes peeled on this one; they\u2019re making some serious waves in the tech world.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/faa8489dcc09ecc9c84c75790ce4d291326cf21f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191557Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d2d2388e5ce7f91f827cf889ec6e8e5fbad8cefe5e95e2a5fbc226fab3315a45",
+    "social_links": [
+        "https://www.linkedin.com/company/networkocean/",
+        "https://x.com/Network_Ocean_"
+    ],
+    "logo_path": "data/logos\\NetworkOcean_logo.png"
+}

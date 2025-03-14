@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/guide-labs",
+    "name": "Guide Labs",
+    "headline": "Interpretable AI systems",
+    "batch": "W24",
+    "description": "At Guide labs, we build Interpretable foundation models and AI systems that can reliably explain their reasoning, and are easy to audit, steer and understand. We provide access to these models via our API.",
+    "activity_status": "Active",
+    "website": "https://www.guidelabs.ai/",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Julius Adebayo, Founder",
+            "description": "I am a machine learning researcher working on interpretable AI systems.",
+            "linkedin": "https://linkedin.com/in/juliusadebayo"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Guide Labs Overview\n\n**Founded:** 2023  \n**Location:** San Francisco, CA  \n**Team Size:** 5 employees  \n**Y Combinator Batch:** W24  \n**Website:** [guidelabs.ai](https://www.guidelabs.ai)\n\n---\n\n### Mission\n\nGuide Labs aims to revolutionize the field of artificial intelligence by developing **interpretable AI systems**\u2014models that not only provide insights into their reasoning but also allow for human oversight. Their goal is to create AI solutions that can be reliably audited, understood, and steered. \n\n### What They Do\n\nAt Guide Labs, the focus is on building a new class of **foundation models** that engage in transparent reasoning. They acknowledge the limitations of current AI systems, which often produce unreliable explanations and are hard to debug. By creating models that clarify their outputs, provide context citations, and specify influencing training data, they intend to enhance trust and control in AI applications.\n\nTheir innovative solutions include:\n\n- Interpretable outputs for any given input.\n- Contextual references for better understanding.\n- Transparency about which training data drives model decisions.\n\n### Team Expertise\n\nThe Guide Labs team boasts impressive credentials, with extensive backgrounds in interpretable machine learning and PhDs from prestigious institutions like MIT, UMD, and MILA. They\u2019ve already made significant contributions to the field, including the development of the first interpretable generative diffusion model and large language model (LLM).\n\n### Job Opportunities\n\nGuide Labs is on the lookout for talented professionals to join their mission. They currently have openings for:\n\n- Full-stack / Product Engineer\n- Research Engineer\n- Research Scientist\n- Systems Infrastructure Engineer\n- Research Scientist Intern\n\n### Vision for the Future\n\nThe company is poised to lead a movement that shifts AI from a black box to an understandable tool, aiming to enhance AI's reliability and societal acceptance. Their work promises not just to innovate but also to responsibly integrate AI into everyday applications by making it auditable and trustworthy for users.\n\n---\n\nIf you\u2019re interested in staying updated, you can [join their waitlist](https://www.guidelabs.ai/#cta) or explore further through their [blog](https://www.guidelabs.ai/blog).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f7f3eb47554cb5b8b830edfa93f3e9e4ab476dcf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191406Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f52d24e274ab55ddcf3b1c2e0e85834ac5f3d3e1e214eb13133b32136639cc52",
+    "social_links": [
+        "https://www.linkedin.com/company/guide-labs",
+        "https://twitter.com/guidelabsai",
+        "https://github.com/guidelabs"
+    ],
+    "logo_path": "data/logos\\Guide_Labs_logo.png"
+}

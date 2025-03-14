@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/vogent",
+    "name": "Vogent",
+    "headline": "Build Voice AI Agents",
+    "batch": "S21",
+    "description": "Vogent is an all-in-one platform for building voice agents by using intelligent building blocks, including IVR detection models, custom phone-ready LLMs, drag-and-drop conversational flow builders, and more.",
+    "activity_status": "Active",
+    "website": "https://vogent.ai",
+    "founded_date": 2020.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:sales; industry:operations; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jagath Vytheeswaran, Founder",
+            "description": "CEO @ Vogent",
+            "linkedin": "http://www.linkedin.com/in/jagathv"
+        },
+        {
+            "name": "Vignesh Varadarajan, Founder",
+            "description": "CTO @ Elto\n\nPreviously:\nCS @ Caltech\nSoftware & Machine Learning @ Apple\nSoftware @ IBM",
+            "linkedin": "http://linkedin.com/in/vignesh-varadarajan-22469937/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Vogent: Building Voice AI Agents Made Simple**\n\nVogent is here to simplify the tangled web of voice AI development. Founded in 2020 and part of Y Combinator\u2019s Batch S21, this San Francisco-based startup has a clear mission: build voice AI agents that are not just functional but humanlike and intelligent. With a lean team of three, Vogent has set out to empower organizations to create engaging voice interactions without the heavy lifting usually associated with AI deployment.\n\n**What They Offer**\n\nAt its core, Vogent's platform is an all-in-one solution, featuring a suite of intelligent building blocks\u2014think IVR detection models, tailor-made phone-ready large language models (LLMs), and drag-and-drop conversational flow builders. This allows even non-technical users to set up complex voice agents swiftly. \n\nImagine being able to piece together a voice agent that can navigate customer inquiries, glean insights from conversations, and integrate flawlessly with existing tools\u2014all without writing a single line of code. That\u2019s what Vogent is selling, backed by the power of models trained on millions of real-world phone interactions.\n\n**Performance and Integration**\n\nVogent isn\u2019t just about making life easier for developers; their platform boasts impressive metrics. On average, it achieves a response latency of just 200 milliseconds and can save organizations up to 75% in call center or labor costs. With over a million calls made monthly, their offering is robust enough for serious business needs.\n\nWhat\u2019s more, Vogent addresses the security concerns many enterprises have, offering HIPAA-compliant environments and pending a SOC 2 Type II audit. This positions them well for clients handling sensitive information, such as healthcare organizations.\n\n**Pricing That Works for Everyone**\n\nTheir pricing model is refreshingly straightforward: a pay-per-minute plan at just 9\u00a2 per minute\u2014no upfront commitments required. For organizations with high call volumes, especially in sectors like healthcare, custom enterprise solutions with significant discounts are available.\n\n**Final Thoughts**\n\nSo where does Vogent stand in the crowded AI market? They are carving out a niche with their user-friendly approach and deep integration capabilities, making them an attractive option for businesses looking to enhance customer engagement via voice technology. If voice AI has been on your radar, Vogent is definitely worth a closer look.\n\nFor more information, you can explore their offerings directly at [Vogent's website](https://vogent.ai). Whether you\u2019re a developer or a business leader, their tools might just be the key to unlocking your next breakthrough in customer communication.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/88cde52fa6b4a753d1213606abb725b050180e49.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192050Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=525238c9de4cb29da81cd6895d753bfe58b1dce4fa46c02d63172ed557e7f783",
+    "social_links": [
+        "https://www.linkedin.com/company/vogent",
+        "https://x.com/vogentai",
+        "https://github.com/vogent"
+    ],
+    "logo_path": "data/logos\\Vogent_logo.png"
+}

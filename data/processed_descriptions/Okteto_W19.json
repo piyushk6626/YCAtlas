@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/okteto",
+    "name": "Okteto",
+    "headline": "Cloud Development Environments with one click",
+    "batch": "W19",
+    "description": "At Okteto, we are working hard at creating the next-generation development experience for teams of all sizes. Have you ever seen how long it takes a developer to set up everything they need before working on a feature? We are fixing that.  We want developers to focus on building value for their teams instead of wasting time setting up local environments or trying to debug \"production only\" issues.",
+    "activity_status": "Active",
+    "website": "https://okteto.com",
+    "founded_date": 2018.0,
+    "team_size": 30.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:open-source; industry:kubernetes; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ramiro Berrelleza, Founder",
+            "description": "Ramiro Berrelleza is one of the founders of Okteto. He has spent most of his career (and his free time) building cloud services and developer tools. Before starting Okteto, Ramiro was an Architect at Atlassian, a Software Engineer in ElasticBox and a Software Engineer in Microsoft Azure. Originally from Mexico, he currently lives in San Francisco.",
+            "linkedin": "https://www.linkedin.com/in/ramiroberrelleza/"
+        },
+        {
+            "name": "Pablo Chico de Guzman, Founder/CTO",
+            "description": "Founder @Okteto (www.okteto.com) helping companies to adopt Kubernetes and accelerate their development workflows.\nPreviously, I worked @Docker in the Docker Cloud project (formerly Tutum), a container platform to take full advantage of the amazing technology that Docker containers are.\nAs a Docker Community Leader, I organize the Docker Madrid and Cloud-Native Madrid Meetups, a group of 4000 enthusiastic DevOps, that find Docker and Kubernetes useful on their day-to-day work.",
+            "linkedin": "https://www.linkedin.com/in/pchico/"
+        },
+        {
+            "name": "Ramon Lamana, Founder",
+            "description": "User-focused to the core, Ramon worked at Google in consumer products like Inbox by Gmail and YouTube. For many years he dedicated his efforts to improving the developer experience for tools at Elasticbox or EyeOS, a pioneer in the virtualization of workspaces in the browser.",
+            "linkedin": "https://www.linkedin.com/in/rlamana/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Okteto: Simplifying Development with One-Click Cloud Environments**\n\nFounded in 2018 and hailing from Y Combinator's Batch W19, Okteto has a straightforward mission: to streamline the development process for teams of all sizes by providing self-service cloud development environments with just one click. Based in San Francisco, the company has grown to a team of 30 dedicated employees, all focused on revolutionizing the developer experience.\n\nThe problem they tackle is familiar to anyone in tech: setting up local development environments can be a time-consuming headache. Okteto eliminates this hassle, allowing developers to dedicate their energy to building and delivering value instead of drowning in configuration issues or debugging production problems. Imagine being able to skip the long setup periods and jump straight into coding!\n\nOkteto offers a suite of tools designed to automate environment provisioning, reduce build times, and expedite testing. With its innovative platform, developers can expect to reclaim a significant chunk of their time\u2014up to 250+ hours annually\u2014simply by reducing setup friction.\n\nSome features that stand out include:\n\n- **Self-Service Ephemeral Environments**: Developers can create and manage their own project-specific environments on demand.\n- **Rapid Iteration with Hot Reloading**: Code changes can be seen instantly in production-like environments, cutting build wait times dramatically\u2014by up to 97%.\n- **Streamlined Onboarding**: New developers can get productive much faster, with a ramp-up time reduced from 90 days to just 45.\n\nCompanies that utilize Okteto report compelling results. For instance, Monday.com has seen a 50% increase in productivity, while Playable Worlds noted a $1 million savings in engineering costs by shifting left the verification process. The overarching theme is clear: when development processes are optimized, you not only save time but also enhance productivity across the board.\n\nWith a strong presence in the developer tools, SaaS, B2B, and Kubernetes spaces, Okteto aims to partner closely with its customers to reshape the way development teams operate. They are positioned as a go-to resource for modern development practices that embrace cloud-native technologies.\n\nIf you're looking to transform your development cycle and enable your team to innovate faster, Okteto is certainly worth a look. Their commitment to simplifying the developer experience makes them a frontrunner in the space. You can learn more on their [website](https://okteto.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7af7ca35f4879c2af5b5b449a4cb80c27b0cc579.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191607Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dcf4a1ed292c2fb0a1e97cd6e9a9b5f1142e34e1b5c3cf7cb874ffe920f32fde",
+    "social_links": [
+        "https://www.linkedin.com/company/okteto",
+        "https://twitter.com/oktetohq",
+        "https://www.crunchbase.com/organization/okteto",
+        "https://github.com/okteto"
+    ],
+    "logo_path": "data/logos\\Okteto_logo.png"
+}

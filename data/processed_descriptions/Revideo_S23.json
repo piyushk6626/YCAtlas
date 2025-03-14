@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/revideo",
+    "name": "Revideo",
+    "headline": "Create Videos with Code",
+    "batch": "S23",
+    "description": "We are building tools for programmatic video creation. Revideo, our open-source framework, lets you create video templates in Typescript and render them via an API. It also provides a React player component to display changes in the browser in real-time.",
+    "activity_status": "Active",
+    "website": "https://re.video",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "Berlin, Germany",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:video",
+    "founders": [
+        {
+            "name": "Konstantin Hohr, Founder",
+            "description": "Konstantin is the founder of Revideo. Previously, he studied computer science at RWTH Aachen while simultaneously working as a software engineer at Jodel, where he built content moderation and abuse detection systems. At DynamoAI (W22), he spearheaded development on vertical federated learning based products.",
+            "linkedin": "https://linkedin.com/in/konsti-h"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Revideo: Creating Videos with Code\n\n**Overview**  \nFounded in 2023 and located in Berlin, Germany, Revideo is a fresh player in the developer tools space, particularly focused on programmatic video creation. The company is part of Y Combinator's Batch S23 and is driven by a mission to enable developers to create videos through code with ease.\n\n**Mission**  \nThe core mission of Revideo revolves around the idea of \"Create Videos with Code.\" They aim to simplify the video creation process by allowing developers to build video templates using Typescript and render videos with an accessible API.\n\n**What They Offer**  \nRevideo provides an open-source framework that serves as a powerful tool for programmatic video editing. Users can automate complex video workflows or even build entire video editors that operate right in the browser. By utilizing Motion Canvas, Revideo fosters an environment where developers can:\n\n1. **Create Video Templates:** Craft templates in Typescript that can define the structure and elements of the videos.\n2. **Pass in Data Effortlessly:** Input various forms of data\u2014be it text, images, or advanced data structures\u2014to populate the templates.\n3. **Preview in Real-time:** Changes can be instantly seen in the browser, aiding developers in quick iterations.\n4. **Render Videos Programmatically:** Finally, rendered videos can be exported to MP4 format for wider usage.\n\n**Current Projects and Features**  \nRevideo is all about practicality and innovation in video creation. They provide starter templates for:\n\n- **Short-Form Content Automation:** Perfect for automating social media content.\n- **Drag-and-Drop Editors:** Build intuitive video editing interfaces using NextJS.\n- **Video A/B Testing:** Create numerous video variations to maximize engagement.\n- **Dynamic Content Generation:** Integrate with APIs to build contextual video content.\n- **Code Explainer Videos:** A novel way to visualize coding processes through animation.\n\nAdditionally, they support parallelized rendering capabilities, which can leverage AWS Lambda for faster processing.\n\n**Community and Support**  \nRevideo invites developers to join their community on Discord where members can get assistance, share projects, and stay updated with new features. They also emphasize the importance of collaboration and contributions in an open-source setting.\n\n**Getting Started**  \nIf you\u2019re a developer looking to ease the burden of video creation, check out their comprehensive [documentation](https://re.video/docs.re.video) or visit their [GitHub](https://github.com/redotvideo/revideo) to explore the code. They encourage participation, so don't hesitate to star the project or share your experiences in their community.\n\nRevideo is not just another tool; it's a platform that empowers creators to leverage code in the dynamic world of video. By bridging the gap between development and multimedia, they\u2019re paving the way for the next generation of content creation.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f1f3067adb6326b16a565e03788120e1ba3eef1c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191722Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0d2c143c5b7b46b5c00a321f2a45e06df5cd17c58c17b858e88f4624b89fdbca",
+    "social_links": [
+        "https://www.linkedin.com/company/haven-ml",
+        "https://twitter.com/redotvideo",
+        "https://github.com/redotvideo"
+    ],
+    "logo_path": "data/logos\\Revideo_logo.png"
+}

@@ -1,0 +1,35 @@
+{
+    "Links": "https://www.ycombinator.com/companies/tejas-ai",
+    "Name": "Tejas AI",
+    "Headline": "Risk Decisioning Platform for Indian Banks",
+    "Batch": "W25",
+    "Description": "Tejas AI eliminates uncertainty, allowing decision-makers to develop and evaluate credit rules more quickly and effectively.",
+    "Activity_Status": "Active",
+    "Website": "https://www.trytejas.ai/",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "Mumbai, India",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "https://www.linkedin.com/company/tejasai/",
+    "Company_Twitter": "",
+    "Tags": "industry:fintech; industry:finance; industry:b2b; industry:ai",
+    "social_links": [
+        "https://www.linkedin.com/company/tejasai/"
+    ],
+    "logo_path": "data\\logos\\Tejas_AI.png",
+    "Active_Founders": [
+        {
+            "Name": "Gaurav Luhariwala, Founder & CEO",
+            "Description": "Born and raised in India. Have previously built and scaled data-driven products for Indian banks and financial institutions -  founded Tejas AI with the mission of making financial services more inclusive worldwide.",
+            "LinkedIn": "https://www.linkedin.com/in/gauravluhariwala/"
+        },
+        {
+            "Name": "Bhavesh Tolia, Founder",
+            "Description": "Co-Founder and CTO @Tejas AI - AI Risk decisioning platform. Built and scaled Generative AI products for BFSI enterprises with notable clients like Allianz Insurance (USA), AngelOne (India) and Deutsche Bank (DBS Singapore). Also, worked with the Outlook team in Microsoft previously.",
+            "LinkedIn": "https://www.linkedin.com/in/bhavesh-tolia-a17a37164/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "Tejas AI is a promising fintech startup based in Mumbai, India. Founded in 2025 and already a part of Y Combinator\u2019s Batch W25, the company aims to revolutionize how Indian banks approach risk decisioning. Their mission is straightforward yet powerful: eliminate uncertainty in credit decision-making by providing a robust platform that enables faster and more effective evaluation of credit rules.\n\nAt its core, Tejas AI focuses on building an AI-powered risk decisioning platform tailored for banks, allowing them to optimize strategies, streamline workflows, and confidently navigate complex risk landscapes. The platform offers features like intelligent policy analysis that identifies gaps in existing practices, hyperlocal actionable insights drawn from local market data, and scalability that adapts to diverse regional regulations.\n\nDespite being a small team of just two employees, the ambition is huge. Their technology claims impressive operational efficiency: 90% faster policy updates, a 60% reduction in costs, and a staggering 99.9% accuracy rate for policy monitoring available around the clock.\n\nFor anyone interested in modernizing their underwriting processes, Tejas AI positions itself as a transformative solution that can help financial institutions implement policies within minutes rather than months. If you're a bank looking to embrace the next generation of decision-making, Tejas AI is definitely worth a closer look.\n\nTo learn more about Tejas AI and explore their offerings, check out their website at [Tejas AI](https://www.trytejas.ai). And if you\u2019re curious enough to see how the platform works, they offer a demo to showcase its capabilities in real-time."
+}

@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/haven-2",
+    "name": "Haven",
+    "headline": "AI workforce for property management",
+    "batch": "W23",
+    "description": "Haven is building AI Agents to automate property management operations. Our first Agent is automating the maintenance coordination process. This means answering the phone when tenants have a maintenance issue, diagnosing the issue, dispatching a technician, and then following up with tenants to make sure the issue is resolved.",
+    "activity_status": "Active",
+    "website": "https://www.usehaven.ai/",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:real-estate; industry:b2b; industry:proptech; industry:ai",
+    "founders": [
+        {
+            "name": "Juan Burgos, Founder",
+            "description": "Co-founder and CEO @ Haven, an AI-powered powered front desk for property managers. Prior to Haven, my cofounders and I built PeerPal (acquired), an admissions engagement platform for private K-12 schools.",
+            "linkedin": "https://www.linkedin.com/in/juan-burgos-0527391b8/"
+        },
+        {
+            "name": "Satya Koppu, Founder",
+            "description": "Co-founder at Haven. Former co-founder of PeerPal (acquired).",
+            "linkedin": "https://www.linkedin.com/in/satya-koppu/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Haven**\n\nFounded in 2022 and part of Y Combinator's W23 batch, Haven is tackling a significant pain point in property management: the inefficiency of handling maintenance requests and tenant communications. With a lean team of just three, Haven is setting the stage for a revolution in how property management operations are managed through the power of artificial intelligence.\n\n**Mission and Offerings:**\nHaven's mission is clear: to create an AI workforce that automates property management tasks, ultimately driving efficiency and enhancing tenant experiences. Their flagship product is an AI Agent that automates the maintenance coordination process. This means that when a tenant experiences an issue, the AI handles everything from the initial call to diagnosing the problem, dispatching technicians, and following up to ensure the issue is resolved.\n\nTheir features are impressive:\n- **24/7 Availability**: The AI agents can answer calls any time, effectively acting like a human assistant. \n- **Automation**: About 90% of tenant calls can be automated, which means quicker responses (often under 10 seconds) and significant time savings\u2014an estimated 15+ hours per week for property management staff.\n- **Seamless Integration**: Haven\u2019s AI can sync with existing Property Management Systems (PMS) and Customer Relationship Management (CRM) tools, which helps in creating work orders and logging voice responses directly.\n\nHaven caters to various use cases including maintenance intake and coordination, leasing support, and emergency response assistance, making it a versatile tool for property managers.\n\n**Market Positioning:**\nTagged as a SaaS, real estate, B2B, proptech, and AI solution, Haven\u2019s focus on property management positions it uniquely in a niche that has generally lagged in tech adoption. Their approach not only improves operational efficiency but also creates a better experience for both tenants and property owners.\n\n**Backed by Notable Investors:**\nHaven is also backed by well-known investors like OpenAI, Airbnb, Stripe, and Dropbox, which adds a level of credibility and support as they grow.\n\n**Conclusion:**\nHaven is leaning into AI to transform property management, promising reduced overhead while enhancing tenant satisfaction. So, if you're managing properties and feeling bogged down by maintenance requests, it might be time to let Haven's AI workforce take over those mundane tasks, leaving your team free to focus on what really matters. \n\nFor more information, check out their website: [usehaven.ai](https://www.usehaven.ai/) and perhaps schedule a demo to see how it can benefit your operations.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f7cd044ee1d51f30ba197f5988f95fc90d28a790.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191412Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=12b5dc033714912bd44f3db2803be254d704c5579d6a3f53dfda41e3393148f1",
+    "social_links": [],
+    "logo_path": "data/logos\\Haven_logo.png"
+}

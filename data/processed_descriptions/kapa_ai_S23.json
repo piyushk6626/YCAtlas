@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/kapa-ai",
+    "name": "kapa.ai",
+    "headline": "Create enterprise-grade AI assistants from your content",
+    "batch": "S23",
+    "description": "kapa.ai makes it easy for technical companies to build AI support and onboarding bots for their users. Teams at +150 leading startups and enterprises incl. OpenAI, Mixpanel, Mapbox, Docker, Next.js and Prisma use kapa to level up their developer experience and reduce support.\r\n\nWe enable companies to use their existing technical knowledge sources incl. docs, tutorials, chat logs, and GitHub issues to generate AI bots that answers developer questions automatically. More than 750k developers have access to kapa.ai via website widgets, Slack/Discord bots, API integrations, or via Zendesk.",
+    "activity_status": "Active",
+    "website": "https://www.kapa.ai/",
+    "founded_date": 2023.0,
+    "team_size": 9.0,
+    "location": null,
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:ai; industry:conversational-ai; industry:ai-assistant",
+    "founders": [
+        {
+            "name": "Emil Soerensen, Founder",
+            "description": "Emil is the co-founder and CEO of kapa.ai (S23). Previously worked as an Engagement Manager at McKinsey & Company. Holds an MSc in Computer Science from Imperial College London and an MSc in Finance from London School of Economics (both with Finn!). \ud83d\udc4b",
+            "linkedin": "https://linkedin.com/in/sorensenemil"
+        },
+        {
+            "name": "Finn Bauer, Founder",
+            "description": "Finn is the co-founder and CTO of kapa.ai (S23). Previously worked as a software engineer at Bloomberg. Holds an MSc in Computer Science from Imperial College London and an MSc in Finance from the London School of Economics (both with Emil!).",
+            "linkedin": "https://de.linkedin.com/in/finn-bauer-533bb0130"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Kapa.ai: Making AI Support Effortless\n\n**Company Overview**\nKapa.ai, founded in 2023, is a dynamic startup revolutionizing the way technical companies handle support and onboarding through AI. Based in the Y Combinator Batch S23, Kapa.ai has already garnered attention from over 150 leading startups and enterprises, including high-profile names like OpenAI, Mixpanel, Mapbox, and Docker. With a small but mighty team of nine, their mission is clear: to transform existing content into enterprise-grade AI assistants.\n\n**What Do They Offer?**\nKapa.ai specializes in utilizing existing technical knowledge sources\u2014think documentation, tutorials, chat logs, and GitHub issues\u2014to create AI bots capable of automatically answering developer questions. This not only enhances the developer experience but effectively reduces the need for extensive support efforts. With access already extended to over 750,000 developers through website widgets, Slack/Discord bots, API integrations, and Zendesk capabilities, they're making a significant impact on how tech companies approach support.\n\n**How It Works**\n1. **Connect Knowledge Sources**: Kapa allows companies to seamlessly integrate with a wide range of existing data sources, empowering them to leverage the knowledge they've already built.\n   \n2. **Deploy AI Assistant**: Whether it\u2019s on documentation, in Slack, Discord, or through APIs, Kapa\u2019s AI assistants are designed to answer questions where users need them most.\n\n3. **Analytics and Insights**: Beyond just answering queries, Kapa.ai provides valuable analytics that help identify documentation gaps and optimize user engagement. This ensures companies can continuously improve their support and product offerings.\n\n**Impact on Clients**\nUsers report remarkable outcomes, citing significant reductions in support tickets (up to 20% monthly), and that Kapa.ai handles over 80% of developer inquiries, liberating their teams to focus on more strategic tasks. David Schroeder, Senior Manager of Technical Support at Mapbox, noted the critical role Kapa plays in their community support.\n\n**Future Aspirations**\nWith recent funding of $3.2 million aimed at expanding their capabilities, Kapa.ai is well on its way to becoming a staple in the technical support landscape. The focus on accuracy is adamant: their unique 'Answer Engine' ensures that AI responses are grounded in verified company knowledge.\n\n**Why Choose Kapa.ai?**\nFor technical companies seeking a way to automate support and enhance user onboarding without sacrificing quality, Kapa.ai emerges as a promising solution. The integration of AI isn\u2019t just about being trendy; it\u2019s about fundamentally rethinking developer interactions and support infrastructures in a way that\u2019s smart, efficient, and user-friendly.\n\nFor more information, visit [Kapa.ai](https://www.kapa.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dba965d880edcf739f8906fe81487d7c1aa7cb12.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ae86f087aa4a239c7a099c5279c64c6ce45b0251f7d6e197bbae443fa213c92c",
+    "social_links": [
+        "https://www.linkedin.com/company/kapa-ai/",
+        "https://twitter.com/kapa_ai"
+    ],
+    "logo_path": "data/logos\\kapa.ai_logo.png"
+}

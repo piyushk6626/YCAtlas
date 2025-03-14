@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/freshpaint",
+    "name": "Freshpaint",
+    "headline": "Customer data collection, safeguarding, & activation for healthcare",
+    "batch": "S19",
+    "description": "Our customers use Freshpaint to make their websites and entire marketing stack HIPAA compliant. It's impossible to use modern analytics and marketing tools without sharing sensitive HIPAA-regulated data. Our platform does the hard thing of moving data from A to B. And then we do the really hard thing of controlling the flow of sensitive HIPAA-regulated data to various 3rd-party marketing tools.\r\n\nWe're building the data infrastructure that safeguards patient privacy while also enabling marketing teams promote access to healthcare.",
+    "activity_status": "Active",
+    "website": "https://freshpaint.io",
+    "founded_date": 2019.0,
+    "team_size": 75.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Michael Malis, Founder",
+            "description": "After graduating high school in 2015, I joined Heap. While there I worked on scaling their cluster of Postgres instances that has around a Petabyte of data. I eventually took over and lead the database team there.\n\nWhile at Heap I shipped a large number of performance improvements and cost savings. You could say I was the primary person who scaled Heap. Due to the number of cost reduction projects I shipped, I was given the nickname \"Michael Margins\".",
+            "linkedin": "https://www.linkedin.com/in/michael-malis-270354150/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Freshpaint: Safeguarding Healthcare Data\n\nFounded in 2019 and hailing from Y Combinator's S19 batch, Freshpaint operates in the heart of San Francisco with a dedicated team of around 75 employees. Their core mission? Ensuring that healthcare organizations can collect and activate customer data without compromising patient privacy, all while staying HIPAA compliant. \n\n**The Challenge**: Traditional web analytics and marketing tools often require sharing sensitive health information. That\u2019s a big no-no in the healthcare space, where data privacy is paramount. \n\n**The Solution**: Freshpaint simplifies this landscape by acting as a robust data infrastructure. Their platform effectively facilitates the transfer of data\u2014what we can term the \"hard part\"\u2014but it goes further by controlling the flow of sensitive HIPAA-regulated data to third-party marketing tools. It\u2019s essential for healthcare marketing teams to thrive without the fears of regulatory breaches.\n\n#### Key Features:\n- **BAA-Supported Platform**: Freshpaint signs Business Associate Agreements (BAAs) with healthcare organizations, ensuring that patient privacy is prioritized in every interaction. \n- **Safe by Default**: The platform blocks data to non-compliant tools automatically, which effectively reduces risks linked to human errors.\n- **Anonymous Tracking**: By creating anonymous identifiers for visitors, Freshpaint lets organizations track customer journeys while still protecting privacy.\n- **Integration Capabilities**: Supports integration with popular marketing tools like Google Analytics and advertising services, ensuring organizations can drive insights without compromising on compliance. \n\n#### Why It Matters:\nWith increasing privacy regulations and data breaches in the limelight, Freshpaint positions itself as not just a tool, but as a partner for healthcare marketers. They give organizations the ability to market effectively while avoiding pitfalls associated with data sharing. This balance is becoming increasingly crucial in a privacy-first world where patient trust is non-negotiable.\n\nJared Friedman, a Group Partner at Y Combinator, sums up its potential: Freshpaint enables healthcare providers to utilize digital marketing tools\u2014previously seen as risky\u2014effectively and safely.\n\nIf you\u2019re in the healthcare sector and concerned about compliance while wanting to optimize your marketing strategies, Freshpaint could be your game changer. Check them out [here](https://freshpaint.io) for more details or to book a demo.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d013bd70f2bd17bcc8e0f9d0e1b87da2fd11dd51.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191351Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=128028dc81301411001a6866514c9e5804819ca6b6cc6b66a2f415ea966f4023",
+    "social_links": [
+        "https://www.linkedin.com/company/freshpaint-data",
+        "https://github.com/freshpaint-io"
+    ],
+    "logo_path": "data/logos\\Freshpaint_logo.png"
+}

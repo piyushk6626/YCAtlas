@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/browser-use",
+    "name": "Browser Use",
+    "headline": "Open Source Web Agents",
+    "batch": "W25",
+    "description": "Browser Use allows developers to create state of the art web agents with a few lines of code.\r\n\nWe currently stand at 89% on Web Voyager dataset, which is the best web agent you can actually use.\r\n\nFastest growing repository on Github in January 2025",
+    "activity_status": "Active",
+    "website": "https://browser-use.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:open-source; industry:automation; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Magnus M\u00fcller, Founder",
+            "description": "I am a serial entrepreneur and AI researcher. I have worked as a researcher for Cambridge CARES, ETH Zurich, and in R&D for car companies. I have developed bots and web automations since I can code. \nI am now building a browser tool that enables AI to control your browser.",
+            "linkedin": "https://www.linkedin.com/in/magnus-mueller"
+        },
+        {
+            "name": "Gregor Zunic, Founder",
+            "description": "I love solving hard problems. Data Science masters at ETH Zurich, bachelors in Physics.",
+            "linkedin": "https://linkedin.com/in/gregorzunic"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Browser Use**\n\n**Founded**: 2024  \n**Location**: San Francisco, CA  \n**Founders & Team**: A small but mighty team of two, part of the Y Combinator Batch W25. The team includes Jared Friedman as their Group Partner.\n\n**Mission**: Browser Use is dedicated to enhancing web interaction for AI agents with open-source web technology. The company's core goal is to simplify the creation of web agents that can perform complex tasks on the internet, enabling developers to achieve this with just a few lines of code.\n\n**Current Achievement**: They've reached a notable 89% accuracy with their Web Voyager dataset, positioning their product as one of the best web agents available today.\n\n**Growth & Popularity**: As the fastest-growing repository on GitHub as of January 2025, Browser Use is gaining traction in the tech community. Their platform allows for advanced browser automation, becoming a go-to solution for developers looking to leverage AI in web interactions.\n\n**Website**: You can find more information about their features and offerings at [Browser Use](https://browser-use.com).\n\n---\n\n**What They Do**: \n\nBrowser Use develops tools that make websites accessible for AI by extracting all the interactive elements. This allows AI agents to focus on their content delivery\u2014making tasks as simple as crafting the perfect beer recipe from various online sources. \n\n### Features of Browser Use:\n- **Powerful Browser Automation**: Merging AI capabilities with strong browser automation.\n- **Vision + HTML Extraction**: This feature integrates visual recognition with HTML structure extraction, making AI interactions comprehensive.\n- **Multi-Tab Management**: Designed to handle complex workflows through multiple browser tabs.\n- **Element Tracking and Custom Actions**: The ability to track clicked elements and automate repetitive tasks seamlessly.\n- **Error Handling**: Built-in intelligent error recovery allows for robust operations.\n- **Compatibility**: Works with any LangChain LLM, including popular models like GPT-4, Claude 3, and Llama 2.\n\n### Pricing Tiers:\n1. **Open Source**: Free for individual developers and open-source projects; includes full library access and core features under the MIT License.\n2. **Pro**: $30/month for teams needing advanced features, including priority support and additional API credits.\n3. **Enterprise**: Custom plans available based on organizational needs, including dedicated support and on-premise deployment.\n\n### Community Engagement:\nBrowser Use is keen on fostering a community where developers can share ideas and collaborate. They provide platforms such as [Discord](https://browser-use.com/<https:/link.browser-use.com/discord>) for communication.\n\n**In Summary**: Browser Use is carving out a unique space within the AI and web development landscape, harnessing open-source tools to automate and simplify web interactions. They combine cutting-edge technology with user-friendly accessibility, making innovative strides in how we engage with the web. If you\u2019re a developer interested in AI and web automation, this might be a community worth joining.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ca4ad2338799b9530a049707dbe2e5db3cc6868b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191033Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1d8cd4831d34b12e8c6ac494e4d8a72efa12f58e2cc70317a54052cdd5545535",
+    "social_links": [
+        "https://www.linkedin.com/company/browser-use",
+        "https://x.com/browser_use",
+        "https://www.crunchbase.com/organization/browser-use",
+        "https://github.com/gregpr07/browser-use"
+    ],
+    "logo_path": "data/logos\\Browser_Use_logo.png"
+}

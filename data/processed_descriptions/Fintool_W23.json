@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/fintool",
+    "name": "Fintool",
+    "headline": "Financial copilot for institutional investors",
+    "batch": "W23",
+    "description": "Fintool.com is a financial copilot for institutional investors. It\u2019s ChatGPT on top of financial documents. Fintool is engineered to discover financial insights that are beyond the reach of human analysis or search software.",
+    "activity_status": "Active",
+    "website": "https://www.fintool.com/",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:finance; industry:trading; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nicolas Bustamante, Founder",
+            "description": "https://www.nicolasbustamante.com/about",
+            "linkedin": "https://www.linkedin.com/in/bustamantenicolas/"
+        },
+        {
+            "name": "Edouard Godfrey, Founder",
+            "description": "Founder @ Fintool",
+            "linkedin": "https://www.linkedin.com/in/edouardgodfrey/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Fintool: Your Financial Copilot**\n\nFounded in 2023 and nestled in the heart of San Francisco, Fintool is stepping into the financial technology landscape as a unique player specifically designed for institutional investors. Their mission? To serve as a financial copilot, leveraging advanced AI to uncover insights that traditional human analysis\u2014or even typical search tools\u2014might miss.\n\n### What Is Fintool?\n\nOriginally launched as Fintool.com, the platform integrates a powerful AI model akin to ChatGPT, tailored for analyzing financial documents. This allows users to efficiently sift through extensive data\u2014from SEC filings to earnings calls\u2014to derive actionable insights. Fintool is part of Y Combinator's Batch W23 and boasts a compact team of six savvy individuals, led by Group Partner Nicolas Dessaigne.\n\n### Key Offerings\n\nFintool is not just a one-trick pony. The company has developed a suite of products tailored to modern financial analysis needs, including:\n\n1. **Chat Assistant** - Engage in dynamic conversations to clarify complex financial queries.\n2. **Equity Research** - Access detailed analyses and reports on various companies, including key metrics and financial health.\n3. **Feed** - A continuous stream of real-time financial data to keep users informed.\n4. **Company Screener** - Quickly identify companies based on specific criteria and trends.\n5. **Docs** - Easily retrieve and analyze essential financial documents.\n6. **LLM API** - For developers wanting to leverage Fintool\u2019s capabilities in their own applications.\n\n### Achievements in Research\n\nAmong its many features, Fintool enables users to dive deep into equity research. They provide comprehensive reports on major corporations like Costco, Microsoft, and Tesla, and summarize earnings reports with remarkable clarity. You can explore trends with studies like \"Customer Concentration 2025\" and \"Founder-Led Companies 2025.\"\n\n### Tech Powers Behind Fintool\n\nWhat sets Fintool apart is its underlying technology. The platform boasts enterprise-grade infrastructure capable of processing vast amounts of data\u2014from SEC filings to earnings calls\u2014efficiently and accurately. It has been benchmarked against leading applications, outperforming many of them by a significant margin, demonstrating its position as a top-notch financial LLM (Language Model).\n\n### Trusted by Professionals\n\nFintool emphasizes its reliability by showcasing testimonials from industry professionals. Users like Kyle Mowery, Managing Partner at GrizzlyRock Capital, highlight how Fintool simplifies the integration of AI into their investment processes, while Andrew Walker, a Portfolio Manager, notes how the platform drastically cuts down the time needed for analyzing merger synergies.\n\n### Ready for Transformation?\n\nFintool is ready to empower investment firms by offering unique insights and efficient analysis. If you're in the institutional investment space and want to keep your edge sharp, exploring Fintool could be a decisive step.\n\nYou can check them out at their [website](https://www.fintool.com/)!\n\n---\n\nIn this age, where being data-driven is paramount, Fintool's approach is both timely and innovative. They\u2019re not just another tool; they're a partner in navigating the increasingly complex financial landscape.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3cfdedff5123fe09cb680d88fc3c46fcaca07bd2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191336Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b0159450f15e1f427c4bee6d6ff82a00e2e44dec67e96b52aca8958ebe6f2766",
+    "social_links": [
+        "https://www.linkedin.com/company/fintoolx",
+        "https://twitter.com/fintoolx"
+    ],
+    "logo_path": "data/logos\\Fintool_logo.png"
+}

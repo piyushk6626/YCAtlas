@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/onlook",
+    "name": "Onlook",
+    "headline": "Cursor for Designers",
+    "batch": "W25",
+    "description": "Onlook is the open source Cursor for Designers \u2013 Making it easy for anyone to design directly in a live website and instantly write their changes in code.\r\n\nOnlook is the best way for designers, non-technical team members, and developers to collaborate, empowering teams to create incredible products and websites incredibly fast.\r\n\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development.",
+    "activity_status": "Active",
+    "website": "https://onlook.com/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:design; industry:design-tools; industry:open-source; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Daniel Farrell, Founder",
+            "description": "Cofounder and CEO of Onlook. Designer, GTM strategist, and micromobility maniac now building in the design <> dev space.",
+            "linkedin": "https://www.linkedin.com/in/danielrfarrell/"
+        },
+        {
+            "name": "Kiet Ho, Founder",
+            "description": "Co-Founder, CTO at Onlook\nVietnamese immigrant. BJJ and Muay Thai practitioner. Perpetually messed up shoulders.",
+            "linkedin": "https://linkedin.com/in/kiet-ho"
+        }
+    ],
+    "status": true,
+    "generated_description": "Onlook is an exciting new company that launched in 2024, born with the mission to be the **Cursor for Designers**. At its core, Onlook is about making design accessible and efficient, empowering designers and non-technical team members to edit websites live and push their changes directly to code\u2014it's a game-changer for collaboration between design and development.\n\n### Founders and Background\n\nOnlook was founded by **Daniel Farrell**, a designer with over a decade of experience and a former Head of Growth, and **Kiet Ho**, who comes from notable tech giants like Amazon and ServiceNow. Their combined expertise drives Onlook\u2019s ambition to bridge the persistent gap between design and coding, all while operating under the nurturing umbrella of Y Combinator's W25 batch.\n\n### Product Features\n\nPositioned in the vibrant tech hub of **San Francisco** with a lean team of two, Onlook aims to deliver a seamless experience for creating both stunning designs and reliable code. Here's what sets Onlook apart:\n\n- **Visual Editing for React**: It allows users to visually edit React applications, making it straightforward to see real-time changes while automatically generating the relevant code.\n- **AI Integration**: You can leverage Onlook\u2019s integrated AI to build and iterate on design ideas interactively, moving beyond static visuals to create functional web interfaces.\n- **User Empowerment**: Users maintain full ownership of their code, can rollback changes at any time, and work within their local environment, preserving security and existing workflows.\n- **Open Source Model**: The platform is open source, allowing users to engage with and audit the code as they see fit, contributing to an active community of designers and engineers.\n\n### Community and Future Prospects\n\nOnlook is building a community where designers and developers collaborate more openly than ever before. The positive reception from early users highlights that it's not just another tool; it's redefining how design and development coexist. With buzz that it's a hybrid of Figma and traditional coding environments, Onlook is already trending on GitHub and catching the eyes of industry leaders.\n\nSo, if you\u2019re a designer looking to innovate, a developer wanting to streamline the handoff, or even just someone interested in cutting-edge design tools, Onlook could very well be worth a look. You can check them out at [onlook.com](https://onlook.com/) and join the conversation in their community channels. \n\nIn essence, Onlook is not just creating a tool\u2014it's crafting a new way for teams to think about design and development, and that\u2019s something worth watching.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/adbfaeaddaedaaf133503957e42e165743365def.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191611Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=af638a397c699b239e111e1ae0d7193fefd546ece42e55275cb616d18532878b",
+    "social_links": [
+        "https://www.linkedin.com/company/onlook-dev",
+        "https://x.com/onlookdev",
+        "https://github.com/onlook-dev"
+    ],
+    "logo_path": "data/logos\\Onlook_logo.png"
+}

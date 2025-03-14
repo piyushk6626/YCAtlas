@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/type",
+    "name": "Type",
+    "headline": "The AI-first document editor.",
+    "batch": "W23",
+    "description": "Type.ai is an AI writing tool and document editor that helps anyone write high-quality content quickly. Rather than writing important content from scratch, individuals and teams can use Type to instantly generate high-substance drafts, revise and rewrite content, and get personalized ideas on what to write next.",
+    "activity_status": "Active",
+    "website": "https://type.ai",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "New York",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; location:new-york",
+    "founders": [
+        {
+            "name": "Stew Fortier, Founder",
+            "description": "Founder and writer. Co-founder & CEO at Type.ai (W23). Previously co-founded Foster (W21). Before that, I served as the CTO of Banzai and an EIR at the Allen Institute for Artificial Intelligence.",
+            "linkedin": "https://www.linkedin.com/in/stew-fortier-7422b829/"
+        },
+        {
+            "name": "Stefan Li, Founder",
+            "description": "Software engineer and product builder. Previously founder of Recall Labs. Before that I worked at Facebook, Walmart Labs, and Sony as a software engineer with heavy focus on product.",
+            "linkedin": "https://www.linkedin.com/in/stefanli"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Summary of Type.ai\n\n**Company Overview:**\nFounded in 2022 and based in New York, Type.ai is a cutting-edge AI-first document editor designed to expedite the writing process for individuals and teams. With a compact but dedicated team of just three employees, the company is leveraging the power of artificial intelligence to revolutionize how content is created and refined. Their unique position as part of the Y Combinator Batch W23 highlights their innovative approach and potential for scaling.\n\n**Mission:**\nType.ai aims to be the ultimate AI writing tool for professionals, enabling effortless generation of high-quality content, real-time editing, and intelligent suggestions for next steps in the writing process.\n\n**Key Features:**\n\n1. **AI-Driven Writing Assistant:** Offers powerful AI models, including OpenAI\u2019s GPT-4o and Anthropic\u2019s Claude 3.5 Sonnet. This allows users to brainstorm, compose, and revise with ease.\n\n2. **Document Generation and Editing:** Users can create substantial drafts from scratch, upload source materials, and specify writing styles, all within Type's intuitive editor. \n\n3. **Inline and In-Document Chat:** Enables seamless collaboration and feedback as users can chat within the document.\n\n4. **Writing Templates:** Type offers a wide array of templates for various writing needs\u2014emails, blog posts, social media content, and even professional documents like cover letters and proposals.\n\n5. **Subscription Benefits:** Type.ai provides users with a robust writing experience\u2014unlimited documents, multiple export options (PDF, DOCX, HTML), and offline access to their work.\n\n**Usage and Adoption:**\nType.ai has garnered attention from a diverse user base, including over 100,000 writers ranging from startups to large enterprises such as Amazon, Princeton University, and Pepsico. This evidences Type\u2019s credibility and demand within the market.\n\n**Conclusion:**\nUltimately, Type.ai is not just a writing tool but a comprehensive content-generation platform aimed at enhancing productivity and creativity for all types of writers. If you\u2019re looking to move from a blank page to a finished document quicker than ever, Type is definitely worth checking out. For more information, visit their website at [Type.ai](https://type.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/27df562a5f275fec3858bdeaf2af016ce3b78487.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192033Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d9d058480122770b67ad375504d081f0d6bee7eca4a78ad23f78764461688b82",
+    "social_links": [
+        "https://www.linkedin.com/company/type-ai",
+        "https://twitter.com/typedotai"
+    ],
+    "logo_path": "data/logos\\Type_logo.png"
+}

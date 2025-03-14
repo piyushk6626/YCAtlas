@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/lago",
+    "name": "Lago",
+    "headline": "Open Source Metering and Usage Based Billing",
+    "batch": "S21",
+    "description": "Lago is the open-source alternative to Stripe, with a laser focus on transparency, metering, developer experience, and composability: addressing complex pricing grids and business workflows.\r\n\nTheir team previously built and scaled the home-grown billing system of\u00a0Qonto\u00a0(a $5B Fintech in Europe), from pre-launch to the tens of millions of MRR.\u00a0\r\n\nLago is the leading open-source repository and community in this space.",
+    "activity_status": "Active",
+    "website": "https://www.getlago.com/",
+    "founded_date": 2021.0,
+    "team_size": 23.0,
+    "location": "Paris, France",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:finops; industry:fintech; industry:saas; industry:open-source; industry:billing",
+    "founders": [
+        {
+            "name": "Anh-Tho CHUONG, Founder",
+            "description": "Anh-Tho leads the business side of Lago. \nShe genuinely thinks \"SaaS is beautiful\" and therefore spent 10 years in go-to-market and product led growth roles in B2B SaaS startups.\nAfter a stint in consulting at McKinsey & Co, she joined Mailjet (acq. by Mailgun) as Head of Strategic projects. \nShe then launched Weebly (YC W07) in France, before becoming the 1st employee at Qonto, one of the European fintech unicorns.\nDuring her tenure as VP Growth, she grew ARR from 0 to dozens of millions.",
+            "linkedin": "https://www.linkedin.com/in/anhthochuong/"
+        },
+        {
+            "name": "Raffi SARKISSIAN, Founder",
+            "description": "A 2nd time founder, Raffi is a Growth Product & Data expert, and leads Product at Lago.\nHe led Data Operations at Qonto, one of the fintech unicorns in Europe.",
+            "linkedin": "https://www.linkedin.com/in/sarkissianraffi"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Lago: The Open Source Solution for Billing\n\nFounded in 2021 and located in Paris, Lago is an ambitious startup that has emerged as a leading open-source alternative to traditional billing solutions like Stripe. Their mission is simple but impactful: to provide open-source metering and usage-based billing with an emphasis on transparency, developer experience, and composability. This platform particularly excels at navigating complex pricing structures and business workflows.\n\nThe founders have impressive pedigree; they built and scaled the billing system for Qonto, a European fintech valued at $5 billion, from the ground up, allowing them to understand what fintechs need in terms of billing and invoicing.\n\n#### Key Features\n\nLago offers a range of core and premium features designed to suit different business needs:\n- **Core Features**: Usage Metering, Price Plans, Coupons, Add-Ons, Invoicing, and Prepaid Credits.\n- **Premium Features**: Instant Charges, Customer Portal, Spending Minimums, Email Invoices, Grace Periods, Timezones, Credit Notes, and Refunds.\n\nThis setup makes it easy for companies to manage their billing processes while offering flexibility in pricing and packaging. With Lago, developers can integrate it into their existing toolsets seamlessly.\n\n#### Community and Development\n\nLago is not just a product; it's a vibrant community around open-source billing practices. The team, comprising 23 employees, actively engages with developers via platforms like GitHub and their community channels. They provide solid documentation and are quick to react to user needs, ensuring that their platform evolves in tandem with what the community requires.\n\n#### Recognition and Growth\n\nRecently, Lago raised a notable $22 million in funding, showcasing strong investor confidence and rapidly growing customer demand. Their clientele includes tech companies like Mistral AI and Algolia, both of which highlight the effectiveness of Lago's solutions in real-world applications.\n\nNicolas Dessaigne, one of the Y Combinator batch S21 Group Partners backing Lago, emphasizes the importance of an open-source approach. He noted that many tech giants faced challenges with traditional vendors and that Lago fills that gap by allowing companies to customize billing solutions to their unique needs without being tied down by proprietary constraints.\n\n#### Conclusion\n\nIf you\u2019re looking for a robust solution for metering and usage-based billing that can grow with your company and is built on an open-source framework, Lago is worth exploring. Their solutions are designed for engineers while appealing to finance teams, making them versatile across different departments. \n\nIn a landscape where complex billing can impede growth, Lago emerges as not just a tool, but a partner in building scalable financial strategies. Check them out on [Lago's Website](https://www.getlago.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c7f269ebedf856c1376e276763752778387bf7ed.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191457Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=14b0b3a33bf7dff7ff690bd0004701549dc3ecc24796d9218b0072201bc9e7c9",
+    "social_links": [
+        "https://www.linkedin.com/company/getlago/about/?viewAsMember=true",
+        "https://twitter.com/byAnhtho",
+        "https://github.com/getlago"
+    ],
+    "logo_path": "data/logos\\Lago_logo.png"
+}

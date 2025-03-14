@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/latent",
+    "name": "Latent",
+    "headline": "Medical language models to automate healthcare operations",
+    "batch": "W23",
+    "description": "At Latent, we're building medical language models to tackle the trillions of operational overhead weighing down healthcare. Our flagship product streamlines authorizations for life-saving drugs by analyzing EHR records and surfacing the most relevant data.\r\n\nWe've built our product and signed enterprise contracts with some of the largest health systems in the US.",
+    "activity_status": "Active",
+    "website": "https://latenthealth.com",
+    "founded_date": 2022.0,
+    "team_size": 12.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:healthcare; industry:insurance; industry:enterprise; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Rishabh Jain, Founder",
+            "description": "Co-founder at Latent. Repeat founder.",
+            "linkedin": "https://linkedin.com/in/rj254"
+        },
+        {
+            "name": "Sri Somasundaram, Founder",
+            "description": "Co-founder at Latent. At Stanford, Sri investigated molecular binding patterns responsible for adaptive immunity and built deep RL robots with publications at ICML, ICLR, and Nature. He also operationalized language models for the largest financial institutions while on the founding team of Hebbia.",
+            "linkedin": "https://www.linkedin.com/in/ssomasundaram/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Latent: Revolutionizing Healthcare Operations with AI\n\n**Overview**\nFounded in 2022 and based in San Francisco, Latent is on a mission to automate healthcare operations using advanced medical language models. Part of Y Combinator's Batch W23, Latent is tackling the enormous operational inefficiencies in healthcare\u2014specifically the burdensome paperwork and approvals that delay access to critical medications.\n\n**What They Do**\nLatent\u2019s flagship product focuses on streamlining the authorization process for life-saving drugs. By analyzing Electronic Health Records (EHRs), it extracts and surfaces relevant patient data, significantly reducing the time and effort required for authorizations. This tool increases efficiency by up to 6x while ensuring compliance and improving accuracy in pharmacy operations. \n\n**Technology and Integration**\nLeveraging generative AI, Latent indexes entire EHRs and provides easily-cited evidences from patient records. Their technology offers secure and seamless integration with industry-standard systems like Epic and Oracle Health, adhering to necessary certifications such as HIPAA and SOC 2, ensuring the protection of sensitive customer data.\n\n**Team and Leadership**\nThe small but dedicated team of 12 is led by co-founders Sriram Somasundaram, an AI researcher from Stanford, and Rishabh Jain, a seasoned entrepreneur. Together, they bring a wealth of expertise and a shared vision to break down barriers in healthcare access and affordability.\n\n**Why It Matters**\nIn an industry overwhelmed with paperwork and regulatory hurdles, Latent is carving a path forward where technology does the heavy lifting. Their solution not only accelerates patient access to necessary therapies but also propels healthcare providers towards a more efficient operational model.\n\n**Future Aspirations**\nWith a clear focus on the intersection of AI and healthcare, Latent envisions itself as the backbone of healthcare workflows, striving to enhance patient care and operational excellence. If you\u2019re passionate about building innovative solutions in this space, they\u2019re eager to connect with like-minded individuals.\n\n**Get Involved**\nFor those interested in contributing to this transformative journey in healthcare technology, Latent welcomes builders to join them in making a genuine difference. \n\nFor more information, visit [Latent Health](https://latenthealth.com).\n",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8fd7442a5cdce7c96fd35426bf539665159e74a6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191500Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b41eddad7479d957290933a453978068292db97c88757d6e0c1778f1e2d908fc",
+    "social_links": [
+        "https://www.linkedin.com/company/latent-health"
+    ],
+    "logo_path": "data/logos\\Latent_logo.png"
+}

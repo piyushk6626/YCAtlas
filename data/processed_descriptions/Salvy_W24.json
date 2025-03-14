@@ -1,0 +1,48 @@
+{
+    "links": "https://www.ycombinator.com/companies/salvy",
+    "name": "Salvy",
+    "headline": "Mobile carrier for businesses in Brazil",
+    "batch": "W24",
+    "description": "Salvy is a mobile carrier for businesses in Brazil. Over 300 companies use Salvy to manage over 5,000 mobile lines, cutting costs by over 50%.\r\nThe founders have worked many years together in Brazil's largest fintechs (Nubank and EBANX).\r\n\nToday, every carrier in Brazil has roughly the same network quality - it isn't a differentiator. If you're an IT manager who needs to deploy 2k lines, you want an integrated and seamless solution. You need to deploy this resource, fast. Salvy provides a software layer that makes deploying and managing mobile lines a fast and efficient process, integrated with HRIS, ERPs, and others.\r\n\nThis is a massive market: there are 55 million b2b mobile lines in Brazil, which adds up to 5 billion dollars in ARR in just one country.",
+    "activity_status": "Active",
+    "website": "https://www.salvy.com.br",
+    "founded_date": 2022.0,
+    "team_size": 12.0,
+    "location": "Curitiba, Brazil",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:latin-america; industry:telecommunications; industry:ai",
+    "founders": [
+        {
+            "name": "Artur Negr\u00e3o, Founder",
+            "description": "As Co-Founder and CEO of Salvy, I am dedicated to revolutionizing B2B telco in Brazil. My background includes extensive experience in product management and technology, as well as a strong foundation in investments, valuation, and finance.",
+            "linkedin": "https://linkedin.com/in/arturnegrao"
+        },
+        {
+            "name": "Hudo Assenco, Founder",
+            "description": "I'm a software engineer at heart and currently leading as the co-founder and CTO of Salvy, a B2B mobile carrier in Brazil. My journey in tech previously took me through roles as a software engineer at Nubank and EBANX, the latter being known for its unicorn status in  Brazil",
+            "linkedin": "https://linkedin.com/in/hudo-assenco"
+        },
+        {
+            "name": "Maria Eduarda Kumlehn, Founder",
+            "description": "I am a results-driven professional with a strong background in revenue operations, data analytics, and sales management. Currently serving as the Chief Revenue Officer (CRO) and Co-founder at Salvy, I am responsible for driving revenue growth and overseeing the company's strategic initiatives. \n\nI believe that Salvy has the potential to revolutionize a market that has remained stagnant for years and provides a poor experience for its customers.",
+            "linkedin": "https://www.linkedin.com/in/mariaeduardakumlehn/"
+        },
+        {
+            "name": "Lucas Rosa, Founder",
+            "description": "Co-founder and CPO of Salvy, a B2B mobile carrier in Brazil. \nFormer Lead PM at EBANX (a Brazilian payments Unicorn) and former PM at the Brazilian Space Agency.",
+            "linkedin": "https://linkedin.com/in/lucas-rosa-3080b43b"
+        }
+    ],
+    "status": true,
+    "generated_description": "Salvy is a mobile carrier with a distinct mission: to simplify telecommunications for businesses in Brazil. Founded in 2022 and a member of Y Combinator\u2019s W24 batch, Salvy has rapidly gained traction, helping over 300 companies manage more than 5,000 mobile lines, and boasting savings of over 50%. This significant cost reduction is a game changer in a market saturated with providers that, at the end of the day, offer similar network quality.\n\nThe brains behind Salvy are veterans from Brazil's leading fintech companies, Nubank and EBANX, who recognized an opportunity to streamline mobile line management. For IT managers responsible for large deployments (think thousands of lines), the need for a cohesive, hassle-free solution is critical. Salvy answers this call with an integrated software platform that not only expedites deployment but also ties seamlessly with existing systems like HRIS and ERPs, making it faster and more efficient to manage telecommunications resources.\n\nThe Brazilian market for B2B mobile lines is massive, with a whopping 55 million lines in play, translating into a staggering $5 billion annually. Salvy's approach positions it well within this burgeoning landscape, especially as companies seek more adaptable and economical solutions. \n\nHeadquartered in Curitiba, Brazil, Salvy operates with a compact but effective team of 12 employees. They benefit from connections in the tech world, including partnership with Tom Blomfield, a notable figure in the startup ecosystem. Salvy is categorized under several tags including SaaS, B2B, Latin America, telecommunications, and AI, illustrating its multi-faceted tech-driven services.\n\nWhat really sets Salvy apart is their commitment to simplicity and user autonomy. Companies using Salvy can manage their mobile resources through an intuitive interface, with real-time data on line usage and consumption. They can reconfigure plans on the fly, ensuring they only pay for what they need. Moreover, there are no lengthy contracts or hidden fees\u2014 businesses can cancel with just a few clicks, further enhancing the user experience.\n\nIncorporating features like smart asset registration and direct integrations with platforms such as Google Workspace, Salvy is not just another telecom provider; it\u2019s redefining the landscape of corporate telecom management in Brazil. For businesses looking to streamline their operations while reducing costs, Salvy is certainly worth exploring.\n\nFor more information, you can visit [Salvy\u2019s website](https://www.salvy.com.br).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6a6165e51183afd579abe77a9f416e8214c52d79.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191909Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=08e77c1694446378fa4aac3438929f02cf14796e066e475585fdbf7b6b6d7457",
+    "social_links": [
+        "https://www.linkedin.com/company/use-salvy",
+        "https://www.crunchbase.com/organization/salvy",
+        "https://github.com/SalvyLTD"
+    ],
+    "logo_path": "data/logos\\Salvy_logo.png"
+}

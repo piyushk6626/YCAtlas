@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/cloudcruise",
+    "name": "CloudCruise",
+    "headline": "An API to trigger workflows in the browser",
+    "batch": "W24",
+    "description": "CloudCruise lets you trigger user-permissioned workflows in any SaaS software. We do this by providing a simple and well-documented development environment, as well as authentication and browser infrastructure.",
+    "activity_status": "Active",
+    "website": "https://cloudcruise.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Pete Koomen",
+    "group_partner_yc": "https://www.ycombinator.com/people/pete-koomen",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:saas; industry:workflow-automation; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Adrian Ziegler, Founder",
+            "description": "Co-founder at CloudCruise",
+            "linkedin": "https://linkedin.com/in/adrian-ziegler"
+        },
+        {
+            "name": "Felix Martin Eckert, Founder",
+            "description": "Co-founder at CloudCruise",
+            "linkedin": "https://linkedin.com/in/felix-eckert-807095191"
+        }
+    ],
+    "status": true,
+    "generated_description": "**CloudCruise: Simplifying Automation in the Digital Age**\n\nFounded in 2024 and based in San Francisco, CloudCruise is a promising startup from the Y Combinator Batch W24. Their mission? To provide an API that allows users to trigger workflows in any browser-based software, making automation effortless and efficient.\n\nAt its core, CloudCruise is designed to let users navigate complex SaaS applications without the headaches typically associated with workflow automation. They focus on enabling *user-permissioned workflows*, meaning you can execute actions with the right permissions in any web app\u2014think clicking buttons, filling forms, and extracting information seamlessly.\n\nWith a lean team of three, CloudCruise aims to deliver a well-documented development environment coupled with robust authentication and browser infrastructure. This setup not only simplifies integrating their solutions into existing systems but also ensures reliability and speed. They've built their platform to be faster and more dependable than many of the existing solutions on the market today, even positioning themselves as \"more reliable and faster than OpenAI\u2019s Operator.\"\n\n### Key Features\n\n1. **User-Centric Workflow Automation**: Automate tasks that require user actions and permissions across various SaaS platforms. The idea is simple: make automation easy without compromising compliance and security.\n   \n2. **Developer-Friendly Documentation**: With a focus on offering a smooth developer experience, CloudCruise provides rigorous documentation, so integrating their API into applications is straightforward.\n\n3. **Stealth Environment for Bot Detection**: CloudCruise's system navigates typical bot detection hurdles with an approach that mimics human behavior, ensuring your automated tasks run without interference.\n\n4. **Self-Healing Automation**: Their automation system doesn't require constant user maintenance, aiming instead for a hands-off approach that significantly reduces the workload associated with bot management.\n\n5. **Rich Integrations**: Whether it's healthcare, finance, or e-commerce, CloudCruise's APIs can connect with various industry platforms, streamlining operations from processing insurance claims to managing online orders.\n\n### Current Offerings\n\nCloudCruise is gaining traction with users who require quick, reliable automations across different software tools, particularly in high-complexity environments like insurance and e-commerce. Their service allows users to set up workflows by simply recording their actions in a browser, translating them into API calls that can be executed with a curl command or integrated directly into applications.\n\n### Join the Revolution\n\nIf you\u2019re keen to explore what CloudCruise can do, you can [check out their website](https://cloudcruise.com) for more details, and even book a demo to see the product in action. \n\nCloudCruise is not just another automation tool; it\u2019s a future-oriented solution aiming to redefine how businesses approach workflow management in a connected, digital-first world. As they continue to grow, it will be exciting to see how they shape the landscape of web automation and workflow efficiency.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/34483687ac7929fa5d26efbfe7086f04b504565b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191054Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=60091eb99a6f4c11b0c8291bee2be01af5b38bbb2ee16d39565e68da5b968ea0",
+    "social_links": [
+        "https://www.linkedin.com/company/cloudcruise",
+        "https://twitter.com/cloudcruise_app"
+    ],
+    "logo_path": "data/logos\\CloudCruise_logo.png"
+}

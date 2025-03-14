@@ -1,0 +1,46 @@
+{
+    "links": "https://www.ycombinator.com/companies/mecha-health",
+    "name": "Mecha Health",
+    "headline": "Trustworthy medical image reporting with AI.",
+    "batch": "W25",
+    "description": "Mecha Health is pioneering the future of radiology report generation through advanced AI technology. Our mission is to streamline the reporting process, enhance accuracy, and improve patient care. Unlike black-box solutions, our AI technology is built with transparency at its core. Every decision and suggestion made by our system can be traced and understood, giving clinicians complete confidence in their AI-assisted reporting workflow.",
+    "activity_status": "Active",
+    "website": "https://www.mecha-health.ai/",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:computer-vision; industry:health-tech; industry:healthcare; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ahmed Abdulaal, Founder",
+            "description": "Medical doctor @Imperial, where I gained entry to the most competitive deanery in the country. Microsoft PhD scholar in machine learning @UCL - I have more than 20 peer reviewed publications in medicine, digital healthcare, and machine learning - including first author publications in top AI venues such as ICLR. 360+ citations on google scholar. Ex Research Scientist at the Center for Artificial Intelligence @AstraZeneca. Building the future of automated radiology @Mecha Health.",
+            "linkedin": "https://www.linkedin.com/in/ahmed-abdulaal-5b8b6a295/"
+        },
+        {
+            "name": "Hugo Fry, Founder",
+            "description": "Mathematics (BA) and Physics (MSc) graduate from the University of Cambridge, ranking top 30 in the university. British Physics Olympiad participant, ranking in the top 11 in the UK. Former ML interpretability research scholar (MATS), where I was the first in the world to use Sparse Autoencoders on vision models. My research has been cited by Anthropic and Google DeepMind. Currently working on building state of the art radiology report generation AI in a way that is interpretable and safe.",
+            "linkedin": "https://www.linkedin.com/in/hugo-fry-825828271/"
+        },
+        {
+            "name": "Ayodeji Ijishakin, Founder",
+            "description": "I am a Machine Learning & Medical Imaging PhD candidate from University College London (UCL). During my PhD I published work at tier-one Machine Learning venues (NeurIPS, ICML & ICLR), and was invited to present my work at international medical imaging conferences, Digitas, & Harvard Medical School. Before this startup I was poached by my Professors from UCL including the Head of Computer Science to be CEO for their spin-out. Currently building Radiology 3.0 by Automating reporting.",
+            "linkedin": "https://www.linkedin.com/in/ayodeji-ijishakin-b6208b1a9/"
+        },
+        {
+            "name": "Nina Monta\u00f1a Brown, Founder",
+            "description": "ex-ML Engineer across multiple medical device startups, with experience in FDA and CE marked medical devices, as well as LLM safety in healthcare. My PhD in Medical Imaging (UCL) focussed on surgical vision; my work has been patented, cited 100+ times, and published across the world's highest impact scientific venues (NeurIPS, ICLR). Currently building safe and interpretable radiology automations for the future @Mecha Health",
+            "linkedin": "https://www.linkedin.com/in/nina-monta%C3%B1a-brown-6aa24b133/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Mecha Health: Revolutionizing Radiology with AI\n\n**Company Overview:**\nFounded in 2024 and hailing from the vibrant tech ecosystem of San Francisco, Mecha Health is on a mission to redefine radiology report generation. As a proud member of Y Combinator's Batch W25, this startup is driven by the belief that trustworthy medical image reporting can be achieved through advanced AI technology. \n\n**Mission Statement:**\nMecha Health aims to create a streamlined reporting process that not only enhances accuracy but also improves patient care. The core of their approach is transparency; their AI solutions allow clinicians to trace and understand every decision their system makes. This transparency is crucial in building trust and confidence in AI-assisted workflows.\n\n**Team & Leadership:**\nWith a compact team of four talented individuals, Mecha Health is nimble yet focused. The startup is guided by the expertise of Michael Seibel, their Group Partner at Y Combinator, ensuring they have the right mentorship and network to fuel their growth.\n\n**Areas of Focus:**\nMecha Health operates at the intersection of multiple domains: machine learning, computer vision, health tech, and overall healthcare advancements. Their work is not just about technology; it's about enhancing the entire ecosystem of medical reporting.\n\n**What\u2019s Next:**\nAs they continue to develop their platform, Mecha Health is poised to make a significant impact in the healthcare space. Their commitment to transparency and accuracy is a beacon for others in the industry\u2014showing that AI can augment, rather than replace, the invaluable insights of skilled clinicians.\n\nFor those interested, you can learn more about their groundbreaking work by visiting their website at [Mecha Health](https://www.mecha-health.ai/).\n\nIn a world where healthcare can often feel opaque, Mecha Health stands out by shedding light on the reporting process\u2014making it clear, efficient, and trustworthy for all stakeholders involved.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a939e9835ba00d69b8d7e47a102d852b6f9a0401.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191528Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5e42930d63f305e6a33b772192f691682dc1b0fd6d289fd62179362286da6f1c",
+    "social_links": [
+        "https://www.linkedin.com/company/mecha-health/"
+    ],
+    "logo_path": "data/logos\\Mecha_Health_logo.png"
+}

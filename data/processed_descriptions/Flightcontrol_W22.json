@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/flightcontrol",
+    "name": "Flightcontrol",
+    "headline": "Deploy apps with utmost reliability, flexibility, and performance",
+    "batch": "W22",
+    "description": "The most reliable, powerful, and flexible PaaS, because we deploy to your AWS. No black box, lock-in, or AWS markups.",
+    "activity_status": "Active",
+    "website": "https://www.flightcontrol.dev?ref=bookface",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "Dayton, OH",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:cloud-computing",
+    "founders": [
+        {
+            "name": "Brandon Bayer, Founder",
+            "description": "CEO & Cofounder Flightcontrol | Creator of Blitz.js\nOutside of work I love flying airplanes and helicopters, rock climbing, tennis, riding my unicycle, and reading books",
+            "linkedin": "https://www.linkedin.com/in/brandonbayer1/"
+        },
+        {
+            "name": "Mina Abadir, Founder",
+            "description": "Co-Founder Flightcontrol.",
+            "linkedin": "https://www.linkedin.com/in/mabadir/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Flightcontrol is a cloud computing startup focused on making application deployment easier and more reliable. Founded in 2021 and a proud member of Y Combinator's W22 batch, this Ohio-based company champions its mission to deploy apps with top-notch reliability and performance, directly onto your AWS infrastructure. This means no black boxes, no vendor lock-in, and no hidden markups from AWS. For developers feeling bogged down by operational issues, Flightcontrol presents itself as the solution.\n\nAt its core, Flightcontrol is a Platform as a Service (PaaS) that allows users to deploy a variety of services\u2014be it servers, Lambdas, cron jobs, static sites, or databases\u2014entirely within their AWS account. It provides a comprehensive devops team backup, available 24/7, aiming to regain the reliability and scalability companies often lose when they outgrow simpler platforms like Heroku. Many customers have hailed the seamless transition and support they've received while migrating to Flightcontrol from other platforms.\n\nBoasting a small yet dedicated team of six, led by Group Partner Diana Hu, they successfully manage an impressive $1 million in AWS resources. Testimonies from various tech leaders underline the platform's balance of control, flexibility, and simplicity\u2014making it a prime pick for software developers across the board.\n\nIn a nutshell, if you're tired of wrestling with infrastructure headaches while wanting extensive control, Flightcontrol puts your applications on AWS and allows you to focus on what you do best\u2014writing code.\n\nFor those eager to explore more, their official site is [Flightcontrol.dev](https://www.flightcontrol.dev?ref=bookface) where you can kickstart your deployment journey\u2014free of charge.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a98b79a236891af4508e2415efb3b63153b03b24.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191342Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=35e698117abc94f9cd19c8895dd1e443c638ab4dac53521eed54b31271e0308b",
+    "social_links": [
+        "https://www.linkedin.com/company/flightcontrol",
+        "https://twitter.com/flightcontrolhq"
+    ],
+    "logo_path": "data/logos\\Flightcontrol_logo.png"
+}

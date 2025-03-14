@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/avenue",
+    "name": "Avenue",
+    "headline": "Observability platform for operations teams",
+    "batch": "W21",
+    "description": "Avenue is a simple way for business teams to set up alerts from their database or data warehouse. Think Datadog / PagerDuty for operations teams.\r\n\nOperations teams create set-and-forget alerts on all their data, so they can be more proactive with their time (and monitor on more nuanced triggers than just what fits on their dashboard page).\r\n\nAvenue can improve response times to critical problems from several days to real-time by alerting directly on the data sources that customers already use.",
+    "activity_status": "Active",
+    "website": "https://avenue.app/",
+    "founded_date": 2020.0,
+    "team_size": 8.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:data-engineering; location:new-york",
+    "founders": [
+        {
+            "name": "Justin Bleuel, Co-Founder & CEO",
+            "description": "people-first",
+            "linkedin": "https://www.linkedin.com/in/justinbleuel/"
+        },
+        {
+            "name": "Jeff Barg, Founder",
+            "description": "Co-founder & CTO of Avenue, an observability platform for operations teams. We let ops teams connect their data sources, define alerts, and respond proactively to important events. We are currently hiring software engineers to build the future of ops tooling.\n\nPreviously, I was a software engineer at Amazon working on the Alexa AI team. Along with my co-founder Justin, I also built and marketed several iOS apps when we were in high school, amassing 300k+ downloads.",
+            "linkedin": "https://www.linkedin.com/in/jeffreybarg/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Avenue: The Operations Team\u2019s Best Friend**\n\nFounded in 2020 and part of Y Combinator's Batch W21, Avenue operates out of New York with a lean team of eight. The company\u2019s mission is simple yet powerful: to empower operations teams with a robust observability platform that transforms data into actionable insights. Think of Avenue as the savvy, digital backbone of your operations, akin to using Datadog or PagerDuty but specifically tailoring its prowess for operational excellence.\n\n**What Does Avenue Offer?**\n\nAvenue started as an elegant solution for business teams, allowing them to set up streamlined alerts from their databases or data warehouses. Now, it has evolved into a sophisticated command center for modern ops teams. It enables users to create set-and-forget alerts that cover a broad spectrum of triggers, enhancing proactivity and significantly reducing response times from days to real-time.\n\nImagine operating a complex system where every little hiccup is notified immediately, so you can swiftly address issues as they arise. Avenue connects seamlessly to your existing data sources, whether it's Google Sheets or Postgres, eliminating the tedious task of manually monitoring dashboards or color-coded spreadsheets. \n\n**Key Features:**\n1. **Real-Time Alerts**: Never miss a beat with notifications tailored to critical KPIs. \n2. **Automated Playbooks**: Create clear action plans prompted by specific alerts, streamlining operational workflows.\n3. **Quantitative Metrics**: Continually assess and improve your operational efficiency.\n4. **Integration Friendly**: Avenue integrates with multiple tools\u2014think Slack, Zendesk, and Notion\u2014allowing for easy sync and collaboration across teams.\n\n**Why Avenue?**\n\nUsers consistently rave about Avenue\u2019s reliability and impact. Feedback indicates significant time savings\u2014upwards of four hours a week\u2014by eliminating time spent checking on systems manually. Avenue transforms the operational landscape, enabling teams to identify patterns, respond efficiently to problems, and foster a culture of proactive problem-solving.\n\nBacked by prominent investors\u2014including Y Combinator, Slack Fund, and Accel\u2014Avenue is trusted across various industries to simplify the complexity of operations management. With Avenue, companies can scale their operations without proportional increases in headcount, driving operational excellence in an increasingly complex digital age.\n\nIn the fast-paced world of operations, Avenue is the tool teams didn\u2019t know they needed\u2014a game-changer that turns data noise into clarity and actionable insights. \n\nTo explore more or sign up for a free trial, visit [Avenue's website](https://avenue.app/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d4ee2e2a87d5c7b81122e1c1845632fdcfeb463c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191013Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ff53a195391e0a9104c58383c45b7cf572c8416db99291b0de4549f3c10e46f1",
+    "social_links": [
+        "https://www.linkedin.com/company/useavenue",
+        "https://twitter.com/useavenue"
+    ],
+    "logo_path": "data/logos\\Avenue_logo.png"
+}

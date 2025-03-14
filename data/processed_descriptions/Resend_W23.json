@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/resend",
+    "name": "Resend",
+    "headline": "Email for developers",
+    "batch": "W23",
+    "description": "Resend is the new email API for developers. It's designed for you to build, test, and send transactional emails at scale.\r\n\nIf you're using Sendgrid, AWS SES, or Postmark, come talk to us.",
+    "activity_status": "Active",
+    "website": "https://resend.com",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:messaging; industry:api; industry:email; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Zeno Rocha, Founder",
+            "description": "Founder & CEO at Resend.\n\nPreviously VP of Developer Experience at WorkOS and CPO at Liferay Cloud. I'm originally from Brazil and now living in San Francisco.\n\nI love dark mode, open source, and side projects.",
+            "linkedin": "https://www.linkedin.com/in/zenorocha/"
+        },
+        {
+            "name": "Bu Kinoshita, Founder",
+            "description": "Co-founder & CTO at Resend and building react.email.\n\n1st eng hire at WorkOS, which is now a Series B company valued at $500M. Built the first MVP and scaled it all the way to serve 200+ b2b sass customers. Also built more than 100 node packages and 2 products that were OSS, Taskr and Secret, which were featured in the #1 and #4 on Product Hunt",
+            "linkedin": "https://linkedin.com/in/bkinoshita"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Resend: Email Simplified for Developers\n\n**About Resend**  \nFounded in 2023 and based in San Francisco, Resend is a fresh contender in the email API space, catering specifically to developers. As part of Y Combinator's Winter 2023 batch, this tiny but mighty team of three is revolutionizing how software engineers integrate email functionalities. If you're currently using services like SendGrid, AWS SES, or Postmark, Resend is eager to show you a better way.\n\n**Mission**  \nResend's mission is simple yet ambitious: to create \"Email for developers.\" They're here to streamline the process of building, testing, and sending transactional emails at scale, all while ensuring the messages actually reach humans\u2014rather than getting lost in spam folders.\n\n**Key Features**  \n1. **Integrate Seamlessly**: Their elegant interface allows developers to start sending emails within minutes. Resend is compatible with popular programming languages and frameworks like Node.js, Ruby, Python, and even Next.js.\n  \n2. **Developer-Centric Experience**: The team is made up of engineers who understand the frustrations of their peers. They aim to create tools that are intuitive and proactive, minimizing the pain points that come with traditional email services.\n  \n3. **Testing and Feedback**: Resend offers a \"Test Mode' that lets you simulate email events without sending real messages, a feature that\u2019s invaluable during the development stage.\n  \n4. **Dynamic Webhooks**: Get real-time notifications when important email events occur\u2014be it delivery, opens, clicks, or bounces. This gives developers fine-grained control over their email campaigns and customer interactions.\n\n5. **Contact Management and Analytics**: Tools to better manage contacts and analyze how audiences engage with emails make it easier to optimize the outreach strategy.\n\n6. **Advanced Features**: From dedicated IP management for better deliverability to proactive blocklist monitoring, Resend ensures that your emails not only reach their destination but also get taken seriously.\n\n**Why Choose Resend?**  \nThe feedback from the developer community has been overwhelmingly positive. Users highlight Resend's smooth integration process and exceptional customer support, which shines during the transition from older APIs to their modern, developer-friendly framework. \n\nSome testimonials state:\n- \u201cIt makes email sending so easy and reliable,\u201d noted a co-founder of Infisical.\n- Another user mentioned, \u201cAfter using Resend, our deliverability improved tremendously.\"\n\n**Get Started**  \nIf you\u2019re looking for a straightforward, powerful email solution that prioritizes the needs of developers, Resend might just be your next go-to API. Their website, [resend.com](https://resend.com), is the best place to start exploring how they can help improve your email delivery strategy.\n\nIn essence, Resend represents a shift towards developer-centric email solutions\u2014one that enables not just easier email integrations but also fosters better connections with the end-users. Whether you're in a bustling startup or a well-established company, Resend is poised to transform how you manage email communication.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a3b6e98481560a590f3375fe58d20a27176ba406.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191719Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8bbfee54158648a4c01fcad56e6ea576449ef9cfbad94edf69c6728d9e444720",
+    "social_links": [
+        "https://linkedin.com/company/resend",
+        "https://twitter.com/resendlabs",
+        "https://crunchbase.com/organization/resend"
+    ],
+    "logo_path": "data/logos\\Resend_logo.png"
+}

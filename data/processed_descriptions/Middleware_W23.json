@@ -1,0 +1,35 @@
+{
+    "links": "https://www.ycombinator.com/companies/middleware",
+    "name": "Middleware",
+    "headline": "AI-based full stack observability platform",
+    "batch": "W23",
+    "description": "Middleware is a full-stack cloud observability platform. We allow the dev and ops teams to debug the issue faster by bringing all the metrics, logs, traces, and events to a single unified timeline and train data to AI so it can give better insight into infrastructure and application.  \r\n\n- Single command installation to collect all the metrics, logs, traces, and events.\r\n- AI-based anomaly and error detection \r\n- GPT 4-based error resolution\r\n- Support Infrastructure monitoring, Logs, APM, Kubernetes Monitoring, Synthetic Monitoring,  RUM, Custom dashboard, and Alerts. \r\n- Full-stack observability, observe any stack at any scale.\r\n\nWe are at Middleware and wanted to make cloud observability faster, cheaper, and better.",
+    "activity_status": "Active",
+    "website": "https://www.middleware.io",
+    "founded_date": 2022.0,
+    "team_size": 40.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:saas; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Laduram Vishnoi, Founder",
+            "description": "Founder & CEO at Middleware. Ex-founder of Acquire.io, a customer engagement platform, I took the company from just myself to 200 people and raised $57m in venture capital until the Series B round. Side angel investor and advisor. Born in a small town in India called Jodhpur, grew up in London and living in San Francisco since 2016.",
+            "linkedin": "https://www.linkedin.com/in/laduramvishnoi/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Middleware: Revolutionizing Cloud Observability\n\n**Company Overview**  \nFounded in 2022 and based in San Francisco, Middleware is an innovative player in the AIOps and SaaS space, specifically focusing on cloud observability. As a proud member of Y Combinator's prestigious Batch W23, the company has quickly carved out a niche by promising to streamline the debugging process for DevOps teams through a full-stack observability platform.\n\n**Mission**  \nMiddleware's mission is simple yet ambitious: to make cloud observability faster, cheaper, and better. They leverage AI to unify metrics, logs, traces, and events onto a single timeline, enabling developers and operations teams to gain clearer insights into their infrastructures and applications.\n\n**Key Features**  \n- **Single Command Installation**: Setting up Middleware takes just one command to start collecting essential telemetry data.\n- **AI-Powered Insights**: The platform employs advanced anomaly and error detection with AI-enhanced capabilities, including GPT-4 for error resolution.\n- **Comprehensive Monitoring**: Middleware supports a variety of monitoring types, including Infrastructure Monitoring, Log Monitoring, Application Performance Monitoring (APM), Kubernetes monitoring, and more.\n- **Custom Dashboards**: Users can create customized dashboards and alerts tailored to their specific needs.\n\n**Team and Culture**  \nWith a dedicated team of 40 employees led by Group Partner Nicolas Dessaigne, Middleware embodies a culture of innovation and customer-centricity. They prioritize engineer productivity and seamless integration within various tech ecosystems.\n\n**Impact and Efficiency**  \nMiddleware boasts measurable impacts, such as a 20% faster resolution time and a whopping 75% cost reduction when compared to other observability solutions. They aim to enhance developer productivity by streamlining workflows and centralizing data insights.\n\n**Unique Value Proposition**  \nThe platform offers an end-to-end observability solution that fits any stack at any scale. It remarkably achieves complete control over data ingestion, allowing clients to decide what data to share and filter, based on their operational needs.\n\n**Trusted by Leading Companies**  \nMiddleware is already gaining traction in the market, trusted by numerous organizations including Activeloop and Trademarkia, which praise its ease of integration, powerful dashboard configurations, and agile response times.\n\n**Explore Middleware**  \nIf you\u2019re interested in optimizing your cloud infrastructure and improving application performance, Middleware offers a free demo to experience their cutting-edge observability technology firsthand. You can learn more about their offerings and get started on their official website: [Middleware.io](https://www.middleware.io).\n\nIn short, Middleware isn't just another observability tool; it's a transformative approach to understanding and resolving issues in complex cloud environments, making it an essential asset for any tech-driven organization.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/446c4263217e65c6295157a423fa1fd23efa627b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191536Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=41a05fd86292c74f7e2682ff03202144a2ac26378d315f7c1caf0948a359c266",
+    "social_links": [
+        "https://www.linkedin.com/company/middleware-labs/",
+        "https://twitter.com/middleware_labs/",
+        "https://www.facebook.com/middlewarelabs/",
+        "https://www.crunchbase.com/organization/middleware-4460",
+        "https://github.com/middleware-labs/"
+    ],
+    "logo_path": "data/logos\\Middleware_logo.png"
+}

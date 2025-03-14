@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/kura-ai",
+    "name": "Kura AI",
+    "headline": "New State of the Art for Browser Agents",
+    "batch": "S24",
+    "description": "Kura breaks 87% on the WebVoyager Benchmark. That is 31% better than Claude's Computer Use demo and 14% better than the previous State of the Art.\r\n\nIn 10 years there will be more AI agents on the internet than humans. Kura is SOTA for giving AI agents the tools for interacting with websites.",
+    "activity_status": "Active",
+    "website": "https://trykura.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:ai",
+    "founders": [
+        {
+            "name": "Ronit Basu, Founder",
+            "description": "Building SOTA browser agents that power the next generation of agentic companies. \n\nBeen in ML Ops for 4 years. Google, Convoy before that.",
+            "linkedin": "https://linkedin.com/in/ronit-basu-13ab30128"
+        },
+        {
+            "name": "Darren Hwang, Founder",
+            "description": "Building Web Agents. \n\nPreviously 5 years at Meta building security infra and integrity ranking infra.",
+            "linkedin": "https://linkedin.com/in/darren-hwang-7a5b25112"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Kura AI: Redefining Browser Agents\n\n**Founded:** 2024  \n**Location:** NAN  \n**Team Size:** 2 employees  \n**Y Combinator Batch:** S24\n\nIn the rapidly evolving world of artificial intelligence, Kura AI is making waves with its mission to set a new standard for browser agents. Initially breaking through with an impressive 87% score on the WebVoyager Benchmark, Kura is 31% ahead of Claude's Computer Use demo and 14% better than the previous record-holder. Their focus is clear: they envision a future where, in just ten years, AI agents outnumber humans online.\n\n### Why Kura Stands Out\n\nKura AI is pioneering tools that empower AI agents to navigate websites like never before. Their approach uses sophisticated models that boast:\n\n- **Multi-Agent Systems:** Different AI roles such as Planner, Executor, and Critic collaborate in a seamless conversation about their actions.\n- **Self-Healing Features:** The capability for reflection and backtracking ensures exceptional reliability.\n- **Model Agnostic:** Users can leverage various models, including Gemini and GPT mini, to cut costs by nearly 90% with minimal accuracy trade-offs.\n- **Multi-Modal Integration:** Combining computer vision with HTML DOM leads to greater accuracy.\n\n### Performance at a Glance\n\nKura\u2019s breakout performance on the WebVoyager Benchmark (87%) marks it as a leader in the space. Comparatively, other agents like Claude and Agent E score considerably lower. \n\nDespite its small team, Kura AI is set to revolutionize how we think about the interaction between humans and websites, significantly enhancing user experiences while reducing operational costs.\n\n### The Takeaway\n\nIn a nutshell, Kura AI is not just about improving performance metrics; it\u2019s about reimagining the landscape of browser agents. With its innovative technologies and solid backing from Y Combinator, Kura is laying the groundwork for a future where AI agents are smarter, cheaper, and more efficient. If you're interested in seeing these capabilities in action, you can [schedule a demo here](https://trykura.com/<https:/calendly.com/kura-ai/30min>).\n\nFor more information, check out their [official website](https://trykura.com). \n\n--- \n\nKura AI is a prime example of how startup ingenuity can suddenly elevate the standards in an industry. Keep an eye on them as they continue to blur the lines between AI agents and human-like digital interactions.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c1a42912b8e813b68f157a1dc9539f479d4e4e75.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191456Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bbe99a841b00d0ff7b2d50463d8a6989ecf941dc609a28ba570934d767486a0e",
+    "social_links": [
+        "https://www.linkedin.com/company/kura-ai",
+        "https://x.com/KuraAIAgents"
+    ],
+    "logo_path": "data/logos\\Kura_AI_logo.png"
+}

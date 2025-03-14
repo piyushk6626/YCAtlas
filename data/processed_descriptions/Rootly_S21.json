@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/rootly",
+    "name": "Rootly",
+    "headline": "Modern On-Call and Incident Management Platform",
+    "batch": "S21",
+    "description": "Rootly is a modern on-call and incident management platform used by top YC companies like Dropbox, Lattice, Webflow, Faire, but also Figma, LinkedIn, NVIDIA and 100s more.",
+    "activity_status": "Active",
+    "website": "https://rootly.com",
+    "founded_date": 2020.0,
+    "team_size": 60.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:saas; industry:b2b; industry:security; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Quentin Rousseau, Founder",
+            "description": "- Early Site Reliability Engineer (SRE) at Instacart and built resilient systems now handling millions of orders.\n- 2x Co-Founder at Rootly (YC S21) and PopSQL (YC S19).\n- Originally from France, loves rock climbing, and unsurprisingly great wine!",
+            "linkedin": "https://www.linkedin.com/in/quentinrousseau/"
+        },
+        {
+            "name": "JJ Tang, Founder",
+            "description": "Building Rootly - a modern on-call and incident management platform used by top YC companies like Dropbox, Lattice, Webflow, Faire, but also Figma, LinkedIn, and 100s more.\n\nOther than making Rootly my personality, I love cycling and my adorable dog, Nova.",
+            "linkedin": "https://www.linkedin.com/in/jjrichardtang/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Rootly**\n\nFounded in 2020, Rootly is a San Francisco-based company that has quickly established itself as a leading player in modern on-call and incident management solutions. As part of Y Combinator's Batch S21, Rootly is utilized by several prominent companies including industry giants like Dropbox, LinkedIn, NVIDIA, and Webflow. With a growing team of around 60 employees, they are keen on changing how teams handle critical incidents.\n\n**Mission and Offering**\n\nRootly's mission is straightforward yet profound: to consolidate on-call and incident response processes into a single, effective platform. Their offerings are geared towards simplifying incident management for all users, whether they're seasoned engineers or newcomers, aiming to make the incident response as seamless as possible. Through the platform, companies can easily manage alerts, responses, and post-incident learnings, all from within Slack, making it a convenient tool for active teams.\n\n**Key Features and Innovations**\n\nRootly\u2019s platform is lauded for several standout features: \n1. **On-Call Management**: It streamlines the on-call process, making it user-friendly and efficient.\n2. **Automated Incident Response**: Offers step-by-step guidance and best-practice workflows to ensure consistency across incident handling.\n3. **Learning from Incidents**: Provides tools for retrospective analysis, enabling teams to learn from past incidents and improve future responses.\n4. **AI Integration**: Rootly AI enhances incident handling capabilities by suggesting actions and summarizing incidents, drastically reducing resolution times.\n5. **Customizable Dashboards**: Users can tailor their experience to fit their particular needs and preferences, making Rootly adaptable for different organizational structures.\n\n**Target Market and Adoption**\n\nRootly targets startups and established enterprises alike, offering tailored solutions that scale with an organization\u2019s growth\u2014from Series A to IPO. The company emphasizes a rapid onboarding experience, aiming to have teams up and running in under five minutes, which is crucial in times of crisis.\n\n**Final Thoughts**\n\nBy understanding the constant challenges teams face during incidents, Rootly positions itself as a partner in reliability rather than just a product. Their focus on user experience, rapid deployment, and continuous improvement reflects a deep understanding of modern workplace dynamics. If you're part of a growing tech team or a mature enterprise looking for a robust incident management solution, Rootly is worth considering. You can find more about them on their website: [Rootly](https://rootly.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/256f821d26364c8053e150f7b17f5ad287922796.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191901Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=61becd9d93d4d5ce341b2f388777ea8cd973b19dd09d8b81b20b0a3a11aa93de",
+    "social_links": [
+        "https://www.linkedin.com/company/rootlyHQ",
+        "https://twitter.com/rootlyHQ",
+        "https://www.facebook.com/rootlyhq",
+        "https://www.crunchbase.com/organization/rootly",
+        "https://github.com/rootlyhq"
+    ],
+    "logo_path": "data/logos\\Rootly_logo.png"
+}

@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/expo",
+    "name": "Expo",
+    "headline": "Expo brings together the best of web and native app development",
+    "batch": "S16",
+    "description": "Expo lets developers write apps that are written in JavaScript and run natively on Android, iOS, and the web. Our cloud services that work with all Expo and React Native apps, named Expo Application Services (EAS), further speeds up teams by helping them get to the app stores as fast as possible and continue growing.\r\n\nWe believe that mobile apps provide a better experience than websites, but making apps is much more difficult than it needs to be. With Expo, we're bringing together the best of the web, like its development speed, fast iteration cycles, easy deploys, and automatic cross-platform support, and the performance, device capabilities, and user experience of native apps.",
+    "activity_status": "Active",
+    "website": "https://expo.dev",
+    "founded_date": 2016.0,
+    "team_size": 23.0,
+    "location": "Palo Alto",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Charlie Cheever, Founder",
+            "description": "Grew up in Pittsburgh, went to Harvard, worked at Amazon, worked at Facebok, cofounded Quora, working on Expo (YCS16).",
+            "linkedin": "https://www.linkedin.com/in/ccheever"
+        },
+        {
+            "name": "James Ide, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/idejames/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Expo: Bridging the Gap Between Web and Native App Development\n\n**Overview**: Founded in 2016 as part of Y Combinator's S16 batch, Expo is a development platform that simplifies the creation of apps using JavaScript, allowing developers to deploy across Android, iOS, and the web seamlessly. Based in Palo Alto, California, Expo operates with a lean team of 23 employees under the guidance of group partner Michael Seibel.\n\n**Mission**: Expo believes that mobile apps can offer a superior user experience compared to websites, yet creating them shouldn\u2019t be a cumbersome process. Their mission is to combine the rapid development capabilities of the web with the performance and capabilities of native apps, making app creation more accessible.\n\n**Key Offerings**:\n1. **Expo Application Services (EAS)**: This cloud service is designed to accelerate the development process, helping teams get their apps to the app stores quickly and efficiently. \n2. **Unified Development Ecosystem**: Expo provides a comprehensive set of tools for developers to write, build, update, submit, and monitor applications, making app store submissions painless and incorporating developer tools without hassle.\n3. **Open Source Framework**: Being open source, Expo invites innovation and collaboration within its community, empowering developers to leverage its resources freely.\n\n**Development Features**:\n- **Cross Platform**: Write code once and run it everywhere\u2014Android, iOS, and the web.\n- **Rapid Iteration**: Features like fast refresh allow changes to be seen in real-time, improving the development cycle dramatically.\n- **Customizability**: Developers can use any library or SDK and even write their own native code, ensuring flexibility.\n\n**Deployment and Monitoring**:\n- Expo handles the heavy lifting involved in building and submitting apps to the respective stores.\n- Built-in dashboards provide insights into builds, deployments, and user interactions, simplifying team collaboration.\n\n**Community and Support**: Expo fosters a vibrant developer community, where users can share experiences, troubleshoot together, and access a wealth of resources like documentation, tutorials, and dedicated support.\n\n**Why Choose Expo?**:\n- **Developer-Centric**: Expo's tools enhance productivity, making it simpler to deliver high-quality apps.\n- **Proven Track Record**: It\u2019s trusted by leading companies across various industries, showcasing reliability and industry standards.\n\nFor more information, visit their [website](https://expo.dev). Whether you're building a finance app, an image uploader, or a social media platform, Expo streamlines the entire process, making app development as enjoyable as coding should be.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bf3ca13e31f46bc60e117c9f9e05f6be6c95ebf5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191324Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dfbeb51a142ddf1d838911b7875e04c6598872ae002282111e8b43a27a8d45bc",
+    "social_links": [
+        "https://www.linkedin.com/company/expo-dev",
+        "https://twitter.com/expo",
+        "https://www.facebook.com/expo.io/",
+        "https://www.crunchbase.com/organization/exponent-3",
+        "https://github.com/expo"
+    ],
+    "logo_path": "data/logos\\Expo_logo.png"
+}

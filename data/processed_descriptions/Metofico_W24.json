@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/metofico",
+    "name": "Metofico",
+    "headline": "No Code Data Analysis for Life Science Research",
+    "batch": "W24",
+    "description": "Metofico provides a no-code data analysis tool tailored for the life sciences. Our platform enables life scientists to analyse complex/massive datasets and extract necessary insights without needing advanced programming skills. This accessibility helps both researchers new to data science and experts save months of work.\r\n\nMetofico aims to be the leading centralized platform for data analysis in life science research, covering a wide range of applications from brain activity analysis (like photometry and EEG) to AI-powered detection and tracking of research animals. Our vision is to accelerate research processes and enhance the quality of research outputs across the board. By streamlining complex data analysis and making it more accessible, we\u2019re committed to driving forward scientific discoveries and innovation.",
+    "activity_status": "Active",
+    "website": "https://metofico.com/",
+    "founded_date": 2021.0,
+    "team_size": 2.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:data-science; industry:no-code; industry:data-visualization",
+    "founders": [
+        {
+            "name": "Mehdi Boudjadja, Founder",
+            "description": "Neuroscientist and CEO of Metofico",
+            "linkedin": "https://linkedin.com/in/mehdi-boutagouga-boudjadja-ph-d-553003138"
+        },
+        {
+            "name": "Salah Boudjadja, Founder",
+            "description": "Co-founder and CTO of Metofico ltd.\nI really enjoy creating solutions for data science and analysis since I obtained my Master's degree in programming, computer vision and signal processing at the University of Paris Est.\nMy passion for digital art also allows me to create Metofico's graphic designs.",
+            "linkedin": "https://fr.linkedin.com/in/salah-boudjadja-42a05a19b"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Metofico: Revolutionizing Life Science Data Analysis**\n\nFounded in 2021 and nestled in London, United Kingdom, Metofico is on a mission to streamline data analysis for life science research through no-code tools. In an age where data drives discoveries, their platform provides a way for researchers\u2014regardless of programming prowess\u2014to analyze complex datasets efficiently. This not only saves time but also enhances the quality of insights derived from research.\n\nMetofico's vision is ambitious: to become the leading centralized platform for life science data analysis. They cover a broad spectrum of applications, from brain activity interpretation using techniques like photometry and EEG to AI-powered tracking and behavior analysis of research animals. Their approach is designed to expedite research processes, effectively catalyzing scientific innovation.\n\nOne of their standout offerings is the **RUST (Research Utilities & Scientific Technologies)** platform, tailored specifically by scientists for scientists. It seamlessly integrates various analytical tools, allowing for the easy manipulation of diverse datasets in one intuitive interface. This enhances efficiency and fosters reliability in research outputs.\n\n### Key Products:\n1. **TOMB AI:** A powerful tool for automated detection and tracking of animals in videos or images, which can categorize behaviors without manual input.\n2. **Fiber Photometry Analyzer (FPA):** This enables batch processing of data with up to four light channels per subject, complemented by user-friendly management utilities for analyzing groups or specific events.\n3. **Upcoming Features:** A suite of advanced tools is in the pipeline, including:\n   - **AFP (Advanced Feeding Patterns):** Analyzing meal patterns and lick microstructure.\n   - **CIA (Calcium Imaging Analyzer):** Automating denoising, motion correction, and cell segmentation processes.\n   - **HEAT (Holistic Energy Analysis Tool):** Facilitating extensive animal data management and analysis pipelines.\n\nWith a compact team of two and supported by the esteemed Y Combinator Batch W24, Metofico is backed by industry experts, including Group Partner Tom Blomfield. They're positioned to not only meet the current needs of life science researchers but to anticipate future demands as research continues to evolve.\n\nIf you're looking to unlock your data's full potential in life sciences, you can explore more through their website [metofico.com](https://metofico.com/). In a world where data can make or break research, Metofico is clearly a force to reckon with.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a762ccc5d53b91e413153372b26ef2c497fc4656.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191534Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=01949b7598d66fabeea2b5e8d45cc2917487864edd66ed660c2128664bf89d01",
+    "social_links": [
+        "https://www.linkedin.com/company/31390857/admin/inbox/"
+    ],
+    "logo_path": "data/logos\\Metofico_logo.png"
+}

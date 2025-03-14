@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/baseline-ai",
+    "name": "Baseline AI",
+    "headline": "AI document creation and data management for clinical trials",
+    "batch": "S24",
+    "description": "The main document in a clinical trial is the study protocol. At large companies, floors of people use the protocol to create the study data collection forms, clinical database design, error checks, analysis code, and data transformation mappings. We use AI to automate the process of creating everything from the protocol, saving not only spend on headcount but also months of time which can translate to up to $27M in direct costs + lost revenue saved for a single phase 3 trial.",
+    "activity_status": "Active",
+    "website": "https://www.baselinetrials.com/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:health-tech; industry:b2b; industry:biotech; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Zoe Sheill, Founder",
+            "description": "Co-founder of Baseline AI. Previously MIT, SpaceX. Ask me about the Banana Lounge at MIT",
+            "linkedin": "https://linkedin.com/in/zoesheill"
+        },
+        {
+            "name": "Nabil Baugher, Founder",
+            "description": "Baseline AI Co-founder. Previously ML at YouTube and software at Slack/Audible. CS + Neuro at MIT.",
+            "linkedin": "https://linkedin.com/in/nabil-baugher-93822a18a"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Baseline AI: Revolutionizing Clinical Trials with Artificial Intelligence\n\n**Overview:**  \nBaseline AI is a startup based in San Francisco that focuses on automating document creation and data management for clinical trials. Founded in 2023, it\u2019s part of Y Combinator\u2019s Batch S24, and the team consists of two dedicated employees, both MIT graduates, passionate about leveraging AI to accelerate clinical trial processes.\n\n**Mission:**  \nThe core mission of Baseline AI is to streamline the often cumbersome task of clinical trial documentation\u2014specifically, the creation and management of study protocols. Their innovative AI technology significantly reduces the time and resources traditionally needed in the development of crucial study materials such as data collection forms and analysis codes.\n\n**How It Works:**  \nAt large organizations, drafting the study protocol often requires a vast team, ensuring accuracy across various components like CRFs (Case Report Forms), database designs, and analytical checks. Baseline AI simplifies this process:\n\n1. **Protocol Upload:** Users can upload their study protocol and data management plans.\n2. **Automated Generation:** The AI instantaneously generates CRFs, database models, and code for data validation and analysis.\n3. **Rapid Testing:** What used to take weeks for testing can now be completed in mere minutes, drastically cutting down the timelines involved.\n\nBaseline AI estimates that saving just one day on a Phase 1 trial can lead to approximately $55,800 in savings. For a Phase 3 trial, the impact can escalate to around $27 million, factoring in both direct costs and potential lost revenue.\n\n**Features:**\n- **Harmonization:** Effortlessly connect and standardize data from various sources including eCOA (electronic clinical outcome assessments), lab results, and wearables while ensuring compliance with existing EDC (electronic data capture) systems.\n- **Analytical Support:** Users can easily upload their Statistical Analysis Plans to create ready-to-analyze datasets and generate necessary coding for reports and visualizations.\n- **Seamless Integration:** Baseline AI's solutions integrate with major EDC platforms, allowing organizations to adopt their tool without major disruptions to workflow.\n\n**Team Background:**  \nThe team behind Baseline consists of two co-founders:\n- **Zoe Sheill:** An MIT \u201824 graduate with prior experience at SpaceX and Microsoft.\n- **Nabil Baugher:** Also an MIT \u201824 graduate with background experience from Google and Slack.\n\n**Why It Matters:**  \nIn clinical trials, time is often equated to money. Baseline AI is not just optimizing a tedious process; it\u2019s fundamentally changing how clinical research is conducted, giving companies back their most valuable commodity\u2014time. For stakeholders in the life sciences sector, this innovative solution stands out as a compelling option to enhance efficiency, reduce costs, and ultimately bring life-saving treatments to market more rapidly.\n\nFor those interested in seeing Baseline AI in action or wanting to learn more, you can visit their website at [BaselineTrials.com](https://www.baselinetrials.com/) or request a demo. \n\nWith Baseline AI, the future of clinical trials looks smarter and quicker.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/db8a7d670dc8aac9a3731c50db32a83d7247ed66.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191018Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cd24ef52fb13b8a254dc0a827e4319c9be784d110c0af037461cea92698d010e",
+    "social_links": [
+        "https://www.linkedin.com/company/baseline-trials/"
+    ],
+    "logo_path": "data/logos\\Baseline_AI_logo.png"
+}

@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/adagy-robotics",
+    "name": "Adagy Robotics",
+    "headline": "Rescuing robots",
+    "batch": "W24",
+    "description": "Adagy is a remote intervention service that rescues robots when they fail. For example, when a tractor robot gets lost in a field, instead of calling the farmer for help, it can now call Adagy, whose operators will take control of the robot and remotely drive it back to safety. \r\n\nWe\u2019re starting with trained human operators assisted by generative AI, and as we collect more data, our model will learn to handle more of the edge cases. \r\n\nWe want to see a world with more robots, so we\u2019re addressing the biggest problem in robot deployment: reliability.",
+    "activity_status": "Active",
+    "website": "https://www.adagyrobotics.com/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Rosalind Shinkle, Founder + CEO",
+            "description": "Ros is the co-founder and CEO of Adagy Robotics. Before starting Adagy, Ros was a Staff Robotics Engineer at Boston Dynamics, where she worked on the Spot Manipulation team. At Boston Dynamics, Ros engineered the algorithms that tell the Spot arm how to interact with the world, e.g. how to inspect manufacturing lines and place sensitive objects. Ros has a BSE in Mechanical Engineering and Applied Mechanics and a Master\u2019s in Robotics from UPenn.",
+            "linkedin": "https://linkedin.com/in/rosalind-shinkle"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Adagy Robotics**\n\nFounded in 2023 and part of the Y Combinator Batch W24, Adagy Robotics is pushing the boundaries of robotic reliability. Their core mission? To rescue robots. Imagine a scenario where a tractor robot gets lost in the endless fields\u2014rather than calling the farmer for help, it can seamlessly connect with Adagy\u2019s remote intervention service. Their trained operators, backed by generative AI, take control and guide the robot back to safety. \n\nAdagy Robotics addresses a critical challenge: the reliability of robotic operations. Their approach combines human expertise with AI insights, allowing them to progressively learn from real-world data and improve robot resilience. This dual strategy aims to enhance overall robot deployment, ensuring they operate continuously and effectively.\n\n**Services Offered**\nAdagy Robotics provides 24/7 remote intervention services to ensure that robots can resume operations with minimal downtime. When a robot signals an issue, Adagy\u2019s trained operators step in, troubleshoot the problem, and once resolved, the robot autonomously resumes its tasks. This not only maximizes uptime but also allows robotics companies to focus on innovation without the constant worry of robot failures.\n\nTheir service process is straightforward:\n1. **Connect Your Robots**: Integrate via an easy-to-use API.\n2. **Receive Alerts**: Robots alert Adagy when they encounter issues.\n3. **Operator Intervention**: Experienced operators resolve the problems.\n4. **Resume Operation**: Robots quickly return to their tasks, minimizing interruptions.\n\n**Vision for the Future**\nAt Adagy, the vision is simple but ambitious: they want to see robots in every field, performing tasks reliably. By bridging the gap between robotic technology and the unpredictable nature of the real world, they aspire to make robotic solutions faster to deploy and more dependable.\n\nFor those who are looking to boost the reliability of their robotic operations, Adagy Robotics is a promising ally. With a dedicated team of two and robust support from their Y Combinator connection, they\u2019re poised to play a significant role in the ever-evolving robotics landscape.\n\nFor more information, visit their website: [Adagy Robotics](https://www.adagyrobotics.com/)",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0b75555b066894d91d7fc71393152e50b06c13eb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190942Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=27789feaf4ca332ea1023999e046e72133890bb3fbf1561d647e6105b9a3ee4c",
+    "social_links": [
+        "https://www.linkedin.com/company/adagy-robotics",
+        "https://twitter.com/adagyrobotics"
+    ],
+    "logo_path": "data/logos\\Adagy_Robotics_logo.png"
+}

@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/cakework",
+    "name": "Cakework",
+    "headline": "API that adds cloud hosting to any developer platform",
+    "batch": "W23",
+    "description": "We make it possible to build a serverless cloud platform that hosts custom user code with just APIs and no infrastructure team. For example, an open source framework can build a cloud offering that deploys their users code from Github or local dev environments in days instead of months.",
+    "activity_status": "Active",
+    "website": "https://www.cakework.com",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "Seattle, WA",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:cloud-computing; industry:infrastructure; location:seattle",
+    "founders": [
+        {
+            "name": "Jessie Young, Founder",
+            "description": "CEO of Cakework",
+            "linkedin": "https://www.linkedin.com/in/jyoung73/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Cakework**\n\nFounded in 2022 and hailing from Seattle, WA, Cakework is an innovative startup that has quickly caught the attention of the tech community. As a part of Y Combinator Batch W23, Cakework aims to revolutionize how developers and businesses leverage the cloud.\n\n**Mission Statement:**\nCakework's mission is straightforward: to provide an API that seamlessly adds cloud hosting capabilities to any developer platform. It removes the need for complex infrastructure management, allowing developers to focus on what they do best\u2014creating code.\n\n**What They Do:**\nOriginally conceived to empower businesses to build serverless cloud platforms, Cakework enables teams to host custom user code effortlessly via APIs, all without requiring a dedicated infrastructure team. This means that frameworks can integrate cloud offerings to deploy user code from platforms like GitHub much faster\u2014potentially in days instead of months.\n\n**Current Focus:**\nThe core of Cakework's offering is its intuitive platform that provides:\n\n1. **Custom User Code:** Equip your users to write their custom functions through an easy-to-use GUI and CLI.\n2. **Modern Development Experience (DX):** Simplify the process for your users while maintaining robust management tools through Cakework\u2019s dashboard and SDK.\n3. **Use Cases:** Automate actions, transform data, and deploy applications without the hassle of managing infrastructure.\n\nThere\u2019s also an emphasis on signing up for early access, reflecting their commitment to gathering user feedback and continuously improving their product.\n\n**Team and Structure:**\nDespite being a lean operation with just two employees, Cakework is poised for significant impact, overseen by Group Partner Diana Hu, who is dedicated to guiding the company through its promising early stages.\n\n**Key Focus Areas:**\n- Developer Tools\n- B2B Services\n- Cloud Computing Infrastructure\n\nCakework is certainly an exciting player in the developer tools space, with a clear focus on reducing friction for developers working with cloud-based applications. If you're in the market for a tool that simplifies the cloud experience, it might just be worth keeping an eye on Cakework. \n\nFor more detailed insights, check out their website at [cakework.com](https://www.cakework.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8d133c1df97c4784f5ac0807f0e90ee0ba2a35f9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191037Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f6a6da598eb37e943ef478cd1c43bc8b1f8079b9063940b29e34bd62d5d6313c",
+    "social_links": [
+        "https://www.linkedin.com/company/usecakework",
+        "https://twitter.com/usecakework",
+        "https://github.com/usecakework"
+    ],
+    "logo_path": "data/logos\\Cakework_logo.png"
+}

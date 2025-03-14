@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/toothy-ai",
+    "name": "Toothy AI",
+    "headline": "We automate back-office operations for dental clinics using AI agents.",
+    "batch": "W25",
+    "description": "Toothy is using AI to automate back office operations for dental clinics. We're building a reality where a dental clinic only needs 3 types of employees: dentists, hygienists, and dental assistants. Every other role is to be done by AI. \r\n\nAt our first clinic we've already managed to cut back office staff in half in the two months we've been operating with them. We charge 40% of what overseas BPOs do for the equivalent labor, and a fraction of what in-house employees cost.",
+    "activity_status": "Active",
+    "website": "https://www.toothy.ai/",
+    "founded_date": 2024.0,
+    "team_size": 7.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:health-tech; industry:healthcare; industry:dental; industry:ai; industry:conversational-ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Johnny Chen, Founder",
+            "description": "2nd time founder now automating back office functions for dental clinics. Built one of the first AI B2B cold email solutions (backed by SoftBank) to $1m in ARR using GPT-J. Background in full stack engineering, operations management, and B2B marketing. Previously worked at Ford Motor\u2019s R&D lab as a software engineer.",
+            "linkedin": "https://www.linkedin.com/in/johnnychen54/"
+        },
+        {
+            "name": "Tejas K, Founder",
+            "description": "Helping build the largest healthcare AI company!",
+            "linkedin": null
+        },
+        {
+            "name": "Matt Kerrigan, Founder",
+            "description": "2nd time technical founder at Toothy AI, where I'm working on automating back office operations for dental clinics. \nFirst journey ended in Salezilla, which was possibly the first modern LLM-based cold email campaign tool, and is still operating today. Before that I was a data scientist at a startup that was acquired by Nordstrom, a job I got without a college degree.",
+            "linkedin": "https://www.linkedin.com/in/mkerrig/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Toothy AI: Revolutionizing Dental Back-Office Operations\n\nFounded in 2024 and hailing from San Francisco, Toothy AI is making waves in the dental industry by harnessing the power of artificial intelligence to automate back-office operations for dental clinics. Part of Y Combinator's Batch W25, this scrappy startup is a team of just seven, yet they've already showcased significant results with their innovative approach.\n\n#### Mission\n\nToothy AI's mission is simple and ambitious: reduce the administrative workload in dental practices so that clinics ultimately only need dentists, hygienists, and dental assistants. All other roles can be handled by AI. By streamlining operations, they\u2019re not just making dental clinics more efficient\u2014they\u2019re transforming how these practices communicate with technology.\n\n#### The Problem They Solve\n\nBack-office operations, like insurance verifications, claims filing, and account follow-ups, often bog down dental practices, consuming valuable time and resources. Toothy AI's solution allows dental clinics to cut their back-office staff by 50%\u2014and they have the results to prove it. In a pilot clinic, they managed that feat in just two months.\n\n#### Cost Efficiency\n\nToothy AI operates on a pricing model that's appealingly competitive, charging only 40% of what overseas business process outsourcing services would demand, and significantly less than the costs of in-house employees. This not only helps clinics save money but also accelerates cash flow, with 99% of account receivables collected in under 30 days.\n\n#### How It Works\n\nToothy AI integrates seamlessly with existing practice management software. Here\u2019s what they offer:\n- **Insurance Verification:** Automated eligibility and benefit checks eliminate hours spent on hold with insurance representatives.\n- **Claims Processing:** Automated filing of claims with necessary attachments ensures accuracy and speed.\n- **Denials and Appeals:** The system handles denied claims, writes appeals, and follows up, leading to reduced manual errors.\n\nThe automated processes make Toothy AI act like a flawless colleague\u2014keeping the human touch in healthcare while maximizing efficiency and accuracy.\n\n#### A Secure Future\n\nUnderstanding the sensitive nature of healthcare data, Toothy AI ensures HIPAA-compliant practices that protect client information with multi-layered security developed by seasoned healthcare IT experts.\n\n#### What\u2019s Next?\n\nAs Toothy AI continues to disrupt the dental space, their goal is to get clinics ready for a future where technology alleviates the burden of administration, allowing more focus on patient care. If you're curious about how this AI assistant can innovate your practice, you can [book a demo](https://www.toothy.ai/) and experience Toothy in action.\n\nIn a world where inefficiency can cost clinics time and money, Toothy AI is not just offering a service; they\u2019re paving the way for the future of dental practice operations.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8cfb868fb97738ff7e074cf9bd322fee95944da6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192021Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=32edefb390831883e5af09d1ef63242f1938f91ee15d198224568aa8c08d2300",
+    "social_links": [],
+    "logo_path": "data/logos\\Toothy_AI_logo.png"
+}

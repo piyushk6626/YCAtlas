@@ -1,0 +1,46 @@
+{
+    "Links": "https://www.ycombinator.com/companies/mundo-ai",
+    "Name": "Mundo AI",
+    "Headline": "High Quality Multilingual Training Data for AI Models",
+    "Batch": "W25",
+    "Description": "AI models are terrible in non-English languages because it's nearly impossible to find training data in other languages. So, we're building the world's largest and highest-quality multilingual data library.",
+    "Activity_Status": "Active",
+    "Website": "https://mundoai.world",
+    "Founded_Date": "2024",
+    "Team_Size": "4",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/aaron-epstein",
+    "Group_Partner": "Aaron Epstein",
+    "Company_Linkedin": "https://www.linkedin.com/company/mundoai",
+    "Company_Twitter": "",
+    "Tags": "industry:artificial-intelligence; industry:machine-learning; industry:ai; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/mundoai",
+        "https://x.com/hellomundoai"
+    ],
+    "logo_path": "data\\logos\\Mundo_AI.png",
+    "Active_Founders": [
+        {
+            "Name": "Naijide Anwaer, Founder",
+            "Description": "Co-founder at Mundo AI building the largest and highest quality multilingual datasets. Product builder. Lover of languages and culture. Ex-Platform PM at Binance.US.",
+            "LinkedIn": "https://www.linkedin.com/in/naijide-anwaer"
+        },
+        {
+            "Name": "Garreth Lee, Founder",
+            "Description": "Co-Founder at Mundo AI. I was previously working on pretraining data at Cohere and tokenization at Hugging Face. I'm interested in all things related to ML/AI and loove playing music.",
+            "LinkedIn": "https://www.linkedin.com/in/garrethlee"
+        },
+        {
+            "Name": "Jason Liao, CEO and Founder",
+            "Description": "Hi! I'm Jason. Last year I worked on ML research abroad, where I discovered how impossibly challenging it is to build good multi-lingual AI models. Before that, I was the youngest quant researcher at a $60B hedge fund in Canada. jason@mundoai.world",
+            "LinkedIn": "https://www.linkedin.com/in/jasonliao02/"
+        },
+        {
+            "Name": "Kenneth Wu, Founder",
+            "Description": "doing fun stuff",
+            "LinkedIn": "https://www.linkedin.com/in/wukenneth/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "Mundo AI is on a mission that\u2019s both crucial and ambitious: they aim to create high-quality multilingual training data for AI models. Founded in 2024 and nestled in San Francisco, this foursome of innovators is tackling a significant issue in artificial intelligence \u2014 the glaring lack of training data for non-English languages. \n\nLet's think about it: most AI models today perform poorly in languages other than English. Sure, English content is abundant, but if you step outside the Anglophone bubble, you'll find a desert of information. That\u2019s where Mundo AI comes in. They're set on building the world's largest, top-notch multilingual data library, making datasets that are up to 10,000 times larger than anything currently available in the open-source realm.\n\nBacked by Y Combinator\u2019s Batch W25, Mundo AI has the support of leading researchers in the field, which gives them a solid push. Their approach is both comprehensive and human-centric, collaborating closely with native speakers to ensure the datasets are not just large, but also diverse and accurate. They focus on quality control, rigorously checking their data four times over to guarantee it meets high standards.\n\nThe company is tagged under key sectors like artificial intelligence and machine learning, which speaks to the relevance of their mission in today\u2019s tech landscape. If you're interested in the future of language processing and AI development across the globe, Mundo AI is definitely worth keeping an eye on. \n\nFor more insight into their work or to collaborate, check out their website at [MundoAI](https://mundoai.world)."
+}

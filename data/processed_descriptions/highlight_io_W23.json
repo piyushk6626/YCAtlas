@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/highlight-io",
+    "name": "highlight.io",
+    "headline": "The open source, fullstack monitoring platform: stop guessing why\u00e2\u0080\u00a6",
+    "batch": "W23",
+    "description": "highlight.io is the open source, full-stack monitoring platform. With just a few lines of code, Highlight makes it easy to understand what's slowing down your users and swiftly address errors and regressions on your web app.  Imagine that you have a customer reporting an issue on your web app. With highlight.io, you can playback their exact interactions to reproduce the bug and get notified of any future errors that could happen.\r\n\nThat being said, we\u00e2\u0080\u0099re just getting started! We have plans to go way deeper into your observability stack to give you all of the visibility you need. Join us on this journey:\r\n- Star us on GitHub (https://github.com/highlight/highlight) to keep up with releases and news.\r\n- Join our Discord (https://highlight.io/community) to share product feedback and thoughts.",
+    "activity_status": "Active",
+    "website": "https://www.highlight.io/",
+    "founded_date": 2023.0,
+    "team_size": 8.0,
+    "location": "Seattle, WA",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:open-source; industry:monitoring; location:seattle",
+    "founders": [
+        {
+            "name": "Jay Khatri, Founder",
+            "description": "Cofounder / CEO @ Highlight (formerly founder @ Reploy, S20)",
+            "linkedin": "https://linkedin.com/in/jay-khatri"
+        },
+        {
+            "name": "Vadim Korolik, Founder",
+            "description": "Vadim Korolik is the founder and CTO of highlight.io, the open source session replay and error monitoring framework. A native of the Bay Area, Vadim previously worked at Pure Storage and drive.ai.",
+            "linkedin": "https://www.linkedin.com/in/vkorolik/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Highlight.io: Simplifying Full-Stack Monitoring for Developers**\n\nFounded in 2023 and based in Seattle, WA, Highlight.io is an open-source, full-stack monitoring platform configured to alleviate the common headaches developers face\u2014specifically when trying to decipher user issues in their web applications. With a small yet dedicated team of 8, the company aims to bridge the gap between guesswork and action.\n\n### What is Highlight.io?\n\nAt its core, Highlight.io enables developers to play back user interactions in their web apps seamlessly. This allows for immediate bug reproduction and faster error resolution. If a customer reports an issue, you can actually walk through their experience step-by-step. Think of it as a time machine for debugging.\n\nThe mission is straightforward: stop guessing why things aren't working as they should. Highlight.io is packed with features like session replay, error monitoring, logging, performance traces, and customizable dashboards, all designed to give developers clarity and confidence in their applications' performance. It\u2019s a developer\u2019s toolkit designed for the modern web landscape.\n\n### Plans for the Future\n\nHighlight.io isn\u2019t satisfied with resting on its laurels. As they put it, \"we're just getting started!\" Their intentions to deepen their observability stack promises to deliver even more visibility to users in the months to come. If you're keen on what they're planning, consider checking out their GitHub page to follow updates, or hop onto their Discord community to share your thoughts and feedback.\n\n### Diverse Features\n\n1. **Session Replay**: Uncover the real reasons behind application bugs by viewing exact user sessions.\n2. **Error Monitoring**: Stay ahead of issues with alerts about exceptions before users even notice them.\n3. **Logging**: Monitor logs across your stack with customizable alerts tailored to your needs.\n4. **Tracing**: Gain insights into performance across your app\u2019s requests and transactions.\n5. **Dashboards**: Visualize your observability data for a cohesive understanding of performance.\n\n### Integration and Accessibility\n\nHighlight.io integrates well with a variety of frameworks (like React, Vue.js, and Node.js) andcomes equipped with developer-friendly SDK support. Whether companies prefer to self-host or leverage cloud offerings, Highlight.io has provisions for both, thus accommodating diverse operational preferences.\n\n### Community and Support\n\nOne of the company\u2019s standout features is its community engagement. They encourage users to star their repository on GitHub and welcome discussions on Discord. It's a great way for developers to connect, share experiences, and improve upon existing features together.\n\n### Conclusion\n\nIn a time where observability can often feel overwhelming, Highlight.io stands out with its promise of transparency. If you're looking to refine your web app's performance and user experience, Highlight.io offers not just tools but a community built around improvement and innovation. Explore more on their website [here](https://www.highlight.io/), or jump into the action by trying out their platform for free. \n\nThis is more than just monitoring\u2014it's the way forward for modern developers.",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.linkedin.com/company/highlightrun",
+        "https://twitter.com/highlightio"
+    ]
+}

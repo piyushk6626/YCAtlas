@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/vote-org",
+    "name": "Vote.org",
+    "headline": null,
+    "batch": "S16",
+    "description": null,
+    "activity_status": "Active",
+    "website": "http://www.vote.org",
+    "founded_date": 2008.0,
+    "team_size": null,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Debra Cleaver",
+            "description": "Founder Vote.org, VoteAmerica, ElectionDay.org, FuterVoter, and some other projects. Aggressively committed to increasing voter turnout. All around nice person.",
+            "linkedin": "https://www.linkedin.com/in/debracleaver"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Vote.org: Empowering Democracy One Vote at a Time\n\nFounded in 2008 and part of Y Combinator\u2019s Batch S16, Vote.org operates out of San Francisco and is the largest nonpartisan voting registration and get-out-the-vote platform in the United States. Its mission? Simple: to remove the barriers that keep voters from making their voices heard at the ballot box.\n\n#### What They Do\nVote.org offers a robust suite of online tools to help Americans with every aspect of the voting process \u2014 from checking registration status to understanding voter ID laws to tracking ballots. Their resources cater to various voter needs, including:\n\n- **Voter Registration**: Check if you're registered and register in under two minutes.\n- **Voting by Mail**: Request absentee ballots easily.\n- **Election Reminders**: Get notified of important voting dates.\n- **Polling Places**: Locate where to cast your vote.\n\nAt the heart of their approach is a commitment to accessible democracy for all, reflected in their various campaigns, such as the #VoteReady initiative and their Election Day efforts. \n\n#### Engage with Vote.org\nThey also encourage partnerships with organizations and influencers to amplify their message and ensure voters receive timely and accurate information. For groups interested in increasing voter engagement, Vote.org offers tools as part of its Vote.org+ suite, which includes premium features for campaigns aiming to mobilize communities and track voter engagement.\n\n#### Support and Impact\nAs a registered 501(c)(3) nonprofit, Vote.org runs on the support of donations \u2014 every dollar contributes to empowering more voters. Their impact report showcases the positive outcomes of their initiatives, emphasizing why now, more than ever, everyone should invest in democracy.\n\n#### Connect with Vote.org\nWant to stay updated? Follow them on social media or join their newsletter for the latest in voting news and resources. \n\nVote.org isn\u2019t just a tool; it\u2019s a movement to make sure your vote counts \u2014 because every voice matters in a democracy. \n\nFor more information, head over to [Vote.org](http://www.vote.org).",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.crunchbase.com/organization/vote-org",
+        "https://github.com/votedotorg"
+    ]
+}

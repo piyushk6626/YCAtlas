@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/inkeep",
+    "name": "Inkeep",
+    "headline": "AI support you can trust.",
+    "batch": "W23",
+    "description": "Inkeep provides all the AI tools teams need to scale support: an assistant for users, a copilot for your support team, and an AI writer to identify and fix content gaps. \r\n\nTeams like Anthropic, Pinecone, and Postman trust Inkeep agents to help their users find what they need and get quick human support when they need it.\r\n\nInkeep \"just works\" with your setup - ingest any source, add to any support or docs platform, or use our APIs to automate your support workflows and create custom experiences.",
+    "activity_status": "Active",
+    "website": "https://inkeep.com",
+    "founded_date": 2023.0,
+    "team_size": 9.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:customer-success; industry:customer-service; industry:customer-support; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nick Gomez, Founder",
+            "description": "Nick is cofounder and CEO of Inkeep. He previously led devex for a team at Microsoft, focusing on self-serve developer experiences for adding authentication to apps. He studied Business & CS at MIT. Beyond Inkeep, Nick enjoys photography and hiking.",
+            "linkedin": "https://www.linkedin.com/in/edwinngomez"
+        },
+        {
+            "name": "Robert Tran, Founder",
+            "description": "Robert Tran is a cofounder of inkeep. He studied CS & Math at MIT and has an extensive background in tech, including working with government, political organizations, financial firms, and logistics companies. Previously, Robert was an early employee then Head of Engineering at illumis \u2014 building software to aggregate thousands of public data sources that are locked in silos. illumis was acquired by ComplySci. Outside of inkeep, Robert is passionate about film & writing.",
+            "linkedin": "https://www.linkedin.com/in/robert-tran-profile"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Inkeep**\n\nFounded in 2023 and a proud member of Y Combinator's Batch W23, Inkeep is based in the heart of San Francisco. With a nimble team of nine, it has quickly established itself as a trusted player in the world of AI-enabled customer support solutions.\n\n**Mission and Vision**\n\nInkeep\u2019s mission is straightforward yet profound: to provide \u201cAI support you can trust.\u201d This ethos drives the development of their innovative tools aimed at enhancing customer support experiences. They began their journey by offering a trio of AI-driven solutions: a user assistant, a copilot for support teams, and an intelligent AI writer that identifies and bridges content gaps.\n\n**What They Do**\n\nInkeep is tailored for modern teams \u2014 think Anthropic, Pinecone, and Postman \u2014 who depend on efficient methods to assist their users. Their technology seamlessly integrates with existing setups, allowing for high customization. Whether you\u2019re ingesting data from various sources, augmenting existing support platforms, or leveraging APIs to automate workflows, Inkeep has covered the bases.\n\nTheir offerings include:\n- **User Assistant:** Helps users find answers quickly without unnecessary friction.\n- **Support Copilot:** A smart assistant that aids support agents in resolving tickets faster by providing suggestions based on past interactions and documents.\n- **Gaps Reporting:** Pinpoints where users struggle, enabling teams to improve documentation and FAQs proactively.\n\n**Integration and Accessibility**\n\nOne of Inkeep\u2019s standout features is how effortlessly it integrates. You can set it up in under 10 minutes, compatible with popular platforms like Zendesk, Salesforce, and Intercom. Plus, it adheres to robust data security standards, including SOC 2 Type II compliance \u2014 ensuring that your data remains secure and your users\u2019 trust intact.\n\n**Current Developments**\n\nThe company is proactively improving its offerings. Recently, they introduced the **Copilot for Support Teams**, which enhances the efficiency of support interactions. They help teams answer over 300,000 questions a month, boasting high user engagement and satisfaction.\n\n**Backing and Founders**\n\nWith strong backing from Y Combinator and Khosla Ventures, Inkeep not only has financial support but also a network of mentors and resources that can guide its growth. The company is spearheaded by a talented group, with Michael Seibel serving as their Group Partner, further adding to their credibility and reach in the industry.\n\n**Conclusion**\n\nInkeep embodies the ethos of innovation and reliability in AI-driven customer support. Their commitment to empowering teams and enhancing user experiences through trusted AI solutions stands as a testament to their potential. If you're seeking to elevate your support ecosystem with intelligent solutions, Inkeep might just be what you need. Check out their offerings on [Inkeep.com](https://inkeep.com) and see how they can fit into your support narrative.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d0d54f92148e221ff8d01a2a41c57e24929ec129.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191433Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=54baf4a82c0c0017b015ac4c9996d0a3ad233eb07aa81d61767c1a5d0d619e8b",
+    "social_links": [
+        "https://www.linkedin.com/company/inkeep/",
+        "https://twitter.com/inkeep_ai",
+        "https://crunchbase.com/organization/inkeep",
+        "https://github.com/inkeep"
+    ],
+    "logo_path": "data/logos\\Inkeep_logo.png"
+}

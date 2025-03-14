@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/opsberry-ai",
+    "name": "OpsBerry AI",
+    "headline": "Secure your identity sprawl with AI.",
+    "batch": "S23",
+    "description": "OpsBerry AI defends against human and non-human identity breaches using AI to continuously discover, prioritize, and remediate vulnerabilities in your identity sprawl. Our AI-powered identity security posture management platform, trained with popular cyber security and compliance frameworks, provides comprehensive visibility and contextualization across your user accounts, service accounts, API keys, OAuth apps, and more, keeping your organization safe from identity-driven attacks.",
+    "activity_status": "Active",
+    "website": "https://opsberry.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Carlos Feliciano, Founder",
+            "description": "Co-founder and CEO of OpsBerry AI. Over a decade of experience in Infrastructure, monitoring, and operations at YC-backed startups and large enterprises. AWS Solutions Architect. Love PC gaming, fitness, the beach, and just good vibes!",
+            "linkedin": "https://linkedin.com/in/carlosfelicianoii"
+        },
+        {
+            "name": "Casey Wilcox, Founder",
+            "description": "Co-founder and CTO of OpsBerry AI",
+            "linkedin": "https://linkedin.com/in/caseyatdash"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: OpsBerry AI**\n\n**Founded:** 2023  \n**Location:** Not specified  \n**Team Size:** 2 employees  \n**Y Combinator Batch:** S23  \n**Group Partner:** Garry Tan  \n\n**Mission Statement:** Secure your identity sprawl with AI.  \n\n---\n\n**What They Do:**\n\nOpsBerry AI is on a mission to protect organizations from identity breaches\u2014both human and non-human. Their platform leverages advanced AI technology to continuously discover vulnerabilities, prioritize them, and remediate potential attacks tied to identity exploitation. Think of them as your virtual security guard for digital identities.\n\nThe platform provides extensive visibility across various types of accounts including user accounts, service accounts, API keys, and OAuth apps. This translates into enhanced security against identity-driven threats, which are rapidly becoming some of the most significant risks facing companies today. In fact, the average cost of an identity breach is projected to be around **$4.84 million** in 2024.\n\n---\n\n**Key Features:**\n- **Real-time Discovery & Monitoring:** Continuously tracks human and non-human identities across multiple environments (SaaS, IaaS, PaaS).\n- **AI-Powered Investigations:** Utilizes artificial intelligence to conduct investigations and identify security risks based on behavior and access patterns.\n- **Automated Identity Lifecycle Management:** Streamlines the processes for onboarding, offboarding, and managing identity policies without the need for coding.\n- **Compliance and Audit Ready:** Keeps your identity management compliant with industry standards through continuous audits.\n- **Integration Ease:** A simple one-click setup allows for seamless integration with existing security systems.\n\n---\n\n**Significant Achievements:**\n- Recently achieved SOC2 Type II Compliance, showcasing their commitment to security and data privacy.\n\n---\n\n**Customer Feedback:**\nCris Kim, Director of Engineering at Barkbox, remarked on how OpsBerry AI has simplified identity management across their infrastructure, transforming a previously labor-intensive process into a streamlined, efficient system. This highlights how valuable OpsBerry AI can be for organizations, especially those managing complex cloud environments.\n\n---\n\n**Conclusion:**\nIn a landscape where identity risks are escalating, OpsBerry AI emerges as a crucial player equipped with cutting-edge technology. By focusing on real-time security and compliance, they are not just addressing a need; they're redefining what effective identity management looks like. For organizations keen on securing their identities, a demo of their platform could be a worthwhile next step.\n\nFor more details, visit their website: [OpsBerry AI](https://opsberry.ai)",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9c34188857a45e6a1feeca569065ea48756ac296.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191613Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7db16988f147a455162de7ada8aa57a61b537c3a392ad36cdf54ecf09431ba09",
+    "social_links": [
+        "https://www.linkedin.com/company/opsberryai",
+        "https://x.com/opsberryai",
+        "https://github.com/enfraxyz"
+    ],
+    "logo_path": "data/logos\\OpsBerry_AI_logo.png"
+}

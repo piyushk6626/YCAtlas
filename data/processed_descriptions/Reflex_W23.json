@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/reflex",
+    "name": "Reflex",
+    "headline": "Web apps in pure Python. Deploy with a single command.",
+    "batch": "W23",
+    "description": "Reflex is the open-source framework empowering Python developers to build web apps faster. Build both your frontend and backend in a single language, Python (pip install reflex), with no JavaScript or web development experience required.\r\n\nBuild anything from internal data and AI apps to large public-facing web apps and deploy with a single command (reflex deploy).\r\n\nReflex provides high-level UI components, easy deployment and AI agents to create, edit, and deploy apps 10x faster than traditional web development while also remaining extensible through custom components that can fully leverage JavaScript's expressivity.\r\n\nOur mission is to simplify web development by creating an ecosystem of open-source tools and hosted services that enable Python developers to build web apps faster without compromising on customizability, flexibility, or performance.\r\n\nhttps://github.com/reflex-dev/reflex",
+    "activity_status": "Active",
+    "website": "https://reflex.dev",
+    "founded_date": 2023.0,
+    "team_size": 8.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:open-source; industry:web-development; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nikhil Rao, Founder",
+            "description": "Building Reflex - a way to make web apps in pure Python.",
+            "linkedin": "https://www.linkedin.com/in/nrao95/"
+        },
+        {
+            "name": "Alek Petuskey, Founder",
+            "description": "Cofounder @ Reflex",
+            "linkedin": "https://www.linkedin.com/in/aleksanderpetuskey/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Reflex: Simplifying Web Development with Python\n\n**Overview**\nReflex is a revolutionary open-source framework launched in 2023, designed to help Python developers build and deploy web applications swiftly. By focusing on a single programming language\u2014Python\u2014Reflex eliminates the need for JavaScript and the steep learning curves often associated with traditional web development.\n\n**Mission**\nThe core mission of Reflex is straightforward: simplify web application development. It champions an ecosystem of open-source tools and hosted services that empower developers to create applications faster, while maintaining robust customizability, flexibility, and performance. \n\n**Key Features**\n- **Unified Development**: Build both frontend and backend using pure Python, making the development process seamless.\n- **Quick Deployment**: With just one command (`reflex deploy`), you can deploy your application effortlessly.\n- **High-Level UI Components**: Reflex offers over 60 built-in components for crafting user interfaces without needing to dive into JavaScript.\n- **Integration with AI**: Developers can utilize AI agents to bolster their applications without added complexity.\n- **Responsive Design**: Applications built with Reflex are designed to look great on any device, with options for dark and light modes.\n\n**Community and Support**\nReflex has garnered a welcoming community, supported by a growing Discord presence and over 21,500 GitHub stars. Developers can freely contribute to the project or self-host the framework, as it's released under the Apache 2.0 license.\n\n**Interesting Tidbits**\n- Founded in San Francisco by a small dedicated team of 8, Reflex is a part of the Y Combinator Batch W23.\n- It is already trusted by industry giants like Amazon, NASA, and IBM, showcasing its robust utility and trustworthiness.\n\n**Getting Started**\nTo join the ranks of developers leveraging Reflex, you simply need to install it via pip (`pip install reflex`) and get started on your projects. You can check out the documentation [here](https://reflex.dev/docs/getting-started/introduction/) for a comprehensive guide.\n\nReflex isn't just another framework; it's a paradigm shift towards simplifying web application development in Python. If you're a Python developer aiming to build web applications efficiently, Reflex is worth a look. \n\nTo learn more or to start building, visit their official site at [reflex.dev](https://reflex.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b152827b3d2a1fddc281b91522bcddae057bd6e3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191712Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ef26590771d39c75aaf2d42ab65e29b4254a202f99656605a3a61e70000ff69d",
+    "social_links": [
+        "https://www.linkedin.com/company/reflex-dev",
+        "https://twitter.com/getreflex",
+        "https://github.com/reflex-dev"
+    ],
+    "logo_path": "data/logos\\Reflex_logo.png"
+}

@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/riviera",
+    "name": "Riviera",
+    "headline": "AI Voice Agents for Hotels",
+    "batch": "W25",
+    "description": "Riviera builds AI voice agents that let hotels spend less time answering phone calls and more time helping guests. Our system handles front-desk operator calls, in-room dining orders, and reservations. It answers every question instantly and in any language, 24/7. \r\n\nWe\u2019re solving a problem that older phone systems and IVR (Interactive Voice Recordings) can't: guests hate not being able to talk to someone immediately, but hotels can\u2019t dedicate additional staff to manage phone lines. Voice AI has always seemed out of reach for hotels because their technology infrastructure is often fragmented, with reservation systems, loyalty programs, and in-house operations software that weren\u2019t designed with voice AI in mind. Riviera addresses this by integrating seamlessly with existing hotel software providers and using human-sounding voice models that are highly trained on data specific to each hotel and department.\r\n\nHotels spend over $100 billion annually on staffing and lose potential revenue when phone lines are overwhelmed or callers hang up. By enabling hotels to handle unlimited calls, day or night, Riviera unlocks additional revenue and eases labor challenges.",
+    "activity_status": "Active",
+    "website": "https://www.withriviera.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:travel; industry:analytics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Shaun Lane, Founder",
+            "description": "Co-Founder and CEO at Riviera | UC Berkeley CS | Amazon Software Engineering Intern, previously ran a Travel Consulting/Content Creation Business",
+            "linkedin": "https://www.linkedin.com/in/shaun--lane/"
+        },
+        {
+            "name": "Sathvik Nori, Founder",
+            "description": "Co-Founder and CTO at Riviera | Stanford CS | Intern at CashFlowPortal (YC W22) and Dragonfruit AI.",
+            "linkedin": "https://www.linkedin.com/in/sal12345-n-130602152/"
+        },
+        {
+            "name": "Daniel Tyshler, Founder",
+            "description": "Co-Founder and COO at Riviera | Stanford CS | SpaceX Software Engineering Intern, software and product intern at startups in aerospace and health-tech",
+            "linkedin": "https://www.linkedin.com/in/daniel-tyshler-b742b217a/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Riviera: AI Voice Solutions for Hotels\n\nRiviera is a forward-thinking startup dedicated to transforming the hospitality industry through artificial intelligence. Founded in 2024 and based in San Francisco, Riviera is leveraging voice AI technology to create personalized, immediate communication channels for hotels. The company emerged from Y Combinator\u2019s Batch W25, demonstrating its potential and innovation from the get-go.\n\n#### Mission\nAt its core, Riviera aims to streamline hotel operations by introducing AI voice agents. These agents handle front-desk calls, in-room dining orders, and reservations, enabling hotels to dedicate more resources to enhancing guest experiences rather than getting bogged down by phone calls. Their system works around the clock, accommodating inquiries in multiple languages, thus ensuring that no guest is left hanging.\n\n#### The Problem\nTraditional phone systems and IVR (Interactive Voice Recordings) have long annoyed guests who want immediate assistance. Unfortunately, hotels can't always afford the staffing necessary to manage high phone call volumes. Riviera steps in to solve this issue by seamlessly integrating with existing hotel systems, including reservation platforms, loyalty programs, and operational software.\n\n#### The Solution\nRiviera's AI voice agents sound human and are trained specifically on the unique data of each hotel, making them intuitive and effective at addressing guest inquiries. They help hotels manage the staggering $100 billion spent annually on staffing while maximizing revenue opportunities\u2014especially during peak times when phone lines can flood with callers.\n\n#### Key Features\n- **24/7 Availability**: Calls are answered instantly, improving guest satisfaction.\n- **Human-like Interaction**: The AI is designed to engage naturally, diminishing the robotic feel commonly associated with automated systems.\n- **Integration**: The platform readily integrates with various hotel management systems, ensuring a smooth implementation without disrupting current operations.\n- **Personalized Assistance**: It provides tailored recommendations for services, enhances in-room dining sales through smart upselling, and boosts booking conversion rates without human intervention.\n\nAs of now, Riviera operates with a small but efficient team of three, led by notable Group Partner Brad Flora. They are tagged under *artificial intelligence, SaaS, B2B, travel, analytics,* and are positioned in the vibrant San Francisco Bay Area tech scene.\n\n#### In Summary\nRiviera is setting a new standard for hotel communications. By marrying technology with hospitality, they provide a solution that not only reduces operational costs but enhances the overall experience for guests. If you're in the hotel industry and looking to elevate your guest services (and your efficiency), check out Riviera's offerings at [their website](https://www.withriviera.com) and consider booking a demo.\n\nWith Riviera, the future of hotel management looks not just smarter, but kinder\u2014because every guest deserves to feel heard, any time of day.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7a24056462555afa60fb9028cc517f2d95a17636.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191726Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b86d03cc73586811f47639ab397d02feb0e934fef893da0cc3036ab5910dded1",
+    "social_links": [
+        "https://www.linkedin.com/company/withriviera"
+    ],
+    "logo_path": "data/logos\\Riviera_logo.png"
+}

@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/answergrid",
+    "name": "AnswerGrid",
+    "headline": "Gen AI for Consultants",
+    "batch": "S24",
+    "description": "AnswerGrid is an AI-powered enterprise search platform purpose-built for consultants to leverage their firm\u2019s institutional knowledge.",
+    "activity_status": "Active",
+    "website": "https://answergrid.ai/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:productivity; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Bolu Ben-Adeola, Founder",
+            "description": "Bolu is the Co-Founder and CEO of AnswerGrid. Before AnswerGrid, he built ML infrastructure for the fixed-income markets at Bloomberg and led teams at Palantir, South Korea, tackling problems in heavy industry manufacturing.",
+            "linkedin": "https://www.linkedin.com/in/ben-adeola"
+        },
+        {
+            "name": "Noah \u00d6hrner, Founder",
+            "description": "Noah is the Co-Founder and CTO of AnswerGrid. Before AnswerGrid, he was a Tech lead on the Security & Governance team at Palantir. He got his BA in Computer Science from the University of Cambridge.",
+            "linkedin": "https://www.linkedin.com/in/noah-ohrner"
+        }
+    ],
+    "status": true,
+    "generated_description": "**AnswerGrid**: Revolutionizing Knowledge for Consultants with Gen AI\n\nFounded in 2024 and nestled in the vibrant tech hub of San Francisco, AnswerGrid is a dynamic startup born out of Y Combinator's Batch S24. The company is on a mission to empower consultants through Generative AI, transforming the way they access and utilize their firm\u2019s institutional knowledge.\n\nAt its core, AnswerGrid is an AI-powered enterprise search platform meticulously designed for consultants. It allows them to harness their firm\u2019s knowledge like never before. Imagine integrating vast amounts of data from various sources\u2014CRMs, Document Stores, and more\u2014into a single, cohesive platform. That\u2019s exactly what AnswerGrid does, providing a \"rich picture\" of operations and knowledge, enhancing decision-making and productivity.\n\n**What Sets AnswerGrid Apart?**\n1. **Robust Data Integration**: With an extensive list of source connectors, AnswerGrid seamlessly integrates data from diverse systems, whether they're on-premise or in the cloud.\n   \n2. **Enterprising Security**: Security is paramount. AnswerGrid ensures that model providers don't train on client data\u2014your data stays yours. They're committed to industry-leading security practices and are in the process of obtaining significant certifications such as SOC 2 and ISO 27001.\n\n3. **Designed Specifically for Consultants**: The platform is not a one-size-fits-all solution. It\u2019s built from the ground up for the unique needs of consultants, making it a vital tool in their arsenal.\n\nWith a small, agile team and leadership that includes David Lieb as Group Partner, AnswerGrid is well-positioned to disrupt the consulting industry. Currently, the team is focused on refining their platform to elevate workflow efficiency and answer critical business use cases.\n\n### Explore More\nCurious about how generative AI can work for your firm? You can book a demo through their website [here](https://answergrid.ai/), and start a conversation about leveraging AI to not just keep up with consulting challenges, but to thrive amidst them.\n\nIn summary, if you're a consultant looking to supercharge access to your firm\u2019s knowledge, AnswerGrid is a company that\u2019s keen to change the game.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ec6b7c03850b00ef79253d8529105876eeac8dc7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191000Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=591a83f8d3ce3819687bb8b18e58da8204b70531fc14a6f6c0c4cd0ba1fbe52c",
+    "social_links": [
+        "https://www.linkedin.com/company/answergrid/",
+        "https://x.com/AnswerGrid"
+    ],
+    "logo_path": "data/logos\\AnswerGrid_logo.png"
+}

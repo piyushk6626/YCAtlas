@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/massdriver",
+    "name": "Massdriver",
+    "headline": "Deploy secure, scalable cloud infrastructure in minutes not days",
+    "batch": "W22",
+    "description": "Massdriver helps engineering and operations teams build secure, production-ready internal developer platforms in minutes.\r\n\nWith over 50+ infrastructure components engineering teams can build golden paths quickly on Kubernetes, serverless, or VMs.\r\n\nGet the flexibility product engineers need, with the auditing and security operations teams\u2019 demand.\r\n\nWe handle all the boring parts of cloud operations like IAM, secrets, continuous deployment, alerting, and monitoring so your team can focus on the product.\r\n\nMassdriver supports anti-lockin, by running in your cloud, and open-sourcing all of our infrastructure components.",
+    "activity_status": "Active",
+    "website": "https://massdriver.cloud",
+    "founded_date": 2021.0,
+    "team_size": 11.0,
+    "location": "Los Angeles, CA",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:devsecops; industry:kubernetes; location:los-angeles",
+    "founders": [
+        {
+            "name": "Cory O'Daniel, Founder",
+            "description": "CEO / Co-founder @ Massdriver. DevTools and platform engineering enthusiast. I've been building teams/startups, developing, and managing cloud operations for over 20 years. Creator of the Bonny, an Elixir-based Kubernetes operator framework. A proponent of Friday deploys.",
+            "linkedin": "https://linkedin.com/in/coryodaniel"
+        },
+        {
+            "name": "Chris Hill, Founder",
+            "description": "Software developer and operations engineer with extensive experience in Kubernetes and cloud-based technologies (AWS and GCP). Passionate about scalable system design - declarative, repeatable infrastructure, automated testing, monitoring and observability.",
+            "linkedin": "https://www.linkedin.com/in/christopher-hill-265282127/"
+        },
+        {
+            "name": "david williams, Founder",
+            "description": "Software engineer with 15 years of cloud experience working for companies like The Real Real, The Bouqs, and Consumertrack. Founder of Collision Ensemble, an arts collective that provided visual artists with interactive elements for sculpture and installations. Co-founder of Deployboard, helping companies set KPIs and track their DevOps journey.",
+            "linkedin": "https://www.linkedin.com/in/david-williams-0bb2a1239"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Meet Massdriver: The Future of Cloud Infrastructure**\n\nFounded in 2021 and proudly part of the Y Combinator Batch W22, **Massdriver** is revolutionizing how engineering and operations teams deploy cloud infrastructure. Located in Los Angeles, CA, this innovative company is composed of a talented team of 11 individuals and is backed by support from notable investors including Aaron Epstein.\n\n**Mission and Vision**\n\nMassdriver\u2019s mission is if not quite magic, pretty close: to enable teams to deploy secure, scalable cloud infrastructures in mere minutes, rather than days. They started by focusing on helping organizations build production-ready internal developer platforms quickly\u2014cutting out the red tape that often bogs down cloud operations.\n\nWith an extensive library of 50+ infrastructure components, teams can easily construct and manage workflows on platforms like Kubernetes, serverless architectures, or traditional VMs. The beauty here is in the flexibility: product engineers get the autonomy they need while adhering to the security and auditing needs of operations teams.\n\n**A Simplified Approach to Cloud Operations**\n\nAt Massdriver, they handle the \"boring\" elements of cloud operations\u2014think Identity Access Management (IAM), secrets management, continuous deployment, alerting, and monitoring\u2014so your teams can zero in on product development. They've embraced anti-lock-in principles by running in the customer\u2019s own cloud and open-sourcing all of their infrastructure components. That\u2019s flexibility you don\u2019t see every day.\n\n**Core Features**\n\nMassdriver isn\u2019t just any tool; it's tailored for modern development and operational challenges. Here\u2019s what they bring to the table:\n\n1. **Production Ready**: Secure, compliant reference architectures make ramping up easier than ever.\n2. **Contextual Metrics**: Infrastructure diagrams come alive as actionable dashboards.\n3. **Developer Self-Service**: Integrations into CI/CD systems allow developers to provision what they need\u2014no more long waits for infrastructure requests.\n4. **Unified Management**: Configuration management that seamlessly combines infrastructure and application oversight.\n5. **Automated IAM**: Adheres to the principle of least privilege by default, fundamentally securing infrastructure setups.\n\n**Real-World Impact**\n\nMassdriver has made substantial contributions to various companies. For instance, AMD Global Telemedicine saw a remarkable **89% reduction** in software release efforts, while GameStake managed to **cut their cloud costs** by 25% using the platform. That's not just efficiency; that\u2019s transformational.\n\n**Community and Collaboration**\n\nMassdriver is not just a tool; it's also a community. They actively engage through webinars, podcasts, and forums, creating an environment where users can learn and grow together.\n\nIf you're looking for a way to simplify your cloud management while simultaneously boosting your team's productivity and security, Massdriver may just be your golden ticket. They promise a shift from permission to prevention, enabling developers to deploy what they need, when they need it\u2014without sacrificing security or compliance. \n\nTo discover more about Massdriver and how they can empower your cloud strategy, check out their site: [massdriver.cloud](https://massdriver.cloud). It seems like the future of cloud infrastructure is already here.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4a604a94db7a21c37037c5375d0e7b20fa83d43d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191525Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bae7c4c923f5a315dd9547829e4b8960ac14c7a253803e3e19b7165ecf775a84",
+    "social_links": [
+        "https://linkedin.com/company/massdriver",
+        "https://twitter.com/massdriver",
+        "https://www.crunchbase.com/organization/massdriver",
+        "https://github.com/massdriver-cloud"
+    ],
+    "logo_path": "data/logos\\Massdriver_logo.png"
+}

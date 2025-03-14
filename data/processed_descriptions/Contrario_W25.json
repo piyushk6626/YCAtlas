@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/contrario",
+    "Name": "Contrario",
+    "Headline": "Building the world\u00e2\u0080\u0099s 1st AI recruiting agency",
+    "Batch": "W25",
+    "Description": "Contrario is the first autonomous recruiting agency powered entirely by Al. We help companies hire top engineers faster by identifying and screening high-quality candidates. Their platform leverages proprietary AI to identify job seekers from an elite talent pool (Stanford, MIT, Palantir, OpenAI, etc.) who match your hiring needs. Their voice agents then conduct customized interviews that evaluate your candidates\u00e2\u0080\u0099 abilities to use AI developer tools in real-world coding challenges. With Contrario, your company only interviews pre-vetted engineers that will 10x your company\u00e2\u0080\u0099s growth.",
+    "Activity_Status": "Active",
+    "Website": "https://contrario.ai",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "https://www.linkedin.com/company/contrario-ai",
+    "Company_Twitter": "",
+    "Tags": "industry:artificial-intelligence; industry:marketplace; industry:recruiting; industry:conversational-ai; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/contrario-ai",
+        "https://x.com/ContrarioAI"
+    ],
+    "logo_path": "data\\logos\\Contrario.png",
+    "Active_Founders": [
+        {
+            "Name": "Arya Marwaha, Founder",
+            "Description": "Founder & CEO at Contrario. Dropped out of Stanford (BS + MS in AI). Previously led product at BCG X and 5+ startups, including a Series A crypto company and early-stage 0\u00e2\u0086\u00921 ventures.",
+            "LinkedIn": "https://www.linkedin.com/in/arya-marwaha/"
+        },
+        {
+            "Name": "Aditya Sood, Founder",
+            "Description": "Founder & CTO at Contrario. Stanford AI student turned dropout. Led NLP at NASA, published AI research in defense tech, researcher at Stanford Artificial Intelligence Laboratory (SAIL) x Anthropic lab.",
+            "LinkedIn": "https://www.linkedin.com/in/adibsood/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Contrario: Your AI-Powered Recruiting Ally**\n\nFounded in 2025 and nestled in San Francisco, Contrario is on a mission to redefine recruitment\u2014becoming the world\u2019s first fully autonomous AI recruiting agency. You\u2019ve probably seen it: hiring in tech can be an overwhelming slog of resumes and mediocrity. Contrario cuts through this clutter, using proprietary AI to efficiently match companies with top-tier engineering talent from elite institutions like Stanford, MIT, and OpenAI.\n\nHere\u2019s how it works. When a company seeks engineers, Contrario\u2019s robust platform steps in. It taps into an exclusive talent pool, identifies high-quality candidates, and then employs specialized voice agents to conduct customized technical interviews. This isn\u2019t just some cookie-cutter assessment; these interviews are tailored to evaluate how well candidates use AI development tools in real-world scenarios. In essence, companies get to interview only the \"A-list\" engineers who can genuinely drive their growth\u2014often referred to as \u201c10x engineers.\u201d\n\nCurrently, the team consists of just two dedicated employees but is backed by Y Combinator\u2019s Batch W25, providing invaluable mentorship and resources. Harj Taggar, a known figure in the startup ecosystem, is serving as their Group Partner, which further strengthens their credibility in the market.\n\nContrario is essentially a matchmaking service\u2014think of it as Tinder, but for tech jobs. Engineers set their preferences, skip the redundant job applications, and get directly matched to exclusive roles at leading companies and innovative startups. The platform accelerates the hiring process by offering quick, AI-driven technical interviews, allowing candidates to showcase their skills in just 10 minutes.\n\nOne of the key advantages for engineers using Contrario is access to exclusive job openings\u2014positions that often aren't advertised publicly. By joining this premium talent network, you gain a fast track to first-round interviews, eliminating the dreaded waiting that so often comes with job hunting.\n\nIn a nutshell, if you\u2019re an engineer looking for the next big opportunity, or a company striving to find that perfect candidate, Contrario seems well-positioned to clear the path ahead.\n\nTo learn more, visit their [website](https://contrario.ai) and find out how they can help revolutionize your hiring or job search experience."
+}

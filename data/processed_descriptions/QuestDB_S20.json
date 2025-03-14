@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/questdb",
+    "name": "QuestDB",
+    "headline": "The fastest open source time series database",
+    "batch": "S20",
+    "description": "QuestDB is a high-performance, open-source database for time series data. It focuses on fast ingest, blazingly fast queries and superior developer experience with SQL and open formats.\r\n\nQuestDB is designed from the ground up to operate as close to the hardware as possible -- eliminating ingestion bottlenecks and lowering overall hardware requirements.\r\n\nQuestDB powers the infrastructure for companies in Financial Services, Crypto/Web3, Space Exploration, and Energy/Renewables.",
+    "activity_status": "Active",
+    "website": "https://questdb.io/",
+    "founded_date": 2019.0,
+    "team_size": 30.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:analytics; industry:open-source; industry:time-series",
+    "founders": [
+        {
+            "name": "Nicolas Hourcard, Founder",
+            "description": "Co-founder/CEO at QuestDB.",
+            "linkedin": "https://www.linkedin.com/in/nicolas-hourcard-cfa-b7349b37/"
+        },
+        {
+            "name": "Vlad Ilyushchenko, Founder",
+            "description": "Founder, CTO, QuestDB\n\n1997 - 2019 Software Engineer, Electronic Trading",
+            "linkedin": "https://www.linkedin.com/in/ilyushchenko/"
+        },
+        {
+            "name": "Tancrede Collard",
+            "description": "Co-founder and head of product at QuestDB. Before that, I was running algorithmic trading desks at banks and cryptocurrency firms.",
+            "linkedin": "https://www.linkedin.com/in/tancrede-collard-35228926/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**QuestDB Overview**\n\nFounded in 2019, QuestDB is an ambitious startup based in London, UK, and a proud member of Y Combinator's Batch S20. Its mission? To be the fastest open-source time series database around. With a compact team of 30, QuestDB is creating waves in various sectors, including financial services, cryptocurrency, space exploration, and renewable energy. \n\nThe heart of QuestDB's innovation lies in its unmatched performance. Designed with a low-level architecture that taps directly into hardware capabilities, it addresses the common bottlenecks that plague traditional databases, resulting in powerful ingestion and querying speeds. Users can expect performance metrics like ingesting 4 million rows per second per node\u2014yes, you read that right.\n\n**Key Features**\n\n1. **Performance-Centric**: QuestDB's architecture means minimal hardware is needed for maximum efficiency. You'll see it thrive on low-spec machines, yet it scales brilliantly with robust setups.\n\n2. **SQL Compatibility**: As developers, it was crucial for QuestDB to ensure compatibility with SQL and PostgreSQL wire protocols. This makes it easy to integrate into existing workflows without a steep learning curve.\n\n3. **Open Source & Community Love**: Being open source, QuestDB invites contributions and interaction from a growing user community. G2 reviews have shown high user satisfaction for its straightforward setup and performance.\n\n4. **Use Cases Across Industries**: Its client base includes high-profile names like Airbus, OKX, and Mizuho, reflecting its application across diverse fields. Companies use QuestDB for real-time data processing, enabling rapid analysis and decision-making.\n\n5. **Innovative Features**: With powerful SQL extensions for time series data, users can execute millisecond queries and benefit from built-in features like deduplication and out-of-order data handling.\n\n**Getting Started**\n\nWhether you're managing market data, processing telemetry from satellites, or analyzing energy consumption, QuestDB positions itself as a robust solution. New users can explore a live demo that showcases its speed and capabilities. You can visit [QuestDB's website](https://questdb.io) for more resources, from documentation to community forums.\n\n**Conclusion**\n\nIn a world where data is king, QuestDB is carving out its niche by focusing specifically on time series data management. With a blend of innovation, performance, and an open approach, it's a compelling option for data-driven companies looking to unlock the full potential of their real-time data.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a7e0aa5f5e4e941b150aa5d57d0830c7373f21bb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191702Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4d716e573b9bd69a3c3e0bf3e05058bc6c2237cda67edda522fd4ec6fc618046",
+    "social_links": [
+        "https://www.linkedin.com/company/27032022/",
+        "https://twitter.com/QuestDb",
+        "https://www.crunchbase.com/organization/quest-db",
+        "https://github.com/questdb"
+    ],
+    "logo_path": "data/logos\\QuestDB_logo.png"
+}

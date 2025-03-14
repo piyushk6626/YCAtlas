@@ -1,0 +1,25 @@
+{
+    "links": "https://www.ycombinator.com/companies/ninite",
+    "name": "Ninite",
+    "headline": "Simple third-party app patching and deployment for Windows.",
+    "batch": "W08",
+    "description": "The BaseShield App Store is a distribution platform for Windows software. Users can download and install applications with one click, and each application runs in its own secure virtual space.\r\n\nIt is an open platform where third party developers can publish their applications. Developers who deploy their apps this way can rely on the built-in installer, update function, security and eventually payment processing.",
+    "activity_status": "Active",
+    "website": "http://ninite.com",
+    "founded_date": null,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:devops; location:san-francisco-bay-area",
+    "founders": [],
+    "status": true,
+    "generated_description": "Ninite is a startup founded as part of Y Combinator's Winter 2008 batch, located in San Francisco. At its core, Ninite simplifies the tedious process of patching and deploying third-party applications on Windows systems. With a small team of just two, it has built a reputation as a trusted solution for users looking to install and update applications seamlessly.\n\nInitially launched as The BaseShield App Store, Ninite's platform allows users to download and install multiple software applications with a single click. The applications operate in a secure, virtualized environment, and the web interface is clean\u2014no toolbars or extra clicks required. Users simply select the apps they want from a curated list, and Ninite handles the rest.\n\nThis efficiency has its roots in automation; Ninite's bots continually check for updates, ensuring that users' software remains up-to-date without the hassle of manual oversight. Each day, the service powers the installation and updates of about a million apps for both home users and Ninite Pro subscribers, underscoring its widespread adoption.\n\nOn the developer side, Ninite serves as an open platform allowing third-party developers to publish their applications. This includes leveraging Ninite's built-in installation procedures, update functions, and security measures, making it an attractive option for those looking to reach a wider audience without grappling with the complexities of software distribution.\n\nFor organizations with multiple machines to manage, Ninite Pro offers additional features for managing software deployment from a centralized web interface. Thousands of organizations use Ninite Pro to maintain and secure their software efficiently, reinforcing its value as more than just a utility for individual users.\n\nIn sum, Ninite captures a simple yet powerful idea: a streamlined experience for software installation and maintenance that saves users time and effort. If you're running Windows and frequently find yourself installing software, Ninite is a tool worth checking out. Their website is [ninite.com](http://ninite.com), where everything operates ad-free and with minimal fuss.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/677bb0522445e02d996623def140d54cd19b5db1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191601Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=15e0051dd37e657ed4fd0bf123bd09aece4e3d6392b3f8ce5ba483630f48c352",
+    "social_links": [
+        "https://www.crunchbase.com/organization/ninite"
+    ],
+    "logo_path": "data/logos\\Ninite_logo.png"
+}

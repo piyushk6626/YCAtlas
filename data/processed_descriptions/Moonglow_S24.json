@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/moonglow",
+    "name": "Moonglow",
+    "headline": "No-code platform for building browser agents",
+    "batch": "S24",
+    "description": "Moonglow is a fully-managed platform for building browser agents. Users record their workflow once, and then our platform builds, deploys and scales browser agents that automate their repetitive workflows.\r\n\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\nhttps://moonglow.ai",
+    "activity_status": "Active",
+    "website": "https://moonglow.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:machine-learning; industry:robotic-process-automation; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Leila Clark, Co-Founder",
+            "description": "I'm currently building Moonglow, which lets you build browser agents without writing a line of code. Before this, I was a software engineer at Jane Street, where I led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. I graduated from Princeton with highest honors in Computer Science.",
+            "linkedin": "https://linkedin.com/in/leila-clark-898548131"
+        },
+        {
+            "name": "Trevor Chow, Co-Founder",
+            "description": "Co-founder of Moonglow. Prev: ML @ Stanford (Hazy Research Lab), index volatility trading @ Optiver",
+            "linkedin": "https://www.linkedin.com/in/tmychow/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Moonglow: Streamlining Automation with No-Code Browser Agents\n\n**Overview**  \nFounded in 2024 and hailing from Y Combinator's Batch S24, Moonglow is shaking things up in the automation space with its no-code platform designed for building browser agents. Their mission? To empower users to automate repetitive web workflows effortlessly. Based in San Francisco, this lean operation is spearheaded by two experienced founders, Leila and Trevor.\n\n**Founders\u2019 Backgrounds**  \n- **Leila**: With a robust background as a software engineer at Jane Street, Leila has extensive experience in equities clearinghouse connectivity and was a key player in the front-office SRE team.  \n- **Trevor**: Previously associated with the Hazy Research Lab at Stanford, Trevor is well-versed in machine learning, having contributed to notable conferences like NeurIPS, ICLR, and ACL.\n\n**What They Do**  \nMoonglow allows users to submit their workflows\u2014be it a video or document\u2014and the platform takes care of the rest. They convert these into automated processes, referred to as browser agents, which can be easily integrated into various applications. This offering is aimed at sectors like healthcare, finance, HR, legal, manufacturing, and insurance, helping businesses streamline their daily tasks without diving into complex coding.\n\n**Use Cases**  \n- **Healthcare**: Automating EMR record updates and patient follow-ups.  \n- **Finance**: Streamlining banking transactions and risk assessments.  \n- **Human Resources**: Optimizing recruitment and onboarding processes.  \n- **Legal**: Simplifying document management and case research.  \n- **Manufacturing**: Enhancing supply chain and production tracking.  \n- **Insurance**: Automating policy management and claims processing.\n\n**How It Works**  \n1. **Send Your Workflow**: Users submit their task details in a video or document format.  \n2. **Agent Construction**: Moonglow\u2019s platform builds the necessary agents in record time\u2014often within minutes for simpler workflows.  \n3. **Execution**: Users can trigger these agents via API, Slack, or on a fixed schedule, allowing for 24/7 web-based operations.\n\n**Why It Matters**  \nScaling operations without increasing headcount is a common challenge for businesses. Moonglow presents a cost-effective and efficient solution, allowing teams to deploy AI-driven agents and free up human resources for more strategic tasks.\n\n**Team & Support**  \nWith Gustaf Alstromer as a Group Partner, Moonglow benefits from experienced mentorship in the startup ecosystem. The lean team of two is ready to assist interested users through demos, further enhancing engagement with potential clients.\n\n**Conclusion**  \nIn a world where time is money, Moonglow offers a compelling solution for businesses looking to harness the power of automation without the complexity of traditional coding. By blending machine learning with user-friendly interfaces, they are setting a precedent for how modern workflows are managed.\n\n**Discover More**: Curious about how Moonglow can transform your processes? [Book a demo](https://moonglow.ai/<https:/calendly.com/leilavc/moonglow>) today!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/32bf00d44f15130563ee93be342db199b82cd5d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191547Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f8de786e662b6d18dce94ca1061966477006d2aa6d24dbbeaf08fa8594db5327",
+    "social_links": [
+        "https://www.linkedin.com/company/moonglow-ai",
+        "https://x.com/moonglow_ai"
+    ],
+    "logo_path": "data/logos\\Moonglow_logo.png"
+}

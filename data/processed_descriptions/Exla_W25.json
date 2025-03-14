@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/exla",
+    "Name": "Exla",
+    "Headline": "Bring data center models to the edge",
+    "Batch": "W25",
+    "Description": "Exla aggressively quantizes AI models to minimize memory usage and maximize inference speed. Whether you're deploying LLMs, VLMs, VLAs, or custom models, Exla reduces memory footprint by up to 80% and accelerates inference by 3\u201320x - all with just a few lines of code.",
+    "Activity_Status": "Active",
+    "Website": "https://exla.ai/",
+    "Founded_Date": "2025",
+    "Team_Size": "",
+    "Location": "",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/brad-flora",
+    "Group_Partner": "Brad Flora",
+    "Company_Linkedin": "https://www.linkedin.com/company/exla-corp",
+    "Company_Twitter": "",
+    "Tags": "industry:edge-computing-semiconductors; industry:computer-vision; industry:ai",
+    "social_links": [
+        "https://www.linkedin.com/company/exla-corp",
+        "https://x.com/exla_ai"
+    ],
+    "logo_path": "data\\logos\\Exla.png",
+    "Active_Founders": [
+        {
+            "Name": "Viraat Das, Founder",
+            "Description": "CEO @ Exla. Previously machine learning engineer @ Amazon.",
+            "LinkedIn": "https://linkedin.com/in/viraatdas"
+        },
+        {
+            "Name": "Pranav Nair, Co-Founder",
+            "Description": "CTO at Exla. Previously OS Kernel Engineer at Apple, ensuring over a billion Apple devices can sleep/hibernate as the lead of kernel power management.\n\nB.S. Computer Science from Purdue.",
+            "LinkedIn": "https://www.linkedin.com/in/pranavnair311/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Exla: Bringing Data Center Models to the Edge**\n\nFounded in 2025 and now a proud member of Y Combinator\u2019s Batch W25, Exla is on a mission to revolutionize AI model deployment. Their focus is simple yet ambitious: to bring the power of data center models directly to the edge.\n\nWhat does that mean? For one, Exla aggressively quantizes AI models to drastically reduce memory usage while boosting inference speed. If you're dealing with large language models (LLMs), vision models (VLMs), and various other custom models, Exla can cut your model size by up to 80% and speed up inference by an impressive 3 to 20 times, all with just a few straightforward lines of code.\n\n### Key Features and Capabilities:\n- **Superior Performance**: Exla optimizes your models for a variety of hardware, ensuring they run efficiently whether on NVIDIA Jetson, Raspberry Pi, or even high-end CPUs like Apple\u2019s M3 Max. \n- **Significant Speed Gains**: For instance, on an NVIDIA Jetson, you can expect about 160 tokens per second\u2014four times faster than standard performance. Similarly, on more robust hardware like the NVIDIA H100, that leaps to an astonishing 27,000 tokens per second.\n- **Ease of Use**: Getting started with Exla is refreshingly simple. With a quick import statement and a few optimization commands, you can tap into powerful model performance without the overwhelming complexity.\n\n### Custom Solutions\nExla isn\u2019t just a one-size-fits-all solution. Their team is ready to collaborate on custom projects tailored to meet specific requirements, whether it\u2019s for specialized models or unique hardware setups.\n\nWith an enthusiastic team behind them and strong backing from Y Combinator, Exla stands at the forefront of edge computing in the AI space, driving efficiency and innovation where it matters most.\n\nFor more information or to explore custom solutions, visit [Exla's website](https://exla.ai/) or reach out directly via email at contact@exla.ai.\n\n---\n\n**Tags**: #EdgeComputing #ComputerVision #AI \n\n**Location**: Headquarters undisclosed, but the impact is being felt worldwide! \n\n**Team**: Under the guidance of Group Partner Brad Flora, the Exla team is eager to push the boundaries of what's possible in AI model optimization. \n\nIn short, if you're looking to leverage cutting-edge AI without the bulk, Exla is your go-to solution."
+}

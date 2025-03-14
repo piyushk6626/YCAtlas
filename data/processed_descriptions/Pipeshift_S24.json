@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/pipeshift",
+    "name": "Pipeshift",
+    "headline": "Modular Orchestration Platform for Open Source AI",
+    "batch": "S24",
+    "description": "Pipeshift is a modular orchestration platform for building with open-source AI components \u2014 embeddings, vector databases, LLMs, vision models and audio models \u2014 across any cloud or on-prem. Enterprises get to deploy their AI workloads in production faster and more reliably. Additionally, as we see more model and hardware architectures coming in the market, Pipeshift future-proofs the infrastructure investments by offering flexibility through their modular MLOps stack that allows enterprises to bring down their GPU infrastructure costs without any additional engineering efforts on their end.",
+    "activity_status": "Active",
+    "website": "https://pipeshift.com",
+    "founded_date": 2024.0,
+    "team_size": 10.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:artificial-intelligence; industry:generative-ai; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Arko C, Founder",
+            "description": "CEO @ Pipeshift.\nHelping developers fine-tune, distill and deploy open-source LLMs 10x faster.",
+            "linkedin": "https://linkedin.com/in/arkoc"
+        },
+        {
+            "name": "Enrique Ferrao, Founder",
+            "description": "CTO @ Pipeshift. Focused on squeezing out max LLM performance from GPUs",
+            "linkedin": "https://linkedin.com/in/enrique-ferrao"
+        },
+        {
+            "name": "Pranav Reddy, Founder",
+            "description": "CIO @ Pipeshift. Making LLMs go brrrr at Pipeshift",
+            "linkedin": "https://linkedin.com/in/pranavreddyg"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Pipeshift Summary**\n\nEstablished in 2024 and based in San Francisco, Pipeshift is a trailblazer in the realm of artificial intelligence, offering a modular orchestration platform designed for interacting with open-source AI components like embeddings, vector databases, language models (LLMs), and more. Its mission? To streamline and enhance the deployment of AI workloads across various infrastructures, whether in the cloud or on-premises.\n\nWhat's particularly compelling about Pipeshift is its capacity to future-proof infrastructure investments. With the rapid evolution of AI models and hardware, it provides enterprises with a flexible MLOps stack that can significantly reduce GPU infrastructure costs, all while allowing teams to maintain control with minimal engineering overhead. This is a game-changer for businesses looking to deploy AI reliably and quickly.\n\nRight off the bat, Pipeshift distinguishes itself from traditional API providers by catering specifically to the needs of DevOps and MLOps teams that require secure, in-house production pipelines rather than experimentation. Their platform is designed to facilitate everything from model fine-tuning to K8s cluster management, thereby providing a comprehensive end-to-end orchestration solution.\n\nPipeshift has made strides to ensure their system maintains high security and is entirely cloud-agnostic. Their enterprise-grade features empower users to monitor, manage, and optimize AI models effectively, allowing for high efficiency and an integrated view across all AI operations.\n\nThe company comprises a nimble team of 10 and is backed by prominent investors, including Y Combinator, which speaks volumes about its potential in the booming AI sector. Under the leadership of Dalton Caldwell, Pipeshift is geared up for rapid growth within the San Francisco Bay Area.\n\nIn a nutshell, if you\u2019re a business ready to take your AI applications from the drawing board to production, Pipeshift is poised to help you do just that\u2014efficiently and securely. For more information, you can visit [Pipeshift\u2019s website](https://pipeshift.com). \n\n**Key Takeaways:**\n- **Founded:** 2024\n- **Location:** San Francisco\n- **Team Size:** 10 employees\n- **Mission:** Modular orchestration platform for open-source AI deployment.\n- **Investment:** Y Combinator Batch S24\n- **Key Features:** Flexible MLOps stack, end-to-end orchestration, enterprise-grade security.\n- **Website:** [pipeshift.com](https://pipeshift.com) \n\nIf you\u2019re looking to innovate in AI with cost efficiency and a robust framework, now might just be the right time to explore what Pipeshift has to offer.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/583f417e96af4c00e5a99d880c78c37b163d91ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191642Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f8f717e693782aec517bb3857615d42101e0bc09817aeec6908c17a89c92bb22",
+    "social_links": [
+        "https://linkedin.com/company/pipeshift",
+        "https://x.com/pipeshiftai",
+        "https://www.crunchbase.com/organization/pipeshift"
+    ],
+    "logo_path": "data/logos\\Pipeshift_logo.png"
+}

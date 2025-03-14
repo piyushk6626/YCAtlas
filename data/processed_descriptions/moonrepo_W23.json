@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/moonrepo",
+    "name": "moonrepo",
+    "headline": "Open source build tool for monorepos and large codebases",
+    "batch": "W23",
+    "description": "moonrepo is a developer tool that reduces build/test/deploy times, and maintenance costs for companies. We\u2019ve achieved this through moon, our open source build system and repository management tool. moon can be paired with moonbase, our paid service that provides cloud caching, CI insights, code ownership, and health score related metrics. The company is founded by Miles Johnson and James Pozdena who have a combined 25+ years in the software development industry with tenure at Airbnb and Coinbase.",
+    "activity_status": "Active",
+    "website": "https://moonrepo.dev",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "Portland, OR",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:productivity; industry:open-source; industry:enterprise",
+    "founders": [
+        {
+            "name": "Miles Johnson, Founder",
+            "description": "I'm very passionate about developer tooling and the developer experience.\n\nWith 15 years of industry experience under my belt working across the entire web stack, I enjoy testing my skills and knowledge against complex problems, but what I really love is supporting my fellow peers by building solutions to improve their developer experience and productivity.",
+            "linkedin": "https://www.linkedin.com/in/mileswjohnson/"
+        },
+        {
+            "name": "James Pozdena, Founder",
+            "description": "Technical co-founder from Portland, OR",
+            "linkedin": "https://www.linkedin.com/in/jpozdena"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Moonrepo: Simplifying Developer Workflows**\n\nFounded in 2022 by Miles Johnson and James Pozdena, both veterans from Airbnb and Coinbase, Moonrepo has emerged as a promising player in the developer tools landscape. Based in Portland, Oregon, and a part of Y Combinator's Batch W23, the company is on a mission to improve how teams manage large codebases through innovative tooling.\n\nAt the heart of Moonrepo lies its flagship product, **Moon**, an open-source build system designed specifically for monorepos and complex codebases. The goal? To slash build, test, and deployment times, making life easier for developers and reducing maintenance costs for organizations. Moon achieves this through smart caching and robust task orchestration, ensuring that tasks aren\u2019t run needlessly, thereby conserving developer bandwidth.\n\nIn addition to Moon, there's also **Moonbase**, a premium service that enhances the functionality of the core tool. It offers features like cloud caching, CI insights, and health scoring, giving teams a comprehensive view of their codebase health and efficiency.\n\nAnother standout feature is **Proto**, a modern multi-language version manager that helps developers automate the management of programming languages and their respective dependencies across projects. This eliminates the headaches of version conflicts and allows for smoother collaboration within teams.\n\nMoonrepo's offerings cater to a diverse array of teams\u2014whether you're dealing with multiple projects, languages, or constantly changing environments, Moonrepo provides the necessary tools to streamline workflows. \n\nWith only a small team of two, Moonrepo operates efficiently, seeking to amplify productivity within the developer community. Additionally, Nicolas Dessaigne serves as their Group Partner, further establishing their credibility in the startup ecosystem.\n\nIn a world where development speed and efficiency are paramount, Moonrepo is positioning itself as a valuable asset for software teams looking to optimize their processes and improve project outcomes. \n\nFor more details about their tools and services, you can visit their website at [moonrepo.dev](https://moonrepo.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c4a3243ee60adeefcb86b48b2e5780cb02aab3d5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191547Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7d4ed37e607e4b2feec5bd9fccf9ad49d25cfb1fea7c504261492b5ec6860e21",
+    "social_links": [
+        "https://www.linkedin.com/company/moonrepo/",
+        "https://twitter.com/tothemoonrepo",
+        "https://github.com/moonrepo"
+    ],
+    "logo_path": "data/logos\\moonrepo_logo.png"
+}

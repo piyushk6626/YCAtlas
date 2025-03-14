@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/contour",
+    "name": "Contour",
+    "headline": "Stealth",
+    "batch": "S23",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:b2b; industry:workflow-automation; industry:enterprise-software; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Arvind Subramanian, Founder",
+            "description": "Co-founder/CEO @ Contour",
+            "linkedin": "https://linkedin.com/in/arvind-subramanian"
+        },
+        {
+            "name": "Vamsi Saladi, Founder",
+            "description": "I'm a Software Engineer and Data Scientist, am the cofounder of a new startup. I graduated from Stanford University in June 2021 with a BS in Computer Science, and in June 2022 with an MS in Computer Science - Machine Learning and Artificial Intelligence. My research focused primarily on computer vision and natural language processing, and applying new technologies in both fields to solve practical problems.",
+            "linkedin": "https://linkedin.com/in/vamsisaladi99"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Contour: A Brief Overview**\n\nFounded in 2023, Contour is a fresh player in the tech scene, emerging from the dynamic Y Combinator Batch S23. Based in San Francisco, this agile startup operates with a lean team of just two employees, allowing them to stay nimble and focused.\n\nContour is all about \"Stealth\"\u2014a mission that suggests they're working on something groundbreaking behind the scenes. While details on their current activities are sparse, the company is positioned in the vibrant intersection of generative AI and workflow automation. Their area of expertise caters primarily to B2B (business-to-business) scenarios, making them a potential game-changer in enterprise software solutions.\n\nJared Friedman leads the charge as the Group Partner, bringing experience and mentorship from Y Combinator, which often nurtures some of Silicon Valley's most innovative startups.\n\nWith tags like 'generative-ai', 'b2b', and 'enterprise-software', Contour is set up for exciting growth in an industry ripe with opportunity. Keep an eye on them\u2014their stealth mode could mean they're developing something worth talking about soon!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7702310185bea44a487e722d7d253b71fcc1e23a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191102Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=49eeee6ff149b99d42d32c99e61f1a6bdb825a0b600132a7fb7b8f4b51d06813",
+    "social_links": [
+        "https://www.linkedin.com/company/contourai/"
+    ],
+    "logo_path": "data/logos\\Contour_logo.png"
+}

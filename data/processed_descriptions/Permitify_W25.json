@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/permitify",
+    "name": "Permitify",
+    "headline": "AI co-pilot for building plan review and building code compliance",
+    "batch": "W25",
+    "description": "City building departments are understaffed and overworked. Meanwhile, builders lobby to remove power from building departments. Because building departments are usually the only profitable/self-sustaining branch of a local government, this is problematic. Permitify allows city build-plan reviewers to 10x their productivity covering the labor shortage, reducing the time required to issue a building permit, and allowing the city government's only profitable branch to stay intact.",
+    "activity_status": "Active",
+    "website": "https://permitify.co/",
+    "founded_date": 2025.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:computer-vision",
+    "founders": [
+        {
+            "name": "Adam Chandler, Founder",
+            "description": "Adam is the co-founder and CEO of Permitify. \n\nBefore founding Permitify, I built and scaled a permit-expediting company with my co-founder, Alexander. Within the first month, we scaled from $0 to $40k ARR, serving clients across six states. While working to scale the business, we encountered the problems that we now solve with Permitify.",
+            "linkedin": "https://www.linkedin.com/in/adam-chandler99/"
+        },
+        {
+            "name": "Alexander Densley, Founder",
+            "description": "Founder and CTO of Permitify.\n\nI was introduced to the residential construction space through my family. My father, brother, and uncle all work in residential construction as either full-time contractors or developers.\n\nWhile in school for CS, I built custom construction software for builders in utah. After this Adam and I started a permit expediting company. We worked with builders across 6 states, growing to over 40K in ARR. This business led us to discover the need for Permitify.",
+            "linkedin": "https://www.linkedin.com/in/alexander-densley/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Permitify Overview**\n\n**Company Name**: Permitify  \n**Founded**: 2025  \n**Location**: San Francisco, CA  \n**Team Size**: 2 employees  \n**Y Combinator Batch**: W25  \n**Website**: [permitify.co](https://permitify.co)\n\n---\n\n**Mission:**  \nPermitify is on a mission to serve as the AI co-pilot for building plan review and compliance with building codes. As city building departments are increasingly understaffed and burdened with workloads, Permitify steps in to bolster their capabilities, enhancing productivity and streamlining the permit issuance process.\n\n---\n\n**The Problem:**  \nBuilding departments are essential for local governance and typically the only self-sustaining branch, generating revenue through permits. However, they're often overworked, while builders sometimes push to diminish the power and resources of these departments. Permitify addresses this gap by supercharging the productivity of building plan reviewers\u2014potentially increasing efficiency by 10x, thereby ensuring that these crucial departments can continue to operate effectively.\n\n---\n\n**Product Highlights:**  \n- **AI-Powered Plan Review**: Permitify employs generative AI and machine learning to facilitate fast, accurate plan reviews.\n- **Collaboration Tools**: Instant revisions and reviews allow for more seamless cooperation with other departments.\n- **Code-Backed Recommendations**: Suggestions based on building code violations help users maintain compliance.\n- **Privacy and Compliance**: Honor data privacy with ongoing efforts toward SOC 2 compliance.\n\n---\n\n**Target Users:**\nPermitify is designed for city building departments, helping them solve their most pressing issues:\n- Speedier permit approvals\n- Enhanced organization and reduced manual work\n- 24/7 support ensuring operational continuity\n\n---\n\n**Pricing Structure:**  \nPermitify offers free beta access to early adopters, divided into tiers for small, medium, and large teams. Each tier is equipped with AI assistance, an early access program, and round-the-clock customer support:\n\n1. **Town**: For small teams (1-5 members, 1-500 permits/year)\n2. **City**: For mid-sized teams (6-40 members, 501-1500 permits/year)\n3. **Metro**: For large teams (40+ members, 1500+ permits/year)\n\n---\n\n**Team Leaders:**\n- **Adam Chandler**: Founder & CEO, [LinkedIn](https://permitify.co/<https:/www.linkedin.com/in/adam-chandler99/>)\n- **Alexander Densley**: Founder & CTO, [LinkedIn](https://permitify.co/<https:/www.linkedin.com/in/alexander-densley/>)\n\n---\n\n**Conclusion:**  \nPermitify is positioned to innovate how building departments manage their workflows in an increasingly complex environment. By integrating AI into the permit review process, it aims not just to help departments keep pace but to thrive. If you're looking to join the beta or have any questions, reach out to them at founders@permitify.co or explore their [Slack channel](https://permitify.co/<https:/permitify.slack.com/archives/C089LFAF92M>) to connect with a community of like-minded professionals.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ea395da4e01f4337893dc8c68146dd1e99af71f1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191631Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8a6f5794a210af0c3ca1c0a07e6ee874c9565437de656840b7aeea6e764975cf",
+    "social_links": [
+        "https://www.linkedin.com/company/permitifyco"
+    ],
+    "logo_path": "data/logos\\Permitify_logo.png"
+}

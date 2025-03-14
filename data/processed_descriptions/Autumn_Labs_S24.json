@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/autumn-labs",
+    "name": "Autumn Labs",
+    "headline": "Datadog for industrial robots",
+    "batch": "S24",
+    "description": "Autumn Labs delivers a developer-friendly platform for monitoring and managing modern manufacturing lines. Seamlessly integrating with robotic stations\u2014automated test stations, robotic assembly cells, and industrial arms\u2014it ensures full traceability, live data monitoring, and secure data transport. We prioritize streamlining factory operations, boosting production quality, and preventing supply chain disruptions, all while offering an effortless onboarding experience for engineers and manufacturers.",
+    "activity_status": "Active",
+    "website": "https://www.autumnlabs.io/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hardware; industry:robotic-process-automation; industry:saas; industry:robotics; industry:manufacturing; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Prathik Muppidi, Founder",
+            "description": "University of Waterloo Mechatronics Engineering, ex-Google Engineer",
+            "linkedin": "https://linkedin.com/in/prathikmuppidi"
+        },
+        {
+            "name": "Harsh Bhatt, Founder",
+            "description": "Ex. Apple | Mechatronics Engineering @ University of Waterloo | Forever curious",
+            "linkedin": "https://linkedin.com/in/harshmbhatt"
+        },
+        {
+            "name": "Sam Monga, Founder",
+            "description": "Hardware software engineer",
+            "linkedin": "https://linkedin.com/in/sammonga"
+        }
+    ],
+    "status": true,
+    "generated_description": "Autumn Labs is a promising startup that launched in 2023, and it's already making waves in the industrial sector. Their mission is straightforward yet ambitious: to be the Datadog for industrial robots. Nestled in San Francisco, Autumn Labs offers a developer-friendly platform focused on monitoring and managing modern manufacturing lines, particularly robotic stations, automated test stations, and industrial arms.\n\nThe platform emphasizes seamless integration, enabling real-time data monitoring, full traceability, and secure data transport, all designed to enhance factory operations, improve production quality, and mitigate supply chain disruptions. What's compelling here is their commitment to simplifying the onboarding process for engineers and manufacturers\u2014essentially, they want to make it easier for factories to adopt advanced technology without long, cumbersome delays.\n\nWith a small team of just three employees and backed by Y Combinator (Batch S24), Autumn Labs is positioned to leverage its intimate size to nimbly address customer needs. Their group partner, Harj Taggar, brings valuable experience to the mix.\n\nTheir tech stack spans several areas, including hardware, robotic process automation, and SaaS, with a focus on robotics and manufacturing. This multi-faceted approach allows them to cater to various factory setups, providing a unified platform that can monitor and resolve numerous manufacturing issues.\n\nIn practical terms, the platform offers features like real-time monitoring, alerts for machinery state changes, and comprehensive metrics to assess factory performance. Users can track yield rates and identify potential downtimes, effectively troubleshooting problems faster than traditional solutions would allow. This capability is crucial for modern factories aiming to maintain competitiveness in an increasingly fast-paced market.\n\nOverall, Autumn Labs stands out for its innovative approach to integrating technology into manufacturing operations, showcasing how even small teams can significantly impact a traditionally slow-moving industry. For more information, you can visit their website [here](https://www.autumnlabs.io/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c15bc2d4ce1c6514b4df6f7c64b012374bdbe083.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191013Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=362a24bf06457dce5c0d45eab3c7b4a36386be9c9c4cb41197ec99c67cb1e89f",
+    "social_links": [],
+    "logo_path": "data/logos\\Autumn_Labs_logo.png"
+}

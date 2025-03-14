@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/authologic",
+    "name": "Authologic",
+    "headline": "Stripe for online identity verification",
+    "batch": "W21",
+    "description": "Authologic is an orchestration and aggregation layer for local KYC & AML methods. We allow businesses to check the identity of their clients online using video/biometrics, banking data, and government issued digital IDs. Our API  allows a flexible definition of verification scenarios based on the risk profile of the client or risk involved in the given process.",
+    "activity_status": "Active",
+    "website": "https://authologic.com",
+    "founded_date": 2020.0,
+    "team_size": 25.0,
+    "location": null,
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Jarek Sygitowicz, Founder",
+            "description": "Previously co-founder of ZenCard, acquired by the largest bank in Central Eastern Europe.\nCurrently co-founder of Authologic responsible for client relations, design, and UX.",
+            "linkedin": "https://www.linkedin.com/in/sygitowicz/"
+        },
+        {
+            "name": "Krzysztof Klimczak, Founder",
+            "description": "2020-now - Co-founder and CEO of Authologic - the stripe for online identity verification.\n2013-2020 - Co-founder and CEO of ZenCard - Polish deep fin-tech startup that was sold in 2017 to the biggest Polish bank.\n2006-2013 - COO, Board Member, of the Toyota Financial Services in Poland. Responsible for IT & Operation including AML.\n1995-2006 - IT Specialist, Head of IT Exploitation, Deputy CIO at Societe Generale in Poland. Member of the world wide skill team of Societe Generale.",
+            "linkedin": "https://www.linkedin.com/in/krzysztofklimczak/"
+        },
+        {
+            "name": "Marek Rogozi\u0144ski, Founder",
+            "description": "Co-founder and CTO of Authologic - Stripe for online identity verification.\nPreviously co-founder of ZenCard, whitch lets you use your regular payment card as  loyalty program identifier.",
+            "linkedin": "https://www.linkedin.com/in/marek-rogozinski/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Authologic: Pioneering Online Identity Verification**\n\nAuthologic, founded in 2020 and part of Y Combinator\u2019s W21 batch, is on a mission to bring the ease of Stripe to online identity verification. Think of them as the orchestration layer for Know Your Customer (KYC) and Anti-Money Laundering (AML) processes. They provide businesses with the tools to verify identities through a versatile API that incorporates video/bio-metric verification, banking data, and government-issued digital IDs, all tailored to the specific risk profile of their clients.\n\nTheir approach is crucial in today's landscape where authenticity is paramount. With a team of 25, the company operates out of multiple locations, including San Francisco and Warsaw. By integrating government-issued digital identities and identity wallets into existing KYC processes, Authologic aims to eliminate manual checks, thus boosting efficiency and security.\n\nThe process is straightforward: businesses can customize their onboarding procedures without needing extensive IT support, utilizing Authologic\u2019s modular architecture. For developers, integrating Authologic's services is fast and user-friendly. In fact, they offer a universal admin panel that allows businesses to verify IDs without any integration, catering to those with lower volumes or limited IT resources.\n\nAs e-ID adoption rises, especially within the EU, Authologic is positioned to help companies navigate this evolving landscape. Their API supports a full spectrum of verification scenarios, ensuring that both digital IDs and traditional document checks are seamlessly managed.\n\nIn 2023, Authologic emphasizes its commitment to security with certifications like ISO 27001 and ISO 9001, ensuring compliance with regulations like GDPR. With a focus on driving adoption of digital identity solutions, they offer live demos and prioritize transparency in their business interactions.\n\nIn short, Authologic is transforming KYC processes for the digital age, allowing businesses to say goodbye to outdated verification methods and embrace a streamlined, automated future. Interested parties can learn more or request a demo on their [website](https://authologic.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ce8bc5ab31224679de8d83f8118dbad704baf73c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191012Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bdcb83d98f1711732ee681a9f71e24001005c55cf488c209bce5695dc7f9fabb",
+    "social_links": [
+        "https://www.linkedin.com/company/authologic"
+    ],
+    "logo_path": "data/logos\\Authologic_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/artie",
+    "name": "Artie",
+    "headline": "Software that streams data from databases to warehouses in real-time",
+    "batch": "S23",
+    "description": "Artie is software that streams data from databases to data warehouses in real-time. Today, most companies run their ETL process every few hours or overnight, so their data warehouse is always out of date; with Artie, the warehouse always has live production data.",
+    "activity_status": "Active",
+    "website": "https://www.artie.com/",
+    "founded_date": 2023.0,
+    "team_size": 7.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:open-source; industry:data-engineering; industry:enterprise-software; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jacqueline Cheong, Founder",
+            "description": "Co-founder and CEO at Artie. Building a real-time database replication platform. Previously a software investor at Balyasny and responsible for a ~$300M software book.",
+            "linkedin": "https://www.linkedin.com/in/jacqueline-cheong/"
+        },
+        {
+            "name": "Robin Tang, Founder",
+            "description": "CTO @ Artie. Software engineer with a background in distributed systems and designing for high throughput and low latency. Currently working on providing real-time data replication by leveraging data streams and CDC.",
+            "linkedin": "https://www.linkedin.com/in/tang8330/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Artie: Your Real-Time Data Solution**\n\nFounded in 2023 as part of Y Combinator's Batch S23, Artie is a San Francisco-based startup that's redefining how data is handled. Its mission? To stream data from databases to data warehouses in real-time, ensuring that businesses always have access to live production data rather than outdated snapshots that come from traditional ETL processes, which typically run every few hours or overnight.\n\n### The Problem with Traditional ETL\n\nMany organizations still rely on these legacy ETL processes, but Artie aims to change that. By using Artie, companies can eliminate the lag between data collection and accessibility, allowing for a much more agile response to changing business needs.\n\n### How It Works\n\nArtie's service offers a fully managed Change Data Capture (CDC) system that ensures your data flows smoothly and accurately from one point to another. Here are the key functionalities:\n\n1. **Connect**: Easily integrate with various databases like PostgreSQL, MySQL, and more.\n2. **Configure**: Utilize a user-friendly dashboard to select tables and enable features like \"History Mode\" for auditing historical data.\n3. **Deploy**: Seamlessly direct data to various destinations including Snowflake and BigQuery.\n4. **Monitor**: Keep track of pipeline performance in real time and receive alerts for any anomalies.\n\nInstead of housing your data, Artie reads directly from your database\u2019s replication log, which means enhanced security and compliance with various regulations.\n\n### The Team and Vision\n\nWith a small but dedicated team of seven, guided by Group Partner Jared Friedman, Artie embodies the nimbleness needed in today's fast-paced tech environment. The company has strategically positioned itself within the developer tools and data engineering sectors, taking a strong stance on open-source principles.\n\n### Why Choose Artie?\n\n- **Reduced Latency**: Artie claims to offer 98% or greater reductions in data latency, enabling decision-making at the speed of business.\n- **Cost and Resource Efficiency**: Utilizing Artie can lead to a significant decrease in maintenance overhead, freeing your engineering team to focus on product development rather than plumbing.\n- **Robust Customer Support**: Artie is already being linked to real success stories at companies like Tatango and Routable, where teams report substantial improvements after implementing Artie.\n\nIn short, if you're using outdated ETL processes and looking to make a leap into real-time data management, Artie is a fresh option that may be worth exploring. For more information, visit [Artie's website](https://www.artie.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/30bc7f7816db2ccedf3a637aeed9cc0bbdd93b35.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191005Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=83883df5df174c7e2fa4be747dc8957b2079d71f69842f8134790892ebecae98",
+    "social_links": [
+        "https://www.linkedin.com/company/artie-technologies/",
+        "https://twitter.com/artie_tech",
+        "https://www.crunchbase.com/organization/artie-a438",
+        "https://github.com/artie-labs/transfer"
+    ],
+    "logo_path": "data/logos\\Artie_logo.png"
+}

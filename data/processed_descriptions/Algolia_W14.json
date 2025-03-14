@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/algolia",
+    "name": "Algolia",
+    "headline": "A developer-friendly and enterprise-grade search API.",
+    "batch": "W14",
+    "description": "Our mission is to make every search interaction meaningful & rewarding, through developer-friendly and enterprise-grade APIs.\r\n\nAlgolia is the leading Search & Discovery API for websites and mobile apps. We help the most innovative companies across e-commerce, media and SaaS industries create powerful, relevant and scalable discovery experiences for their users. Unlike other solutions, our hosted platform reduces the complexities of building and scaling a fast, relevant digital experience and helps teams accelerate development time. More than 9,000 companies like Under Armour, Twitch, Periscope, Medium and Stripe rely on Algolia to manage 50+ billion search queries a month.\r\n\nFounded in 2012, we're backed by $184M in funding from Accel Partners, Alven Capital, Point Nine Capital and Storm Ventures. The team is headquartered in San Francisco with offices in Paris, London, New York, and Atlanta. To learn more, visit www.algolia.com.\r\n\n---\r\nWe\u2019re looking for talented, passionate people to build the world\u2019s best search technology. As an ownership-driven company, we seek team members who thrive under autonomy and diversity. \r\n\nWe're committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background",
+    "activity_status": "Active",
+    "website": "http://www.algolia.com",
+    "founded_date": 2012.0,
+    "team_size": 810.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nicolas Dessaigne, Founder/Board Member",
+            "description": "Nicolas is currently a general partner at YC. He is also the co-founder of Algolia (YC W14), a growth stage Search API used by millions of developers. He led the company as CEO up to 350 people before hiring a successor in 2020. Originally from France, he currently lives in El Cerrito, CA with his wife and 3 kids. He has a PhD in Computer Science from the University of Nantes.",
+            "linkedin": "https://www.linkedin.com/in/nicolasdessaigne/"
+        },
+        {
+            "name": "Julien Lemoine, Founder/CTO",
+            "description": "Julien is a search veteran who\u2019s been working in the search landscape for over 10 years, with work experience in Thales and Exalead. He participated in the design of three different search engines prior to co-founding Algolia with Nicolas and is the author of the different algorithms responsible for Algolia's super fast performance. Julien is also passionate about imparting knowledge and spent some time teaching at his Alma Mater, EPITA. He holds an engineering degree from the same institution.",
+            "linkedin": "https://linkedin.com/in/julienlemoine"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Algolia Overview**\n\nFounded in 2012 and hailing from Y Combinator's W14 batch, Algolia has carved its niche as the leading Search & Discovery API for websites and mobile applications. The company\u2019s mission is straightforward yet ambitious: to make every search interaction meaningful and rewarding through developer-friendly enterprise-grade APIs.\n\n**Key Offerings**\n\nAlgolia provides a host of powerful, relevant, and scalable search functionalities that cater to sectors like e-commerce, media, and SaaS industries. Their hosted platform simplifies the complexity of search implementation, allowing teams to develop faster and maintain high-speed, relevant digital experiences. In fact, over 9,000 companies\u2014including giants like Under Armour, Twitch, Medium, and Stripe\u2014trust Algolia, processing more than 50 billion search queries each month.\n\n**Team and Culture**\n\nHeadquartered in San Francisco, Algolia boasts a diverse team of around 810 employees across multiple global offices, including Paris, London, New York, and Atlanta. Emphasizing autonomy and inclusivity, Algolia seeks passionate, talented individuals who thrive in diverse environments and share a commitment to social responsibility.\n\n**Funding and Growth**\n\nAlgolia has raised $184 million in funding from prominent investors like Accel Partners, Alven Capital, Point Nine Capital, and Storm Ventures. This financial backing underpins its rapid growth and development within the tech industry.\n\n**Technological Edge**\n\nWhat sets Algolia apart is its AI-driven search solutions which are easy to integrate and quick to implement. They cater to a wide range of development languages and platforms, empowering developers to fine-tune search capabilities and deliver seamless user experiences.\n\n**Recognition and Future**\n\nAlgolia is recognized in the 2024 Gartner\u00ae Magic Quadrant\u2122 for Search and Product Discovery, indicating its strong market positioning and vision. Their commitment to providing top-tier search technology continues to attract enterprises and startups alike, offering scalable solutions that grow alongside customer needs.\n\nFor anyone looking to elevate their search and discovery capabilities, Algolia stands out as a robust, partner-ready option that combines powerful technology with a user-centric approach. \n\nTo explore more, visit [www.algolia.com](http://www.algolia.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f85ee480d2e156617c07fdb65bfb238a1feb0d0d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1f37464199c7d93980cc015d4940039924e32c9d9e292cf3677210ca815b24a5",
+    "social_links": [
+        "https://www.linkedin.com/company/algolia/",
+        "https://twitter.com/algolia",
+        "https://www.facebook.com/algolia",
+        "https://www.crunchbase.com/organization/algolia",
+        "https://github.com/algolia"
+    ],
+    "logo_path": "data/logos\\Algolia_logo.png"
+}

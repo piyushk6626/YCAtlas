@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/rownd",
+    "name": "Rownd",
+    "headline": "Simple, dynamic, adaptive mobile and web app authentication",
+    "batch": "W22",
+    "description": "Rownd helps companies register and retain more users through frictionless sign-in across all of their websites or apps, with a single simple code snippet.\r\n\nWe let our customers change how and where authentication happens, killing the static login page forever.\r\n\nIncrease your conversions by 50% within weeks!",
+    "activity_status": "Active",
+    "website": "https://rownd.io",
+    "founded_date": 2021.0,
+    "team_size": 7.0,
+    "location": "Raleigh, NC",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:security",
+    "founders": [
+        {
+            "name": "Robert Thelen, Founder",
+            "description": "Rob Thelen is the CEO and co-founder of Rownd. Prior to Rownd, he was a Product-lead for IBM's API Connect, a $200M a year API management platform where he was responsible for all aspects of the product, dev prioritization to sales strategy.   Robert is an Air Force veteran, where he led hundreds on the flight line, led a diverse combat advisor team in Afghanistan for a year, and was responsible for $1.2B in gov acquisitions.  He received an MBA from Dartmouth and calls Durham, NC home.",
+            "linkedin": "https://www.linkedin.com/in/robertthelen/"
+        },
+        {
+            "name": "Matt Hamann, Founder",
+            "description": "Matt is a co-founder and the CTO of Rownd. He has over a decade of experience building enterprise-scale cloud applications at IBM. Matt earned a bachelor's degree in Information Systems Management from Bob Jones University and a master's degree in the same field from Carnegie Mellon University. He loves solving challenging, painful problems for customers large and small. In his spare time, he contributes to open-source and is the primary maintainer for https://www.npmjs.com/package/nconf.",
+            "linkedin": "https://linkedin.com/in/matthamann"
+        },
+        {
+            "name": "Rachel Orrino, Founder",
+            "description": "Rachel (Radulovich) Orrino is a Co-founder and the Head of Design at Rownd.  While at IBM, Rachel was responsible for user experience and design for Blockchain for Identity and other SaaS products. Her unique perspective and a blend of B2B SaaS and B2C design experiences allow her to create highly interactive and intuitive designs. She loves collecting and analyzing user feedback to create inform product enhancements and features.",
+            "linkedin": "https://www.linkedin.com/in/rachelorrino/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Rownd**\n\n**Founded:** 2021  \n**Location:** Raleigh, NC  \n**Team:** 7 Employees  \n**Backed by:** Y Combinator (Batch W22)  \n**Website:** [rownd.io](https://rownd.io)\n\n---\n\n**What They Do:**\nRownd is reshaping the authentication landscape with a focus on providing a frictionless sign-in experience for companies across both web and mobile platforms. Through a simple code snippet, Rownd enables businesses to enhance user registration and retention by allowing them to manage sign-ins without the cumbersome static login page.\n\n**Core Mission:**\nTo simplify authentication, making it dynamic and adaptable to the needs of modern product-led teams. They believe in creating a smooth experience that directly impacts user conversion, with claims of boosting sign-ups by up to 50% within weeks.\n\n---\n\n**Key Features:**\n1. **Passwordless Sign-In:** Users can access services using secure passkeys and magic links, killing the traditional password paradigm.\n2. **Pre-built UI Components:** Rownd offers stylish, ready-to-use interfaces that can be customized, saving developers from reinventing the wheel.\n3. **Fully Customizable Experiences:** Integration that allows brands to tailor sign-in processes to their specific needs without complicated setups.\n4. **Quick Installation:** A lightweight SDK/API integration that promises to get users up and running in minutes.\n5. **Adaptive Sign-In Mechanics:** Allowing real-time updates to authentication methods based on user behavior and risk profiles.\n\n---\n\n**Use Cases:**\n- **For Product Managers:** Craft user-friendly sign-in flows for enhanced experience.\n- **For Marketers:** Drive user growth and retention with tailored authentication strategies.\n- **For Developers:** Integrate powerful authentication systems quickly, focusing more on building products rather than handling security nuances.\n\n---\n\n**Security & Compliance:**\nRownd is SOC-2 certified, employing advanced encryption and security measures, ensuring that user data is protected in accordance with global standards.\n\n**Customer Feedback:**\nRownd has garnered positive testimonials from its clients who report significant improvements in conversion rates and user engagement \"from 40% to over 77%.\" Their platform has proven valuable for various unique business use cases, demonstrating adaptability and effectiveness.\n\n---\n\n**Conclusion:**\nRownd isn't just another authentication provider\u2014it's a comprehensive tool aimed at evolving how companies approach user sign-in and management. With its emphasis on providing secure, customizable, and efficient solutions, Rownd represents a forward-thinking option for businesses looking to enhance user experience and drive growth.\n\nFor more details or to see it in action, check out their website: [rownd.io](https://rownd.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/50e3929b513e8c2e9c57252b6f80dc67fd328ad7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191903Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a99bb8406fc2fca5c3b8bd688ab2e78b4760cb4e982e926a74b6d1d22065603c",
+    "social_links": [
+        "https://www.linkedin.com/company/rownd",
+        "https://twitter.com/RowndHQ",
+        "https://www.crunchbase.com/organization/rownd"
+    ],
+    "logo_path": "data/logos\\Rownd_logo.png"
+}

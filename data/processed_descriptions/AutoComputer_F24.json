@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/autocomputer",
+    "name": "AutoComputer",
+    "headline": "Desktop RPA with AI computer use",
+    "batch": "F24",
+    "description": "AutoComputer is a desktop robotic process automation system.\u00a0 Given just a text prompt, our AI automates tedious tasks such as financial data entry by performing all the clicks and keystrokes for you.",
+    "activity_status": "Active",
+    "website": "https://www.autocomputer.ai/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:deep-learning; industry:b2b; industry:enterprise; industry:automation; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Madhav Singhal, Founder",
+            "description": "I am building AutoComputer, the easiest way to automate workflows on your computer without any configuration. \n\nBefore this, I worked at Replit and was one of the first engineers on its AI team where I led research and training for all of Replit\u2019s SOTA code models, and worked on data infrastructure, Replit\u2019s core AI services and Replit Agent.",
+            "linkedin": "https://www.linkedin.com/in/ms337/"
+        },
+        {
+            "name": "Rick Sugden, Founder",
+            "description": "Co-founder and COO at AutoComputer.  \nWas previously doing my PhD in Medical Biophysics at the University of Toronto where I built the first at-home brain tumour monitoring system with a BCI device. \nI have spent the last five years implementing and training deep learning networks for biomedical applications including papers published that use ML/DL for diagnostics.",
+            "linkedin": "https://www.linkedin.com/in/rick-sugden-4a427b180/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### AutoComputer: Revolutionizing Desktop Automation with AI\n\n**Overview:**\nAutoComputer is a San Francisco-based startup founded in 2024, currently participating in Y Combinator Batch F24. It comprises a nimble team of two individuals, driven by a mission to bring Desktop Robotic Process Automation (RPA) to users everywhere. The aim? To simplify your work life by automating mundane tasks using powerful AI technology.\n\n**What They Do:**\nAt its core, AutoComputer focuses on making automation accessible and effective for desktop users. Here's how they do it:\n\n- **Zero Configuration:** Simply provide a text prompt, and AutoComputer takes care of the rest\u2014no complicated setup, no API integrations, and no painful onboarding processes. Just instant automation.\n- **Desktop First Automation:** Unlike other solutions requiring new apps or platforms, AutoComputer uses your existing desktop environment to replicate how you do your tasks.\n- **Full Control and Visibility:** You can oversee the automation process, modify, or halt tasks as needed. This is essential when dealing with important workflows where oversight is crucial.\n- **Cross-Application Functionality:** Not limited to one software, AutoComputer seamlessly interacts across a variety of applications and files\u2014effectively using your computer just as you do.\n\n**Why Choose AutoComputer?**\nThe big selling point is simplicity. Forget the learning curve of new platforms. With AutoComputer, you automate just by describing what you need. This positions AutoComputer as an attractive option for businesses looking to enhance productivity without overhauling their existing systems.\n\n**Current Focus:**\nRight now, AutoComputer is catering primarily to enterprise clients. However, there\u2019s an opportunity for individual users to join the waitlist for early access to their services on MacOS and Windows.\n\n**Get Involved:**\nAutoComputer invites businesses to explore how its solutions can help streamline workflows, and they encourage interested individuals to join their waitlist for updates.\n\n**Final Thoughts:**\nIn the ever-evolving landscape of automation and AI, AutoComputer stands out for its practical approach. By aligning its technology with the basic principles of desktop user experience, it promises to lift the everyday burden of tedious tasks, allowing you to focus on what really matters. \n\nFor those curious to learn more or jump on board, you can check out their website at [AutoComputer](https://www.autocomputer.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/58e61a5899f24cf1d3330c1a1a6d5974cef80c1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191012Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6c210333e04834a6f985ba773342931e50d39ca5ea4ff61a13d0b7ac704e0123",
+    "social_links": [],
+    "logo_path": "data/logos\\AutoComputer_logo.png"
+}

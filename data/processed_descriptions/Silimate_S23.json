@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/silimate",
+    "name": "Silimate",
+    "headline": "The co-pilot for chip designers",
+    "batch": "S23",
+    "description": "Silimate is the co-pilot for chip designers; it finds functional bugs, predicts PPA issues, and recommends fixes in real-time alongside RTL development.\r\n\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and optimized PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and build better chips in less time.",
+    "activity_status": "Active",
+    "website": "https://www.silimate.com",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "Mountain View",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:enterprise-software; industry:semiconductors; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ann Wu, Founder",
+            "description": "Co-founder & CEO of Silimate. Ann designed several generations of custom silicon at Apple, helped manage the inference ASIC programs at Meta, and developed product strategy & execution at an AI chip start-up.",
+            "linkedin": "https://linkedin.com/in/annwuhoo"
+        },
+        {
+            "name": "Akash Levy, Founder",
+            "description": "Co-founder & CTO of Silimate. Akash has a PhD from Stanford in Electrical Engineering, with technical expertise spanning EDA, AI, and cloud through his time at Synopsys, NVIDIA, and AWS. He has taped out 3 chips, published 14 papers on circuit design, and has a pending patent in the EDA space.",
+            "linkedin": "https://www.linkedin.com/in/akashlevy/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Silimate**\n\n**Mission:** Silimate aims to be the ultimate co-pilot for chip designers. It helps in identifying functional bugs, predicting power/performance/area (PPA) issues, and providing real-time recommendations for fixes during RTL (Register Transfer Level) development.\n\n**Founded:** 2023  \n**Location:** Mountain View, California  \n**Batch:** Y Combinator Batch S23  \n**Team:** 4 employees  \n**Group Partner:** Jared Friedman  \n\n### The Problem They Solve\n\nChip design is a lengthy, intricate process typical of 12-18 months, often bogged down by the need to ensure functional correctness and optimize PPA metrics. Silimate changes the game. By allowing designers to write correct and optimized RTL code from the very beginning, Silimate enables teams to design better chips faster.\n\n### Key Features\n\n- **Real-Time Bug Detection:** Identifies and rectifies functional bugs as they arise.\n- **PPA Predictions:** Forecasts PPA issues well before the final stages.\n- **Optimized Development Cycle:** Facilitates quicker and more accurate RTL developments for complex Systems on Chip (SoCs) and Intellectual Properties (IPs).\n\n### Who Benefits?\n\nSilimate is particularly beneficial to:\n\n1. **SoC Teams:** Those handling full tapeouts in-house can increase feature integration while shortening timelines.\n2. **Backend Vendors:** Facilitate high-quality hand-offs of RTL or netlists, circumventing tedious churn processes.\n3. **IP Teams:** Those selling soft or hard IP can adjust configurations swiftly for client-specific use cases, speeding up revenue recognition.\n\n### Current Endeavors\n\nSilimate is in a growth phase, actively seeking new talent to expand its team. Opportunities for employment can be explored on their website.\n\n### Tags\n\nSilimate is categorized with various tags including developer tools, B2B, enterprise software, semiconductors, AI, and San Francisco Bay Area, indicating its multifaceted approach in the tech ecosystem.\n\nFor more information or to request a demo, visit [Silimate's website](https://www.silimate.com).\n\nIn essence, Silimate is pushing the boundaries of chip design, making it smoother, faster, and more efficient for teams across the board. If you're in the semiconductor space, this is a company to keep your eye on.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4b2336c6652987061c76c113c9a8c6280e7370ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191926Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=073abd3d88483f428ab94b542abc09b80cc11a53c63e4b5aad310b9a1cd35c47",
+    "social_links": [
+        "https://www.linkedin.com/company/silimate"
+    ],
+    "logo_path": "data/logos\\Silimate_logo.png"
+}

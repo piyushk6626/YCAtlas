@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/eventual",
+    "name": "Eventual",
+    "headline": "Data Warehouse for ML/AI",
+    "batch": "W22",
+    "description": "Eventual is a data warehouse for ML/AI.\r\n\nWe are building an integrated development experience for data scientists and engineers to build ML/AI applications which query and process multimodal data (images, video, audio and 3D scans).\r\n\nDaft (https://www.getdaft.io) is our open-sourced distributed data query engine. It has a Python Dataframe API and is built in Rust, providing both ease of use and performance for use-cases such as ML data engineering, training data ingestion and general data analytics.\r\n\nWe are funded by investors such as Caffeinated Capital, Array.vc and top angels in the valley from Databricks, Meta and Lyft. Our team has deep expertise in high performance computing, big data technologies, cloud infrastructure and machine learning.",
+    "activity_status": "Active",
+    "website": "https://www.eventualcomputing.com",
+    "founded_date": 2022.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:computer-vision; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sammy Sidhu, Founder",
+            "description": "Sammy Sidhu is co-founder and CEO of Eventual. Sammy's background is in High Performance Computing (HPC) and Deep Learning and has over a dozen patents/publications in the space. In the past, he has worked on high frequency trading on wall street, medical AI research at Berkeley and self-driving cars at both DeepScale (acquired by Tesla) and Lyft Level 5 (acquired by Toyota). Native to the Bay Area, Sammy graduated from UC Berkeley with a degree in Electrical Engineering and Computer Science.",
+            "linkedin": "https://www.linkedin.com/in/sammy-sidhu/"
+        },
+        {
+            "name": "Jay Chia, Founder",
+            "description": "Jay is based in San Francisco and graduated from Cornell University where he did research in deep learning and computational biology. He has worked in ML Infrastructure across biotech (Freenome) and autonomous driving (Lyft L5), building large-scale data and computing platforms for diverse industries. Jay is originally from Singapore and spent 2 years as a tank commander in the military and then as the head of recruiting at a unicorn Singapore startup.",
+            "linkedin": "https://www.linkedin.com/in/chiajay"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Eventual: A Data Warehouse for the Future of ML/AI**\n\nFounded in 2022 and part of Y Combinator\u2019s Batch W22, Eventual is on a mission to redefine how data is handled for machine learning and artificial intelligence. Located in the vibrant tech hub of San Francisco, the company is composed of a lean but highly skilled team of five, including experts in high-performance computing, cloud infrastructure, and big data technologies. \n\nAt the heart of Eventual\u2019s offering is Daft, their open-sourced distributed data query engine, crafted in Rust and featuring a Python Dataframe API. This blend of performance and simplicity allows data scientists and engineers to effortlessly work with multimodal data\u2014think images, audio, videos, and even 3D scans. Whether for training data ingestion or performing complex data analytics, Daft positions itself as an all-in-one platform tailored for modern data workloads.\n\nEventual has caught the attention of investors, drawing backing from notable names like Caffeinated Capital and Array.vc, along with high-profile angels from the likes of Databricks, Meta, and Lyft. This strong pedigree not only signals confidence in their vision but also reflects the depth of expertise on their team.\n\nThe practical applications of Daft are illustrated by success stories from organizations like Amazon and CloudKitchens, showcasing significant improvements in data processing and efficiency. For instance, Amazon reported a striking 24% increase in efficiency for critical data tasks, translating into savings of over 40,000 years of outstanding computing time annually.\n\nEventual is aimed at simplifying the complex landscape of data engineering, machine learning, and analytics, facilitating a seamless integration with existing tools while supporting scalable processes. They're transforming raw data into actionable insights, enabling organizations to unleash the full potential of their data.\n\nAs Eventual continues to grow, they\u2019re actively looking to expand their team. If you're passionate about building innovative systems in the realm of data and ML/AI, they might just have a spot for you. \n\nFor more information, check out their website at [Eventual Computing](https://www.eventualcomputing.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7d0b4b4d9fa34d3de623164856db9f25f07cd0d1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191321Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3df59a63bb36291dcc09f6599acdb8d6ba9d2ea52ce4b5c7bc5e9e6ec4cf5d10",
+    "social_links": [
+        "https://www.linkedin.com/company/eventualcomputing"
+    ],
+    "logo_path": "data/logos\\Eventual_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/sivo",
+    "name": "Sivo",
+    "headline": "Debt as a service for companies to lend money to their users at scale.",
+    "batch": "W21",
+    "description": "Sivo provides debt as a service. Our API and risk protocol allows fintechs, neobanks, and gig platforms to lend money to their users, at scale, without having to raise debt which can take up to two years.\u00a0You can think of us as Stripe for Debt. \r\n\nWe started 6 months ago, in March signed a $100m debt capital partnership, and will be launching our API in April.\u00a0We already have more than 100 companies in our customer pipeline including Uber.\u00a0\r\n\nWe\u2019ve been able to move so quickly because we are a team with previous exits and decades of experience in risk, debt, and enterprise software for companies including Goldman Sachs, Revolut, NASA, McKinsey and Citigroup.",
+    "activity_status": "Active",
+    "website": "https://sivo.com",
+    "founded_date": 2020.0,
+    "team_size": 15.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:fintech; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kate Hiscox, Founder",
+            "description": "Originally from the UK and based in Vancouver. I've been building companies for 15+ years with Sivo being company #6. Exits include an IPO (9 figure valuation post listing on the TSX-V). I like to build things and never take no for an answer!",
+            "linkedin": "https://www.linkedin.com/in/katehiscox/"
+        },
+        {
+            "name": "Dani Conejo Rico, Founder",
+            "description": "I am passionate about building intuitive digital products, bringing about an end to predatory lending and cramming in as many races as I can! I am based in Vancouver and Mexico City where I love to cook, run and spend time with my wife and family.",
+            "linkedin": "https://www.linkedin.com/in/danielaconejo"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Sivo: Redefining Debt Capital with a Tech Twist\n\n**Overview:**  \nSivo is a San Francisco-based fintech company that emerged from Y Combinator's W21 batch in 2020. Its mission is to simplify debt access for businesses, providing a seamless \u201cDebt as a Service\u201d solution. Think of Sivo as the Stripe for debt\u2014offering an API and risk protocol that enables fintechs, neobanks, and gig platforms to lend to their users swiftly and efficiently.\n\n**The Problem:**  \nTraditionally, raising debt capital is a cumbersome process\u2014often taking six months to two years, replete with complex terms and manual reporting. Many traditional funds shy away from early-stage fintechs, leaving companies in a bind when it comes to accessing necessary funds.\n\n**The Solution:**  \nSivo's approach is transformative. By leveraging technology, they allow businesses to secure up to $20 million in debt capital without the standard hurdles. Their API facilitates an interest-only payment structure that scales as businesses grow, allowing for an accelerated path to credit and reputation building. With integrations through tools like Zapier, sharing loan data becomes a breeze.\n\n**Recent Developments:**  \nLaunched in March 2023, Sivo quickly established a $100 million debt capital partnership and already boasts a customer pipeline of over 100 companies, including notable names like Uber. Their team of 15 is composed of industry veterans from high-stakes organizations like Goldman Sachs, Revolut, and NASA, giving them a deep well of experience in risk, debt, and enterprise software.\n\n**Leadership:**  \nMichael Seibel serves as the Group Partner for Sivo, guiding this dynamic venture with his wealth of knowledge and connections.\n\n**Conclusion:**  \nIn a world where access to capital is essential yet complex, Sivo stands out as a modern ally for businesses looking to expand their lending capabilities. With its cutting-edge technology and a clear focus on eliminating pain points in the debt acquisition process, Sivo is poised to redefine how companies think about debt financing in this digital age. \n\nFor more information, check out [Sivo's website](https://sivo.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/46faa05e856eb3f49bb177fad9ef413b99a87258.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191930Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7e10f271a7de2e558e7915efd6bdad8ae5445d7f27f459b0b5f8c028a0ddc6c3",
+    "social_links": [
+        "https://www.linkedin.com/company/headlessfinance",
+        "https://twitter.com/headlessfinance",
+        "https://facebook.com/headlessfinance",
+        "https://www.crunchbase.com/organization/sivo"
+    ],
+    "logo_path": "data/logos\\Sivo_logo.png"
+}

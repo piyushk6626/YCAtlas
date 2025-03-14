@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/ragas",
+    "name": "Ragas",
+    "headline": "Building the open source standard for evaluating LLM Applications",
+    "batch": "W24",
+    "description": "The fragmented and proprietary evaluation tools today are leading to significant inefficiencies and confusion among developers. The world needs a standard everyone can rely on and that is why we are building Ragas as the open-source standard. \r\n\nWe have 4k stars on GitHub, 1.3k members in our discord community, and over 80+ external contributors. We also have partnerships with key AI companies like Langchain, Llamaindex, Arize, Weaviate and more to help create a standard.\r\n\nWe already process 5 million evaluations monthly for engineers from companies like AWS, Microsoft, Databricks, and Moody\u2019s and it is growing at 70% month over month.\r\n\nWe are building LLM application testing and evaluation infrastructure for Enterprises.",
+    "activity_status": "Active",
+    "website": "https://www.ragas.io",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:open-source; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jithin James, Founder",
+            "description": "Jithin James (jjmachan), believes that life's purpose is found in the toil in mastering a craft and the fulfilment one gets from using it for the greater good. For him, this means excelling in software development, particularly in open-source and AI tooling, to empower fellow developers and help materialize their ambitious visions into reality. His journey is a testament to skill, dedication, and a commitment to community enrichment.",
+            "linkedin": "https://linkedin.com/in/jjmachan"
+        },
+        {
+            "name": "Shahul ES, Founder",
+            "description": "Shahul (aka ikka) discovered his fascination for AI in his sophomore year while pursuing his computer science degree. This early interest laid the foundation for his journey to becoming a Kaggle GrandMaster and led to his significant contributions to open-source AI, particularly in initiatives like OpenAssistant AI.",
+            "linkedin": "https://linkedin.com/in/shahules"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Ragas**\n\nFounded in 2023 and based in San Francisco, Ragas is on a mission to establish an open-source standard for evaluating large language model (LLM) applications. The founders recognized a significant issue: the current landscape of fragmented and proprietary evaluation tools is causing confusion and inefficiencies among developers. By building a unified framework, Ragas aims to create a reliable standard that the developer community can depend on.\n\n**Key Highlights:**\n\n- **Community Engagement:** The Ragas project has resonated well with the developer community, evident from its impressive traction: over 4,000 stars on GitHub, 1,300 members in its Discord community, and contributions from more than 80 external collaborators.\n  \n- **Partnerships:** Ragas has secured strategic partnerships with prominent AI companies such as Langchain, Llamaindex, Arize, and Weaviate, all working together to refine and promote this evaluation standard.\n  \n- **Growth Metrics:** The service is already processing a staggering 5 million evaluations monthly for industry giants like AWS, Microsoft, Databricks, and Moody's, with a growth rate of 70% month-over-month. This rapid expansion illustrates the demand for cohesive evaluation tools in the AI space.\n\n- **Product Offering:** Ragas provides a comprehensive testing and evaluation infrastructure for enterprises, enhancing the performance and reliability of their LLM applications. Features include automated performance metrics, synthetic evaluation data generation, and online monitoring to ensure quality in production environments.\n\n- **Team and Support:** The company is small but ambitious, consisting of just two employees, Shahul (an applied AI researcher and Kaggle GM) and Jithin James (Chief Maintainer, previously at BentoML). The team actively encourages collaboration and support through their Discord platform.\n\n- **Recognition:** Ragas has gained recognition in the industry, being the only RAG framework directly recommended by OpenAI at their Dev Day, which speaks volumes about its credibility and potential impact.\n\nIn a world where developers grapple with disparate evaluation tools, Ragas stands out as a beacon of clarity, aiming to streamline the evaluation process for LLM applications. With its vibrant community, strategic partnerships, and innovative solutions, Ragas is gearing up to shape the future of AI application evaluation.\n\nFor more information about Ragas, visit their website: [Ragas.io](https://www.ragas.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/551e2f24f0b38228e82e1488852e871995aa0d8c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191705Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=75dfb725024ed173b271fe5941ff0500707f2485362b605abc466e3a400a0362",
+    "social_links": [
+        "https://www.linkedin.com/company/ragas/",
+        "https://twitter.com/ragas_io",
+        "https://github.com/explodinggradients"
+    ],
+    "logo_path": "data/logos\\Ragas_logo.png"
+}

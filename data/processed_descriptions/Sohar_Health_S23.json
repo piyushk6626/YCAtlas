@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/sohar-health",
+    "name": "Sohar Health",
+    "headline": "AI-powered insurance verification to boost patient conversion.",
+    "batch": "S23",
+    "description": "Sohar Health is an AI-driven front-end RCM solution that transforms insurance verification processes for healthcare providers, enabling faster patient conversions and reducing administrative workloads.  With a 95% automation rate, our API-first platform seamlessly integrates into existing workflows to provide real-time claim accuracy and eligibility checks. \r\nKey performance metrics showcase the power of our technology: Median latency of just 6 seconds, ensuring real-time eligibility; over 90% of checks returned within 30 seconds for increased patient conversion; 96% accuracy in identifying and verifying benefits details; Industry-leading 99% accuracy for eligibility determination; >90% carve-out detection rate, mitigating surprise billing risks; a 60% success rate with our Insurance Discovery API, helping identify coverage for self-pay patients.\r\n\nOur customers include outpatient clinics, specialty practices, and digital health platforms looking to streamline front-end claim management. By reducing errors and maximizing clean claim submissions, Sohar Health empowers healthcare organizations to convert and retain more patients, reduce operating costs, and increase their top-line revenue.",
+    "activity_status": "Active",
+    "website": "https://www.soharhealth.com",
+    "founded_date": 2023.0,
+    "team_size": 8.0,
+    "location": "New York",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:health-tech; industry:digital-health; industry:api; industry:data-science; location:new-york",
+    "founders": [
+        {
+            "name": "Dr Ashish Mandavia MD, Founder",
+            "description": "I am a health-tech entrepreneur, with a clinical background, and the CEO at Sohar Health, automating insurance eligibility verifications. With 8+ years of combined experience in health-related startups, strategy consulting, and clinical practice, I have a unique perspective and skill set to drive innovation and growth in the digital health and technology space across EMEA and the US.",
+            "linkedin": "https://linkedin.com/in/ashishmandavia"
+        },
+        {
+            "name": "Lucas Gordon, Founder",
+            "description": "CTO and cofounder of Sohar Health (S23). I have 14+ years experience as a software engineering, most recently as CTO and first employee at Pelago (W18) where I led a team of 40 across software engineering, data engineering and information security. During my time at Pelago I helped take the company from pre-seed to post series B, raising over $80M and positioning the company as the world's leading virtual clinic for substance use management.",
+            "linkedin": "https://www.linkedin.com/in/lucas-gordon-48ba6439/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Sohar Health is an exciting startup that's paving the way for smarter insurance verification in healthcare. Founded in 2023 and part of Y Combinator's Batch S23, Sohar Health has a mission to leverage AI for insurance verification, which ultimately boosts patient conversion rates.\n\nWhat sets Sohar Health apart is its AI-driven front-end Revenue Cycle Management (RCM) solution. By optimizing the insurance verification process, it enables healthcare providers to reduce administrative burdens and accelerate patient onboarding. With an impressive 95% automation rate, their API-first platform integrates seamlessly with existing workflows, allowing real-time claim accuracy and eligibility checks.\n\nThe performance metrics are compelling: real-time eligibility checks average a mere 6 seconds of latency, and over 90% of these checks are completed within 30 seconds. Accuracy is also a strong suit, boasting a 99% eligibility determination accuracy and 96% accuracy in identifying benefits details. On top of that, they achieve over a 90% carve-out detection rate, significantly lowering the chances of surprise billing.\n\nSohar Health serves a diverse clientele, including outpatient clinics, specialty practices, and digital health platforms that are keen to enhance their claims management processes. By improving accuracy and reducing errors, they empower healthcare organizations to attract and retain more patients, cut operational costs, and boost revenue. The team, which is located in New York and consists of eight members, is led by Group Partner Gustaf Alstromer.\n\nTheir product offerings are straightforward and effective:\n- **Verification**: Quickly confirms patient benefits and streamlines intake workflows.\n- **Discovery**: Helps identify patient coverage without prior insurance details.\n- **Network Status** and **Cost Estimate**: Both features are \"coming soon\" to enhance transparency and financial clarity for patients.\n\nSohar Health isn't just about technology; it's about real-world impact. Their solutions have reportedly driven an 8:1 return on investment for clients within the first twelve months. Anecdotes from users emphasize improved patient experiences, better operational efficiency, and significantly reduced claim denial rates.\n\nFor those interested in automating their insurance verification processes, Sohar Health is definitely a company to watch. You can find out more about their innovative solutions on their website [Sohar Health](https://www.soharhealth.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cde96c6b256773b95ded4d99343718dc0fb513a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191934Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2f8d9fa03308ff5ca39186db4a725ab50af01cdefbf56b71ebfa7de613ae81cf",
+    "social_links": [
+        "https://www.linkedin.com/company/sohar-health/",
+        "https://twitter.com/soharhealth",
+        "https://www.crunchbase.com/organization/sohar-health"
+    ],
+    "logo_path": "data/logos\\Sohar_Health_logo.png"
+}

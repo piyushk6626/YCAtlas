@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/rewbi",
+    "name": "Rewbi",
+    "headline": "Rewbi uses AI to increase grid-connected battery storage revenue 2x",
+    "batch": "S24",
+    "description": "Rewbi uses AI to optimize grid-connected battery storage. We generate revenue by charging when electricity is cheap and discharging when electricity is expensive.\r\n\nWe rent battery storage for a fixed fee per month, and we earn 2x that fee in monthly revenue by dispatching the battery optimally.\r\n\nToday, power companies use human traders to manually track grid conditions and update the battery\u2019s dispatch schedule. However batteries can adjust their power output 100x faster than traditional power generation (e.g. hydro, coal, nuclear, gas), with the ability to go from full-speed charging to to full speed discharging in under a minute. Electricity prices change every 5 minutes, often by 300% or more. Our AI better tracks 100s of live inputs, and it makes decisions faster than a human operator (with lower overhead!), improving revenue 2x.",
+    "activity_status": "Active",
+    "website": "https://www.rewbi.com/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Thomas Marge, Founder",
+            "description": "Thomas is co-founder and CEO of Rewbi, which uses AI to optimize grid-connected battery storage. He previously founded inBalance, a YC W21 company, which was acquired by Stem (NYSE: STEM) in January of 2023. He led battery storage optimization and forecasting for Stem. He completed part of a Pure Mathematics PhD at University of Cambridge, which he left to build inBalance. He holds a Masters in Applied Mathematics and B.S.E. in Pure and Applied Mathematics from Johns Hopkins, graduating early.",
+            "linkedin": "https://linkedin.com/in/thomas-marge"
+        },
+        {
+            "name": "Derek Modzelewski, Co-Founder and CTO",
+            "description": "Ex. Meta and Adept | Combining AI and energy commodity trading experience to make our power grids more stable.\n\nPlaced first energy commodity trades 10 years ago. Adept\u2019s first technical hire; his AI models were used to raise over $400m in capital. Previously worked with early foundation models at Meta as an ML engineer. Holds a Masters in C.S. and B.S.E. in C.S. Applied Mathematics from Johns Hopkins, graduating early.",
+            "linkedin": "https://linkedin.com/in/derekmod"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Rewbi**\n\nRewbi is an innovative company aimed at revolutionizing the energy sector by leveraging artificial intelligence to optimize grid-connected battery storage. Founded in 2024 and part of Y Combinator's Batch S24, Rewbi's mission is to double the revenue generated from these battery systems. \n\n### What They Do\nInitially focusing on optimizing battery storage, Rewbi enhances profitability by charging batteries when electricity rates are low and discharging them when prices peak\u2014transforming a straightforward rental model into a revenue-generating powerhouse. Their business model is simple: they charge a fixed monthly fee for battery storage but increase that revenue twofold through smart dispatching.\n\n### The Problem They Solve\nTraditionally, power companies rely on human traders to manage battery dispatch schedules, which is slow and inefficient. Rewbi's AI technology changes the game. Batteries can adjust their output significantly faster\u2014up to 100 times quicker than traditional power sources like coal or gas. Given that electricity prices can fluctuate dramatically\u2014sometimes by 300% within five minutes\u2014Rewbi\u2019s AI can analyze hundreds of data points in real-time to make instant decisions that optimize battery dispatch.\n\n### Team and Expertise\nThe company sports a lean team of two co-founders with notable backgrounds: \n- **Thomas Marge**, the CEO, previously founded inBalance, a Y Combinator company acquired by Stem, where he led battery storage optimization.\n- **Derek Modzelewski**, the CTO, has deep experience in energy commodities and AI, having previously worked with Meta's foundational models.\n\nThis strong expertise merges energy and AI proficiencies, which is crucial for driving the clean energy transition.\n\n### Clean Energy Future\nRewbi is not just about profits; it focuses on sustainability. Modern grids often rely on backup fossil fuel sources, contributing to over 1% of global carbon emissions during peak demands. Rewbi aims to replace these systems with clean battery alternatives, pushing toward a greener energy future.\n\n### Conclusion\nRewbi is at the forefront of a significant shift in the energy sector, combining advanced AI with battery storage solutions to create efficiency that the industry desperately needs. The company is set to improve grid reliability, drive down costs associated with power volatility, and help in the fight against climate change, all while ensuring a profitable outcome for battery investors.\n\nFor more information, check out their [website](https://www.rewbi.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/26797488a35a7080ba6b3e49be72083376111332.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191725Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f4816c2314f1e3c039c0ae65e2c2042e0671e0879045066cd7a56a8034b22094",
+    "social_links": [
+        "https://www.linkedin.com/company/rewbi",
+        "https://x.com/rewbienergy"
+    ],
+    "logo_path": "data/logos\\Rewbi_logo.png"
+}

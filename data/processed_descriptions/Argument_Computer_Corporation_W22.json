@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/argument-computer-corporation",
+    "name": "Argument Computer Corporation",
+    "headline": "Accelerate verifiable computing",
+    "batch": "W22",
+    "description": "Argument combines zero-knowledge cryptography, formal verification and distributed consensus technologies to build systems for unbreakable, scalable, private, decentralized software.",
+    "activity_status": "Active",
+    "website": "https://argument.xyz",
+    "founded_date": 2020.0,
+    "team_size": 8.0,
+    "location": "Boston",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:crypto-web3; industry:security; industry:cryptography; location:boston",
+    "founders": [
+        {
+            "name": "John Burnham, Founder",
+            "description": "CEO @ Argument Computer Corporation",
+            "linkedin": "https://www.linkedin.com/in/john-burnham-01190a32/"
+        },
+        {
+            "name": "Gabriel Barreto, Founder",
+            "description": "Co-Founder and Chief Architect at Yatima Inc.",
+            "linkedin": "https://www.linkedin.com/in/gabriel-aquino-barreto-2b512a197/"
+        },
+        {
+            "name": "Samuel Burnham, Founder",
+            "description": "Co-founder and Vice President at Argument",
+            "linkedin": "https://www.linkedin.com/in/samuel-burnham/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Argument Computer Corporation: Pioneering Verifiable Computing**\n\nFounded in 2020 and part of Y Combinator's W22 batch, Argument Computer Corporation is based in Boston and is on a mission to accelerate verifiable computing. With a small yet dedicated team of eight, the company is striving to create systems that are not only unbreakable and scalable but also private and decentralized. Their approach combines cutting-edge technologies: zero-knowledge cryptography, formal verification, and distributed consensus.\n\n### What Do They Do?\n\nArgument is creating innovative solutions to advance the field of provable computing. Here's a quick rundown of their key projects:\n\n- **Lurk**: A high-performance zero-knowledge reduction machine with a minimalist instruction set. This tool effectively supports a range of cryptographic backends and language frontends.\n  \n- **Yatima**: This certifying compiler converts functional languages into programs that can prove correctness. It's a game changer for creating formally verified zero-knowledge proofs of execution.\n\n- **Sphinx**: An open-source zero-knowledge virtual machine (zkVM) designed to prove RISC-V bytecode execution. Among its supporters is tooling compatibility for Rust programs.\n\n- **Zero-Knowledge Light Clients**: These clients allow for secure and efficient interoperability between blockchains, notably Ethereum and Aptos.\n\n### The Bigger Picture\n\nArgument is nestled neatly within the realms of crypto, security, and cryptography\u2014a trio that highlights the importance of trust in a decentralized world. With significant backing from Y Combinator and guidance from group partner Harj Taggar, the company is poised to make its mark in the crypto-Web3 landscape.\n\nCurious to learn more? Dive into their mission and offerings directly on their website: [argument.xyz](https://argument.xyz).\n\nIn a world increasingly driven by decentralized technologies, Argument Computer Corporation represents not just a company, but a front line in the evolution of secure computing. Keep an eye on them; they might just be the architects of tomorrow's digital trust systems.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/250091608f42ff7fcbba7bdbaf9641c3f60b6419.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191003Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=593e55c43c93b6263810c6229f4525a238d16177a532ef912a3187e5e2ddb652",
+    "social_links": [
+        "https://x.com/argumentxyz",
+        "https://github.com/argumentcomputer"
+    ],
+    "logo_path": "data/logos\\Argument_Computer_Corporation_logo.png"
+}

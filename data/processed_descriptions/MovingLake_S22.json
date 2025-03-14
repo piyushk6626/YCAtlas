@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/movinglake",
+    "name": "MovingLake",
+    "headline": "Realtime Data Connectors",
+    "batch": "S22",
+    "description": "MovingLake is Fivetran for event-driven architectures. Companies such as Casai use our product to obtain orders and price changes in real time.",
+    "activity_status": "Active",
+    "website": "https://movinglake.com",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "Mexico City, Mexico",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:analytics; industry:api; industry:data-engineering",
+    "founders": [
+        {
+            "name": "Andres Paez, Founder",
+            "description": "Worked as a Software Engineer and Product Manager at Amazon Prime, Google Search and Google Cloud Platform for about 7 years. Have worked as the CTO of Casai and Valoreo for the last 3 years starting technology teams from scratch leading software engineers, hardware engineers, software managers, data engineers, data scientists, IT professionals, DevOps engineers, product managers and product designers.",
+            "linkedin": "https://www.linkedin.com/in/andrespaezmartinez/"
+        },
+        {
+            "name": "Edgar Cabrera, Founder",
+            "description": "About ten years of Sofware Engineer Experience at startups of several stages. I have worked in developing products from scratch until they become scalable, robust systems. I love the feeling of my work bringing value to others.",
+            "linkedin": "https://www.linkedin.com/in/edgarcabrera-dev/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### MovingLake: Real-Time Data Connectors for the Modern Era\n\n**Overview**  \nFounded in 2022 and hailing from Mexico City, MovingLake is an exciting startup that positions itself as \"Fivetran for event-driven architectures.\" With a core mission to provide real-time data connectors, they help businesses like Casai streamline their operations by fetching orders and price changes instantly.\n\n**Y Combinator Backed**  \nPart of Y Combinator's Summer 2022 batch, this small but mighty team of three is on a mission to tackle the complexities of data integration with simplicity and efficiency.\n\n**Key Features and Offerings**  \nMovingLake specializes in:\n- **Real-Time API Integrations**: They offer connectors for ERPs, CRMs, and various other systems, ensuring data flows without interruption.\n- **User-Friendly Setup**: The platform allows users to connect their data in just minutes, bypassing traditional, cumbersome installation hurdles.\n- **Event-Driven Architecture**: Designed to support real-time updates, MovingLake eliminates scheduling headaches, allowing data to push from a single source to multiple downstream applications effortlessly.\n  \n**Industries Served**  \nTheir product primarily caters to sectors such as:\n- **E-Commerce**\n- **Hospitality**\n- **Telecommunications**\n- **Insurance**\n- **Food & Beverage**\n\nEach of these industries benefits from a seamless integration of data, helping businesses make informed decisions based on the most current information available.\n\n**Testimonials and Market Position**  \nMovingLake has earned positive feedback from customers, notably Miguel Magos, VP of Data at Casai, who appreciates the near-instantaneous synchronization capabilities, stating, \u201cA Sync That Never Sleeps.\u201d\n\n**Pricing Model**  \nFor businesses concerned about budgets, MovingLake offers a straightforward flat monthly fee for their integrations\u2014ensuring that there are no hidden surprises when it comes to costs.\n\n**How to Get Started?**  \nGetting connected involves a three-step process:\n1. **Select the APIs** from an expanding catalog.\n2. **Map your data** by choosing entities or endpoints.\n3. **Sync with your database**, either a production environment or a demo.\n\n**Connect with MovingLake**  \nCurious about enhancing your data architecture? Visit [MovingLake's website](https://movinglake.com) to explore their offerings and see how they can transform your data management.\n\nIn essence, if you're looking for a reliable, real-time connection solution that prioritizes ease of use and effectiveness, MovingLake might just be the partner you need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b2c35eb838982922fc8d5fc2ac90a9d597080745.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191549Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b0cb4fb8d77a7220761ba43d99b9e7416b53a9ee75eccfcbe0e7122f7c8ce990",
+    "social_links": [
+        "https://www.linkedin.com/company/movinglake",
+        "https://twitter.com/MovingLake"
+    ],
+    "logo_path": "data/logos\\MovingLake_logo.png"
+}

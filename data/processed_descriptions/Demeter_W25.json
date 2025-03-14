@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/demeter",
+    "name": "Demeter",
+    "headline": "AI Back Office Solution for Private Investment Firms",
+    "batch": "W25",
+    "description": "Demeter is an AI back-office solution for private investors. Starting with portfolio management, Demeter automates performance tracking, benchmarking, and return analysis, providing insights in minutes instead of weeks.",
+    "activity_status": "Active",
+    "website": "https://www.joindemeter.com/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:finance; industry:b2b; industry:workflow-automation; industry:investments; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Dev Jain, Founder",
+            "description": "Co-founder & CTO of Demeter. We're building an AI back-office solution for family offices. Before launching Demeter, I was a software engineer at Curri (S19). \n\nI went to UT Austin and studied mechanical engineering & economics \ud83e\udd18",
+            "linkedin": "https://www.linkedin.com/in/devrjain/"
+        },
+        {
+            "name": "Qiaochu Li, Founder",
+            "description": "Co-founder & CEO of Demeter. Previously a private equity analyst at Macquarie, investing in companies in various verticals including FinTech and government services with $300 million in total equity deployed. I spend my free time practicing Muay Thai. \n\nDual degree in Math and Finance from UT Austin \ud83e\udd18",
+            "linkedin": "https://www.linkedin.com/in/qiaochu-li1999/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Demeter is an innovative startup that emerged from Y Combinator's Batch W25, and it\u2019s making waves in the world of private investment firms. Founded in 2024 and based in San Francisco, Demeter's mission is straightforward: provide an AI-powered back-office solution that significantly streamlines the complexities of portfolio management.\n\nImagine needing to track your investments, analyze performance data, and benchmark returns, all of which usually take weeks. Demeter flips that script, delivering insights in mere minutes. Their platform automates the labor-intensive processes of performance tracking and data organization, ensuring that fund managers can focus on making informed decisions rather than getting lost in a sea of paperwork.\n\nSo, what exactly can Demeter's software do? At its core, it allows users to see their portfolios broken down by asset classes, ensuring complete visibility over diversification. It also automatically imports and organizes files from various investment portals. This means you don\u2019t have to lift a finger to keep your portfolio updated. Advanced features like custom report generation, entity structure management, and a white-labeled portal for clients amplify its appeal, making it suitable for a range of users from private equity firms to family offices.\n\nWith a lean team of just two people and a strong partnership with Gustaf Alstromer, the company is focused and agile. The tech stack includes intuitive integrations that support multiple asset classes, enhancing the capabilities of institutions looking for smarter ways to manage their portfolios. \n\nIf you're looking to transform your back-office operations and improve investment decision-making, Demeter might just be the tool you\u2019re after.\n\nFor more information, check out their website: [JoinDemeter](https://www.joindemeter.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e19b967883ebb5efa8899ad527d69f80399f1632.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191117Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fea77579b0c0c479c181892d18f1c39a948f4cb779ffb1229581fded2aa0eb70",
+    "social_links": [
+        "https://www.linkedin.com/company/joindemeter/"
+    ],
+    "logo_path": "data/logos\\Demeter_logo.png"
+}

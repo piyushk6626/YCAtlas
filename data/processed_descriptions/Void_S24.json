@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/void",
+    "name": "Void",
+    "headline": "The open source Cursor alternative",
+    "batch": "S24",
+    "description": "Void is an open source code editor with AI features similar to Cursor and GitHub Copilot. Unlike other tools, Void lets developers connect directly to open source LLM models without sending their private data through an external backend.",
+    "activity_status": "Active",
+    "website": "https://voideditor.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Andrew Pareles, Founder",
+            "description": "Andrew is the CEO of Void. Before starting Void, he bootstrapped an edtech company, did quantum computing research @ Johns Hopkins APL, and studied computer science @ Cornell.",
+            "linkedin": "https://linkedin.com/in/andrew-pareles"
+        },
+        {
+            "name": "Mathew Pareles, Founder",
+            "description": "Mathew is the CTO of Void, the open-source AI code editor. Mathew studied physics and computer science @ Cornell, and has previously conducted machine learning and materials science research.",
+            "linkedin": "https://linkedin.com/in/mathew-pareles/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Void: The Open Source Alternative to Cursor\n\n**Overview**  \nVoid is an innovative open source code editor aiming to provide a robust alternative to tools like Cursor and GitHub Copilot. Founded in 2024 and hailing from Y Combinator's Batch S24, Void makes it easier for developers by allowing them to connect directly with open source large language models (LLMs) without compromising their privacy.\n\n**Mission**  \nThe mission of Void is simple yet profound: it strives to empower developers with a powerful AI code editor while ensuring full control over their data. This focus on user autonomy and security sets them apart in a crowded marketplace.\n\n**Team and Location**  \nBased in San Francisco, Void is a small but focused team of two employees. They are mentored by Jared Friedman, a partner at Y Combinator, which adds a layer of credibility and insight to their operations.\n\n**Key Features**  \n- **User-Controlled AI Integration**: Unlike traditional editors, Void allows users to harness their own AI models, creating a more bespoke development environment without routing data through third-party systems.\n- **VS Code Powered**: It's built as a fork of Visual Studio Code, enabling seamless importing of themes, keybindings, and settings with just a click.\n- **Rich Community Infrastructure**: Void offers extensive community features to contribute to the roadmap or build AI integrations. Users can index files, utilize intelligent search powered by AI, and edit underlying prompts.\n- **Experimental Features**: Think fast apply on large files, contextual awareness, and native support for third-party integrations (like Greptile and DocSearch).\n\n**AI Capabilities**  \nVoid embraces the best AI tools, allowing features like autocomplete (just hit 'Tab'), inline editing ('Ctrl + K'), and asking contextual questions ('Ctrl + L'). The promise of using \"Any LLM, Anywhere\" speaks to the flexibility in both local and direct AI model communication.\n\n**Community and Collaboration**  \nThe essence of Void's growth lies in its community involvement. Developers can suggest features and collaborate on improvements\u2014truly fostering an environment where users can shape the future of the product.\n\n### Getting Started  \nTo join the movement, interested developers can visit [Void's website](https://voideditor.com) for more information or to sign up for their waitlist and get involved.\n\n---\n\nVoid is positioned at the intersection of open-source values and cutting-edge technology, making it a compelling option for developers looking for both privacy and power in their coding environments. As they continue to evolve, they could very well shape the future of coding tools as we know them.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c3f60489646b8949075e4fdc612cbb8365cc1720.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAFJSOQ65W%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192052Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDHe2krNA4Wz4ZdbboNJG%2B0zG6MmRspOJ5Kex%2FWuhFzDwIhAK4JNrLJx7V6Lp69aumcmLj570j2DR2Eh3hPcEuQGW3%2FKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgweLBjNRNugVRDPT8gqwgPiLGnMwjgQOiNH7FMTInTVKCCJLDe5fdDWlactIzRh2XOtRjauQZptst9ejdBs3vj590lIr07sFFKCWuGV%2B%2BJkmRqS%2BXBC6caH3J97%2FH7W3ch4kKAyKE3TuVCMVl%2BqNFww29jX%2BimNvDUNvCgQtjVE03FWSnfbJrDf3NUx8wttW6l2EC5fgOealDp0Ne7xA51qGtDKfIYSJUUyj6d2WgcNp66ilXSYF5HX3L4wid4xRepJ9Vt1krkNG6bsNoITqg8zMlLgZ7QT5uVwuoY%2Fhv%2F89O661Pa6%2FtGfz6gcZjx3JmkvJh2yaephzjfzpFg43OFS%2B3NnORgMbCqTEcn9piGJokbf9a5xoR2Qt8E4L2AdZTypzC0scYqz%2BA1CsQiK1RrvedAjSsaEw4%2FqFaR6rBrZ4SBiKqlmStv67nu5CMG6DF414F2WlGbkeS8C%2BJYZ2iky%2B19B0K9e4J7Tik78PRFNXoN8lSqP4k%2BLhdrqVq5b2d4m7UHeeProhr%2Fv5HV%2BORFSiFow%2Fhbxt6GN2P2YWxzdIHA32IkBqYD%2BeZ3eFOZSk%2B1Pldgq4PSaiU5lQlEewufIwxcnWXTzGkzSJ%2BLlLlzWX4EwrKPjvQY6pAEqZgWN8cooHP%2FeegIX6R3Pun8lUwrTM2csrvVF8K2udU7KUu1EoXzzxsupULfK9AN%2Bcef1HwWg3GN0hRmtduP9znDwqy7B09eErZHX3iCWPeVm7m2HUwQH0BM7NBnkw%2BBNh35scX3c4lMIghjRFyw9b8VEOGAbUjAxbgvLqemFdd8Zq7DGRWXDbhLqcGd2hHliZLchEjlQhzfD3wdeSwzTgvkJMw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=610d01a8febc31e1ad08c92e79d10ebddae570f3004e00e83089f8f5339e38ae",
+    "social_links": [
+        "https://linkedin.com/company/voideditor",
+        "https://x.com/thevoideditor",
+        "https://github.com/voideditor/void"
+    ],
+    "logo_path": "data/logos\\Void_logo.png"
+}

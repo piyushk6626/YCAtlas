@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/enode",
+    "name": "Enode",
+    "headline": "An API for electric vehicles and other energy hardware (DERs)",
+    "batch": "W21",
+    "description": "Enode\u2019s APIs enable you to instantly connect users\u2019 energy devices \u2014 including EVs, solar inverters, home batteries and thermostats \u2014 to your app.",
+    "activity_status": "Active",
+    "website": "http://www.enode.com",
+    "founded_date": 2020.0,
+    "team_size": 40.0,
+    "location": "Oslo, Norway",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:climate; industry:api; industry:electric-vehicles",
+    "founders": [
+        {
+            "name": "Henrik Langeland, Founder",
+            "description": "CEO and Co-founder of Enode",
+            "linkedin": "https://www.linkedin.com/in/henriklangeland/"
+        },
+        {
+            "name": "Nikolai Heum, Founder",
+            "description": "i like turtles",
+            "linkedin": "https://www.linkedin.com/in/nikolai-johan-heum-a3057144/"
+        },
+        {
+            "name": "Thorvald Thorsnes, Founder",
+            "description": "Co-founder and sales rep at Enode. Previously founder of Photo Roulette, a mobile game with 20 + million users.",
+            "linkedin": "https://www.linkedin.com/in/thorvald-thorsnes-26300235/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Enode: Pioneering the Future of Green Energy Management**\n\nFounded in 2020 and hailing from Oslo, Norway, Enode is at the forefront of the energy transition with its focus on creating APIs for electric vehicles (EVs) and other distributed energy resources (DERs). Part of Y Combinator's W21 batch, Enode's mission is clear: to provide a seamless way for developers to connect and control a plethora of energy devices through a single integration.\n\nWith a team of around 40, Enode has built a platform that allows developers to connect users\u2019 energy devices\u2014including EVs, solar inverters, home batteries, and smart thermostats\u2014more efficiently. This means developers can create applications that not only control these devices but also optimize their performance and reduce energy costs for users. The Enode platform supports over 1,000 energy devices across more than 80 brands, offering a robust infrastructure for those looking to innovate in the clean energy sector.\n\n**Core Offerings**  \nEnode\u2019s platform is divided into three primary services:\n1. **Connect**: A simple API integration that allows users to manage energy devices at their fingertips.\n2. **Optimize**: This feature enables smart energy use, allowing applications to leverage automated insights and algorithms to streamline energy consumption.\n3. **Aggregate**: Here, businesses can participate in flexibility markets by aggregating energy loads, which ultimately opens new revenue streams through initiatives like virtual power plants (VPPs).\n\n**Use Cases and Applications**  \nThe applications of Enode's technology are diverse, catering to various sectors including:\n- **Energy retailers**: Creating competitive apps to retain customers.\n- **E-mobility providers**: Leveraging data for EV and charging networks.\n- **Smart home tech**: Seamlessly integrating numerous energy devices without additional hardware.\n\nThey also cover specific use cases such as smart charging, home energy management, and demand response systems, which enable real-time interactions between energy users and the grid.\n\n**Why Enode Stands Out**  \nWhat differentiates Enode is not just its technology but its goal of fostering a sustainable energy future. By connecting multiple devices and ensuring they communicate efficiently, Enode is helping build a more resilient grid that can adapt to fluctuations in renewable energy supply. With over 250 million energy customers reached and 100 gigawatt-hours managed through their platform, Enode is truly shaping the landscape of energy management.\n\nIn summary, Enode is a promising startup that presents a simple yet powerful solution for the complexities of managing energy in a greener future. If you're curious to learn more or wish to explore their offerings, visit [Enode's website](http://www.enode.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9084abbaf369a2b9f253e57ceba4dbb230e38d1a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191316Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=97dd74d88e47bb0e2164fee4654e72bbc502babd2c768a64a1d1602a2034adf5",
+    "social_links": [
+        "https://www.linkedin.com/company/enode-io",
+        "https://github.com/enode"
+    ],
+    "logo_path": "data/logos\\Enode_logo.png"
+}

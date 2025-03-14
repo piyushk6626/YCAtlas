@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/unsloth-ai",
+    "name": "Unsloth AI",
+    "headline": "Open Source Fine-tuning & Training of LLMs",
+    "batch": "S24",
+    "description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\nWith over 8 million monthly model downloads and 15K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
+    "activity_status": "Active",
+    "website": "https://unsloth.ai/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Daniel Han, Founder",
+            "description": "I was at NVIDIA making algorithms like TSNE 2000x faster. I also found and fixed 20+ bugs in open source LLMs like Gemma, Llama, Mistral and Phi. I also maintain the OSS package Hyperlearn making ML faster for NASA & Microsoft engineers.",
+            "linkedin": "https://linkedin.com/in/danielhanchen"
+        },
+        {
+            "name": "Michael Han, Founder",
+            "description": "Hi guys - love building, designing and more. If you ever want help with fine-tuning or LLMs be sure to reach out!",
+            "linkedin": "https://linkedin.com/in/michaelhan3"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Unsloth AI: Effortless AI Model Customization\n\n**Overview**\nFounded in 2023 and part of Y Combinator's Batch S24, Unsloth AI is on a mission to revolutionize how we train and fine-tune large language models (LLMs). With a goal of supporting open-source initiatives, Unsloth provides builders with sophisticated yet accessible tools to create custom AI models more efficiently.\n\n**Why Unsloth?**\nImagine slashing your model training time by **30 times** and lowering memory usage by **90%**. Unsloth boasts over **8 million monthly downloads** and has garnered **15K stars** on GitHub, a testament to its growing popularity. The team, currently composed of just two members, is dedicated to making AI training not only faster but also greener through optimized workflows.\n\n**How Does It Work?**\nThe secret sauce lies in Unsloth's unique approach to GPU computing. By handcrafting computation-heavy processes, they offer impressive speed improvements without requiring additional hardware. Whether you're training on a single GPU or scaling up to dozens, Unsloth caters to your needs with remarkable speed and flexibility.\n\n**Current Offerings**\nUnsloth.ai provides various options including:\n\n- **Free Version**: An open-source package that supports models like Mistral, Gemma, and Llama 1, 2, and 3.\n- **Pro Version**: Enhanced capabilities with multi-GPU support for 2.5x faster training times and 20% less memory usage.\n- **Enterprise Solutions**: Up to **30x faster training** with multi-node support and improved accuracy.\n\n**Endorsements**\nSome of the biggest names in tech are already utilizing Unsloth\u2019s technology, including Microsoft, NVIDIA, and NASA, demonstrating its trusted reputation in the industry.\n\n**Community and Support**\nUnsloth thrives on community engagement, encouraging developers to join their Discord, read their blog, and stay updated via newsletters. Whether you're a seasoned AI developer or just starting, the resources available\u2014from documentation to community forums\u2014help you along your journey.\n\n**In Summary**\nUnsloth AI is paving the way for faster, more efficient AI model training. Its focus on open-source solutions and community empowerment elevates the potential for what builders can achieve with LLMs. If you're keen to skip the lengthy model training and get straight to innovation, Unsloth is definitely worth exploring. \n\nFor more information, visit [Unsloth.ai](https://unsloth.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5c2ff00e66fd9798370b5cff0b2daf66696f3c9e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192036Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b2786be2b01372734905d02bcf38705de9d99016366c32f5b9b0b97f34ca9f81",
+    "social_links": [
+        "https://www.linkedin.com/company/unsloth/",
+        "https://twitter.com/UnslothAI",
+        "https://crunchbase.com/organization/unsloth-ai",
+        "https://github.com/unslothai/unsloth"
+    ],
+    "logo_path": "data/logos\\Unsloth_AI_logo.png"
+}

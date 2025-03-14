@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/operand",
+    "name": "Operand",
+    "headline": "AI that Runs E-Commerce Brands",
+    "batch": "W25",
+    "description": "Operand is building an AI to replace traditional consulting. We help businesses make better decisions by deeply analyzing their data across all sources\u2014something consultants can\u2019t do at scale.\r\n\nWe\u2019re starting in e-commerce and retail, where the businesses\u2019 high data density and real-time feedback loops allow us to show impact fast. Our first capability is pricing and discount strategy. Operand considers everything\u2014competitor pricing, ad strategy, inventory, and more\u2014to ensure businesses maximize profit.\r\n\nAnd unlike other AI solutions, every Operand result is verified by human experts, including ex-MBB consultants, so you get actual impact, not just AI hype.\r\n\nWe\u2019re already generating 6-figure P&L improvements for early customers.",
+    "activity_status": "Active",
+    "website": "https://www.tryoperand.com/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:b2b; industry:e-commerce; industry:retail; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ram Gorthi, Founder",
+            "description": "Dartmouth drop-out, CS & Math major. Formerly @ OpenAI Researcher Access Program",
+            "linkedin": "https://www.linkedin.com/in/ramgorthi"
+        },
+        {
+            "name": "Akhil Iyengar, Founder",
+            "description": "Ex-Cornell CS & Econ. Building Operand.",
+            "linkedin": "https://www.linkedin.com/in/akhiliyengar/"
+        },
+        {
+            "name": "Arjun Sahney, Founder",
+            "description": "Ex-Dartmouth CS and Physics. Building Operand.",
+            "linkedin": "https://www.linkedin.com/in/arjun-sahney-40b88624b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "# Operand: The AI-Powered Consultant for E-Commerce\n\nFounded in 2024, Operand has emerged from the Y Combinator W25 batch with a clear mission: to reinvent consulting for e-commerce brands using AI. The company is based in San Francisco and operates with a lean team of just three employees. They've set their sights on simplifying the decision-making process for retailers and e-commerce businesses by analyzing data more effectively than traditional consultants ever could.\n\n## The Problem Operand Solves\n\nIn the crowded world of e-commerce and retail, businesses are drowning in data yet often struggle to leverage it for insightful decision-making. Operand addresses this issue head-on by providing AI-driven insights that help brands optimize crucial areas like pricing, discount strategies, and marketing. The high data density present in these sectors allows Operand to demonstrate immediate impacts on the bottom line.\n\n## How Does Operand Work?\n\nUnlike many AI solutions that offer vague predictions, Operand has a unique spin: every result is vetted by human experts, many of whom have roots in top consulting firms (think McKinsey, BCG). This means that users benefit from AI's efficiency and data-crunching ability while gaining the confidence that comes from human expertise. Operand\u2019s first capability focuses on pricing strategies, evaluating competitor pricing, advertising effectiveness, inventory levels, and more to help businesses maximize profits.\n\n## Early Success\n\nOperand is already making waves with early customers, reportedly driving six-figure improvements in their profit and loss statements. Brands are turning to Operand to replace the reliance on slow and cumbersome analytics processes that delay actionable insights.\n\n## Features to Love\n\n- **Data Integration**: Operand connects to a variety of data sources, including platforms like Shopify, Amazon, Salesforce, Google Analytics, Google Ads, Meta, and Excel, creating a unified view of performance metrics. No more messy spreadsheets!\n  \n- **AI + Human Expertise**: Operand\u2019s recommendations result from advanced algorithms, followed by expert review, ensuring accuracy before delivery. Reports are polished and tailored to fit the recipient\u2019s needs.\n\n- **Ongoing Optimization**: Operand continuously analyzes data and suggests adjustments, proactively responding to market changes (e.g., competitor pricing shifts) and ensuring that strategies evolve in real-time.\n\n## Why Operand?\n\nCompanies in e-commerce need decision-making grounded in rigorous analysis, not guesswork. Operand empowers teams to ask the right questions and deliver insights that drive real results, all while saving time in reporting and analysis.\n\nIf you're looking for a way to up your e-commerce game and make data-driven decisions, Operand might just be the partner you need.\n\nFor more information and to see Operand in action, check out their website: [Try Operand](https://www.tryoperand.com/). \n\n### Tags: \n- Generative AI\n- B2B\n- E-Commerce\n- Retail\n- San Francisco Bay Area\n\nUltimately, Operand is setting a new standard in the way e-commerce brands leverage their data to make informed decisions that lead to growth and success. It's not just about data; it\u2019s about smart, impactful action.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c0d3688df1888d97f23c83b2c52e2fe814f8bd91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191613Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0c60099926463012f9fe0ff79b06a3b0d26d5404fdec2a0141f6f3de3e6a9e08",
+    "social_links": [
+        "https://www.linkedin.com/company/tryoperand"
+    ],
+    "logo_path": "data/logos\\Operand_logo.png"
+}

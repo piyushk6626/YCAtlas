@@ -1,0 +1,47 @@
+{
+    "links": "https://www.ycombinator.com/companies/agave",
+    "name": "Agave",
+    "headline": "Financial data infrastructure for Construction",
+    "batch": "W22",
+    "description": "We\u2019re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
+    "activity_status": "Active",
+    "website": "https://www.agaveapi.com",
+    "founded_date": 2021.0,
+    "team_size": 20.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:construction; industry:b2b; industry:proptech; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Tom Reno, Co-founder",
+            "description": "Tom is co-founder/CEO of Agave. Before Agave, Tom worked at Amazon, Barclays Investment Bank, and Graphiq (acq. by Amazon). He is a proud Delawarian.",
+            "linkedin": "https://www.linkedin.com/in/tomreno/"
+        },
+        {
+            "name": "Pooria Azimi, Founder",
+            "description": "Pooria is the co-founder of Agave. Prior to Agave, Pooria was a core engineer behind Graphiq, a semantic search startup in Santa Barbara, CA, later acquired by Amazon to power Alexa. At Amazon, he helped scale Graphiq Search to dozens of languages and billions of queries per month. Originally from Iran, he has a master degree in Computer Science from Oregon State University.",
+            "linkedin": "https://www.linkedin.com/in/pooria-azimi/"
+        },
+        {
+            "name": "Samantha Zhang, Founder",
+            "description": "Samantha Zhang is the co-founder of Agave. Prior to Agave, Samantha had been in charge of Amazon Alexa\u2019s knowledge experiences on all multimodal devices and had designed data visualizations for leading publishers such as AP, Reuters, MSN, and Yahoo.",
+            "linkedin": "https://www.linkedin.com/in/samanthaz/"
+        },
+        {
+            "name": "John Zucchi, Founder",
+            "description": "John is a co-founder of Agave. Before Agave, John was a Technical Program Manager at Amazon Alexa building an enterprise product from inception, Product Manager at Graphiq (acq. by Amazon), and Equity Capital Markets Analyst at Barclays Investment Bank. John graduated from Columbia, and was born and raised in Toronto \ud83c\udde8\ud83c\udde6.",
+            "linkedin": "https://www.linkedin.com/in/johnzucchi/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Agave is shaking up the construction industry, a space that's historically been burdened by outdated software\u2014think systems that are 20 to 40 years old. Founded in 2021 and based in San Francisco, Agave's mission is clear: to provide a financial data infrastructure specifically tailored for construction, a market worth an eye-watering $12 trillion. \n\nAt the heart of their offering is Agave Sync, a product designed to keep financial data seamlessly in sync between contractors working in the field and their back-office accounting teams. This is crucial because, in an industry often siloed by standalone applications, Agave bridges the gap, ensuring that everyone\u2014from the site manager to the accountant\u2014has access to the same current data. \n\nAgave's roots trace back to Y Combinator's W22 batch, highlighting its innovative potential. The company has built a compact but effective team of 20 employees, orchestrated under the guidance of notable partner Harj Taggar. \n\nCurrently, Agave is on the lookout for talent across engineering, product, and sales roles as it scales\u2014indicative of its growth phase. Their offerings include pricing plans for contractors and a library of useful use cases, demonstrating a customer-centric approach. \n\nIn short, Agave is not just another SaaS company; it's a necessary player in propelling the construction industry into the future by enabling integrations with over 35 existing software systems. As they continue to grow, they\u2019d be worth keeping an eye on for anyone invested in construction or technology. \n\nFor more about what they do or if you're interested in joining their mission, their website is a good starting point: [Agave API](https://www.agaveapi.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fb4b6193e84da3a42dea637de9dbfedf57cafcee.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190946Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8d2e1857504e282c87d7e028cfa5df4f95e68e24e82703e8dbd957395994b035",
+    "social_links": [
+        "https://www.linkedin.com/company/agave-api/",
+        "https://www.crunchbase.com/organization/agave-api"
+    ],
+    "logo_path": "data/logos\\Agave_logo.png"
+}

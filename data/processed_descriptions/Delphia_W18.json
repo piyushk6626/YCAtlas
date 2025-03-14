@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/delphia",
+    "name": "Delphia",
+    "headline": "We build quantitative investment strategies improved by consumer data",
+    "batch": "W18",
+    "description": "Delphia believes data is the key to capital formation and economic empowerment. We build products that incentivize the contribution of proprietary data in order to generate an edge in financial markets. We believe that actively managing people\u2019s data can unlock new forms of wealth creation for individual and institutional investors alike.",
+    "activity_status": "Active",
+    "website": "http://delphia.com",
+    "founded_date": 2018.0,
+    "team_size": 20.0,
+    "location": "Toronto, Canada",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:machine-learning; industry:dao; industry:ai",
+    "founders": [
+        {
+            "name": "Andrew Peek, Founder/CEO",
+            "description": "An entrepreneur and angel investor, Andrew is the founder of Agora Intelligence, makers of Tilt: a way for anyone to build their own index of stocks. Prior to Tilt, he co-founded Delphia: an investment collective where people pooled their data to access to quantitative investment strategies. Delphia built and sold a systematic (US equities) hedge fund and spun out three separate startups, one of which was Tilt. Prior to Delphia, Andrew sold a SaaS startup to Shopify.",
+            "linkedin": "https://ca.linkedin.com/in/drupeek"
+        },
+        {
+            "name": "Cliff van der Linden",
+            "description": "Cliff is a computational social science professor and serial entrepreneur, having founded and led numerous companies including non-profit organizations and venture-backed technology start-ups. He is founder and CEO of Vox Pop Labs, a social enterprise that empowers informed decisions through innovative digital products and advanced analytics.",
+            "linkedin": "https://www.linkedin.com/in/cliffvanderlinden"
+        }
+    ],
+    "status": true,
+    "generated_description": "## Delphia: Investing with Your Data, Not Your Money\n\nFounded in 2018, Delphia is a Toronto-based fintech company that's carving out a niche in the investment world by leveraging consumer data to shape innovative investment strategies. As part of Y Combinator\u2019s Batch W18, Delphia positions itself at the intersection of technology and finance, believing that in today\u2019s AI-driven landscape, data isn't just a byproduct\u2014it\u2019s the most critical asset.\n\n### Mission and Vision\nDelphia's mission revolves around **quantitative investment strategies** enhanced by consumer data. They strive to empower both individuals and institutional investors by transforming proprietary data into actionable investment insights. The underlying philosophy is that actively managing people's data can unlock new forms of wealth creation\u2014a game-changer for those willing to participate.\n\n### What They Do\nAt its core, Delphia is about harnessing data to gain an edge in financial markets. This means using insights from various data sources\u2014like credit card transactions and browsing habits\u2014to inform investment decisions. Traditional hedge funds often leverage this type of consumer information to bolster their profits. Delphia aims to level the playing field, allowing everyday investors to benefit from their own data without needing to risk their capital directly.\n\n### Key Milestones\n- **2011-2018**: Delphia\u2019s journey begins with its co-founders, who were already pioneering data-driven approaches to public opinion and predictive analytics long before they launched Delphia per se.\n- **2019**: Transitioned from offering predictions to Wall Street to becoming a registered Investment Advisor with the SEC.\n- **2021-2022**: Launched a market-neutral quant equity strategy, marking one of their best years in quantitative performance.\n- **2023**: Helped to establish Superset, a Data Trust for fair data compensation, and open-sourced their backtesting framework, InvestOS.\n\n### Looking Ahead\nDelphia isn't resting on its laurels. With a team of about 20 employees led by seasoned professionals, including CIO Jonathan Briggs, they're continually innovating. The firm has exciting plans, including:\n- **Tilt**: A new platform for trend-based investments.\n- **Backchannel**: A venture enabling experts to monetize their knowledge.\n\nAdditionally, Delphia has recently shifted its focus to professional investors after refining its core offerings.\n\n### Why Delphia Matters\nIn a world where your data is often considered a commodity, Delphia is pioneering a new path. They empower consumers by sharing profits from data insights, thus returning value to the very people generating the data. This approach not only democratizes access to investment strategies but promotes a fairer economic system. If you're curious to see where they go next, check them out at [Delphia.com](http://delphia.com).\n\nIn summary, Delphia exemplifies how innovative thinking in fintech can lead to tangible benefits for everyone\u2014transforming personal data into wealth, not just numbers on a balance sheet.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b31904f09a91cdea0a0f1c2c3a79e6c84b1ff82b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191116Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7be464b402f040223644e1c00eba1820bf473feb8d02ec1dfc7ebee7143b74a9",
+    "social_links": [
+        "https://www.linkedin.com/company/ridethetilt",
+        "http://twitter.com/ridethetilt",
+        "https://www.crunchbase.com/organization/delphia",
+        "https://github.com/delphia"
+    ],
+    "logo_path": "data/logos\\Delphia_logo.png"
+}

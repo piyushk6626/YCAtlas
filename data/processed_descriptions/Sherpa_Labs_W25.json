@@ -1,0 +1,35 @@
+{
+    "Links": "https://www.ycombinator.com/companies/sherpa-labs",
+    "Name": "Sherpa Labs",
+    "Headline": "The AI Data Scientist",
+    "Batch": "W25",
+    "Description": "Sherpa Labs is building an agentic data scientist to automate modeling, operations, and communication via a swarm of agents. Their initial product is an agentic data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes \u2014 similar to Glean but for enterprise data systems.",
+    "Activity_Status": "Active",
+    "Website": "https://www.sherpalabs.ai",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/tom-blomfield",
+    "Group_Partner": "Tom Blomfield",
+    "Company_Linkedin": "https://www.linkedin.com/company/sherpalabs-ai",
+    "Company_Twitter": "",
+    "Tags": "industry:generative-ai; industry:big-data; industry:data-engineering; industry:data-visualization; industry:search; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/sherpalabs-ai"
+    ],
+    "logo_path": "data\\logos\\Sherpa_Labs.png",
+    "Active_Founders": [
+        {
+            "Name": "Jeffrey Chiu, Founder",
+            "Description": "Co-founder of Sherpa Labs: working on helping data engineers stay sane. Most recently I worked in Quant Research (Citadel, Two Sigma, etc...) working on statistical models for automated trading and before that worked on NLP research at Big Tech (Facebook, Microsoft). I studied Statistics (bachelor's) and Computer Science (master's) at Harvard.\n\nAngels \ud83d\udc49 https://calendly.com/d/cnkc-prc-z8y/sherpa-labs-investor-meetings?month=2025-03&date=2025-03-04",
+            "LinkedIn": "https://www.linkedin.com/in/jeffreychiu23/"
+        },
+        {
+            "Name": "Justin Jiang, Founder",
+            "Description": "Building the AI data scientist @ Sherpa Labs. Ex-quant researcher from Optiver, working on high frequency trading algorithms. Data scientist at FedEx and Tradeweb. Graduated from Harvey Mudd with a double BS in Math and CS.",
+            "LinkedIn": "https://www.linkedin.com/in/justinjiang12/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "### Sherpa Labs: Your AI Data Scientist\n\n**Founded:** 2025  \n**Location:** San Francisco  \n**Y Combinator Batch:** W25  \n**Team Size:** 2 employees  \n**Group Partner:** Tom Blomfield  \n\n**Website:** [sherpalabs.ai](https://www.sherpalabs.ai)\n\n---\n\n**Mission:**  \nSherpa Labs aims to revolutionize data management by developing an agentic data scientist. Their goal? To automate modeling, operations, and communication through a swarm of AI agents. Think of them as your personal data sherpas, guiding you through the complex terrain of data.\n\n**What They're Building:**  \nTheir first product is an agentic data catalog tailored for developers and AI systems. It simplifies the often daunting tasks of finding the right data sources, tracing data lineage, and navigating through messy data lakes. If you've ever felt lost amidst an ocean of data, Sherpa Labs is here to help\u2014like Glean, but specifically for enterprise data systems.\n\n---\n\n**Current Focus:**\n- **AI-Powered Search:** Utilize natural language processing to sift through your entire data infrastructure, making it easier to locate data without having to remember exact names.\n- **Data Dictionary:** Automatically generate and enforce data dictionaries. This keeps your data ecosystem organized and ensures everyone shares a common understanding.\n- **Data Lineage:** Visualize data flows and dependencies with interactive maps, helping teams understand the impact of changes before they happen.\n\n---\n\n**Tagline:**  \n\"Painless data systems for modern data organizations.\" They promise to help you \u201cClean your data swamp with AI.\u201d\n\n**Join the Movement:**  \nSherpa Labs is quickly gaining traction among companies looking to streamline their data processes. Interested in seeing how they can transform your data workflow? You can [Book a Demo](https://www.sherpalabs.ai/<https:/calendly.com/d/crn6-42r-xc2/30-minute-meeting>) and experience Finn, your AI-powered data partner.\n\nIn a world drowning in data, Sherpa Labs is carving a path to clarity and efficiency\u2014one data point at a time. If you\u2019re looking for a more manageable approach to understanding and utilizing your data, these are the sherpas you want by your side."
+}

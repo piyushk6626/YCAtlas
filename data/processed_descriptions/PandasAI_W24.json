@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/pandasai",
+    "name": "PandasAI",
+    "headline": "PandasAI is an open-source conversational data analysis platform with\u00e2\u0080\u00a6",
+    "batch": "W24",
+    "description": "PandasAI is an open-source library for conversational data analysis. Enterprises can connect their dataframes, databases or datalakes and do data analysis in plain english.\r\n\nFor example, PandasAI can be used by everyone in the company to visualize data or to ask complex queries and extract valuable insights for better data-informed decisions.",
+    "activity_status": "Active",
+    "website": "https://pandas-ai.com",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "Munich, Germany",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:analytics; industry:data-visualization; industry:ai",
+    "founders": [
+        {
+            "name": "Gabriele Venturi, Founder",
+            "description": "Gabriele is the Founder and CEO of PandasAI. In April 2023, he launched PandasAI, a open source library to facilitate data analysis and data science, thereby empowering people with varying levels of technical expertise to analyze data effectively.",
+            "linkedin": "https://linkedin.com/in/gabriele-venturi"
+        }
+    ],
+    "status": true,
+    "generated_description": "### PandasAI: Redefining Data Analysis with Conversation\n\n**Overview:**\nPandasAI is an open-source conversational data analysis platform that enables users to engage with data in the most straightforward way possible: through natural language. Founded in 2023 and located in Munich, Germany, it's currently part of Y Combinator's Batch W24 and has a small but impactful team of three.\n\n**Mission:**\nAt its core, PandasAI aims to democratize data analysis. By allowing anyone in an organization to connect their data frames, databases, or data lakes and query them using plain English, it transforms complex data interactions into simple conversations.\n\n**Use Cases:**\nImagine a marketing manager who, instead of sifting through spreadsheets or writing SQL queries, can simply ask, \u201cWhat were our top three performing campaigns last quarter?\u201d and get visually appealing, insightful answers instantly. This capability fosters a culture of data-informed decision-making across departments.\n\n**Key Features:**\n1. **Conversational Queries:** Use natural language to explore data effortlessly.\n2. **Dynamic Dashboards:** Generate powerful dashboards from datasets quickly, highlighting critical charts and insights.\n3. **Collaborative Insights:** Save and share the best data snippets with teammates to enhance collaboration.\n4. **Integration:** Seamlessly connect various data sources to create unified views and insights.\n\n**Community and Open-Source Commitment:**\nPandasAI is built on an open-source foundation, inviting developers to contribute and enhance its functionality. The project is hosted on GitHub, ensuring transparency and community engagement in its evolution.\n\n**Partnership and Support:**\nWith backing from Y Combinator and trusted by over 35% of Fortune 500 companies, PandasAI is carving out a significant niche in the AI and analytics sectors. It\u2019s been tagged with relevant labels like artificial intelligence, analytics, and data visualization.\n\n**Getting Started:**\nCurious to dive in? Getting started with PandasAI is as easy as installing a Python package and connecting your datasets. You can have your first insights in under a minute!\n\nFor more information, visit their website at [PandasAI](https://pandas-ai.com) and explore how you can start transforming your ideas into actionable data insights today.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b39d397f66f49d148768397562f7f06331dd4895.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191621Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=85ab28f1c2a8a02bbef70523d9b9c2b57e6ae0e600806926f396e58cda5f8723",
+    "social_links": [
+        "https://www.linkedin.com/company/pandasai/",
+        "https://twitter.com/ai_pandas",
+        "https://www.crunchbase.com/organization/pandasai",
+        "https://github.com/gventuri/pandas-ai"
+    ],
+    "logo_path": "data/logos\\PandasAI_logo.png"
+}

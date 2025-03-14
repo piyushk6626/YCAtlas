@@ -1,0 +1,27 @@
+{
+    "links": "https://www.ycombinator.com/companies/castle-2",
+    "name": "Castle",
+    "headline": "Block bots & bad behavior",
+    "batch": "W16",
+    "description": "Instantly stop automated and human-originated account takeovers, fake accounts, and any behavior that violates your platform policies.",
+    "activity_status": "Active",
+    "website": "https://castle.io",
+    "founded_date": null,
+    "team_size": 20.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:security; industry:fraud-detection; location:san-francisco-bay-area",
+    "founders": [],
+    "status": true,
+    "generated_description": "### Castle: Defending Your Platform Against Bots and Bad Behavior\n\n**Overview**  \nCastle is a security company based in San Francisco, focused on eliminating automated and human-driven fraudulent activities across digital platforms. Founded as part of the Y Combinator Batch W16, Castle aims to \u201cblock bots and bad behavior,\u201d ensuring that online services remain safe and user-friendly.\n\n**Mission**  \nThe mission of Castle is clear: to empower businesses by preventing account takeovers, blocking fake accounts, and managing any behavior that violates platform policies. Its solutions allow companies to defend against a variety of threats without relying on cumbersome CAPTCHA systems.\n\n**Product Features**  \nCastle offers a comprehensive suite of tools tailored for fraud detection and abuse prevention, which includes:\n\n- **Velocity-Based Rules**: Apply real-time, dynamic rules to manage user behavior.\n- **Device Fingerprinting**: Identify unique user devices to detect fraud with 99.5% accuracy.\n- **User Behavior Analytics**: Gain deep insights into how users interact with your platform and spot anomalies.\n- **Risk Scoring**: Utilize customized scoring systems to assess the threat level of different users.\n\n**Use Cases**  \nCastle\u2019s tools cater to several significant challenges:\n\n- **Fake Accounts**: Easily identify and remove malicious accounts.\n- **Account Takeovers**: Proactively detect both automated and manual attempts to hijack accounts.\n- **Content Abuse**: Block spam and repetitive content submissions.\n- **Transaction Fraud**: Stop credit card testing and fraudulent transactions.\n\n**Team and Growth**  \nWith a growing team of 20 employees, Castle leverages its expertise in security and software development to provide scalable solutions that monitor hundreds of millions of user interactions monthly. Their services are built for high performance, boasting a response time of approximately 100ms.\n\n**Customer Base**  \nCastle has catered to renowned names like Atlassian, Rockstar Games, and Canva, showcasing its robust capabilities in securing diverse digital platforms.\n\n**Getting Started**  \nFor businesses looking to bolster their defenses against fraud, Castle offers a transparent pricing model that starts at $0 for the first 1,000 requests per month. This makes it accessible for small startups and large enterprises alike.\n\n**Final Thoughts**  \nCastle stands at the forefront of cybersecurity, providing a seamless way for online platforms to protect themselves from evolving threats while enhancing user experience. Their commitment to innovation and security signifies a forward-thinking approach in an increasingly digital world.\n\nTo learn more about Castle and their offerings, visit [Castle.io](https://castle.io/).",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.linkedin.com/company/castle-intelligence",
+        "https://twitter.com/Castle_IO",
+        "https://www.crunchbase.com/organization/castle-2",
+        "https://github.com/castle"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/datashare",
+    "name": "DataShare",
+    "headline": "Embed charts, dashboards and exports in your app",
+    "batch": "S23",
+    "description": "DataShare is a data-as-a-service platform that lets you embed charts, dashboards and exports directly into your product. For example, if you run an accounting startup, DataShare would enable you to embed a full profit and loss dashboard, with downloadable statements. DataShare is backed by an enterprise-grade data warehouse, and can be implemented in fewer than 20 lines of code.",
+    "activity_status": "Active",
+    "website": "http://datashare.co/",
+    "founded_date": 2023.0,
+    "team_size": 1.0,
+    "location": "Austin, TX",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; industry:data-engineering; industry:databases; location:austin",
+    "founders": [
+        {
+            "name": "Brian Brunner, Founder",
+            "description": "Founder of DataShare, previously was the engineering manager for the team at Stripe that built Sigma and Data Pipeline.",
+            "linkedin": "https://linkedin.com/in/bbrunner"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Overview of DataShare**\n\nFounded in 2023 and based in Austin, TX, DataShare is an innovative data-as-a-service platform that\u2019s ready to revolutionize how you embed analytics in your product. If you're running a startup, especially in fields like accounting, imagine effortlessly integrating a comprehensive profit and loss dashboard right within your application. DataShare makes this possible with an incredibly simple implementation\u2014less than 20 lines of code.\n\n**Mission and Value Proposition**\n\nDataShare\u2019s mission is clear: to empower developers to embed charts, dashboards, and data exports seamlessly within their applications. It allows businesses to provide their customers with valuable analytics and insights\u2014essentially enriching the user experience without a heavy lift in engineering resources. This means you can add all the data products your users crave, like charts and exports, in record time.\n\n**How It Works**\n\nThe process is straightforward:\n1. **Setup Data Sources**: Connect to various data sources\u2014be it a database, spreadsheet, or data warehouse\u2014and establish your reporting schemas.\n2. **Configure Components**: Choose the charts, tables, and exports your customers need through a user-friendly interface, requiring no coding skills.\n3. **Go Live!**: Launch your analytics site or embed the components directly in your app, providing immediate value to your users.\n\n**Integration with Existing Systems**\n\nOne of DataShare's standout features is its seamless integration with your current tech stack. It\u2019s designed to complement whatever databases, backends, and frontends you\u2019re already using, so you don\u2019t have to reinvent the wheel.\n\n**Backing and Growth**\n\nDataShare is part of Y Combinator's Batch S23 and is bolstered by strong mentorship, including support from group partner Harj Taggar. Currently, it has a petite but dedicated team of one, highlighting a focus on agility and innovation.\n\n**Targeted Audience**\n\nThe company operates in the realms of analytics, data engineering, and databases, catering specifically to developers and businesses looking for smart data solutions. \n\nTo explore further, visit [DataShare's website](http://datashare.co/) or get in touch through their contact options. If you're looking to enhance your application's data capabilities, DataShare might just be what you need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3511f81219cfa323106edee2848e6fa25e853f47.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3dab6dd4f6c1804a830e3bc5df6fc834f9129a029403f9cb5070edfeef8b024c",
+    "social_links": [
+        "https://www.linkedin.com/company/withdatashare/about/",
+        "https://twitter.com/WithDataShare",
+        "https://github.com/datashare-public"
+    ],
+    "logo_path": "data/logos\\DataShare_logo.png"
+}

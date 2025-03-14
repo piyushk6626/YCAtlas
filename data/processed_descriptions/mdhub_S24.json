@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/mdhub",
+    "name": "mdhub",
+    "headline": "AI assistants for mental health clinics to efficiently run their ops",
+    "batch": "S24",
+    "description": "mdhub is building AI assistants for mental health clinics to efficiently run their operations. \r\n\nInstead of seeing patients, mental health clinicians spend 50% of their time on other tasks, delaying access to mental health care. We aim to help mental health clinicians become 10x more efficient with mdhub by automating everything that occurs before, during, and after they see patients.",
+    "activity_status": "Active",
+    "website": "https://www.mdhub.ai/",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:machine-learning; industry:digital-health; industry:healthcare; industry:mental-health; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Dominik Middelmann, Founder",
+            "description": "Co-founder & CEO of mdhub. Previous Director Product Ops @ TIER Mobility. Previously @ BCG",
+            "linkedin": "https://www.linkedin.com/in/dominik-middelmann-01232378/"
+        },
+        {
+            "name": "Efren A. Lamolda, Founder",
+            "description": "On a mission to revolutionize mental health care with mdhub, I'm driven by the belief that technology can make mental health support accessible and affordable for everyone, everywhere. At the core of my work is a passion for creating impactful products that address real-world challenges in vital sectors.",
+            "linkedin": "https://linkedin.com/in/efrenal"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: mdhub**\n\n**Founded**: 2023  \n**Location**: San Francisco, CA  \n**Team Size**: 6 employees  \n**Y Combinator Batch**: S24  \n**Website**: [mdhub.ai](https://www.mdhub.ai)\n\n### Mission\nmdhub is on a mission to revolutionize mental health clinics by deploying AI assistants that streamline operations. The reality is that mental health clinicians often spend about half their time on administrative tasks instead of focusing on patient care. mdhub aims to change that by enhancing the efficiency of these professionals, potentially increasing their productivity by ten times.\n\n### The Problem\nMental health professionals are painfully aware of the administrative burden they face. As they juggle patient appointments, insurance verifications, and documentation, the access to mental health care becomes delayed\u2014leading to a critical need for solutions that can automate these processes.\n\n### What They Do\nmdhub focuses on automating the many tasks involved in mental healthcare provision. Their two primary offerings include:\n\n1. **AI Clinical Assistant**: \n   - **Automated Clinical Notes**: Generate real-time notes based on session transcripts.\n   - **Dictation and Live Session Recording**: Transcribe and create notes during live sessions.\n   - **Pre-Charting**: Use AI to reduce cognitive load with suggestions and pre-filled information.\n   - **Treatment Plans**: Rapidly create treatment plans using patient histories and clinical guidelines.\n\n2. **AI Intake Coordinator**: \n   - **Seamless Phone Interactions**: Collects patient information through conversational interactions.\n   - **Insurance Verification**: Automatically checks insurance eligibility.\n   - **Follow-Up Tasks**: Ensures timely reminders and follow-ups for patients.\n   - **Reports Generation**: Documents and organizes information from patient interactions.\n\n### Target Audience\nThe primary users of mdhub's technology are mental health clinicians who want to focus on patient care rather than administrative tasks. The company aims to enhance patient experiences while simultaneously improving clinicians' workflows.\n\n### Technology and Approach\nWith an intuitive interface and seamless integration with existing Electronic Health Record (EHR) systems, mdhub\u2019s AI tools are designed to handle complex data processing while ensuring compliance with data privacy standards, including HIPAA.\n\n### Initial Traction\nWhile it\u2019s just the beginning for mdhub, their vision resonates with many in the mental healthcare field. With the promise of saving at least two hours a day on administrative tasks, they\u2019ve garnered interest from clinics eager to leverage technology to enhance efficiency and patient care.\n\n### Conclusion\nmdhub is planting its flag in the burgeoning field of digital health, particularly within mental health. By focusing on automation through AI, they\u2019re not just addressing a critical problem but actively reshaping how mental health services can be delivered more efficiently. As they grow, it will be interesting to see how they continue to adapt and enhance their offerings in a sector that sorely needs it.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9cee5f5d863beb6f481fd60ba486ced0ec7e7e50.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191528Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fb7985f21954089984c5017a8252a8083ada4230c1df565c5dbbd64f92eee4b6",
+    "social_links": [
+        "https://www.linkedin.com/company/mdhub-ai"
+    ],
+    "logo_path": "data/logos\\mdhub_logo.png"
+}

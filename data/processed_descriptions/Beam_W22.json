@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/beam",
+    "name": "Beam",
+    "headline": "AI Infrastructure for Developers",
+    "batch": "W22",
+    "description": "Run AI workloads anywhere with zero complexity.",
+    "activity_status": "Active",
+    "website": "https://beam.cloud",
+    "founded_date": 2021.0,
+    "team_size": 5.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:machine-learning; industry:open-source; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Eli Mernit, Founder",
+            "description": null,
+            "linkedin": "https://linkedin.com/in/mernit"
+        },
+        {
+            "name": "Luke Lombardi, Founder",
+            "description": "Hardware/Software Engineer - like robotics and ML. Also an experienced prep cook.",
+            "linkedin": "https://www.linkedin.com/in/luke-lombardi-2165968b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Beam: Simplifying AI Infrastructure for Developers\n\n**Overview**  \nFounded in 2021 and part of the Y Combinator Batch W22, Beam is a New York-based startup on a mission to make AI infrastructure straightforward and accessible for developers. Their tagline says it all: *Run AI workloads anywhere with zero complexity.* The small but effective team of five is focused on removing the barriers developers face when working with AI and machine learning technologies.\n\n**What They Do**  \nBeam provides a powerful platform that enables developers to deploy AI models and workloads easily, allowing them to harness global GPUs with just a single line of Python. Their offerings include:\n\n1. **Serverless Inference APIs**: Quickly deploy APIs that come standard with essential features like autoscaling and logging. This is all done with minimal setup\u2014just one command.\n2. **Task Queues and Autoscaling**: Automatically increase resource allocation based on workload needs, optimizing performance without requiring manual management.\n3. **Global Data Management**: The platform simplifies data storage, ensuring that necessary files for training and inference are effectively managed across distributed cloud volumes.\n\nWith their unique approach, Beam has attracted a diverse range of customers, including notable companies and AI products that require high reliability and performance.\n\n**Community and Support**  \nBeam recognizes the power of community. They maintain an active Slack group where users can get swift support and share experiences. This focus on user interaction has earned positive testimonials about the user experience, highlighting Beam's responsiveness and effective troubleshooting abilities.\n\n**Why It Matters**  \nIn a world where every second counts, Beam stands out by slashing the time it takes to deploy machine learning applications. Users have reported major time savings\u2014from spending hours refining APIs to instant deployment at the push of a button. This efficiency empowers developers to focus more on innovation rather than infrastructure headaches.\n\n**Join the Movement**  \nIf you're a developer looking to dive into AI without the overhead of complex setups, Beam offers a compelling solution. Sign up now and enjoy 15 hours of free credit to get started on your AI journey.\n\nFor more information, check out their website: [Beam Cloud](https://beam.cloud).  \n\n**In Summary**  \nBeam is not just another player in the AI infrastructure space; it's a clear answer to the demands of modern developers. By combining robust capabilities with ease of use, Beam makes running AI workloads as simple as writing a line of code. Whether you\u2019re dealing with complex models or simply looking to explore AI, Beam provides the tools you need to scale and succeed.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/54dd3833a414e9af976367f3e25b07e75016d66e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191018Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=479e9bc9d239efafe7a099bdcf714729f2c9dc21e3bc37d9e27f78eb0f1deef6",
+    "social_links": [
+        "https://www.linkedin.com/company/slai-labs",
+        "https://twitter.com/beam_cloud",
+        "https://github.com/beam-cloud/beta9"
+    ],
+    "logo_path": "data/logos\\Beam_logo.png"
+}

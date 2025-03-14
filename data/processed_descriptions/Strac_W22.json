@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/strac",
+    "name": "Strac",
+    "headline": "Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints",
+    "batch": "W22",
+    "description": "Strac is an agentless Data Discovery (aka DSPM - Data Security Posture Management) & DLP (Data Leak Prevention) that automatically discovers, classifies and remediates sensitive data (alert, label, redact, mask, block, delete). \r\n\nStrac protects SaaS, Cloud, Gen AI and Endpoints like O365, Slack, GDrive, AWS, Salesforce, ChatGPT, Jira, Mac, Zendesk, and 40+ integrations. \r\n\nStrac protects enterprise companies like UiPath, ThredUP, Nylas, Crypto (dot) com!",
+    "activity_status": "Active",
+    "website": "https://www.strac.io/",
+    "founded_date": 2021.0,
+    "team_size": 8.0,
+    "location": "Bellevue, WA",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:saas; industry:security; industry:enterprise",
+    "founders": [
+        {
+            "name": "Aatish Mandelecha, Founder",
+            "description": "Aatish spent 11 years at Amazon building their payments infrastructure (Widget, API and Security) including payment secure zone on AWS securing their credit cards, bank accounts and payment partners.",
+            "linkedin": "https://www.linkedin.com/in/aatishmandelecha/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Strac is a cutting-edge data security firm focused on helping businesses discover, classify, and protect their sensitive data in various environments. Founded in 2021 and part of the Y Combinator Batch W22, Strac operates from Bellevue, WA, with a small but expert team of 8 employees. They creatively harness the latest in Artificial Intelligence, particularly around Generative AI. \n\nThe company's mission revolves around Data Discovery, Data Loss Prevention (DLP), and Data Security Posture Management (DSPM), specifically tailored for SaaS applications, Cloud services, Generative AI platforms, and endpoints. Their approach is agentless, meaning they can effectively discover and remediate sensitive information without installing software on each device. \n\nStrac's product suite can automatically identify, label, redact, mask, block, or delete sensitive data in real time. They offer impressive integration capabilities, supporting over 40 platforms, including well-known services such as Office 365, Slack, Google Drive, AWS, and Salesforce. Their clients include notable enterprises like UiPath, ThredUP, Nylas, and even Crypto.com, underscoring their credibility in the market.\n\nKey features include:\n\n- **SaaS DLP**: Spotting and managing sensitive information across SaaS applications.\n- **Endpoint DLP**: Protecting data at endpoint devices, enhancing the enterprise data security layer.\n- **Email Security**: Ensures confidential data isn't exposed in email communications.\n- **Sensitive Data Scanning**: They provide accurate scanning across all endpoints and cloud solutions, helping organizations stay compliant with regulations like HIPAA, PCI, and GDPR.\n  \nThe firm is led by prominent figures in the startup ecosystem, including Michael Seibel as their Group Partner. With their innovative techniques and commitment to security, Strac positions itself as a guardian of sensitive data, paving the way for safer business operations in an increasingly digital world.\n\nTo learn more about Strac and their solutions, visit their website at [strac.io](https://www.strac.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/73569cdccc9c1c892c5de9d11c3fcb3e827e5e58.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9f8e6713baa17218ca5126981604f3344d6d24f511aa9dbb42372cf8b9f9a7d4",
+    "social_links": [
+        "https://www.linkedin.com/company/securewithstrac/",
+        "https://twitter.com/securewithstrac"
+    ],
+    "logo_path": "data/logos\\Strac_logo.png"
+}

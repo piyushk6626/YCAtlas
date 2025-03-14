@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/clearly-ai",
+    "name": "Clearly AI",
+    "headline": "Automate security and privacy reviews",
+    "batch": "S24",
+    "description": "Clearly AI automates security and privacy reviews with AI. We performed hundreds of reviews at Amazon and Moveworks and now we're building the product we wish we had. We launched in August 2024 and secured two paid pilots within a week, including a major electric automaker. Our users complete reviews in minutes instead of days.\r\n\nEmily and Joe are technical co-founders and senior engineers. We met in 2019 while working on an Alexa security review.",
+    "activity_status": "Active",
+    "website": "https://clearly-ai.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "Seattle, WA",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:security; industry:privacy; industry:ai; location:seattle",
+    "founders": [
+        {
+            "name": "Emily Choi-Greene, Founder",
+            "description": "Founder/CEO at Clearly AI.  Previously, Emily owned data security and privacy at Moveworks. Before that, she spent 5 years at Amazon, where she led Alexa AI Security. Emily performed hundreds of security and privacy reviews, from Moveworks' AI data lifecycle to Alexa's machine learning compute platform (used by 5000+ ML scientists). Emily graduated with High Honors in Computer Science from Dartmouth College.",
+            "linkedin": "https://www.linkedin.com/in/emilycgreene/"
+        },
+        {
+            "name": "Joe Choi-Greene, Founder",
+            "description": "Founder/CTO at Clearly AI. \nPreviously, Joe was a sr. software engineer at Amazon. Joe led the satellite telemetry team at Project Kuiper and built exabyte scale datalakes at Alexa.  \nJoe graduated from Carnegie Mellon University with a degree in computer science.",
+            "linkedin": "https://www.linkedin.com/in/joseph-choi-cmu"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Clearly AI: A Quick Overview**\n\n**Company**: Clearly AI  \n**Founded**: August 2024  \n**Location**: Seattle, WA  \n**Team Size**: 2 people  \n**Investors**: Backed by Y Combinator (Batch S24)\n\n**Mission**: Automate security and privacy reviews to empower organizations to focus on what really matters.\n\n### The Problem and Solution\n\nClearly AI was born out of experience\u2014founders Emily and Joe, both seasoned engineers, realized the challenges faced in conducting security and privacy reviews. After working on complex projects at Amazon and Moveworks, they\u2019ve set out to create a tool that automates these painstaking processes. Instead of taking days, users can complete security reviews in mere minutes.\n\n### What They Offer\n\nClearly AI delivers tailored AI solutions aimed at streamlining security and privacy processes in three main areas:\n\n1. **Security Reviews**: Automating the assessment of software to ensure compliance with industry best practices and internal policies.\n2. **Privacy Reviews**: Conducting assessments to verify that all new features and products meet relevant privacy regulations.\n3. **Vendor Risk Assessments**: Evaluating third-party vendors for their compliance with security standards, helping teams make informed decisions.\n\n### The Team\n\n- **Emily** (CEO): With a rich background at Moveworks and Amazon, where she focused on AI security for Alexa, Emily leads the mission to safeguard customer privacy and security.\n- **Joe** (CTO): Joe\u2019s experience includes building software at Amazon and critical roles in various security reviews. \n\n### Quick Wins\n\nSince launching, Clearly AI quickly secured two paid pilot projects within the first week, including collaboration with a major electric vehicle manufacturer. \n\n### Getting Involved\n\nIf you\u2019re interested in automating your security and privacy reviews, don\u2019t hesitate to check out their [website](https://clearly-ai.com) or join their waitlist. Emily and Joe promise a solution built by security engineers for security engineers, simplifying the complexities of compliance while enhancing efficiency.\n\nIn essence, Clearly AI isn\u2019t just another tech startup; it\u2019s the answer to a nagging problem in a world increasingly aware of security and privacy concerns.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8cfef7779db89e3459ce52b473f62ea15d717701.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191052Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0e1624f54749333208ba3dabb00ca0b9318396a0a38b264e3dd2ce4d4f7a3bc9",
+    "social_links": [
+        "https://www.linkedin.com/company/clearly-ai",
+        "https://twitter.com/ItsClearlyAI"
+    ],
+    "logo_path": "data/logos\\Clearly_AI_logo.png"
+}

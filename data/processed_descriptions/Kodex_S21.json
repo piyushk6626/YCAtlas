@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/kodex",
+    "name": "Kodex",
+    "headline": "Easiest way for companies to process data requests from governments",
+    "batch": "S21",
+    "description": "Kodex makes it easy for companies to process, and respond to, subpoenas from governments around the world. Agencies, like the FBI, subpoena user data from customers like Coinbase, and thousands of other companies - without Kodex, companies largely rely on email, fax, and spreadsheets to manage them.\r\n\nKodex is a SaaS tool that helps private sector companies manage relationships, workflows, and secure file transfer with government agencies who are seeking confidential information on a company's users. We streamline compliance operations, protect the privacy of their users, reduce error, and validate the legitimacy of government agents who are requesting information.",
+    "activity_status": "Active",
+    "website": "https://www.kodexglobal.com",
+    "founded_date": 2020.0,
+    "team_size": 30.0,
+    "location": "Boston",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:govtech; industry:compliance; industry:legaltech; industry:regtech; location:boston",
+    "founders": [
+        {
+            "name": "Matt Donahue, Founder",
+            "description": "Formerly Counterterrorism Intelligence for the FBI. While in the FBI, Matt often saw multi-billion dollar companies struggle to comply with legal orders. He left the FBI in order to fix the way in which the public and private sectors engage/collaborate with one another by creating Kodex.",
+            "linkedin": "https://www.linkedin.com/in/matt-donahue-9bb60188/"
+        },
+        {
+            "name": "Danny Mendoza, Founder",
+            "description": "Co-founder and CTO @ Kodex",
+            "linkedin": "https://www.linkedin.com/in/jdmendoza1/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Kodex, founded in 2020 as part of Y Combinator's Batch S21, is a Boston-based SaaS company on a mission to simplify how businesses handle data requests from government agencies. Think of them as a bridge between companies and law enforcement, helping to streamline often cumbersome processes like responding to subpoenas. \n\nThe crux of the problem is familiar to many: when a government agency, say the FBI, requests user data, companies can find themselves tangled in a web of fragmented communications via email, fax, and, yes\u2014spreadsheets. This manual approach exposes firms to compliance risks, potential data breaches, and costly delays. That\u2019s where Kodex steps in.\n\nKodex provides a centralized, secure platform where companies can effortlessly manage these requests. The system validates the legitimacy of agents, automates workflows, protects user privacy, and generates real-time transparency reports\u2014all while keeping sensitive information secure. Essentially, it's digitizing and refining what used to be a messy, error-prone process.\n\nToday, Kodex boasts a team of around 30 employees and has built relationships with over 15,000 government agencies globally. Their client list includes well-known firms in the crypto and financial sectors, like Coinbase and Bitfinex, which underscores the trust and necessity of their services in heavily regulated environments.\n\nIf your company is still wrestling with an outdated data request system, you might want to look into how Kodex could significantly reduce your operational headaches while bolstering your compliance posture. Check them out at [Kodex Global](https://www.kodexglobal.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a64335e31efbc741d68d233d8ea81a5cab6c5a01.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191453Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dbf99062c32a1576512653aad3be3b5ef09e5f7fd39cf9b79076c7d887691bcb",
+    "social_links": [
+        "https://www.linkedin.com/company/thekodex",
+        "https://twitter.com/KodexInc"
+    ],
+    "logo_path": "data/logos\\Kodex_logo.png"
+}

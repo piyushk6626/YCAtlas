@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/signatur-biosciences",
+    "name": "Signatur Biosciences",
+    "headline": "Simple tests for complex diseases.",
+    "batch": "S22",
+    "description": "We make precision diagnostics more accessible, starting with breast cancer prognosis. Current tests that guide the use of therapy are really slow and expensive because they need to be run in complex centralized facilities. Our tests are designed to be easily run by local hospital labs, reducing turnaround time from over three weeks to a few days and for a fraction of the price.",
+    "activity_status": "Active",
+    "website": "https://www.signatur.bio/",
+    "founded_date": 2022.0,
+    "team_size": 5.0,
+    "location": "London, United Kingdom",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:biotech; industry:healthcare; industry:diagnostics",
+    "founders": [
+        {
+            "name": "John Goertz, Founder",
+            "description": "Co-founder, CSO, and PCRchitect at Signatur Biosciences. I teach machine learning to molecules to expand the range of diseases we can diagnose with PCR. NIH F32 Postdoctoral Fellow in the the Stevens Group at Imperial College London; PhD Bioengineering from University of Maryland, College Park; BSc Physics and Cell & Molecular Biology from Seattle University. When I\u2019m not programming DNA, I\u2019m cooking, running, or doing martial arts (Danzan-Ryu Japanese Jujitsu).",
+            "linkedin": "https://www.linkedin.com/in/johngoertz/"
+        },
+        {
+            "name": "Celestin de Wergifosse, Founder",
+            "description": "Co-founder and CEO of Signatur Biosciences. Startups since the age of 14. First patent at 15. WIPO Best Young Inventor 2010. Twice TEDx speaker. Co-founded Young Change Maker, a social startup that highlights inspiring individuals. Co-founded and sold a company called Sauna en Bois. Bio-engineering from Imperial College London. When I don't work, I race motorcycles, climb or ski. My life-long goal is to develop biotech companies that address global issues.",
+            "linkedin": "https://www.linkedin.com/in/celestin-de-wergifosse-41b9823b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Signatur Biosciences**\n\nFounded in 2022 as part of the Y Combinator Batch S22, Signatur Biosciences is a London-based biotech startup on a mission to deliver \u201csimple tests for complex diseases.\u201d With a compact team of five, the company aims to revolutionize precision diagnostics, starting with a focus on breast cancer prognosis.\n\n**The Problem: Accessibility of Precision Diagnostics**\n\nCurrent diagnostic tests for guiding therapy are notoriously slow and costly. They often depend on intricate centralized facilities that can take over three weeks to deliver results, which is downright unacceptable when lives hang in the balance. Signatur recognizes that many patients\u2014especially in underserved areas\u2014don't have access to timely, affordable diagnostic tools. \n\n**The Solution: Smarter PCR Kits**\n\nAt its core, Signatur Biosciences leverages its innovative **PCRchitectur** technology to streamline and enhance the diagnostic process. Instead of traditional PCR tests that are limited by their need for expensive machinery and lengthy procedures, Signatur's smart PCR kits can be run on standard qPCR machines found in local hospital labs. \n\nThis means a significant reduction in turnaround time from weeks to mere days, enabling faster decision-making in treatment paths. No longer do clinicians have to sift through complex workflows or rely on numerous tests. Signatur\u2019s kits consolidate the work of detecting and interpreting multiple RNA biomarkers into a single test, making the process more efficient and cost-effective.\n\n**A Bigger Vision**\n\nSignatur Biosciences doesn't just see itself as a player in breast cancer prognosis; its ambition is to expand the scope of PCR testing to cover a wider range of diseases, paving the way for smarter healthcare solutions that are both affordable and accessible globally.\n\nIn summary, by making precision diagnostics accessible and efficient, Signatur Biosciences stands at the forefront of modern healthcare innovation, potentially reshaping how we think about disease detection and management. \n\nFor more insights, check out their website: [Signatur Biosciences](https://www.signatur.bio/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f123b92f6ac1bec890b41c4e151c521691533b1f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191926Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b1518abfd7f9c2be0aae52ce1afe7806c767070fa7f54c45104419dd579bf795",
+    "social_links": [
+        "https://www.linkedin.com/company/signatur-bio/",
+        "https://twitter.com/SignaturBio"
+    ],
+    "logo_path": "data/logos\\Signatur_Biosciences_logo.png"
+}

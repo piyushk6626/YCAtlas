@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/tivara",
+    "name": "Tivara",
+    "headline": "Using LLMs to automate insurance approval for healthcare clinics",
+    "batch": "S24",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://tivara.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:healthcare",
+    "founders": [
+        {
+            "name": "Tej Seelamsetty, Founder",
+            "description": "Founder and CEO of Tivara.\n\nI started my entrepreneurship journey at 18 years old: As soon as I could sign a personal guarantee, I started flipping houses to (successfully) pay for college. Building software to automate the tedious aspects of my own due diligence opened my eyes to the magic of code. Since then, I led growth (10x-ed revenue) at Fair Square (W20) and worked as a consultant at Bain. I studied computer science and financial engineering at WashU.",
+            "linkedin": "https://linkedin.com/in/tej-seelamsetty"
+        },
+        {
+            "name": "Aumesh Misra, Founder",
+            "description": "Co-founder and CTO of Tivara. I've spent 4 years building software at Microsoft and Compound (YC S19). I was the 8th engineer at Compound and helped grow the company to over $2B AUM. Prior to this, I researched and developed software for novel medical imaging devices at Stanford.",
+            "linkedin": "www.linkedin.com/in/aumesh-misra"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Tivara: Automating Healthcare Insurance Approvals**\n\nFounded in 2024 and part of Y Combinator Batch S24, Tivara is a forward-looking startup on a mission to revolutionize the healthcare insurance approval process. Their innovative use of large language models (LLMs) aims to streamline prior authorizations for healthcare clinics, making them both faster and more cost-effective.\n\nThe company is based entirely online, minimizing overhead while maximizing reach, and they currently operate with a lean team of just two dedicated employees. At the helm are co-founders Tej Seelamsetty (CEO) and Aumesh Misra (CTO), both of whom are motivated by personal experiences with frustrating delays in healthcare services stemming from slow insurance approvals.\n\n### What Tivara Does\n\nTivara is all about speed and efficiency in handling prior authorizations. Here\u2019s how they\u2019re shaking things up:\n\n- **Rapid Approvals**: The platform claims to approve care-critical prior authorizations at a staggering 30 times the speed of traditional processes, all while reducing costs by up to 80%. This means clinics can serve patients faster, which is a win for everyone involved.\n  \n- **One-Click Submission**: With Tivara, authorization requests are generated directly from provider orders and patient charts, significantly cutting down the time needed for submissions. This feature not only expedites the process but also minimizes errors.\n\n- **Transparency and Tracking**: Tivara's system allows clinics to monitor the status of every authorization request without the need for endless phone calls, delivering much-needed clarity to the often opaque insurance approval process.\n\n- **Analytics Dashboard**: They provide clinics with analytics to track key performance indicators, giving insights into where workflow inefficiencies might be and how teams can improve over time.\n\n- **EMR Integration**: The platform seamlessly connects with any electronic medical record (EMR) system, allowing healthcare providers to generate authorization requests directly from patient data.\n\n### The Takeaway\n\nTivara is addressing a significant pain point in the healthcare sector\u2014the slow, cumbersome process of insurance prior authorizations. By leveraging the power of AI and LLMs, they are not just building software but creating a healthcare ecosystem where care is prioritized over cumbersome insurance policies. This focus on empowering doctors to lead care rather than navigating bureaucratic hurdles reflects a deeper understanding of the healthcare landscape.\n\nWhether you\u2019re a clinic looking to streamline operations or a patient hoping for a quicker treatment path, Tivara is gearing up to make those experiences smoother and faster. You can find out more about them at [Tivara's website](https://tivara.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2e4f4e48f7bd0ca3f31dc3ac1e220fec20b4629f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192018Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1501e9d0662d74ed7345ca273434015ff902f09bc211ae8e8dcae824a9ccc8ac",
+    "social_links": [
+        "https://www.linkedin.com/company/tivara/"
+    ],
+    "logo_path": "data/logos\\Tivara_logo.png"
+}

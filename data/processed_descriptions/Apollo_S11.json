@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/apollo",
+    "name": "Apollo",
+    "headline": "Apollo helps engineering teams accelerate delivery",
+    "batch": "S11",
+    "description": "Apollo GraphQL is the leader in open source and commercial GraphQL technologies. Apollo\u2019s open-source GraphQL client, server, and gateway are downloaded more than 17M times per month and used in production by over 30% of the Fortune 500. Customers like Walmart, Expedia, Glassdoor, Audi, and PayPal, use the Apollo Graph Platform to unify their GraphQL efforts, collaborate on graph development, and safely iterate on their graphs. Based in San Francisco, Apollo is backed by Insight Partners, Andreessen Horowitz, Matrix Partners, Trinity Ventures, Y Combinator and individual investors.",
+    "activity_status": "Active",
+    "website": "http://apollographql.com/",
+    "founded_date": 2012.0,
+    "team_size": 200.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:graphql; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "matt debergalis, Founder/CTO",
+            "description": "-",
+            "linkedin": "https://linkedin.com/debergalis"
+        },
+        {
+            "name": "Nick Martin, Founder/CTO",
+            "description": null,
+            "linkedin": null
+        },
+        {
+            "name": "Geoff Schmidt, Founder/CEO",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/gschmidt/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Let\u2019s talk about Apollo, a company that's redefining how engineering teams accelerate their delivery through the power of GraphQL. Initially launched as Apollo GraphQL, they've quickly become a key player in both open-source and commercial GraphQL technologies. With a robust combination of tools\u2014the Apollo Client, Server, and Gateway\u2014their technology is downloaded over 17 million times a month, and it's trusted by a whopping 30% of the Fortune 500 companies including giants like Walmart and PayPal.\n\nFounded in 2012 and backed by a powerhouse cast of investors like Insight Partners, Y Combinator, and Andreessen Horowitz, Apollo is headquartered in San Francisco and currently boasts a dynamic team of 200 employees. They're not just another tech tool; they're a partner in the development process, assisting teams in building and scaling their APIs efficiently.\n\nTheir suite of products focuses on three foundational pillars:\n\n1. **Faster Development**: The Apollo GraphOS platform allows backend teams to create a self-service, self-documenting graph. This architecture reduces boilerplate code and allows teams to deliver updates faster. In practical terms, it means that once a developer defines data semantics, it can deliver across various applications seamlessly.\n\n2. **Improved Collaboration**: Apollo fosters better collaboration among backend teams by providing a centralized registry and standardized workflows. This means less friction when teams need to work together, helping developers to focus on what truly matters\u2014building features!\n\n3. **Performance Optimization**: By reducing unnecessary latency and allowing frontend teams to fetch all required data in a single request, Apollo helps in optimizing the performance of applications. They even offer GraphQL-native metrics through GraphOS for quick diagnosis of any performance issues.\n\nTheir customers' feedback speaks volumes. Leaders from Booking.com, Netflix, and many more have testified to the transformational impact Apollo\u2019s solutions have had on their engineering processes. For instance, Rick Fast from Expedia praised their unified approach, stating that it allowed them to rebuild their entire trips experience three times faster than their previous methods.\n\nIn a nutshell, Apollo is on a mission to make GraphQL the centerpiece of modern engineering practices. If you're looking for robust tooling for faster development, improved collaboration, and enhanced performance, they're worth your attention. You can learn more about Apollo and explore their offerings at [Apollo GraphQL](http://apollographql.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d8831fec5d9313fd899f7c793a2dbfd55049382f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191000Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=eca44e14de33f21ba29bfc11a1fb5736582fa3ee0d5d4328aee2299c46cfde80",
+    "social_links": [
+        "https://www.linkedin.com/company/apollo-graphql/",
+        "https://twitter.com/apollographql",
+        "https://www.crunchbase.com/organization/meteor",
+        "https://github.com/apollographql"
+    ],
+    "logo_path": "data/logos\\Apollo_logo.png"
+}

@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/leya",
+    "name": "Leya",
+    "headline": "The AI workspace for lawyers",
+    "batch": "W24",
+    "description": "Leya is an AI-powered workspace for law firms and legal professionals. \r\n\nLeya lets lawyers automate their repetitive tasks and access public sources and their own data on one single platform.\r\n\nLearn more at https://www.leya.law/",
+    "activity_status": "Active",
+    "website": "https://www.leya.law/",
+    "founded_date": 2023.0,
+    "team_size": 12.0,
+    "location": "Stockholm, Sweden",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:legaltech; industry:ai",
+    "founders": [
+        {
+            "name": "Max Junestrand, Founder",
+            "description": "Max is the CEO and co-founder of Leya, where he focuses on developing trustworthy AI assistants for lawyers. Prior to Leya, Max contributed to growth initiatives at two Y Combinator startups, worked at McKinsey, engaged in venture capital, and served as a software developer at Abios (acquired by Kambi) and Ericsson. He earned two degrees in machine learning and business from Sweden's top two universities, KTH and SSE, in parallel whilst working full-time.",
+            "linkedin": "https://linkedin.com/in/maxjunestrand"
+        },
+        {
+            "name": "August Ers\u00e9us, Founder",
+            "description": "Founder of Leya (W24). Initially pursuing a career in Psychology, fell in love with programming and turned hacker. Stockholm based.",
+            "linkedin": "https://linkedin.com/in/erseus"
+        },
+        {
+            "name": "Sigge Labor, Founder",
+            "description": "Family tech support. I can reset grandparents' forgotten email passwords, and I plug in the HDMI for siblings. Graduated from Hyper Island and worked as a full-stack developer at startups since. Founded the first-ever Mexican hops company, but currently building the future of legal work at Leya (W24).",
+            "linkedin": "https://linkedin.com/in/siggelabor"
+        }
+    ],
+    "status": true,
+    "generated_description": "Leya, founded in 2023 and based in Stockholm, Sweden, is an innovative startup that's part of the Y Combinator Batch W24. Its mission? To create \"The AI workspace for lawyers\". In simple terms, Leya is a platform designed specifically for law firms and legal professionals to automate mundane tasks and centralize access to both public legal sources and their internal data\u2014all from one powerful interface.\n\nWith a growing team of 12 employees, Leya is heavily focused on generative AI and legal tech\u2014two areas ripe for disruption. The company aims to enhance legal operations by allowing lawyers to streamline their workflows, improve outcomes, and ultimately elevate productivity. Imagine being able to breeze through document reviews or legal inquiries without getting bogged down in repetitive tasks; that\u2019s the goal here.\n\nLeya\u2019s functionality includes features that allow users to extract structured data from multiple documents simultaneously, get instant legal answers with supporting evidence, and ensure seamless collaboration. Plus, they're serious about security\u2014Leya complies with GDPR regulations and is certified for ISO 27001:2022 and SOC 2 Type I & II, so users can trust that their sensitive information is safe.\n\nWhat\u2019s more, feedback from users has been overwhelmingly positive. Lawyers from top firms sing Leya\u2019s praises, highlighting its speed, innovative roadmap, and how it integrates perfectly with their existing operations.\n\nIf you\u2019re in the legal profession and looking to amplify your efficiency while maintaining high standards of accuracy and confidentiality, Leya might just be the tool you\u2019ve been waiting for. To learn more or see it in action, check out their [website](https://www.leya.law/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6875d00a8252306b79ad9c59bdffb87697cf8e34.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191506Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6aa575be81b7c717fd78e1e68f2b673d153b1117ba9c7b8327615356f1aa8146",
+    "social_links": [
+        "https://www.linkedin.com/company/leyalaw/"
+    ],
+    "logo_path": "data/logos\\Leya_logo.png"
+}

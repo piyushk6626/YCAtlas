@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/taxo",
+    "name": "Taxo",
+    "headline": "Automated healthcare administration",
+    "batch": "S24",
+    "description": "Taxo integrates with electronic health records (EHRs) to automate medical billing and coding. Its AI-powered solution reduces the time and cost of claims processing by >90%, enabling providers to focus on patient care rather than administrative tasks.",
+    "activity_status": "Active",
+    "website": "https://taxo.ai",
+    "founded_date": 2024.0,
+    "team_size": 8.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:healthcare; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ahmed Kerwan, Founder",
+            "description": "Physician-scientist with a research portfolio in surgery, AI, and hospital workflows (>24,000 citations). Previously a Fulbright Scholar and Knox Fellow. Interested in autonomous healthcare.",
+            "linkedin": "https://linkedin.com/in/ahmedkerwan"
+        },
+        {
+            "name": "Hassan Tahir, Founder",
+            "description": "Currently focused on implementing AI in healthcare. Background in building NLP powered products from research to production using state of the art ML architectures including LLMs from 2017 onwards. Author of published ML research in scientific journals.",
+            "linkedin": "https://linkedin.com/in/hassan--tahir"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Quick Overview of Taxo\n\n**Name**: Taxo  \n**Founded**: 2024  \n**Location**: San Francisco, California  \n**Team Size**: 8 employees  \n**Y Combinator Batch**: S24  \n**Website**: [Taxo.ai](https://taxo.ai)\n\n**Mission**: Taxo aims to revolutionize healthcare administration through automation. \n\n### What They Do\n\nInitially, Taxo integrated seamlessly with electronic health records (EHRs) to streamline medical billing and coding. Their AI-driven solution boasts a stunning reduction of over 90% in claims processing time and costs. This transformation enables healthcare providers to redirect their focus toward patient care instead of getting bogged down by administrative tasks.\n\n**Key Features**:\n- **Apex\u2122 Language Model**: Taxo has developed Apex\u2122, a cutting-edge language model tailored specifically for healthcare. This model employs advanced methods like ensemble modeling to quickly and accurately extract and analyze healthcare data.\n- **Data Security**: They take data protection seriously, adhering to HIPAA standards and possessing SOC2 Type II certification. This ensures that all client data remains encrypted and confidential.\n\n### Partnerships\nThey have established partnerships with prestigious institutions like Brigham and Women's Hospital, Stanford, and Boston Children's Hospital, reinforcing their credibility within the industry.\n\n### Current Activities\nTaxo is focused on providing tailored solutions for:\n- **Providers**: Helping healthcare workers streamline their workflows.\n- **Payers**: Helping insurance companies manage claims and payments more efficiently.\n\n### Insight\nIn an industry where time and efficiency often dictate patient outcomes, Taxo's commitment to automating tedious administrative processes is a game-changer. By allowing healthcare professionals to prioritize care, they not only improve operational efficiency but also elevate the overall quality of patient interaction. As they continue to enhance their offerings, it's clear that Taxo is well-positioned to make significant strides in the healthcare sector.\n\nTo learn more, visit [Taxo.ai](https://taxo.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b7442caad083208498c8a5a0c9d91c5d7433a408.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192007Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f80fdae6e9a7ecc0a2c19305c92d76464ee3f5cb7f3e8eb194447fd49e67a413",
+    "social_links": [
+        "https://www.linkedin.com/company/taxo-ai/"
+    ],
+    "logo_path": "data/logos\\Taxo_logo.png"
+}

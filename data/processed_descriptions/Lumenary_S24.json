@@ -1,0 +1,46 @@
+{
+    "links": "https://www.ycombinator.com/companies/lumenary",
+    "name": "Lumenary",
+    "headline": "Build production-worthy software quickly with AI.",
+    "batch": "S24",
+    "description": "Lumenary is a code-generation platform and IDE that makes designing rigorous, data-intensive applications feel like whiteboarding. We provide a canvas-based UI that helps users and LLMs work off the same code and infrastructure context, while programmatically generating full-stack apps from high-level specifications.\r\n\nLumenary was founded by four best friends who met at Dartmouth College, with engineering expertise from Jane Street Capital, IMC Trading, and Palantir Technologies. They've published high impact machine learning research in venues like NeurIPS, in addition to deploying secure enterprise software managing billions of dollars and petabytes of data.",
+    "activity_status": "Active",
+    "website": "https://lumenary.com",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:automation; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Vivek Hazari, Founder, CEO",
+            "description": "Vivek is the CEO and co-founder of Lumenary. Prior to starting Lumenary, Vivek spent 2 years at Palantir Technologies, where he worked across the commercial business, and later help found and lead a team to aid the development of AIP. He studied Computer Science and Philosophy at Dartmouth College, where he did research on applications of language models.",
+            "linkedin": "https://www.linkedin.com/in/vivekhaz/"
+        },
+        {
+            "name": "Daniel DiPietro, Founder",
+            "description": "Dan is the co-founder and COO of Lumenary. Previously, Dan worked at Jane Street, where he built capital allocation optimizations used in production to invest billions of dollars of assets, as well as an options tool used to execute >$100m of trades annually. He has published multiple first-author publications in high-impact venues like NeurIPS and CoRL. Dan moonlights as a botanist and published a best-selling botanical textbook on carnivorous plants while studying at Dartmouth College.",
+            "linkedin": "https://www.linkedin.com/in/daniel-dipietro/"
+        },
+        {
+            "name": "Ziray Hao, Founder / CPO",
+            "description": "Ziray is a cofounder at Lumenary. Prior, he designed AI product for Palantir Technologies.",
+            "linkedin": "https://www.linkedin.com/in/ziray-hao/"
+        },
+        {
+            "name": "John McCambridge, Founder",
+            "description": "CTO of Lumenary & former high-frequency trading engineer - I like to fly (and jump from) small aircraft, build rockets with kitchen chemicals, visit vulnerable endpoints, and play poker - Born in New Zealand, raised in Scottish Highlands.",
+            "linkedin": "www.linkedin.com/in/johnmccambr"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Lumenary: A New Dawn in Software Development**\n\nFounded in 2024 by four Dartmouth friends\u2014Dan, John, Vivek, and Ziray\u2014Lumenary is setting out to transform how we build software, making the experience as intuitive as whiteboarding. Imagine designing complex, data-heavy applications with the ease of sketching ideas on a whiteboard. That\u2019s the vision behind Lumenary's innovative code-generation platform and integrated development environment (IDE).\n\nDrawing from their backgrounds at notable firms like Jane Street Capital, IMC Trading, and Palantir Technologies, the founders are not just dreamers; they bring serious engineering prowess and a track record of impactful machine learning research. They\u2019ve previously deployed secure enterprise software responsible for managing billions of dollars and vast amounts of data. The company is part of Y Combinator\u2019s Batch S24, which is a solid endorsement for any startup.\n\nLumenary effectively creates a shared context between human developers and AI models, allowing both to collaborate seamlessly while building full-stack applications from high-level specifications. The key here is a canvas-based user interface that enhances this collaborative experience, making software development feel less like a chore and more like a creative endeavor.\n\nLocated in the bustling tech hub of San Francisco, Lumenary\u2019s compact team of four is laser-focused on building tools that make software development simpler and more efficient. Their mission? To facilitate the rapid development of production-quality software by harnessing the power of artificial intelligence.\n\nThe company\u2019s online presence can be found at [lumenary.com](https://lumenary.com), where you can learn more about how they\u2019re shaping the future of developer tools through automation and AI. If you're intrigued, feel free to reach out via contact@lumenary.com.\n\nIn a world that's constantly evolving, Lumenary stands out by aligning cutting-edge technology with the very human process of creative problem-solving. Keep an eye on this one; they might just change how we think about software development forever.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6ef44de14d5a345593df7ce2f89075dee9e8ffc9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191515Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c225042e84dd80a2ec831da41a7241c9616fb16886f93eeac96658dc4277ab03",
+    "social_links": [
+        "https://www.linkedin.com/company/lumenary-tech/"
+    ],
+    "logo_path": "data/logos\\Lumenary_logo.png"
+}

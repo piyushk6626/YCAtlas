@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/artillery",
+    "name": "Artillery",
+    "headline": "Modern testing platform for DevOps & SRE",
+    "batch": "S21",
+    "description": "A complete load testing platform, designed for continuous testing. Run load tests from your own AWS account, with zero infra to manage.\r\n\nUsed by thousands of developer teams to help keep their production systems fast & reliable.",
+    "activity_status": "Active",
+    "website": "https://artillery.io",
+    "founded_date": 2021.0,
+    "team_size": 5.0,
+    "location": "Limerick, Ireland",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:open-source; industry:devops",
+    "founders": [
+        {
+            "name": "Hassy Veldstra, Founder",
+            "description": "SRE and open source developer turned founder. On a mission to help dev teams ship fast & reliable systems that keep users happy and pagers silent.",
+            "linkedin": "https://uk.linkedin.com/in/hveldstra"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Artillery: Revolutionizing Load Testing for the Modern Era\n\n**Overview**  \nFounded in 2021 and based in Limerick, Ireland, Artillery is a rising star in the realm of DevOps and Site Reliability Engineering (SRE). This company emerged from Y Combinator's S21 batch, and it\u2019s carving out a unique niche in the tech landscape.\n\n**Mission**  \nArtillery's mission is straightforward yet ambitious: to create a modern testing platform optimized for DevOps and SRE practices, aiming to make load testing accessible, scalable, and efficient.\n\n**What They Do**  \nInitially, Artillery began as a comprehensive load testing platform designed for continuous testing. Its standout feature allows users to run load tests from their own AWS account without the burden of infrastructure management. This approach has garnered the attention of thousands of developer teams, helping them maintain fast and reliable production systems.\n\n**Key Features**  \n- **Scalable and Serverless:** Artillery leverages serverless load generators to execute tests within your AWS or Azure environment, ensuring cost-effectiveness as users only pay for what they use.\n- **Comprehensive Testing Capabilities:** It can test web applications, APIs, GraphQL services, WebSockets, and more\u2014encompassing a wide range of use cases.\n- **Easy Integration:** With over 20 integrations available, including for popular CI/CD tools and monitoring services, Artillery fits smoothly into existing workflows.\n- **Continuous Testing Focus:** The platform is built for continuous testing, allowing developer teams to keep their systems resilient through regular load checks.\n\n**Current Landscape**  \nArtillery is quite small, with a tight-knit team of five, and showcases a flexible work environment. Aaron Epstein serves as their Group Partner, providing guidance and strategic direction.\n\n**Why Artillery Matters**  \nIn a world where traffic spikes and new code deployments can jeopardize service reliability, traditional load testing methods often fall short. Artillery is addressing these gaps by offering a tool that is not only easy to use but also robust enough to facilitate real-time testing. It\u2019s a fresh take on load testing informed by hands-on experience in production engineering.\n\n**The Future Vision**  \nArtillery aims to redefine the load testing landscape so that teams can go from zero to production-scale testing rapidly. By advocating for a culture where load testing is as routine as unit testing, Artillery is working towards a future where robust application performance is a standard expectation rather than a gamble.\n\nFor more information, visit [Artillery\u2019s official site](https://artillery.io). Here\u2019s to keeping production systems reliable, customers happy, and \u2014 most importantly \u2014 reducing pager duty calls!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b83d37a9c18ef70f0d27f05820ad2606b966c3bd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191005Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dd19b7294fc994b0a1b94be3cafe7a4e42136bf89062e5f2f940550135afdc49",
+    "social_links": [
+        "https://www.linkedin.com/company/76811498",
+        "https://twitter.com/artilleryio",
+        "https://github.com/artilleryio"
+    ],
+    "logo_path": "data/logos\\Artillery_logo.png"
+}

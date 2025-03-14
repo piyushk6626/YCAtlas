@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/mednet",
+    "name": "Mednet",
+    "headline": "Stack Overflow for Medicine",
+    "batch": "W17",
+    "description": "The Mednet is a physician-only Q&A platform for expert answers to real world clinical questions. With medical knowledge evolving faster than ever before, theMednet addresses the gap between textbooks and real-patient experience. At theMednet, more than 1,500 expert physicians across numerous medical specialties help answer questions that go beyond textbooks and guidelines. Our platform documents undocumented medical knowledge, while making it accessible and easily searchable to all physicians. We know patients with access to experts have better outcomes. By providing physicians with relevant, up-to-date expert knowledge, their patients benefit from the best care possible.",
+    "activity_status": "Active",
+    "website": "https://www.themednet.org",
+    "founded_date": null,
+    "team_size": 20.0,
+    "location": "New York",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:health-tech; industry:healthcare; industry:social-network; location:new-york",
+    "founders": [
+        {
+            "name": "Nadine Housri, Founder/Chief Medical Officer",
+            "description": "Nadine Housri, MD is an Associate Professor at Yale and co-founder and Chief Medical Officer of theMednet. She has published in major journals such as Annals of Internal Medicine, Annals of Surgery, and PLoS Medicine. Nadine completed her Radiation Oncology residency at Rutgers  and fellowship at Yale. Prior to residency, she was a Clinical Research Training Program (CRTP) Fellow at the National Institutes of Health.",
+            "linkedin": "https://www.linkedin.com/in/nadinehousri"
+        },
+        {
+            "name": "Samir Housri, Founder/CEO",
+            "description": "Samir Co-founded theMednet with Dr. Nadine Housri. Samir has spent the past 20 years focused on digital media and technology startups. His expertise lies in building platforms that connect people and information. He has worked with many well-known companies including Major League Baseball, The New York Times and EMI Music. Prior to theMednet Samir was a principle at Rho Ventures where he sat on 5 different boards.",
+            "linkedin": "https://www.linkedin.com/in/samirhousri"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Mednet: Stack Overflow for Medicine\n\n**Mission**: Mednet aims to be the go-to platform for healthcare professionals seeking expert answers to real-world clinical questions, much like Stack Overflow does for software developers.\n\n**Overview**: Originally launched as a physician-only Q&A platform, Mednet is addressing the critical gap between theoretical medical knowledge and the practicalities encountered in clinical settings. With a pool of over 1,700 expert physicians from various specialties, it offers answers that extend beyond traditional textbooks and guidelines. This well-curated resource not only documents previously undocumented medical knowledge but also makes it highly accessible and searchable for healthcare professionals. \n\nTheir thesis is simple yet profound: providing physicians with cutting-edge, relevant information leads to better patient outcomes. The platform has documented more than 16,500 clinical questions and is continuously growing.\n\n**Location**: Based in New York, a hub for healthcare innovation.\n\n**Team**: A dedicated team of 20 professionals, spearheaded under the mentorship of Jared Friedman from Y Combinator.\n\n**Community**: Mednet is tagged as a health-tech, healthcare, and social network platform, aiming to create a vibrant community of physicians who can share insights and collaborate effectively.\n\n**Why Mednet Matters**: In a landscape where medical knowledge evolves at breakneck speed, theMednet creates an ecosystem where physicians can turn to a community of experts, getting actionable insights. The platform supports Continuing Medical Education (CME) and Maintenance of Certification (MOC), which allows physicians not just to stay updated, but also to earn credits while doing so.\n\n**How It Works**: Physicians can:\n- Search efficiently through thousands of expert answers to intricate clinical questions.\n- Get clarification on challenging patient dilemmas by tapping into expert opinions and interpretations.\n- Participate in discussions that matter \u2014 not just personal queries, but also those significant to their everyday clinical practice.\n\n**Testimonials**: Users of Mednet have praised it for its value in offering diverse expert perspectives, particularly on complex medical situations. Physicians emphasize that the collaborative nature of the platform enhances their ability to provide top-notch patient care.\n\nFor more information, check out their website: [theMednet](https://www.themednet.org).\n\nMednet is reshaping the way physicians connect, learn, and ultimately deliver care, filling the crucial need for immediate, expert-driven medical knowledge.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/baafca9b6d144a24cad66c7c50a0746df06399d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191530Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6836f36aac061abafdf3ff95c4849fc28c82f32ff0f3166b30287cfab6d8e8c6",
+    "social_links": [
+        "https://www.linkedin.com/company/themednet/",
+        "https://twitter.com/themednet",
+        "https://www.facebook.com/themednet",
+        "https://www.crunchbase.com/organization/the-mednet"
+    ],
+    "logo_path": "data/logos\\Mednet_logo.png"
+}

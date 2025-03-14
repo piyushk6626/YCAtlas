@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/parley",
+    "name": "Parley",
+    "headline": "Automating flat-fee legal work, starting with work visas + green cards",
+    "batch": "S24",
+    "description": "Parley automates flat-fee legal work using LLM\u2019s, starting with visa applications for immigration lawyers. Currently, immigration lawyers spend 20+ hours putting together writing-intensive work visas and green cards. We integrate directly into a lawyer's workflow and do all the reading, writing, and compiling \u2014 which is 80% of the work required to file a visa application.",
+    "activity_status": "Active",
+    "website": "https://parley.so",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:legal; industry:legaltech; industry:immigration; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Philip Smart, Founder",
+            "description": "Automating flat-fee legal work, starting with work visas and green cards for immigration lawyers (Parley S24). \n\nUsed to work on Growth and GenAI @ Linkedin. Drove increases to \"Core Four\" metrics that we reported to MSFT, was PM on the first consumer, massive-scale launch of GPT-4 integrated into a product outside of OpenAI.",
+            "linkedin": "https://linkedin.com/in/phildsmart"
+        },
+        {
+            "name": "Ian Edwards, Founder",
+            "description": "Co-founder of Parley. We help automate legal drafting for immigration attorneys and other flat-fee lawyers. Previously an engineer at several startups including Porter (YC S20) and Govdash (YC W22).",
+            "linkedin": "https://linkedin.com/in/ian-edwards"
+        },
+        {
+            "name": "Jackson Perry, Founder",
+            "description": "Co-Founder of Parley. We want to automate flat-fee legal work, starting with immigration!\n\nIn a former life, invested at a clean energy PE fund and consulted for Oil & Gas majors and U.S. utilities.",
+            "linkedin": "https://linkedin.com/in/jackson-perry"
+        }
+    ],
+    "status": true,
+    "generated_description": "Parley is a dynamic startup launched in 2024, making waves in legal tech by automating flat-fee legal tasks, particularly around immigration issues like work visas and green cards. With a team of just three, this Y Combinator Batch S24 company is based in San Francisco and is designed to take the heavy lifting off immigration lawyers' shoulders\u2014literally.\n\nThink about the current state of visa applications: lawyers often spend over 20 hours on painstakingly compiling documents and crafting narratives. Parley aims to streamline this process using Large Language Models (LLMs). The product integrates smoothly into existing workflows, handling 80% of the necessary writing and organizing. The pitch is simple but powerful: Parley lets lawyers draft and submit immigration cases in half the time, allowing them more space to focus on strategy and client interactions. \n\nOne of Parley's standout features is its context-aware letter generation\u2014this AI tool helps create client reference letters that are tailored to be ready for USCIS, all while maintaining a personal touch. It also pulls relevant research and assembles evidence into a single PDF with just a click. The platform is all about enhancing efficiency without sacrificing quality, which is crucial in such a high-stakes area.\n\nSecurity is a top priority too; Parley ensures robust protections to safeguard client data from day one. They\u2019re positioning themselves to help law firms not just survive but thrive, allowing them to scale their practices without needing to hire extra staff. \n\nIn short, Parley is not just a tool; it\u2019s a revolutionary partner for immigration lawyers looking to make their processes more efficient and their outputs more reliable. To take a closer look or see a sample of their work, you can visit their website at [Parley](https://parley.so) and even book a free demo. \n\nAre you ready to work smarter, not harder? Parley might just be the game-changer your practice needs.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bf165075e06221d6b7870a13667f6e22d4b328eb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191624Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=95c95360a033a99cc15d3a8d5150f79f8157ba243f4ea05bd63ed189afe96f12",
+    "social_links": [
+        "https://www.linkedin.com/company/parley-immigration/"
+    ],
+    "logo_path": "data/logos\\Parley_logo.png"
+}

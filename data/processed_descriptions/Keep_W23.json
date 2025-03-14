@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/keep",
+    "name": "Keep",
+    "headline": "The open-source AIOps platform",
+    "batch": "W23",
+    "description": "Keep is an open-source AIOps platform. Keep acts as a single pane of glass to all your alerts from any monitoring tool and helps you turn 1000s into just 10s of meaningful alerts.",
+    "activity_status": "Active",
+    "website": "https://www.keephq.dev",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": "Tel Aviv-Yafo, Israel",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:open-source; industry:monitoring",
+    "founders": [
+        {
+            "name": "Tal Borenstein, Founder",
+            "description": "Formerly an engineering manager, now CEO. Tech-savvy with vast experience leading software teams of SaaS products.",
+            "linkedin": "https://www.linkedin.com/in/talbo"
+        },
+        {
+            "name": "Shahar Glazner, Founder",
+            "description": "Passionate about building stuff. Less is more. Long-distance runner.\nOccasionally (hopefully more) writes on shaharglazner.medium.com",
+            "linkedin": "https://www.linkedin.com/in/shahar-glazner-29294654/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Keep: The Open-Source AIOps Platform Redefining Alert Management\n\nFounded in 2023 and hailing from Tel Aviv-Yafo, Israel, **Keep** is an innovative open-source platform dedicated to improving AIOps (Artificial Intelligence for IT Operations). As a participant in Y Combinator's Winter 2023 batch, Keep aims to be the go-to solution for simplifying alert management across various monitoring tools.\n\n#### Mission Statement\nKeep\u2019s mission is straightforward: it serves as a \"single pane of glass\" that streamlines thousands of alerts down to just a handful of meaningful ones. This capability is essential for organizations overwhelmed by noise from disparate monitoring systems. \n\n#### Key Features\n- **Integration Simplicity:** Keep seamlessly integrates with over 90 monitoring tools, including popular platforms like Datadog, Grafana, and PagerDuty. This allows users to synchronize alerts across systems and drastically reduce the time spent sorting through noise.\n- **Advanced AIOps Functionality:** With its AI-driven capabilities, Keep can correlate alerts, leveraging insights from past incidents to enhance real-time decision-making.\n- **User-Friendly Automation:** Users can easily automate workflows using a straightforward interface reminiscent of GitHub Actions, which includes YAML support for complex operations without overwhelming users.\n\n#### Product Offerings\n- **Keep Cloud:** The SaaS solution managed by Keep, where users can access its full range of features without needing to set up any infrastructure.\n- **Open-Source Toolbox:** For those with specific needs, Keep offers a self-hosted version, allowing businesses to tailor the platform to fit their unique environments and integrate it with their existing tools.\n- **Enterprise Options:** Keep provides tailored solutions for large corporations, utilizing sophisticated AI to summarize alerts and minimize alert fatigue.\n\n#### Community & Support\nThough currently a small team of five, Keep has already garnered a significant community presence, boasting over 700 community members and 9,200 GitHub stargazers. The company encourages collaboration and innovation within the tech community through open-source development and active engagement via platforms like Slack.\n\n#### Current Events & Engagement\nKeep is actively participating in industry events like SRECon25 Americas, reflecting its dedication to engaging with Site Reliability Engineering professionals and fostering useful connections.\n\n### Conclusion\nIn a world where monitoring and alert systems can quickly become a tangled web, Keep\u2019s open-source AIOps platform promises to bring clarity and efficiency. With a strong focus on integration and user experience, it's worth keeping an eye on Keep as it continues to grow and evolve.\n\nFor more information, visit [Keep Headquarters](https://www.keephq.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/87fa627004e743293e57a47f04e6a1938f9f51e2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191449Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cdd3478379cd507c7ac440c1e1574743281ee7417e7b7a8d6db4816f203f89fa",
+    "social_links": [
+        "https://www.linkedin.com/company/keepalerting",
+        "https://twitter.com/keepalerting"
+    ],
+    "logo_path": "data/logos\\Keep_logo.png"
+}

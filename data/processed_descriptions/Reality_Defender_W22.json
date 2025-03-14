@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/reality-defender",
+    "name": "Reality Defender",
+    "headline": "Enterprise Deepfake Detection",
+    "batch": "W22",
+    "description": "Reality Defender\u2019s deepfake detection platform empowers enterprises to flag fraudulent users and content (audio calls, videos, images, documents). Our API and web app provides real-time risk scoring, reporting, alerts, and forensics review.  \r\n\nOur team spent 20+ years at Google, Goldman Sachs, and the Intelligence Community at the intersection of data science and cybersecurity.\r\n\nCustomer Use Cases:\r\n\n\u2022 Voice Voice Fraud (Ie. Realtime detection of AI generated voices for banks and call centers)\r\n\n\u2022 Onboarding KYC (Ie. Anti-fraud to identify fraudulent users and materials)\r\n\n\u2022 Content Moderation (Ie. Social media, e-commerce, marketplaces, dating, streaming)\r\n\n\u2022 Disinformation Detection (Ie. News, defense, government)\r\n\nWebsite: www.realitydefender.com\r\n\nContact: ask@realitydefender.com\r\n\nYC AMA: https://news.ycombinator.com/item?id=30766050",
+    "activity_status": "Active",
+    "website": "http://www.realitydefender.com",
+    "founded_date": 2021.0,
+    "team_size": 35.0,
+    "location": "New York",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:deepfake-detection; industry:security; industry:privacy; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Ben Colman, Founder",
+            "description": "15+ years building data-driven teams obsessed with product + privacy\n\nFocus Areas: Privacy, Cybersecurity, AI/ML, Blockchain, Fintech, Govtech\n\nAlways excited to support fellow founders!",
+            "linkedin": "https://www.linkedin.com/in/benpcolman/"
+        },
+        {
+            "name": "Gaurav Bharaj, Co-Founder, AI",
+            "description": "AI for Good",
+            "linkedin": "https://www.linkedin.com/in/gauravbharaj"
+        },
+        {
+            "name": "Ali Shahriyari, Founder",
+            "description": "Over 25 years of experience in the software development industry performing various jobs and responsibilities, from developer pulling all-nighters getting a prototype working to VP managing fortune 500 clients.  Currently CTO/Co-Founder of Reality Defender,  protecting the world against the misuse of AI.",
+            "linkedin": "https://www.linkedin.com/in/alishahriyari/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Reality Defender: Guarding Against Deception**\n\nFounded in 2021 and hailing from New York, Reality Defender is tackling one of the modern world\u2019s most pressing issues: deepfakes. Their mission is clear\u2014empower enterprises with advanced tools for deepfake detection across various mediums including audio, video, images, and documents. As a Y Combinator startup from the W22 batch, they\u2019ve quickly made a name for themselves in the field of cybersecurity.\n\n**What They Do**\n\nAt its core, Reality Defender provides an API and a web app that enables real-time risk scoring, reporting, alerts, and forensic reviews of suspicious content. Their technology is built by a team with over 20 years of experience from top firms like Google and Goldman Sachs, as well as the Intelligence Community, which adds depth to their data science and cybersecurity expertise.\n\n**Key Offerings**\n\nReality Defender has tailored its services for a variety of use cases:\n- **Voice Fraud Detection**: Real-time detection of AI-generated voices critical for banks and call centers.\n- **Onboarding & KYC**: Identifying fraudulent users and materials during customer onboarding.\n- **Content Moderation**: Applying solutions for platforms in social media, e-commerce, dating, and streaming services.\n- **Disinformation Detection**: Tools for news organizations, defense entities, and governmental bodies to combat misinformation.\n\n**Recognition and Impact**\n\nThe company recently garnered recognition as the Most Innovative Company at the RSA Conference\u2019s Innovation Sandbox. This accolade underlines its commitment to leading the charge against the growing threat of AI-powered deception.\n\n**The Team Behind the Tech**\n\nWith a dedicated team of 35 employees, Reality Defender is spearheaded by partners with proven backgrounds in data science and cybersecurity. They are actively engaging with customers to tailor solutions that meet their specific needs in combating digital threats.\n\n**Explore More**\n\nIf you want to dive deeper, check out their website at [Reality Defender](http://www.realitydefender.com) or reach out via email at ask@realitydefender.com. Whether you're a financial service provider needing to safeguard against voice fraud or a social media platform looking to moderate content effectively, Reality Defender is poised to offer cutting-edge solutions to keep your operations secure in a digital age rife with deceit.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ef4d15add08c029e4daf2f941a7fa660343035b1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191709Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=efd953a740cd0d18d10b458eddf1d147d041ec898191afd15c938504b2fff44b",
+    "social_links": [
+        "https://www.linkedin.com/company/reality-defender/",
+        "https://twitter.com/detectdeepfakes",
+        "https://www.crunchbase.com/organization/reality-defender",
+        "https://github.com/Reality-Defender"
+    ],
+    "logo_path": "data/logos\\Reality_Defender_logo.png"
+}

@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/reform",
+    "name": "Reform",
+    "headline": "The AI-powered workspace for freight forwarding",
+    "batch": "W24",
+    "description": "Automate your repetitive tasks, interface directly with your own transport management system, and create dashboards in one single platform.",
+    "activity_status": "Active",
+    "website": "https://www.reformhq.com",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:logistics; industry:supply-chain; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Saif Abuhashish, Founder",
+            "description": "Saif is the co-founder of Reform. Prior to Reform, Saif was part of a 7 person team at Amazon responsible for building their worldwide robotics firmware. He was also tech lead at Drift where he built the foundations of their partnerships and integrations suite. Before that, he was engineer #1 on Capital One's conversational AI team and helped scale their product to millions of MAUs. Saif received his BS in Computer Engineering and Mathematics from Northeastern University.",
+            "linkedin": "https://linkedin.com/in/saifabuhashish"
+        },
+        {
+            "name": "Omar Abuhashish, Founder",
+            "description": "Co-founder and CEO of Reform. BS in CS and mechanical & aerospace engineering from NYU. Prior to Reform, worked on new products at CoinTracker (YC W18) and was engineer #1 at Altan Insights.",
+            "linkedin": "https://linkedin.com/in/omarabuhashish"
+        },
+        {
+            "name": "Pradhit Gosula, Founder",
+            "description": "Co-founder and CTO of Reform",
+            "linkedin": "https://linkedin.com/in/pradhit-gosula-27a955149"
+        }
+    ],
+    "status": true,
+    "generated_description": "Reform is a San Francisco-based startup that launched in 2023 and is currently part of Y Combinator's Batch W24. Its mission centers around revolutionizing freight forwarding with an AI-powered workspace designed to streamline processes for logistics and supply chain management. \n\n**What They Do:**\nReform aims to automate repetitive tasks, seamlessly interface with existing transport management systems, and create customizable dashboards\u2014all within a single platform. It's an ambitious solution catering to the needs of freight forwarders, giving them the tools to enhance operational efficiency dramatically. In fact, Reform touts that it can save users over 2,000 hours monthly by efficiently processing millions of documents and invoices in record time.\n\n**How It Works:**\n1. **Custom Automation:** Users can easily design workflows that align with their unique business processes, leveraging incoming documents and emails as sources of actionable data.\n2. **User-Friendly Dashboards:** The platform integrates with various systems to present tailored insights that matter most to operators.\n3. **Smart Operations:** Reform transforms raw data into useful insights directly within clients\u2019 systems, automating what is often a labor-intensive process.\n\nReform is backed by a team of four, led by Brad Flora, whose experience and vision in the logistics domain stands out. The company is positioned in several key tags: SaaS, logistics, supply-chain, AI, and the competitive San Francisco Bay Area.\n\n**Why This Matters:**\nLogistics is notoriously complex, and the traditional methods often lead to inefficiencies and errors. Reform\u2019s approach not only talks about saving time and reducing costs but also promises a significant leap in accuracy and reliability\u2014a critical factor in an industry that thrives on precision. Their dashboard and analytics features offer insights that help organizations make strategic decisions swiftly.\n\nUltimately, with Reform, you gain a partner committed to making freight forwarding more effective, allowing your business to focus on growth and customer satisfaction while they handle the nitty-gritty details. Interested in seeing how it works? You can book a demo on their [website](https://www.reformhq.com) to explore further.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8f6e200b14ea7ef7caa41b3833ad115bd0e56bce.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191712Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=81bb18871a8020101d97ffda7faaa2eee427dc6fca00ce114c0c196544610341",
+    "social_links": [
+        "https://www.linkedin.com/company/reformhq",
+        "https://twitter.com/reform_hq",
+        "https://www.crunchbase.com/organization/reform-4e31"
+    ],
+    "logo_path": "data/logos\\Reform_logo.png"
+}

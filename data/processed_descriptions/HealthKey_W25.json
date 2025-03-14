@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/healthkey",
+    "name": "HealthKey",
+    "headline": "AI-powered Patient Identification for Clinical Trial Research Sites",
+    "batch": "W25",
+    "description": "HealthKey is an AI-powered Patient Identification service for Clinical Trial Research Teams. Big Pharma pays Research Sites a lot of money for each patient they enroll, but finding patients who qualify is an entirely manual process today. We help Sites make more money by matching patient's EHR data with trials' eligibility criteria using AI.",
+    "activity_status": "Active",
+    "website": "https://gethealthkey.com/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "Austin, TX",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:health-tech; industry:b2b; industry:enterprise; industry:ai; location:austin",
+    "founders": [
+        {
+            "name": "Josh Sabol, Founder/CEO",
+            "description": "Founder/CEO of HealthKey. Previously a Product Manager at AWS, helping automate the ~$20B supply chain at AWS. I was the 1st PM at Plate IQ (S15), a B2B accounting & payments tool, which 10x'ed during my tenure and recently raised a $160M Series B from FTV Capital. \ud83c\udf10 https://sabol.io/",
+            "linkedin": "https://linkedin.com/in/joshsabol"
+        }
+    ],
+    "status": true,
+    "generated_description": "**HealthKey: Revolutionizing Patient Identification for Clinical Trials**\n\n**Overview:**  \nFounded in 2023 and based in Austin, TX, HealthKey operates at the intersection of healthcare and technology, specifically targeting the clinical trial sector. As part of Y Combinator\u2019s Batch W25, HealthKey is a lean three-person team that focuses on making patient matching for clinical research faster, easier, and more efficient through AI.\n\n**Mission:**  \nHealthKey is dedicated to AI-powered patient identification for clinical trial research sites. The traditional process of finding eligible trial participants is painfully manual, which costs both time and resources. By leveraging AI, HealthKey automates the matching of Electronic Health Record (EHR) data with clinical trial eligibility criteria, enhancing enrollment and helping research sites significantly increase their revenue.\n\n**How It Works:**  \n1. **Connect**: HealthKey integrates smoothly with your existing EHR systems while ensuring HIPAA compliance.\n2. **Prescreen**: The platform scans through patient records using AI to find candidates that meet the specific criteria for clinical trials.\n3. **Review**: Research teams receive a detailed list of eligible patients accompanied by relevant records for quick qualification.\n\nThis three-step process allows sites to **double their patient matches in half the time**, all while reducing the hassle usually associated with manual patient chart reviews.\n\n**Business Model:**  \nHealthKey operates on a flexible pricing model tailored to the specific needs of each site, with no upfront costs and a simple flat fee structure based on usage. They are currently offering cost-effective deals including free implementation and protocol setups to new customers, emphasizing their commitment to easing the financial burden as sites transition to AI-driven patient recruitment.\n\n**Key Features:**\n- AI-driven automation to replace time-consuming manual chart reviews.\n- Fast integration with various EHR platforms (including Athenahealth, Epic, and Allscripts).\n- Enhanced data security with a priority on HIPAA compliance.\n\n**Why It Matters:**  \nFor clinical trial operators, the quest for eligible patients can often feel like a frustrating game of \u201cWhere's Waldo?\u201d HealthKey provides a new \"cheat code\" to swiftly locate the right candidates. This technology not only improves patient enrollment but also significantly reduces screening failures, leading to better overall outcomes for clinical research teams and the pharmaceutical companies they serve.\n\nYou can learn more about HealthKey and its transformative approach to clinical trials by visiting their website at [Get HealthKey](https://gethealthkey.com).\n\nTo put it simply, HealthKey exemplifies how blending AI with healthcare processes can shift paradigms, enabling better resource utilization and potentially faster medical advancements.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8563304ce3506af18a7921906c64f0e3623410ed.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191413Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5f5920253641aea1ebfa8b4c9869e661ce0e22b58bf58ded90e973fbe2f55bd3",
+    "social_links": [
+        "https://www.linkedin.com/company/gethealthkey/",
+        "https://x.com/HealthKey_HK"
+    ],
+    "logo_path": "data/logos\\HealthKey_logo.png"
+}

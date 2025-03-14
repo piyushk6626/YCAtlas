@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/cloud-humans",
+    "name": "cloud humans",
+    "headline": "AI-powered customer service for startups",
+    "batch": "W21",
+    "description": "cloud humans introduces claudIA, every startup's CX super agent.\r\n\nClaudIA is a GPT based bot who can answer any customer support tickets with zero tech effort and already integrated with your current flows and systems. \r\n\nWith ClaudIA, you can automate 55-90% of your customer's enquiries while maintaining the same service level you are proud of. Gain efficiency, scalability and quality today.\r\n\nTry it free (demo): https://www.cloudhumans.com/us/claudia-demo\r\nReach out if you have any questions: bruno@cloudhumans.com",
+    "activity_status": "Active",
+    "website": "https://www.cloudhumans.com",
+    "founded_date": 2020.0,
+    "team_size": 30.0,
+    "location": "S\u00e3o Paulo, Brazil",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:chatbot; industry:customer-service",
+    "founders": [
+        {
+            "name": "Ian Kraskoff, Founder",
+            "description": "In 2015, I became a door-to-door salesperson. Going outside, be it sunny or rainy, I realised how much opportunity was needed for talented people who worked in the front-lines. Before that, I had launched products for the unbanked population in the Americas. After that, I joined Uber Eats to launch it in Brazil, leaving the company as a GM. Most recently, I worked for Loft, a prop tech startup in Brazil, to lead it's the apartment acquisition area in addition to support and BPO.",
+            "linkedin": "https://www.linkedin.com/in/iankraskoff/"
+        },
+        {
+            "name": "Bruno Cecatto, Founder",
+            "description": "If you're afraid to fail in a startup, you're destined to do so",
+            "linkedin": "https://www.linkedin.com/in/bruno-cecatto"
+        },
+        {
+            "name": "Felipe Serra de Oliveira, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/felipeserraoliveira/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Cloud Humans: Elevating Customer Service with AI\n\n**Founded:** 2020  \n**Location:** S\u00e3o Paulo, Brazil  \n**Team Size:** 30 employees  \n**Y Combinator Batch:** W21  \n**Founders:** Ian Kraskoff (CEO) and other co-founders  \n**Group Partner:** Dalton Caldwell  \n**Industry Tags:** Artificial Intelligence, SaaS, Chatbot, Customer Service\n\n#### Mission\nCloud Humans is on a mission to revolutionize customer service for startups through AI-driven solutions. Their flagship product, ClaudIA, is marketed as a customer experience (CX) super agent for startups, leveraging powerful GPT-based technology to handle customer inquiries seamlessly.\n\n#### Product Overview: ClaudIA\nClaudIA isn't your run-of-the-mill chatbot. It\u2019s designed to integrate effortlessly into your existing workflows, allowing businesses to automate between 55% and 90% of customer inquiries. This translates into improved efficiency, scalability, and quality within customer service operations\u2014all without requiring unnecessary technical setups.\n\nClaudIA can:\n\n- Automate ticket responses, available 24/7.\n- Deploy personalized communication based on customer data and history.\n- Escalate more complex inquiries to human agents when necessary.\n- Connect to various databases and external systems with ease.\n\nThis robust system allows your team to focus on high-level tasks, streamlining support operations that can lead to significant cost savings. Imagine a scenario where your support staff spends less time addressing routine questions and more time on strategic initiatives!\n\n#### Performance and Customer Feedback\nThe feedback from early adopters has been overwhelmingly positive. Many report notable reductions in their ticket volumes\u2014some businesses seeing a cut of over 65%. Users specifically highlight that ClaudIA functions effectively as a first-level support agent, allowing teams to focus on more nuanced customer interactions.\n\nSome impressive testimonials include:\n\n- \"ClaudIA reduced our hiring budget by 20%. It handles more than half of the tickets alone.\"\n- \"Within a week, ClaudIA was performing the workload of three agents.\"\n\n#### Get Started\nInterested in experiencing the benefits of AI-powered support? You can **try ClaudIA for free** through their demo [here](https://www.cloudhumans.com/us/claudia-demo). Have more questions? Reach out to their team at [bruno@cloudhumans.com](mailto:bruno@cloudhumans.com).\n\n#### Learn More\nFor more on how ClaudIA can transform your company's customer service, visit their website at [Cloud Humans](https://www.cloudhumans.com).\n\nIn a world where customer expectations are soaring, Cloud Humans is positioning itself as a vital ally to startups, enabling smarter, efficient, and scalable customer support\u2014all while maintaining high service standards. By harnessing AI, they allow businesses to be agile and responsive, proving that sometimes, innovation comes in the form of a friendly virtual agent.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4e01cf3c0f0168bd32afd597008537191704d52f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191054Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=35129331cabc2c2b002db7a031d5a91c3066498cafaa5e440cf9d0460861c5e9",
+    "social_links": [
+        "https://www.linkedin.com/company/cloud-humans/",
+        "https://www.crunchbase.com/organization/cloud-humans"
+    ],
+    "logo_path": "data/logos\\cloud_humans_logo.png"
+}

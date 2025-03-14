@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/bunkyr",
+    "name": "Bunkyr",
+    "headline": "Zero-Knowledge security without seed phrases or backup codes",
+    "batch": "W22",
+    "description": "Bunkyr enables companies to protect their users\u2019 data with a simple, hardware-secured API. When a user forgets their password, applications using Bunkyr can provide them a familiar, robust recovery method to restore access to encrypted data.\r\n\nZero-Knowledge architectures and end-to-end encryption are the only true safeguards against data breaches, but come with large user-experience burdens and engineering overhead. Bunkyr eliminates these obstacles in a way that is friendly to both developers and users, cost-effective, and extremely fast.\r\n\nUsers won\u2019t even know Bunkyr exists, while their data stays protected against both breaches and lost passwords.",
+    "activity_status": "Active",
+    "website": "https://bunkyr.com",
+    "founded_date": 2021.0,
+    "team_size": 3.0,
+    "location": "Denver, CO",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:crypto-web3; industry:b2b; industry:security",
+    "founders": [
+        {
+            "name": "Mike Lewis, Founder",
+            "description": "8+ years software, DevOps, and IT experience including Apple and SpaceX. Started programming in high school in Flash for a small EdTech company, becoming CTO and leading engineering, IT, and sales and marketing. B.S. CmpE with Highest Honors from Georgia Tech, winning Best Project in ECE at the Fall 2019 Capstone Design Expo with the project that has become Bunkyr.\n\nCybersecurity enthusiast from a young age, passionate about stopping the constant data breaches and violations of user privacy.",
+            "linkedin": "https://linkedin.com/in/mplew-is"
+        }
+    ],
+    "status": true,
+    "generated_description": "Bunkyr is a fresh, innovative company founded in 2021 and hailing from Y Combinator's Winter 2022 batch. Based in Denver, Colorado, their mission is clear: they aim to provide Zero-Knowledge security, eliminating the need for seed phrases or backup codes. This is a big deal in a world where data breaches are rampant and password recovery methods can often feel archaic.\n\nInitially, Bunkyr launched as a service that allows businesses to protect their users' data through a simple, hardware-secured API. The beauty of their solution is that when users forget their passwords, Bunkyr facilitates a seamless recovery process that restores access to encrypted data without compromising security. \n\nWhat sets Bunkyr apart is their focus on user experience. Zero-Knowledge architectures and end-to-end encryption are the gold standard for data protection, yet they often come with significant burdens for both developers and users. Bunkyr sidesteps these challenges with a solution that is not just effective but also user-friendly and fast. Impressively, most users won\u2019t even realize Bunkyr is in the background, quietly ensuring their data remains safe from breaches and lost passwords.\n\nThough small in size\u2014comprising a team of just three\u2014Bunkyr is tagging itself as a go-to player in developer tools, SaaS, crypto/web3, and security. Their holistic approach means businesses can now secure sensitive user data without sacrificing performance or convenience.\n\nIf you're curious to learn more, visit their website at [bunkyr.com](https://bunkyr.com). They\u2019re definitely worth keeping an eye on in the rapidly evolving landscape of data security.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/17f2ae6f3d6177098300cbde147c9327c1c50f0b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191035Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cc790618703e3b06a8ac0ea339c33291ed223d3ae4a027591040c6f17d6173f8",
+    "social_links": [
+        "https://linkedin.com/company/bunkyr",
+        "https://twitter.com/Bunkyr",
+        "https://www.crunchbase.com/organization/bunkyr"
+    ],
+    "logo_path": "data/logos\\Bunkyr_logo.png"
+}

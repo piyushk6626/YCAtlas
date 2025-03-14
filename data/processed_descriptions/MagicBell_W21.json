@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/magicbell",
+    "name": "MagicBell",
+    "headline": "The notification inbox for web/mobile applications.",
+    "batch": "W21",
+    "description": "MagicBell is the notification inbox for web & mobile apps.\r\n\nAs consumers of many apps, we have personally experienced the growing volume of notifications - many of which add to our anxiety instead of helping us manage it. MagicBell is on a mission to end this chaos and help every app deliver a stellar notification experience.\r\n\nWe do this by offering a beautifully designed notification inbox that apps can embed in their products in minutes. We do all the heavy lifting related to real-time delivery & syncing, web & mobile push notifications, email notifications, and even notification preference management.\r\n\nWe sit at an interesting intersection of a dev tool & a productivity tool for end-users. We are helping every app make its users more productive!",
+    "activity_status": "Active",
+    "website": "https://magicbell.com",
+    "founded_date": 2020.0,
+    "team_size": 4.0,
+    "location": "Barcelona, Spain",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas",
+    "founders": [
+        {
+            "name": "Hana Mohan, Founder",
+            "description": "Co-founder MagicBell, and a proud transgender woman. I code, bike, and read obsessively. Passionate about empowering women and other minorities. Previously, CEO @ SupportBee.",
+            "linkedin": "https://www.linkedin.com/in/unamashana/"
+        },
+        {
+            "name": "Josue Montano, Founder",
+            "description": "Co-founder of MagicBell, and ex-frontend lead at SupportBee.com. I love writing software that a lot of people enjoy using. I am interested in Math, Physics, 3D animation and music.",
+            "linkedin": "https://www.linkedin.com/in/josuemontanoa/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### MagicBell: The Future of Notifications\n\n**Overview**\nFounded in 2020 and hailing from Barcelona, Spain, MagicBell is on a mission to revolutionize the way applications handle notifications. As app users, the founders recognized the need for a more organized and less anxiety-inducing notification system. MagicBell addresses this by providing a sleek, easy-to-integrate notification inbox that improves the user experience across web and mobile applications. \n\n**What They Do**\nAt its core, MagicBell operates at the intersection of developer tools and productivity enhancements for end-users. Their platform allows apps to seamlessly incorporate a beautifully designed notification inbox, offering features like real-time delivery, push notifications, email alerts, and an intuitive notification preference manager. This means developers can focus on building their apps while MagicBell handles the complex backend of notifications.\n\n**Key Features**\n- **Real-Time Delivery**: Users receive timely notifications precisely when they matter.\n- **Multi-Channel Support**: Implement a cross-channel notification strategy easily, covering everything from in-app alerts to Slack and mobile push notifications.\n- **Seamless Synchronization**: Avoid notification redundancy by syncing across devices and tabs.\n\n**Product Integration**\nThe promise is striking\u2014apps can integrate MagicBell in less than an hour, customizing their notification systems without sacrificing design or functionality. Developers can tailor the notification inbox to reflect their brand\u2019s identity and can start sending notifications in as little as 10 minutes with their APIs.\n\n**Team and Backing**\nWith a compact team of four and support from Y Combinator Batch W21, MagicBell is well-positioned to scale and meet the demands of modern applications. Gustaf Alstromer serves as their Group Partner, guiding them through the intricacies of growth and innovation.\n\n**In Summary**\nIf you\u2019re tired of drowning in a sea of app notifications, MagicBell is the lifebuoy you need. They\u2019re not just building a notification system; they\u2019re crafting an experience that empowers both developers and users. Simplify your notification management and enhance user satisfaction with MagicBell\u2019s intuitive platform.\n\n**Explore More**\nVisit their website at [MagicBell](https://magicbell.com) for documentation, pricing, and more. Jump in and see how they can transform your app\u2019s notification experience!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6e8eb5133a07225f295f164f6e346f5e6c5d1e11.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191518Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dd3eadda7531b016e7dcbb751b48ec9b6440ef7c7d21e6cd714a90c46950ddc2",
+    "social_links": [
+        "https://www.linkedin.com/company/magicbell/",
+        "https://twitter.com/magicbell_io",
+        "https://github.com/magicbell-io"
+    ],
+    "logo_path": "data/logos\\MagicBell_logo.png"
+}

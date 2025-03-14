@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/lytix",
+    "name": "Lytix",
+    "headline": "DataDog for LLMs, turnkey solution for n=1 custom evaluations",
+    "batch": "W24",
+    "description": "Lytix is Datadog for LLMs. We give developers time, money and certainty when building with AI. Developers are using lytix to build custom evaluations, identify opportunities to save money, and optimize their KPIs. Our approach has helped customers reduce errors by up to 85%.",
+    "activity_status": "Active",
+    "website": "https://lytix.co/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:analytics; location:new-york",
+    "founders": [
+        {
+            "name": "Sahil Sinha, Founder",
+            "description": "Grew up between India and the UK.\nClaremont McKenna College '20. \nIntuit Rotational PM Program '20-'22",
+            "linkedin": "https://linkedin.com/in/sssinha20"
+        }
+    ],
+    "status": true,
+    "generated_description": "Lytix is a New York-based startup that emerged from the Y Combinator W24 batch and was founded in 2024. The company's mission is straightforward yet ambitious\u2014think of them as the DataDog for Large Language Models (LLMs). By providing a highly customizable evaluation layer for LLMs, Lytix aims to give developers back their time, money, and confidence while building AI-powered solutions.\n\nThe core offering is an evaluation platform that helps developers create custom evaluations tailored to their unique needs. This isn't just about generic checks; it's about diving deep into specific metrics that matter, allowing businesses to identify ways to cut costs and enhance key performance indicators (KPIs). The results speak for themselves: customers have reported error reductions of up to 85%. That\u2019s a significant leap toward reliability.\n\nLytix is all about enabling developers to monitor and optimize AI workflows continuously. Their tool seamlessly integrates with a range of models, providing flexibility that prevents lock-in with any single solution. Whether you\u2019re still figuring out if LLMs are the right fit for your project, experimenting with prototypes, or ready for full-scale deployment, Lytix has resources to guide you every step of the way.\n\nWith a compact team of just two people, Lytix relies on the mentorship of Dalton Caldwell, a notable figure in the startup ecosystem. The company is dedicated to being at the forefront of AI development tools, and its open-source approach is an appealing aspect for developers looking to contribute or customize their solutions further.\n\nIf you\u2019re interested in leveraging Lytix for your evaluation needs, you can explore their offerings on their website: [Lytix.co](https://lytix.co/). They provide documentation, a blog with insights into leveraging evaluations, and an SDK designed for rapid integration. For developers navigating the complex landscape of AI, Lytix represents a promising roadmap to building more reliable and effective systems.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/525cf2cdf3f79a069dcb779577e999c3619dea8e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191518Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b332566cbe31e98af157c6f475240a9bb73a8b8f482df76e88d255ceaf336db4",
+    "social_links": [
+        "https://www.linkedin.com/company/lytixai/?",
+        "https://x.com/lytixai",
+        "https://github.com/Lytix-Labs"
+    ],
+    "logo_path": "data/logos\\Lytix_logo.png"
+}

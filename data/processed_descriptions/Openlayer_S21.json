@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/openlayer",
+    "name": "Openlayer",
+    "headline": "The fastest way to ship airtight AI",
+    "batch": "S21",
+    "description": "Openlayer helps you test and monitor high-quality AI systems.",
+    "activity_status": "Active",
+    "website": "https://openlayer.com",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:generative-ai; industry:machine-learning; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Gabriel Bayomi Kalejaiye, Founder",
+            "description": "I\u2019m a Brazilian engineer and one of the co-founders of Unbox. Previously, I was a Machine Learning Engineer at Apple where I worked at several different areas in Siri, combining multimodal signals for natural language. Before that, I completed my master's in Computer Science at Carnegie Mellon where I had the opportunity to work at the Amazon\u2019s Alexa Prize project. I love the combination of artificial intelligence applications and computational social science!",
+            "linkedin": "https://www.linkedin.com/in/gbayomi/"
+        },
+        {
+            "name": "Vikas Nair, Founder",
+            "description": "Co-founder of Openlayer (S21). Previously, built future AI/ML-powered experiences at Apple.",
+            "linkedin": "https://www.linkedin.com/in/vikasnair/"
+        },
+        {
+            "name": "Rishab Ramanathan, Founder",
+            "description": "Co-Founder of Unbox. Ex-Apple, Yale grad interested in making artificial general intelligence a reality.",
+            "linkedin": "https://www.linkedin.com/in/rishramanathan"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Openlayer Inc. - A Snapshot\n\n**Overview:**  \nOpenlayer is on a mission to be \"The fastest way to ship airtight AI.\" Founded in 2021 as part of Y Combinator Batch S21, the company is based in San Francisco. With a nimble team of six, it focuses on enabling companies to test and monitor high-quality AI systems seamlessly.\n\n**What they do:**  \nOpenlayer provides a robust platform for developers, aiming to streamline the deployment of AI models from prototype to production. They emphasize the importance of ongoing testing and real-time monitoring to ensure that AI systems operate with reliability and efficiency. \n\nThe core offerings include:\n\n- **Testing & Monitoring**: Openlayer helps businesses evaluate their AI systems through extensive testing capabilities. They offer tools that automate AI evaluation, ensuring outputs are aligned with project goals and free from issues like bias or latency concerns.\n\n- **Development Support**: From APIs to SDKs to CLI integrations, their platform is designed for seamless integration with various tools already used by developers. This flexibility allows teams to focus on innovative AI solutions rather than troubleshooting.\n\n- **Templates**: Users can leverage pre-configured project templates with built-in tests, thus accelerating development speed and minimizing setup time. \n\n- **Real-time Observability**: Their monitoring solutions help teams catch issues in live production, enabling them to fix problems rapidly\u2014often within minutes.\n\n**Team and Leadership:**  \nLed by Jared Friedman as a Group Partner, Openlayer\u2019s compact yet talented team has a background brimming with expertise in AI and machine learning. \n\n**Market Focus:**  \nOpenlayer is tagged under several domains: aiOps, developer tools, generative AI, and machine learning, reflecting their comprehensive approach to AI deployment. They cater to a diverse clientele across industries like cybersecurity, e-commerce, and automation.\n\n**Significant Impact:**  \nOpenlayer is already making significant waves in the AI industry:\n\n- They\u2019ve observed a remarkable 6x increase in deployments and substantial improvements in operational throughput after employing their monitoring solutions.\n\n- They are trusted by influential organizations that rely on them to enhance development efficiency and operational integrity in AI.\n\n**Getting Started:**  \nFor those interested in trying Openlayer, they offer demo bookings and a helpful website rich in resources, documentation, and templates. You can dive deeper into their offerings by visiting their website: [Openlayer](https://openlayer.com).\n\nIn short, Openlayer stands at the intersection of cutting-edge technology and practical development needs, providing tools that ensure a secure and efficient path to deploying AI systems. If you\u2019re in the business of AI, they\u2019re worth a look.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/72d2aedbf05f419512058d5acf18e475a3d8c8e2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191612Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d9aa49a7cd484721365fdc5f9cdd94ece23a1accb1eafef5519b0bb18d78e142",
+    "social_links": [
+        "https://www.linkedin.com/company/74372366/",
+        "https://twitter.com/openlayerco",
+        "https://www.crunchbase.com/organization/unbox-3db0",
+        "https://github.com/openlayer-ai"
+    ],
+    "logo_path": "data/logos\\Openlayer_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/reprompt",
+    "name": "Reprompt",
+    "headline": "AI Agents for Location",
+    "batch": "W24",
+    "description": "Reprompt builds AI Agents for Location-- Mapping companies like Radar and TomTom use our agents to get live information about a point of interest or business that keeps their maps up to date. \r\n\nTo do this we have an internal agents platform that supports Web, Vision, Doc Reading, and soon self-driving browser agents.",
+    "activity_status": "Active",
+    "website": "https://repromptai.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Lukas Martinelli, Founder",
+            "description": "Lukas spent 7 years running engineering+product+operations as General Manager for the Search business at Mapbox who provides APIs to 2 million developers. At Reprompt we're mapping the physical world with AI, used by companies like Foursquare, TomTom to get the most up to date information about businesses.\n\nLukas' has a history of widely adopted dev tools. Before Mapbox he created several popular open-source dev tools (15k stars) in the mapping industry now used by Amazon, IBM, Bosch.",
+            "linkedin": "https://linkedin.com/in/lukas-martinelli"
+        },
+        {
+            "name": "Rob Balian, Founder",
+            "description": "Building Reprompt | Previously led Growth @ Robinhood, Product at Facebook, Stanford CS\n\nRob is a builder and hacker. He built the first multiplayer online iPhone app, and combined his apps got 15M downloads and 1M MAU. He's trained and deployed vision models that beat SoTA. He led Robinhood's 50-person Growth team through their chaotic Covid, Gamestop, and IPO rollercoasters.",
+            "linkedin": "https://linkedin.com/in/robbalian"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Reprompt: AI Agents for Location Intelligence**\n\nFounded in 2024 and currently part of Y Combinator's W24 batch, Reprompt is pioneering the use of AI agents to revolutionize how businesses manage and validate location intelligence. The company's mission is clear: to provide automated solutions that keep mapping and location data accurate and up-to-date.\n\nAt its core, Reprompt's platform is designed to assist mapping companies like Radar and TomTom by delivering live data about various points of interest. This is critical for businesses relying on accurate geospatial information, such as logistics and customer-facing services.\n\n### What They Offer\nReprompt boasts a robust internal agents platform capable of handling a variety of tasks across different mediums, including:\n- **Web Agents:** For scraping and extracting data from online sources. \n- **Vision Agents:** For analyzing visual data from images and videos.\n- **Doc Reading Agents:** Capable of parsing information from government and private documents.\n- **Self-Driving Browser Agents:** An upcoming feature that promises to further automate data collection.\n\nThe company is dedicated to enriching and validating location data in real-time, providing more than 50 enrichment attributes and the ability to create custom attributes quickly\u2014often in weeks, rather than years.\n\n### Efficiency at Scale\nOne of the standout features of Reprompt's service is its ability to automate 90% of manual data review with a remarkable 97% accuracy compared to human analysts. Tasks that typically take 15 minutes can now be completed in about 30 seconds, significantly speeding up projects and reducing operational costs. \n\n### Scaling Operations\nWith transparent pricing, Reprompt offers its various agents at competitive rates, making it easier for businesses to scale as needed\u2014from a single instance to thousands without friction.\n\n### Partnerships and Backing\nReprompt has already started establishing valuable partnerships, such as their recent collaboration with Foursquare, which highlights their commitment to becoming integral in the location intelligence landscape. They have also secured backing from notable investors, including Y Combinator, Rebel Fund, and leadership from various tech giants like AWS and Mapbox.\n\n### Conclusion\nIn a world where location data is more crucial than ever, Reprompt is firmly positioned to transform how this data is collected and used. With a lean team of three and a visionary approach, this startup is one to watch as they scale their operations and continue to innovate in the AI-driven location intelligence space.\n\nFor more insights or to engage directly, check them out at [Reprompt's website](https://repromptai.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/00d425a4135e2260acc82557c906768305ee213e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191718Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fef0063dad226702c2e6aa95aeb5a03b0482568e7264c22db37464ff9a404bbf",
+    "social_links": [
+        "https://www.linkedin.com/company/99389319/"
+    ],
+    "logo_path": "data/logos\\Reprompt_logo.png"
+}

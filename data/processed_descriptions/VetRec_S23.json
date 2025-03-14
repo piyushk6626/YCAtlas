@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/vetrec",
+    "name": "VetRec",
+    "headline": "AI Scribe for veterinarians. Saving time and improving patient care.",
+    "batch": "S23",
+    "description": "VetRec automates the process of taking clinical notes for veterinarians in a matter of seconds. Veterinarians should just review clinical notes, not spend time creating them. A visit with a pet is precious and 100% of the focus should be spent on the pet, not on notes. VetRec is the veterinarian's best friend.",
+    "activity_status": "Active",
+    "website": "https://vetrec.io",
+    "founded_date": 2023.0,
+    "team_size": 8.0,
+    "location": "Seattle, WA",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:health-tech; industry:ai; location:seattle",
+    "founders": [
+        {
+            "name": "David de Matheu, Founder",
+            "description": "David started his career working in gaming, communications and developer experience at Microsoft. He is passionate in building solutions that help democratize technology, especially within the developer community.",
+            "linkedin": "https://linkedin.com/in/ddematheu"
+        },
+        {
+            "name": "Kevin Cohen, Founder",
+            "description": "Originally from Venezuela, Kevin is a Software Engineer who spent 5+years at Microsoft building Data and AI platforms. Kevin left Microsoft to go work at Circle - the creators of USDC - building a service for ingesting and labeling blockchain data. Now, he is focused on building VetRec, the veterinarian's best friend.\n\nOn his free time, you will find him cooking and hosting people over, his passion after programming.",
+            "linkedin": "https://linkedin.com/in/pkevincohen"
+        }
+    ],
+    "status": true,
+    "generated_description": "### VetRec: Redefining Veterinary Care with AI\n\n**Overview:**\nFounded in 2023 and based in Seattle, WA, VetRec is revolutionizing how veterinarians manage clinical notes. As part of the Y Combinator Batch S23, this innovative startup aims to enhance patient care by saving valuable time\u2014time that should be spent focused on the animals, not on paperwork. \n\n**Mission:**\nAt its core, VetRec's mission is to serve as an AI-powered scribe specifically designed for veterinarians. The idea is straightforward: if veterinary consultations are precious, the time spent on note-taking should be slashed. VetRec automates the generation of clinical notes in mere seconds, allowing vets to concentrate on what truly matters\u2014caring for pets.\n\n**How It Works:**\nThe process is simple:\n1. **Record** the consultation with a click of a button.\n2. Let VetRec **process** the session, either using built-in templates or customizable SOAP formats.\n3. Within **30 seconds**, have the generated notes ready for review and integration into your practice management system (PiMS).\n\nThis setup isn't just about taking notes faster; it\u2019s about accuracy and efficiency, minimizing the mental load on veterinarians during and after consultations.\n\n**Team and Support:**\nVetRec is powered by a small but mighty team of 8 employees, with guidance from Group Partner Aaron Epstein. The team is known for its responsiveness and commitment to improving the platform based on user feedback, which is vital in a field where every second counts.\n\n**Key Features:**\n- **Comprehensive AI Integration:** VetRec not only records conversations but also processes them intelligently, creating a seamless workflow from consultation to documentation.\n- **Custom Templates:** Users can choose from over 35 templates or design their own, tailoring the notes to suit varying needs and specialties.\n- **Patient History Summarization:** Summarize extensive patient histories\u2014up to 1500 pages\u2014bringing together all necessary information in one concise document.\n- **Two-Way PiMS Integration:** Effortlessly export notes to designated PiMS platforms with a single click, enhancing workflow efficiency even further.\n\n**Pricing:**\nVetRec adopts a straightforward pricing model:\n- **$149/month** for individual veterinarians or clinics per vet, with a two-week free trial.\n- Discounts are available for non-profits and relief work, showcasing a commitment to accessibility in veterinary care.\n\n**Feedback and Testimonials:**\nVeterinarians using VetRec praise its accuracy and the freedom it offers during consultations. Users report feeling more present with their patients and less encumbered by the administrative burden of record-keeping.\n\n**Get Started:**\nFor veterinarians looking to simplify their workflow, VetRec offers a free trial sign-up at [vetrec.io](https://vetrec.io). The platform is designed to work across devices, necessitating no special equipment\u2014a simple microphone suffices to start recording.\n\n### Final Thoughts\nVetRec isn't just another software tool; it's a transformative approach to veterinary practice, blending technology with compassion. By streamlining the note-taking process, VetRec empowers veterinarians to focus on what truly matters: the health and well-being of the pets they serve.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/46f95b95ce9331b49aa789e83aecc0300eae53bf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192047Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=33936330f448eae8850f79e03a1bf64c507833dd5ef4f99004babf828a4be1f7",
+    "social_links": [
+        "https://www.linkedin.com/company/tryvetrec"
+    ],
+    "logo_path": "data/logos\\VetRec_logo.png"
+}

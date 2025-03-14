@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/arpio",
+    "name": "Arpio",
+    "headline": "Recover from any outage in 10 minutes or less.",
+    "batch": "W21",
+    "description": "Arpio is a SaaS that eliminates downtime for AWS applications by making it easy to recover from any outage in just a few minutes.",
+    "activity_status": "Active",
+    "website": "https://arpio.io",
+    "founded_date": 2018.0,
+    "team_size": 7.0,
+    "location": "Durham, NC",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:cloud-workload-protection; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Doug Neumann, Founder",
+            "description": "Co-founder and CEO of Arpio.  I've been building software for 20+ years at places like Microsoft, BMC, and Bandwidth.  Before Arpio I led the software engineering organization at Bandwidth through their successful IPO in 2017.",
+            "linkedin": "https://www.linkedin.com/in/dougneumann/"
+        },
+        {
+            "name": "Shaw Terwilliger, Founder",
+            "description": "Got my first job writing software at 15 and I've been doing it ever since.  Built things at small, medium, and large companies.  Launching new products is the best.  CTO of Arpio.  Increasingly gray beard.  Unix guy.",
+            "linkedin": "https://www.linkedin.com/in/shaw-terwilliger-64079076/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Overview of Arpio\n\n**Founded:** 2018  \n**Location:** Durham, NC  \n**Website:** [arpio.io](https://arpio.io)  \n**Y Combinator Batch:** W21  \n**Team Size:** 7 employees  \n**Group Partner:** Jared Friedman  \n\n---\n\n### Mission\n\nArpio's mission is straightforward: **Recover from any outage in 10 minutes or less.** In an age where every second counts, especially for businesses relying on AWS applications, Arpio offers an essential safety net.\n\n---\n\n### What They Do\n\nInitially launched as a SaaS solution designed to eliminate downtime for AWS applications, Arpio specializes in disaster recovery. Their platform allows businesses to protect their critical applications from unexpected outages and ransomware attacks, ensuring operational continuity.\n\n**Arpio's Capabilities:**\n- **Automated Disaster Recovery:** Cross-region and cross-account recovery for AWS environments.\n- **Rapid Recovery:** Outages can be handled within minutes, significantly reducing stress for IT teams.\n- **Comprehensive Protection:** Arpio recognizes and replicates everything necessary for your cloud workloads, including servers, databases, networking, security settings, and more.\n\n### Target Audience\n\nPrimarily focused on **B2B clients**, Arpio tailors its solutions for various sectors including:\n- Healthcare\n- Financial Services\n- General SaaS Technologies\n\nThis means they're not just protecting data; they're securing the operational lifeblood of industries where downtime can mean catastrophe.\n\n---\n\n### Why Choose Arpio?\n\n1. **Speed:** Recovery in just minutes, which can drastically impact a company's bottom line and reputation.\n2. **Ease of Use:** A setup that requires no complex automation\u2014businesses can have disaster recovery plans in place in as little as 30 minutes.\n3. **Continuous Features:**\n   - **Real-Time Alerts:** Stay informed about the health of your environment.\n   - **One-Click Testing:** Validate your recovery processes without disrupting production.\n   - **Immutable Backups:** Protect your backups from being tampered with by attackers.\n\n### Customer Testimonials\n\nArpio has made a strong impression on its clients. Companies like Spiffy and Choice Hotels emphasize the simplicity and reliability of the platform, noting how it has transformed their disaster recovery processes. For instance, Ryan Eade, CTO of Spiffy, remarked, \u201cAfter our implementation, we\u2019ve had great success with our ongoing DR tests, and the platform is easy for everyone on the team to understand.\u201d\n\n---\n\n### Conclusion\n\nIn a digital landscape full of unpredictability, Arpio steps in as a robust ally for businesses leveraging AWS. With their focus on fast recovery, ease of use, and comprehensive safeguards, they position themselves as a vital part of a modern tech stack. Whether you\u2019re a startup or an enterprise, considering the resilience of your infrastructure is crucial, and Arpio makes that process not just feasible, but efficient. Explore their offerings [here](https://arpio.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b0ee6876fe46ee5c1bfa8ca2fd2474c94aa492df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191005Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e3520f15f29c90aece9909a5ecb4e86a9b93bda973e5876c03a26e2df0f12ed5",
+    "social_links": [
+        "https://www.linkedin.com/company/arpio",
+        "https://github.com/arpio"
+    ],
+    "logo_path": "data/logos\\Arpio_logo.png"
+}

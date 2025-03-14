@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/general-agency",
+    "Name": "General Agency",
+    "Headline": "AI coworkers that can learn and act just like a human",
+    "Batch": "W25",
+    "Description": "We are building Tessa, an AI coworker that can autonomously learn and master the usage of web-based tools, just like a human does. \r\n\nTo accomplish this, we are building a novel neural architecture that enables autonomous self-improvement in AI agents. So far, we've achieved a state-of-the-art success rate of 93% on the WebVoyager benchmark.\r\n\nWe are working to automate workflows in several verticals, including property management & real estate, financial services, and consulting.",
+    "Activity_Status": "Active",
+    "Website": "https://heytessa.ai",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/aaron-epstein",
+    "Group_Partner": "Aaron Epstein",
+    "Company_Linkedin": "https://www.linkedin.com/company/heytessa",
+    "Company_Twitter": "",
+    "Tags": "industry:hard-tech; industry:reinforcement-learning; industry:automation; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/heytessa",
+        "https://x.com/GeneralAgencyAI"
+    ],
+    "logo_path": "data\\logos\\General_Agency.png",
+    "Active_Founders": [
+        {
+            "Name": "Harvey Hu, Founder",
+            "Description": "Co-founder and CTO of Tessa. Previously machine learning engineer at Google & TikTok, designing recommendation algorithms for billions of users. I love models, probabilities, and solving complex impactful problems",
+            "LinkedIn": "https://www.linkedin.com/in/yubin-hu-berkeley/"
+        },
+        {
+            "Name": "Mo Nasir, Founder & CEO",
+            "Description": "Co-founder and CEO of Tessa, an AI coworker that can learn and master new skills like a human does. Previously worked on self-driving cars at NVIDIA.\n\nChinese loose leaf tea connoisseur \ud83c\udf75",
+            "LinkedIn": "https://linkedin.com/in/mohammednasir"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "### General Agency Overview\n\n**Founded:** 2024  \n**Location:** San Francisco, California  \n**Team Size:** 2 Employees  \n**Y Combinator Batch:** W25  \n**Group Partner:** Aaron Epstein  \n**Website:** [heytessa.ai](https://heytessa.ai)\n\n---\n\n### Mission\n\nGeneral Agency is on a mission to create AI coworkers that learn and act just like humans. Their initial endeavor, Tessa, is designed to autonomously learn and master web-based tools, achieving remarkable accuracy with a 93% success rate on the WebVoyager benchmark. \n\n---\n\n### Product Highlights\n\n- **Meet Tessa:** More than just a virtual assistant, Tessa is a 24/7 star employee that adapts to your needs and continually self-improves.\n  \n- **Key Features of Tessa:**\n  - **Autonomous Research:** Browses webpages with human-like understanding and intuitiveness.\n  - **Calendar and Inbox Management:** Seamlessly integrates with Google Calendar, Gmail, and Google Drive.\n  - **Knowledge Base Integration:** Reads and learns processes from large files efficiently.\n  - **Writing Style Mirroring (Coming Soon):** Adopts your unique writing style to communicate in your voice.\n  - **Tool Adaptation (Coming Soon):** Learns to utilize your digital tools based on observations.\n  - **Workflow Automation (Coming Soon):** Takes charge of tasks after a single demonstration.\n\n---\n\n### Areas of Focus\n\nGeneral Agency aims to revolutionize several verticals, including:\n- **Property Management & Real Estate**\n- **Financial Services**\n- **Consulting**\n\n---\n\n### Unique Selling Proposition\n\nTessa is designed to handle repetitive tasks and complex workflows, freeing you from the minutiae. For instance, it can:\n- Make dinner reservations.\n- Automate payment processes for things like parking tickets.\n- Assist with market research on startup names, conducting trademark checks and domain availability.\n\nIn short, Tessa is engineered to save time and effort, making business operations smoother and more efficient.\n\nJoin the waitlist to experience Tessa's capabilities firsthand. It\u2019s like having a dedicated assistant\u2014only smarter and always available!"
+}

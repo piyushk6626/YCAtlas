@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/combinehealth",
+    "name": "CombineHealth",
+    "headline": "Automating Healthcare Revenue Cycle Management with AI Workforce",
+    "batch": "W23",
+    "description": "Preventing revenue leakage in health systems using AI",
+    "activity_status": "Active",
+    "website": "https://www.combinehealth.ai/",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:healthcare; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sourabh Agrawal, Founder",
+            "description": "Sourabh has been building and deploying machine-learning models for the last 8 years. Previously he co-founded Insane.ai (an AI-powered fitness app) - a seed-funded startup where he built state-of-the-art computer vision models, scaled the product to 150k+ users, and grew the team to 20+ members. Before starting up, Sourabh worked as an AI consultant at Bosch (autonomous driving) & a quant associate at Goldman Sachs. He graduated from IIT Bombay, where he studied Electrical Engineering.",
+            "linkedin": "https://www.linkedin.com/in/sourabh-agrawal-62932b175/"
+        },
+        {
+            "name": "Shikha Mohanty, Founder",
+            "description": "Shikha was a venture builder and SaaS investor in the past. She has worked with several deeptech companies in her previous work experience and has contributed to their growth journeys by providing support on their GTM startegy",
+            "linkedin": "https://www.linkedin.com/in/shikhamohanty/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: CombineHealth**\n\nFounded in 2022 and born out of Y Combinator's W23 batch, CombineHealth is on a mission to automate healthcare revenue cycle management (RCM) using an AI workforce. The company, located in the heart of San Francisco, consists of a dedicated team of six employees and is helmed by Dalton Caldwell as their Group Partner.\n\n**The Problem They Solve**\n\nCombineHealth identified a pressing issue in healthcare: revenue leakage\u2014a situation where healthcare providers fail to collect the full amount of revenues due to inefficiencies or errors in the billing process. By leveraging advanced artificial intelligence, CombineHealth aims to mend these gaps, ensuring that financial transactions are seamless, accurate, and ultimately profitable for health systems.\n\n**What They Offer**\n\nAt the core of CombineHealth's offerings are two key AI-driven tools:\n1. **Amy**: An AI Medical Coder that autonomously handles medical coding with customizable configurations and adherence to the latest coding guidelines.\n2. **Marc**: An AI Medical Biller that manages the billing process end-to-end, including denial management and reliable follow-ups.\n\nThe benefits of their AI workforce are compelling:\n- **15% Higher Collections**: More effective billing means more revenue.\n- **60% Lower Costs**: Automation reduces the operational overhead.\n- **30% Reduction in A/R Days**: Faster payment turnaround improves cash flow.\n- **75% Reduction in Claim Denials**: Proactive claim management significantly cuts down errors.\n\nCombineHealth's AI solutions are designed to provide superior quality through continuous learning and human-in-the-loop features, ensuring transparency and quality control.\n\n**Market Context and Need**\n\nHealthcare providers are currently grappling with issues such as high claim denial rates\u2014one in ten claims is denied\u2014and significant labor shortages within RCM departments. CombineHealth\u2019s technology not only addresses these challenges but also positions healthcare organizations to scale efficiently without being hindered by traditional workforce constraints.\n\n**The Future of Healthcare RCM**\n\nCombineHealth envisions a future where AI doesn't just replace people but empowers them. They firmly believe that the optimal RCM of tomorrow is a symbiotic relationship between human expertise and AI efficiency. The company is committed to continuously improving its platform based on feedback and changes in compliance, ensuring that their solutions remain relevant and efficient.\n\nIn summary, CombineHealth isn\u2019t merely automating processes; it\u2019s revolutionizing the way healthcare manages its finances, allowing providers to focus more on patient care and less on bureaucratic inefficiencies. You can find more about CombineHealth on their website: [CombineHealth](https://www.combinehealth.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7725d7968de102806e55f1b50364552df0a5e76b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191059Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7980352cdd8a02f45ea7967e10c7aa8b1eda109b019d73d97cb67091dff37131",
+    "social_links": [
+        "https://www.linkedin.com/company/combine-health/",
+        "https://github.com/uptrain-ai/uptrain"
+    ],
+    "logo_path": "data/logos\\CombineHealth_logo.png"
+}

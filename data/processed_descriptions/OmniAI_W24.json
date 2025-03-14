@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/omniai",
+    "name": "OmniAI",
+    "headline": "Automate document workflows",
+    "batch": "W24",
+    "description": "Omni turns documents, slide decks, websites and more into the data you need. You'll never need to copy + paste data into spreadsheets again.\r\n- Connect to a database or document store. We support Snowflake, Postgres, Google Drive, S3 and more.\r\n- Transform your data - Define type safe schemas to run against your unstructured data. We\u2019ll run those models against your data, and keep your warehouse in sync as new rows/fields are added/deleted.\r\n- Query with SQL - All the transformed data stays in your warehouse. Surface this data in your product, or analyze with your existing BI tools.",
+    "activity_status": "Active",
+    "website": "https://getomni.ai",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:documents; industry:artificial-intelligence; industry:finance; industry:automation; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Tyler Maran, Founder",
+            "description": "Tyler is the co-founder and CEO of OmniAI. Before OmniAI, he played a pivotal role in developing AI and ML applications within the healthcare and mental health domains. His experience in establishing ML structures in stringently regulated sectors gives him a unique perspective on the tradeoffs of tech, business, and regulatory considerations.",
+            "linkedin": "https://linkedin.com/in/tyler-maran"
+        },
+        {
+            "name": "Anna Pojawis, Founder",
+            "description": "Anna is the co-founder and CTO of OmniAI, a data infrastructure layer for AI. Prior to OmniAI, Anna contributed to growth initiatives at Hightouch, a YC-backed reverse ETL company. She has a background in investment banking and graduated from the University of Connecticut.",
+            "linkedin": "https://linkedin.com/in/anna-pojawis-b30662230"
+        }
+    ],
+    "status": true,
+    "generated_description": "OmniAI is a forward-thinking company established in 2023, driven by the mission to automate document workflows. They essentially take documents\u2014whether they're traditional text files, slide decks, or even websites\u2014and transform them into structured data, eliminating the tedious task of manual data entry into spreadsheets. Their tagline could be: \"No more copy-pasting; let us handle your data.\"\n\n### What They Do\n\nAt its core, OmniAI connects seamlessly with a variety of data sources, including Snowflake, Postgres, Google Drive, and S3, allowing users to pull unstructured data from multiple formats and locations. Once connected, users define type-safe schemas\u2014think of these as blueprints for how to manage the raw data. OmniAI then runs sophisticated models against this data, ensuring that your analytics warehouse stays updated as the data evolves.\n\nOne of the standout features is its SQL querying capabilities. Users can query transformed data directly from their data warehouse, making it easy to integrate insights into existing BI tools or even live within products.\n\n### Use Cases\n\nOmniAI serves various industries, including finance and e-commerce, by automating tasks such as financial report extraction, earnings call analysis, and expense categorization. This means that complex documents can be rapidly transformed and analyzed, helping companies streamline their operations and make informed decisions faster.\n\n### The Team and Their Backing\n\nLocated in San Francisco and currently boasting a small team of four, OmniAI was recently bootstrapped under the Y Combinator Batch W24. With Gustaf Alstromer as their Group Partner, the company is positioned to leverage Y Combinator\u2019s extensive network and resources to accelerate its growth.\n\n### Advanced Features\n\n- **Multiple Data Sources**: OmniAI works with a variety of data storage solutions to simplify integration.\n- **API Ease of Access**: Developers love the fact that setting up document pipelines requires just a few lines of code.\n- **Robust Privacy Measures**: They emphasize strong data privacy protocols, including options for private cloud hosting and role-based access control.\n- **Regular Updates**: The company stays at the forefront of technology by integrating the latest models for natural language processing, ensuring users have access to cutting-edge tools.\n\n### Conclusion\n\nIf you're tired of the manual paperwork grind and want to scale your document workflows, OmniAI might just be the solution you need. By automating tedious processes and equipping businesses with real-time data, they're not just another tech startup\u2014they\u2019re redefining how we interact with our documents. \n\nFor more information, you can visit them at [getomni.ai](https://getomni.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/39dd83da8c7aa26e2692dd21cf0b77c1e1bd030f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191609Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ad93fceef8d39a9fd3f9343c0bd6250b0815db4ef55419a8ed4bf87320860785",
+    "social_links": [
+        "https://www.linkedin.com/company/getomni-ai/",
+        "https://twitter.com/getomni_ai",
+        "https://www.crunchbase.com/organization/omniai",
+        "https://github.com/getomni-ai"
+    ],
+    "logo_path": "data/logos\\OmniAI_logo.png"
+}

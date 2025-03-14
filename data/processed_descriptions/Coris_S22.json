@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/coris",
+    "name": "Coris",
+    "headline": "Risk Infra for SaaS companies and Fintechs that Underwrite SMBs",
+    "batch": "S22",
+    "description": "Coris is a Risk API for SaaS companies and Fintechs that underwrite SMBs. We built the risk systems at eBay, PayPal, WePay, and Google. Leveraging our expertise, we were able to build the product in less than 3 months, launch it within few weeks, and already have live pilots with companies such as Housecall Pro and Wave Accounting",
+    "activity_status": "Active",
+    "website": "https://coris.ai/",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:insurance; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Vinodh Poyyapakkam, Founder",
+            "description": "Payments Fraud, SMB, Risk & Compliance. Prev: Google, WePay, Paysafe, PayPal, Accenture",
+            "linkedin": "https://www.linkedin.com/in/vinodhpo/"
+        },
+        {
+            "name": "Shyam Maddali, Founder",
+            "description": "ex-WePay, ex-eBay",
+            "linkedin": "https://www.linkedin.com/in/shyammaddali/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Coris: Revolutionizing Risk Management for SaaS and Fintech**\n\nFounded in 2022 and based in San Francisco, Coris is carving a niche in the fintech landscape with its mission to provide sophisticated risk management solutions tailor-made for Software as a Service (SaaS) companies and fintechs that underwrite small and medium-sized businesses (SMBs). With a team of just two and backed by Y Combinator\u2019s Batch S22, Coris has leveraged expert insights gained from its founders' experience in building risk systems at notable entities like eBay, PayPal, WePay, and Google.\n\nCoris initially emerged as a Risk API focused on streamlining risk assessments for its clients. Within a remarkable timeframe of less than three months, they developed their product and quickly launched it. Currently, they're conducting live pilots with companies such as Housecall Pro and Wave Accounting.\n\n### Addressing the Merchant Risk Challenge\n\nMerchant risk management is facing a critical moment. There's an avalanche of unstructured data from merchants, and traditional tools simply aren't keeping pace, leading to significant gaps in the monitoring and evaluation process. Meanwhile, AI technologies are ushering in more sophisticated fraud tactics, leaving many risk management teams desperately playing catch-up.\n\nEnter Coris. Their platform aims to unify and automate risk management processes across the entire merchant lifecycle\u2014from onboarding to transaction monitoring. Using this system, companies can expect a **30% reduction in losses** in the first year, a **<5 seconds underwriting time**, and an **80% decrease in manual reviews**. What\u2019s more, these efficiency gains can lead to a stunning **5x return on investment (ROI)** in year one.\n\n### Key Features and Solutions\n\n1. **MerchantProfiler**: This tool harnesses extensive data intelligence to provide insights into merchant classifications and compliance checks, helping businesses quickly vet potential clients.\n\n2. **Fraud Detection**: Their platform includes groundbreaking models for detecting various forms of fraud during critical points such as onboarding and payment processing.\n\n3. **Real-Time Monitoring**: Risk teams are equipped to manage ongoing merchant risks through customizable alerts and checks that ensure continuous oversight.\n\n4. **Enhanced Workflow**: Coris integrates with existing systems (like Stripe and Adyen) to create seamless risk assessment pathways, ultimately reducing friction for legitimate clients while spotting concerning behavior efficiently.\n\n### Why Teams Choose Coris\n\nClient testimonials underscore the significant impact Coris is having on risk management. Companies report startling improvements, including:\n\n- A **90% approval rate** on legitimate business applications.\n- The **saving of 15 hours of onboarding work per week** per team.\n- A **55% reduction in alert review times**, enabling teams to focus on critical, high-leverage risk responsibilities instead of getting bogged down in manual processes.\n\nIn a rapidly changing landscape where effective risk management is key to sustaining growth, Coris exemplifies innovation and responsiveness. Whether you\u2019re entrenched in fintech or navigating the complexities of SaaS, Coris offers robust solutions that not only enhance security but also facilitate better business decisions. You can explore more about them at [coris.ai](https://coris.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/20dd56169c1c18ad260828f2ab6c7e8ec20d0e2a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191104Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=14bfe4c6e8714b772d076b5bc50d6b02797395542b71ccde6c1a67a18287abdd",
+    "social_links": [
+        "https://www.linkedin.com/company/corisinc/",
+        "https://twitter.com/CorisInc"
+    ],
+    "logo_path": "data/logos\\Coris_logo.png"
+}

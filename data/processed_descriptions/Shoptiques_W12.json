@@ -1,0 +1,46 @@
+{
+    "links": "https://www.ycombinator.com/companies/shoptiques",
+    "name": "Shoptiques",
+    "headline": "Shoptiques.com lets you shop the world's best local boutiques online.",
+    "batch": "W12",
+    "description": "Shoptiques.com brings boutique shopping online. On Shoptiques.com, you will experience personalized shopping with the most unique and fashion-forward inventory from the best local boutiques.\n\nThis means no more searching through hundreds of sites and walking down random streets in hopes of finding the perfect item! It\u2019s now easy to discover your favorite local boutiques and shop new looks in one place.",
+    "activity_status": "Active",
+    "website": "http://shoptiques.com",
+    "founded_date": null,
+    "team_size": 51.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:e-commerce; industry:retail; industry:fashion; location:new-york",
+    "founders": [
+        {
+            "name": "Peter Delahunty",
+            "description": "Long term hacker. Currently CTO of Agronomeye",
+            "linkedin": "https://www.linkedin.com/in/peterdelahunty/"
+        },
+        {
+            "name": "Olga Vidisheva",
+            "description": "Entrepreneur/CEO/Board Member/Experienced Executive with deep knowledge in marketplaces, eCommerce, fundraising, and growing and scaling businesses. Currently helping start-ups scale and grow through fundraising help, proper HR and culture set-up, and CEO coaching.",
+            "linkedin": "https://www.linkedin.com/in/olga-vidisheva/"
+        },
+        {
+            "name": "Dan Morin",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/danielmorin"
+        },
+        {
+            "name": "Jeff Morin",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/jeffmorin"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Shoptiques**\n\nFounded in 2012 and based in New York City, Shoptiques is an innovative e-commerce platform that allows you to shop from local boutiques worldwide\u2014all from the comfort of your home. Think of it as your personal tour guide for boutique shopping, but without the hassle of hopping from store to store or getting lost in the city. Instead, Shoptiques aggregates styles from various boutiques, offering a curated selection of unique, fashion-forward items that you wouldn't typically find in major retail chains. \n\nTheir mission? Well, it's simple: **\"Shop the world's best local boutiques online.\"** This approach empowers small, independently-owned boutiques by providing them a platform to reach a broader audience, all while ensuring that each product is packed with care and love directly from the shop.\n\nAs part of Y Combinator's W12 cohort, Shoptiques embraces a unique niche within the e-commerce landscape, focusing not just on variety but on the quality and personality embedded in each piece. With a team of about 51 employees, they\u2019re passionate about creating a seamless shopping experience.\n\nThe website is easy to navigate and loaded with categories ranging from clothing to accessories, shoes, and home goods. They even have sections dedicated to kids' and men's wear. Plus, for orders over $100, you can enjoy free shipping!\n\nIn addition to providing an online storefront, Shoptiques caters to social media-savvy consumers with active accounts on platforms like Facebook, Instagram, TikTok, and Pinterest, reinforcing their community-centric brand image.\n\n**Check out their offerings and support local boutiques at [Shoptiques.com](http://shoptiques.com).**",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.crunchbase.com/organization/shoptiques",
+        "https://github.com/shoptiques"
+    ]
+}

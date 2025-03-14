@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/lucidic-ai",
+    "name": "Lucidic AI",
+    "headline": "See Your Agent's Mind at Work",
+    "batch": "W25",
+    "description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic's Agentlytics provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent\u2019s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
+    "activity_status": "Active",
+    "website": "https://lucidic.ai",
+    "founded_date": 2025.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:automation; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Andy Liang, Founder",
+            "description": "Founder/CTO at Lucidic AI, working on an analytics, testing, and simulations framework for AI agent devs. Stanford BS/MS Computer Science (AI specialization). Ex Citadel, AppLovin.  \n\nPreviously built GrocerCheck, a COVID-19 web app helping shoppers social distance effectively, with over 200,000 users and endorsed by the Government of Canada. \n\nReach me at andy@lucidic.ai",
+            "linkedin": "https://www.linkedin.com/in/andyliang223/"
+        },
+        {
+            "name": "Abhinav Sinha, Founder",
+            "description": "Hi, I\u2019m Abhinav the founder and CEO for Lucidic AI! I\u2019m from Stanford where I studied Computer Science with an AI specialization (both bachelor's and master's) and did research at Stanford's AI Lab.  I\u2019ve worked at Apple as a software engineer and at Citadel Securities and Susquehanna International Group as a quant. \n\nIn my free time, I like to play basketball, pickleball, lift, and rewatch Christopher Nolan movies!\n\nFeel free to reach out, would love to chat -- abhinav@lucidic.ai",
+            "linkedin": "https://www.linkedin.com/in/abhinavsinha15/"
+        },
+        {
+            "name": "Jeremy Tian, Founder",
+            "description": "Hi! I'm Jeremy Tian, one of the founders and the Chief Scientist at Lucidic AI, working to explain your AI models' decisions. I have a BS/MS in Computer Science with an AI specialization from Stanford University. Ex. Quantitative Trader at DRW and software engineering/machine learning engineering at Steel Dynamics. Contact me at jeremy@lucidic.ai!",
+            "linkedin": "https://www.linkedin.com/in/jeremy-tian-a2076a239/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Lucidic AI: See Your Agent's Mind at Work**\n\nFounded in 2025, Lucidic AI is a young company based in San Francisco, proudly emerging from Y Combinator's Batch W25. With a compact team of just three employees, they\u2019re tackling a crucial problem: as AI agents take on more intricate tasks, the need for reliability, accuracy, and efficiency grows exponentially. \n\nLucidic AI's mission can be summed up in their slogan: \"See Your Agent's Mind at Work.\" Their flagship product, **Agentlytics**, serves as a robust toolkit for developers and engineers to test, debug, and optimize AI agents at scale. Imagine having the ability to modify prompts, rerun tests, and get step-by-step video replays of how your agents make decisions. With features that allow you to visualize decision trees and compare different models side-by-side, you're equipped to pinpoint potential failures before they escalate. \n\nThe company's focus is on ensuring that AI agents can smoothly operate, adapt to changes, and meet performance expectations in real-world scenarios \u2013 a critical need in today's rapidly evolving tech landscape.\n\nIf you\u2019re curious about what they do, you can join their private beta. Their website, [Lucidic.ai](https://lucidic.ai), offers more snippets of their innovative approach, including an invitation to book a demo. The site captures the essence of their mission: enabling smarter testing, faster debugging, and comprehensive simulation of AI agents.\n\nIn the ever-expanding realm of artificial intelligence, Lucidic AI is poised to make a significant impact, making it easier for engineers to understand and refine the complex behaviors of their AI systems. With partnerships like Brad Flora as their Group Partner and their strategic location in the San Francisco Bay Area, Lucidic AI is well-positioned for growth in the developer tools and automation sectors.\n\nOverall, if you\u2019re developing AI systems and yearning for transparency in how they operate, it's worth keeping an eye on Lucidic AI. They might just be the key to unlocking your agents' potential.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/45fb38bd3fffbc1d6361f5ce35c8c9631c7f959c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191514Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3aad2170315ef5b9edddfd092875eb2e96c0d56a303e0c5fd133e6fb7cdaa69f",
+    "social_links": [],
+    "logo_path": "data/logos\\Lucidic_AI_logo.png"
+}

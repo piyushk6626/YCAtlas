@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/authzed",
+    "name": "authzed",
+    "headline": "Open Source, Google Zanzibar-inspired permissions database",
+    "batch": "W21",
+    "description": "We build the tools companies need to provide performant and scalable authorization for their applications.\r\n\nWe\u2019re founded by 3 successful entrepreneurs with expertise in enterprise software, most recently as leaders at Red Hat. Jake and Joey met on the APIs team at Google in 2010. They went on to found Quay, where Jimmy joined as their first hire. Over the past decade, they\u2019ve changed the landscape for building and deploying software.",
+    "activity_status": "Active",
+    "website": "https://authzed.com",
+    "founded_date": 2020.0,
+    "team_size": 24.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:security; industry:open-source; industry:data-engineering; location:new-york",
+    "founders": [
+        {
+            "name": "Jake Moshenko, Founder",
+            "description": "Jake Moshenko is an engineering leader that has been building infrastructure tools and services for over 15 years for large companies and startups alike. Having previously struggled to keep up with customer permissions demands on products such as CoreOS\u2019s Quay and Tectonic, he was searching for a better way to do application permissions.",
+            "linkedin": "https://www.linkedin.com/in/jacob-moshenko-381161b/"
+        },
+        {
+            "name": "Jimmy Zelinskie, Founder",
+            "description": "Jimmy Zelinskie is a software engineer and product leader with the goal of empowering the world through the democratization of software through open source development. He's currently the CPO and cofounder of authzed where he's focused on bringing hyperscaler best-practices in authorization software to the industry at large.",
+            "linkedin": "https://www.linkedin.com/in/jzelinskie"
+        },
+        {
+            "name": "Joseph Schorr, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/joseph-s-4324904/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Authzed is a burgeoning company based in New York, founded in 2020 by a trio of software entrepreneurs\u2014Jake Moshenko, Joey Hurst, and Jimmy Zelinskie\u2014who collectively bring a wealth of experience from their time at Red Hat and Google. They initially set out with a mission to empower businesses with robust, scalable authorization tools for their applications, drawing inspiration from Google\u2019s Zanzibar model.\n\nThe heart of Authzed's offering is **SpiceDB**, an open-source permissions database designed to provide fine-grained access control. It's built for consistency and performance, making it suitable for companies looking to implement complex authorization systems without the usual headaches. By drawing from the Zanzibar principles, SpiceDB facilitates an advanced approach to managing user permissions\u2014allowing teams to define access controls that can adapt to their specific needs while ensuring robust security.\n\nAuthzed's business model features various products: from managed services like **AuthZed Dedicated** and **AuthZed Serverless** to self-hosted and enterprise solutions. They cater to a diverse client base, ranging from startups to well-established corporations, all of whom rely on them to streamline their permission management processes.\n\nAs part of Y Combinator's W21 batch, Authzed has grown to a team of 24 and is under the guidance of Dalton Caldwell as their Group Partner. They are well-positioned in the developer tools and security space, sitting at the intersection of open-source innovation and enterprise needs. \n\nCurrently, they seem to be ramping up their outreach and community engagement efforts, promoting their products through various resources like documentation, a community Discord, and customer stories, while emphasizing their commitment to collaboration and learning.\n\nAuthzed is one of those companies that recognizes the growing complexities in application security and strives to simplify them without compromising on performance\u2014essential for both developers and end-users. If you want to learn more about them, their platform, or give SpiceDB a try, their website is the best place to start: [authzed.com](https://authzed.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ea134cdfac6d4a178d05502730bc26073500be38.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191012Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=adea2e30a5e86dcf82d6095f280bcb65c3885b30b66a1b4791365d0c7d971c76",
+    "social_links": [
+        "https://www.linkedin.com/company/authzed",
+        "https://twitter.com/authzed",
+        "https://www.crunchbase.com/organization/authzed",
+        "https://github.com/authzed"
+    ],
+    "logo_path": "data/logos\\authzed_logo.png"
+}

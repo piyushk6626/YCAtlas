@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/bodysim-by-well-principled",
+    "name": "BODYSIM by Well Principled",
+    "headline": "Gain Muscle and Shed Fat with a Digital Twin of Your Body",
+    "batch": "S19",
+    "description": "Gain muscle and shed fat with a digital twin of your body. BODYSIM is an app-based simulation of your body and its potential that recommends nutrition and exercise to meet your goals. Use BODYSIM to (1) Assemble your data from food logging, BIA weigh-ins, DEXA scans, at-home blood tests, and wearables, (2) Learn to \u201ctriangulate the truth\u201d of your unique metabolism and physiology, and (3) Adjust your nutrition and exercise plans by simulating what will happen to your body. One founder put on 45 lbs muscle, and another put on 25 lbs of muscle while losing 50 lbs of fat. Our alpha testers lost an average of 12.6 pounds in 3 months.\r\n\nOur core technology distills messy academic literature into simulations. Before turning to our own fitness journeys, we successfully deployed sophisticated enterprise models of plant-soil-atmosphere, consumer behavior and battery electrochemistry. With BODYSIM we built a science-based simulation of macronutrient balance and muscle hypertrophy. It includes cell turnover, oxidation for energy, lipolysis of fat stores, synthesis of new muscle, glycogen resynthesis, GI latency, and even ketones. Get jacked at BODYSIM.com",
+    "activity_status": "Active",
+    "website": "https://bodysim.com",
+    "founded_date": 2018.0,
+    "team_size": 10.0,
+    "location": "St. Louis, MO",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:sports-tech; industry:consumer; industry:fitness; industry:health-&-wellness",
+    "founders": [
+        {
+            "name": "Ryan Richt, Founder",
+            "description": "Ryan has galvanized teams with bold vision and disruptive, patented innovations since 2003. Ryan transformed distributed analytics across an academic lab, his first bootstrap startup and computational biology and cloud teams at Monsanto. He grew VC-backed CiBO from 7 to 70 engineers and data scientists. Ryan holds an MBA and BA prob/stats from Olin and WashU.",
+            "linkedin": "https://www.linkedin.com/in/ryan-richt/"
+        },
+        {
+            "name": "Christopher Shafer, Founder",
+            "description": "Chronically the first customer-facing engineer, Chris has delighted customers with deep-data applications from corn germplasm catalogs to global satellite data and environment simulations. Marshalling his broad expertise from cloud architecture to data visualization, Chris delivers outcomes customers love and leads solutions teams to productize them.",
+            "linkedin": "https://www.linkedin.com/in/chris-shafer/"
+        },
+        {
+            "name": "Joseph Wingbermuehle, Founder",
+            "description": "Joe has spent 15 years building foundational platforms, from middleware at AT&T, to startups across FPGA-accelerated high-frequency trading, accelerated ETL, machine learning based network security (acquired by Cisco) and hybrid AI/physical models of global-scale crop simulation. Joe holds a BS in Applied Math and a PhD in Computer Science from WashU.",
+            "linkedin": "https://www.linkedin.com/in/joewing"
+        }
+    ],
+    "status": true,
+    "generated_description": "### BODYSIM by Well Principled: Unlocking Your Peak Potential\n\n**Company Overview:**\nFounded in 2018 and hailing from St. Louis, MO, BODYSIM by Well Principled is a cutting-edge health-tech company under the Y Combinator Batch S19. With a team of 10 dedicated individuals led by their Group Partner, nan, BODYSIM operates at the intersection of fitness, health, and artificial intelligence. Their mission is straightforward yet powerful: to help users **gain muscle and shed fat** by providing a digital twin of their body.\n\n**What They Offer:**\nBODYSIM isn't just another fitness app. It\u2019s a comprehensive platform that delivers personalized nutrition and exercise plans built on scientific simulations of your unique physiology. Users can harness various data sources\u2014from food logs to at-home blood tests\u2014to create an accurate model of their metabolism and body composition.\n\nHere\u2019s how it works:\n1. **Data Integration**: Gather inputs via food logging, DEXA scans, BIA weigh-ins, and fitness trackers.\n2. **Metabolic Insight**: Understand your exercise and nutrition\u2019s impact on your body to \"triangulate the truth\" of your metabolic state.\n3. **Customized Plans**: Use advanced simulations to forecast the outcomes of different diets and workouts. \n\nNotably, beta testers in their initial trials saw impressive results, including an average weight loss of **12.6 pounds in just three months**.\n\n**Bringing Science to the Gym:**\nWhat truly sets BODYSIM apart is its reliance on sophisticated technology to clarify the messy academic literature around fitness science. By creating a dynamic, science-based model of muscle hypertrophy and metabolic balance, BODYSIM demystifies the processes of cell turnover, fat oxidation, and muscle synthesis. The science isn\u2019t just theory; it has yielded real-world results for its founders, who have transformed their bodies with pronounced gains in muscle mass while reducing fat.\n\n**Core Features:**\n- **Digital Twin Technology**: Create a personalized avatar that adapts as you progress.\n- **Monthly Blood Tests**: Monitor essential biomarkers regularly to inform your fitness journey.\n- **Comprehensive Meal Planning**: Access chef-crafted meal plans tailored to your macros.\n- **Smart Workout Recommendations**: Personalized training plans with over 2,200 exercises, complete with instructional videos.\n\n**The Total Toolkit**: The BODYSIM system goes beyond digital, including physical tools like the Withings Body Scan Scale, Escali Food Scale, and BlenderBottle\u00ae, creating a holistic health solution for users.\n\n**The Vision**: BODYSIM is on a mission to help individuals discover and achieve their peak physical potential using an evidence-based approach. By blending sensor data with the latest nutritional research, they empower users to make informed decisions about their health.\n\n**Pricing**: For an all-inclusive initial investment of **$1,599**, plus **$239/month**, subscribers receive a wealth of resources needed for optimal health and fitness performance, making it a compelling choice for those serious about transformation.\n\nFor more information, including testimonials from satisfied users and detailed insights into their approach, check them out at [BODYSIM.com](https://bodysim.com). \n\nIn a world overflowing with fitness fads, BODYSIM stands out by promising not just tracking but forecasting your body\u2019s health\u2014turning personal fitness into a strategic, predictable journey.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d19b643beed335bf3be58bae0710eb5ed010f57e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191028Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=81299d7cabaac9179e3723ec2e0450fe120ecf8f08ef4969d9b7aa1ad1e56f7f",
+    "social_links": [
+        "https://www.linkedin.com/company/well-principled",
+        "https://twitter.com/WellPrincipled",
+        "https://www.crunchbase.com/organization/well-principled",
+        "https://github.com/wellprincipled"
+    ],
+    "logo_path": "data/logos\\BODYSIM_by_Well_Principled_logo.png"
+}

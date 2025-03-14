@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/1849-bio",
+    "name": "1849 bio",
+    "headline": "Engineering microbes for miners to unlock billions in trapped metal",
+    "batch": "S24",
+    "description": "1849 bio designs microbes enabling cheap metal extraction allowing miners to unlock value from low quality copper and gold ores. Surprisingly, the mining industry is one of the largest scale users of biotech in the world with biomining processes accounting for ~1% of global copper production. Biomining is ultra-low cost, running around ~$1/ton of ore vs ~$7/ton for conventional processes. \r\n\nUnfortunately, while biomining is cheap, it can\u2019t be applied to over 80% of copper ores, leaving vast resources without profitable extraction methods. An estimated ~$800B of copper sit today in waste materials and stockpiles with negative unit economics.\r\n\nWhile a great deal of effort has been spent on optimizing microbial metal extraction processes, very little effort has been spent on optimizing the microbes themselves. \r\n\nTo change that, we\u2019re creating new biotech tools and platforms applied directly to the types of biology most relevant to miners. This enables us to develop new microbes and tackle some of the most difficult problems in biomining, unlocking billions in value from unprofitable resources while being more environmentally friendly than conventional processes.\r\n\nWe\u2019re world class microbial engineers. We met while doing our PhDs in synthetic biology, where we spent our time applying and developing the most advanced bioengineering technologies to engineer living cells.",
+    "activity_status": "Active",
+    "website": "https://www.1849.bio",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:synthetic-biology; industry:biotech; industry:climate; industry:mining; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jai Padmakumar, Founder",
+            "description": "Co-founder and CEO of 1849 bio. I get excited working on difficult problems with outsized impacts if you can solve them. I studied Microbiology and Applied Math at the University of Washington before doing my PhD at MIT in a synthetic biology lab. I've spent my time pushing the limits of what\u2019s possible in bioengineering.\n\n1849 is my second startup, the first of which I co-founded during grad school and led the early science at.",
+            "linkedin": "https://linkedin.com/in/jai-padmakumar"
+        },
+        {
+            "name": "Yongjin Park, Founder",
+            "description": "I am the co-founder and CSO of 1849 bio. I studied chemical engineering at KAIST and did my PhD at MIT in the Department of Biological Engineering. During my PhD, I developed core technology used in the world's first engineered probiotic that went into clinical trial. After completing PhD, I worked in deep biotech companies, developing microbial products that were administered to over 6M acres of farmland in the US (about the area of Belgium!).",
+            "linkedin": "https://www.linkedin.com/in/yongjin-park-6604092a/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**1849 Bio: Unlocking Metal Value with Microbial Engineering**\n\nFounded in 2024 and based in San Francisco, 1849 Bio is an ambitious biotech start-up that's tackling a dramatic gap in the metals market. With the electrification wave driving a surge in demand for key metals like copper, there\u2019s an expectation of a 20% supply shortfall in the next few years. This is where 1849 Bio steps in with a mission: engineering microbes that help miners extract valuable metals from low-quality ores, thereby unlocking billions of dollars in trapped resources. \n\nAt present, conventional mining processes for metals come with hefty price tags\u2014running about $7 per ton of ore. Biomining, however, operates at approximately $1 per ton. The catch? Biomining techniques can only apply to about 20% of copper ores, leaving an estimated $800 billion worth of copper stranded in waste materials due to unprofitable extraction methods. This is a gold mine of a problem, and it presents a significant opportunity.\n\nWhile there has been intensive work on refining the mining processes, the microbes themselves have largely been overlooked. That\u2019s where 1849 Bio\u2019s expertise comes into play. The team's founders\u2014Jai Padmakumar, Yongjin Park, and Nicholas DeLateur\u2014are world-class microbial engineers who met during their PhDs in synthetic biology. They are uniquely positioned to change the game by developing custom engineered microbes that improve the efficiency of biomining.\n\nWith the backing of Y Combinator (Batch S24) and a small but focused team of three employees, 1849 Bio is not only committed to innovation in metal extraction but is also aiming to do so in an environmentally friendly way. It's a blend of hard-tech, synthetic biology, and climate consciousness, all while redefining what it means to do mining sustainably.\n\nIn summary, 1849 Bio is working on transforming the mining landscape with biotech advancements, paving the way for a more efficient and eco-friendly means of extracting key metals, all while addressing the looming supply issues that electrification is bringing to the forefront. For more information about their journey and progress, you can visit their website at [1849.bio](https://www.1849.bio).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/02e59b8d5a95d45a5c0a2a42c82dd3cc8f785191.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190937Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a00df38470856b5ca501004a26a46ba58c4f7d1aa5691f7635c4e25e03f466b3",
+    "social_links": [
+        "https://www.linkedin.com/company/1849-bio/",
+        "https://x.com/1849bio"
+    ],
+    "logo_path": "data/logos\\1849_bio_logo.png"
+}

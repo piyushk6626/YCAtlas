@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/tegon",
+    "name": "Tegon",
+    "headline": "Open source issue tracking tool for engineering teams",
+    "batch": "S23",
+    "description": "Tegon is an open-source issue tracking tool that simplifies issue tracking for engineering teams. It is designed to be simple to use and super functional, addressing the complexities and slow nature of current tools.\r\n\nExisting issue tracking tools like Jira often act as a blocker in engineers' productivity by adding more processes and manual tasks, and they do not help engineers in resolving the bug faster or get full context about a specific tasks. Tegon is using AI and integrations smartly to automate task creation and updation and help engineers in task prioritisation and better bug resolution",
+    "activity_status": "Active",
+    "website": "https://www.tegon.ai",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:saas; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Harshith Mullapudi, Founder",
+            "description": "Previously worked as a software engineer at Airbyte. I also worked as a founding engineer at Velocity (a Series A startup), where I built customer-facing dashboards and data pipelines.",
+            "linkedin": "https://linkedin.com/in/harshithmullapudi"
+        },
+        {
+            "name": "Manik Aggarwal, Founder",
+            "description": "Manik was a Senior Product Manager at Velocity. He scaled Velocity Insights from 0 to 1500 companies.\nPrior to joining Velocity, Manik worked as a Data Scientist at American Express. During his tenure, he built and maintained global credit risk models.",
+            "linkedin": "https://linkedin.com/in/aggarwalmanik"
+        },
+        {
+            "name": "Manoj K, Founder",
+            "description": "Manoj is an Engineering Leader with 7+ years of experience, successfully led data engineering and backend teams at Velocity and Emtropy Labs. At Velocity, he built robust data pipelines, effortlessly handling millions of rows daily basis. He engineered an NLP model that drastically reduced recruitment time.",
+            "linkedin": "https://linkedin.com/in/manoj-ks"
+        }
+    ],
+    "status": true,
+    "generated_description": "Tegon is an innovative open-source issue tracking tool tailored specifically for engineering teams. Launched in 2024 and part of the Y Combinator Batch S23, Tegon is based in San Francisco and is spearheaded by a compact team of three. The company was founded with a clear mission: to simplify the often cumbersome problems associated with traditional issue tracking tools like Jira. \n\nAt its core, Tegon is designed to enhance engineers' productivity by eliminating excessive processes and manual tasks. It integrates intelligent automation using AI to streamline task creation, updates, and prioritization. This not only helps in resolving bugs more efficiently but also ensures that engineers have full context around their tasks.\n\nTegon employs several clever features, such as:\n- **AI Bug Enricher**: Adds contextual tips to help resolve bugs more easily.\n- **Seamless PR Tracking**: Automatically generates issues tied to Pull Requests.\n- **Slack Integration**: Enables easy issue creation directly from Slack conversations.\n- **Triage System**: Centralizes bug reporting from multiple channels like Slack, Email, and Discord.\n- **AI Suggestions**: Automatically suggests metadata for bugs, simplifying the triage process.\n\nThe tool is built for users who appreciate customization and a lightweight interface. Plus, being AGPL-3.0 licensed means its source code is open for anyone to view, contribute to, or self-host\u2014reflecting Tegon's commitment to the open-source community.\n\nWith a clear focus on making issue tracking not just functional but intuitive, Tegon is positioned to modernize how engineering teams tackle bugs and manage workflows. If you're looking for an efficient solution free from the usual overhead associated with conventional tools, Tegon just might be the answer.\n\nCheck them out at [Tegon.ai](https://www.tegon.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/81b9e9f99083b0c75718f2bf45acea164ca8161b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192008Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f0d540374fd1b79187cf3bb22fd268446a77dfd4723626399bfc4bfd46a6814b",
+    "social_links": [
+        "https://www.linkedin.com/company/tegon-ai/",
+        "https://twitter.com/tegonhq",
+        "https://github.com/tegonhq/tegon"
+    ],
+    "logo_path": "data/logos\\Tegon_logo.png"
+}

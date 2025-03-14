@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/codec",
+    "name": "Codec",
+    "headline": "Tools and APIs for video intelligence",
+    "batch": "W22",
+    "description": "Codec provides access to video intelligence tools and APIs covering use cases like search, annotation, classification and analytics.",
+    "activity_status": "Active",
+    "website": "https://codec.io",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "Palo Alto",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:video; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Merwane Drai, Founder",
+            "description": "merwane.com",
+            "linkedin": null
+        }
+    ],
+    "status": true,
+    "generated_description": "### Overview of Codec\n\n**Mission:** Codec is on a mission to deliver powerful tools and APIs for video intelligence. Their services span key areas like search, annotation, classification, and analytics, allowing users to extract meaningful insights from videos.\n\n**Founded:** 2022  \n**Y Combinator Batch:** W22  \n**Location:** Palo Alto, California  \n**Team Size:** 2 Employees  \n**Group Partner:** Nan\n\nCodec specializes in simplifying the way businesses engage with video content. If you have terabytes of video lying around, Codec can help you make sense of it. They offer an interesting pricing model based on usage\u2014for example, indexing video for searching costs about $5 per hour of video processed.\n\n### Current Capabilities\n\n#### Services:\n- **Semantic Search:** Enable users to search vast amounts of video content.\n- **Data Extraction & Analytics:** Pull valuable data from extensive video libraries.\n- **Automatic Annotation:** The system can automatically tag and classify video content to streamline workflows.\n\n#### Future Prospects:\nWhile live video support isn't on the slate yet, the team is proactive; if you need it, they\u2019re ready to develop that functionality for you.\n\n### Team\n\nCodec is spearheaded by co-founders Merwane Drai and Connor Lurring, both of whom bring their unique skills and vision to the company. \n\n### Conclusion\n\nCodec sits at the intersection of AI and video technology, harnessing the power of video intelligence to address modern challenges in data management and analytics. With a focus on accessibility and efficiency, they\u2019re poised to become a go-to solution for video content utilization in various industries.\n\nFor more information, visit their website at [codec.io](https://codec.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6441736648620d2a9850e033c0b0993ee831c3c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191057Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=233e40b26cdc4d68e56b6556b17ffec20983ba3bbd46d8a9074c923957d9d796",
+    "social_links": [
+        "https://www.linkedin.com/company/codec-hq",
+        "https://twitter.com/codec_hq",
+        "https://github.com/codec-hq"
+    ],
+    "logo_path": "data/logos\\Codec_logo.png"
+}

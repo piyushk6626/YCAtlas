@@ -1,0 +1,52 @@
+{
+    "links": "https://www.ycombinator.com/companies/trackingplan",
+    "name": "Trackingplan",
+    "headline": "Automated QA for your Digital Analytics",
+    "batch": "W22",
+    "description": "Trackingplan automatically discovers and monitors all the information your applications and websites are collecting, ensuring that you can trust your BI, analytics, marketing, and sales tools. \r\n\nYou can think of us as Segment Protocols but totally transparent, where developers can keep using Google Analytics, Amplitude, Hubspot, Intercom, Braze, etc. as they are used to. \r\n\nInstalled in minutes in using your Tag Manager or adding just one line of code to your web or apps, we model all the data being sent to third parties. Since Trackingplan understands what each piece of data means, it identifies patterns, detects anomalies, and automatically connects the dots to create value from data that was hidden in plain sight:\r\n\n- An always up-to-date single source of truth and data governance tool. To discover, understand and document your data and improve communication across teams.\r\n- Automated notifications when something breaks or changes. To make sure that integrations are always well implemented: Schema errors, traffic anomalies, rogue events... \r\n- Easy to understand, customizable, cross-service alerts. To detect trends, insights, and problems without using complex, engineer-oriented solutions.",
+    "activity_status": "Active",
+    "website": "https://trackingplan.com",
+    "founded_date": 2021.0,
+    "team_size": 8.0,
+    "location": "Barcelona, Spain",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:analytics; industry:data-engineering",
+    "founders": [
+        {
+            "name": "Alexandros Chaaraoui, Founder",
+            "description": "I'm a Software Engineer and I love to apply AI in the industry. After obtaining a PhD in Machine Learning, I joined Google to work on Computer Vision for Android and NLP for the Google Assistant, where I owned the Weather vertical. I left to start and lead a ML Team at the 90-year old Rohde&Schwarz. There we patented and launched metrics for Data Analytics based on Deep Learning. As a founder at Trackingplan, I'm managing the technical department and people coordination.",
+            "linkedin": "https://www.linkedin.com/in/alexandrosandre/"
+        },
+        {
+            "name": "Oleg Kozynenko, Founder",
+            "description": "3x founder, data geek. I can help setting up your product analytics right or anything related with data ingestion architecture.",
+            "linkedin": "https://www.linkedin.com/in/olegkozynenko/"
+        },
+        {
+            "name": "Jose Padilla, Founder",
+            "description": "Hi there! Trackingplan co-founder here. Our team joined because we had the need to do something. We had suffered a well-known problem: bad data. Relying on bad data to take business decisions is a pain in the ass. As we are enthusiasts in software, artificial intelligence and business, we had to do something about it. Trackingplan was born. I've built many kinds of software before, from desktop apps to home automation systems. So I'm excited about building Trackingplan and kill -9 bad_data",
+            "linkedin": "https://www.linkedin.com/in/joserpadilla"
+        },
+        {
+            "name": "Jose Luis Perez, Founder",
+            "description": "I'm born and I live in Spain. I love creating products that matter, dogs and soccer.\nI studied CS and founded three tech companies, where I took the role of CEO and product lead, but I try to code when my smarter fellows don't see me. \nAt Guiomatic, we sold millions of custom travel guides to airlines\nAt Hooks, we sent billions of notifications to millions of users. \nAt Techstars we learned a lot.\nNow at Trackingplan, we help companies trust their data.",
+            "linkedin": "https://www.linkedin.com/in/joseluisperezgonzalez/"
+        },
+        {
+            "name": "Pedro Trujillano, Founder",
+            "description": "Business and technical oriented.\nWorked in development, product, operations and sales. 3x founder and VC.",
+            "linkedin": "https://www.linkedin.com/in/pedrotrujillano/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Trackingplan**\n\nFounded in 2021 and part of Y Combinator's W22 batch, Trackingplan is based in Barcelona, Spain, with a lean team of eight passionate employees. Their mission? To provide Automated Quality Assurance (QA) for your digital analytics. \n\n**What They Do**\n\nTrackingplan is like the user-friendly, transparent big brother to tools like Segment Protocols. It helps you automatically discover and monitor all the data collected by your applications and websites. Think of it as your trusty sidekick that ensures you can trust the outputs from your analytics, business intelligence, marketing, and sales tools. \n\nIn just a few minutes, using a Tag Manager or a simple line of code, you can integrate Trackingplan with your current setup (whether it\u2019s Google Analytics, Amplitude, HubSpot, Intercom, or Braze). This means less time worrying about whether your data is accurate and more time making informed decisions.\n\n**Core Features**\n\n1. **Single Source of Truth**: Trackingplan provides an always-up-to-date source for data governance, helping teams discover, understand, and communicate about their data.\n\n2. **Automated Alerts**: You\u2019ll receive timely notifications when something goes awry, like schema errors, traffic anomalies, or rogue events\u2014basically, anything that could indicate a problem with your integrations.\n\n3. **Simplified Insights**: Forget about complex engineer-driven solutions. With Trackingplan, you have easy-to-understand alerts that highlight trends, insights, and issues, keeping problems from slipping through the cracks.\n\n**Use Cases**\n\n- **Digital Analysts**: Automate error detection and pinpoint issues in analytics implementations swiftly.\n- **Marketing Teams**: Prevent attribution errors and optimize campaign performance without manual audits.\n- **Developers and QA**: Identify and fix analytics errors before they impact production.\n- **Agencies**: Detect issues proactively for clients, ensuring a smoother operational flow.\n\n**Why Choose Trackingplan?**\n\nIn the landscape of data-heavy operations, Trackingplan stands out by reducing the time spent on manual data checks, offering real-time insights into your digital data landscape. Its automated nature means that whether you\u2019re focused on error detection, analytics governance, or ensuring data privacy compliance, Trackingplan\u2019s got your back.\n\n**The Future**\n\nWith a clear intent to simplify and elevate how companies manage their data, Trackingplan is positioned to become indispensable in the toolkit of any data-driven organization. Their offerings aim to not just highlight problems but also to provide actionable insights, bridging the gap between data capture and effective analytics.\n\n**Explore More**\n\nYou can check out their product details and start your journey towards trusted insights at [Trackingplan.com](https://trackingplan.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e838e2494535ccb6bf09111127f2063ed9bc1bef.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192024Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0442a28babf8dbe50824f6c66f3e9b2081f2b228bfe46d49a9383efe3ef98de3",
+    "social_links": [
+        "https://www.linkedin.com/company/trackingplan",
+        "https://twitter.com/trackingplanco"
+    ],
+    "logo_path": "data/logos\\Trackingplan_logo.png"
+}

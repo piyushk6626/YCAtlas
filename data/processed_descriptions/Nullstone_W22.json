@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/nullstone",
+    "name": "Nullstone",
+    "headline": "An easier way to deploy and manage cloud apps",
+    "batch": "W22",
+    "description": "Nullstone is a suite of tools delivered as a single product that enables developer self-service while accommodating flexibility and control that platform engineers need to maintain secure, compliant, performant, and reliable infrastructure.\r\n\nNullstone provides a simple developer experience that guides developers through the architecture and release of cloud apps. By default, infrastructure launched through Nullstone is compliance-certified and vetted for security best practices. The software delivery process can be customized per app through external CI/CD tools or IaC tools like Terraform to meet the specific needs of customers or to optimize developer workflow.\r\n\nNullstone comes with many quality-of-life features that are hard to build with an in-house DevOps/Platform team: Auto-Build/Deploy, Preview Environments, GitOps, and Automatic Secrets Management.",
+    "activity_status": "Active",
+    "website": "https://nullstone.io",
+    "founded_date": 2020.0,
+    "team_size": 2.0,
+    "location": "Atlanta, GA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Brad Sickles, Founder",
+            "description": "Brad is currently Founder and CEO of Nullstone. \nBrad spent the first part of his career as a software engineer at various-stage startups and as an independent consultant.\nIn 2013, he joined McKinsey where he launched startups inside large enterprises. He also built and led an internal developer platform serving 1000 engineers hosting ~300 services.\nIn 2018, he joined Bishop Fox where he incubated and founded an offensive security platform.",
+            "linkedin": "https://www.linkedin.com/in/bradsickles/"
+        },
+        {
+            "name": "Scott Sickles, Founder",
+            "description": "Scott is the co-founder and CTO of Nullstone. Early in his career as a developer, he fell in love with the ability of software to empower people. As CTO of IdentityStream, he helped banks across Asia and Africa serve people without forms of ID through the use of biometrics. As CTO of Listen360, he led successful cloud migrations, digital transformations, and help lead the company to 5x growth and a successful exit. He earned a degree in Computer Science from Georgia Tech.",
+            "linkedin": "https://www.linkedin.com/in/scottsickles"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Nullstone: Streamlining Cloud App Management for Developers**\n\nFounded in 2020 and hailing from the vibrant tech scene in Atlanta, GA, Nullstone emerged as part of Y Combinator's Winter 2022 batch. The company is on a mission to simplify how developers deploy and manage cloud applications, creating an environment where engineering teams can thrive.\n\nAt its core, Nullstone is a unified suite of tools that empower developers to take charge of their cloud architecture while ensuring that platform engineers retain the necessary oversight for compliance and security. It deftly balances the need for developer autonomy with the rigors of maintaining a secure and reliable infrastructure.\n\n### Key Features\n\nNullstone's platform distinguishes itself with a host of developer-friendly features:\n\n1. **Developer Self-Service**: Engineers can manage their own deployments without waiting for extensive DevOps resources, streamlining the development process.\n2. **Compliance-Certified Infrastructure**: Automatically provisioned infrastructure comes pre-vetted for security best practices, ensuring that compliance is baked into every deployment from the get-go.\n3. **Customizable Workflows**: Nullstone supports external CI/CD tools and Infrastructure as Code (IaC) frameworks like Terraform, allowing teams to tailor the software delivery process to their precise needs.\n4. **Quality-of-Life Enhancements**: Features like Auto-Build/Deploy, Preview Environments, GitOps support, and Automatic Secrets Management are designed to elevate the developer experience.\n\n### The Developer's Journey\n\nNavigating the cloud app landscape can be daunting, but Nullstone charts a clear path. Developers are guided through the entire process of architecture and release, from initial setup to deployment, with intuitive tools at their disposal. This removes the complexity traditionally associated with cloud operations, creating a more agile development cycle.\n\nWith an emphasis on transparency and security, Nullstone operates on the premise that developers retain complete control over their data and systems. It enables a range of architectures, from containers to serverless applications, and easily integrates with popular tools like Datadog and NewRelic.\n\n### Conclusion: A Platform for the Future\n\nAs businesses increasingly rely on cloud solutions, tools like Nullstone are becoming indispensable. By addressing both the immediate needs of developers and the overarching requirements of compliance and security, Nullstone positions itself as a critical ally for engineering teams. For anyone looking to dive deeper into cloud app development while retaining control and flexibility, Nullstone is worth a closer look.\n\nExplore more about what they offer at [nullstone.io](https://nullstone.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6acd5a4e5d03007e72f9f01ee86109659cb882f6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191603Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f65dc38eb9aa950d49d2df8d354904721710fe77e61247c6630e899b7e5b933c",
+    "social_links": [
+        "https://www.linkedin.com/company/nullstone",
+        "https://twitter.com/nullstone_io",
+        "https://www.crunchbase.com/organization/nullstone",
+        "https://github.com/nullstone-io"
+    ],
+    "logo_path": "data/logos\\Nullstone_logo.png"
+}

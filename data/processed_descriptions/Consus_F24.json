@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/consus",
+    "name": "Consus",
+    "headline": "Your single source of truth for government documents",
+    "batch": "F24",
+    "description": "Consus is your single source of truth for government specifications, standards, or handbooks. We verify the active revision of documents, notify you when documents are updated, and make it easy to extract the relevant information. Win new business or execute existing contracts faster with Consus.",
+    "activity_status": "Active",
+    "website": "https://www.consus.io",
+    "founded_date": 2024.0,
+    "team_size": 1.0,
+    "location": null,
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Eric Magliarditi, Founder",
+            "description": "Let's transform government requirements. \n\nI spent most of my career launching government satellites at SpaceX. Before that, I wrote software to analyze satellite constellations and built computer vision models at MIT.",
+            "linkedin": "https://www.linkedin.com/in/ericmagliarditi/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Consus: Your Single Source of Truth for Government Documents**\n\nFounded in 2024 and part of Y Combinator Batch F24, Consus is on a mission to solve a growing problem in government contracting: navigating the labyrinth of specifications, standards, and handbooks. Based in a yet-to-be-named location and currently a lean operation with just one employee, Consus aims to streamline how businesses manage their government-related documents.\n\nAt its core, Consus is about clarity and efficiency. The company provides a platform that confirms the active revision of documents, sends notifications when updates happen, and simplifies the extraction of critical information. This means that businesses can win new contracts or execute existing ones faster and with fewer headaches. \n\nConsus believes that companies are losing out on valuable contract opportunities and wasting resources due to the cumbersome nature of government documentation. By developing a smart data extraction tool, they help organizations shed the non-value-added activities that slow them down. With a roadmap that includes advanced analytics, automated compliance checking, and project management features, Consus aims to equip its users with everything they need to succeed in the complex world of government contracts.\n\nIf you\u2019re looking for a way to navigate the often murky waters of government specifications with ease, Consus is designed to be the one-stop-shop you need. Check out their website at [consus.io](https://www.consus.io) to learn more about their innovative solutions.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/739b6fe63ede44830971d1c33127c09f7e9c5026.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191102Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=96274a0e301e78b9f566ef5562039487d2432fed1f637ea14a74ad66a0125ead",
+    "social_links": [
+        "https://www.linkedin.com/company/consusindustries"
+    ],
+    "logo_path": "data/logos\\Consus_logo.png"
+}

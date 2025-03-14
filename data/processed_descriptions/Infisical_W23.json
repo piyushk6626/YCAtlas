@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/infisical",
+    "name": "Infisical",
+    "headline": "Open-source secrets manager for developers",
+    "batch": "W23",
+    "description": "Infisical is an open-source platform to manage secrets and configs across your team and infrastructure.\r\n\nInfisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more.",
+    "activity_status": "Active",
+    "website": "https://infisical.com",
+    "founded_date": 2022.0,
+    "team_size": 15.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:security; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Vlad Matsiiako, Founder",
+            "description": "Proud Ukrainian in Sillicon Valley \ud83c\uddfa\ud83c\udde6\nCo-founder of Infisical.\nFormerly Figma, Cornell, and bunq.",
+            "linkedin": "https://www.linkedin.com/in/vmatsiiako/"
+        },
+        {
+            "name": "Tony Dang, Founder",
+            "description": "Co-founder of Infisical",
+            "linkedin": "https://www.linkedin.com/in/tuan-d-a104a6125/"
+        },
+        {
+            "name": "Maidul Islam, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/maidul98/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Infisical is a cutting-edge company founded in 2022, based in San Francisco. Its mission is clear: to be the open-source secrets manager that developers can trust. Being part of Y Combinator\u2019s Batch W23, Infisical has made remarkable strides in the realm of software development tools by focusing on managing sensitive data such as application secrets, certificates, SSH keys, and configurations.\n\nThe problem Infisical addresses is significant. Every day, teams across the globe are tasked with the daunting job of managing secrets and configurations securely\u2014often resulting in vulnerabilities that can be exploited. Infisical steps in as a kind of security blanket for developers, automating the management of secrets within their development workflows, CI/CD pipelines, and cloud infrastructures. \n\nWhat sets Infisical apart is its rich feature set, including:\n- **Secrets Versioning**: Keeping track of changes to your secrets.\n- **Point-in-Time Recovery**: Restore your data to the way it was at a select moment.\n- **Audit Logging**: A meticulous record of who accessed what, and when.\n- **Automatic Secret Rotation**: Dynamically change credentials to keep security tight.\n\nWith a lean team of 15, the company prides itself on not just robustness but also community engagement. The platform is open-source, providing developers with the tools to integrate seamlessly into their existing cloud providers, infrastructure tools, and frameworks. Whether you're using Kubernetes, Terraform, or working within local development environments, Infisical makes secrets management something that just works\u2014without a ton of added complexity.\n\nInfisical is also security-minded, boasting compliance with both SOC 2 and HIPAA standards and relying on industry-leading encryption methods to protect sensitive data. Their services integrate well with major platforms like GitHub, Docker, AWS, and many more, making it adaptable for various software stacks.\n\nIf you're looking to elevate your security posture and save engineering time while working in a world where you hold onto over 500 million secrets daily, maybe it's time to give Infisical a look. For those developers out there who are fed up with the hassle of secrets management, Infisical offers a path forward\u2014a smart, secure, and scalable solution perfectly suited for modern development workflows. \n\nInterested? Check out their website at [Infisical.com](https://infisical.com) to get started!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c3810ceafd39065d06edb4f44bd10ff01fe40497.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191431Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8e441465100f4f3db78fb5c8401cff67abcf3b31f421e569b8234bac1b1269ea",
+    "social_links": [
+        "https://www.linkedin.com/company/infisical/",
+        "https://twitter.com/infisical",
+        "https://www.crunchbase.com/organization/infisical"
+    ],
+    "logo_path": "data/logos\\Infisical_logo.png"
+}

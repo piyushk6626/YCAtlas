@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/harmonic-discovery",
+    "name": "Harmonic Discovery",
+    "headline": "Multi-targeted therapeutics to treat complex diseases",
+    "batch": "S21",
+    "description": "We are a drug discovery company developing a new generation of therapeutics that embrace the complexity of disease. Currently available approaches for creating drugs work on the principle of finding one drug-one protein 'magic bullets'. However, diseases such as cancer and autoimmunity are often the result of several dysregulated proteins across many distinct biological pathways. \r\n\nWe are building a computational-experimental platform to design therapeutics that can target several disease-causing proteins at once. By designing multi-specific drugs, we are able to create therapeutics that are more efficacious and safer than existing medicines.",
+    "activity_status": "Active",
+    "website": "http://harmonicdiscovery.com",
+    "founded_date": 2021.0,
+    "team_size": 8.0,
+    "location": "New York",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-powered-drug-discovery; industry:biotech; industry:healthcare; industry:drug-discovery; location:new-york",
+    "founders": [
+        {
+            "name": "Rayees Rahman, Founder",
+            "description": "Scientist and startup founder",
+            "linkedin": "https://www.linkedin.com/in/rayees-rahman-61896117b/"
+        },
+        {
+            "name": "J Lee, Founder",
+            "description": "Working on drug discovery",
+            "linkedin": "http://www.linkedin.com/in/jason-l-14043522"
+        },
+        {
+            "name": "Marcel Patek, Founder",
+            "description": "I am a chemist with training in Medicinal, Organic, Computational, and Peptide chemistry. In my 25+ years in the field, I carried out drug discovery projects involving small molecules and peptides. I worked in environments of startup and global large pharma companies where I led teams and departments in all aspects of early drug discovery. I currently focus on merging experience-based knowledge of molecular optimization with ML/AI systems.",
+            "linkedin": "https://www.linkedin.com/in/marcelpatek/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Harmonic Discovery: Pioneering Multi-Targeted Therapeutics\n\n**Founded:** 2021  \n**Location:** New York  \n**Current Team Size:** 8  \n**Batch:** Y Combinator S21  \n**Website:** [Harmonic Discovery](http://harmonicdiscovery.com)\n\n#### Mission\nHarmonic Discovery is on a mission to develop multi-targeted therapeutics aimed at tackling complex diseases like cancer and autoimmunity. Traditional drug discovery often relies on the \"one drug, one target\" approach, which oversimplifies the intricacies of these diseases. By focusing on multiple disease-causing proteins, Harmonic Discovery seeks to design drugs that are not only more effective but also safer.\n\n#### The Approach\nThe company is building a unique computational-experimental platform that leverages machine learning to facilitate the design of multi-specific drugs. This platform is engineered to specifically target various dysregulated proteins involved in diseases, sidestepping the pitfalls of conventional methodologies that frequently overlook beneficial targets or introduce undesirable side effects.\n\nIn contrast to the typical focus on selectivity, their strategy addresses the complexities of disease by tuning out harmful off-targets and tuning in helpful secondary targets. This is what they refer to as **\"Precision Pharmacology.\"** Their team combines expertise across medicinal chemistry, cheminformatics, data science, and machine learning, ensuring a holistic approach to drug discovery.\n\n#### Current Progress\nTheir work involves integrating diverse biological data, from protein mutations to gene expression changes, constructing a well-rounded view of how to optimize drug interactions. The company is actively researching and developing various models to improve predictions and therapeutic outcomes.\n\nMoreover, Harmonic Discovery is backed by prominent investors who specialize in the intersection of tech, biology, and medicine, which speaks volumes about their credibility and potential for future innovation.\n\n#### Seeking Innovators\nHarmonic Discovery is always on the lookout for passionate innovators and thinkers who can contribute to this ambitious endeavor. If you\u2019re someone who thrives in collaborative environments, they invite you to explore career opportunities.\n\nIn a world where many health challenges stem from complex biological interactions, Harmonic Discovery is at the forefront, pushing the boundaries of what's possible in therapeutic design. If you're intrigued by the future of medicine, this is a company worth keeping an eye on.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/88642f0d7460df9b65a45f6e63f09bf6c7b66e01.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191412Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1b1377e8b99f2b28a2724df8464a3cc089a1fcb08a0ed7bab1c73d8410e91eb3",
+    "social_links": [
+        "https://www.linkedin.com/company/harmonicdiscovery",
+        "https://twitter.com/HarmonicDiscov"
+    ],
+    "logo_path": "data/logos\\Harmonic_Discovery_logo.png"
+}

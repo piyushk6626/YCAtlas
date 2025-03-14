@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/inconvo",
+    "name": "Inconvo",
+    "headline": "The Ask-AI API for customer-facing analytics",
+    "batch": "S23",
+    "description": "Inconvo makes it easy for developers to add Ask AI for customer-facing analytics so that users can ask questions on their data in natural language.\r\n\nWith Inconvo shipping AI-first analytics is easy, simply send a user question to our API which responds with a chart, table or text. \r\n\nInconvo connects to your database to automatically retrieve the right data to answer your users\u2019 questions. Then, you\u2019re in charge of presenting the responses to your users in a way that fits your design.\r\n\nInconvo is purpose-built to overcome the challenges of AI for customer-facing analytics, providing tools that handle multi-tenancy, database access control, AI evaluation, and a semantic layer that maps business terms to database labels.",
+    "activity_status": "Active",
+    "website": "https://inconvo.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "Limerick, Ireland",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:analytics; industry:api; industry:conversational-ai",
+    "founders": [
+        {
+            "name": "Eoghan Mulcahy, Founder",
+            "description": "Co-founder of Inconvo",
+            "linkedin": "https://linkedin.com/in/eoghan-mulcahy"
+        },
+        {
+            "name": "Liam Mulcahy, Founder",
+            "description": "Co-founder",
+            "linkedin": "https://linkedin.com/in/liam-mulcahy-418001174"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Inconvo:** Simplifying Customer-Facing Analytics with AI\n\nFounded in 2023 and based in Limerick, Ireland, Inconvo is a developer-focused startup that\u2019s part of Y Combinator\u2019s S23 batch. It offers an innovative Ask-AI API specifically designed for customer-facing analytics, enabling users to query their data in plain, conversational language.\n\n### Mission and Functionality\nInconvo aims to make it effortless for developers to integrate conversational AI functionality into their applications. Imagine being able to ask questions about your sales, customer engagement, or any data set just like you would chat with a person. Inconvo\u2019s API processes these requests and delivers responses in varied formats, be it a chart, table, or plain text. \n\nHere\u2019s how it works:\n1. **Connect Your Data**: Inconvo seamlessly connects to your existing databases, whether it\u2019s Postgres, MySQL, or others. This means you don\u2019t have to implement a new database; they simply work with what you have.\n  \n2. **Deploy Ask AI**: Once integrated, you can deploy the AI capabilities in your apps, allowing end-users to interact with their data intuitively.\n\n3. **Analyze and Optimize**: With answers ready at users' fingertips, businesses can enhance analytics, improve user experiences, and drive data-informed decisions.\n\n### Unique Selling Points\n- **Multi-tenancy & Access Control**: Inconvo is built to handle multiple users and secure access, making it suitable for a range of applications.\n- **Semantic Layer**: The API translates business jargon into database terms, simplifying the technicalities for developers and users alike.\n- **Accuracy & Reliability**: Inconvo places a high premium on accuracy. It dynamically generates queries, acknowledges when it can\u2019t answer a question, and continually adapts as analytics evolve.\n\n### Current Status\nAs of now, Inconvo is in private beta, showcasing its potential to streamline customer analytics drastically. The small team of two keeps the operations agile, relying on insights from their Group Partner, Dalton Caldwell, to guide their strategic direction.\n\n### Join the Journey\nFor developers eager to provide a cutting-edge analytics experience to their users with just a few lines of code, Inconvo seems like a promising solution. If you\u2019re interested in seeing it in action, you can request a demo through their website: [Inconvo.ai](https://inconvo.ai).\n\nInconvo is positioned to reshape how businesses interact with their data, making it not just about accumulating metrics, but really understanding the story behind every number.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b0cbc9637d304b9b3a27be0ca3f785c8305440fc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191429Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2ff00ee57488e441b7605439986e2b5f1a3938100f7899f3fef78d0de85a84aa",
+    "social_links": [
+        "https://www.linkedin.com/company/inconvoai"
+    ],
+    "logo_path": "data/logos\\Inconvo_logo.png"
+}

@@ -1,0 +1,49 @@
+{
+    "links": "https://www.ycombinator.com/companies/mono-2",
+    "name": "Mono",
+    "headline": "A bank account that integrates LatAm SMEs' finances and operations.",
+    "batch": "W22",
+    "description": "We offer a corporate bank account that integrates with accounting, tax and payroll systems allowing SMEs owners in LatAm manage their business in just one place.",
+    "activity_status": "Active",
+    "website": "https://www.cuentamono.com/",
+    "founded_date": 2020.0,
+    "team_size": 18.0,
+    "location": "Bogot\u00e1, Colombia",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:neobank",
+    "founders": [
+        {
+            "name": "Salomon Zarruk Valencia, Founder",
+            "description": "CEO at Mono",
+            "linkedin": "https://www.linkedin.com/in/zarruk/"
+        },
+        {
+            "name": "Jose Tomas Lobo, Founder",
+            "description": "CRO @ Shinkansen.finance | Cofounder @ Mono (W22)",
+            "linkedin": "https://www.linkedin.com/in/jose-tomas-lobo/"
+        },
+        {
+            "name": "Sebastian Ortiz, Founder",
+            "description": "CTO at Tpaga (YC S17) and Mono (YC W22)",
+            "linkedin": "https://co.linkedin.com/in/sebastian-ortiz-v%C3%A1squez-75b38590"
+        },
+        {
+            "name": "Juan Camilo Poveda, Founder",
+            "description": "Co-founder and head of product at Mono \ud83d\udc12. Former product manager at NuBank.",
+            "linkedin": "https://www.linkedin.com/in/juan-camilo-poveda/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Mono**\n\nFounded in 2020 and based in Bogot\u00e1, Colombia, Mono is a dynamic fintech company designed to simplify financial management for small and medium enterprises (SMEs) in Latin America. Initially launched as a corporate banking solution, Mono integrates seamlessly with various accounting, tax, and payroll systems, allowing business owners to manage their finances and operations from a single platform. Imagine having your financial house in order without the usual hassle\u2014that's what Mono aims to deliver. \n\n**Mission and Values**\n\nAt its core, Mono's mission is clear: to provide Latin American SMEs with a bank account that centralizes their financial operations. This approach not only saves time but also enhances efficiency, giving business owners more control over their finances. The emphasis on flexibility and reliability speaks volumes about Mono\u2019s commitment to creating a robust infrastructure for its users.\n\n**The Product Suite**\n\nMono\u2019s offerings are geared towards meeting diverse financial needs:\n\n1. **Corporate Bank Accounts** - Simplifying finance management through integration.\n2. **Virtual and Physical Cards** - Users can create multiple cards with customized rules, giving them granular control over spending.\n3. **Digital Wallets** - Tailored for partners, these wallets facilitate user transactions, including transfers and balance inquiries.\n4. **Payment Solutions** - Include mass payment options to suppliers, real-time client payments via PSE, and a comprehensive API for seamless banking operations.\n\nThe product ecosystem is designed for ease of use, with features that allow quick implementation and customization without extensive development time.\n\n**Team and Backing**\n\nMono operates with a team of 18 people, backed by support from Y Combinator (Batch W22), which adds credibility and exposure in the crowded fintech landscape. Tom Blomfield serves as a Group Partner, providing invaluable insights into the startup's strategic direction.\n\n**Why Mono Stands Out**\n\nWhat differentiates Mono in the fintech space? It's the blend of flexibility, reliability, and efficiency that the company offers. Mono understands the unique challenges faced by SMEs in Latin America and tailors its solutions accordingly, allowing businesses the freedom to focus on growth rather than getting bogged down by financial administration.\n\nIf you're a business owner in Latin America looking for a smarter way to handle finances, Mono is positioning itself as the answer. They\u2019re not just offering services; they\u2019re offering the promise of a streamlined financial future.\n\nFor more information, check out their website [here](https://www.cuentamono.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d950d82bb433337675b9a75512d32ea76b51584c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191546Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0a66b4fbb1bc67e3570855302faf1d3a129bdd6394386843dcefdb69ca89ead6",
+    "social_links": [
+        "https://www.linkedin.com/company/cuentamono",
+        "https://twitter.com/mono_empresas",
+        "https://www.facebook.com/monoempresas",
+        "https://www.crunchbase.com/organization/mono-25ef"
+    ],
+    "logo_path": "data/logos\\Mono_logo.png"
+}

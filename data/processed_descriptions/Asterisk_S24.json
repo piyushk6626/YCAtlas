@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/asterisk",
+    "name": "Asterisk",
+    "headline": "AI Hacker for Codebases",
+    "batch": "S24",
+    "description": "Asterisk (asterisk.so) is an AI Hacker for Codebases - it automatically finds, verifies, and patches security vulnerabilities in codebases, just like a human security engineer would. Asterisk can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives. \r\nAsterisk has autonomously discovered vulnerabilities in Google, Hoppscotch, and others.",
+    "activity_status": "Active",
+    "website": "https://asterisk.so",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:security; industry:ai",
+    "founders": [
+        {
+            "name": "Mufeed VH, CEO / Founder",
+            "description": "CEO @ Asterisk, Mufeed is an Olympian CTF-er (security hacking competitions) representing India at the WorldSkills Olympiad (\ud83c\udfc5), BRICS Skills (\ud83e\udd49), and IndiaSkills (\ud83e\udd47). He has worked on 300+ CVEs in open source. Secured Google, Mastercard, Okta, DELL, Ford, Zilliqa, EFF, Telefonica, etc. via Bug Bounty programs.\n\nmufeedvh.com",
+            "linkedin": "https://www.linkedin.com/in/mufeed-vh/"
+        },
+        {
+            "name": "Asjid Kalam, COO / Founder",
+            "description": "COO @ Asterisk, Former security research engineer, and international CTF player.\nSolving the hardest code security challenges with AI. Asjid has contributed to multiple CVEs and secured companies like Google and Mastercard via bug bounties.",
+            "linkedin": "https://www.linkedin.com/in/asjidkalam"
+        },
+        {
+            "name": "Vivek R, CTO / Founder",
+            "description": "CTO @ Asterisk. Previously, Vivek built secure, fault tolerant distributed systems for leading POS validators handling a total stake of $2B+, did IoT protocol optimization research for startups, contributor to GStreamer - the leading multimedia framework used by Google, Apple, etc, helped Fortune 100 companies with their infrastructure strategy and optimization.",
+            "linkedin": "https://www.linkedin.com/in/123vivekr"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Asterisk Overview\n\nAsterisk, founded in 2024, is an innovative company that leverages AI to enhance software security. As part of Y Combinator's Batch S24, Asterisk has positioned itself as a crucial player in the realm of codebase security. Their mission? To act as an \"AI Hacker for Codebases.\" You can explore their offering at [asterisk.so](https://asterisk.so).\n\n### What Does Asterisk Do?\n\nAsterisk automates the identification, verification, and patching of security vulnerabilities in codebases. Think of it as a highly skilled security engineer operating at scale, one that tirelessly scans for issues without the fatigue associated with human efforts. It excels in the following areas:\n\n- **Context-Aware Scanning:** Asterisk uses adaptive techniques to identify business logic errors and vulnerabilities that traditional tools might overlook.\n- **Automated Audits:** The platform conducts comprehensive audits and generates detailed reports with almost zero false positives, a significant advantage for developers who need clarity and accuracy.\n- **Continuous Monitoring:** Real-time alerts ensure that any vulnerabilities detected are immediately brought to the attention of developers, facilitating an agile response.\n\nAsterisk stands out by not only detecting common issues but also analyzing business logic\u2014something that many competitors might miss. Its AI engine can suggest patches, driving efficiency across the development lifecycle.\n\n### Current Status and Future Directions\n\nWith a compact team of just three and guidance from Group Partner Diana Hu, Asterisk is in its early stages but making significant impact already. The company has autonomously discovered vulnerabilities within big names like Google and Hoppscotch, showcasing its capability and reliability in the field.\n\n### Unique Features\n\nAsterisk combines several features to address critical pain points experienced by developers in security laundering:\n\n- **Near-Zero False Positives:** Findings are validated in a secure sandbox environment, ensuring that developers are not bogged down with inaccurate alerts.\n- **Comprehensive Reporting:** Users receive actionable insights presented in a prioritized manner, guiding their security efforts effectively.\n- **Extensive Language Support:** The platform supports major programming languages and frameworks, making it versatile and adaptable for various environments and projects.\n\n### Why Asterisk Matters\n\nIn an era where security threats are pervasive and increasingly complex, Asterisk serves as a tool to empower developers. It allows them to maintain swift development cycles while also safeguarding their codebases\u2014truly a necessity for any modern development team looking to balance speed with security.\n\nAs Asterisk continues to evolve, its commitment to pushing the boundaries of what AI can do in the field of code security remains clear. They encourage potential customers to [book a demo](https://asterisk.so/<https:/cal.com/mufeed/intro-call-with-asterisk>) and experience their platform firsthand.\n\nIn short, Asterisk is not just about checking boxes for compliance\u2014it's about fundamentally changing how we think about and execute software security. If you're in the tech landscape, it's time to take a closer look at what they are building.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ec230a7bc87b981963762856fc1e445bec6675f6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191007Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=70f544c5a46ef2772610fcac79056799f3c8e1965c0b39f04354928c00f92572",
+    "social_links": [
+        "https://www.linkedin.com/company/getAsterisk",
+        "https://x.com/getAsterisk",
+        "https://github.com/getAsterisk"
+    ],
+    "logo_path": "data/logos\\Asterisk_logo.png"
+}

@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/guse",
+    "name": "Guse",
+    "headline": "The first multiplayer AI canvas",
+    "batch": "W25",
+    "description": "Guse is the first fully multiplayer AI canvas for individuals and teams to work on research, writing, reports, and decks.\r\n\nA chat interface excels at straightforward, single-answer tasks, but falls short for more complex, iterative tasks such as compiling reports. \r\n\nExisting AI canvas tools offer a slightly better interface but lack any rich doc editor tooling, multiplayer functionality, or a truly great AI copilot experience. This prevents tangible, collaborative work from actually being done. \r\n\nA Guse canvas has a rich docs editor built in, full multiplayer, and an AI copilot capable of autonomously web searching, writing, and editing any content on the canvas. Individuals or teams can work, iterate, and collaborate on research, reports, etc. - then instantly export any canvas out to any format (yes, even fully fleshed out slides!). \r\n\nIf chat was the conversational interface for AI, Guse is the collaborative interface and we look forward to seeing what you use it for. Start your first canvas today at guse.io.",
+    "activity_status": "Active",
+    "website": "https://www.guse.io/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:documents; industry:artificial-intelligence; industry:b2b; industry:ai-assistant",
+    "founders": [
+        {
+            "name": "Kevin He, Founder",
+            "description": "Building Guse. Prev. Math & CS @ Penn, MLE @ Alibaba, SDE @ Rails",
+            "linkedin": "https://www.linkedin.com/in/haokun-he/"
+        },
+        {
+            "name": "Kevin Lu, Founder",
+            "description": "Building Guse. Prev CS/Math @ Penn, Gen AI @ AWS, Research @ Stanford HAI.",
+            "linkedin": "https://www.linkedin.com/in/kevin-lu-22724b1a5/"
+        },
+        {
+            "name": "Bach Tran, Founder",
+            "description": "Building Guse. Prev CS @ Penn, Engineering @ Addepar",
+            "linkedin": "https://www.linkedin.com/in/giabachtran"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Guse: Transforming Collaborative Work with AI**\n\nFounded in 2024, Guse positions itself as the first fully multiplayer AI canvas tailored for individuals and teams engaged in research, writing, and the creation of reports and presentations. It's a product born out of necessity; traditional chat interfaces shine in straightforward tasks but stumble in the complex, iterative processes that collaborative work demands.\n\nIn the landscape of existing AI tools, many fall short\u2014offering better interfaces but lacking crucial features like rich document editing, multiplayer capabilities, and a seamless AI assistant experience. This gap is what Guse aims to bridge.\n\nThe Guse canvas is equipped with a rich document editor that supports real-time collaboration. Its AI copilot goes beyond basic assistance, capable of autonomously searching the web, writing, and editing content right within the canvas environment. This means teams can efficiently iterate and collaborate on their projects without unnecessary roadblocks. Plus, exporting final work is a breeze, whether it\u2019s an intricate report or a polished presentation.\n\nWhile chat interfaces facilitate conversations, Guse is redefining what a collaborative interface looks like. It invites you to start creating your first canvas today at [guse.io](https://www.guse.io/).\n\nLocated in the Bay Area with a compact team of three, Guse is part of Y Combinator's W25 batch. Under Group Partner Aaron Epstein\u2019s mentorship, they\u2019re poised to make significant strides in the AI document landscape, standing at the intersection of documents, artificial intelligence, and B2B solutions. Guse isn\u2019t just a tool; it\u2019s an invitation to rethink how we collaborate.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8f213b12995b0f8c9ae4bca4eec944c794aab3b0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191409Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6bd3f8c5016aa764eda13bf5394da4b4d4dc1a4e6db3defbb41cf575d2838184",
+    "social_links": [
+        "https://www.linkedin.com/company/105578136"
+    ],
+    "logo_path": "data/logos\\Guse_logo.png"
+}

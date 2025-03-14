@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/chima",
+    "name": "Chima",
+    "headline": "Building infrastructure tools to help large companies customize their\u00e2\u0080\u00a6",
+    "batch": "W23",
+    "description": "Companies struggle to customize their generative AI models by taking advantage of their existing customer and enterprise data, in real-time. Chima solves for this through a sleek, interoperable layer before the standard generative AI models are applied.",
+    "activity_status": "Active",
+    "website": "https://www.withchima.com/",
+    "founded_date": 2022.0,
+    "team_size": 7.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:b2b; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nikhara Nirghin, Founder",
+            "description": "Nikhara Nirghin is co-founder and CEO at Chima. She started Chima with Kiara, her sister after working at both Goldman Sachs and Deloitte Consulting and understanding the difficulties of activating enterprise data with AI. Nikhara earned her MBA at London Business School and did her undergrad and postgrad in Mathematical Statistics and Actuarial Science. Awards: International best paper on stochastic data modeling by the Reinsurance Group of America. Email: nikhara@withchima.com.",
+            "linkedin": "https://www.linkedin.com/in/nikharanirghin/"
+        },
+        {
+            "name": "Kiara Nirghin, Founder",
+            "description": "Kiara Nirghin is co-founder and CTO at Chima. She started Chima based on her experience of the importance in building robust, smarter ways of bringing raw business data to generative AI models. She both studied and taught at Stanford (CS / AI) and is a Thiel Fellow. Kiara won the International Google Science Grand Prize with her data first approach to algorithms and predictive modeling. She worked at Meta and Google. Awards: Time Magazine's Most Influential people.",
+            "linkedin": "https://www.linkedin.com/in/kiara-nirghin/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Let's talk about Chima, a fascinating player in the generative AI space that\u2019s not standing still. Founded in 2022 and nestled in the heart of San Francisco, Chima\u2019s mission is clear: to build infrastructure tools that enable large companies to effectively customize their generative AI models by leveraging their existing customer and enterprise data in real-time.\n\nThe challenge companies face in customizing their AI models is significant. That's where Chima steps in, providing a sleek, interoperable layer that sits before standard generative AI models are applied. This not only simplifies the integration process but also enhances efficiency across various business operations. With just a tiny team of seven, including notable backing from Y Combinator\u2014specifically from Group Partner Michael Seibel\u2014Chima is punching well above its weight.\n\nSo, what exactly is Chima up to? They've developed an impressive array of products designed to transform entire systems through what they call \"Compound Human Reasoning.\" This innovative approach allows enterprises to automate processes across operations, marketing, support, and compliance, among others. By implementing these intelligent AI systems, Chima boasts some staggering stats: they've saved between 600 to 700,000 hours in labor and helped generate over $40 million in profit across their customer deployments.\n\nTheir platform is built for security, adhering to stringent standards including SOC 2, ISO 27001, HIPAA, and GDPR compliance, ensuring that client data is well-protected. They're not just tall claims; these protocols are what you\u2019d expect from a startup founded in the well-regarded cradle of innovation that is San Francisco.\n\nChima\u2019s offerings range from *Sid*, *Chi Core*, and *Chi Nexus* to *Frontier*, each tailored to optimize different aspects of enterprise functionalities. They pride themselves on easy integration and real-time optimization\u2014two critical efficiency drivers in today\u2019s rapidly changing business environment. \n\nIf you want to dive deeper, you can check out their [website](https://www.withchima.com/) for resources like case studies, a blog, and even career opportunities. Chima is on a solid trajectory, building the future of enterprise AGI and making waves with their unique approach to transforming business processes with generative AI. It's an exciting time to watch them grow and redefine what's possible in enterprise automation!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6bf133e403646d5eb514dcbb51b52ecd59f7313b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191048Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dfa61a6a588adfdfd55b2c72e636cb08a484c0b2a32e5a73da9beb342f213b63",
+    "social_links": [
+        "https://www.linkedin.com/company/withchima",
+        "https://www.twitter.com/withchima",
+        "https://www.crunchbase.com/organization/chima  "
+    ],
+    "logo_path": "data/logos\\Chima_logo.png"
+}

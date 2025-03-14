@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/protocol-labs",
+    "name": "Protocol Labs",
+    "headline": "Protocol Labs makes internet protocols: IPFS, Filecoin, and more.",
+    "batch": "S14",
+    "description": "Protocol Labs is an open-source research, development, and deployment laboratory. Our projects include IPFS, Filecoin, libp2p, and many more. We aim to make human existence orders of magnitude better through technology.\r\n\nSome of our projects.\r\n\nIPFS makes the web work peer-to-peer. IPFS is a protocol for storing, addressing, and transferring data, designed to replace HTTP in many contexts. IPFS uses content-addressing to uniquely identify and link to information. IPFS is one of the leading protocols of Web3, crypto, and the decentralized web movements. IPFS serves millions of end users and tens of thousands of developers. It powers the websites and applications of small startups, large enterprises, and even blockchains.\r\n\nFilecoin is a decentralized storage network, designed to store humanity's most important information. Filecoin is a cryptocurrency incentivized decentralized market, where storage providers earn filecoin tokens for renting out storage space. (Think airbnb for cloud storage). Filecoin is one of the leading projects in the cryptocurrency/blockchain space.",
+    "activity_status": "Active",
+    "website": "https://protocol.ai/",
+    "founded_date": 2014.0,
+    "team_size": 130.0,
+    "location": "Palo Alto",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:crypto-web3; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Juan Benet, Founder/CEO, Engineer",
+            "description": "Juan founded Protocol Labs, IPFS, and Filecoin.",
+            "linkedin": "https://www.linkedin.com/in/jbenetcs/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Protocol Labs is driven by a bold mission: to create innovative internet protocols that fundamentally enhance how we interact with technology and each other. Founded in 2014 and hailing from Y Combinator's S14 batch, this Palo Alto-based company is a hub for open-source research, development, and deployment. With a growing team of 130, they are determined to make our lives better through groundbreaking advancements, particularly in the realms of decentralized computing.\n\nAt the heart of their offerings are two flagship projects: **IPFS** and **Filecoin**. \n\n**IPFS (InterPlanetary File System)** is a revolutionary protocol designed to make the web more peer-to-peer, intending to replace traditional HTTP in many scenarios. By utilizing content-addressing, IPFS allows users to uniquely identify and transfer data, making it an essential component of the rising Web3 and decentralized web landscapes. Today, IPFS supports millions of users and thousands of developers, powering applications across a spectrum of businesses from small startups to major enterprises and blockchains.\n\nOn the other hand, **Filecoin** serves as a decentralized storage network where users can securely store significant information. It\u2019s akin to Airbnb but for data storage\u2014users rent out their unused storage space in exchange for tokens. This incentivized model has positioned Filecoin as a leader in the blockchain situation, effectively creating a marketplace for data retention and accessibility.\n\nBeyond these projects, Protocol Labs engages in various initiatives that span artificial intelligence, augmented and virtual reality, brain-computer interfaces, and hardware development. The company operates as an extensive innovation network, connecting over 600 startups, funds, accelerators, and open-source projects, thus facilitating collaboration and invention across multiple tech frontier sectors.\n\nAs a thought leader in digital human rights, Protocol Labs actively explores transformative ideas and revolutionary technology, striving to boost humanity's potential through computing breakthroughs.\n\nIf you want to dive deeper into their work, check out their website at [Protocol Labs](https://protocol.ai/), where you can learn more about their projects, blog articles, and opportunities to get involved. In a world increasingly influenced by technology, Protocol Labs is helping to lay the groundwork for a decentralized future, embodying the spirit of innovation that drives progress.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/79228905c4ba4d66d175e07e31e55f48fd0ef7c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191656Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0cd31e8e8e753714daa872f8ff091d64acc651a16449bdfddb2a4c4b0466007c",
+    "social_links": [
+        "https://www.linkedin.com/company/protocollabs/",
+        "https://twitter.com/protocollabs",
+        "https://www.crunchbase.com/organization/protocol-labs",
+        "https://github.com/protocol"
+    ],
+    "logo_path": "data/logos\\Protocol_Labs_logo.png"
+}

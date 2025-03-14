@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/delineate",
+    "name": "Delineate",
+    "headline": "Extract meaningful data from research literature and patents at\u00e2\u0080\u00a6",
+    "batch": "W25",
+    "description": "90% of drug candidates fail despite billions in pharmaceutical R&D. \r\n\nDelineate extracts and analyzes data from biopharma research papers and patents at scale, including data trapped in figures and plots. \r\n\nLed by Emily (MIT PhD, former Pfizer/AstraZeneca computational researcher) and Jawad (ex-Lockheed Skunkworks AI lead), Delineate has developed custom LLM and computer vision models paired with rigorous QC processes to deliver extremely high quality datasets in a fraction of the time.\r\n\nBy processing 15x more studies than industry standard and reducing months of research into weeks, we're transforming how pharmaceutical companies make evidence based development decisions. \r\n\nDelineate has generated $160K in revenue through data contracts with Sanofi and Roche, conducting some of the largest aggregated research studies to date.",
+    "activity_status": "Active",
+    "website": "https://delineate.pro/",
+    "founded_date": 2024.0,
+    "team_size": 20.0,
+    "location": "Boston",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:biotech; location:boston",
+    "founders": [
+        {
+            "name": "Jawad Iqbal, Founder",
+            "description": "Co-Founder and CTO of Delineate. Masters thesis in Robotics/AI with 2 research publications. Former technical project manager for high impact digital transformation projects within Skunkworks (Advanced Development) division at Lockheed Martin.",
+            "linkedin": "https://www.linkedin.com/in/jawad-iqbal/"
+        },
+        {
+            "name": "Emily Nieves, Founder",
+            "description": "Co-founder at Delineate. Previously she was an MIT PhD Candidate in Biological Engineering and worked at Pfizer and AstraZeneca where she focused on applying AI to modeling and simulation for drug development optimization.",
+            "linkedin": "https://www.linkedin.com/in/emily-nieves-a67b90144/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Delineate**\n\nFounded in 2024 and hailing from Y Combinator's W25 batch, Delineate is on a mission to revolutionize how biopharma research is conducted by extracting meaningful data from research literature and patents. The founders, Emily, with her MIT PhD and extensive experience at Pfizer and AstraZeneca, and Jawad, a former AI lead at Lockheed Skunkworks, bring a powerful blend of computational expertise to the table.\n\nThe crux of Delineate's innovation lies in tackling a significant challenge in the pharmaceutical industry: 90% of drug candidates fail, usually after staggering investments in R&D. By harnessing advanced large language models (LLMs) and computer vision, Delineate processes an astonishing 15 times more studies than the current industry standard. This means transforming months of painstaking research into mere weeks\u2014a game-changer for pharmaceutical companies aiming to make evidence-based development decisions.\n\nLocated in Boston and comprising a tight-knit team of 20, Delineate has already proven its worth by securing $160K in revenue from data contracts with major players like Sanofi and Roche. They\u2019re conducting some of the largest aggregated research studies seen to date, effectively changing the landscape of biopharma research.\n\nWith tags highlighting their focus areas\u2014artificial intelligence, SaaS, biotech, and Boston\u2014their platform positions itself at the intersection of cutting-edge technology and life sciences. Led by Jared Friedman from Y Combinator, Delineate is not just extracting data; it\u2019s redefining how that data translates into actionable insights for the future of drug development.\n\nFor more information, check out [Delineate\u2019s website](https://delineate.pro/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/17710487bfe0a4d23d5ac952ebcc821443362f6a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191116Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=581dc58c55a372b26594d2b78849435586b931ac274d666ea2b269702ab136b9",
+    "social_links": [
+        "https://www.linkedin.com/company/delineate-pro/"
+    ],
+    "logo_path": "data/logos\\Delineate_logo.png"
+}

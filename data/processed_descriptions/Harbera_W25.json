@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/harbera",
+    "name": "Harbera",
+    "headline": "AI provider credentialing software",
+    "batch": "W25",
+    "description": "Harbera helps large and complex health systems keep their physicians credentialed and compliant. Our AI software continuously monitors and proactively re-credentials physicians, preventing denied claims, disruptions in patient care, and tens of billions of lost revenue caused by physicians falling out-of-network.",
+    "activity_status": "Active",
+    "website": "https://harbera.com/",
+    "founded_date": 2025.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:health-tech; industry:healthcare; industry:healthcare-it; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sophia Clark, Founder",
+            "description": "Building Harbera. Previously engineer at House Rx (specialty pharmacy tech startup). Engineering intern at Facebook and Bridgewater; investment analyst at Inkef Capital (European health + tech VC). Studied Computer Science at Harvard with Veronica.",
+            "linkedin": "https://www.linkedin.com/in/sophia-c-07a508b8/"
+        },
+        {
+            "name": "Veronica Nutting, Founder",
+            "description": "Building Harbera. Previously backend engineer at Stripe. Investment engineering intern at Bridgewater; ML intern at Alife Health (fertility AI startup). Studied Computer Science at Harvard with Sophia.",
+            "linkedin": "https://www.linkedin.com/in/veronicanutting/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Harbera: Revolutionizing Credentialing in Healthcare\n\nFounded in 2025 and hailing from the heart of San Francisco, Harbera is an innovative startup focused on providing AI-powered credentialing software specifically for healthcare systems. The mission? To keep physicians credentialed and compliant effortlessly. Backed by Y Combinator, Harbera has carved a niche for itself in the complex intersection of healthcare and artificial intelligence, positioning itself as a key player in health tech.\n\n#### The Problem\nCredentialing can be a cumbersome process fraught with delays and errors. When health systems fail to credential their providers properly, it leads to denied claims, interruptions in patient care, and ultimately, billions in lost revenue. Harbera recognizes these challenges and has made it their business to solve them.\n\n#### The Solution\nHarbera\u2019s software continuously monitors the credentialing status of physicians, ensuring they remain compliant across various health plans and states. It\u2019s designed for ease of use, allowing healthcare organizations to seamlessly manage and oversee their credentialing processes. \n\nKey features of Harbera include:\n\n- **Fine-Grained Monitoring**: Track re-credentialing deadlines, licenses, certifications, and more, with customizable alerts to prevent oversights.\n- **One-Click Audit Preparation**: Generate comprehensive audit packets instantly, making compliance checks a breeze.\n- **AI-Powered Analytics**: Dive deep into credentialing operations and revenue trends to identify opportunities for growth.\n- **Drag-and-Drop Data Entry**: Say goodbye to manual entries. Automate the ingestion and validation of essential provider documents.\n- **CAQH Integration**: Simplify the management of providers' profiles through seamless import and export functionalities.\n\n#### The Team\nHarbera operates with a tight-knit team of two, supported by Gustaf Alstromer, a seasoned partner at Y Combinator. This lean structure allows them to be agile and focused, making rapid strides in the market.\n\n#### The Vision\nNot only does Harbera aim to streamline credentialing processes, but they also seek to empower healthcare organizations to take control of their operations. By leveraging Harbera's capabilities, organizations can expect not just to avoid disruptions in care but to unlock new revenue opportunities through superior management of the credentialing lifecycle.\n\nIf you're in the healthcare sector and tired of credentialing headaches, check out Harbera at [harbera.com](https://harbera.com/) to see how they can help transform your credentialing experience.\n\nIn summary, Harbera is not just a tool; it\u2019s a strategic partner for healthcare providers looking to modernize and improve their credentialing processes with the power of AI. As healthcare evolves, solutions like Harbera will be at the forefront, ensuring that patient care remains uninterrupted and compliant.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7d62468f1a5d7ce63c7cff12445f47706089d1fc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191411Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=157332366c1ff71012f3394dd9718dcb163fa23ecca0527f06e8c98e65e04947",
+    "social_links": [
+        "https://www.linkedin.com/company/harbera"
+    ],
+    "logo_path": "data/logos\\Harbera_logo.png"
+}

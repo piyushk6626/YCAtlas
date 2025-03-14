@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/sciphi",
+    "name": "SciPhi",
+    "headline": "SciPhi is building R2R, the most advanced retrieval system.",
+    "batch": "W24",
+    "description": "Start your AI application with agentic RAG, ingestion, document management, and more.",
+    "activity_status": "Active",
+    "website": "https://www.sciphi.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:search; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Owen Colegrove, Founder",
+            "description": "2nd YC Founder, prev @ Algofi,\nFormer quant @ Citadel,\nPhD in Particle Physics, research @ CERN (UCSB, 2019).",
+            "linkedin": "https://linkedin.com/in/owencolegrove"
+        }
+    ],
+    "status": true,
+    "generated_description": "**SciPhi: Pioneering Advanced AI Retrieval**\n\nWelcome to SciPhi, a fresh face in the vibrant tech scene, founded in 2023 and already making waves as part of Y Combinator Batch W24. Situated in San Francisco and comprised of just two sharp minds, SciPhi is on a mission to redefine how we interact with data and AI through its groundbreaking retrieval system, known as R2R.\n\n### What\u2019s the Buzz About?\n\nSciPhi emerged with a clear focus: to create the most advanced Retrieval-Augmented Generation (RAG) system on the market. This isn\u2019t just tech jargon; R2R is designed to bridge the gap from RAG prototypes to robust production environments. By tackling challenges related to infrastructure, retrieval speed, and scalability, they aim to empower enterprises to build reliable, context-aware AI applications. \n\n### Enterprise Solutions at Your Fingertips\n\nThe team at SciPhi understands the need for effective data management in today\u2019s AI-driven world. Their platform promises quick document ingestion\u2014handling over 40 formats ranging from PDFs to audio files\u2014and advanced document intelligence, which automatically uncovers hidden relationships within your data through knowledge graphs. They focus on three core features:\n\n1. **Universal Document Processing**: Process millions of documents swiftly. \n2. **Enterprise Access Control**: Secure document sharing with detailed permission settings, making collaboration seamless.\n3. **Advanced Document Intelligence**: Enrich context and automate insights extraction, turning raw data into actionable knowledge.\n\n### Why SciPhi Stands Out\n\nBacked by Dalton Caldwell as their Group Partner, and a strong emphasis on developer-friendliness, SciPhi is crafted with real-world applications in mind. Their R2R API simplifies the deployment and scaling of RAG pipelines, offering a streamlined setup that reduces traditional configuration time to mere minutes.\n\nWith a commitment to improving accuracy through their HybridRAG technology, which combines knowledge graphs and vector retrieval, SciPhi has marked impressive performance stats, like significant reductions in setup time and costs\u2014a no-brainer for enterprises scrambling to optimize their workflows.\n\n### Join the Revolution\n\nAs they continue to make strides in AI infrastructure and document management, SciPhi invites you to transform your AI projects. Whether you're looking to accelerate your data management or capsize traditional RAG frameworks, SciPhi's tools promise to redefine your approach to AI workflows. \n\nCurious to see what SciPhi can do for your next project? Visit [SciPhi.ai](https://www.sciphi.ai) to learn more or schedule a demo and step into the future of intelligent retrieval. \n\nIn a space getting increasingly crowded with competitors, SciPhi isn't just another startup\u2014it's a visionary outfit ready to lead us into a new era of AI-powered data management.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f389ad4ea421234cf66ef4cf37e4cbd82b0ccd9e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191911Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e14c443e1a663e3c396506b9dc14817bdf7692cc3a97501610074576c8c168af",
+    "social_links": [
+        "https://www.linkedin.com/company/sciphi-ai/",
+        "https://github.com/SciPhi-AI"
+    ],
+    "logo_path": "data/logos\\SciPhi_logo.png"
+}

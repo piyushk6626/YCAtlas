@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/ubicloud",
+    "name": "Ubicloud",
+    "headline": "Open source alternative to AWS",
+    "batch": "W24",
+    "description": "Ubicloud is an open source cloud that can run anywhere.\r\n\nOur cloud services include elastic compute, block storage, virtual networking, managed Postgres, and powerful IAM. Ubicloud provides these services on bare metal providers, such as Hetzner, Leaseweb, or AWS Bare Metal.\r\n\nYou can self-host our software or use our managed service to reduce your cloud costs by 3-10x.",
+    "activity_status": "Active",
+    "website": "https://www.ubicloud.com",
+    "founded_date": 2023.0,
+    "team_size": 15.0,
+    "location": null,
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:cloud-computing; industry:infrastructure; industry:databases",
+    "founders": [
+        {
+            "name": "Umur Cubukcu, Founder",
+            "description": "Previously visiting partner at YC for W23 and S23; now co-founder at Ubicloud. Co-founder and CEO of Citus Data (S11), the creators of the distributed PostgreSQL database Citus. Led the PostgreSQL product team at Azure, after Citus Data was acquired in 2019 by Microsoft.",
+            "linkedin": "https://linkedin.com/in/umurc"
+        },
+        {
+            "name": "Ozgun Erdogan, Founder",
+            "description": "I\u2019m the cofounder of Ubicloud (YC W24), an open source alternative to AWS. We're on a mission to rebuild the cloud market with different values.\n\nPreviously, I was a partner at Microsoft, leading PostgreSQL engineering teams. I came to Microsoft through its acquisition of Citus Data (S11). I was the cofounder and CTO at Citus, and I learned a lot about doing startups there. Before all this, I built distributed systems at Amazon.",
+            "linkedin": "https://linkedin.com/in/ozgune"
+        },
+        {
+            "name": "Daniel Farina, Founder",
+            "description": "I am one of the founders of Ubicloud.\n\nI've contributed to a number of control planes from an early phase, starting at Heroku, in what would become Heroku Postgres. Since then, I've serially created new control planes and infrastructure cloud products with some close colleagues, at Citus Cloud and Crunchy Bridge. Ubicloud is the fourth such system.",
+            "linkedin": "https://linkedin.com/in/danfarina"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Ubicloud: The Open Source Alternative to AWS**\n\nFounded in 2023, Ubicloud is reshaping the way we think about cloud computing. Part of Y Combinator's Batch W24, this innovative startup is on a mission: to provide an open-source alternative to the traditionally closed and often expensive public cloud services like AWS. \n\n**What Is Ubicloud?**\n\nAt its core, Ubicloud is an open-source cloud platform that can run anywhere. With confidently robust cloud services that include elastic compute, block storage, virtual networking, managed PostgreSQL, and powerful Identity Access Management (IAM), Ubicloud stands out by running its offerings on bare metal providers such as Hetzner, Leaseweb, or AWS Bare Metal. \n\nYou have the flexibility to self-host their software, or if you'd rather sit back and relax, you can opt for their managed service\u2014promising to potentially cut your cloud expenses by 3 to 10 times.\n\n**Why Choose Ubicloud?**\n\nIn a world where traditional cloud providers often lock you into costly contracts and force-feeds you their proprietary technologies, Ubicloud opens the door to a more liberating approach. They offer a cloud experience devoid of vendor lock-in while maintaining the convenience expected from cloud solutions. They understand that controlling your infrastructure shouldn't come at a steep price.\n\n**Current Offerings and Use Cases**\n\nUbicloud has a lot on its plate:\n\n- **Raw Markdown**: Their services cater to various needs including EuroGPT Enterprise, which is a privacy-centric, open-source AI solution running in Europe, ensuring data protection.\n\n- **Managed PostgreSQL**: This option costs three times less than comparable solutions, allowing businesses to avoid vendor lock-in while enjoying the latest PostgreSQL features.\n\n- **GitHub Actions Integration**: Ubicloud offers managed runners for GitHub Actions that can reduce costs by 10x; integrating seamlessly with just a single line change in your workflow.\n\n- **Ubicloud Compute**: If you're in need of dedicated Virtual Machines, these come equipped with encryption at rest and in transit, ensuring security for compute-heavy jobs.\n\n**Core Features**\n\nUbicloud's infrastructure-as-a-service (IaaS) features take full advantage of bare metal providers, making provisioning, usage, and deletion of isolated virtual machines straightforward. Their offerings include:\n\n- Elastic Compute: Rapid scalability on bare metal servers.\n- Virtual Networking: Dynamic networking options with extensive firewall rules.\n- Block Storage: Secure block storage with encryption.\n\n**The Team and Leadership**\n\nUbicloud is a lean startup with a team of 15, guided by the savvy leadership of Garry Tan as Group Partner. They are poised to challenge the status quo in the cloud computing landscape by enabling users to regain control of their infrastructure.\n\n**Takeaway**\n\nUbicloud is not just another cloud provider; it\u2019s a revolution in cloud services that emphasizes transparency, cost savings, and user empowerment. By leveraging open-source technology to democratize access to powerful cloud solutions, they are positioned to attract enterprises and startups alike who are tired of the heavy-handed tactics of mainstream cloud providers. \n\nIf you\u2019re interested in leveraging their groundbreaking technology or just want to explore further, check out their website at [Ubicloud.com](https://www.ubicloud.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c6ca28d77fcd7734f5e266c8a0639e4d3891f181.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192033Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=30593cccb88c67fcaf5b261fe63f15c6d96ada0df92cd6fa6c78c4451fbc9331",
+    "social_links": [
+        "https://www.linkedin.com/company/ubicloud",
+        "https://twitter.com/UbicloudHQ",
+        "https://github.com/ubicloud/ubicloud"
+    ],
+    "logo_path": "data/logos\\Ubicloud_logo.png"
+}

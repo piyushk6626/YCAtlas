@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/proxis",
+    "name": "Proxis",
+    "headline": "The developer platform for LLM distillation and serving.",
+    "batch": "S24",
+    "description": "Proxis is the first dedicated platform for LLM distillation and serving, unlocking production ready models at 1/10th the cost.\r\n\nFine-tuning frontier models like GPT-4 on proprietary data is expensive, and locks customers into one external closed source model provider. \r\n\nTo solve this, enterprise AI teams can use Proxis to distill state-of-the-art Llama 405b into an efficient model tuned on their own data, which is 5x faster and 10x cheaper than closed source alternatives.",
+    "activity_status": "Active",
+    "website": "https://www.proxis.ai/",
+    "founded_date": 2024.0,
+    "team_size": 1.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:cloud-computing; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Liam Collins, Founder",
+            "description": "CEO and cofounder of Proxis. I built zero-to-one systems as a software engineer for two years and prior to that was an investment banker in renewable energy. I received my bachelors from Columbia University and City University of Hong Kong (on a Dual Degree), and left my MBA at Wharton to build Proxis.",
+            "linkedin": "https://www.linkedin.com/in/liam-collins-/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Proxis is an innovative startup aiming to revolutionize how businesses handle Large Language Models (LLMs). Founded in 2024 and currently part of Y Combinator's Batch S24, Proxis is based in San Francisco and has a team of one (yes, one) with hopes to scale up as they grow. \n\nTheir mission? To provide a developer platform for LLM distillation and serving, making it easier for enterprise AI teams to optimize their models without relying on costly and less efficient closed-source options. \n\nProxis's unique offering allows businesses to distill state-of-the-art models like Llama 405b, tuning them on proprietary data. The result? Models that are five times faster and ten times cheaper than traditional solutions. This has profound implications for AI teams who spend significant resources fine-tuning models like GPT-4. \n\nKey features of Proxis include:\n- **Model Selection**: Choose the right model for your needs.\n- **Fine-Tuning**: Tailor the model with your own data.\n- **Distillation**: Transform and optimize the model for better performance.\n- **On-Premises Deployment**: Ensures that data privacy and security are prioritized.\n\nProxis also offers an open-source platform that enables developers to fine-tune models without incurring hefty costs. They provide a free version ideal for startups and individuals, while enterprises can opt for a comprehensive suite of tools that includes dedicated support.\n\nThe pricing structure is straightforward:\n- **Open Source**: Free for developers and startups, with essential features.\n- **Pro**: A paid option for enterprises that includes more extensive capabilities and support.\n\nIn a nutshell, Proxis is about democratizing access to cutting-edge AI by providing scalable, cost-effective solutions. If you\u2019re curious about how it all works or want to get hands-on with LLMs, check out their website at [Proxis.ai](https://www.proxis.ai/).\n\nOverall, Proxis is carving a niche in the AI landscape. It's a refreshing approach in a field that's often bogged down by high costs and complex infrastructures.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/562510ba6bfc270af4b6e2d79e749c9d39e5b3a9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191657Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7004b9139b649bd4019bd7a187925e8f07d040562d9eb39a279316303c6f3e67",
+    "social_links": [
+        "https://www.linkedin.com/company/proxis-ai/",
+        "https://x.com/proxis_ai"
+    ],
+    "logo_path": "data/logos\\Proxis_logo.png"
+}

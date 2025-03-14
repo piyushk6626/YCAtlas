@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/reworkd",
+    "name": "Reworkd",
+    "headline": "The simplest way to extract web data at scale",
+    "batch": "S23",
+    "description": "At Reworkd, we're working on multimodal LLM agents that serve as the simplest way to extract web data at scale. Customers come to us with lists of 100s to 1000s of websites along with a data schema. Our agents traverse these websites, understand their structure, and generate code to extract data from them.\r\n\nWe've been working on LLM agents since their inception and have received over 30k stars on GitHub and 1M+ users across previous agent products. If you're interested in our pilot program, shoot us an email!",
+    "activity_status": "Active",
+    "website": "https://reworkd.ai",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:b2b; industry:open-source; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Asim Shrestha, Founder",
+            "description": "Software engineer and open source enthusiast. Also a co-founder @ Reworkd AI",
+            "linkedin": "https://linkedin.com/in/a-shrestha"
+        },
+        {
+            "name": "Srijan Subedi, Founder",
+            "description": "Co-founder @ Reworkd AI. Combined major in Science @ UBC. Previously worked at STEMCELL Technologies",
+            "linkedin": "https://linkedin.com/in/srijansubedi"
+        },
+        {
+            "name": "Adam Watkins, Founder",
+            "description": "Co-Founder & CTO of Reworkd AI - Pushing the boundaries of AGI agents. Deeply passionate about open-source, software architecture, engineering leadership, and emojis \n\ud83d\ude80\ud83d\ude00",
+            "linkedin": "https://linkedin.com/in/awtkns"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Reworkd: Simplifying Web Data Extraction**\n\nFounded in 2023 and hailing from the bustling tech hub of San Francisco, Reworkd is on a mission to make web data extraction as seamless as possible. Their driving principle is straightforward: customers should be able to extract data from hundreds or thousands of websites without fuss or code. This is done through the magic of multimodal LLM agents\u2014intelligent tools that navigate the complexities of web pages and generate the necessary code to retrieve valuable information.\n\nWith over 30,000 stars on GitHub and more than 1 million users utilizing their various agent products, Reworkd is not just another startup; it's already making waves in the generative AI and B2B space. Their approach to web data scraping sidesteps the usual headaches associated with data collection, such as handling dynamic content, maintaining extraction scripts, or dealing with rate limits. Instead, Reworkd automates everything\u2014from scanning websites to outputting clean data\u2014allowing teams to save both time and resources.\n\nThe team is small but mighty, consisting of just six dedicated employees, and they are backed by notable figures like Dalton Caldwell from Y Combinator, which further adds to their credibility. Being part of Y Combinator's Batch S23 not only provides them with essential resources but also places them within a vibrant community of innovators.\n\nReworkd is tagged as a key player in the fields of generative AI, open-source technology, and enterprise solutions. It's an attractive proposition for clients looking for a cost-effective solution to meet their data extraction needs without the burden of hiring specialized engineers.\n\nFor those interested in giving Reworkd a try, their services require no coding skills and promise minimal maintenance. They invite anyone curious to join their pilot program\u2014definitely a low-barrier entry point for businesses seeking to streamline their data extraction processes. If this sounds like you, don\u2019t hesitate to reach out via [their website](https://reworkd.ai).\n\nIn a world where data is more critical than ever, Reworkd presents a tantalizing solution\u2014one that could redefine how companies approach web data extraction. They\u2019ve got the right technology, the right backing, and a compelling vision to make data work better for everyone.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c099db7869616391dc1635d16baa3a2faee6d9ba.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191725Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2fb0458bd4f8663f7cf3a6a8076c6cf641342d2fd44b744d0378b332cf358dd4",
+    "social_links": [
+        "https://www.linkedin.com/company/reworkd",
+        "https://twitter.com/reworkdai",
+        "https://github.com/reworkd/AgentGPT"
+    ],
+    "logo_path": "data/logos\\Reworkd_logo.png"
+}

@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/ferveret-inc",
+    "name": "Ferveret",
+    "headline": "Liquid cooling solutions inspired by nuclear power plant cooling.",
+    "batch": "S21",
+    "description": "Ferveret develops liquid cooling solutions inspired by nuclear power plant cooling. We save data centers 96% in cooling costs, 68% on capital costs, and reduce their carbon footprint by 40% while increasing chip performance by 2X. Today, about 40% of the electricity used in these facilities is wasted on cooling. \r\n\nOur technology eliminates this wasted energy.",
+    "activity_status": "Active",
+    "website": "http://www.ferveret.com",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "San Jose, CA",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hardware; industry:climate; industry:energy; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Reza Azizian, Founder",
+            "description": "Reza is the co-founder and CEO of Ferveret. He is an MIT alumnus and has more than 10 years of experience in the electronic cooling industry. This includes designing a thermal solution for Microsoft HoloLens, as well as working as a senior packaging thermal engineer at NVIDIA and senior design thermal engineer at Cruise.",
+            "linkedin": "https://www.linkedin.com/in/reza-azizian-6821184a/"
+        },
+        {
+            "name": "Matteo Bucci, Founder",
+            "description": "Matteo is the co-founder and CTO of Ferveret as well as a faculty member in Nuclear Science and Engineering at MIT. Prior to Ferveret, he spent nearly a decade as a Research Scientist at CEA Paris. Fields of expertise include heat transfer, fluid dynamics, and nuclear reactor design. Outside of his core work, Matteo is also a nuclear energy consultant and editor of Applied Thermal Engineering.",
+            "linkedin": "https://www.linkedin.com/in/matteo-bucci-10206b60"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Ferveret: Redefining Liquid Cooling Solutions\n\nFounded in 2021 and hailing from the heart of Silicon Valley, San Jose, California, Ferveret is making waves in the tech landscape with its innovative liquid cooling solutions influenced by nuclear power plant technology. This startup emerged from the Y Combinator Batch S21, and its mission is crystal clear: to revolutionize how data centers cool their systems, reducing both environmental impact and operational costs.\n\n#### The Problem with Current Cooling Systems\n\nDid you know that around 40% of the electricity consumed by data centers is wasted on cooling? That\u2019s a staggering statistic! As data generation skyrockets\u2014projected to reach dizzying heights\u2014so too does the electricity consumption of these facilities, which could account for 9% of U.S. electricity generation by 2030. Add to that the fact that inefficient cooling contributes roughly 40% of emissions from data centers, and it\u2019s clear that a solution is needed.\n\n#### Innovative Technology and Impressive Savings\n\nFerveret tackles this problem head-on with its cutting-edge technology that not only eliminates waste but also enhances chip performance. Their solutions claim to save data centers an impressive **96% in cooling costs**, **68% on capital expenditures**, and **reduce carbon footprints by 40%**, all while doubling the performance of CPUs and GPUs. They achieve this through a process known as subcooled boiling, which allows for remarkably efficient heat removal from processors and other high-heat components.\n\n#### A Focus on Diverse Industries\n\nFerveret's applications are broad, touching sectors like:\n\n- **Data Centers:** Combat inefficient cooling strategies that are both costly and environmentally damaging.\n- **Artificial Intelligence:** Support the computational demands of AI applications, ensuring systems run cooler and more efficiently.\n- **Crypto Mining:** Enhance performance through overclocking techniques, reducing noise and energy expenditures in crypto facilities.\n- **Autonomous Vehicles:** Address the substantial cooling needs of sensor and battery technology.\n\n#### Meet the Team\n\nBehind this ambitious project is a diverse team of six leading experts. Co-founders Dr. Reza Azizian and Dr. Matteo Bucci bring rich backgrounds from MIT and the cooling industry, while Andrea Marini, the Chief Revenue Officer, has extensive experience with companies like Dell Technologies and Genesys. This combination of technical prowess and business acumen positions Ferveret as a formidable player in the industry.\n\n#### Investors and Future Vision\n\nFerveret is backed by notable investors, including Y Combinator, MIT E14 Fund, and Climate Capital, indicating strong confidence in its potential. As the startup prepares to scale its operations, it\u2019s focused not just on profitability, but on making a significant positive impact in the climate space.\n\n#### Conclusion\n\nFerveret is not just another tech startup; it\u2019s a bold step toward a more efficient and sustainable future for data centers, leveraging the lessons learned from nuclear cooling systems. As the demand for advanced computing grows, so does the opportunity for Ferveret to lead the charge in cooling innovation. \n\nFor more information, visit [Ferveret's website](http://www.ferveret.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6566115d6aae3fa8f7b95dc589e89c28362c2efa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=23fabe6da7b24ca1a8edadc0e6ecba2c2783a5fcd3a4156f6dbafce0505dd77b",
+    "social_links": [
+        "https://www.linkedin.com/company/ferveret/",
+        "https://twitter.com/ferveret",
+        "https://www.crunchbase.com/organization/ferveret"
+    ],
+    "logo_path": "data/logos\\Ferveret_logo.png"
+}

@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/korrai",
+    "name": "KorrAI",
+    "headline": "KorrAI detects ground stability threats to critical infrastructure",
+    "batch": "W22",
+    "description": "KorrAI is the leading ground stability monitoring platform, leveraging satellite radar technology to protect critical infrastructure from escalating subsidence risks in a changing climate. Our solutions serve major property insurers mining companies, data centers, and infrastructure operators worldwide as they face increasing threats from prolonged droughts, shifting water tables, and extreme weather events. The platform combines multi-satellite InSAR data with proprietary algorithms to deliver millimeter-precise ground movement detection and risk assessment.\r\nOur technology processes over 1 petabyte of satellite data annually, covering 3 million square kilometers with validated 1mm/year precision. Through advanced calibration using motorized corner reflectors and extensive GNSS networks, we achieve 85% prediction accuracy across Europe and North America. With climate change projected to affect 40% of global infrastructure by 2030 through ground instability, our solution enables proactive risk management and adaptation strategies.\r\nFounded by a team of tech and remote sensing entrepreneurs with one successful exit and decade-long experience serving Fortune 500 companies.With offices in Canada (Toronto, Halifax, Vancouver) and India (New Delhi), we collaborate with leading institutions including the Canadian Space Agency, Construction Research Center, and premier universities. Strategic partnerships include major satellite operators and geotechnical engineering firms.",
+    "activity_status": "Active",
+    "website": "https://www.korrai.com",
+    "founded_date": 2021.0,
+    "team_size": 14.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:climate; industry:insurance",
+    "founders": [
+        {
+            "name": "Rahul Anand, Founder",
+            "description": "I am a technologist at heart with a passion for solving problems in the AI space.",
+            "linkedin": "https://www.linkedin.com/in/rahulanandnitk/"
+        },
+        {
+            "name": "Rob McEwan, Founder",
+            "description": "My passion for knowledge and tinkering with technology quickly lead me to transition from a professional hockey career to the geosciences, where I found an absolute fascination with image sensors, spectroscopy, and working with geospatial data.\n\nI am driven by the pursuit of commercially viable technologies and solutions for industries that are most critical to the transition to a sustainable economy. I believe in open data, collaboration, and strong digital privacy protections.",
+            "linkedin": "https://www.linkedin.com/in/robmcewan/"
+        }
+    ],
+    "status": true,
+    "generated_description": "KorrAI is an innovative company that launched in 2021 and has quickly established itself as a leading player in ground stability monitoring, especially concerning critical infrastructure. Their mission? To detect ground stability threats using cutting-edge satellite radar technology. With climate change posing increasing risks through issues like subsidence, prolonged droughts, and extreme weather events, KorrAI's solutions are time-sensitive for property insurers, mining companies, data centers, and infrastructure operators globally.\n\nThe company's platform combines multi-satellite InSAR data with proprietary algorithms to boast millimeter-precise ground movement detection. It processes over one petabyte of satellite data every year, covering a staggering 3 million square kilometers, achieving a validation precision of 1mm/year. Remarkably, their technology offers an 85% prediction accuracy across Europe and North America, addressing the urgent needs of infrastructure as climate change is projected to impact 40% of it by 2030.\n\nKorrAI\u2019s roots lie in a foundation of experience, with co-founders who have had a successful exit and over a decade of serving Fortune 500 companies. Their headquarters in Toronto, Canada, is complemented by additional offices in Halifax, Vancouver, and New Delhi. This geographically diverse team of 14 collaborates with prominent entities like the Canadian Space Agency and various universities, strengthening their technological backbone through strategic partnerships with major satellite operators and geotechnical engineering firms.\n\nA notable achievement is their participation in Y Combinator's Batch W22, which speaks volumes about their potential and innovation. Their flagship offerings, like the Ground Motion Monitor and the Ground Motion Risk Index, are designed to support businesses in proactive risk management and adaptation to changing environmental conditions. They promise delivery of crucial data reports in 48 hours\u2014far faster than traditional monitoring systems. \n\nIn a nutshell, KorrAI is more than just a tech company; they're on a mission to help industries navigate the complex challenges of climate change, ensuring the safety and integrity of vital infrastructure across the globe. If you're curious to learn more, you can find them at [korrai.com](https://www.korrai.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ae09bc113cd2737b139e88e3631624c627d28a06.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191454Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1737ce9b514c491a91854a6d5f4e7a97ddbbbd477e4e61b84557c3dad2289e1e",
+    "social_links": [
+        "https://www.linkedin.com/company/korrai/",
+        "https://twitter.com/KorrAITech",
+        "https://www.crunchbase.com/organization/korrai"
+    ],
+    "logo_path": "data/logos\\KorrAI_logo.png"
+}

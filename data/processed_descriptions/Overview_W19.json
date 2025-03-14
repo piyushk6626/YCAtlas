@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/overview",
+    "name": "Overview",
+    "headline": "AI vision sensors for manufacturing",
+    "batch": "W19",
+    "description": "Overview is a company that takes the cutting edge in computer vision and deep learning and applies it to previously unsolvable manufacturing inspection problems. We are truly a full stack company. We install physical cameras into the facility, run inference on the edge and manage massive deployments. Overview also streams gigabytes of video/image data to the cloud for our web platform to give customers advanced insights and analytics.",
+    "activity_status": "Active",
+    "website": "https://overview.ai",
+    "founded_date": 2019.0,
+    "team_size": 15.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:deep-learning; industry:iot; industry:computer-vision; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Austin Appel, Founder",
+            "description": "Austin Appel is the head of product and a co-founder at Overview, where he is responsible for leading product development and operations. With over 8 years of experience in manufacturing, he works with customers to ensure that customers can quickly adopt and use artificial intelligence-based computer vision systems.\n\nPreviously, Austin spent four years at Tesla in manufacturing and R&D.\n\nAustin holds BS Degrees in Manufacturing Engineering and Mechanical Engineering from Northwestern University.",
+            "linkedin": "https://www.linkedin.com/in/austin-appel-aa822b66/"
+        },
+        {
+            "name": "Russell Nibbelink, Founder",
+            "description": "I am the head of engineering and a co-founder at Overview. \n\nBefore joining Overview, I was a software engineer at Salesforce, where I worked on web-scale infrastructure projects, including the migration of Salesforce\u2019s largest customers to upgraded hardware with no downtime.\n\nI received his Bachelor of Science from the University of California Berkeley College of Engineering, where I was also the head teaching assistant in the field of High Performance Computing.",
+            "linkedin": "https://www.linkedin.com/in/russellnibbelink/"
+        },
+        {
+            "name": "Christopher Van Dyke, Founder",
+            "description": "After 8 years at Tesla I founded Overview. Overview provides cameras and AI recognition algorithms to help manufacturers automate inspection steps, improve uptime, and reduce errors on their manufacturing lines. At Tesla, I built the team that designed the Gigafactory and launched the Supercharger network.",
+            "linkedin": "https://www.linkedin.com/in/christopher-van-dyke/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Overview Company Summary**\n\n**Name:** Overview\n\n**Founded:** 2019\n\n**Location:** San Francisco, California\n\n**Team Size:** 15 employees\n\n**Y Combinator Batch:** W19\n\n### Mission:\nOverview is all about revolutionizing manufacturing through advanced AI vision sensors. Their goal is straightforward: leverage cutting-edge computer vision and deep learning to tackle previously unsolvable inspection challenges in manufacturing. \n\n### What They Do:\nThey're a full-stack solution provider. This means they don\u2019t just sell you cameras; they install physical cameras right into your facilities. These cameras run inference at the edge, managing extensive deployments while also streaming massive amounts of video and image data to the cloud. From there, their web platform delivers sophisticated insights and analytics that manufacturers need to improve quality control processes.\n\n### Key Features:\n- **High Accuracy Inspections:** Overview's technology provides high-speed inspections that can detect non-obvious defects, ensuring that product quality isn't just a goal but a guarantee.\n- **Breakthrough AI Technology:** By utilizing vision transformers, they achieve higher accuracy with less data, offering faster time-to-value and ease of use.\n- **Powerful Hardware:** Their smart cameras carry the full computing capabilities of a PC, featuring integrated NVIDIA GPUs for powerful processing and real-time insights.\n- **Customizable Solutions:** Overview\u2019s systems are designed to be interoperable and customizable, making them adaptable to diverse factory environments.\n\n### Client Satisfaction:\nThe feedback from users highlights an overwhelmingly positive experience, with many claiming that Overview has outperformed competitors like Cognex and Keyence. Features such as interactivity, user-friendly design, and reliable defect detection are frequently praised.\n\n### Partnerships:\nOverview's strategic partnership with Group Partner Nan enhances their ability to innovate and reach manufacturing sectors effectively.\n\n### Tags:\n- Deep Learning\n- IoT\n- Computer Vision\n- San Francisco Bay Area\n\n### Contact Information:\n- **Website:** [Overview.ai](https://overview.ai)\n- **Email:** contact@overview.ai\n- **Phone:** (844) 799-7044\n\nFor manufacturers looking to improve their inspection processes, Overview presents a compelling option that's both advanced and user-friendly. In a landscape where quality control can make or break a company, having real-time, accurate, and reliable inspection solutions is not just an advantage; it's essential. If you're in the manufacturing business, it might be time to get an overview of what Overview can do for you.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a38d941d742c34f4abdac579694dd5c2af9affb2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191617Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7db897583f9c354db8068c836993a6b7a76d93bca6f3b7ee495fc53074f86d13",
+    "social_links": [
+        "https://www.linkedin.com/company/overview-ai/",
+        "https://www.crunchbase.com/organization/overview-ai"
+    ],
+    "logo_path": "data/logos\\Overview_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/raycast",
+    "name": "Raycast",
+    "headline": "Speed up non-coding tasks for engineering teams",
+    "batch": "W20",
+    "description": "Raycast is a productivity tool that saves engineering teams time on non-coding tasks in apps like Jira, GitHub or Slack which might take up to 50% of a developer's day.",
+    "activity_status": "Active",
+    "website": "https://raycast.com",
+    "founded_date": 2020.0,
+    "team_size": 27.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:productivity",
+    "founders": [
+        {
+            "name": "Thomas Mann, Founder",
+            "description": "I like to make things for people who make things. I'm currently crafting Raycast. Previously, I built products as a software engineer at Facebook, Audi, ProSieben and the Fraunhofer Society.",
+            "linkedin": "https://www.linkedin.com/in/thomas-paul-mann-5183101a4/"
+        },
+        {
+            "name": "Petr Nikolaev, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/petr-nikolaev-9487067a"
+        }
+    ],
+    "status": true,
+    "generated_description": "Raycast is shaking up the productivity landscape for engineering teams by tackling the non-coding tasks that can consume up to half of developers' time\u2014think of tasks related to tools like Jira, GitHub, and Slack. Founded in 2020 and born out of the Y Combinator W20 batch, this London-based startup is on a mission to streamline the daily workflows of programmers and make their lives easier.\n\nAt its core, Raycast is a comprehensive launcher that packs a host of productivity tools designed for speed, efficiency, and ease-of-use. The company consists of a small but mighty team of 27, led by notable figures such as Aaron Epstein, who serves as their Group Partner. This clever utility aims to eliminate the distractions and inefficiencies that can plague a developer's workday.\n\nRaycast focuses on providing a single interface for diverse functions, enabling users to take shortcuts rather than detours. It's robust enough to handle everything from clipboard history management and window management to project tasks and note-taking\u2014all while maintaining a keyboard-first, ergonomic approach. This means faster, crash-free performance, with 99.8% reliability.\n\nAdditionally, the software is extending its capabilities by incorporating AI features to help users automate repetitive tasks and retrieve information effortlessly. It has a rich library of extensions allowing integration with popular services like Notion, JIRA, Spotify, and Slack, among others.\n\nRaycast positions itself within the \"developer-tools\" and \"productivity\" categories and aims to become an essential part of every developer's toolkit. You can dive into their offerings at [Raycast.com](https://raycast.com) and see how their innovative solutions can revolutionize your productivity. \n\nIn a nutshell, Raycast is more than just an app; it's a bridge to a more efficient workspace that aims to keep developers focused on code rather than getting bogged down by administrative tasks. If you're looking to transform how you interact with your tools and restore valuable time to your day, Raycast might just be what you need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/aef7d2858d2d0a1e787f3ecf202b93c5ca7da8d8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191708Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1f4704d52c4f1742a970e966f7337cc3de27429ea31a350b2e1cf54ce3a78588",
+    "social_links": [
+        "https://www.linkedin.com/company/raycastapp",
+        "https://twitter.com/raycastapp",
+        "https://www.crunchbase.com/organization/raycast",
+        "https://github.com/raycast"
+    ],
+    "logo_path": "data/logos\\Raycast_logo.png"
+}

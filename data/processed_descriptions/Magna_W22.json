@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/magna",
+    "name": "Magna",
+    "headline": "Carta for Web3: token vesting and DeFi investment management.",
+    "batch": "W22",
+    "description": "Magna is building a platform to turn DeFi investments into financial primitives. Our first product is Carta for Web3, where companies can manage their cap tables and distribute their token equity to employees, advisors, or investors. We\u2019re also building investor infrastructure for institutions to custody investments with on-chain execution and intelligence. Our ultimate goal is to use locked tokens as composable building blocks to power collateralized lending, liquid secondary markets, and other DeFi applications.\r\n\nLaunching a token? Let's chat. Are you receiving tokens from your investments? We can also be helpful.\r\n\nWhat are our companies saying about the problem?\r\n\n> Having it all bundled together would make life easier. We have a million things to do. If you have an off-the-shelf thing, we\u2019d use it.\r\n> This wouldn\u2019t be a nice to have, it\u2019d be a have to have.\r\n> Terrible process. We\u2019re manually sending out transactions, going to solscan and manually check that they received our token. Takes hours every week.\r\n> Everything we do is potentially very dangerous. We have to check it thoroughly. I\u2019ve spent several hours a day on this since launch. I imagine every month, it\u2019ll take us at least 1-2 days.\r\n> Manual process every month for the ops team. They likely burn a week.... every month to pay out 150+ addresses.",
+    "activity_status": "Active",
+    "website": "https://magna.so",
+    "founded_date": 2022.0,
+    "team_size": 18.0,
+    "location": "New York",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:defi; industry:dao; location:new-york",
+    "founders": [
+        {
+            "name": "Bruno Faviero, Founder",
+            "description": "- PM of Palantir's AI Platform. \n- Founder of Synapse Technology - AI to automate airport security (Acquired by Palantir in 2020). \n- Angel and VC investor in over 50 companies.",
+            "linkedin": "https://www.linkedin.com/in/faviero"
+        },
+        {
+            "name": "Arun Kirubarajan, Founder",
+            "description": "- Quant trading at Millennium\n- Early employee at Vise\n- Published NLP/ML researcher and CS lecturer at UPenn",
+            "linkedin": "https://www.linkedin.com/in/arunkirubarajan/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Magna is a forward-thinking startup launched in 2022, nestled in the heart of New York and part of the Y Combinator Batch W22. The company\u2019s mission is clear: create a \u201cCarta for Web3\u201d\u2014a comprehensive platform that streamlines token vesting and DeFi investment management.\n\nStarting off, Magna intended to build a platform that transforms DeFi investments into financial primitives. Their flagship product, Carta for Web3, allows companies to effectively manage their cap tables while seamlessly distributing token equity to employees, advisors, and investors. Think of it as the toolkit that companies need to navigate the complex maze of decentralized finance. \n\nBut it doesn't stop there. Magna is also developing infrastructure tailored for institutional investors, enabling secure custody of investments with on-chain execution and intelligence. The ambition here is to leverage locked tokens as versatile building blocks for collateralized lending, vibrant secondary markets, and additional DeFi applications.\n\nFeedback from clients makes it abundantly clear that existing processes in token management are often a burdensome chore. Many report spending hours checking and executing token transactions manually\u2014a stark reminder of just how much room there is for improvement in this space. The consensus? A unified system could drastically reduce friction and risk, turning the \u201cnice to have\u201d into a \u201cmust-have.\u201d\n\nMagna stands out with a capable 18-member team and industry backing from notable entities like Tiger Global and Circle. They haven't just built a product; they've crafted a robust ecosystem compatible with major blockchain networks such as Ethereum, Solana, and Avalanche, among others. Their platform isn't just about distribution; it also includes features for tax compliance, multi-signature support, and customizable vesting schedules.\n\nAs for partnerships, they\u2019re trusted by several leading companies in the space, affirming their credibility. They\u2019ve undergone extensive audits, showcasing their commitment to security and reliability\u2014critical factors in any financial application.\n\nIn a world where blockchain technology is rapidly evolving, sometimes it feels like we\u2019re all playing catch-up. With Magna, companies can not only keep pace but move ahead, simplifying the complexities of token management. If you\u2019re looking to launch a token or streamline current investments, Magna's the partner you want to have. \n\nFor more details, visit [Magna's website](https://magna.so).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2ccef8c42a48e728c15238689a87e7b46c309a8c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191519Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=27445a478ae1aa84ae7ab6d477abf137177bc3d15b855ad54b11a27b3de89340",
+    "social_links": [
+        "https://twitter.com/magnatokens"
+    ],
+    "logo_path": "data/logos\\Magna_logo.png"
+}

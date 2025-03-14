@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/lantern-2",
+    "name": "Lantern",
+    "headline": "Postgres vector database extension to build AI applications",
+    "batch": "W24",
+    "description": "Lantern is the easiest way to build AI applications using Postgres.\r\n\nWe started Lantern because we believe AI is going to impact every single enterprise in every single industry. We want to allow every company to tap into their unstructured data to build better applications.\r\n\nWith Lantern Cloud, developers have access to everything they need to build an AI application: embedding generation, vector compression, vector search, efficient indexing, and more. All on top of the database they already know, Postgres, and using infrastructure that scales to billions.\r\n\nCheck out our code on Github: https://github.com/lanterndata/lantern",
+    "activity_status": "Active",
+    "website": "http://lantern.dev",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:open-source; industry:enterprise; industry:databases; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Di Qi, Founder",
+            "description": "I'm working on Lantern. We're building the best platform to develop AI applications. Before Lantern, I worked at Y Combinator, on my own startups, and at Facebook. I studied computer science at Princeton, and grew up in Americus, Georgia.",
+            "linkedin": "https://www.linkedin.com/in/di-qi/"
+        },
+        {
+            "name": "Narek Galstyan, Founder",
+            "description": "Now building the only database you'll need for your AI applications.\n\nI was an early engineer at Timescale, a billion-dollar Postgres company, where I contributed core features.\n\nI did my undergrad at Princeton, where I built a safe OS schedule in Rust for my thesis. More recently, I was a PhD Student at UC Berkeley working on distributed systems.",
+            "linkedin": "https://linkedin.com/in/ngalstyan"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Lantern: Powering AI Applications Through Postgres\n\n**Founders and Origins:**  \nLantern was founded in 2023, fueled by a belief that AI is set to transform enterprises across all sectors. Located in the heart of San Francisco and part of Y Combinator Batch W24, Lantern aims to simplify AI application development using a technology many developers are already familiar with: Postgres.\n\n**Mission Statement:**  \nLantern's mission is clear \u2013 to make it easy for businesses to harness their unstructured data and build sophisticated AI applications. As data continues to proliferate, Lantern positions itself as a bridge between raw data and meaningful insights, leveraging the capabilities of Postgres as its backbone.\n\n**What Lantern Offers:**  \nWith **Lantern Cloud**, developers gain access to a powerful toolkit designed for building AI applications. This includes:\n\n- **Embedding generation:** Seamlessly create embeddings for your data.\n- **Vector compression and search:** Optimize and search vast datasets efficiently.\n- **Efficient indexing:** Keep your queries snappy, even as your data scales into the billions.\n\nThe best part? You don't need to learn a new framework. Just use SQL or your preferred ORM. This makes integrating Lantern into existing workflows pretty straightforward.\n\n**Key Features:**\n\n- **Advanced Search Capabilities:**  \n  Lantern allows for vector search right within Postgres, eliminating the need for external vector databases. Plus, with BM25 (a tried-and-true algorithm for ranking search results), the user experience improves, making searches both faster and more relevant.\n\n- **Serverless Scaling:**  \n  Scale effortlessly without your database performance suffering. Serverless indexing means you can handle thousands of requests while keeping your main database running efficiently.\n\n- **Embedding and LLM Integration:**  \n  Generate vectors on-the-fly and leverage access to over 20 embedding models, including those from OpenAI and other established players in the field.\n\n**User-Friendly Experience:**  \nLantern is designed to be developer-friendly. Whether you're writing a few lines of SQL or using an ORM like Sequelize or Django, it blends into your workflow, minimizing the learning curve.\n\n**Pricing and Accessibility:**  \nLantern follows a freemium model. The free tier never pauses, providing developers with essential functionality to experiment and build. For those looking for more robust features, a production plan starts at $44/month, offering increased resources, backups, and priority support.\n\n**Community and Support:**  \nLantern is backed by a small, agile team of three, with industry leaders and partners involved to ensure they stay at the cutting edge. They offer extensive documentation, a blog, and a community support structure.\n\n**In Summary:**  \nLantern is not just another database tool; it\u2019s a gateway for developers eager to explore the vast potential of AI without the steep learning curve associated with many modern frameworks. By building on the familiar foundation of Postgres, Lantern empowers businesses to innovate and improve their applications in ways previously thought too complex or resource-intensive.\n\nFor those interested in diving deeper, check out their [GitHub repository](https://github.com/lanterndata/lantern) and get started today at [lantern.dev](http://lantern.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/18caa48e213eced34b942f55d91cc7e5de30b923.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191459Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ce0ba6f0cd652077179f06bc0bae6aaf0a166769da985b4b4d957c9c0e430809",
+    "social_links": [
+        "https://www.linkedin.com/company/98218505",
+        "https://twitter.com/lanterndb",
+        "http://github.com/lanterndata"
+    ],
+    "logo_path": "data/logos\\Lantern_logo.png"
+}

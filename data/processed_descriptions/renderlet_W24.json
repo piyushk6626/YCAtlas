@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/renderlet",
+    "name": "renderlet",
+    "headline": "Build interactive applications that run anywhere",
+    "batch": "W24",
+    "description": "renderlet is a framework that makes it easy to develop interactive applications.\r\n\nBuilding applications with high-performance graphics is very hard \u2013 existing tools are cumbersome and aren\u2019t truly platform agnostic, leading to frequent rework. \r\n\nWith renderlet, developers can write high-level code to describe 2D and 3D graphics without having to use low-level, platform-specific APIs.\r\n\nrenderlet automatically compiles graphics code to WebAssembly and embeds a portable rendering engine inside any app, enabling graphics to safely and automatically render on any platform\u2019s GPU.\r\n\nOur runtime is open-source: https://github.com/renderlet/wander",
+    "activity_status": "Active",
+    "website": "http://renderlet.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:design-tools; industry:data-visualization; location:new-york",
+    "founders": [
+        {
+            "name": "Sean Isom, Founder",
+            "description": "Sean is the Founder of renderlet. He previously built Developer Platforms at Adobe as a Lead Engineer and Sr. Engineering Manager, building the core infrastructure that powers apps like Photoshop and Acrobat. He has over a decade of technical experience in browsertech and real-time graphics and is currently involved in standardization efforts for WebAssembly\u2019s WASI GPU support.",
+            "linkedin": "https://linkedin.com/in/isom"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Renderlet: Empowering Interactive Graphics Development**\n\nFounded in 2024 and part of Y Combinator Batch W24, Renderlet is changing the game for developers looking to create interactive applications. Based in New York, this nimble startup, currently a team of two, focuses on building a framework that simplifies the development of high-performance graphics across platforms. With Jared Friedman as their Group Partner, they tackle one of the persistent headaches in app development: creating graphics that work seamlessly on any device without the constant hassle of refactoring.\n\nSo, what\u2019s the core of Renderlet\u2019s offering? Well, it's all about convenience and versatility. Traditional graphics development typically requires deep dives into low-level, platform-specific APIs, which can be not only cumbersome but also exceedingly time-consuming. Renderlet abstracts away these complexities, allowing developers to write high-level code for 2D and 3D graphics that compiles automatically into WebAssembly. This means that developers can focus on building their applications rather than getting bogged down in syntax and platform quirks.\n\nAt the heart of Renderlet is a couple of game-changing components:\n1. **A Compiler**: This takes your high-level descriptions\u2014think your graphics pipelines and custom functions\u2014and packages them into self-contained WebAssembly modules. \n2. **Wander**: This is the rendering engine that gets embedded into any app across platforms, leveraging the underlying GPU for optimal performance.\n\nThe best part? The Renderlet runtime is open source, available on [GitHub](https://github.com/renderlet/wander), allowing the community to contribute and grow this innovative tool further.\n\nIf you're a developer tired of the old grind of cross-platform graphic development, Renderlet offers a fresh perspective with a genuinely promising framework. You can check out their website at [renderlet.com](http://renderlet.com) for documentation and further insights into how they can help you embed GPU-accelerated graphics into your applications effortlessly.\n\nIn a nutshell, Renderlet is about building interactive applications that work anywhere\u2014with fewer headaches and much more speed. Join their journey to streamline graphics development and unleash the potential of your projects!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/10674dc351fd6ef3f5d0d316809f26e689bd5aff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191717Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=aa7e900b8cfc8a0a140284e79f7b175b4b91d9eb6180c7a73c0e8f167e19f08d",
+    "social_links": [
+        "https://www.linkedin.com/company/renderlet",
+        "https://github.com/renderlet/"
+    ],
+    "logo_path": "data/logos\\renderlet_logo.png"
+}

@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/gait",
+    "name": "Gait",
+    "headline": "Building Dev Infra for AI Software Engineers",
+    "batch": "F24",
+    "description": "Ever been confused by a block of AI-generated code? Gait is a Cursor and VS Code extension that will let you view the prompt that generated code. Continue off of your coworker's conversations, view analytics on your AI codegen use, and more!",
+    "activity_status": "Active",
+    "website": "https://getgait.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Pete Koomen",
+    "group_partner_yc": "https://www.ycombinator.com/people/pete-koomen",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alex Hsia, Founder",
+            "description": "Former Dev at Jane Street, Mercury, and CMU CS. Building better devtools to connect developers and AI codegen",
+            "linkedin": "https://www.linkedin.com/in/ahsia/"
+        },
+        {
+            "name": "Kyle Li, Founder",
+            "description": "Former dev at Jane Street, Stripe, and Columbia CS. Building better tools to connect developers and AI codegen.",
+            "linkedin": "https://www.linkedin.com/in/kyleli626/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Gait: Simplifying AI Code Generation for Developers\n\n**Company Overview:**\nGait, founded in 2024 and part of the Y Combinator Batch F24, is a San Francisco-based startup with a mission to streamline the development infrastructure for AI software engineers. Despite being a young company, Gait has quickly carved out a niche by addressing a common problem faced by developers working with AI-generated code.\n\n**What Gait Does:**\nInitially, Gait emerged as a response to confusion surrounding blocks of AI-generated code. Through their innovative Cursor and VS Code extension, Gait allows developers to view the prompts that generated the AI code, thus fostering a clearer understanding and more efficient collaboration among team members. Key features include:\n\n- **AI Blame:** This feature links specific prompts and conversations directly with the corresponding pieces of generated code, making it easier to track the origins and rationale behind each line of code.\n  \n- **Codegen Analytics:** Developers can measure the impact of AI on their codebase and overall productivity, giving them insights into how AI tools are shaping their workflows.\n  \n- **Team Collaboration:** Gait enables teams to share AI-assisted development context through version control, enhancing collective understanding and streamlining code reviews.\n\n**How It Works:**\n1. **Capture Conversations:** Gait automatically saves AI interactions into a designated file within the `.gait` folder.\n2. **Commit to Repo:** Developers commit the `.gait` folder alongside their code to share context with their teammates.\n3. **Understand Code:** While reviewing code or making further edits, developers can reference the prompts that led to specific code generation.\n\n**Getting Started:**\nUsing Gait is straightforward:\n- Install the Gait extension from the VS Code or Cursor marketplaces.\n- Gait will read the chat history automatically, allowing developers to navigate through various files and review generated code based on prompts.\n\n**Plans:**\nGait offers a tiered service model:\n- **Open Source:** Free access, basic AI conversation capture, and analytics.\n- **Pro Version:** Includes advanced features like code review tools, prompt replay, model comparison, and enhanced analytics, along with protections for copyright and IP.\n\n**Team and Leadership:**\nGait operates with a lean team of two and is mentored by Pete Koomen, who plays a pivotal role as their group partner at Y Combinator.\n\n### Conclusion\nIn a world where AI is increasingly replacing traditional coding methods, Gait stands out by demystifying the process. With a focus on enhancing collaboration and comprehension among developers, Gait represents a significant step toward making AI tools more accessible and useful in everyday programming tasks. If you're navigating the complexities of AI-generated code, Gait might be the tool that helps you make sense of it all. \n\nFor more information, check out their website at [getgait.com](https://getgait.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e85a2ab81ba0ce9d531c07760b76958278c884dd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191353Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f6cbdef49bc4ab1bbdd3056c787ff946499978720cd9bd40ffc64ee246c32d3a",
+    "social_links": [
+        "https://www.linkedin.com/company/gaitinc/",
+        "https://twitter.com/getgait",
+        "https://github.com/gait-ai"
+    ],
+    "logo_path": "data/logos\\Gait_logo.png"
+}

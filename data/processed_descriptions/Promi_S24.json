@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/promi",
+    "name": "Promi",
+    "headline": "Optimizing ecommerce pricing with dynamic, personalized discounts",
+    "batch": "S24",
+    "description": "Promi is an AI-powered price and discount optimization platform. We help eCommerce merchants personalize their sales to generate additional revenue and profit.\r\n\nEcommerce merchants and marketers typically use discounts to drive customer acquisition, boost sales during holidays, or liquidate inventory. But deciding on a discount to offer is typically guesswork. Who to send the discount to, how much to offer, and which products it applies to are, in the most advanced cases, determined manually by looking at past sales and seeing what worked well. In the majority of cases, it's what feels and sounds good.\r\n\nPromi leverages store data to optimize discounts at a more granular level than possible manually. We dynamically determine the best value across each product, for different users, at different times in order to maximize sales and profit.",
+    "activity_status": "Active",
+    "website": "https://www.usepromi.com/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Peter Moot, Founder",
+            "description": "Co-founder @ Promi, a pricing and discount optimization platform. Prior to Promi I led product for discounts at Uber. I have a degree in economics and computer science from Harvard.",
+            "linkedin": "https://www.linkedin.com/in/petermoot/"
+        },
+        {
+            "name": "Jiaxin Lin, Founder",
+            "description": "Co-founder of Promi. Most of my career has been working on recommendation / personalization systems in the e-commerce space.\n\nAvid coder and lifelong learner.",
+            "linkedin": "https://www.linkedin.com/in/jiaxinlin/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Promi: Smart Pricing for eCommerce\n\n**Overview**\n\nFounded in 2024 and part of Y Combinator\u2019s Batch S24, Promi is a budding company based in an undisclosed location, with a lean team of two. Their mission is clear: **optimizing eCommerce pricing through dynamic, personalized discounts.** \n\n**The Problem**\n\nEcommerce merchants often rely on guesswork when it comes to discounting strategies\u2014whether it's for customer acquisition, holiday sales, or clearing inventory. This approach usually involves a subjective analysis of past sales data or simply what feels right. Naturally, this can lead to missed opportunities.\n\n**The Solution**\n\nEnter Promi. This AI-powered platform takes the guesswork out of discount allocation by leveraging data from the store. It dynamically determines the best discount values for each product based on user behavior, timing, and historical data. The platform aims to maximize both sales and profit by delivering tailored discounts to the right customers at the right moments.\n\n**Key Features**\n\n- **Personalized Product Discounts:** Create tailored clearance sales, volume discounts, and subscription offers.\n- **Email & SMS Optimization:** Enhance campaigns by integrating personalized pricing that triggers via Klaviyo.\n- **Onsite Popups:** Set up personalized interactions like welcome offers and sign-up discounts.\n\nPromi's approach has notable results. In a recent case, a user reported a **92% increase in flow revenue** and significant improvements in open and click rates. This isn't just about offering more discounts; it's about using data intelligently to drive profitability, with reports showing an average revenue increase of **24%** and profit increase of **15%** across its users.\n\n**How It Works**\n\n1. **Data Collection:** Promi collects a variety of customer data\u2014device types, sources of traffic, transaction history, and more.\n2. **AI Training:** This data trains Promi's AI model to predict conversion rates and price elasticity for each customer.\n3. **Dynamic Discounts:** It then issues personalized discounts based on the predicted behavior, which can apply in real-time or through email and SMS campaigns.\n\n**Installation and Support**\n\nPromi provides a **white-glove installation service**, ensuring that setup is swift, typically taking less than 48 hours. They focus on user-friendliness, enabling businesses of all sizes to enhance their discount strategies efficiently.\n\n**Conclusion**\n\nIf you're in the eCommerce space and looking to refine your pricing strategy, Promi might just be the game-changing solution you need. With a focus on AI-optimized, personalized discounting, they're not just making discounts smarter; they're making businesses more lucrative.\n\nFor more information, visit [Promi's website](https://www.usepromi.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/762c4878d96ee91ea82c8c90575340a70a3413cf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191654Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7a117b78f0918737a0b2f28ac2f1ea7cde35a697059473e207d3af96f1833931",
+    "social_links": [
+        "https://www.linkedin.com/company/promi-discounts"
+    ],
+    "logo_path": "data/logos\\Promi_logo.png"
+}

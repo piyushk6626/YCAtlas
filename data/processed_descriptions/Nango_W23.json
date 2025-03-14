@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/nango",
+    "name": "Nango",
+    "headline": "A single API for all your integrations",
+    "batch": "W23",
+    "description": "Customers expect your SaaS to integrate with all the software they use.\r\n\nWith Nango, you ship integrations your customers love, fast.\r\n\nLeverage hundreds of pre-built integrations and unlimited customization.",
+    "activity_status": "Active",
+    "website": "https://nango.dev",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:open-source; industry:api; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Robin Guldener, Founder",
+            "description": "Founded Nango after seeing first hand how hard it to build product integrations between SaaS.\nPreviously co-founded Avrios, a B2B SaaS for car fleet management, and grew it to 1000+ customers.",
+            "linkedin": "https://www.linkedin.com/in/rguldener/"
+        },
+        {
+            "name": "Bastien Beurier, Founder",
+            "description": "French & American. Grew up in Paris and worked in San Francisco. Recidivist founder (2 x YC). Previously senior platform engineer at Uber. Also worked at Lantern, Trip.com, Triplebyte.",
+            "linkedin": "https://www.linkedin.com/in/bastienbeurier/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Nango**\n\nFounded in 2022 and hailing from the Y Combinator Batch W23, Nango positions itself as a game-changer in the SaaS landscape. Based in San Francisco and driven by a compact team of six, Nango's mission is clear: to provide a single API that simplifies all your integration needs.\n\n**The Problem**: Customers expect seamless integration with multiple software solutions when using a SaaS product. Traditional integration approaches can be tedious, time-consuming, and frustrating.\n\n**The Solution**: Nango offers over 300 pre-built integrations that allow businesses to ship the integrations their customers crave, quickly and efficiently. By abstracting API specifics, Nango empowers developers to customize integrations at scale without the usual hassle. This means you can focus on building incredible features rather than getting bogged down with the intricacies of API management.\n\n**Key Features**:\n- **Flexibility**: Think of it as building integrations in-house without the overhead. With support for various authorization types, unified API models, and developer-specific tooling, Nango makes it easy to customize integrations for different customer needs.\n- **Developer Experience**: Nango offers powerful options such as two-way data synchronization, real-time webhooks, and even an AI co-pilot to assist in creating custom integrations. And it doesn't stop there\u2014you have full control over the underlying code, meaning no lock-in with Nango's services.\n- **Security and Privacy**: Nango prioritizes data protection with SOC 2 Type II and GDPR compliance, detailed permission controls, and strong encryption. Your customers can trust that their data is secure.\n\n**Customer Testimonials**: Real stories from existing customers showcase how Nango has transformed their integration processes, accelerating their growth and enabling better service delivery.\n\nIf you're in the developer-tools, SaaS, or open-source spaces and want to enhance your integration strategies, taking a closer look at Nango's offerings could be worthwhile.\n\nFor more details and to explore their documentation, visit [Nango\u2019s website](https://nango.dev). \n\nNango is not just about streamlining integrations\u2014it's about empowering developers to unlock the full potential of software collaboration, swiftly and securely.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/658cc6a3307b66e4e6d91739b30b037d69352cce.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191553Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=09e20379cdc1da75df2a004f1b264530bfce08501209a643c2932f7e8e51b661",
+    "social_links": [
+        "https://www.linkedin.com/company/nangohq",
+        "https://twitter.com/nangohq",
+        "https://github.com/NangoHQ"
+    ],
+    "logo_path": "data/logos\\Nango_logo.png"
+}

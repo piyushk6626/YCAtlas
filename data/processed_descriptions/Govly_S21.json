@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/govly",
+    "name": "Govly",
+    "headline": "Govly is the #1 Market Network for Government Contractors.",
+    "batch": "S21",
+    "description": "\ud83c\udfdb Govly makes it easier to sell to the government\r\n\nWe...\r\n\n\ud83d\uddc4 Centralize government opportunities\r\nGovly starts out with sam.gov opportunities then allows you to ingest any other contract feed.\r\n\nYou can create targeted searches to find what you're looking and get notified immediately when a new opportunity matches any of your saved searches.\r\n\n\ud83e\udd1d Facilitate internal and external collaboration\r\nYou can easily track what you're working on and see what your team is working on.\r\n\nYou can also partner with other organizations in the Govly network to securely share data back and forth and collaborate on bids.\r\n\n\ud83e\udd16 Automate repetitive tasks \r\nYou can automate repetitive task related to specific contracting workflows saving users an average of 10 hours per week.\r\n\n\ud83d\udcca Provide market analytics\r\nYou can use our advanced searching alongside our analytics dashboard to identify trends and new business opportunities.",
+    "activity_status": "Active",
+    "website": "https://www.govly.com/",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:govtech; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Michael Weiland, Founder",
+            "description": "Government contracting expert with 15 years and $2.5B in government sales experience.",
+            "linkedin": "https://www.linkedin.com/in/mikeweiland/"
+        },
+        {
+            "name": "Nick Weiland, Founder",
+            "description": "Hey I'm Nick \ud83d\udc4b\nI run engineering and product at Govly.\nWhen I'm not doing that I co-run operations for my spawn (Elia) and my dog (Ender) with my partner (Maria).",
+            "linkedin": "www.linkedin.com/in/weilandia"
+        },
+        {
+            "name": "Jon Wright, Founder",
+            "description": "Born and raised on Oahu. Currently reside in Colorado. MBA and BA in History. Worked from the bottom to the top in the same industry since college. From customer svc to VP Sales. Cofounded Blazar Technology Solutions that had a unique twist to the Federal IT market. Cofounded Govly which developed a software tool that changes how companies can manage and respond to the Federal RFQ process, while collaborating in a social network platform. Passions include fly fishing, tennis and family.",
+            "linkedin": "https://www.linkedin.com/in/jon-wright-a9227a2/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Govly is carving a niche in the government contracting landscape as an AI-powered market network, aimed squarely at simplifying the procurement process for contractors. Founded in 2021 and hailing from San Francisco as part of Y Combinator's Batch S21, Govly\u2019s mission is straightforward: to be the premier platform for government contractors.\n\n### What Does Govly Do?\n\nAt its core, Govly centralizes government opportunities, initially pulling data from sources like sam.gov and then integrating with other contract feeds. This means contractors can set up targeted searches and get notifications whenever new opportunities arise that fit their specific criteria. \n\nCollaboration is another key feature. Govly enables teams to easily track ongoing projects while allowing for secure data sharing and joint bidding efforts with other organizations in its network. In a world that thrives on efficiency, automation of repetitive tasks emerges as a game changer\u2014users reportedly save an average of 10 hours a week by streamlining their contracting workflows.\n\nMoreover, Govly offers market analytics through its advanced search and analytics dashboard. This feature enables users to uncover trends and new business opportunities, essentially serving as a treasure map for things that matter in the government sector.\n\n### Team & Structure\n\nGovly operates with a compact team of six, led by Group Partner Brad Flora. This small but mighty group is focused on creating the most user-friendly solution for contractors trying to navigate the often convoluted landscape of government procurement.\n\n### Product Highlights\n\n1. **Opportunity Tracking**: Set alerts for specific opportunities and never miss a lead.\n2. **Collaborative Features**: Workspaces for seamless group efforts and data sharing.\n3. **Automation**: Save significant time by automating repetitive tasks related to contract workflows.\n4. **Market Insights**: Use analytics to capitalize on emerging trends and opportunities.\n\n### Pricing\n\nGovly offers flexible pricing tiers to accommodate various business sizes\u2014from small startups to large enterprises. The Basic plan, priced at $3,000 per year, is perfect for smaller businesses, while the Plus plan, at $20,000 per year, is tailored for medium-sized organizations. Larger firms may seek a custom quote through the Enterprise plan that offers extensive features such as automated contract compliance.\n\n### Customer Impact\n\nGovly isn't just a platform; it\u2019s a catalyst for success in the contracting world. Feedback from clients like Hewlett Packard Enterprise reveals significant increases in bid rates after using Govly, illustrating its effectiveness.\n\nIn summary, Govly stands as a robust ally for contractors aiming to optimize their government sales pitches. With powerful tools for opportunity management, collaboration, and analytics, it positions itself as a must-have for any serious player in the government contracting arena. For more information, check out their [website](https://www.govly.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/93a0df244bd22f7e9769c4877b2a738d6ede1834.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191403Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6d1c7c0193f8afff61f286a8626689b00b15695121902b52628ed2c0f3f758d8",
+    "social_links": [
+        "https://www.linkedin.com/company/govly"
+    ],
+    "logo_path": "data/logos\\Govly_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/knowtex",
+    "name": "Knowtex",
+    "headline": "Making doctors 2x more efficient with AI note-taking & charge capture",
+    "batch": "S22",
+    "description": "We\u2019re on a mission to leverage AI and voice technology to solve inefficiencies and revenue leakage in our healthcare system. With the rise of EHRs, the manual documentation burden on doctors has never been higher, leading to burnout and fatigue and high attrition rates. Assigning the correct diagnosis and billing codes is crucial for proper reimbursement and patient care, but medical coding is becoming more and more complex each year with growing numbers of codes (over 145,000 now), and doctors are unsupported by current technology to keep up with its ever increasing requirements. $125 billion is left on the table each year by healthcare organizations due to improper documentation and coding. \r\n\nKnowtex creates visit notes with up-to-date and accurate reimbursement codes from doctor-patient conversations, allowing the doctor to focus on patient care and preventing revenue leakage for hospital systems through standardized, transparent, and accurate documentation.",
+    "activity_status": "Active",
+    "website": "http://www.knowtex.ai/",
+    "founded_date": 2022.0,
+    "team_size": null,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:health-tech; industry:b2b; industry:productivity; industry:digital-health; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Caroline Zhang, Founder",
+            "description": "Caroline is the CEO of Knowtex. Before Knowtex, she worked in biomedical research at the Salk Institute of Biological Studies, investment banking at Morgan Stanley, and AI research and policy initiatives at Schmidt Futures. Caroline graduated from Stanford University with her master\u2019s degree in Computer Science (concentration in AI), and an undergraduate degree in Economics with a minor in International Relations.",
+            "linkedin": "https://www.linkedin.com/in/czhang21/"
+        },
+        {
+            "name": "Jocelyn Kang, Founder",
+            "description": "Jocelyn is the CTO of Knowtex. Before Knowtex, she worked at several startups in a variety of positions ranging from product manager to product designer to software engineer. She was a founding member of the product team at Learn to Win and has worked on AI/ML teams. Jocelyn graduated Phi Beta Kappa and Summa Cum Laude from Stanford University while pursuing an interdisciplinary degree in CS + Linguistics/Psychology, and a minor in Philosophy.",
+            "linkedin": "https://www.linkedin.com/in/jocelynkang/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Knowtex: Revolutionizing Healthcare Documentation with AI**\n\nFounded in 2022 and part of Y Combinator's Batch S22, Knowtex is on a mission to enhance the efficiency of healthcare professionals. With a headquarters in San Francisco, the company aims to make doctors twice as efficient through advanced AI-driven note-taking and charge capture technologies.\n\nThe healthcare industry is facing a crisis. Electronic Health Records (EHRs) have introduced a massive documentation burden, leading to doctor burnout and high attrition rates. In fact, a staggering $125 billion is lost annually due to inadequate documentation and complex medical coding\u2014which now boasts an overwhelming 145,000 codes. To tackle these challenges, Knowtex leverages AI and voice technology, transforming doctor-patient conversations into detailed notes and accurate billing codes.\n\n### Key Features\n- **Automated Workflows**: Knowtex eliminates the tedious administrative tasks, saving clinicians over two hours a day by generating detailed notes directly from conversations.\n- **Accurate Billing**: Instantly creates ICD-10, E&M, HCC, and CPT codes tailored to the complexity of the interaction, ensuring providers get paid what they're due.\n- **Multilingual Capabilities**: The software can understand accents and dialects from over 99 languages, making it accessible to a diverse range of patients.\n- **Easy Integration**: Knowtex integrates seamlessly with most EHR systems, allowing for smooth transitions and historical data synthesis.\n\n### User Testimonials\nThe voices of satisfied users are powerful. Doctors report significantly reduced time spent on documentation, allowing them to focus more on patient care. For example, physicians have noted improvements in their work-life balance, with many expressing joy in connecting more deeply with their patients during visits instead of being distracted by typing notes.\n\n### The Impact\nBy providing a streamlined, AI-powered solution to documentation and billing, Knowtex addresses a critical pain point in healthcare. As clinicians become more efficient, they can devote more attention to patient care, ultimately improving outcomes and satisfaction for both doctors and patients.\n\n### Interested in Learning More?\nIf you're intrigued by the potential of AI in healthcare and want to explore how Knowtex can transform your practice, they offer a free 7-day trial with unlimited notes. You can start here: [Get Started with Knowtex](http://www.knowtex.ai/).\n\nIn the landscape of healthcare technology, Knowtex is not just another tool\u2014it's a paradigm shift toward smarter, more efficient medical practice. The future of healthcare documentation looks promising, and Knowtex is leading the charge.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0ea21d5026bc4b152141b56ee7fb429bd7e9f6a0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191452Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c62b6b5c3908a6b1c7ffaab747e3e669e8f6f2919992f49cbc0bd0eddc4e1ea0",
+    "social_links": [
+        "https://www.linkedin.com/company/knowtexai",
+        "https://twitter.com/knowtexai",
+        "https://www.facebook.com/knowtexai",
+        "https://www.crunchbase.com/organization/knowtex"
+    ],
+    "logo_path": "data/logos\\Knowtex_logo.png"
+}

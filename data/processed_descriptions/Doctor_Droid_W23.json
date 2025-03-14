@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/doctor-droid",
+    "name": "Doctor Droid",
+    "headline": "Your best friend in production.",
+    "batch": "W23",
+    "description": "Doctor Droid is an automated diagnosis and troubleshooting assistant for engineering teams.\r\n\nDoctor Droid integrates with your existing monitoring stack (10+ tools supported) and assists with automated diagnosis, troubleshooting recommendations and more. \r\n\nGet started\r\n\nTo get an automated report on the state of alerting & noise in your company, try out our free report generator today -- https://drdroid.io/doctor-droid-slack-integration",
+    "activity_status": "Active",
+    "website": "https://drdroid.io/",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Siddarth Jain, Founder",
+            "description": "Co-Founder & CEO at Doctor Droid. \n\nPreviously investor at Accel, Data Scientist & Chief of Staff at Shadowfax. Studied Electrical Engineering from IIT Delhi",
+            "linkedin": "https://www.linkedin.com/in/siddarth-jain227/"
+        },
+        {
+            "name": "Dipesh Mittal, Founder",
+            "description": "Founder and architect of Doctor Droid, building on 10 years in software engineering across logistics (Shadowfax), healthcare (Labstreet) and fintech (Paypal).\nPersonally a big fan of science & fantasy fiction, enjoy cycling and traveling to historical monuments.",
+            "linkedin": "https://www.linkedin.com/in/dipesh-mittal/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: Doctor Droid\n\n**Founded:** 2022  \n**Location:** San Francisco, California  \n**Team Size:** 6 employees  \n**Y Combinator Batch:** W23  \n**Group Partner:** Nicolas Dessaigne  \n\n---\n\n#### Mission\nDoctor Droid aims to be \"Your best friend in production,\" focusing on reducing alert noise and enhancing overall operational efficiency for engineering teams.\n\n---\n\n### Product Offerings\nInitially launched as an automated diagnosis and troubleshooting assistant for engineering teams, Doctor Droid has evolved to integrate seamlessly with your existing monitoring stack, supporting over 10 tools. Key functionalities include:\n\n- **Real-Time Alert Noise Reduction:** Minimizes unnecessary alerts to focus on what's truly critical.\n- **Alert Intelligence:** Provides smart suggestions to manage alerts effectively.\n- **PlayBooks:** Customizable guides for troubleshooting based on company-specific contexts.\n- **AI Ops:** Implements AI-powered incident resolution strategies.\n- **Incident Intelligence:** Analyzes incidents to derive insights and improve future responses.\n\n### Key Features\n1. **Investigation Insights:** Quickly analyze extensive data across tools to identify root causes and remedies.\n2. **Intelligent Assignment:** Automate task allocation based on team availability and historical ticket data.\n3. **Real-Time Assistance:** Access actionable insights during the troubleshooting process.\n4. **Automated Introspection:** Generate detailed postmortems and update SOPs automatically, facilitating continuous learning.\n\n---\n\n### Community and Resources\nDoctor Droid engages with a community of engineers, allowing users to share experiences and insights through its Slack community. Additionally, they offer various resources such as documentation, integrations, and a blog to spread knowledge and best practices.\n\n### How to Get Started\nInterested teams can explore their free report generator at [Doctor Droid\u2019s website](https://drdroid.io/) to assess alert noise and alert states in their company. \n\n---\n\n### Testimonials\nDoctor Droid has garnered positive feedback from its users, such as:\n\n- **Onkar Kore, Senior Principal Engineer:** Praised the tool for prioritizing alerts and minimizing noise.\n- **Rishabh Singh, Staff Software Engineer:** Highlighted its effectiveness in enabling informed decision-making.\n\n---\n\n### Conclusion\nIf you're part of an engineering team dealing with alert fatigue, Doctor Droid stands out as a comprehensive solution designed to streamline monitoring and incident response through powerful automation. With its tools, your engineers can finally focus on solving problems instead of drowning in alerts. \n\nFor detailed insights and features, visit their [website](https://drdroid.io/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6b57f1a7b6dd9a5c9660f68f80895462c94843d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191124Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bc456df71e3b6fdcf6a6dc027418388c6cc968dee2a80db27fe9ec95052ad45f",
+    "social_links": [
+        "https://www.linkedin.com/company/dr-droid/",
+        "https://twitter.com/DrDroidDev",
+        "https://github.com/DrDroidLab/"
+    ],
+    "logo_path": "data/logos\\Doctor_Droid_logo.png"
+}

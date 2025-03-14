@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/heycharge",
+    "name": "HeyCharge",
+    "headline": "Low-cost, high-scale EV charging platform for apartments (and more).",
+    "batch": "S21",
+    "description": "EV charging infrastructure today is expensive, difficult to install, and doesn't integrate well with existing products, services, and businesses. HeyCharge solves all of these problems with ultra-low-cost, plug-and-play EV chargers that don't require internet connections and integrate with third-party products via our SDK and APIs. Our customers are energy utilities, property operators, mobility service providers, and more.",
+    "activity_status": "Active",
+    "website": "https://heycharge.com/",
+    "founded_date": 2020.0,
+    "team_size": 17.0,
+    "location": "Munich, Germany",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:climate",
+    "founders": [
+        {
+            "name": "Chris Carde, Founder",
+            "description": "Experience at Google, Mercedes-Benz, E.ON Energy, and at the UC Davis Hybrid Electric Vehicle Center. Experienced product and engineering leader and executive. I love dogs. And airplanes.",
+            "linkedin": "https://www.linkedin.com/in/pilotchris/"
+        },
+        {
+            "name": "Robert Lasowski, Founder",
+            "description": "From the very beginning of my career in 2005, I have been in charge to deliver end-to-end innovations around connected, shared and electric mobility. Being responsible for designing mobility concepts, assessing latest technology trends, and creating long-term go-to-market strategies within the smart mobility eco-system got me excited to start an own venture. And here I am - really happy to be part of HeyCharge\u2019s journey!",
+            "linkedin": "https://www.linkedin.com/in/dr-robert-lasowski-0b60077b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "HeyCharge is a Munich-based startup focused on creating low-cost, high-scale electric vehicle (EV) charging platforms for residential apartments and other locations. Founded in 2020, the company is part of Y Combinator's S21 batch and features a dedicated team of 17 professionals.\n\nThe crux of HeyCharge's innovation lies in its ultra-low-cost, plug-and-play EV chargers, which steer clear of expensive installations and complex setups. These chargers work without an internet connection, a game changer for areas with poor connectivity. By integrating seamlessly with third-party products through their API and SDK, HeyCharge makes EV charging not only accessible but also efficient for property operators, energy utilities, and mobility service providers.\n\n### Key Features:\n- **Simplicity and Cost Efficiency:** Installation can be performed by any trained electrician, thus significantly reducing labor costs and installation times. This makes it easier for businesses to expand their charging networks rapidly.\n- **Low Connectivity Operation:** Unlike traditional systems, HeyCharge's technology does not rely on continuous internet access, ensuring that customers can charge reliably in areas where connectivity is unreliable.\n- **Integrated Billing and User Experience:** Their platform offers a user-friendly experience with integrated billing systems that streamline operations for facility managers. Users can access energy consumption details directly through the HeyCharge app, eliminating the need for physical cards.\n\n### Current Developments:\nHeyCharge has attracted attention for its impactful technology and partnerships. One notable collaboration includes a venture with Vonovia, Europe\u2019s largest residential real estate company, aimed at delivering affordable EV charging solutions across Germany.\n\nIn a world rapidly shifting toward electrification, HeyCharge is poised to solve pressing challenges in the EV infrastructure space. By focusing on reliability, cost reduction, and ease of use, they are effectively addressing the pain points that have hindered broader adoption of EV charging solutions.\n\nIf you're interested in exploring more, you can visit [HeyCharge's website](https://heycharge.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fbe99669a613818899adfe7531b0f90e13dcbe18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191418Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c6e6edc5016c52e6703060716f2cc85794bd00b17fa388c59844ca39b1306a75",
+    "social_links": [
+        "https://www.linkedin.com/company/heycharge",
+        "https://www.facebook.com/heycharge.io",
+        "https://www.crunchbase.com/organization/heycharge"
+    ],
+    "logo_path": "data/logos\\HeyCharge_logo.png"
+}

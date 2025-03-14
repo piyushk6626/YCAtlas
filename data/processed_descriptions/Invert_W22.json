@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/invert",
+    "name": "Invert",
+    "headline": "Data analytics software for biomanufacturing.",
+    "batch": "W22",
+    "description": "We build software to manage, analyze, and optimize bioprocessing data. Our initial customers are bio-industrial companies, who produce various products in bioreactors.",
+    "activity_status": "Active",
+    "website": "http://www.invertbio.com/",
+    "founded_date": 2021.0,
+    "team_size": 25.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:cellular-agriculture; industry:machine-learning; industry:synthetic-biology; industry:biotech; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Martin T. Permin, Founder",
+            "description": "Hi, I'm Martin. I care about bio and data stuff. I also like to run really long distances on mountain trails.\n\nPreviously, I worked at Airbnb, and Hive (YC s14).",
+            "linkedin": "https://www.linkedin.com/in/martin-tromp-permin-99064792/"
+        },
+        {
+            "name": "Mads Ingwar, Founder",
+            "description": "Hi\u2013I'm Mads. I like numbers, data and machine learning stuff.",
+            "linkedin": "https://www.linkedin.com/in/madsingwar/"
+        },
+        {
+            "name": "Holger Thorup, Founder",
+            "description": "Hey, I am Holger \ud83d\udc4b  I'm engineer and product person. I've built a handful of companies and most recently was VP Eng. at Zeronorth.",
+            "linkedin": "https://www.linkedin.com/in/holgerthorup/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Invert is a software company based in San Francisco, founded in 2021 and notably part of Y Combinator Batch W22. Their mission is to revolutionize data analytics for biomanufacturing, focusing on the management, analysis, and optimization of bioprocessing data. Invert primarily serves bio-industrial companies that utilize bioreactors to produce various products.\n\nWith a team of 25 employees, Invert is spearheaded by Jared Friedman as their Group Partner. The company has carved a niche for itself in the biotech space, tagged with keywords that resonate with cutting-edge innovation \u2014 from **cellular agriculture** to **machine learning** and **synthetic biology**.\n\nOn their platform, Invert enables users to get clean, standardized, and AI-ready data from multiple sources, allowing for seamless analysis, model training, and automation. They provide a suite of integrated tools for data management, analysis, and modeling, simplifying what can often be a daunting process. Their tools empower customers to streamline planning, analyze metrics, and create predictive models, all while ensuring data reliability and consistency.\n\nTheir website features various resources, including documentation, pricing, a company blog, and career opportunities, making it easy for potential clients and team members to engage. You can check them out at [Invert Bio](http://www.invertbio.com/).\n\nIn summary, Invert is positioned at the intersection of software and biotechnology, focused on enhancing data handling in the biomanufacturing sector. Their vision not only helps companies manage their data more effectively but also accelerates innovation in bio-industrial applications, making a case for a more data-driven future in biotechnology.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5237e10aad19dfce9df039cedf70e97aa8fbecc1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191437Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=07eb15facadcebd5093642f1d6732a5541c4688e752395d4dcdf79610312644f",
+    "social_links": [
+        "https://www.linkedin.com/company/invertinc"
+    ],
+    "logo_path": "data/logos\\Invert_logo.png"
+}

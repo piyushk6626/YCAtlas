@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/cellchorus",
+    "name": "CellChorus",
+    "headline": "The dynamic single-cell analysis company",
+    "batch": "S21",
+    "description": "At CellChorus, we apply artificial intelligence to evaluate thousands of microscopy videos in parallel to evaluate how immune cells move, interact and perform over time. This allows our customers to discover, develop, manufacture and deliver cell therapies, antibodies, vaccines and other novel therapies faster, at lower expense, and with higher rates of success.\r\n\nOur customers include top-25 biopharma companies and seed-stage biotechs that are developing cell therapies, antibody therapeutics and vaccines (including one of the few companies with an approved CAR T cell therapy).\r\n\nHear from the team at https://www.youtube.com/watch?v=IE9x_tm0XnI",
+    "activity_status": "Active",
+    "website": "https://cellchorus.com",
+    "founded_date": 2020.0,
+    "team_size": 4.0,
+    "location": "Houston, TX",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-powered-drug-discovery; industry:machine-learning",
+    "founders": [
+        {
+            "name": "Dan Meyer, Founder",
+            "description": "Daniel Meyer is the CEO of CellChorus, the leader in providing dynamic single-cell functional analysis to the life sciences industry. \n\nDan was the Chief Operating Officer and a board member of Genospace until its acquisition by HCA Healthcare (NYSE:HCA). He was a member of the venture capital investment teams at Arboretum Ventures and PJC.vc.\n\nDan holds a B.A. in mathematics and economics from Middlebury College and an M.B.A. from the Tuck School of Business at Dartmouth.",
+            "linkedin": "https://www.linkedin.com/in/danmeyer/"
+        },
+        {
+            "name": "Navin Varadarajan, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/navin-varadarajan-95207814"
+        }
+    ],
+    "status": true,
+    "generated_description": "**CellChorus: Dynamic Single-Cell Analysis**\n\nFounded in 2020 and part of Y Combinator's Batch S21, CellChorus is bringing a fresh and fierce approach to single-cell analysis based in Houston, Texas. With a compact team of four, they leverage artificial intelligence to transform how scientists visualize and analyze immune cell interactions through their unique TIMING\u2122 platform\u2014Time-lapse Imaging Microscopy in Nanowell Grids.\n\n**What They Do:** \nCellChorus utilizes cutting-edge technology to evaluate thousands of microscopy videos simultaneously. This innovative approach allows them to accurately monitor how immune cells move, interact, and perform over time. The result? Quicker, cheaper, and more successful development of cell therapies, antibodies, and vaccines. They cater to a range of clients, from top-25 biopharma companies to budding biotech startups, including firms with approved CAR T-cell therapies.\n\n**Key Technologies:**\n- **Artificial Intelligence:** They apply machine learning to optimize the analysis of cell behavior.\n- **TIMING\u2122 Platform:** Offers spatiotemporal performance evaluation, enabling researchers to understand which immune cell candidates are worthy of clinical trials.\n\n**Broad Applications:** \nFrom characterizing migration dynamics and cell death to integrating data from various analysis methods (like RNA sequencing and flow cytometry), their technology is versatile and applicable across a spectrum of biological queries.\n\n**Why It Matters:** \nThe implications are significant. With their platform, scientists can spot new biological insights, driving forward hypotheses that may have otherwise remained unexplored. As Navin Varadarajan, PhD and founder, notes, \u201cEverybody is used to running assays, but with TIMING we can see new biology that we didn\u2019t even think about.\"\n\nFor those interested in deeper engagement, you can view more about CellChorus and its innovative advancements [here](https://cellchorus.com), or hear from the team directly through their [YouTube video](https://www.youtube.com/watch?v=IE9x_tm0XnI).\n\nIn a nutshell, CellChorus is redefining the landscape of drug discovery, making strides toward more efficient therapeutic development with a powerful blend of AI and cellular insights.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/eda0054e6efb72a160406a2ddef96606f166d48a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191045Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3d78a1a0e5627e7ddff30fe9f58da310ed665a77f5f033a98fbd85cc3c52b339",
+    "social_links": [
+        "https://www.linkedin.com/company/cellchorus",
+        "https://twitter.com/CellChorus",
+        "https://www.crunchbase.com/organization/cellchorus"
+    ],
+    "logo_path": "data/logos\\CellChorus_logo.png"
+}

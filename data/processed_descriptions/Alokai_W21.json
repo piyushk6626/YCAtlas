@@ -1,0 +1,45 @@
+{
+    "links": "https://www.ycombinator.com/companies/alokai",
+    "name": "Alokai",
+    "headline": "Frontend Platform for eCommerce",
+    "batch": "W21",
+    "description": "Alokai is an award-winning and pioneering global technology startup setting a new standard in online shopping. Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends.Founded in 2021, Alokai (prev. Vue Storefront) is a best-in-class composable commerce solution and market-leading Frontend as a Service currently used by 3000+ live stores around the world. With a remote, global team of 100+ people and offices in San Francisco and Warsaw, Poland, customers include Movado, SPAR Inc., or Brompton Bikes. Supported by 130+ partners and a community of 10,000+ developers, Alokai and its leaders are recipients of several industry awards, including Europe\u2019s top tech startup prize and recognition from Forbes magazine.",
+    "activity_status": "Active",
+    "website": "https://www.alokai.com",
+    "founded_date": 2020.0,
+    "team_size": 100.0,
+    "location": "Warsaw, Poland",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:e-commerce",
+    "founders": [
+        {
+            "name": "Patrick Friday, Founder",
+            "description": "I have 10 years of experience in B2B Sales & Marketing. Since 2012 I worked mainly with iOS/Android apps, starting at Vivino, and then other startups & agencies in the eCommerce industry. As I was both on the product & agency side I have a good understanding what it takes to build amazing products but also handle the development of it. After seeing great developments in Web and gap in the market for great eCommerce frontend framework I started Vue Storefront with my Co-Founder Filip in 2017.",
+            "linkedin": "https://www.linkedin.com/in/fridaypwa/"
+        },
+        {
+            "name": "Filip Rakowski, Founder",
+            "description": "I started programming at 13 and worked with eCommerce stacks from the very beginning. Previously involved in Open Loyalty, SAP Spartacus. Heavily focused on the human side of development and its correlation to business values.",
+            "linkedin": "https://www.linkedin.com/in/filip-rakowski-a43671129/"
+        },
+        {
+            "name": "Bart Roszkowski, Founder",
+            "description": "Boasting three successful exits in e-commerce, fintech, and B2B:\n\n\ud83c\udf10 Vue Storefront: Transformed a startup into a $100M+ valued leader.\n\ud83d\udcbc mfind.pl: Made it Poland's 2nd largest insurance aggregator.\n\ud83d\ude80 Nexto: Innovated the CEE digital reading scene with Zinio.\n\nSkills:\n\nStrategic Vision: Expertise in business growth.\nTeam Leadership: Passion for inspiring teams.\nCapital Acumen: Secured $40M+ funding.",
+            "linkedin": "https://www.linkedin.com/in/roszkowski/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Alokai is an innovative technology startup reinventing the world of online shopping with its Frontend as a Service (FaaS) solution tailored for eCommerce. Founded in 2021 (initially as Vue Storefront) and backed by Y Combinator's W21 batch, Alokai has swiftly established itself as a leader in composable commerce, currently supporting over 3,000 live stores globally.\n\nThe mission here is straightforward: to simplify the complexities of building and managing eCommerce frontends. Alokai\u2019s platform allows businesses to integrate various technologies seamlessly, making it easier for them to scale and adapt their online presence without being locked into monolithic systems.\n\nHeadquartered in Warsaw, Poland, with a vibrant remote team of over 100 people across the globe, Alokai boasts a clientele that includes notable names like Movado, SPAR Inc., and Brompton Bikes. The company's achievements haven't gone unnoticed; it holds numerous industry awards, including recognition from Forbes and accolades as one of Europe's top tech startups.\n\nAlokai offers a suite of products designed to optimize the eCommerce experience. This includes the Alokai Storefront, a production-ready application that enables rapid website development; Alokai Connect, an orchestration API for seamless integrations; Alokai Cloud, which provides optimized hosting services; and the Alokai Console for monitoring and management.\n\nWhat\u2019s more, Alokai thrives on community interaction with over 10,000 developers and 130+ partners, creating a healthy ecosystem for innovation. They also emphasize developer tools, open-source resources, and thought leadership in areas like headless commerce and MACH architecture.\n\nIn a nutshell, Alokai is not just about providing tools; it's about empowering businesses to evolve dynamically in the fast-paced world of eCommerce. If you\u2019re looking to enhance your online shopping experience and delve into composable commerce, Alokai might just be the partner you need.\n\nFor more information, check out their website: [Alokai.com](https://www.alokai.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/44baef1445ed0705dd5ed3a0c1a06a5c117a00cd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190955Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=63a045b840bb349077aa147f12a9ced4a84ddd39e306f22f38b8d761222413a8",
+    "social_links": [
+        "https://www.linkedin.com/company/vue-storefront/",
+        "https://twitter.com/VueStorefront",
+        "https://www.facebook.com/Vuestorefront",
+        "https://www.crunchbase.com/organization/vue-storefront",
+        "https://github.com/vuestorefront"
+    ],
+    "logo_path": "data/logos\\Alokai_logo.png"
+}

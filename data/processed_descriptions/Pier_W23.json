@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/pier",
+    "name": "Pier",
+    "headline": "Stripe for Credit - End-to-end credit infra via API",
+    "batch": "W23",
+    "description": "We\u2019re building an API for launching credit products. We enable companies to compliantly offer credit by handling the tech stack for origination, underwriting and loan management with just a few lines of code. We have built-in compliance guardrails to ensure that our customers comply with state and federal regulations and assist with licensing requirements and license management.",
+    "activity_status": "Active",
+    "website": "http://www.pier-finance.com",
+    "founded_date": 2022.0,
+    "team_size": 12.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:fintech; industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jessica Zhang, Founder",
+            "description": "Jessica is CEO & Co-Founder at Pier. Previously, CoS/PM at Stilt (YC W16, acq. by JGW) and founding team for Onbo, Stilt\u2019s B2B credit API product. 2x founder (Oppti, acquired), ex-JPMorgan, ex-McDonald's. $7B+ underwriting/transaction experiences across private equity, investment banking and management consulting. She's a Cornell alum and has managed teams of 30+ ppl. Fun fact: she's a ski instructor and her goddaughter is a chihuahua-mix shelter adopt.",
+            "linkedin": "https://www.linkedin.com/in/jessica-zhang-87967280/"
+        },
+        {
+            "name": "Alex Hegevall Clarke, Founder",
+            "description": "I'm CTO & co-founder at Pier. Previously I was part of the founding team for Onbo at Stilt (YC W16, acq. by JGW) where I led customer integrations and product development. Together with Jess, we took Onbo from 0 to 1 and $3mm ARR in just a few months. Before that I was at Plaid and have 6+ years building in fintech. Fun fact: I love to shred a good mogul run and have a one-eyed, adopted street cat from Austin.",
+            "linkedin": "https://www.linkedin.com/in/hegevall/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Pier: Your Go-To API for Credit Infrastructure\n\n**Overview**\nFounded in 2022 and hailing from Y Combinator's W23 batch, Pier is a fintech startup based in San Francisco, revolutionizing the way businesses offer credit. Think of it as \u201cStripe for Credit.\u201d They provide an end-to-end credit infrastructure through a robust API, allowing companies to launch their own credit products effortlessly. \n\n**Mission**\nPier\u2019s mission is straightforward: enable businesses to compliantly offer credit through a tech stack that handles everything from origination to underwriting to loan management\u2014all with just a few lines of code. Their built-in compliance guardrails ensure that clients adhere to state and federal regulations, easing the burden of navigating licensing requirements.\n\n**Team and Support**\nThe company operates with a compact team of 12, under the guidance of Group Partner Brad Flora. Despite its small size, Pier is making big waves in the developer-tools and SaaS space, focusing on the B2B fintech sector.\n\n**Products**\nPier's API supports various credit products, making it flexible for various use cases:\n- **BNPL (Buy Now Pay Later)**\n- **Credit Builder:** Helps users improve their credit scores.\n- **Merchant Advance**\n- **Personal Loans**\n\nThey also offer tools for compliance management and state licensing, making sure that their clients remain compliant throughout their credit offerings.\n\n**Developer-Focused**\nThe API is designed with developers in mind\u2014lightweight and easy to integrate. Pier provides detailed API documentation, a quick start guide, and sandbox access to facilitate experimentation and prototyping.\n\n**Why Choose Pier?**\n- **Speed:** Roll out credit products in weeks, not months.\n- **Developer-Driven:** With a flexible API, getting started takes just a few lines of code.\n- **Compliance Partner:** They prioritize long-term sustainability and regulatory adherence.\n\n**Testimonials**\nCustomers praise Pier for enabling them to bring their credit solutions to market rapidly, often saving them months of work and significant financial resources. One satisfied client, Josh Patel, CEO of Marley, noted that working with Pier instills great confidence in building compliant credit products. \n\n**Partnerships and Validation**\nPier is backed by notable investors and industry leaders such as Morgan Stanley, Airbnb, and OpenAI, reinforcing its credibility in the market.\n\n**Start Building with Pier**\nIf you\u2019re a company looking to integrate credit offerings, Pier invites you to get a demo or access their sandbox to start experimenting right away. You can learn more and explore their services on their [website](http://www.pier-finance.com).\n\nIn summary, Pier isn\u2019t just a technology provider; it\u2019s a compliance partner helping businesses smoothly navigate the complexities of financial technology\u2014because in the credit world, it\u2019s not just about moving fast; it\u2019s about moving smart.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f53af7fa542c0284937f9a9a55175ae5e40a0650.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191638Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2c66c0ea071414f86273fa0b7f57f565e36ac8c2c2679fcf7678bc0441a52bca",
+    "social_links": [
+        "https://www.linkedin.com/company/pier-finance/"
+    ],
+    "logo_path": "data/logos\\Pier_logo.png"
+}

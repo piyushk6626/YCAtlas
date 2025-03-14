@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/trellis",
+    "name": "Trellis",
+    "headline": "AI-powered workflows for unstructured data",
+    "batch": "W24",
+    "description": "Trellis converts your unstructured data into SQL-compliant tables with a schema you define in natural language. With Trellis, you can now run SQL queries on complex data sources like financial documents, contracts, and emails. Our AI engine guarantees accurate schema and results.\r\n\nLeading enterprises use Trellis to:\r\n\n1. Unlock hidden revenue in their customer data (e.g., Underwriting teams use Trellis to extract key features from transaction data and build better risk models.)\r\n2. Supercharge RAG applications by enabling end-users to ask analytical questions not possible before with traditional Vector DB (e.g., what are the top three features that users are requesting)\r\n3. Enrich their data warehouse with business-critical information (e.g., Retrieving detailed pricing and quantity information of products sold on competitor websites)",
+    "activity_status": "Active",
+    "website": "https://runtrellis.com/",
+    "founded_date": 2023.0,
+    "team_size": 34.0,
+    "location": null,
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:data-engineering; industry:infrastructure; industry:databases",
+    "founders": [
+        {
+            "name": "Mac Klinkachorn, Founder",
+            "description": "Mac is the co-founder and CEO of Trellis. Previously, he worked at the Stanford AI lab on large multimodal models with the DoD and built ML infrastructure at Cresta, Moveworks, and Amazon. Mac started his first company at 15, building water leak detection systems, and grew it to six figures in ARR.",
+            "linkedin": "https://linkedin.com/in/sirapop-klinkachorn-stanford"
+        },
+        {
+            "name": "Jacky Lin, Founder",
+            "description": "Jacky is a co-founder of Trellis and has taught hundreds of Stanford graduate students how to build, train, and deploy AI models in the Stanford School of Engineering & Graduate School of Business. Previously, he worked at Meta, the World Bank, and Wayfair.",
+            "linkedin": "https://linkedin.com/in/jhslin"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Trellis: Simplifying Unstructured Data with AI**\n\nFounded in 2023, Trellis is a burgeoning startup that shines a light on the untapped potential of unstructured data through its innovative AI-powered platform. Primarily designed for leading enterprises, Trellis transforms complex data\u2014from financial documents to contracts and emails\u2014into SQL-compliant tables. This is done using schemas defined in natural language, meaning that anyone can utilize it without needing a technical background. The real kicker? Their AI engine ensures that the results are consistently accurate.\n\n### What Trellis Does\n\nTrellis is all about unlocking value from data that is often relegated to a digital graveyard. Here are some of the ways businesses benefit from using Trellis:\n\n1. **Hidden Revenue Unlocked**: Underwriting teams can extract key features from transaction data, allowing them to build enhanced risk models and unlock hidden revenue embedded within their customer data.\n   \n2. **Supercharging Applications**: Traditional Vector databases can pose limitations on analytics. Trellis enables users to ask questions that were previously impossible, such as identifying top user-requested features.\n\n3. **Data Warehouse Enrichment**: Trellis provides vital business intelligence, like retrieving competitor pricing information, enriching data warehouses with actionable insights.\n\n### Built for Speed and Flexibility\n\nTrellis is not just about data conversion; it promises rapid processing. Their advanced OCR (Optical Character Recognition) captures text and handwriting with high precision, converting documents into usable data in mere seconds rather than weeks. Whether through customizable APIs or a no-code interface, users have the flexibility to adapt Trellis to their workflow, allowing for a more efficient and effective data operation.\n\n### Security First\n\nEnterprises can breathe a sigh of relief knowing Trellis is built with robust security protocols, including SOC II Type 2 compliance and HIPAA readiness. Notably, their AI doesn\u2019t train on customer data, ensuring confidentiality and data integrity at all stages.\n\n### Key Details\n\n- **Team Size**: 34 employees\n- **Location**: Not specified\n- **Y Combinator Batch**: W24\n- **Website**: [Trellis](https://runtrellis.com)\n\nTrellis is positioning itself as a game-changer in the realm of data engineering, with a clear mission to empower businesses by making hidden insights accessible and actionable. If you're dealing with unstructured data, it might be worth checking them out to see what treasures you can unearth.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a9aa062970cb27a2fb9084b549fe538013596260.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192027Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=60a4f295124cc724999403056b8d2b3aedc068dce51d0ee6ef7f3f50726efbde",
+    "social_links": [
+        "https://www.linkedin.com/company/runtrellis",
+        "https://twitter.com/runtrellis"
+    ],
+    "logo_path": "data/logos\\Trellis_logo.png"
+}

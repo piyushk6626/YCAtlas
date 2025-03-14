@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/forage-2",
+    "name": "Forage",
+    "headline": "Payments infrastructure for government benefits",
+    "batch": "S21",
+    "description": "Forage is a mission-driven payments company that helps businesses accept government benefits through a single, unified API. Today, over 42 million Americans receive government assistance (ex: Supplemental Nutrition Assistance Program, or SNAP) to buy groceries. Starting with enabling EBT SNAP online, Forage builds the financial infrastructure empowering businesses to serve these shoppers online.",
+    "activity_status": "Active",
+    "website": "http://www.joinforage.com",
+    "founded_date": 2020.0,
+    "team_size": 45.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:govtech; industry:payments; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Victor E. Fimbres, Founder",
+            "description": "product & engineering",
+            "linkedin": "https://www.linkedin.com/in/victorefimbres/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Forage: The Clean Payment Infrastructure for Government Benefits**\n\nFounded in 2020 and part of the Y Combinator Batch S21, Forage is on a mission to redefine how government benefits are distributed and used. Based in the heart of San Francisco, the company has grown to a team of 45, led by Brad Flora as their Group Partner.\n\n### What They Do\n\nAt its core, Forage provides a unified API that enables businesses to accept government benefits like the Supplemental Nutrition Assistance Program (SNAP) and EBT Cash payments\u2014both online and in-store. With over 42 million Americans relying on such benefits to purchase essentials, Forage is positioned at a crucial intersection of fintech and social good. \n\n**Key Offerings:**\n- **Online EBT Payments**: Accept EBT SNAP and EBT Cash payments easily through mobile or desktop.\n- **In-Store EBT Payments**: Integrate EBT payment capabilities into point-of-sale (POS) devices.\n\n### Market Opportunity\n\nThe U.S. government pours over $200 billion annually into benefit programs, with a significant uptick in online utilization. Recent figures show that since 2019, households using SNAP benefits online skyrocketed from 35,000 to more than 12 million\u2014a staggering 300x increase. When merchants enable EBT SNAP with Forage, they often see sales grow by over 15%. This not only showcases the potential for revenue but that doing good is good for business.\n\n### Why It Matters\n\nForage isn\u2019t just a payments company; it\u2019s a catalyst for accessibility in essential grocery shopping. By making it simpler for businesses to serve low-income families, they are effectively enhancing the shopping experience and supporting the economy. The company's reliability is impressive, boasting a 99.9% uptime and USDA approval as one of only three providers to process EBT payments.\n\nThe potential impact of Forage is substantial\u2014a streamlined digital payment process for government benefits translates directly into improved accessibility, higher sales, and an enriched shopping environment for millions.\n\n### Who They Work With\n\nForage has collaborated with notable brands such as DoorDash and Thrive Market, allowing these companies to expand their services to a demographic that typically faces barriers in online grocery shopping. \n\n### Conclusion\n\nIn a world where fintech evolves at breakneck speed, Forage stands out with its focus on social impact and its ability to simplify a complex system. If you\u2019re a developer, you\u2019ll find the API documentation comprehensive and tailored to various tech stacks, making integrations as straightforward as possible.\n\nFor more information about Forage, you can visit their [website](http://www.joinforage.com). As they grow, their vision of creating accessible financial infrastructure for government assistance payments could very well reshape the landscape of support for American families.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ed35f35e010b5f80c9e3d585a4e83c4d1b41b9eb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191347Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bcfd78623f5c8bece843c16c142a736f04535bfe5863dae91bed30ed091edc78",
+    "social_links": [
+        "https://www.linkedin.com/company/foragepayments/",
+        "https://twitter.com/joinforage",
+        "https://www.crunchbase.com/organization/forage"
+    ],
+    "logo_path": "data/logos\\Forage_logo.png"
+}

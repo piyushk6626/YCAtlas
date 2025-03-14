@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/thunder-compute",
+    "name": "Thunder Compute",
+    "headline": "Virtualization software to make GPUs 5x cheaper",
+    "batch": "S24",
+    "description": "GPUs are in extremely high demand for AI development. A single GPU server can cost up to $300K. Despite this, GPUs in data centers are only utilized an average of 15-20% of the time. Thunder Compute is building technology to increase GPU utilization from 15-20% to 90%+, meaning that each GPU can be shared by 5x as many developers as in data centers today. Our technology achieves this efficiency gain by allowing all of the servers in a data center to share a single pool of network-attached GPUs rather than physically attaching a GPU to each server. Try Thunder Compute at docs.thundercompute.com/quickstart",
+    "activity_status": "Active",
+    "website": "https://thundercompute.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "Atlanta, GA",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:data-science; industry:cloud-computing; industry:infrastructure",
+    "founders": [
+        {
+            "name": "Carl Peterson, Founder",
+            "description": "CEO of Thunder Compute, formerly Management Consultant at Bain",
+            "linkedin": "https://www.linkedin.com/in/cpeterson42"
+        },
+        {
+            "name": "Brian Model, Founder",
+            "description": "CTO of Thunder Compute, formerly Quantitative Developer at Citadel Securities",
+            "linkedin": "https://www.linkedin.com/in/brian-model/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Thunder Compute: Making GPUs Accessible\n\n**Overview**  \nFounded in 2024 and hailing from Atlanta, GA, Thunder Compute is on a mission to revolutionize GPU accessibility through virtualization. In an era where AI development is exploding, Thunder Compute's team of three aims to tackle the high costs associated with traditional GPU setups and inefficient usage in data centers.\n\n**The Problem**  \nMany developers are aware that a single GPU server can cost upwards of $300K, yet those GPUs are only utilized about 15-20% of the time. It\u2019s a glaring waste of resources. Thunder Compute has identified this inefficiency and is stepping up to transform it.\n\n**The Solution**  \nThunder Compute's technology enables data centers to pool GPU resources instead of tethering them to individual servers. This allows for a staggering potential boost in GPU utilization\u2014from a mere 15-20% to over 90%. By sharing GPUs among multiple developers, each GPU becomes effectively five times cheaper for users, making powerful machine learning capabilities accessible to a wider audience. The company\u2019s approach saves users up to 80% on GPU costs, which is something anyone dabbling in AI will appreciate.\n\n**Pricing and Offering**  \nWith competitive pricing, Thunder Compute offers attractive hourly rates for leading GPUs\u2014like the NVIDIA Tesla T4 at just $0.27/hr and the A100 (40GB) for $0.57/hr. Users can quickly set up and manage GPU instances through a straightforward command-line interface (CLI), which makes onboarding fast and intuitive.\n\n**User Experience**  \nCustomer feedback underscores the satisfaction with Thunder\u2019s ease of use. Users have reported significant cost savings, stating that transcribing extensive data only cost them around $6\u2014an exemplary case of Thunder Compute delivering on its promise.\n\n**Team and Support**  \nWith a compact yet focused team, backed by Y Combinator\u2019s Batch S24, Thunder Compute is primed for scalability. Under the mentorship of Aaron Epstein, the company is deftly navigating early-stage growth and product development.\n\n**Get Involved**  \nInterested parties can try Thunder Compute at [docs.thundercompute.com](https://docs.thundercompute.com/quickstart) or explore their offerings on their main website [thundercompute.com](https://thundercompute.com).\n\n**In Summary**  \nThunder Compute is not just about providing cheaper compute solutions; it's about democratizing access to AI's most powerful tools. If you\u2019re into AI development and looking for an efficient, cost-effective platform, Thunder Compute is certainly worth exploring.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/620ecbe6049a9244ab6ee53ee47d782fafc0da33.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192017Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d964c800543c1f68bd8e42bcdeb5af4dd7f73afa3fb53f20802a003828185fb9",
+    "social_links": [
+        "https://www.linkedin.com/company/102863366",
+        "https://x.com/ThunderCompute",
+        "https://www.crunchbase.com/organization/thunder-9b4c"
+    ],
+    "logo_path": "data/logos\\Thunder_Compute_logo.png"
+}

@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/arroyo",
+    "name": "Arroyo",
+    "headline": "Cloud-native stream processing",
+    "batch": "W23",
+    "description": "Arroyo is a serverless stream processing platform built on top of the open-source Arroyo streaming engine. We allow companies to transform, filter, aggregate, and join their Kafka streams in real-time just by writing SQL. We charge purely based on usage, with no fixed costs or clusters to manage.",
+    "activity_status": "Active",
+    "website": "https://www.arroyo.dev",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "Berkeley, CA",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:open-source; industry:cloud-computing; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Micah Wylde, Founder",
+            "description": "Micah was previously tech lead for streaming compute at Splunk and Lyft, where he built real-time data infra powering Lyft's dynamic pricing, ETA, and safety features. He spends his time rock climbing, playing music, and bringing real-time data to companies that can't hire a streaming infra team.",
+            "linkedin": "https://www.linkedin.com/in/wylde/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Arroyo Overview:**\n\nFounded in 2022, Arroyo is a cloud-native stream processing platform situated in Berkeley, CA, and part of Y Combinator Batch W23. The company operates with a lean team of just two employees, under the guidance of Diana Hu, their Group Partner.\n\n**Mission:**\nArroyo's primary mission is to simplify real-time data processing through a serverless architecture, allowing businesses to process and manipulate Kafka streams effortlessly using SQL queries. \n\n**What They Do:**\nArroyo specializes in a serverless stream processing engine that enables users to transform, filter, aggregate, and join their data streams rapidly\u2014often achieving sub-second results. With a focus on ease of use, Arroyo\u2019s platform is designed so that even those with basic SQL knowledge can build effective streaming pipelines without needing a specialized ops team. The business model is usage-based, with no fixed costs or infrastructure to manage.\n\n**Key Features:**\n- **Real-time Streaming:** Highly efficient at scaling from zero to millions of events per second.\n- **SQL-Driven:** Users can write SQL to manage data streams, making it familiar and approachable.\n- **Support for Various Formats:** Handles JSON, Avro, Parquet, and raw text, with the capacity for custom formats via user-defined functions (UDFs).\n- **Robust Performance:** Built on Rust and using the Arrow in-memory analytics format, Arroyo's performance can outperform similar systems like Apache Flink by as much as 5x.\n- **Connectors:** Integrates seamlessly into existing data stacks with numerous built-in connectors.\n\n**Current Status:**\nRecently, Arroyo has released version 0.13.0, introducing improved features like source metadata reading, operator chaining, and additional connectors (e.g., RabbitMQ). Their documentation offers a plethora of resources to help users get started, leverage SQL functions, and more.\n\n**Community and Outreach:**\nArroyo engages with its user base through platforms like Discord, fostering an approachable community atmosphere. They also maintain an active blog to keep users updated with new features and use cases.\n\nFor further details and to get started, visit their [website](https://www.arroyo.dev). Whether you're looking to build analytical applications or enhance streaming data capabilities, Arroyo positions itself as a valuable asset in the cloud computing landscape. \n\n---\n\nThis summary captures Arroyo's essence: a modern, efficient solution for companies looking to harness the power of real-time data processing without the complexities usually associated with it.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dd5216be47206b0321acb98d535cefeda723b5dc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191005Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8e28d3780794d81f91a167512d9072f7501caceac9a8a71754194e82abd1b382",
+    "social_links": [
+        "https://twitter.com/ArroyoSystems"
+    ],
+    "logo_path": "data/logos\\Arroyo_logo.png"
+}

@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/pumpkin",
+    "name": "Pumpkin",
+    "headline": "A web browser built for human and AI collaboration",
+    "batch": "S24",
+    "description": "Pumpkin is a new type of web browser built for daily collaboration with AI.",
+    "activity_status": "Active",
+    "website": "https://www.browsewithpumpkin.com/",
+    "founded_date": 2024.0,
+    "team_size": 1.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:automation; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sam Crombie, Founder",
+            "description": "Sam is the founder of Pumpkin.\n\nHe has deep expertise in web technologies and automation, previously working as a Product Manager on the Microsoft Edge Browser.\n\nSam received his B.A. in Computer Science from Dartmouth College in 2023.",
+            "linkedin": "https://linkedin.com/in/samcrombie"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Pumpkin: The Future of AI-Enhanced Browsing**\n\nFounded in 2024, Pumpkin is an innovative web browser designed to enhance how humans collaborate with artificial intelligence. Located in the heart of the San Francisco Bay Area and currently part of the Y Combinator Batch S24, Pumpkin is on a mission to redefine our online experience by integrating AI into our daily web interactions.\n\nThe idea behind Pumpkin is straightforward yet transformative: it aims to create a browsing environment where users can seamlessly work alongside AI tools, making the web feel more intuitive and collaborative. This is not just about automation\u2014it's about augmenting human intelligence with AI capabilities.\n\nWith its single-employee team, led by the strategic support of David Lieb as Group Partner, Pumpkin is still in its nascent stages but showing great potential. It presents a unique opportunity for those interested in the intersection of automation and AI, promising to streamline browsing and boost productivity.\n\nYou can explore their offering more at [Browse with Pumpkin](https://www.browsewithpumpkin.com/). If you\u2019re fascinated by how AI can change the way we interact with the internet, keep an eye on this promising venture.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bf56c6de08c5496166477174cb991c05e33f27ed.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191657Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4174fc2e990382b9ac3362ae36e738db5a70f40f58da06043ab588462fbca026",
+    "social_links": [
+        "https://www.linkedin.com/company/pumpkinbrowser",
+        "https://x.com/SamuelCrombie"
+    ],
+    "logo_path": "data/logos\\Pumpkin_logo.png"
+}

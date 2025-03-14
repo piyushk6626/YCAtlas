@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/refine",
+    "name": "refine",
+    "headline": "Open-source Retool for enterprise",
+    "batch": "S23",
+    "description": "refine is an open-source, headless React framework for rapidly building enterprise web applications. It eliminates many repetitive tasks like\r\n\n\u27a1\ufe0f CRUD operations\r\n\u27a1\ufe0f State management\r\n\u27a1\ufe0f Routing\r\n\u27a1\ufe0f Authentication\r\n\u27a1\ufe0f Access Control\r\n\u27a1\ufe0f i18n\r\n\nand saves days of development time.\r\n\nSo far, thousands of great projects have been built by 15,000+ monthly active refine developers. Use cases are ranging from admin panels, dashboards, and internal tools to B2B solutions and complex SaaS interfaces. \r\n\nrefine is backed by a strong community featuring 16K GitHub stars \u2b50\ufe0f, 180+ contributors and 2,500 Discord members. \r\n\nThanks to it's unique \"Headless UI\" approach, refine works with any custom design. It has also ready-made integrations with 4 most popular UI frameworks: Ant Design, Material UI, Chakra UI and Mantine. refine is totally backend agnostic and it can connect to 15+ backend services out-of-the-box, incl. custom REST & GraphQL API's.\r\n\nWith refine, developers always have 100% control over their projects as they build, style and deploy the way they like.",
+    "activity_status": "Active",
+    "website": "https://refine.dev",
+    "founded_date": 2022.0,
+    "team_size": 10.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:web-development; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Civan Ozseyhan, Founder",
+            "description": "Serial entrepreneur & Open-source enthusiast | 15+ years experience in building enterprise software | Co-founder & CEO @ refine",
+            "linkedin": "https://linkedin.com/in/civan-%C3%B6zseyhan-1ab48814"
+        },
+        {
+            "name": "Omer Aplak, Founder",
+            "description": "Co-founder & CTO @ refine. I started my professional software career in high school and dropped out of university in my first year. Developing open-source, building communities, and helping other developers is a passion of mine",
+            "linkedin": "https://linkedin.com/in/%C3%B6mer-faruk-aplak-14b87099"
+        },
+        {
+            "name": "Eren Erkalkan, Founder",
+            "description": "Previous: Worked as Head of Product, founder and CEO in the fields of e-commerce and online dating for almost 15 years. Now: Accompanying the journey of refine, which started as an open-source project in 2022. A React-based framework for the rapid development of web applications.",
+            "linkedin": "https://linkedin.com/in/eren-erkalkan-1b31a89a"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Refine**\n\n**Mission**: Refine is designed to be an open-source retool for enterprises, streamlining the development of web applications with exceptional flexibility.\n\n**Foundation and Funding**: Launched in 2022, Refine is a proud participant in Y Combinator's Batch S23. It\u2019s located in the bustling tech hub of San Francisco, employing a dedicated team of 10 enthusiastic developers.\n\n**Product Offering**: Refine is an open-source, headless React framework that's all about simplifying the development of enterprise-grade web applications. Whether you\u2019re building admin panels, dashboards, or intricate B2B solutions, Refine tackles the repetitive tasks that developers often dread\u2014think CRUD operations, state management, routing, and authentication. By using Refine, developers can save days, if not weeks, of tedious coding. \n\n**Community and Adoption**: The framework has attracted more than 15,000 active developers, leading to thousands of amazing projects. Its robust community shines through with over 16,000 stars on GitHub and 2,500 Discord members\u2014the kind of engagement that tells you this tool is making waves.\n\n**Key Features**:\n- **Headless UI Approach**: This design philosophy allows developers to use custom designs without limitations, while also offering flexible integrations with popular UI frameworks like Ant Design, Material UI, Chakra UI, and Mantine.\n- **Backend Agnostic**: Refine connects seamlessly with over 15 backend services, including custom REST and GraphQL APIs.\n- **Full Control**: Developers maintain 100% control throughout the development process, ensuring they can build, style, and deploy applications that meet their precise needs.\n\n**Security Focus**: Specially tailored for larger organizations, Refine gives top priority to security. It allows self-hosting for compliance, integrates with major Identity Providers, and supports advanced access control models.\n\n**The Sweet Spot**: Unlike drag-and-drop tools that falter under complexity, Refine balances between low-code ease and full-code flexibility, which means businesses can scale effortlessly as they grow.\n\n**Get Involved**: Interested developers can dive right in, using simple commands to scaffold their projects or check out live demos to see Refine in action.\n\n**Join the Community**: For those looking to thrive in the developer ecosystem, the Refine community is vibrant and welcoming\u2014there's a place for you here!\n\nIn essence, Refine not only speeds up your development process but also redefines how enterprises can build powerful applications with a strong community backing. Check it out at [refine.dev](https://refine.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7bffb260d59c5022d355687fb35438006a4b8304.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191712Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a0ccb590106a67acc479f457a954baad14993250d80c167a7f0209c87bc38f0a",
+    "social_links": [
+        "https://www.linkedin.com/company/81566498/",
+        "https://twitter.com/refine_dev",
+        "https://www.crunchbase.com/organization/refine-0e26",
+        "https://github.com/refinedev/"
+    ],
+    "logo_path": "data/logos\\refine_logo.png"
+}

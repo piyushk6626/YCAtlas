@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/reticular",
+    "name": "Reticular",
+    "headline": "Interpretable AI for drug discovery",
+    "batch": "F24",
+    "description": "Reticular helps pharma companies discover drugs with AI models like AlphaFold by making them steerable, just like you can prompt LLMs. Today, limited validation data means companies spend millions on failed experiments trying to steer these models through trial and error. We\u2019re piloting our AI interpretability technology with early-stage biotechs and scaling rapidly. Just a week after our pivot, we identified the first interpretable features ever found in protein models, allowing precise control over biological functions.\r\n\nNithin and John met competing in Biology Olympiads before spending 4 years as roommates at MIT publishing ML/bio research in NeurIPS and Nature. We believe biological models encode far more information than anyone is currently using - our goal is to unlock this potential.",
+    "activity_status": "Active",
+    "website": "https://reticular.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-powered-drug-discovery; industry:generative-ai; industry:biotech; industry:therapeutics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nithin Parsan, Founder",
+            "description": "MIT AI + Bio. Prev. led clinical ML projects at the MIT-IBM Watson AI lab and was an IBO Gold Medalist.",
+            "linkedin": "https://linkedin.com/in/nithin-parsan"
+        },
+        {
+            "name": "John Yang, Founder",
+            "description": "MIT AI + Mathematics '24. Published ML research in NeurIPS and Nature. Prior quant intern at Goldman Sachs. National achievements include USA Brain Bee Champion, USA Biology Olympiad Bronze Medalist, and First Place Euro Challenge Team Captain.",
+            "linkedin": "https://linkedin.com/in/johnyang101"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Reticular: Interpretable AI for Drug Discovery**\n\nFounded in 2024 and based in San Francisco, Reticular is on a mission to revolutionize drug discovery through interpretable artificial intelligence. Initially conceived to assist pharmaceutical companies by making AI models like AlphaFold more navigable\u2014akin to how we can prompt large language models\u2014Reticular addresses a pressing issue in the biotech space: the overwhelming challenge posed by limited validation data. \n\nIn the world of drug discovery, companies often waste millions on experiments that yield little to no meaningful data. It\u2019s a punishing cycle of trial and error that Reticular\u2019s technology seeks to break. By providing an interpretability framework, they empower early-stage biotech firms to steer powerful AI models with far greater precision, even when data is scarce.\n\nThe founders, Nithin and John, both seem to have an impressive pedigree from competing in Biology Olympiads to spending four years at MIT as roommates, during which they published papers in leading journals like NeurIPS and Nature. Their core belief is that biological models, which encode a treasure trove of information, remain underutilized. The goal at Reticular? Unlock that potential.\n\nReticular is scaling quickly, having already identified the first interpretable features in protein models\u2014features that allow for precise control over biological functions. They\u2019re currently working closely with a select group of early-stage biotech partners to further develop this technology.\n\nThe company's focus lies in:\n1. Helping researchers _peep inside_ biological AI for a clear understanding of decision-making processes.\n2. Enabling the _steering of models_ more reliably, even amid data limitations.\n3. _Accelerating development_ to reduce the costs tied to real-world testing.\n4. Ensuring that _safeguards_ are baked directly into model capabilities.\n\nThey firmly believe that the future of drug discovery hinges on how well we can interpret these complex biological AI systems.\n\nBacked by Y Combinator as part of Batch F24, Reticular is comprised of an agile team of two employees, with David Lieb serving as their group partner. Whether it\u2019s through collaborations with pharma teams building generative pipelines for therapeutics or startups focused on biological language models, they are keen on partnering with innovators eager to explore the vast potential of the intersection between AI and biotech.\n\nFor anyone interested in learning more or seeking collaboration, Reticular has made it easy to connect through their [website](https://reticular.ai).\n\nIn summary, Reticular is not just about AI; it\u2019s about making AI comprehensible and actionable in drug discovery. If you think that\u2019s a worthy mission (it is), keep an eye on them. They just might flip how we think about biology and therapeutics.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/793bf499fc2f107be849d8b216d2f2a2171efd21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191722Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=efcb4ad5b39776dd46d61ec6ad3ea55fe2dbcc79d069aa79016beec1b8c42b79",
+    "social_links": [
+        "https://www.linkedin.com/company/reticular-yc-f24/",
+        "https://x.com/ReticularAI"
+    ],
+    "logo_path": "data/logos\\Reticular_logo.png"
+}

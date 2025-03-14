@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/depot",
+    "name": "Depot",
+    "headline": "Build faster. Waste less time.",
+    "batch": "W23",
+    "description": "Depot is a build acceleration platform making builds up to 40x faster for Docker containers and GitHub Actions. Companies like PostHog, Wistia, Appsmith, and Secoda use Depot to save tens of hours of build time every day.\r\n\nWe offer a remote container build service for building Intel & Arm Docker images, from your CI or local machine, up to 40x faster. Our container builds come with in-depth build insights, ephemeral registries, and instant cache sharing across your team.\r\n\nFinally, we also offer our own Depot GitHub Actions Runners that brings all the speed of Depot to your entire GitHub Actions workflow at half the cost of GitHub-hosted runners, and up to 10x faster builds. Simply change the runs-on label of your existing workflow to route jobs to Depot runners.\r\n\nKyle and Jacob worked together as staff engineers for 4.5 years at Thorn and Era Software, before founding Depot. Depot is their solution to the wildly inefficient container build tooling and non-performant CI systems they encountered throughout their careers.",
+    "activity_status": "Active",
+    "website": "https://depot.dev",
+    "founded_date": 2022.0,
+    "team_size": 5.0,
+    "location": "Montpellier, France",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:devops",
+    "founders": [
+        {
+            "name": "Kyle Galbraith, Founder",
+            "description": "Kyle Galbraith is the Co-Founder & CEO of Depot. He and Jacob Gillespie (CTO) built Depot after being faced with the same challenges time and time again surrounding slow CI builds across all generic providers. He is originally from Portland, Oregon but relocated to Montpellier, France in October 2022 to immerse himself in French culture with his wife who is originally from the area.",
+            "linkedin": "https://www.linkedin.com/in/kylegalbraith459"
+        },
+        {
+            "name": "Jacob Gillespie, Founder",
+            "description": "Cofounder and CTO of Depot. US expat living in the UK.",
+            "linkedin": "https://www.linkedin.com/in/jacobwgillespie/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Depot: Building Better and Faster**\n\nFounded in 2022 by Kyle and Jacob, Depot is a company on a mission to \"Build faster. Waste less time.\" They identified a significant bottleneck in container build tooling and CI systems while working together as engineers\u2014turning their frustration into a solution.\n\nDepot is a build acceleration platform that turbocharges Docker container builds and GitHub Actions workflows, achieving speeds up to **40 times faster**. Their clients, including **PostHog**, **Wistia**, **Appsmith**, and **Secoda**, collectively save tens of hours of build time daily.\n\n### Key Offerings\n1. **Remote Container Builds**: Depot lets developers replace `docker build` with `depot build`, supporting Intel and Arm images with features like automatic layer caching. This seamless integration works with existing CI providers, helping teams significantly speed up their build processes.\n\n2. **GitHub Actions Runners**: Their specialized GitHub Actions runners deliver the same speed as Depot's regular services but at **half the cost of GitHub-hosted runners**. Developers just change the `runs-on` label in their workflow to make the switch.\n\n3. **Depot Cache**: This tool enhances builds for various systems like Bazel and Gradle, providing distributed remote caching that integrates across teams\u2014even in local development environments.\n\nDepot has a small but mighty team of five based in **Montpellier, France**. As part of **Y Combinator's Batch W23**, they are on the fast track to shaping up the developer tooling landscape.\n\n### Why Depot?\nWith **live benchmarks** showcasing time savings such as building Netflix\u2019s dispatch in just 2 minutes and 36 seconds compared to 5 minutes and 1 second without it, it's clear that Depot isn't just a convenience; it's a game changer.\n\n### Visit Depot\nIf you\u2019re looking to cut down your build times and waste less time in the process, check them out at [depot.dev](https://depot.dev) and see firsthand how they can help your engineering team operate at lightning speed.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2ef54ac7af9f0ccfa4f54a94c4014f59cab0ab1f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191118Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=626df3575f34e868dc7283ba274a19fafaed17e22873e1103dcb23bac9bd11d9",
+    "social_links": [
+        "https://www.linkedin.com/company/depot-technologies",
+        "https://twitter.com/depotdev",
+        "https://www.crunchbase.com/organization/depot-2f77",
+        "https://github.com/depot"
+    ],
+    "logo_path": "data/logos\\Depot_logo.png"
+}

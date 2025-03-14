@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/dockup",
+    "name": "Dockup",
+    "headline": "On demand ephemeral environments to run manual and automated tests.",
+    "batch": "W19",
+    "description": "Dockup gives on-demand environments for engineering teams so they can merge pull requests with confidence. It works like CircleCI, but allows you to manually test and see each code changes in action with your entire tech stack without having to mock any of your services.",
+    "activity_status": "Active",
+    "website": "https://getdockup.com/",
+    "founded_date": null,
+    "team_size": 4.0,
+    "location": "Mountain View",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:devops; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Yuva Kumar, Founder",
+            "description": "Keeping it real!",
+            "linkedin": "https://www.linkedin.com/in/iffyuva/"
+        },
+        {
+            "name": "Emil Soman, Founder",
+            "description": "Talk to me about devtools, ecommerce, gaming",
+            "linkedin": "https://www.linkedin.com/in/emilsoman/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Dockup Overview\n\nDockup is a proactive solution tailored for engineering teams that need to navigate the complexities of manual and automated testing with confidence. By providing on-demand ephemeral environments, Dockup allows developers to test their code in real-time without the hassle of mock services. It\u2019s akin to what CircleCI offers but with the added benefit of visualizing every code change within the entire tech stack, ensuring that pulls to the main branch are as seamless and reliable as possible.\n\n### Evolution and Mission\n\nFounded in Y Combinator's W19 batch, Dockup started with a clear mission: \"On-demand ephemeral environments to run manual and automated tests.\" Nestled in Mountain View, California, and manned by a dedicated team of just four employees, Dockup has its sights set on simplifying the deployment process. They target developers who are fed up with sifting through convoluted DevOps tutorials and just want a practical solution.\n\n### How Dockup Works\n\n**Setup Process:**\n1. Sign up and connect your GitHub and AWS accounts.\n2. Dockup autonomously creates the necessary AWS resources for your deployments:\n   - **CodeBuild** pulls your source code and builds Docker images.\n   - **ECR** stores those images.\n   - **EKS** runs them as containers.\n   - **IAM** manages user and resource permissions.\n   - Network configurations are automatically taken care of with VPCs, subnets, and security groups.\n\nOnce set up, deploying code is as easy as pushing to GitHub. You can manage deployment checklists, conduct manual deployments, or perform rollbacks through a user-friendly interface.\n\n### Key Features\n\n- **Free Forever**: Dockup doesn\u2019t lock you in; it utilizes your infrastructure for deployments but can be easily unlinked whenever you need.\n- **Auto Scaling and Load Balancing**: The platform dynamically adjusts to traffic patterns, adding or removing nodes as necessary.\n- **Rolling Deployments**: Deploy new versions of services incrementally, ensuring zero downtime during updates.\n- **SSL Management**: Automatically provisions and renews SSL certificates, taking one more task off your plate.\n\n### Pricing\n\nFor teams, Dockup offers an attractive pricing model at $45 monthly, which includes unlimited users, role-based access control, custom deployment checklists, and comprehensive reporting and analytics.\n\nIf you're looking to streamline your deployment process with a simple yet powerful tool, Dockup is designed to tackle those challenges head-on, letting you focus on what you do best: building great software.\n\nFor more information, check out their website [here](https://getdockup.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cdcb2d3bba354a8b76eeb4961788c3386e05c71e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191124Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9bd938fae1137d6e7e5ac9a9ea433a996a9e729cb65d51bcb5932e469d18492c",
+    "social_links": [
+        "https://www.crunchbase.com/organization/dockup",
+        "https://github.com/dockup"
+    ],
+    "logo_path": "data/logos\\Dockup_logo.png"
+}

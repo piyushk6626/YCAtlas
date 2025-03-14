@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/outloud-ai",
+    "name": "outloud.ai",
+    "headline": "Building Gong.io for offline retail.",
+    "batch": "S21",
+    "description": "We record conversations that customers have when they are placing orders in drive-thru restaurants, automatically analyze them, and help operators to upsell better or alert them when they are out of stock.",
+    "activity_status": "Active",
+    "website": "https://www.outloud.ai/",
+    "founded_date": 2020.0,
+    "team_size": 5.0,
+    "location": "Miami, FL",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Sasha Miagkyi, Founder",
+            "description": "Sasha Miagkyi - MIT grad, tech & development @ Burger King \ud83c\udf54\nLoves workouts and long-distance running \ud83c\udfc3",
+            "linkedin": "https://www.linkedin.com/in/oleksandr-miagkyi/"
+        },
+        {
+            "name": "Igor Shelvinskyi, Founder",
+            "description": "ML geek, doing ML and NLP in startups and banks for last 10 years. Loves Math and mechanical keyboards! \u2328\ufe0f",
+            "linkedin": "https://www.linkedin.com/in/igor-shelvinskyi-96055249/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Outloud.ai: Revolutionizing Drive-Thru Efficiency with AI**\n\nWelcome to Outloud.ai, where we\u2019re on a mission to build the Gong.io for offline retail, specifically targeting drive-thru restaurants. Launched in 2020 and part of Y Combinator's S21 batch, we\u2019ve set up our base in sunny Miami, FL, with an ambitious team of five. \n\n**What We Do**\nOutloud.ai started by recording and analyzing customer conversations during drive-thru orders. This isn't just eavesdropping\u2014we provide actionable insights that help restaurant operators upsell more effectively and get real-time alerts for stock shortages. In our quest for operational excellence, we\u2019ve managed to process over 40 million orders across hundreds of restaurants.\n\n**Key Features**\n- **Custom Large Language Models (LLMs)**: We\u2019ve fine-tuned AI models to pick up on crucial operational issues\u2014like stores struggling to take orders or running low on products.\n- **Upselling Intelligence**: Our technology identifies the right moments for upselling, helping to boost revenue by as much as 15%.\n- **Voice AI for Speed**: We\u2019ve trained our models on hundreds of thousands of hours of data, enabling restaurants to reduce their service time to under three minutes.\n  \n**The Impact**\nOn a daily basis, we process around 100,000 orders. Our clients report a staggering increase of $75,000 in gross profits per store. We currently operate in over 20 states, enabling transparency across the front lines of their businesses.\n\nOur users can't stop raving about how Outloud.ai has transformed their operations. As Tanvir, a VP of Tech at a 400+ store chain says, \"With Outloud, front-line teams are able to provide much better service,\" creating a win-win for everyone involved.\n\n**Get Involved**\nCurious about how we can help your business? Request a demo on our website [Outloud.ai](https://www.outloud.ai/), and join the movement toward smarter, data-driven drive-thrus. \n\nIn a nutshell, Outloud.ai is about harnessing the power of machine learning to not just keep up with the fast pace of the food service industry but to stay ahead. Let\u2019s make fast food faster and more profitable together. \n\n*Tags: Machine Learning, SaaS, B2B*",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fda71b5efd655aa9a224e548ed380a08bff01b65.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191616Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=761034871eae24ac4c945ba783258b48cdb43bf4fd6e37bf68c98081f3e408f6",
+    "social_links": [
+        "https://www.linkedin.com/company/outloud-ai/?viewAsMember=true",
+        "https://www.crunchbase.com/organization/outloud-ai"
+    ],
+    "logo_path": "data/logos\\outloud.ai_logo.png"
+}

@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/trigo",
+    "name": "Trigo",
+    "headline": "Rent verification API for landlords and lenders",
+    "batch": "W23",
+    "description": "Trigo aggregates consumer rent history to help landlords approve better tenants and lenders write more loans. No solution exists to consistently furnish this rent verification to landlords and lenders today. The largest database has only 3% coverage of rent data.\r\n\nTrigo is a Consumer Reporting Agency (CRA) that provides this missing rent data set through a real-time API and web application. We are repeat founders with consumer data and finance experience across Harvard, Citigroup, Experian, and Amazon.",
+    "activity_status": "Active",
+    "website": "https://trigodata.com/",
+    "founded_date": 2022.0,
+    "team_size": 4.0,
+    "location": "New York",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:b2b; industry:proptech; industry:api; industry:enterprise; location:new-york",
+    "founders": [
+        {
+            "name": "Sam Stein, Founder",
+            "description": "Sam is the Co-founder & CEO of Trigo. Sam joins Trigo as a repeat founder previously in the food tech space. Prior to that, he spent 8 years in finance and private company investing at Citi, Richard Branson's Virgin Group, and RedBird Capital. Sam is a mission-driven founder excited about social impact. Born and raised in Atlanta, GA. Currently based in New York City. Sam has a B.A. in Government from Harvard.",
+            "linkedin": "https://www.linkedin.com/in/sam-s-8300188/"
+        },
+        {
+            "name": "Abe Wheeler, Founder",
+            "description": "Abe is the co-founder & CTO of Trigo. Abe joins Trigo after building the backend engineering team at a series A startup monetizing consumer data. He has 6 years of full stack engineering experience working with large volumes of consumer & financial data at companies including Experian, Bloomberg, and Amazon\u2019s Consumer Payments division. He has a B.S. in Computer Science from the University of Southern California.",
+            "linkedin": "https://www.linkedin.com/in/abrahamwheeler/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Trigo: Revolutionizing Rent Verification\n\n**Founded:** 2022  \n**Location:** New York  \n**Y Combinator Batch:** W23  \n**Team Size:** 4 employees  \n\nImagine a world where landlords and lenders faced no ambiguity when it comes to assessing rent histories. That's where Trigo comes in. By addressing a glaring gap in the market\u2014 reliable rent verification\u2014this innovative fintech company provides a solution that helps landlords approve tenants and enables lenders to underwrite loans more confidently.\n\n#### The Problem\nCurrently, most available rent data is painfully insufficient. The largest database covers a mere 3% of rent data. This poses significant challenges for landlords and lenders who need to make informed decisions. \n\n#### The Solution\nTrigo offers a cutting-edge Rent Verification API that aggregates consumer rent history in real time. By delivering verified rent information directly from the source, it fills a critical void. The platform also features a user-friendly web application and is geared toward empowering landlords and lenders to screen tenants and write loans more effectively.\n\n#### Unique Offerings\n- **Granular Data**: Access over 30 fields of information, including detailed rent payment history.\n- **Real-Time Updates**: Continuous access to up-to-the-minute information about rent payments.\n- **Integrated API**: Seamless integration into existing applications, enhancing user experience.\n\nMoreover, Trigo boasts an impressive 75% coverage of rent data processed within just 48 hours, compared to the industry-standard FICO data, which is less than 3%.\n\n#### Leadership and Expertise\nTrigo's founding team consists of seasoned entrepreneurs with backgrounds in consumer data and finance, having previously worked for giants such as Harvard, Citigroup, Experian, and Amazon. With Jared Friedman as their Group Partner at Y Combinator, Trigo has the mentorship and backing needed to scale efficiently in a competitive landscape.\n\n#### Key Benefits\n- **Reduction in Fraud**: Landlords can expect a 50% decrease in first-party fraud.\n- **Increased Loan Viability**: Lenders can write roughly 17% more loans thanks to the deeper insights provided by Trigo\u2019s data.\n- **Pricing**: Affordable rent verifications starting at just $12.99 per applicant.\n\n#### Conclusion\nTrigo is paving the way for a smarter, more efficient rental market. By shining a light on rent histories that were once obscured, this company is not just improving how landlords and lenders operate\u2014it\u2019s reshaping the entire landscape of rental verification.\n\nFor more information, visit [Trigo](https://trigodata.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d5dc1970e9c9e26754705c1e24ed9ac53b631452.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192028Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1eafe11c8e37b4f444f9f18dca65bfce8c982a0278c0ac32f8d8a3b726f7ffb2",
+    "social_links": [
+        "https://www.linkedin.com/company/trigo-data/",
+        "https://twitter.com/TrigoData"
+    ],
+    "logo_path": "data/logos\\Trigo_logo.png"
+}

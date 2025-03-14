@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/tambua-health",
+    "name": "Tambua Health",
+    "headline": "The T-Scope is an app-based handheld ultrasound system that brings\u00e2\u0080\u00a6",
+    "batch": "W20",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://www.tambuahealth.com",
+    "founded_date": null,
+    "team_size": 13.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:health-tech; industry:medical-devices; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Eric Kirima, Founder",
+            "description": "Software Engineer",
+            "linkedin": "https://linkedin.com/in/nerickirima/"
+        },
+        {
+            "name": "Lewis Wanjohi, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/lewis-w-bb64b7127/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Tamubua Health is an innovative health-tech company making waves in the medical device space. Based in San Francisco, they\u2019ve carved out a niche for themselves with their flagship product, the T-Scope. This is no ordinary ultrasound system; it's a handheld, app-based tool designed to bring ultrasound technology to more healthcare providers, thus enhancing accessibility and efficiency in medical imaging.\n\nFounded as part of Y Combinator's Winter 2020 (W20) batch, Tambua Health has a small but dedicated team of about 13 employees. Their focus on improving healthcare delivery aligns perfectly with the current trends towards decentralization and accessibility in medical technologies.\n\nAlthough the website has experienced some technical issues recently, the essence of what Tambua Health represents is clear: they are at the intersection of technology and healthcare, aiming to empower practitioners with cutting-edge tools that make a difference.\n\nIn summary, if you're looking for a fresh approach to ultrasound technology and healthcare innovation, Tambua Health is definitely a company to watch. With its roots in the vibrant San Francisco Bay Area health-tech scene and strong backing from Y Combinator, they are poised for growth and impact. Keep an eye on them.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7fb1529854a64af7a872b326d2527d91564d79f0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192006Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6527d6723e29a3a754c04144052ca42341002864ee0b6cc0a2618bc7bc2077d8",
+    "social_links": [
+        "https://github.com/TambuaHealth"
+    ],
+    "logo_path": "data/logos\\Tambua_Health_logo.png"
+}

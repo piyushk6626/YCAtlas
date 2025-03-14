@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/sre-ai",
+    "name": "SRE.ai",
+    "headline": "Automated DevOps for Low-Code Platforms",
+    "batch": "F24",
+    "description": "SRE.ai provides AI Agents to power Low-Code DevOps for Low-Code Platforms like Salesforce, SAP, NetSuite, etc.",
+    "activity_status": "Active",
+    "website": "https://sre.ai",
+    "founded_date": 2024.0,
+    "team_size": null,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:devops; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Raj Kadiyala, Co-Founder & CEO",
+            "description": "Currently building SRE.ai, previously at Google/DeepMind",
+            "linkedin": "https://www.linkedin.com/in/rajsekhark/"
+        },
+        {
+            "name": "Edward Aryee, Co-Founder & CTO",
+            "description": "Currently building SRE.ai, previously at Google Research",
+            "linkedin": "https://www.linkedin.com/in/edwardaryee/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**SRE.ai: Automated DevOps for the Low-Code Era**\n\nFounded in 2024 and based in San Francisco, SRE.ai is breaking new ground in the intersection of artificial intelligence and DevOps. As part of Y Combinator's Batch F24, the company aims to automate the development operations for low-code platforms such as Salesforce, SAP, and NetSuite. With a mission to streamline the development process, SRE.ai is building a robust framework powered by AI agents, offering unprecedented automation and speed to enterprise teams.\n\n### The Offering\n\nSRE.ai\u2019s platform enables development teams to collaborate more efficiently, utilizing AI agents that can adapt to various workflows. Here\u2019s how they are making waves:\n\n1. **Rapid Deployments:** With just a chat message or a button click, users can deploy applications across multiple environments, configured with strict promotion rules and access controls.\n\n2. **Error Resolution:** By identifying and resolving integration conflicts early in the development cycle, SRE.ai's AI agents learn from historical data to tackle issues that may arise, ensuring safer and quicker releases.\n\n3. **Release Insights:** Teams can create ephemeral environments for testing prior to full deployments, allowing them to mirror production traffic and perform edge-case and performance tests effectively\u2014ensuring a smoother integration process.\n\n4. **Automation Across the Stack:** With easy integration into existing tools like communication platforms and version control systems, SRE.ai enhances automation without the friction of changing current workflows.\n\n5. **Data Protection:** Their platform offers seamless backup and disaster recovery options, ensuring businesses are prepared for unexpected scenarios, utilizing industry best practices.\n\n### Team and Leadership\n\nThough the company is just starting out, it\u2019s led by experienced engineers from renowned AI institutions, and is backed by top-tier investors. Notably, Diana Hu serves as the Group Partner supporting SRE.ai's journey.\n\n### Getting Started\n\nFor businesses interested in transforming their development operations, SRE.ai invites potential users to request access through their website at [sre.ai](https://sre.ai). They assure users that their AI agents are reliable, vetted for quality, and can operate with a \"human-in-the-loop\" configuration when needed.\n\n### Final Thoughts\n\nSRE.ai is positioned to leverage the burgeoning demand for low-code solutions by enhancing the DevOps landscape through AI. By automating tedious processes and ensuring smoother workflows, they are not just keeping pace with technological advancements\u2014they\u2019re setting the standard for what\u2019s possible in the developer tools arena. If you\u2019re in the low-code space looking to elevate your operations, SRE.ai is definitely a name to watch.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1a5ee0445dd0c24badc823262937d0ca0140c806.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191946Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d7a1aabc3df62e06d44a970e52724fbdbe3ba62ecbe5805e5344ab946d0df2f0",
+    "social_links": [
+        "https://www.linkedin.com/company/sreai",
+        "https://www.crunchbase.com/organization/sre-ai",
+        "https://github.com/SRE-ai"
+    ],
+    "logo_path": "data/logos\\SRE.ai_logo.png"
+}

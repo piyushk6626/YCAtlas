@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/stacksync",
+    "name": "Stacksync",
+    "headline": "Real-time and two-way sync between CRMs and Databases",
+    "batch": "W24",
+    "description": "Stacksync powers real-time and bidirectional data synchronization between CRMs (e.g. Salesforce, Hubspot or SAP) and databases (e.g. Postgres, Google BigQuery,...). Edits made in your CRM will instantly update in your Database, and vice-versa. To set up a sync, users simply have to connect the two chosen apps in one click and select the tables they want to sync, no-code!\r\nStacksync reduces implementation delays from months to minutes for CRM integration projects and removes all the complexity behind CRM new feature development. We show a 90% improvement on delivery time and budget.",
+    "activity_status": "Active",
+    "website": "https://www.stacksync.cloud/",
+    "founded_date": 2022.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ruben Burdin, Founder",
+            "description": "Data movement, CRM and ERP. Currently redefining Enterprise systems integration.",
+            "linkedin": "https://linkedin.com/in/ruben-burdin"
+        },
+        {
+            "name": "Alexis Favre, Founder",
+            "description": "Building the future of Data Movement! (and baking delicious french bakeries ;)",
+            "linkedin": "https://linkedin.com/in/alexis-favre-epfl"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Stacksync: Simplifying Data Synchronization**\n\nFounded in 2022 and based in San Francisco, Stacksync is revolutionizing the way businesses manage their data. As part of Y Combinator's Batch W24, the company is on a mission to provide real-time, bidirectional synchronization between customer relationship management (CRM) systems like Salesforce and HubSpot, and databases including Postgres and Google BigQuery. \n\nImagine a world where updates made in your CRM are instantly reflected in your databases and vice-versa\u2014no code, no hassle. That\u2019s what Stacksync delivers. Their approach reduces CRM integration project timelines from months to mere minutes, showing a remarkable 90% improvement in delivery time and budget.\n\n**Key Features:**\n- **No-Code Integration**: Users can connect their apps with just one click and select tables to sync without any technical expertise.\n- **90% Efficiency Gains**: Stacksync takes care of all the complexities associated with CRM data handling, allowing teams to focus on strategic tasks.\n- **Robust Protectiveness**: Security is paramount, with compliance measures like SOC 2, GDPR, and HIPAA ensuring your data remains secure.\n\nWith a compact team of just four, including Dalton Caldwell as their Group Partner, Stacksync aims to empower businesses to achieve a competitive edge through seamless data synchronization. Their extensive library of over 200 connectors allows for easy integration across multiple platforms, making it a versatile choice for tech-driven organizations.\n\nFor more information or to start your trial, visit [Stacksync](https://www.stacksync.cloud) today, and see how they can streamline your data processes and eliminate unnecessary complexities.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/07f2353314985fec646e3a1d75c6388fb7bfea02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191947Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1574195c51ea08d4f8d43ecf4f416d34321ae142d97d24276e8d1277e56f9bbf",
+    "social_links": [
+        "https://www.linkedin.com/company/stacksyncdata/",
+        "https://twitter.com/stacksyncdata",
+        "https://www.facebook.com/stacksyncdata",
+        "https://www.crunchbase.com/organization/stacksync",
+        "https://github.com/stacksyncdata"
+    ],
+    "logo_path": "data/logos\\Stacksync_logo.png"
+}

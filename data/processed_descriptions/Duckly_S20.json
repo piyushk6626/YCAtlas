@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/gitduck",
+    "name": "Duckly",
+    "headline": "Video chat with real-time collaboration.",
+    "batch": "S20",
+    "description": "Duckly enables teams to talk and collaborate in real-time.\r\n\nTeams can use a simple URL that is easy to join and remember. You can share a website and allow your colleagues to click, type, and browse with you. You can share your code directly from your IDE or even share a terminal session that your team can interact with. All with high-quality audio and video chat.\r\n\nWe are building tools for real-time remote collaboration that makes it easy for teams to work as if they were side by side and share what they know.",
+    "activity_status": "Active",
+    "website": "https://duckly.com",
+    "founded_date": 2019.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:team-collaboration; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Thiago Monteiro, Founder",
+            "description": "I'm an avid learner that tackle business opportunities from a design point of view.",
+            "linkedin": "https://www.linkedin.com/in/monteirothiago/"
+        },
+        {
+            "name": "Dragos Fotescu, Founder",
+            "description": "Breaking things.",
+            "linkedin": "https://www.linkedin.com/in/dragos-fotescu/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Duckly: Revolutionizing Real-Time Collaboration\n\nFounded in 2019 and hailing from the innovative hub of San Francisco, Duckly is all about making remote collaboration as seamless as possible for developers. Their mission is straightforward: to facilitate video chat combined with real-time collaboration, enabling teams to work together as if they were side-by-side\u2014no matter where they are in the world.\n\nDuckly\u2019s approach is refreshingly simple and user-friendly. By sharing a straightforward URL, teams can instantly jump into a collaborative environment. Users can share websites, collaborate on code right from their IDE, and even share terminal sessions for interactive work. All this is backed up by high-quality audio and video chat.\n\nAt its core, Duckly provides a robust set of tools designed for real-time, remote collaboration. The platform encourages developers to stop coding alone, fostering a more interactive and productive workflow. \n\n#### Key Features:\n- **Multi-IDE Collaboration**: Whether you\u2019re using VS Code, IntelliJ, or any other IDE, Duckly lets you share your coding environment in real-time, allowing everyone to contribute effectively.\n- **Real-Time Sharing**: You can see other developers' cursors and changes in real-time, promoting a fluid collaborative process.\n- **Embedded Audio & Video**: Integrated audio and video chat means discussions can happen right alongside the work, reducing the need to switch between different apps.\n- **Security**: With end-to-end encryption and peer-to-peer connections, Duckly takes security seriously.\n\nIn addition to coding together, Duckly simplifies the code review process. Instead of going it alone, developers can interact directly, speeding up feedback and revisions.\n\n#### The Community\nDuckly has caught the attention of many companies and developers alike. Teams from various organizations are using Duckly to enhance their collaborative efforts, praising its high-quality experience. Users rave about its ease of use and how it has significantly improved their remote coding sessions.\n\nWith a small but dedicated team of five and backed by Y Combinator\u2019s S20 batch, Duckly is well-positioned to push boundaries in the developer tools space.\n\n#### In Summary\nDuckly isn't just another collaboration tool; it\u2019s a game-changer for teams that value real-time interaction and streamlined workflows. If you\u2019re a developer looking to collaborate effectively remote, you might want to check them out at [Duckly.com](https://duckly.com). \n\nStop coding alone\u2014join the collaboration revolution!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f3c5f7ff85b33e86a73ceef92fb6a0398bf0c5ba.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191129Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d582d07d309fe336b1aa75f403e0ffd1b0a8d1af2544af8d165fe2a315162ba2",
+    "social_links": [
+        "https://www.linkedin.com/company/gitduck",
+        "http://twitter.com/ducklyhq",
+        "https://github.com/gitduckhq"
+    ],
+    "logo_path": "data/logos\\Duckly_logo.png"
+}

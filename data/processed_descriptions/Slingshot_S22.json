@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/slingshot",
+    "name": "Slingshot",
+    "headline": "Analyze medical records in seconds",
+    "batch": "S22",
+    "description": "Slingshot is AI  that analyzes medical records to determine if the diagnosis is supported by the clinical evidence.\r\n\nThe company is founded by Pranov Duggasani, a former Google and Microsoft AI engineer, and Zoe Holderness, a former Lyft and Tesla engineer. They started working on Slingshot after facing their own frustrations with inflated and erroneous medical bills with the goal to save patients more money with less work.",
+    "activity_status": "Active",
+    "website": "https://slingshotml.com",
+    "founded_date": 2022.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Pranov Duggasani, Founder",
+            "description": "Using AI to align patient care and clinical outcomes with payments",
+            "linkedin": "https://www.linkedin.com/in/pranovduggasani/"
+        },
+        {
+            "name": "Zoe Holderness, Founder",
+            "description": "CTO of Slingshot",
+            "linkedin": "http://linkedin.com/in/zoe-holderness-387b53126"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Slingshot: Revolutionizing Medical Record Analysis\n\n**Mission:** Simply put, Slingshot is on a quest to analyze medical records in seconds. They've set out to cut through the noise of inflated and erroneous medical bills, aiming to save patients money while relieving the burden on healthcare providers.\n\n**Founders:** The company was co-founded by Pranov Duggasani and Zoe Holderness, both seasoned engineers with rich backgrounds at tech giants like Google, Microsoft, Lyft, and Tesla. Their own experiences with medical billing frustrations spurred them into action.\n\n**Background:** Founded in 2022 and part of Y Combinator's Batch S22, Slingshot is based in the heart of San Francisco. It operates with a tight-knit team of four, showing that you don\u2019t need a massive workforce to make a significant impact in the tech landscape.\n\n**What They Do:** Slingshot leverages AI to automate the coding and clinical validation of medical records. Their technology helps healthcare payment integrity teams identify less-supported claims, streamlining which records deserve the most attention. Here are the key highlights of their offering:\n\n1. **Improve Selection:** The AI quickly identifies which medical records are erroneous, allowing teams to focus on the most impactful cases.\n2. **Increase Bandwidth:** By extracting critical clinical indicators, their system saves reviewers from sifting endlessly through pages of data.\n3. **Enhance Accuracy:** Their models adhere to clinical guidelines, consistently ensuring high levels of precision in analysis.\n\n**Security Commitment:** Data protection is no afterthought here. Slingshot employs robust encryption methods and is HIPAA compliant, holding a SOC 2 Type 2 certification to ensure the highest standards of privacy and security.\n\n**Contact:** Interested in discovering how Slingshot can transform your medical billing workflow? Check out their [website](https://slingshotml.com) for documentation and to get started with a demo.\n\nIn a world where healthcare billing can feel like a labyrinth, Slingshot is acting as a guiding light, simplifying processes for both patients and providers. If you\u2019re knee-deep in medical records, this might just be the slingshot you need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0d5eb8f4952c2d24c5c85266a7e83f92b299dbb6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191932Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7fc27e9452a4b6a950cb840f68411af56e46fbcef7243b4bd97194b6933d9773",
+    "social_links": [
+        "https://www.linkedin.com/company/82299888"
+    ],
+    "logo_path": "data/logos\\Slingshot_logo.png"
+}

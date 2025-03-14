@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/diversion",
+    "name": "Diversion",
+    "headline": "A scalable, cloud-native Git alternative",
+    "batch": "S22",
+    "description": "Diversion is a cloud-native, scalable Git alternative. We allow software development teams to effectively collaborate on code bases of any size, while improving security, devops and developer experience.",
+    "activity_status": "Active",
+    "website": "https://diversion.dev",
+    "founded_date": 2021.0,
+    "team_size": 9.0,
+    "location": "Tel Aviv-Yafo, Israel",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:devsecops; industry:saas; industry:enterprise",
+    "founders": [
+        {
+            "name": "Sasha Medvedovsky, Founder",
+            "description": "A software engineer, engineering manager and product manager with 20+ years of experience.\nServed as an officer in an elite Israeli cyber-intelligence unit (8200).\nCo-founded Leprechaun (bootstrapped to high profitability, sold in 2012) and Adience (sold in 2015 for $25M).\nMSc. in Computer Science and MBA from Tel Aviv University, cum laude.",
+            "linkedin": "https://www.linkedin.com/in/sasha-medvedovsky-10b2381/"
+        },
+        {
+            "name": "Egal Lazarev, Founder",
+            "description": "Egal kicked off his career in software at middle school, building Israel's most popular Pok\u00e9mon website at the time (2001-2003). After completing a Computer Science BSc in Tel Aviv University, he joined the Technological Unit (81) of the Israeli Intelligence Corps, to develop communication protocols and applications, and low-level unix drivers and tools. Later he worked at several startups in engineering and leadership roles and founded several others. Current mission is Diversion.",
+            "linkedin": "https://www.linkedin.com/in/yigal-lazarev/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Diversion**\n\nFounded in 2021 and based in Tel Aviv-Yafo, Israel, Diversion is shaking up the world of version control with its cloud-native, scalable alternative to Git. The company is a proud member of Y Combinator's S22 batch and currently employs a small team of nine talented individuals, led by Group Partner Nicolas Dessaigne.\n\n**Mission**\n\nThe mission of Diversion is straightforward yet ambitious: to enhance collaboration for software development teams working with code bases of any size, all while improving security, developer experience, and DevOps practices. This mission reflects a clear understanding of the challenges developers face today\u2014especially when it comes to managing large files and repositories. \n\n**What Makes Diversion Distinct?**\n\nDiversion isn't just another tool; it's a re-imagined version control system aimed specifically at making collaboration seamless and intuitive. If you've ever found version control a tedious ordeal, you'll appreciate the features Diversion offers\u2014ranging from effortless file syncing to conflict prevention notifications. \n\nThe platform boasts several innovations:\n1. **Effortless Scalability:** Work with larger files without the typical slowdowns.\n2. **Conflict Prevention:** Notifications keep you informed of any changes being made by others to the files you\u2019re working on, helping to avoid merge conflicts.\n3. **Cloud Synchronization:** Your changes are synced continuously to the cloud, ensuring safety and accessibility across devices.\n4. **Granular Permissions:** Easy management of permissions helps teams control access without sacrificing collaboration.\n\n**Who Is It For?**\n\nDiversion is catered to a diverse range of industries, with particular emphasis on game development, architectural visualization, and even educational sectors. Its user-friendly design makes it accessible not only to seasoned developers but also to those newer to version control systems.\n\n**Use Cases Include:**\n- Game Development\n- Unreal Engine Integration\n- Architectural Visualization\n- AI Projects\n\nAnd perhaps most exciting for users, Diversion is currently offering free access for teams of up to five, providing 100GB of storage. This model makes it an attractive option for small teams and startups looking to leverage powerful tools without an upfront investment.\n\n**Getting Started**\n\nInterested in seeing how Diversion can transform your development process? Check out their [website](https://diversion.dev) to explore their features, book a demo, or even sign up to start using the tool today. It\u2019s designed to be intuitive\u2014there\u2019s no hefty manual to wade through before you begin.\n\nAs Diversion continues to evolve, it\u2019s positioning itself not just as an alternative to Git, but as a leader in the developer tools space, listening to its users and adapting to the demands of modern software development. If you're part of a development team and looking for a fresh approach to version control, Diversion might just be the solution you need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1b2aafdf96b793ce6f394820d1013817793ec0b4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191124Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f2c0107a1e44b6d2909e68e4fb1a21fe368febba4e0b85f1b739750deee07065",
+    "social_links": [
+        "https://www.linkedin.com/company/79021186",
+        "https://twitter.com/diversion_hq",
+        "https://www.crunchbase.com/organization/diversion-company"
+    ],
+    "logo_path": "data/logos\\Diversion_logo.png"
+}

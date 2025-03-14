@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/lucid",
+    "name": "Lucid",
+    "headline": "Fast world models for generative simulations",
+    "batch": "W25",
+    "description": "We are building generative simulations of the world powered by fast world models.\r\n\nInstead of using a physics or game engine with hard-coded rules to render each frame and decide how the environment reacts, this is done end-to-end through a neural network.\r\n\nUnlike text-to-video models, our world models generate frames conditioned on actions, enabling real-time interaction with any environment. Users can explore, manipulate objects, and shape their experience through natural gameplay.\r\n\nWe trained a model to emulate Minecraft that runs smoothly on consumer hardware (1B param model runs at 25fps on an nvidia 4090 gaming gpu while other Minecraft world models run at <3fps). Our advantage in speed comes from aggressive latent compression (128x) that allows us to encode every frame into only 15 tokens while others traditionally use 256.\r\n\nWe are now training on real-world footage and are building a general-purpose universe simulator.",
+    "activity_status": "Active",
+    "website": "https://lucidsim.co/",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "Berkeley, CA",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:deep-learning; industry:generative-ai; industry:machine-learning; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alberto Hojel, Founder",
+            "description": "Studied computer science at UC Berkeley and did research at BAIR under Trevor Darrell. Worked on weather forecasting with ML at Rainmaker. Originally from Mexico City.\n\nWas on track to pursue a PhD but realized I wanted to build something greater while presenting my paper at ECCV.\n\nPassionate about lucid dreaming and immersive content.",
+            "linkedin": "https://linkedin.com/in/albertohojel"
+        },
+        {
+            "name": "Rami Seid, Co-Founder",
+            "description": "A high school dropout who got his first internship as an MLE at a robotics lab, I went on to become the CTO of a govtech contracting company. After that, I cofounded my own telecommunications company while doing ML work on the side. Now I'm building a universe simulator at Lucid.",
+            "linkedin": "https://www.linkedin.com/in/rami-mohammed-seid/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Lucid Simulations: Crafting a New Reality**\n\nLucid Simulations is on a mission that resonates with futurists: creating fast and dynamic generative simulations of our world using cutting-edge technology. Founded in 2024, and a proud member of Y Combinator Batch W25, Lucid is setting its sights on building an interactive environment where users can explore and shape their experiences live.\n\nAt the core of Lucid's innovation is a departure from the traditional methods of simulation. Instead of relying on physics or game engines with cumbersome hard-coded rules, Lucid employs a neural network that seamlessly renders the world in real-time. This approach enables users to interact naturally with their surroundings and manipulate their environments as if they were playing a game.\n\nOne of Lucid\u2019s standout achievements is their Minecraft emulation model. Unlike typical models that struggle with performance (often rendering at less than 3 frames per second), Lucid\u2019s version runs at an impressive 25 frames per second on standard gaming hardware, such as an NVIDIA 4090 GPU. This is made possible through aggressive latent compression techniques, allowing them to encode each frame into just 15 tokens, compared to the usual 256 used by other models.\n\nAs they move forward, Lucid is not stopping at gaming worlds. The team is now diving into real-world footage training, aiming to build a general-purpose universe simulator that faithfully adheres to the physics and dynamics of reality. \n\nBased in Berkeley, CA, Lucid operates with a tight-knit team of four, including founders Alberto Hojel and Rami Seid. They\u2019re backed by the robust support of Y Combinator, which gives them a solid foundation to grow from. \n\nIf you want to keep a pulse on their developments or wish to join their journey, you can check out their website at [Lucid Simulations](https://lucidsim.co/) or shoot them an email at alberto@lucidsim.co.\n\nIn a world growing increasingly complex, Lucid is making strides to simplify the way we interact with simulations, blending imagination with the realities of fast computing. Keep an eye on them; they\u2019re just getting started.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3d23b07fa314e0153cc6b75a1a8fd77c7aad8a53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191514Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2a640afd43b6f0b5551be3e68f3273be143755c4d0dcec6b8e1e7743f8867df5",
+    "social_links": [],
+    "logo_path": "data/logos\\Lucid_logo.png"
+}

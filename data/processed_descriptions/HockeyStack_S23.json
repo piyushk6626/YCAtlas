@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/hockeystack",
+    "name": "HockeyStack",
+    "headline": "The operating system for inbound B2B revenue",
+    "batch": "S23",
+    "description": "HockeyStack improves sales outcomes for B2B companies by helping them record and understand every interaction their customers have with their marketing, sales reps, CSMs, and products. \r\n\nWe map every customer touchpoint from ad impression to closed won and to upsell using our own tracking script and native integrations to the B2B GTM tech stack. \r\n\nBuilding this source of truth allow us to give companies previously hidden insights that generate incremental revenue, such as:\r\n\n- Deploy marketing budget: \"Launch this ad campaign to this audience to generate $XM in pipeline\"\r\n- Target the right accounts with the right messaging: \"These accounts have the highest likelihood to convert, put them on this email sequence\"\r\n- Convert more of the pipeline: \u201cPied Piper hasn't visited the site for 8 days; give Jim a phone call\u201d",
+    "activity_status": "Active",
+    "website": "https://hockeystack.com",
+    "founded_date": 2022.0,
+    "team_size": 11.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:analytics; industry:sales; industry:marketing; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Bu\u011fra G\u00fcnd\u00fcz, Founder",
+            "description": "Co-Founder & CEO @ HockeyStack. I started learning to code as a child, started selling digital products online in my freshman year of high school in Turkey, went to the US for college & dropped out during my first quarter to build HockeyStack.",
+            "linkedin": "https://www.linkedin.com/in/bgrgndzz"
+        },
+        {
+            "name": "Emir Atli, Founder",
+            "description": "Founder & CRO at HockeyStack- the revenue infrastructure for B2B. One of the fastest growing YC companies, used by Outreach, Appsflyer, Yext, Sendoso, 8x8, and more. Hiring engineers, recruiters, and marketers in SF!",
+            "linkedin": "https://www.linkedin.com/in/emircatli/"
+        },
+        {
+            "name": "Arda Bulut, Founder",
+            "description": "co-founder and cto",
+            "linkedin": "https://www.linkedin.com/in/ardabulut-627211/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**HockeyStack: The Go-To Platform for Inbound B2B Revenue**\n\nFounded in 2022 and hailing from Y Combinator's Batch S23, HockeyStack has set its sights on revolutionizing how B2B companies track and leverage customer interactions. With a compact team of 11 based in San Francisco, their mission is crystal clear: to act as the operating system for inbound B2B revenue.\n\n### What They Offer\n\nHockeyStack enhances sales performance for B2B enterprises by meticulously recording every customer interaction\u2014from ad impressions to sales close and upsells. They employ a proprietary tracking script along with seamless integrations into various components of the B2B go-to-market (GTM) tech stack. This allows businesses to construct a comprehensive \"source of truth,\" unveiling previously hidden insights that directly correlate to increased revenues.\n\n### Key Insights and Use Cases\n\n1. **Optimized Marketing Budget Deployment:** With insights such as \"launch this ad campaign to generate $XM in the pipeline,\" marketing teams can deploy budgets strategically.\n   \n2. **Targeted Account Messaging:** HockeyStack identifies high-conversion accounts, suggesting specific email sequences for enhanced outreach.\n\n3. **Pipeline Conversion Improvements:** The platform flags accounts requiring attention, like \u201cPied Piper hasn\u2019t visited the site for 8 days; give Jim a call,\u201d enabling proactive engagement.\n\n### Recent Developments\n\nHockeyStack recently celebrated a $20 million Series A funding round led by Bessemer Venture Partners, which signifies robust investor confidence in their model and capabilities. \n\n### The Competitive Edge\n\nWhat sets HockeyStack apart is their cookieless tracking technology that provides accurate user data without the ethical gray areas that come with traditional cookie-based tracking. The focus remains on B2B analytics that retain privacy compliance while offering deep insights into buyer journeys.\n\n### Client Success Stories\n\nHockeyStack has claimed several significant wins, including:\n- **ActiveCampaign:** Achieved 100% of their revenue targets after reducing ad spend by 50%.\n- **Oneflow:** Doubled their lead-to-customer metrics through improved revenue attribution.\n\nThese testimonials and case studies highlight a trend: clients are discovering enhanced visibility and attribution accuracy in their sales funnels by utilizing HockeyStack.\n\n### Conclusion\n\nFor companies navigating the complexities of B2B marketing and sales, HockeyStack serves as a pivotal partner. Their laser focus on enhancing revenues through data-driven insights makes them a valuable player in the SaaS arena. With growing recognition, this is a platform to watch. For further exploration, check out their website at [HockeyStack](https://hockeystack.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d4be60a2a654d3a1da30a7e1b3be68f4596afaab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191421Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dd2ee964ddea129b88f0801b34646aa251612ce831c59a9935124e945f607135",
+    "social_links": [
+        "https://www.linkedin.com/company/hockeystack"
+    ],
+    "logo_path": "data/logos\\HockeyStack_logo.png"
+}

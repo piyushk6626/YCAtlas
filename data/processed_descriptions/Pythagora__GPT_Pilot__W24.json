@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/pythagora-gpt-pilot",
+    "name": "Pythagora (GPT Pilot)",
+    "headline": "OSS dev tool that builds entire apps from scratch by talking to you",
+    "batch": "W24",
+    "description": "Pythagora is an open source tool that builds apps from scratch by talking to users. It uses LLMs to automate developer workflows (debugging, refactoring, etc.) and ask user questions whenever it needs feedback.\r\n\nIt is an IDE extension built on top of our open-source tool, GPT Pilot, which has over 22k Github stars.\r\n\nYou start by describing an app you want to build; then, it asks you questions about the details of the app to write the full app specifications. Once the specs are done, it starts coding. When it finishes a task, it asks you to test the app and tell it if something is incorrect. It iterates with you by changing the code and asking you for feedback until the task is finished. Finally, it commits the code it has written and proceeds to the next task until the entire app is finished.",
+    "activity_status": "Active",
+    "website": "https://pythagora.ai/",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Zvonimir Sablji\u0107, Founder",
+            "description": "I am an engineer and a technology entrepreneur. I cofounded AWW (A Web Whiteboard), which became a major player in the online whiteboard market. AWW had 1.5M MAU, with Apple as our largest customer. In 2021, it was acquired by Miro.\n\nI created two successful open source repositories - automated testing repo that got 1.4k Github stars and now, GPT Pilot, which has over 22k stars.\n\nCurrently, I'm working on bringing software development into the AI age.",
+            "linkedin": "https://linkedin.com/in/zvonimirsabljic"
+        },
+        {
+            "name": "Leon Ostre\u017e, Founder",
+            "description": "Software engineer, computer scientist (M.Sc.) and entrepreneur. Problem solving and attention to details with big persistence is my passion.\nI led the tech team at Faze Clan before they went public at $1B valuation and was a key contributor of Plex at Ericsson - the core language that handles 25% of the world's 2G and 3G network communication.\nI created two successful open source repositories - automated testing repo that got 1.4k Github stars and now, GPT Pilot, which has over 22k stars.",
+            "linkedin": "https://linkedin.com/in/leon-ostrez-b55494178"
+        }
+    ],
+    "status": true,
+    "generated_description": "Pythagora, also known as GPT Pilot, is an innovative open-source development tool that\u2019s shaking up the world of app creation. Founded in 2023 and part of Y Combinator's W24 batch, Pythagora leverages advanced Large Language Models (LLMs) to build complete applications from scratch\u2014just by having a conversation with you. \n\nImagine this: You have an idea for an app. With Pythagora, you begin by describing your vision. Our robust IDE extension, built on the open-source GPT Pilot\u2014which boasts over 22,000 stars on GitHub\u2014will guide you through the process by asking the right questions to flesh out your app specifications. Once you have a plan, Pythagora goes to work, coding in real-time and iterating based on your feedback. Think of it as having a coding partner that not only writes the code but also learns along the way, making adjustments until it aligns with your requirements. When everything is up to your standards, it commits the code and moves on to the next task.\n\nFunctionally, Pythagora simplifies the entire development workflow, including debugging and refactoring, directly integrating into tools like VS Code. Whether you\u2019re a seasoned developer or a newcomer looking to dip your toes in coding without prior experience, Pythagora makes the development process feel more collaborative\u2014like a pair programming session where the AI is genuinely there to support you, rather than hinder.\n\nThe company currently operates with a lean team of six and is spearheaded by Nicolas Dessaigne, a notable partner at Y Combinator. It offers multiple pricing tiers, starting with a free plan to allow users to explore its capabilities, moving up to Pro and Premium plans that cater to more serious endeavors.\n\nReal-world applications already demonstrate Pythagora\u2019s effectiveness. From custom HR tools automating complex hiring processes to A/B testing solutions for marketing, the feedback from users has been overwhelmingly positive. Developers are reporting significant time savings\u2014what once took days can now be accomplished in mere hours.\n\nIn essence, Pythagora is not just a tool; it's a new paradigm in app development that empowers you to create faster, learn as you go, and ultimately, bring your software ideas to life with a newfound ease. Check them out at [Pythagora.ai](https://pythagora.ai/) for more insights and to start building your next great app.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6b6e1e1913248d398432097e81c45355968fee68.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191659Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dcacda6bd182c6adc7b84119002d8ee9f419c615304f1feca37d98db1ab28d52",
+    "social_links": [
+        "https://www.linkedin.com/company/pythagora-io/",
+        "https://www.crunchbase.com/organization/pythagora",
+        "https://github.com/Pythagora-io"
+    ],
+    "logo_path": "data/logos\\Pythagora_(GPT_Pilot)_logo.png"
+}

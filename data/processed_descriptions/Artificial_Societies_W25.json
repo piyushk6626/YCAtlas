@@ -1,0 +1,37 @@
+{
+    "Links": "https://www.ycombinator.com/companies/artificial-societies",
+    "Name": "Artificial Societies",
+    "Headline": "We use AI to simulate large groups of people and how they interact",
+    "Batch": "W25",
+    "Description": "Artificial Societies uses AI to simulate human societies. Companies like Anthropic are using Artificial Societies to predict how their marketing and content will perform in a simulation of their target customers, before launching in the real world. \r\n\nThis is a cracked team: James left rural China at age 14, got into Cambridge, turned down a CS PhD to do startups, and - in his spare time - lead the largest ever study of an LLM society. James is joined by Patrick, an applied behavioural scientist who has run over 200 real-world experiments for businesses including Fortune 500 companies. \r\n\nWe joined forces through a shared frustration that no one really understands large scale human behaviours: traditional market research is not only slow and expensive, but fundamentally flawed - it misses how people influence each other. Humans are not isolated individuals, we are social animals.\r\n\nWe began by simulating a network of 1,000 investors, and used it to raise a pre-seed and get into YC. Since releasing this publicly as \u201cWave\u201d, startup founders have run over 3000 simulations. \r\n\nWe have since released \"Reach\", where anyone can simulate their own LinkedIn audience and test how their posts will perform before posting for real. Artificial Societies is doing for simulations what ChatGPT did for LLMs - making them accessible to everyone.\r\n\nAs AI advances, we will create representative models of entire human societies. Our vision is a world where all content, products, and policies are first simulated in an Artificial Society. We are on a mission to create Artificial Collective Intelligence - humans innovate in collectives, we want to scale collective innovation with ACI.",
+    "Activity_Status": "Active",
+    "Website": "https://societies.io",
+    "Founded_Date": "2024",
+    "Team_Size": "3",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/jared-friedman",
+    "Group_Partner": "Jared Friedman",
+    "Company_Linkedin": "https://www.linkedin.com/company/artificial-societies",
+    "Company_Twitter": "",
+    "Tags": "industry:artificial-intelligence; industry:machine-learning; industry:saas; industry:b2b; industry:market-research; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/artificial-societies",
+        "https://x.com/societiesio",
+        "https://github.com/artificial-societies"
+    ],
+    "logo_path": "data\\logos\\Artificial_Societies.png",
+    "Active_Founders": [
+        {
+            "Name": "James He, Founder",
+            "Description": "CEO at Artificial Societies. Ex-Cambridge computational social science. Ex Yonder.\n\nAt 16, James was offered $600k to fund his ed-tech startup but chose to attend Cambridge instead. After graduating, James turned down a PhD offer to join Yonder - a credit card startup - and built the entirety of their lending ML systems. He then started his own scholarship at age 21, and led the largest-scale study of an LLM society in his spare time. He co-founded Artificial Societies in Oct 2024.",
+            "LinkedIn": "https://www.linkedin.com/in/james-k-he/"
+        },
+        {
+            "Name": "Patrick Sharpe, Founder",
+            "Description": "Leading Product at Artificial Societies. Background in applied behavioural science.\n\nPatrick completed an MSc in behavioural econ, and left academia to lead behavioural science and CX projects at iptiQ - an insurtech startup owned by Swiss Re, the largest Reinsurer in the world. He joined Unconventional Wisdom, a specialised behavioural science consultancy, and scaled the client-base 3x within a year, before co-founding Artificial Societies in 2024.",
+            "LinkedIn": "https://www.linkedin.com/in/sharpe-patrick/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Artificial Societies: Simulating Human Interaction Using AI**\n\nFounded in 2024 and part of Y Combinator Batch W25, Artificial Societies is a San Francisco-based startup on a bold mission: to leverage AI to simulate large groups of people and their interactions. The founders\u2014James, a tech entrepreneur with a remarkable background, and Patrick, an applied behavioral scientist\u2014came together motivated by a shared frustration with conventional market research, which often overlooks the social dynamics that govern human behavior.\n\nAt its core, Artificial Societies is built on the understanding that humans are not isolated entities; we are influenced by our social networks. Traditional market research methods can be slow and flawed, missing the complexities of how individuals affect one another. To address this, they began with an ambitious simulation of 1,000 investors, which helped them secure pre-seed funding and gain entry into Y Combinator.\n\nTheir flagship products, \"Wave\" and \"Reach,\" exemplify their innovative approach. \"Wave\" allows startup founders to run over 3,000 simulations, enhancing their understanding of market behavior prior to launching real-world products. More recently, they introduced \"Reach,\" a tool that enables users to simulate their LinkedIn audiences, allowing them to predict post performance before hitting \"publish.\" By visualizing audience engagement and employing AI to generate and test content variations, \"Reach\" offers creators a revolutionary method to amplify their voices on social media. It's akin to how ChatGPT democratized access to language models\u2014Artificial Societies is making simulations accessible to everyone.\n\nThe company's vision expands even further. As AI technologies improve, they aim to develop representative models of entire human societies, enabling all types of content, products, and policies to be tested in simulated environments. Their ultimate goal is to foster what they call Artificial Collective Intelligence, enhancing the way humans innovate collectively.\n\nTheir strong track record is backed by prominent connections, including group partner Jared Friedman and support from leading companies like Google and Anthropic. They operate with a small but effective team of three, committed to upending traditional market research and creating a new landscape for understanding human interactions.\n\nAs they continue to grow, Artificial Societies is positioning itself as a game-changer in the fields of artificial intelligence, machine learning, and market research. The future they envision\u2014a world where social dynamics can be realistically simulated\u2014could transform not just how we conduct business, but how we understand each other in our digital interactions.\n\nTo explore their services or to simulate your own LinkedIn audience, visit [Artificial Societies](https://societies.io)."
+}

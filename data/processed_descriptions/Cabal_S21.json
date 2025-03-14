@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/cabal",
+    "name": "Cabal",
+    "headline": "Private workspace for founders, investors, and advisors to collaborate",
+    "batch": "S21",
+    "description": "Cabal helps founders get more out of their investors and advisors. We do this by providing a private workspace for founders to send asks & updates, track contributions, and get warm intros to prospects and candidates.",
+    "activity_status": "Active",
+    "website": "http://getcabal.com",
+    "founded_date": 2021.0,
+    "team_size": 8.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:community; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Fahim Ferdous, Founder",
+            "description": "ex-AdQuick, Instacart, Yammer",
+            "linkedin": "https://linkedin.com/in/fahimferdous"
+        }
+    ],
+    "status": true,
+    "generated_description": "Cabal is a company that provides a private workspace designed specifically for founders, investors, and advisors to collaborate more effectively. Founded in 2021 and part of the Y Combinator Batch S21, Cabal is based in San Francisco and consists of a small but dedicated team of eight employees. \n\nInitially, Cabal set out to help founders maximize their engagements with investors and advisors. The platform enables founders to send requests and updates, track contributions, and facilitate warm introductions to potential prospects and candidates. In essence, it streamlines communication and fosters more productive relationships within the startup ecosystem.\n\nThe mission of Cabal revolves around creating an exclusive space where these key players can connect and collaborate without the noise that often comes with broader networking platforms. This focus on Community is part of what sets Cabal apart in the SaaS and B2B landscape. \n\nSo if you're a founder looking to leverage your relationships with investors and advisors, or an advisor wishing to stay connected with your network, Cabal might just be the right place for you.\n\nFor more information, visit their website at [getcabal.com](http://getcabal.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/585321cc9c6143ce76433bb62a9c96c5dcac5dee.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191036Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=34e56bd16ae5391afee7e7ae5872ff7fc3636cfe1f724ee45842fdb12397f091",
+    "social_links": [
+        "https://www.linkedin.com/company/getcabal/",
+        "https://twitter.com/getcabal"
+    ],
+    "logo_path": "data/logos\\Cabal_logo.png"
+}

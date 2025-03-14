@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/icepanel",
+    "name": "IcePanel",
+    "headline": "Design complex software systems to engineering and product teams",
+    "batch": "W23",
+    "description": "IcePanel is a collaborative diagramming tool that helps software engineering and product teams align on technical decisions. Teams use IcePanel to create a map of their software systems, giving them full context about how it works.",
+    "activity_status": "Active",
+    "website": "https://icepanel.io",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "North Vancouver, Canada",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:collaboration; industry:enterprise",
+    "founders": [
+        {
+            "name": "Jacob Shadbolt, Founder",
+            "description": "\ud83e\uddca IcePanel Co-Founder | I am building a simpler (cooler) way to talk about system design and share technical knowledge. Before IcePanel, I was a UX Designer at Mastercard, working on greenfield real-time payment products, including monitoring and mobile payments. I prefer solving \"boring\" problems over jumping on hype trains. Stay chill.",
+            "linkedin": "https://www.linkedin.com/in/jacob-shadbolt-design/"
+        },
+        {
+            "name": "Victor Leach, Founder",
+            "description": "\ud83e\uddca IcePanel Co-Founder | I have a passion for discovering and solving problems with technology, and my mission is to make products that people love!",
+            "linkedin": "https://www.linkedin.com/in/victorleach/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**IcePanel Overview**\n\nFounded in 2021 and hailing from North Vancouver, Canada, IcePanel is a startup that\u2019s quickly gaining traction in the developer tools space. As part of Y Combinator\u2019s W23 batch, this small but dynamic team of six has set out with a singular mission: to design complex software systems that facilitate better collaboration between engineering and product teams.\n\n**What is IcePanel?**\n\nIcePanel initially emerged as a collaborative diagramming tool, helping teams align on technical decisions seamlessly. By allowing users to create comprehensive maps of their software systems, IcePanel empowers teams to understand the full context of their projects, leading to informed decision-making and enhanced collaboration. \n\nBeyond basic mapping, IcePanel leverages C4 modeling to share knowledge with both technical and non-technical team members, ensuring everyone is on the same page when it comes to system architecture. This approach not only clarifies communication but also helps in visualizing and maintaining up-to-date documentation related to software systems.\n\n**Core Features**\n\n- **Collaborative C4 Modeling**: A structured approach that encourages contributions from all team members.\n- **Interactive Diagrams**: New team members can explore and understand the architecture, enhancing their confidence to contribute.\n- **Linking to Reality**: Designs are connected to the actual code, which helps in identifying discrepancies and recommending updates.\n\n**Client Success Stories**\n\nIcePanel isn\u2019t just theoretical; it\u2019s applied. They have worked with notable clients such as Cisco, Alphabet, BMW, and even the University of Cambridge. Users have reported increased efficiency and better visibility across teams, leading to improved outcomes and satisfaction among users\u2014from data engineers to senior solution owners.\n\n**Getting Started with IcePanel**\n\nIf you want to dive into a tool that helps your teams align on technical decisions and streamline complex software architecture, IcePanel offers a free trial. You can book a demo for a more guided experience, which only takes 15 minutes of your time.\n\nFor more information or to get started, check their website at [IcePanel.io](https://icepanel.io). In an era where clarity and collaboration are paramount, IcePanel proves to be an invaluable tool for teams aiming to enhance their development processes.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ba628ce2bea1f3ae48847f70b7a4b578a75b8dbd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191427Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=534bf8990c13d71f4a049a22dbe16261b0bc6103b4e0c51ffac72f7d498bff07",
+    "social_links": [
+        "https://www.linkedin.com/company/icepanel/",
+        "https://twitter.com/ice_panel",
+        "https://www.facebook.com/icepanel",
+        "https://www.crunchbase.com/organization/icepanel",
+        "https://github.com/IcePanel"
+    ],
+    "logo_path": "data/logos\\IcePanel_logo.png"
+}

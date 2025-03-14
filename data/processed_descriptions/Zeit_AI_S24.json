@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/zeit-ai",
+    "name": "Zeit AI",
+    "headline": "Enterprise insights from spreadsheet data with just a few words.",
+    "batch": "S24",
+    "description": "Zeit AI transforms Excel files in a structured database that can be queried using natural language. For example, the financial consultancy RISE, which depends heavily on Excel, uses Zeit AI to access and analyze expenses across their organization.",
+    "activity_status": "Active",
+    "website": "https://zeit-ai.com/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Leopold von Waldthausen, Founder",
+            "description": "Hi everyone! Welcome to my YC profile. I spent 3.5 years at Palantir, ultimately leading all established customers in Germany, Austria and Switzerland. Before that, I studied CS at Oxford, published research on process mining and cryptography, quit an MBA at Yale. During my undergraduate, I already started my first business (weview) at 18 years, which I built for 3 years and then sold to DemoUp Cliplister. Hit me up for any activity to do with mountains and I'll be your fan.",
+            "linkedin": "https://www.linkedin.com/in/v-waldthausen/"
+        },
+        {
+            "name": "Marvin Christopher Bornstein, Founder",
+            "description": "Grew up around Berlin, Germany and lived in London, U.K. for the last 5 years. Been writing software for over 18 years, professionally for almost 10. My focus is on full stack dev and data eng. I have researched deep learning topics and participated in numerous hackathons and InfoSec CTFs. I spent my last 5 years at Palantir in various roles across the business and have delivered value for customers in many industries (chemicals, railway infra, media, utilities, insurance, medical equipment).",
+            "linkedin": "https://www.linkedin.com/in/mcbornstein/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Zeit AI**\n\nFounded in 2024 and part of Y Combinator\u2019s S24 batch, Zeit AI is a small but ambitious startup that seeks to revolutionize how enterprises derive insights from their spreadsheet data. With a team of three, based in [location not specified], the company is making strides in the ever-evolving landscape of data analysis.\n\n**Mission and Product:**\n\nZeit AI's mission is simple yet powerful: to provide enterprise insights from spreadsheet data using just a few words. Their flagship product, **ZeitMind**, transforms conventional Excel files into a structured database that can be queried effortlessly through natural language. This means that instead of sifting through endless rows and columns, users can pose their questions in plain English. \n\nTake RISE, a financial consultancy that relies heavily on Excel. They leverage Zeit AI to analyze their expenses rigorously and efficiently, showcasing the tangible impact of this tool in a real-world setting.\n\n**Key Features and Benefits:**\n\n1. **Natural Language Interface:** ZeitMind understands the unique context of a business, offering advanced analytics as if it knows the internal jargon.\n   \n2. **Automated Data Analysis:** The platform accelerates time-to-insight dramatically\u2014analyzing loads of data within seconds, revealing critical margin improvement strategies without manual effort.\n\n3. **Data Integration:** ZeitMind cleans and synthesizes data from multiple sources, enabling businesses to focus on their domain expertise while the system handles the technical behind-the-scenes work.\n\n4. **Transparency and Control:** Unlike many AI solutions that act as black boxes, responses from ZeitMind are explainable. Users can trace every step of the analysis, view sources, and verify the underlying code\u2014boosting confidence in the results.\n\n5. **Security Compliance:** GDPR compliance is a cornerstone of Zeit AI's operations, ensuring that client data is secure, encrypted, and managed with granular access permissions.\n\n**Pricing and Pilot Program:**\n\nZeit AI offers a straightforward pricing model, featuring a fixed monthly fee, with the first month devoted to a pilot program. This allows businesses to evaluate the service comprehensively while receiving close support from Zeit AI's engineers, who assist in deployment and fine-tuning of the system.\n\n**In Summary:**\n\nZeit AI is carving out a niche for itself by marrying simplicity in natural language processing with the complexity of enterprise data. Whether you\u2019re a consultancy like RISE or a direct business user, ZeitMind promises an efficient, transparent, and data-driven future. To learn more, visit their website at [zeit-ai.com](https://zeit-ai.com/). \n\nNicolas Dessaigne backs the initiative as Group Partner, steering this innovative journey into reshaping how businesses harness their data for insights.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f878074f27a01b4b386d0ee1b418a33d8cc2c53d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192107Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dae2a6586356cde59b0212a6766946b091ce456ab3785f5d2cf2da722775c2a2",
+    "social_links": [
+        "https://www.linkedin.com/company/103332732/",
+        "https://www.crunchbase.com/organization/zeit-ai"
+    ],
+    "logo_path": "data/logos\\Zeit_AI_logo.png"
+}

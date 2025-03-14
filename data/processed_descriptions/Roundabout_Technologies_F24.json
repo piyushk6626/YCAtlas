@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/roundabout-technologies",
+    "name": "Roundabout Technologies",
+    "headline": "Software for AI-powered traffic lights",
+    "batch": "F24",
+    "description": "Roundabout Technologies makes AI-powered traffic lights, allowing cities to reduce pedestrian deaths, improve traffic, and reduce resident complaints. Our founding team has experience building safety-critical embedded systems and AI at Waymo, Zoox, Google, and Verily.",
+    "activity_status": "Active",
+    "website": "https://roundabout.tech",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Pete Koomen",
+    "group_partner_yc": "https://www.ycombinator.com/people/pete-koomen",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Collin Barnwell, Founder",
+            "description": "Founder & CEO at Roundabout Technologies. Collin is a software leader and engineer with extensive experience building and shipping safety-critical IoT and camera devices, including a device that has been implanted in humans. He's worked at Google and Verily Life Sciences, and interned for startups Handshake and G2 both when they had fewer than 5 engineers.",
+            "linkedin": "https://www.linkedin.com/in/collinbarnwell"
+        },
+        {
+            "name": "Sabeek Pradhan, Founder",
+            "description": "Founder & CTO at Roundabout Technologies. Sabeek is a computer vision expert with extensive experience building systems for high-accuracy vehicle, pedestrian and bike detection and tracking at the self-driving car companies Zoox, Waymo and Applied Intuition, and his software has been deployed on public roads in fully driverless vehicles.",
+            "linkedin": "https://www.linkedin.com/in/sabeek-pradhan-0135865a"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Roundabout Technologies: Revolutionizing Traffic Management\n\nFounded in 2024 and part of Y Combinator Batch F24, Roundabout Technologies is on a mission to transform urban traffic management with their AI-powered traffic lights. The founding team, seasoned in safety-critical embedded systems and AI from companies like Waymo, Zoox, Google, and Verily, is committed to creating a safer, more efficient driving and walking environment for cities.\n\n#### What They Do\n\nRoundabout Technologies develops intelligent traffic signal systems that adapt in real time to the dynamics of road users\u2014vehicles, cyclists, and pedestrians. By integrating seamlessly with existing cameras and hardware, their system has the ability to:\n\n- **Optimize Wait Times:** The AI can anticipate and respond to the movements of all road users, ensuring that traffic signals adjust to minimize delays.\n- **Enhance Safety:** By detecting speeding vehicles in critical areas and giving pedestrians extra time to cross, they contribute significantly to reducing accidents and enhancing safety for vulnerable road users.\n- **Support Public Transport:** Their technology prioritizes buses and emergency vehicles without requiring additional hardware, making urban transit faster and more reliable.\n- **Reduce Resident Complaints:** Unlike legacy systems that often lead to frustration due to poor decision-making, Roundabout\u2019s solution improves the overall traffic flow, addressing common resident grievances.\n\n#### Why It Matters\n\nTraffic management isn't merely about moving cars; it\u2019s about creating pedestrian-friendly cities that prioritize safety and efficiency. Roundabout Technologies stands out because they leverage advanced AI to provide nuanced, real-time traffic responsiveness, thus rethinking how traffic lights function in modern urban landscapes.\n\nWith a small team of just two employees and under the guidance of their Group Partner Pete Koomen, Roundabout Technologies is poised to make significant strides in urban traffic systems.\n\n### Next Steps\n\nInterested cities can explore how Roundabout Technologies can help enhance their traffic systems by scheduling a demo through their [website](https://roundabout.tech).\n\nIn a world where every second counts and safety is paramount, the innovations emerging from Roundabout Technologies could very well pave the way for the future of urban traffic management.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ba60ece4bfb06b81dc8a2d0d15fd19e7c7120ef8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191901Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=50606adc6012ec2c3c50c36966915a99e07bafd70f93afd027aa24eda3d92acc",
+    "social_links": [
+        "https://linkedin.com/company/roundabout-tech",
+        "https://x.com/aitrafficlights"
+    ],
+    "logo_path": "data/logos\\Roundabout_Technologies_logo.png"
+}

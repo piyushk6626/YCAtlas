@@ -1,0 +1,45 @@
+{
+    "links": "https://www.ycombinator.com/companies/datrics",
+    "name": "Datrics",
+    "headline": "A tool to create AI-powered \u00f0\u009f\u00a4\u0096 digital coworkers for BI and analytics.",
+    "batch": "W21",
+    "description": "Datrics.ai transforms enterprise sales and finance operations with an AI-powered digital coworker, streamlining complex analyses into simple conversations. Imagine a bank CFO querying, 'How did our loan performance this quarter compare to the last?' and instantly receiving detailed, visual analyses directly via MS Teams chat. This revolutionizes tasks that were once time-consuming and complex.\r\n\nOur vision is to cultivate a vast ecosystem of digital coworkers, enabling businesses to harness the power of data-driven decisions effortlessly.\r\n\nAt the core of Datrics lies our unique low-code data workflow automation platform, designed to simplify data handling for digital analysts. This platform empowers analytics teams to dive into data exploration and blending, uncover insights, and create automated workflows and dashboards for sharing insights \u00e2\u0080\u0094 all without the need for coding.",
+    "activity_status": "Active",
+    "website": "https://datrics.ai",
+    "founded_date": 2020.0,
+    "team_size": 22.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:finance; industry:b2b; industry:analytics; industry:no-code; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Volodymyr Sofinskyi, Founder",
+            "description": "co-founder @Datrics - building AI data analyst.\nAI aficionado, former data science lead with 10+ years of analytics experience",
+            "linkedin": "https://www.linkedin.com/in/volodymyr-sofinskyi/"
+        },
+        {
+            "name": "Kirill Kirykov, Founder",
+            "description": "Co-founder @ Datrics - AI-powered digital coworker for analytics.\nPrev: Co-founder @ 4irelabs - blockchain, fintech development and consulting.",
+            "linkedin": "https://www.linkedin.com/in/kirill-kirikov-96507425/"
+        },
+        {
+            "name": "Anton Vaisburd, Founder",
+            "description": "co-founder & CEO @Datrics - building AI data analyst.\nAI/ML enthusiast, former data science consultant and manager.",
+            "linkedin": "https://www.linkedin.com/in/vaisburd/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Overview of Datrics\n\n**Company Name**: Datrics  \n**Founded**: 2020  \n**Location**: San Francisco  \n**Team Size**: 22 employees  \n**Y Combinator Batch**: W21  \n**Website**: [datrics.ai](https://datrics.ai)\n\n---\n\n### Mission and Vision\n\nDatrics is on a mission to simplify business intelligence (BI) and analytics through AI-powered digital coworkers. By enabling companies to transform complex data analysis into straightforward, conversational interactions, they strive to cultivate a vast ecosystem that accelerates data-driven decision-making. Picture a bank CFO asking, \"How did our loan performance this quarter compare to the last?\" and instantly receiving visual insights via chat\u2014Datrics is making this a reality.\n\n---\n\n### Core Offering\n\nAt the heart of Datrics' offering is a low-code data workflow automation platform. This unique tool is designed to empower digital analysts by making data handling simpler and more intuitive. Users can explore, blend data, uncover insights, and create automated workflows or dashboards\u2014all without writing a single line of code.\n\n### Features:\n- **Natural Language Processing**: Users can interact with data using regular conversational prompts.\n- **Automated Insights**: The AI continuously learns and provides insights in real-time, optimizing data processing for finance and business operations.\n- **Multi-Source Analysis**: Integrates data from various platforms for comprehensive insights.\n\n---\n\n### Strategic Partnerships and Use Cases\n\nDatrics has seen success across various sectors by partnering with leading companies. For example:\n- **Bear Claw**: An applicant tracking system enhanced using Datrics' AI to improve hiring processes.\n- **Financial Institutions**: Datrics has helped streamline operations and overcome data-related challenges, leading to more strategic insights.\n\n---\n\n### Key Areas of Focus\n\nDatrics is making waves in several industries:\n- **Finance**: Automating financial analysis and risk assessment.\n- **Recruitment & HR**: Leveraging AI for candidate matching and onboarding processes.\n- **Sales & Marketing**: Enhancing sales strategies through real-time analytics and predictions.\n\n---\n\n### Security and Compliance\n\nDatrics emphasizes security with strong practices:\n- Data encryption during transmission and storage.\n- Advanced access controls and regular auditing.\n- Options for on-premise installation to meet strict compliance requirements.\n\n---\n\n### Why Choose Datrics?\n\nInvesting in Datrics can yield significant ROI\u2014averaging a 40% return within the first six months. With Datrics, businesses not only save time on data reporting, reducing it by up to 90%, but they also gain the ability to spot opportunities more swiftly and scale analytics across teams.\n\n---\n\nIf you're looking to empower your organization with intelligent analytics and improve your decision-making processes, explore Datrics today by visiting [datrics.ai](https://datrics.ai) or booking a free demo.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d7497b1919c1f662d919f32a9894f2f91026831d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bbc6349b02855f3c52b87ee1a188a8af216dd171b4be9aaefc8675db1ea43a6a",
+    "social_links": [
+        "https://www.linkedin.com/company/datrics-ai/",
+        "https://twitter.com/AiDatrics",
+        "https://www.facebook.com/datrics/",
+        "https://www.crunchbase.com/organization/datrics",
+        "https://github.com/datrics-ai"
+    ],
+    "logo_path": "data/logos\\Datrics_logo.png"
+}

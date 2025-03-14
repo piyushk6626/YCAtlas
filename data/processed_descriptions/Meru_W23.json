@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/meru",
+    "name": "Meru",
+    "headline": "Voice to Flowsheet for Nurses.",
+    "batch": "W23",
+    "description": "Nurses can spend 40% of their shift doing documentation. We double a nurse's productivity, and reduce documentation burden with a voice  flowsheet interface.",
+    "activity_status": "Active",
+    "website": "https://usemeru.com",
+    "founded_date": 2023.0,
+    "team_size": 15.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Rohan Arora, Founder",
+            "description": "CEO, Meru. Previously worked at JHU APL on MLOps and modeling for the Covid-19 National Health Mission & built technology to track animal mice. Studied Bioengineering at Berkeley.",
+            "linkedin": "http://www.linkedin.com/in/meetrohanarora"
+        },
+        {
+            "name": "Venkat Krishnan, Founder",
+            "description": "CTO, Meru. Prev worked at Tesla Autopilot AI. Studied Computer Engineering at UCSB, where I researched adversarial robustness and hardware acceleration of transformer models.",
+            "linkedin": "https://www.linkedin.com/in/venkatvkrishnan/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Meru: Revolutionizing Nursing Documentation**\n\nFounded in 2023 and hailing from San Francisco, Meru aims to tackle a significant pain point in healthcare: the cumbersome documentation responsibilities of nurses. Studies show that nurses can spend up to 40% of their shift on paperwork; Meru is here to change that. Their mission? To turn voice input into comprehensive flowsheets, effectively doubling nursing productivity and minimizing documentation burdens.\n\nMeru has quickly made its mark, becoming part of Y Combinator's Winter 2023 batch and building a dedicated team of 15. With Aaron Epstein as a group partner, they\u2019re stepping into the healthcare tech landscape with a solid foundation.\n\n### What Does Meru Offer?\n\nAt its core, Meru has developed Florence, an AI Nurse Assistant that transforms how nurses handle patient data and documentation. Florence helps in two main areas:\n\n1. **Knowledge Acquisition**: Nurses can ask questions in natural language related to care procedures. Florence synthesizes responses using internal policies, patient data, and clinical guidelines.\n\n2. **Patient Documentation**: By listening to nurses or processing images, Florence captures vital patient information and assists in creating compliant, accurate documentation for Electronic Health Records (EHRs).\n\nThis tool isn\u2019t just a productivity hack; it\u2019s about quality care. As nurses spend less time on documentation, they can dedicate more time to patient care\u2014a major win for both healthcare professionals and patients.\n\n### Collaboration and Compliance\n\nMeru collaborates closely with healthcare institutions, including the University of Kansas Health System and Children\u2019s Hospital of Atlanta, ensuring their tools are built on real-world needs. And they're not just innovative; Meru is HIPAA and SOC 2 compliant, which is crucial in the healthcare industry.\n\n### The Future of Nursing\n\nMeru is inviting nurses, engineers, and tech enthusiasts to join their mission to build and scale this innovative healthcare tool. Their call to action is clear: if you want to make a real impact on nursing workflows, join them in San Francisco or contribute remotely as part of their data labeling team.\n\nIn summary, Meru is not just about efficiency; it\u2019s about empowering nurses, improving patient care, and setting a new standard in healthcare documentation. If you\u2019re interested in learning more or exploring potential career opportunities, check out their website at [usemeru.com](https://usemeru.com). \n\nThe future is looking bright for nursing documentation, and with Meru at the helm, it could genuinely transform how care is delivered.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e63994f9ca23dfb3e799da8c427a23c6d0e1d35b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191533Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a5046a9d24bdec0f42590f7c5cfa4ffafcc5924845e336a96e76e348a3ccff34",
+    "social_links": [],
+    "logo_path": "data/logos\\Meru_logo.png"
+}

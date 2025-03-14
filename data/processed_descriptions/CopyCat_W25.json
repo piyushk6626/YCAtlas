@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/copycat",
+    "name": "CopyCat",
+    "headline": "Browser agents for repetitive business processes.",
+    "batch": "W25",
+    "description": "CopyCat lets businesses create browser agents to automate their manual and repetitive processes. We created a browser agent builder that lets businesses describe their processes in natural language and instantly get them automated.",
+    "activity_status": "Active",
+    "website": "https://runcopycat.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "Seattle, WA",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:robotic-process-automation; industry:b2b; industry:workflow-automation; industry:ai; location:seattle",
+    "founders": [
+        {
+            "name": "Abhi Balijepalli, Founder",
+            "description": "Co-Founder @ CopyCat. Previously, I co-founded Platter\u2014\u201cShopify for restaurants\u201d\u2014and scaled it to 100s of restaurants. Platter continues to run on autopilot, with no employees. Before that, I was an engineer on the core meetings infrastructure & monitoring at Zoom, handling 200 million monthly active users at its peak. I grew up in Seattle, WA. Love the PNW.",
+            "linkedin": "https://www.linkedin.com/in/a8hi/"
+        },
+        {
+            "name": "Zyad Elgohary, Founder",
+            "description": "Co-Founder & CEO of CopyCat. Worked previously with my founders on Platter, where we scaled an idea to a platform serving hundreds of restaurants and processing hundreds of thousands of dollars per month. Before that, I was a software engineer at Okta, where I worked on scaling the Workflows Identity product to a $100m ARR business.",
+            "linkedin": "https://linkedin.com/in/zyad-elgohary"
+        },
+        {
+            "name": "Graham Sabin, Founder",
+            "description": "Co-Founder @ CopyCat. Previously I was building Shopify for restaurants, serving hundreds of Mom N' Pops. I love finding hacky ways to grow products and long runs.",
+            "linkedin": "https://www.linkedin.com/in/grahamsabin/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### CopyCat: Automating the Repetitive\n\n**Overview**\nFounded in 2024 and based in Seattle, Washington, CopyCat is a startup dedicated to transforming repetitive business processes through innovation. They're part of the prestigious Y Combinator Batch W25 program, and with a small team of three, they're already making waves in the realm of browser automation.\n\n**Mission**\nCopyCat's mission is straightforward: to provide users with browser agents that can automate tedious, repetitive tasks. They've built a platform where businesses can create these agents simply by describing their workflows in natural language. The result? Swift, reliable automation that frees up teams to focus on what really matters.\n\n**How It Works**\nThe heart of CopyCat is its browser agent builder. Users can input their repetitive tasks, and the platform generates agents that can perform those tasks independently. Imagine saying goodbye to manual order processing, data entry, and web scraping. With CopyCat, you articulate the process, and it spins up an agent for you\u2014easy as pie.\n\n**Product Features**\n- **Natural Language Processing**: Describe your process step-by-step, and CopyCat takes care of the heavy lifting.\n- **Full Control**: Users can monitor and edit their agents in real time, ensuring everything runs smoothly.\n- **No API Hassles**: You can integrate any website without the usual IT headaches.\n- **Scheduled Tasks**: Automate your workflows to run on autopilot\u2014no manual intervention needed.\n\n**Use Cases**\nCopyCat has already shown its versatility across industries:\n- **Healthcare**: Automated retrieval of Electronic Health Records (EHR) data.\n- **Event Planning**: Aggregate event inventories from various sites.\n- **Hardware**: Streamline parts sourcing from technical websites.\n- **Market Research**: Efficiently gather compliance information for visa planning.\n\n**Pricing**\nStarting at $500/month, CopyCat offers customized solutions tailored for businesses, including priority support, feature requests, and data privacy options.\n\n**Community and Support**\nCopyCat isn't just about etching out processes; it\u2019s about building a community. Users can join their Discord group for collaboration, tips, and support. Plus, with over 500 active members, it\u2019s a growing hub for innovators.\n\n**Conclusion**\nWith its clever toolset and mission to simplify the nitty-gritty of online tasks, CopyCat is positioned to change the landscape of workflow automation. If you're tired of repetitive tasks eating away at your productivity, CopyCat is worth a look. You can find them at [runcopycat.com](https://runcopycat.com), or book a demo to see firsthand how they can transform your business operations.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/27a3cc5ea72d44df6b81db25b284fa2f0f69acb3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=64744b03bb5233a9f2abae5aee4182ec33f5d6691cc1e7eae5e89f0fbe631d25",
+    "social_links": [
+        "https://www.linkedin.com/company/copycat-ai/"
+    ],
+    "logo_path": "data/logos\\CopyCat_logo.png"
+}

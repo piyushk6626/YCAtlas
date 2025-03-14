@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/sid",
+    "name": "SID",
+    "headline": "Serverless RAG to connect AI to company, industry, or person-specific\u00e2\u0080\u00a6",
+    "batch": "S23",
+    "description": "We make it easy for developers to connect data to their LLM apps. Instead of spending months on integrations and retrieval pipelines, Reworkd's AgentGPT added our button in an afternoon and let thousands of people connect their Notion, email and Drive instantly.\r\n\nEvery single AI company is building data retrieval. Currently, they're doing this from scratch \u00e2\u0080\u0093 we don't think they should have to. Just like OpenAI made working with LLMs as simple as an API call, SID makes it easy for every AI company to access data the same way.",
+    "activity_status": "Active",
+    "website": "https://www.sid.ai",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Maximilian-David Rumpf, Founder",
+            "description": "Max is the CEO of SID.ai. Previously, he was a researcher at ETH Z\u00c3\u00bcrich, where he worked on AI accelerator design with the professor who developed Google's TPU architecture. In early 2023, he developed MultiGPT, the first multi-agent AI that garnered thousands of users and ~500 Github stars in a single week. Max was awarded a German national excellence scholarship, awarded to 0.5% of German students.",
+            "linkedin": "https://linkedin.com/in/maximiliandavid"
+        },
+        {
+            "name": "Lukas Ruflair, Founder",
+            "description": "Lukas Ruflair is co-founder and CIO at SID.ai. He studied Computer Science at ETH Zurich, loves hacking and previously built one of the first multi-agent AI simulations, racking up millions of views on Twitter.",
+            "linkedin": "https://www.linkedin.com/in/ruflair/"
+        },
+        {
+            "name": "Lotte Seifert, Founder",
+            "description": "Lotte is determined to let people use their data for their own good. She holds a degree in CS from ETH Z\u00c3\u00bcrich and a degree in Economics from the University of St. Gallen. In early 2023, she developed MultiGPT, the first multi-agent AI that garnered thousands of clones and ~500 Github stars in a single week. Previously, Lotte worked at Europe\u00e2\u0080\u0099s first AI venture studio Merantix and organized the continent's largest student-run startup conference with guests such as Matt Cohler & Esther Wojcicki.",
+            "linkedin": "https://linkedin.com/in/lotte-seifert"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: SID**\n\nFounded in 2023 and part of Y Combinator's Batch S23, SID aims to make the integration of AI with company-specific data seamless and efficient. The mission is straightforward: provide a serverless Retrieval-Augmented Generation (RAG) solution that empowers AI to tap into relevant information tailored to both industries and individual users.\n\nInitially, SID began by easing the path for developers who struggled with setting up data connections to their large language model (LLM) applications. Instead of enduring a lengthy integration process or grappling with cumbersome data retrieval pipelines, developers could simply add SID\u2019s button to their tools\u2014much like Reworkd's AgentGPT did in just a day. This leap has allowed countless users to instantly link their Notion, email, and Google Drive to their AI functionalities.\n\nAs the AI landscape continues to expand, every new player seems to be reinventing the wheel when it comes to data retrieval. SID believes this shouldn\u2019t be the case. In the same vein that OpenAI democratized access to LLMs through a simple API call, SID aspires to do the same for data accessibility. They\u2019re not just another tech solution; they\u2019re fundamentally changing how AI companies interact with data.\n\n**Current Focus and Offerings**\n\nSID is currently working on the following key initiatives:\n- **Developer Accessibility**: They provide resources and documentation to help developers get started quickly. With tools designed to enhance product functionality, SID invites devs to explore their offerings through demos and user-friendly guides.\n- **RAG Solutions**: The focus on Retrieval-Augmented Generation displays SID's intent to be at the forefront of AI technology advancements, ensuring that AI applications are informed and contextually aware based on user, industry, or company-specific data.\n\nWith a compact team of 3, SID is nimble and focused. They are geared toward building out their product and expanding their capabilities, guided under the expertise of their group partner, Dalton Caldwell.\n\n**Concluding Thoughts**\n\nIn a landscape where data retrieval is a crucial enabler of AI's capabilities, SID is positioning itself as a key player to simplify this process. It\u2019s a bold move\u2014just when it seems like AI's evolution might plateau, companies like SID remind us that the race is not just about intelligence but also about how effectively we can connect that intelligence to the real world.\n\nFor more information, you can visit their website at [SID.ai](https://www.sid.ai), or check out their [blog](https://www.sid.ai/blog), [docs](https://www.sid.ai/docs), and [hiring](https://www.sid.ai/hiring) pages to explore opportunities and insights further.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b98b67d53b909a2d222ad3c772fcc856e44351c2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191925Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4375cd64436160b204b51b66c6977bc022a1cff3451a4081175b41dcfdf8fe56",
+    "social_links": [
+        "https://www.linkedin.com/company/sidai/",
+        "https://twitter.com/try_sid",
+        "https://github.com/sidhq"
+    ],
+    "logo_path": "data/logos\\SID_logo.png"
+}

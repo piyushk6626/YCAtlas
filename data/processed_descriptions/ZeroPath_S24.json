@@ -1,0 +1,48 @@
+{
+    "links": "https://www.ycombinator.com/companies/zeropath",
+    "name": "ZeroPath",
+    "headline": "Automatically find and fix your software vulnerabilities",
+    "batch": "S24",
+    "description": "ZeroPath is a developer tool that autonomously detects, verifies, and submits fixes for vulnerabilities in your code. Engineers can use ZeroPath to find security problems that they might only otherwise catch in pentests or from bug bounty researchers.",
+    "activity_status": "Active",
+    "website": "https://zeropath.com",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:security; industry:cybersecurity; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Dean Valentine, Founder",
+            "description": "CEO of ZeroPath. Previous exit at Mevlink, acquired by Bloxroute in 2023.",
+            "linkedin": null
+        },
+        {
+            "name": "Nathan Hrncirik, Founder",
+            "description": "CIO at ZeroPath. Security Engineer & 100k+ earned bug bounty hunter. Formerly Red Team at Tesla.",
+            "linkedin": "https://www.linkedin.com/in/nathan-hrncirik/"
+        },
+        {
+            "name": "Raphael Karger, Founder",
+            "description": "CTO at ZeroPath. Former Google Security Engineer and BishopFox Consultant.",
+            "linkedin": "https://www.linkedin.com/in/raphael-karger/"
+        },
+        {
+            "name": "Etienne Lunetta, Founder",
+            "description": "COO at ZeroPath. Former Co-Founder at Mevlink, acquired by bloXroute Labs in 2023.",
+            "linkedin": null
+        }
+    ],
+    "status": true,
+    "generated_description": "### ZeroPath: Your Autonomous Security Partner\n\nFounded in 2024 and hailing from Y Combinator's Batch S24, ZeroPath is paving the way for software developers to tackle security vulnerabilities with unprecedented ease. Located in the tech hub of San Francisco, this dynamic start-up, with a lean team of just four, is making waves in the developer-tools and cybersecurity sectors.\n\n#### Mission and Vision\n\nZeroPath's mission is clear: to automatically find and fix vulnerabilities in your software. It serves as an essential tool for developers, acting like an extra pair of eyes that spots potential security issues typically only identified during penetration tests or bug bounty programs.\n\n#### How It Works\n\nZeroPath autonomously detects, verifies, and even submits fixes for vulnerabilities present in your code. The setup is straightforward\u2014integrating the GitHub app takes under two minutes, after which your existing CI/CD pipeline can benefit from real-time security checks. By identifying and patching broken authentication, logic bugs, and outdated dependencies, ZeroPath aims to streamline the development process while bolstering security. \n\nInstead of producing overwhelming reports filled with false positives, it generates pull requests (PRs) when confident changes won\u2019t disrupt your applications. This makes security a seamless part of the development process\u2014a true win-win for engineers.\n\n#### Features That Stand Out\n\n- **AI-Powered Scanning:** With impressive efficacy, ZeroPath's scanning engine finds critical bugs while minimizing false positives.\n- **Continuous Integration Support:** ZeroPath integrates easily with GitHub, GitLab, and Bitbucket\u2014no more long waits for security audits or extensive PR reviews.\n- **Developer-First Experience:** It enhances productivity without hampering development speed, ensuring the team can ship secure products more efficiently.\n\n#### Track Record\n\nZeroPath isn\u2019t just theoretical; it\u2019s backed by real results. They\u2019ve already identified and fixed numerous vulnerabilities across various open-source projects. With dozens of vulnerabilities documented, their Wall of Fame showcases their commitment to enhancing software security worldwide.\n\n#### Testimonials\n\nFeedback from users reaffirms ZeroPath\u2019s impact. Developers appreciate how it catches overlooked issues pre-merge, while co-founders from various companies laud the tool as akin to having an entire security team working as an extension of their own. It\u2019s creating an era where engaging with security doesn\u2019t have to mean extra layers of complexity.\n\n#### The Future\n\nWith the digital landscape\u2019s reliance on robust security, ZeroPath is perfectly positioned to become an industry standard. If you\u2019re ready to embrace a future where security is integrated seamlessly and automatically in your development workflow, ZeroPath offers you a front-row seat.\n\nIn a nutshell, ZeroPath is here to change how software vulnerabilities are managed. Whether you're a small startup or a well-established enterprise, the time has come to rethink your application security\u2014try ZeroPath and experience the difference. \n\nFor more information, check out [ZeroPath](https://zeropath.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cb89fc76c11b89ea263581bab7d62e9d50e58c46.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAFJSOQ65W%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDHe2krNA4Wz4ZdbboNJG%2B0zG6MmRspOJ5Kex%2FWuhFzDwIhAK4JNrLJx7V6Lp69aumcmLj570j2DR2Eh3hPcEuQGW3%2FKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgweLBjNRNugVRDPT8gqwgPiLGnMwjgQOiNH7FMTInTVKCCJLDe5fdDWlactIzRh2XOtRjauQZptst9ejdBs3vj590lIr07sFFKCWuGV%2B%2BJkmRqS%2BXBC6caH3J97%2FH7W3ch4kKAyKE3TuVCMVl%2BqNFww29jX%2BimNvDUNvCgQtjVE03FWSnfbJrDf3NUx8wttW6l2EC5fgOealDp0Ne7xA51qGtDKfIYSJUUyj6d2WgcNp66ilXSYF5HX3L4wid4xRepJ9Vt1krkNG6bsNoITqg8zMlLgZ7QT5uVwuoY%2Fhv%2F89O661Pa6%2FtGfz6gcZjx3JmkvJh2yaephzjfzpFg43OFS%2B3NnORgMbCqTEcn9piGJokbf9a5xoR2Qt8E4L2AdZTypzC0scYqz%2BA1CsQiK1RrvedAjSsaEw4%2FqFaR6rBrZ4SBiKqlmStv67nu5CMG6DF414F2WlGbkeS8C%2BJYZ2iky%2B19B0K9e4J7Tik78PRFNXoN8lSqP4k%2BLhdrqVq5b2d4m7UHeeProhr%2Fv5HV%2BORFSiFow%2Fhbxt6GN2P2YWxzdIHA32IkBqYD%2BeZ3eFOZSk%2B1Pldgq4PSaiU5lQlEewufIwxcnWXTzGkzSJ%2BLlLlzWX4EwrKPjvQY6pAEqZgWN8cooHP%2FeegIX6R3Pun8lUwrTM2csrvVF8K2udU7KUu1EoXzzxsupULfK9AN%2Bcef1HwWg3GN0hRmtduP9znDwqy7B09eErZHX3iCWPeVm7m2HUwQH0BM7NBnkw%2BBNh35scX3c4lMIghjRFyw9b8VEOGAbUjAxbgvLqemFdd8Zq7DGRWXDbhLqcGd2hHliZLchEjlQhzfD3wdeSwzTgvkJMw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=94ea95bb13e464fc0863b7125f951f39cba032ee0164ef711e43610fb834f0e3",
+    "social_links": [
+        "https://www.linkedin.com/company/zeropathai",
+        "https://x.com/zeropathAI",
+        "https://github.com/zeropathai"
+    ],
+    "logo_path": "data/logos\\ZeroPath_logo.png"
+}

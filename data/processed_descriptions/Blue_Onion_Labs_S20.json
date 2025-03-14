@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/blue-onion-labs",
+    "name": "Blue Onion Labs",
+    "headline": "Single source of truth for a company's financial data",
+    "batch": "S20",
+    "description": "We integrate via API across a company\u2019s stack to trace and reconcile millions of financial transactions across multiple systems, providing the functionality of a legacy ERP system without the time and cost of a traditional implementation.",
+    "activity_status": "Active",
+    "website": "https://www.blueonionlabs.com",
+    "founded_date": 2020.0,
+    "team_size": 20.0,
+    "location": "New York",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:finance; location:new-york",
+    "founders": [
+        {
+            "name": "Lyndsey Bunting, Founder",
+            "description": "Co-founder of Blue Onion Labs. Previously VP of Finance at Birchbox and CFO at Resonance Companies. Former Peace Corps Volunteer.",
+            "linkedin": "https://www.linkedin.com/in/lyndseybunting/"
+        },
+        {
+            "name": "Manav Malhotra, Founder",
+            "description": "Co-Founder of Blue Onion Labs.",
+            "linkedin": "https://www.linkedin.com/in/manav-m/"
+        },
+        {
+            "name": "Charles McMillan, Founder",
+            "description": "Co-Founder of Blue Onion Labs. An early engineering hire at VTS through to its 1B valuation. Previously an engineer at Spotify working on the podcaster mission",
+            "linkedin": "https://www.linkedin.com/in/charles-m-23674222/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Overview: Blue Onion Labs\n\n**Founded:** 2020  \n**Location:** New York   \n**Team Size:** 20 employees  \n**Y Combinator Batch:** S20  \n\nBlue Onion Labs is disrupting the financial data landscape by offering a single source of truth for companies' financial transactions. The company originated from a clear mission: to integrate seamlessly across a company's tech stack using APIs to trace and reconcile millions of financial transactions. What Blue Onion provides is a modern, agile alternative to traditional ERP systems, cutting down on both time and costs associated with implementation.\n\n#### Mission & Vision\nAt its core, Blue Onion Labs aims to provide businesses with a definitive and accurate financial data subledger, which acts as the backbone for automated daily bookings and reconciliations. The goal is to ensure financial accuracy and efficiency, allowing businesses to close their books daily rather than on a monthly basis.\n\n#### Technology and Integrations\nThe company's platform leverages AI-driven algorithms to validate data before it reaches the ERP systems, effectively preventing inaccuracies. Blue Onion offers extensive integrations with leading financial systems such as:\n\n- **Order Systems:** Shopify\n- **Payment Processors:** Stripe, PayPal, Adyen, Global-e\n- **Return Management Systems:** Loop Returns, Happy Returns\n- **Accounting/ERP Systems:** NetSuite, QuickBooks, Xero, Dynamics 365, Sage Intacct, among others.\n\n#### Performance Metrics\n- Over **$30 billion** in transactions reconciled.\n- An impressive **99% average accuracy** in transaction processing.\n- The platform has proven scalability, adapting to customers' growing needs as they process from **$20 million to $200 million** in transactions annually.\n\n#### Client Success Stories\nLeading retail and eCommerce brands, such as Supergoop! and Clean Simple Eats, have embraced Blue Onion's solutions. For instance, Clean Simple Eats reduced their month-end closing time from **60+ hours to under 5** with Blue Onion\u2019s help. The capacity for automation significantly enhances operational efficiency and frees up critical resources.\n\n#### Team and Leadership\nBrad Flora serves as Group Partner, guiding the strategic vision of the company as it scales. The adept team is dedicated to fostering innovation and leveraging machine learning to deliver a superior financial management experience.\n\n### What\u2019s Next?\nBlue Onion Labs is not just about connecting systems; it's about transforming how businesses perceive and manage their financial data. With a focus on providing a secure, efficient, and reliable framework for financial operations, Blue Onion is set to redefine accounting processes across the industry.\n\n#### Discover More\nIf you\u2019re interested in learning how Blue Onion Labs can transform your financial operations, check out their [website](https://www.blueonionlabs.com) for demos, case studies, and more insights into their innovative platform.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/84ddd958d4cd85db071ec387e7029dba0f8565f5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191028Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=07e36474d4dc64d276943ef4f50e86f1a027f2d8da7e91cfbcce8b721e7e33de",
+    "social_links": [
+        "https://www.linkedin.com/company/blue-onion-labs-inc"
+    ],
+    "logo_path": "data/logos\\Blue_Onion_Labs_logo.png"
+}

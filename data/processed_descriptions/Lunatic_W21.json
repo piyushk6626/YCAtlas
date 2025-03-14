@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/lunatic",
+    "name": "Lunatic",
+    "headline": "Operating System for server-side apps",
+    "batch": "W21",
+    "description": "At the core of the company there is Lunatic, a runtime for developing low latency, robust and distributed networking applications. It can be used for web applications, game servers, video and voice chat, or other apps requiring low latency runtimes. Lunatic borrows many proven ideas from Go and Erlang, but also uses WebAssembly to make it easier targetable from existing languages, allowing teams to leverage already existing code and libraries.",
+    "activity_status": "Active",
+    "website": "https://lunatic.solutions/",
+    "founded_date": 2020.0,
+    "team_size": 2.0,
+    "location": "Vienna, Austria",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:open-source",
+    "founders": [
+        {
+            "name": "Bernard Kolobara, Founder",
+            "description": "Bernard is the co-founder and CEO of Lunatic. \n\nPrior to Lunatic, Bernard worked at CERN where he developed monitoring tools for a cluster of 1,000+ servers. He also manages 2 online communities around an open source distributed ledger technology with more than 6,000 registered users.",
+            "linkedin": "https://www.linkedin.com/in/bkolobara/"
+        },
+        {
+            "name": "Hrvoje Bandov, Founder",
+            "description": "Hrvoje previously co-founded an innovative insurance-tech company Amodo where he served as a system architect. For the last few years, he has been working as a contractor on various back-end projects including a platform for running real-time web-based multiplayer games.",
+            "linkedin": "https://hr.linkedin.com/in/hrvoje-bandov-2b699773"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Lunatic - The Future of Server-Side Applications\n\n**Founded:** 2020  \n**Location:** Vienna, Austria  \n**Team Size:** 2  \n**Y Combinator Batch:** W21  \n\n---\n\n**Mission Statement:**  \nLunatic is dedicated to creating powerful operating systems specifically designed for server-side applications.\n\n---\n\n**What is Lunatic?**  \nAt its core, Lunatic is a WebAssembly runtime inspired by Erlang, aimed at building low-latency, robust, and distributed networking applications. Think gaming servers, web apps, or video chat platforms\u2014anything that needs speed and reliability. By leveraging WebAssembly, Lunatic allows developers to use existing codebases and libraries from various programming languages, making it an attractive option for teams looking to enhance their projects.\n\n---\n\n**Key Features:**\n\n- **Open Source:** Built under a dual Apache/MIT license, fostering collaboration and community contributions.\n  \n- **Performance:** Utilizes JIT-compiled WebAssembly for high-throughput and low-latency services.\n\n- **Security:** Each process runs in a sandboxed environment, minimizing risks associated with untrusted code.\n\n- **Fault Tolerance:** Monitors processes through supervision trees, inspired by Erlang to ensure system resilience.\n\n- **Portability:** Compile once and run anywhere\u2014supporting different architectures and operating systems.\n\n- **Distributed Capabilities:** Nodes can easily connect via QUIC with mTLS authentication, allowing for seamless scaling.\n\n---\n\n**Ideal Use Cases:**  \nLunatic shines in scenarios that require massive concurrency and high fault tolerance, making it suitable for real-time systems where reliability is non-negotiable. Whether you're working with traditional web applications or modern gaming services, Lunatic provides the robust foundation you need.\n\n---\n\n**Community and Support:**  \nJoin Lunatic's community to collaborate on development, access extensive documentation, and stay connected through [GitHub](https://lunatic.solutions/<https:/github.com/lunatic-solutions/lunatic>), [Discord](https://lunatic.solutions/<https:/discord.gg/b7zDqpXpB4>), and [Twitter](https://lunatic.solutions/<https:/twitter.com/lunatic_runtime>).\n\n---\n\n**Final Thoughts:**  \nLunatic is not just a runtime; it's a community-driven project aiming to redefine how developers approach server-side applications. If you're looking to build the next scalable service, Lunatic could very well be your go-to solution. Check out more on their [website](https://lunatic.solutions/).\n\n---\n\nIn a nutshell, Lunatic combines the proven excellence of Erlang's principles with the modern flexibility of WebAssembly, creating a compelling option for developers eager to tackle the complexities of distributed service architectures. If you want to stay ahead of the curve in server-side development, this is definitely worth a look.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3eae00d2731287ffd9f8e8b993b3cf82a2ab200a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191516Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=884a118bc9e27f83752940ae8ae521aafecda99e10f83d471b5f7d52ce6bafcd",
+    "social_links": [
+        "https://www.linkedin.com/company/75862784/",
+        "https://twitter.com/lunatic_runtime",
+        "https://github.com/lunatic-solutions"
+    ],
+    "logo_path": "data/logos\\Lunatic_logo.png"
+}

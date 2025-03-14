@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/trace",
+    "name": "Trace",
+    "headline": "Voice AI Customer Support for Financial Services",
+    "batch": "W25",
+    "description": "We started Trace because we believe AI should wow customers, not frustrate them. As a result, we prioritize reliability and seamless customer interactions. \r\n\nTrace AI agents resolve calls end-to-end, securely integrating with bank systems and external APIs. So far, our agents handle quoting, application, and transaction tracking calls for our partners \u2014 but we\u2019re still searching for new exciting use cases.\r\n\nQuestion to all fintechs/banks: Which customer requests keep coming back to you? We\u2019d love to learn how you handle them now and if they are ripe for automation.",
+    "activity_status": "Active",
+    "website": "http://tracetec.co",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:finance; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Saner Cakir, Founder",
+            "description": "Saner (CEO @ Trace) has a remarkable track record of building reliable AI solutions for high-stakes applications. While studying Electrical Engineering and CS at UC Berkeley, he contributed to multiple publications in robot learning and computer vision at BAIR Lab. Before Trace, Saner co-built an AI copilot for surgeons that helped save lives during cardiothoracic surgeries at UCSF.",
+            "linkedin": "https://www.linkedin.com/in/saner-cakir-697385300/"
+        },
+        {
+            "name": "Kayla Lee, COO & Founder",
+            "description": "Kayla (COO @ Trace) did her bachelor\u2019s and master\u2019s in CS at UC Berkeley, where she led groundbreaking NLP research under Professor Dan Klein. Before Trace, Kayla co-built an AI copilot for surgeons that helped save lives during cardiothoracic surgeries at UCSF. Kayla was also a national-level athlete in fencing and lacrosse \u2014 her unwavering perseverance and laser focus have become core values of Trace.",
+            "linkedin": "https://www.linkedin.com/in/kayla-lee-715149160/"
+        },
+        {
+            "name": "Yash Pansari, Founder",
+            "description": "Yash (CTO @ Trace) studied Math and CS at UC Berkeley and Stanford (MS). Before Trace, he worked as a Quant Researcher at Optiver and Goldman Sachs, where he enabled millions of dollars in annual profitability through his high-frequency trading strategies. He also contributed to ML research published by Stanford, Berkeley, and the US Department of Energy (LBNL).",
+            "linkedin": "https://www.linkedin.com/in/yashvpansari"
+        }
+    ],
+    "status": true,
+    "generated_description": "Trace, founded in 2024 and proudly part of Y Combinator's Batch W25, is revolutionizing customer support in the financial services sector with the power of voice AI. Based in San Francisco, this nimble startup, currently a team of three, is on a mission to ensure that AI serves to impress customers rather than frustrate them. They believe that customer interactions should be seamless and reliable.\n\nHere's how they do it: Trace's AI agents are not your typical chatbots. They can handle calls end-to-end, integrating securely with banking systems and external APIs. This means they can efficiently manage tasks like quoting, application processing, and tracking transactions, which really streamlines the whole customer service experience. And they\u2019re always on the lookout for new use cases to tackle.\n\nWhat\u2019s particularly interesting about Trace is their openness to feedback. They\u2019re asking fintechs and banks: \u201cWhich customer requests keep coming back to you?\u201d This demonstrates a commitment to not only understanding existing challenges but also actively shaping their AI\u2019s capabilities to address industry needs.\n\nKey Features:\n- **Security**: They ensure AI never accesses user information without proper authentication.\n- **Seamless Interactions**: Their agents continue smoothly without interruptions, enhancing user experience.\n- **Compliance**: Adherence to company policies is built into their AI\u2019s design.\n- **Independence**: Unlike other systems that just provide information, Trace agents complete tasks on behalf of the user.\n\nAs they continue to grow, they aim to provide instant and consistent support, eliminating wait times and bad attitudes. The reception so far has been overwhelmingly positive, with partners noting how Trace surpasses internal efforts in efficiency and user experience.\n\nIf you're in fintech or banking, here's your cue \u2014 connect with Trace to explore if your repetitive customer requests are ripe for automation. Because if it's about making customer interactions extraordinary, Trace might just be the answer.\n\nFor more information, visit their website at [Trace Technologies](http://tracetec.co).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6cd3938fd39706a4a9eeadbad603f77c048c218e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192024Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=39258c8c4973b1cf0f83a4b6a278a0b4e114ab606182a75d982bf0e9c8782ece",
+    "social_links": [
+        "https://www.linkedin.com/company/tracetechnologies"
+    ],
+    "logo_path": "data/logos\\Trace_logo.png"
+}

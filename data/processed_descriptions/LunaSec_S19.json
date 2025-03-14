@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/lunasec",
+    "name": "LunaSec",
+    "headline": "An Open Source dependency security tool that is smarter than the rest",
+    "batch": "S19",
+    "description": "LunaTrace isn't just another security scanner that blasts you with vulnerabilities. LunaSec has developed a hosted Open Source dependency security tool that is smarter, faster, and quieter than any other. It's backed by a team of security experts who monitor the latest attacks, write remediation guides, and help you patch in hours instead of weeks.\r\n\nIn under 2 minutes, for free, you can generate your own vulnerability report to gain insight into the security + compliance of your software by clicking here: https://lunatrace.lunasec.io/\r\n\nEmail us at: contact@lunasec.io\r\nOur GitHub: https://github.com/lunasec-io/lunasec",
+    "activity_status": "Active",
+    "website": "https://www.lunasec.io",
+    "founded_date": 2019.0,
+    "team_size": 4.0,
+    "location": "Seattle, WA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:devsecops; industry:security-orchestration-automation-and-response-(soar); industry:security; industry:open-source; location:seattle",
+    "founders": [
+        {
+            "name": "Free Wortley, Founder",
+            "description": "Background as a Security Engineer with a specific focus on Application Security (code and infrastructure security).\n\nFeel free to shoot me an email if you need any security advise. I always love to help other founders figure that stuff out!",
+            "linkedin": "https://www.linkedin.com/in/freewortley/"
+        }
+    ],
+    "status": true,
+    "generated_description": "LunaSec is reinventing the way we think about dependency security tools. Founded in 2019 and hailing from Seattle, WA, this company started its journey as LunaTrace but quickly evolved into LunaSec, a name that better reflects its mission. Their goal is to offer an open-source dependency security tool that stands out from the noise\u2014smarter, faster, and quieter than the typical security scanners that often barrage you with alerts without real guidance.\n\nWhat's unique about LunaSec is their approach. They don't just throw vulnerabilities at you; they provide actionable insights and remediation guides from a team of seasoned security experts who actively monitor the latest threats. This means that instead of spending weeks in the weeds of patching vulnerabilities, you can get the help you need in just hours.\n\nInterested in assessing your software's security and compliance? You can generate a personalized vulnerability report in under two minutes\u2014absolutely free\u2014by visiting their site. \n\nThe company is a proud member of the Y Combinator Batch S19 and is currently a nimble team of four, working diligently to keep the software development community safe. They\u2019re backed by a strong technical foundation and a commitment to open source principles, which resonate deeply in today\u2019s development landscape.\n\nIf you want to dive deeper into what LunaSec has to offer or to reach out directly, check out their main website at [lunasec.io](https://www.lunasec.io) and explore their GitHub for more technical details. Also, don\u2019t hesitate to drop them an email at contact@lunasec.io if you have queries or need support.\n\nIn a world where security is paramount, LunaSec provides a refreshing and effective approach to managing software vulnerabilities, tagged aptly in the realms of developer tools, DevSecOps, and security automation. They are not just another tool in your toolbox\u2014they're a smarter solution for modern developers.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6b72415f813d7669fec9b06d2a8176d1f37f1b2e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191516Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f60be7dff5d37219071a8a290112acab6d0a1fe94e062f4515d56a82d54e5d3a",
+    "social_links": [
+        "https://www.linkedin.com/company/74743886",
+        "https://twitter.com/LunaSecIO",
+        "https://www.crunchbase.com/organization/lunasec",
+        "https://github.com/lunasec-io"
+    ],
+    "logo_path": "data/logos\\LunaSec_logo.png"
+}

@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/autopallet-robotics",
+    "name": "AutoPallet Robotics",
+    "headline": "We make robots that move boxes in warehouses",
+    "batch": "S24",
+    "description": "We\u2019re building the next generation of warehouse robotics.\r\n\nIn the US today, retailers spend approximately $10B per year paying human laborers to pick up and move cardboard boxes in warehouses. Existing solutions for automating this are expensive and difficult to install, which is why manual operation is still so prevalent.\r\n\nOur solution is different. We make swarms of small mobile robots that install into existing warehouses to provide a low-cost and robust automation solution for case picking and mixed-SKU palletization. Our novel technology allows these robots to be installed and operate at significantly lower cost than existing solutions while being both flexible and robust.",
+    "activity_status": "Active",
+    "website": "https://autopallet.bot",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:machine-learning; industry:warehouse-management-tech; industry:swarm-robotics; industry:automation; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nathan Yee, Founder",
+            "description": "Nathan is the co-founder and COO of AutoPallet Robotics.\n\nAt 18, he graduated as the valedictorian of College of Alameda and then studied Engineering with Computing at Olin College where he met Eric. He has since built ML models for MBARI, consulted for the DIU (xView2) and WashU (drug discovery), and built core software for lab automation robotics at Trilobio.",
+            "linkedin": "https://www.linkedin.com/in/nathanielyee/"
+        },
+        {
+            "name": "Eric Miller, Founder",
+            "description": "Eric is the co-founder and CEO of AutoPallet Robotics.\n\nAfter graduating from Olin College in 2019, he led the Subject Tracking and Autonomy Infrastructure teams at Skydio, rapidly growing from individual contributor to lead a team of 6 engineers.\n\nEric is a multidisciplinary robotics engineer with significant experience building modern robotics stacks, from hardware and electronics through perception and high-level software.",
+            "linkedin": "https://www.linkedin.com/in/olin-eric/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**AutoPallet Robotics: The Future of Warehouse Automation**\n\nFounded in 2024 and part of Y Combinator's Batch S24, AutoPallet Robotics is out to transform the way warehouses operate. Based in San Francisco with a tight-knit team of three, they\u2019re developing an innovative fleet of small mobile robots specifically designed for the warehousing sector. Their mission? To make robots that move boxes in warehouses \u2014 a task that costs US retailers around $10 billion a year due to reliance on human labor.\n\nHere's the kicker: existing solutions for warehouse automation are often prohibitively expensive and complex to install. That\u2019s why many companies still depend on manual labor to handle the heavy lifting. AutoPallet Robotics is flipping the script. They are building swarms of flexible, cost-effective robots that can be deployed into existing warehouse setups. This makes their solution not only robust but also much more accessible than the current high-tech offerings on the market.\n\nWhat truly stands out is their cutting-edge approach that combines elements of swarm robotics and machine learning. This novel technology enables easier installation and operation at a fraction of the cost of traditional automation solutions, paving the way for a more efficient future in case picking and mixed-SKU palletization.\n\nWith Jared Friedman, a notable Group Partner, backing them, AutoPallet Robotics is poised to make a significant impact in the field of warehouse management technology, particularly as it is tagged within the hard-tech and automation categories.\n\nFor more information and updates on their journey, you can visit their website at [AutoPallet Robotics](https://autopallet.bot).\n\nIn summary, if you're looking to understand how the future of warehouses looks\u2014leaner, smarter, and filled with nimble robots\u2014keep an eye on AutoPallet Robotics. They're not just building technology; they're redefining how goods move in the modern supply chain.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f7cd338bda92f191466f4408b65187dbf15e64da.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191012Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a3a18a9763594a2087a5c2e65a29ba2f0a74fdf9052561df3d59034aa879aea0",
+    "social_links": [
+        "https://www.linkedin.com/company/autopallet-robotics/",
+        "https://github.com/AutoPallet/"
+    ],
+    "logo_path": "data/logos\\AutoPallet_Robotics_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/karmen",
+    "name": "Karmen",
+    "headline": "AI Assistant for Construction Project Managers",
+    "batch": "F24",
+    "description": "Karmen is an AI assistant for construction project managers. We integrate with their emails, project management software and ERPs to automate admin tasks like invoice processing and approvals.\r\n\nOne construction company we are working with faced a project delay cost of around $50,000 a day from an invoicing mistake. Supplier management issues like these account for 20% of project delays.",
+    "activity_status": "Active",
+    "website": "https://www.karmenai.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:construction; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jonas Ebrahimi, Founder",
+            "description": "My parents were general contractors, and during university, I gained experience working at JLL. After graduating, I joined IXM and was the youngest commodity trader in their history, primarily working with the European aluminum team. In this role, I managed the delivery of over $1 billion worth of refined aluminum annually, sourced from industrial projects around the globe.",
+            "linkedin": "https://linkedin.com/in/aabrbaskfna"
+        },
+        {
+            "name": "Naman Wahi, Founder",
+            "description": "I hold a Master\u2019s degree specialising in Artificial Intelligence and Machine Learning from Imperial College London. Previously, I was a software engineer at nPlan, a startup focused on delivering AI solutions for large-scale construction projects with clients such as Shell, ExxonMobil, and Skanska. Drawing on my experience in construction tech, I\u2019m now building Karmen, an AI Assistant for Construction Project Managers.",
+            "linkedin": "https://www.linkedin.com/in/naman-wahi/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Karmen is an innovative startup focused on revolutionizing the construction industry by providing an AI assistant specifically designed for construction project managers. Founded in 2024 in San Francisco and part of Y Combinator Batch F24, Karmen is an emerging player in the intersection of machine learning and construction management.\n\nThe company's primary mission is to streamline administrative tasks that often bog down project managers. Karmen integrates seamlessly with existing emails, project management software, and ERP systems to automate processes like invoice handling and approvals. This kind of automation is crucial; for instance, one construction company faced up to $50,000 in daily costs due to project delays caused by invoicing errors. Supplier management issues contribute to 20% of these delays, highlighting the immense value of Karmen's solution.\n\nOn a practical level, Karmen helps users manage invoices, requests for information (RFIs), change orders, and other essential project details directly from their inboxes, saving significant amounts of time\u2014think hours every day that can now be spent on more strategic concerns.\n\nThe team currently consists of just two dedicated employees, and the company is under the guidance of David Lieb as its Group Partner. Karmen\u2019s technology also ensures real-time updates on project changes and organizes incoming information such as purchase orders and invoices, greatly enhancing productivity. By automatically extracting key details from emails and matching them to projects, Karmen eliminates the repetitive manual data entry burden and allows project managers to focus on keeping their endeavors on schedule.\n\nWith a robust commitment to integration, Karmen supports a variety of popular construction management tools, providing a comprehensive view of all project data in one place. For project managers, it\u2019s like having an additional team member\u2014one who never sleeps and can manage backend tasks efficiently.\n\nTo sum it up, Karmen is not just another tech startup; it's a much-needed assistant aimed at tackling the common pain points faced by construction project managers. By automating tedious administrative tasks and enhancing productivity, Karmen is poised to make waves in the construction sector.\n\nFor more information, or to see the system in action, you can explore their website at [karmenai.com](https://www.karmenai.com) or book a demo to witness how it can transform the way you manage your projects.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/992bcd00806e5e4363b91f48a65e0cc48b2ed494.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cf5b10e4085f5f7e21b843c47998c77ca6894dd96edf60bf3a407d7f12a60fea",
+    "social_links": [
+        "https://www.linkedin.com/company/karmenai/"
+    ],
+    "logo_path": "data/logos\\Karmen_logo.png"
+}

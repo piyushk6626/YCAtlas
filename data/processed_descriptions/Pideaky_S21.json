@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/pideaky",
+    "name": "Pideaky",
+    "headline": "We help offline LatAm SMBs manage and accelerate their cash-flow",
+    "batch": "S21",
+    "description": "Pideaky helps offline LatAm SMBs manage and accelerate their cash flow through AI collection agents, which remind, collect, and negotiate bills on behalf of SMBS in Latam.\r\nWe focus on the massively underserved $70B/year customer segment as our wedge \u2014 Mexican corner shops and corner shop providers:",
+    "activity_status": "Active",
+    "website": "https://pideaky.com/en/",
+    "founded_date": 2021.0,
+    "team_size": 3.0,
+    "location": "Monterrey, Mexico",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech",
+    "founders": [
+        {
+            "name": "Carlos Tejeda, Founder",
+            "description": "- CEO and co-founder of Pideaky, we help LatAm SMBs manage and accelerate cash flow. \n- CEO and founder Of Orca Wireless, we developed a  wireless internet network and served more than 250K customers in Northern Mexico.(exited) \n- Founder and CEO at RC  ( Payphone factory, 1996-2007), we produced and exported Payphone to Mexico and Latam. Our main end customers were small corner shops.",
+            "linkedin": "https://www.linkedin.com/in/carlos-tejeda-b8096a2a/"
+        },
+        {
+            "name": "Oscar Rydberg, Founder",
+            "description": "CTO at Pideaky\nCoding since age 7. Demos, Games 2d & 3d, VR (Quest Unity & UE), Raytracers, ERP&ERMs, Android Apps, Financial Transactions systems, Card Payments.\n\nWrote the whole GRC intranet system\nWrote the whole ORCA top-up & wireless access system\nDesgined mobile payphone with full tcp/ip stack\nDesigned hardware and did all firmware for ORCA 2.4/5G WiFi accesspoints\n\nAssembler (Ex MC68x, X86), C/C++, Perl, PHP, SQL, Pascal, MSVB, Java, JS, HTML/CSS...\nLinux, OpenWRT, Apache, MySQL, AmigaOS",
+            "linkedin": "https://www.linkedin.com/in/oscar-rydberg-ba170b15"
+        },
+        {
+            "name": "Rafael Tejeda Elizondo, Founder",
+            "description": "Rafael Tejeda Elizondo: Founder \"Pideaky\" (YCS21) \nRafael Graduate from Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey, Bs Law (1992) and MS in Technology Commercialization, University of Texas , Austin Red-McCombs Business School & CIMAV (2010)",
+            "linkedin": "https://www.linkedin.com/in/rafael-tejeda-elizondo-3853b5211/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Pideaky: Accelerating Cash Flow for LatAm SMBs\n\nFounded in 2021 and part of Y Combinator\u2019s Batch S21, **Pideaky** is on a mission to help offline small and medium-sized businesses (SMBs) in Latin America manage and boost their cash flow. Based in Monterrey, Mexico, the company is tackling the massive $70 billion/year market primarily consisting of local corner stores and vendors.\n\n#### How Pideaky Works\n\nPideaky\u2019s approach relies on advanced AI collection agents that seamlessly remind, collect, and negotiate invoices on behalf of its SMB clients. This saves business owners valuable time and reduces the stress associated with managing collections on their own. \n\nThe process is straightforward:\n1. **Upload Your Loan Book**: Businesses simply upload their customer payment details.\n2. **Automated Reminders**: Customers receive reminders via WhatsApp or email, enhancing payment compliance.\n3. **Effortless Payments**: Payments are reconciled automatically, allowing business owners to focus on what truly matters\u2014their growth.\n\n#### Products and Services\n\nPideaky offers two key products:\n- **Loans**: Access to capital that allows businesses to expand more quickly.\n- **Collection Management**: Tools to automate the reminder and reconciliation processes, leading to faster cash flow.\n\nThe platform has integrated over **17,000 cash payment points**, making it convenient for business owners and their customers to settle payments through popular retailers like Walmart and Super7.\n\n#### The Team and Support\n\nWith a compact team of three, Pideaky operates efficiently under the guidance of Group Partner Diana Hu. The feedback from users highlights the time-saving benefits of the service; clients need not juggle the complexities of manual collections any longer.\n\n#### Value Proposition\n\nWhy should a business owner consider Pideaky? Here\u2019s what they offer:\n- **Speed**: Get paid faster with automated reminders and streamlined processes.\n- **Simplicity**: Reduce the headaches of manual tracking and reconciliation.\n- **Variety**: Clients can offer diverse payment options to their customers, increasing convenience.\n\nBy addressing the financial challenges of underserved locales in Latin America, Pideaky has positioned itself as a vital tool for SMBs, providing them not only with necessary liquidity but also with a robust way to maintain cash flow.\n\nFor more information, visit their website at [Pideaky](https://pideaky.com/en/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a97caa67b6e54f3a8738ec5efb2daac317e4b2c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191638Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a15d2acb5fcebcc675abf5b7b403bbff18093b791be1d3f81333e1c96d24c171",
+    "social_links": [],
+    "logo_path": "data/logos\\Pideaky_logo.png"
+}

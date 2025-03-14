@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/tenjin",
+    "name": "Tenjin",
+    "headline": "Mobile marketing analytics and infrastructure",
+    "batch": "S14",
+    "description": "We're a mobile attribution and analytics provider, focused on helping app developers, marketers, and publishers find and grow their users. We track a bunch of metrics such as ad spend, ad revenue, in-app purchase revenue, subscription revenue, retention, etc. We also have a data warehousing product that lets our customers directly query the data we've collected.\r\n\nExperts at mobile advertising, need help with handling all of this data and making a very technical front-end more user-friendly.",
+    "activity_status": "Active",
+    "website": "https://www.tenjin.com",
+    "founded_date": 2014.0,
+    "team_size": 30.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Christopher Farm, Founder/CEO",
+            "description": "Like to make things",
+            "linkedin": "https://www.linkedin.com/in/christopherfarm"
+        },
+        {
+            "name": "Amir Manji, Founder/Head Barista",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/amirmanji"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Tenjin: Mobile Marketing Analytics Made Simple**\n\nFounded in 2014 as part of Y Combinator's Summer 2014 batch, Tenjin stands at the intersection of mobile marketing analytics and app development. Headquartered in San Francisco, this lean team of 30 is on a mission to demystify mobile attribution and analytics for app developers, marketers, and publishers. They\u2019re not just tracking user engagement; they\u2019re providing a complete analytics solution that helps businesses understand and optimize their mobile marketing efforts.\n\n### What They Do\nTenjin specializes in mobile attribution\u2014helping businesses identify their best users and most effective marketing channels. The platform tracks a myriad of metrics, including ad spend, ad revenue, in-app purchases, subscription revenue, and user retention. One standout feature is their data warehousing product, enabling clients to directly query collected data, making complex insights accessible and actionable.\n\nThe company advocates for a user-friendly interface amidst the highly technical landscape of mobile advertising, ensuring that service is both powerful and straightforward.\n\n### Core Products and Services\nTheir offerings revolve around key pillars:\n\n- **Measure:** Tools for mobile attribution and cost-revenue aggregation, crucial for understanding ad effectiveness.\n  \n- **Analyze:** A comprehensive ROI dashboard that unifies cost and revenue reporting, alongside predictive analytics for customer lifetime value (LTV).\n  \n- **Protect:** Fraud prevention measures that ensure marketing budgets are focused on genuine users.\n  \n- **Automate:** Solutions to streamline operations, including automation of mundane tasks and data pipelines that enhance data management.\n\n### Success Stories and Impact\nTenjin attracts impressive clients who have seen remarkable growth through their platform. For instance, Kooapps, an indie studio, achieved an **8x revenue growth** by leveraging Tenjin\u2019s attribution tools, while YOMI Studio measured a **60% uplift in ARPDAU** using their services. HyperBeard highlighted a **35% improvement in portfolio LTV**, showcasing Tenjin's impact on cross-promotion strategies.\n\n### Resources and Community\nTenjin offers a wealth of resources, including a blog full of best practices, case studies, and benchmarks that keep clients informed about trends and insights in mobile marketing. Their commitment to education in the space is evident and invaluable for app developers navigating complex analytics landscapes.\n\nFor those interested in diving deeper, Tenjin provides demo opportunities and ongoing support to ensure their clients can fully leverage the analytics tools at their disposal.\n\n### Conclusion\nIn a fast-evolving sector like mobile marketing, Tenjin presents itself as an essential partner for any app developer looking to enhance user acquisition and retention. Their focus on making data accessible and actionable, coupled with strong customer backing, positions them as a go-to resource in mobile marketing analytics. If you're ready to unlock the full potential of your app and save your advertising budget, Tenjin might just be the key you've been looking for.\n\nFor more information, visit their site at [tenjin.com](https://www.tenjin.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/71011854b586788f38d50d99da2ee02d642991b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192010Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6fda3cfd6985ac113f10afb9cb2a1c589a3a1ee185034d0ce1b171f1b80dc8db",
+    "social_links": [
+        "https://twitter.com/tenjinIO",
+        "https://www.facebook.com/tenjinio/",
+        "https://www.crunchbase.com/organization/tenjin",
+        "https://github.com/tenjin"
+    ],
+    "logo_path": "data/logos\\Tenjin_logo.png"
+}

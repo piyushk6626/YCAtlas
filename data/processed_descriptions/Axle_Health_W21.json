@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/axle-health",
+    "name": "Axle Health",
+    "headline": "Scheduling and workforce management SaaS for home healthcare providers",
+    "batch": "W21",
+    "description": "Axle Health provides scheduling and workforce management software for home healthcare providers. The Axle platform includes a mobile app for clinicians, an operations dashboard for office teams, proprietary logistics algorithms to optimize scheduling, and a patient engagement and booking solution. Axle is integrated with a wide range of EMRs, and the entire Axle product can be customized and accessed modularly via API. Some of the biggest home health care providers in the country use Axle\u2019s software to improve the utilization of their clinical teams, and automate the operational burden of scheduling and dispatching.",
+    "activity_status": "Active",
+    "website": "https://www.axlehealth.com",
+    "founded_date": 2020.0,
+    "team_size": 8.0,
+    "location": "Los Angeles, CA",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:scheduling; industry:logistics; industry:healthcare; location:los-angeles",
+    "founders": [
+        {
+            "name": "Adam Stansell, Founder",
+            "description": "CEO of Axle Health. Ex-Uber, Motive (fka KeepTruckin), management consulting, investment banking. Columbia BA summa cum laude in Econ-Math. Born and raised in Seattle, WA, also lived in Cambodia, Mexico and Argentina. GIF not JIF \ud83d\ude42",
+            "linkedin": "https://www.linkedin.com/in/adam-stansell/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Axle Health** is a startup founded in 2020, nestled in the heart of Los Angeles, CA, and is part of the Y Combinator Batch W21. The company has developed a robust SaaS platform aimed at addressing some of the most pressing challenges faced by home healthcare providers. \n\n### Mission and Services\n\nAxle Health\u2019s mission is straightforward: enhance scheduling and workforce management for home healthcare providers. They understand that efficient scheduling can make or break home health operations. The Axle platform consists of a mobile app designed for clinicians, an operations dashboard for office teams, and proprietary algorithms that optimize scheduling. Additionally, they offer comprehensive patient engagement and booking solutions. Importantly, Axle\u2019s system is integrated with a vast array of Electronic Medical Records (EMRs), enabling a seamless workflow for its users.\n\n### Product Features\n\n- **Route Optimization**: Using advanced logistics algorithms, Axle increases clinician efficiency and reduces downtime.\n- **Advanced Analytics**: The platform provides tools for predictive forecasting, real-time location tracking, and custom reporting, allowing organizations to make data-driven decisions.\n- **Patient Engagement**: The solution enhances patient experience by improving appointment show rates through better scheduling and automated messaging.\n- **Comprehensive Integrations**: Supports integration with various EMRs, CRMs, and HR systems, which can be tailored to fit specific needs.\n\n### Impact and Achievements\n\nAxle Health has made significant strides in its initial years. Their platform boasts impressive metrics, including a 19% increase in clinician productivity, a 55% reduction in patient no-show rates, and a staggering 71% decrease in time spent on operations. This level of impact is what makes them an attractive option for major home healthcare providers across the nation.\n\n### Security and Compliance\n\nSecurity is a critical consideration, especially in healthcare. Axle is SOC 2 Type II certified, HIPAA compliant, and supports various authentication methods. They also engage in routine penetration testing to safeguard data integrity.\n\n### Team and Vision\n\nAxle Health consists of a tight-knit team of eight, strategically led within the healthcare tech space by Group Partner Michael Seibel. The company proposes not just a technological solution but aims to redefine how home health care operates, making it more efficient and patient-centric.\n\nIf you're interested in learning more or exploring their offerings, take a look at their website: [Axle Health](https://www.axlehealth.com). \n\nIn summary, Axle Health is a promising player in the healthcare SaaS arena, poised to make a meaningful impact on home healthcare through its intelligent scheduling and management solutions.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3e4ab2e84adee2f652ff2a22423bf6ba5c9f14b3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191016Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=385beaa22fbafd229692d87493848858e59754ffd046066ee37fdfbdabca02b6",
+    "social_links": [
+        "https://www.linkedin.com/company/axle-health/",
+        "https://twitter.com/axlehealth",
+        "https://www.crunchbase.com/organization/axle-health"
+    ],
+    "logo_path": "data/logos\\Axle_Health_logo.png"
+}

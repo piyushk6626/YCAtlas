@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/ploomber",
+    "name": "Ploomber",
+    "headline": "Heroku for AI",
+    "batch": "W22",
+    "description": "We are building a cloud platform to help companies deploy and scale AI applications.",
+    "activity_status": "Active",
+    "website": "https://ploomber.io/",
+    "founded_date": 2022.0,
+    "team_size": 7.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:machine-learning; industry:analytics; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Eduardo Blancas, Founder",
+            "description": "Eduardo Blancas is the co-founder and CEO of Ploomber, a technology company developing the most data scientist-friendly tooling on the planet. Originally from Mexico, Eduardo moved to the US in 2015 and spent some time in Chicago, New York, and Boston. Eduardo studied at Columbia University and Tec de Monterrey.",
+            "linkedin": "https://www.linkedin.com/in/edublancas"
+        },
+        {
+            "name": "Ido Michael, Founder",
+            "description": "Ido is a founded Ploomber to help data scientists build faster. He'd been working at AWS leading data engineering/science teams. Single handedly he built 100\u2019s of data pipelines during those customer engagements together with his team. Originally from Israel, he came to NY for his MS at Columbia University. He decided to build Ploomber since he constantly found that projects dedicated about 30% of their time just to refactor the dev work (prototype) into a production pipeline.",
+            "linkedin": "https://www.linkedin.com/in/ido-michael"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Ploomber**\n\nFounded in 2022 and a proud member of Y Combinator's Winter 2022 batch, Ploomber is positioned at the intersection of cloud technology and AI development. Dubbed as \"Heroku for AI,\" Ploomber aims to simplify the deployment and scaling of AI applications for companies across various sectors.\n\n**Mission:**  \nPloomber\u2019s primary goal is clear: to provide a seamless cloud platform that empowers developers to easily launch AI applications. Their offering includes essential tools tailored for machine learning, analytics, and enterprise deployment.\n\n**Location & Team:**  \nBased in New York and supported by a dynamic team of seven employees, Ploomber is spearheaded by Dalton Caldwell, a Group Partner at Y Combinator. This compact yet skilled team is focused on building a robust solution that caters to the needs of AI developers.\n\n**Tagline & Offering:**  \nMarketed under the tags of \"developer-tools,\" \"machine-learning,\" \"analytics,\" \"AI,\" and \"New York,\" Ploomber's platform provides several critical features, including:\n\n- **Easy Deployment:** Users can deploy applications through intuitive drag-and-drop functionality, direct integration with Git, or via the terminal. \n- **Enterprise Features:** The platform boasts support for enterprise-grade authentication, performance analytics, and customizable domains. \n- **Automatic Scaling:** Ploomber ensures that applications automatically scale during peak usage or maintain fixed resources, adapting to user needs efficiently.\n- **Security & Compliance:** The service keeps sensitive information safe with features like LLM PII Protection and role-based access control, making it suitable for enterprise-level applications.\n\n**What\u2019s Next?**  \nPloomber invites users to get started for free and explore various sample applications built on their platform, such as those using Streamlit, Shiny, and Dash. They also provide documentation for developers looking to dive deeper into the functionalities offered.\n\nFor more information, or to see Ploomber in action, check out their website at [ploomber.io](https://ploomber.io/). \n\nPloomber represents an exciting new frontier in AI application deployment\u2014think of it as making the developer's life smoother while unleashing the full potential of AI in real-world applications.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a80c6b2e447bdd5f64d0d57fec5b827b2540c887.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191645Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=288404ad1c0a6fdc2c2caabe4421e6f7ad560cf709a46a6d2a22add9a7498489",
+    "social_links": [
+        "https://www.linkedin.com/company/ploomber",
+        "https://twitter.com/ploomber",
+        "https://www.youtube.com/channel/UCaIS5BMlmeNQE4-Gn0xTDXQ",
+        "https://www.crunchbase.com/organization/ploomber",
+        "https://github.com/ploomber"
+    ],
+    "logo_path": "data/logos\\Ploomber_logo.png"
+}

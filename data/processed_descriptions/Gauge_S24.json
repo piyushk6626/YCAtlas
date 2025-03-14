@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/gauge",
+    "name": "Gauge",
+    "headline": "Solving the monolith/microservices dilemma.",
+    "batch": "S24",
+    "description": "Gauge is solving the monolith/microservices dilemma. We\u2019re helping enterprises break large codebases into small pieces.\r\n\nWe first met as roommates in college, and in the decade since we've both worked exclusively at startups, including multiple founding engineering roles. We ran into this problem time and time again as our startups began to scale.\r\n\nWe're now working with a wide range of companies, including a number of multi-billion $ enterprises. Our open source tooling also has ~1k stars on GitHub, over 400k downloads, and is in use by Nvidia.\r\n\nIn the short term, Gauge is building tools to modularize the monolith. Long term, Gauge is building a way to deploy a single codebase as a set of independent services, giving you the scalability of microservices alongside the simplicity of monolithic development.",
+    "activity_status": "Active",
+    "website": "https://gauge.sh",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:open-source; industry:web-development; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Caelean Barnes, Founder",
+            "description": "CEO at Gauge - open source dev tools to solve the microservices/monolith dilemma. Previously founding eng. at Standard Metrics and Noble AI.  Early at Carta, Roku, UCLA Internet Research Lab.",
+            "linkedin": "https://linkedin.com/in/caelean"
+        },
+        {
+            "name": "Evan Doyle, Founder",
+            "description": "CTO at Gauge - building OSS to fix balls of mud! Early engineer and tech lead at Carta, Standard Metrics. Previously did technical consulting for early stage startups.",
+            "linkedin": "https://www.linkedin.com/in/evan-doyle-060b0ab9"
+        }
+    ],
+    "status": true,
+    "generated_description": "Gauge is a startup on a mission: to solve the monolith vs. microservices dilemma, that age-old problem that keeps developers awake at night. Founded in 2024 as part of Y Combinator's Batch S24, Gauge aims to help enterprises break down large, unwieldy codebases into manageable, modular pieces. \n\nThe co-founders, who first met as college roommates and have a combined decade of startup experience, witnessed firsthand the scaling challenges that arise when companies try to transition from monolithic architectures to microservices. Their solution? A set of open-source tools designed to modularize existing codebases while maintaining the simplicity of monolithic development. \n\nWith around 1,000 stars on GitHub and over 400,000 downloads, Gauge's tools have gained traction, even finding usage within major enterprises like Nvidia. Their short-term objective is to provide tools that help break up monoliths, while their long-term vision is to enable businesses to deploy a single codebase as a suite of independent services. This approach offers a perfect blend of microservices' scalability and the straightforwardness of monolithic development.\n\nBased in San Francisco, Gauge has a small yet dedicated team of just two employees. They\u2019re under the guidance of Diana Hu, their Group Partner at Y Combinator, and have positioned themselves well in the developer-tools space. \n\nIf you\u2019re looking to untangle your codebase, Gauge offers a variety of resources, from demo sessions to extensive documentation on their open-source tools. They\u2019re not just building software; they're creating a modularization toolkit that engineers\u2014and even AI\u2014can appreciate. \n\nFor a closer look and to explore their offerings, check out their [website](https://gauge.sh).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1a170aa100edb4d8e797e13ae6a6a29aac326ee8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191354Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b56fc226b867b1c584f7180093b7ec7a0253d0a1105a8466abb0d31dcc8defdd",
+    "social_links": [
+        "https://linkedin.com/company/gauge-sh",
+        "https://x.com/gauge_sh",
+        "https://linkedin.com/company/gauge-sh"
+    ],
+    "logo_path": "data/logos\\Gauge_logo.png"
+}

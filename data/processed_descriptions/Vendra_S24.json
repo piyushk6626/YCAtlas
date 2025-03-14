@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/vendra",
+    "name": "Vendra",
+    "headline": "AI copilot for hardware teams working with vendors",
+    "batch": "S24",
+    "description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers - all with no change to existing workflows - letting hardware teams focus on building and shipping amazing products",
+    "activity_status": "Active",
+    "website": "https://vendra.io/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:hardware; industry:saas; industry:b2b; industry:collaboration; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Shan Mohta, Founder",
+            "description": "CEO of Vendra. I built cool hardware at Skydio, Apple, Microsoft.",
+            "linkedin": "https://www.linkedin.com/in/shanmohta/"
+        },
+        {
+            "name": "Anish Bhardwaj, Founder",
+            "description": "CTO of Vendra. I build software.",
+            "linkedin": "https://www.linkedin.com/in/anish-b-00109695/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Vendra: Your AI Copilot for Hardware Teams\n\nVendra, founded in 2024 and part of Y Combinator's Batch S24, is reshaping how hardware teams collaborate with vendors and suppliers. Based in San Francisco, this nimble company, with just a two-person team, is on a mission to automate project management and streamline information retrieval\u2014without causing any disruption to existing workflows. This means that hardware teams can zero in on what they do best: building and shipping exceptional products.\n\n#### The Problem with Traditional Sourcing\n\nWhen it comes to sourcing custom parts, teams often get bogged down in **endless research**\u2014think hours spent slogging through Google searches, sending countless emails, and making cold calls. The traditional methods are rife with **manual processes** that lead to repeated searches for suppliers, miscommunication, and ultimately costly delays. Plus, many digital manufacturing platforms inflate prices and keep buyers at arm's length from the teams actually producing their parts.\n\n#### The Vendra Solution\n\nEnter Vendra, the smart solution to these age-old problems. The platform not only simplifies the process of RFQs (requests for quotes) and communication but also introduces **AI-powered automation** that instantly matches users with verified suppliers based on their production needs. Here\u2019s how it works:\n\n1. **Submit Your Project**: Provide project details through a straightforward form.\n2. **Get Connected**: Vendra connects you to a verified supplier network, managing both quotes and design feedback.\n3. **Start Production**: After selecting a supplier, you can kick off production while enjoying full visibility through their management suite.\n4. **Delivery**: Vendra takes care of logistics, ensuring parts arrive on schedule.\n\nWith Vendra, you skip the learning curve and eliminate delays, going from design to production in days\u2014not weeks.\n\n#### Comprehensive Manufacturing Capabilities\n\nVendra supports a variety of manufacturing processes, including:\n\n- **CNC Machining**: Precision machining tailored to your specifications.\n- **Injection Molding**: Plastic processes that cater to diverse complexities and volumes.\n- **3D Printing**: Advanced prototyping and production, utilizing multiple materials.\n- **Sheet Metal Fabrication**: From bending to welding, they cover comprehensive sheet metal needs.\n\n#### A Mission for Collaboration\n\nUltimately, Vendra wants to empower American manufacturing by enhancing the connection between buyers and manufacturers. Their solution bridges modern buyer expectations with traditional workflows, fostering collaboration and driving new opportunities.\n\nFor teams eager to streamline their manufacturing sourcing, Vendra presents a compelling option. By leveraging AI in the supply chain, they are not just innovating the process; they are fundamentally changing the game for hardware teams everywhere.\n\nCheck out more about this exciting startup at their website: [vendra.io](https://vendra.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/684f696878a1eebad1fd2950d35a494ba80e41ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192043Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6a9b8754f4c4ae11c6cee05adde4b7282296e75bca5ba2a1fd112b465de891be",
+    "social_links": [
+        "https://www.linkedin.com/company/vendra-hq/",
+        "https://www.crunchbase.com/organization/vendra"
+    ],
+    "logo_path": "data/logos\\Vendra_logo.png"
+}

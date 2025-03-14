@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/surge",
+    "name": "Surge",
+    "headline": "Stripe for telephony",
+    "batch": "F24",
+    "description": "Surge is Stripe for telephony. Our team has experience building telephony software at billion dollar scale. Because of increased regulation, Twilio and other SMS APIs take weeks to onboard new customers, but we can get startups onboarded same day. Surge will win the market by enabling easy carrier registration and keeping customers with our higher level APIs and no code UI components. We have 11 paying customers so far, and our revenue is growing 58% month over month.",
+    "activity_status": "Active",
+    "website": "https://surge.app",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Dennis Beatty, Founder",
+            "description": "Founder/CEO at Surge (F24), the easiest way for developers to send text messages. Formerly principal engineer over payments at Entrata and early engineer at Podium (W16) where I was a tech lead and senior engineer over the messaging platform and led engineering for the SMS payments product that reached a $2B run rate in year 2.",
+            "linkedin": "https://linkedin.com/in/dnsbty"
+        },
+        {
+            "name": "Brett Beatty, Founder",
+            "description": "Co-Founder/CTO at Surge (F24), the easiest way to add text messaging to software. Prior to Surge, I spent six years at Podium (W16) where I was a senior engineer on the Phones team and the account structure team, building the APIs upon which the rest of Podium's products were built. I was very focused on providing five nines of uptime and sub-millisecond response times.",
+            "linkedin": "https://www.linkedin.com/in/brett-t-beatty"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Surge: The Stripe for Telephony\n\n**Overview**  \nSurge, founded in 2024 and a part of Y Combinator's Batch F24, is making waves in the telephony space by positioning itself as \"Stripe for telephony.\" The company aims to empower developers and startups with a seamless and expedited SMS messaging solution that stands out amid increasing regulatory hurdles faced by mainstream APIs like Twilio.\n\n**What They Do**  \nSurge specializes in rapid customer onboarding for telephony services, cutting down the typical onboarding time from weeks to just hours or even the same day. They offer a suite of features that includes:\n\n- **Expedited Onboarding:** Get through campaign registration or toll-free verification in just 1-2 business days instead of the standard 2-3 weeks.\n- **Reliability and Redundancy:** Ensures messages are never lost due to downed webhooks.\n- **UI Components:** Pre-built messaging components that minimize coding efforts, offering a robust interface right out of the box.\n- **Attachments & Link Tracking:** Upload images and videos, plus automatically shorten links to enhance deliverability and provide tracking insights.\n- **Custom API:** For more technical use cases involving data analysis and message triggering, their API is both user-friendly and versatile.\n\nSurge already boasts 11 paying customers and shows strong momentum, with a remarkable 58% month-over-month revenue growth. With only a two-person team, it\u2019s clear that Surge is maximizing efficiency while laying the groundwork for aggressive expansion.\n\n**Why Surge?**  \nIf you\u2019re a startup or developer looking for a reliable telephony API, Surge simplifies the process. They handle everything from basic messaging infrastructure to sophisticated features, all while keeping the user experience in mind. For those interested in diving into the world of messaging, Surge makes it easy to get started\u2014build a demo account and be operational in minutes.\n\n**Connect with Surge**  \n- Website: [Surge](https://surge.app)\n- Documentation: [Get Started](https://surge.app/<https:/hq.surge.app/users/register>)\n\nThis isn't just about sending texts; it's about rethinking how communication can be streamlined and improved in a world where time and reliability matter. Surge is on the right track to winning the telephony market.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9e3fae470fe26fad5c000d52548317e21e26e027.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191959Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a032cf1647d71b3cc0673c3865b18dd1ec6c7c41c99fbc2dcdc66061a25b6c63",
+    "social_links": [
+        "https://www.linkedin.com/company/surgemsg",
+        "https://github.com/surgemsg"
+    ],
+    "logo_path": "data/logos\\Surge_logo.png"
+}

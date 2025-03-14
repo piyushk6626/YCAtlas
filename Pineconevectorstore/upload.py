@@ -2,9 +2,11 @@ from pinecone import Pinecone
 import json
 import os
 import logging
+import re
 from dotenv import load_dotenv
 from bs4 import BeautifulSoup
 import requests
+import unicodedata
 
 # Load environment variables
 load_dotenv()
@@ -19,14 +21,35 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-
+def sanitize_id(name, batch):
+    """
+    Sanitize the name to create a valid ID:
+    1. Remove non-ASCII characters
+    2. Convert to lowercase
+    3. Replace spaces with hyphens
+    4. Add batch information
+    """
+    if not name:
+        return f"unknown_{batch}" if batch else "unknown"
+        
+    # Remove non-ASCII characters and normalize
+    ascii_name = ''.join(c for c in unicodedata.normalize('NFKD', name) 
+                         if not unicodedata.combining(c) and ord(c) < 128)
+    
+    # Convert to lowercase and replace spaces with hyphens
+    sanitized = re.sub(r'[^a-zA-Z0-9\-]', '', ascii_name.lower().replace(' ', '-'))
+    
+    # Add batch to ID
+    if batch:
+        return f"{sanitized}_{batch}"
+    return sanitized
 
 def process_tags(tags):
     if tags is None:
         return []
     try:
-        T= tags.split(';')
-        tags=[]
+        T = tags.split(';')
+        tags = []
         for i in T:
             if i.startswith('industry:'):
                 tags.append(i.split(':')[1])
@@ -99,6 +122,13 @@ def process_dict_data(data):
                 value = '' if field != 'tags' and field != 'social_links' else []
                 logging.warning(f"Found None {field} for company: {data.get('name', 'unknown')}")
         
+        # Get company name and batch for ID generation
+        company_name = data.get('name', '')
+        batch = data.get('batch', '')
+        
+        # Generate ID using the sanitize_id function
+        company_id = sanitize_id(company_name, batch)
+        
         # Create metadata from relevant fields
         metadata = {
             'ycpage': str(data.get('links', '')),
@@ -134,7 +164,7 @@ def process_dict_data(data):
         logging.debug(f"Processed metadata for {data.get('name', 'unknown')}: {metadata}")
         
         return {
-            'id': str(data.get('name', '')).lower().replace(' ', '-'),
+            'id': company_id,
             'values': data.get('embedding', []),
             'metadata': metadata
         }
@@ -146,13 +176,11 @@ def process_dict_data(data):
 def upload_to_pinecone(vectors, index_name="ycatlas"):
     """Upload vectors to Pinecone index."""
     try:
-        
         # Get index
         index = pc.Index(index_name)
         for vector in vectors:
             index.upsert(
                 vectors=[vector],
-                
             )   
     except Exception as e:
         logging.error(f"Failed to upload to Pinecone: {str(e)}")

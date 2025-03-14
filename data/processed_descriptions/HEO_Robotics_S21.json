@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/heo-robotics",
+    "name": "HEO Robotics",
+    "headline": "We visually monitor space objects for governments and defense",
+    "batch": "S21",
+    "description": "HEO Robotics visually monitors satellites for governments and defence. We do this by transforming existing Earth observation satellites with software to image other satellites as they fly close by.",
+    "activity_status": "Active",
+    "website": "https://www.heo-robotics.com/",
+    "founded_date": 2016.0,
+    "team_size": 3.0,
+    "location": "Sydney, Australia",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:space-exploration; industry:aerospace",
+    "founders": [
+        {
+            "name": "Will Crowe, Founder",
+            "description": "Will has a PhD in Aerospace Engineering, with a focus on the astrodynamics of spacecraft swarms with relation to asteroids. He has won international awards for his work, including the Space Generation Advisory Council's \"Move an Asteroid\" award in 2015. As CEO of HEO Robotics, Will's highlights include taking the world's second commercial in-orbit inspection photo of a spacecraft. Will loves spending time with family and reading.",
+            "linkedin": "http://www.linkedin.com/in/william-crowe-space"
+        },
+        {
+            "name": "Hiranya Jayakody, Founder",
+            "description": "Co-founder and CTO - HEO Robotics\n\nHiranya Jayakody is the CTO and co-founder of HEO Robotics. He has a PhD in mechatronics engineering from UNSW Sydney and a bachelor's degree in electronics engineering from University of Peradeniya, Sri Lanka. In addition to HEO Robotics, he worked as a researcher at UNSW Sydney focusing on computer vision and machine learning for agriculture as well as robust control of aerial vehicles and space robots.",
+            "linkedin": "https://www.linkedin.com/in/hiranya-jayakody/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**HEO Robotics: Transforming Space Monitoring**\n\nFounded in 2016 and part of Y Combinator's Batch S21, HEO Robotics is a Sydney-based company on a mission to redefine how we monitor space activities. With a compact team of just three employees, HEO is already making waves in the realm of aerospace and space exploration.\n\n### What They Do\n\nHEO Robotics specializes in *Non-Earth Imaging (NEI)*, a cutting-edge approach that allows them to capture detailed imagery of satellites and other objects in space using modified Earth observation satellites. Their technology transforms these existing satellites with software that facilitates imaging of nearby satellites in real-time. The goal is straightforward yet ambitious: to make space operations more transparent and secure by providing high-frequency, actionable insights to governments and defense agencies.\n\n### The Technology\n\nTheir proprietary NEI technology harnesses a vast dataset and sensor network. HEO\u2019s cameras, aptly named **Holmes** and **Adler**, are key players in expanding their observational capabilities beyond low Earth orbit (LEO). This means that they can not only monitor satellite activities but also contribute to the sustainable management of space environments by addressing issues like space debris.\n\n### Partnerships and Growth\n\nHEO has built partnerships with various Earth observation companies and spacecraft owners to enhance their coverage and capabilities. This collaborative approach underscores their commitment to making space safer for everyone by providing crucial insights that can lead to better decision-making and operational efficiencies.\n\n### The Bigger Picture\n\nThe implications of HEO\u2019s work are vast. By offering services such as anomaly detection, pattern-of-life analysis, and early operational support, they empower governmental and defense entities to make informed decisions regarding space operations. Their efforts resonate well in an era where the significance of space is escalating, both for scientific advancement and national security.\n\n### Connect with HEO\n\nFor more insights about HEO Robotics and their vision of a transparent space environment, visit their website at [HEO Robotics](https://www.heo-robotics.com/). Whether you're interested in their latest technologies, partnerships, or career opportunities, HEO is positioned as a pioneering force in the evolving landscape of space exploration.\n\n---\n\nIn summary, HEO Robotics appears to be at the forefront of a fascinating intersection of technology and space. Their innovative solutions are not only shaping how we view satellites but also enhancing our ability to navigate the complexities of space management in the future.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/52149d20c84353c407316e21340b3fa5faf7a017.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191416Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a8a0afeecf3e7a382a9a960358c323751d049885f65d1ae4a2417f2d7f2a95d1",
+    "social_links": [
+        "https://au.linkedin.com/company/high-earth-orbit-robotics",
+        "https://twitter.com/heorobotics?lang=en",
+        "https://www.facebook.com/heorobotics"
+    ],
+    "logo_path": "data/logos\\HEO_Robotics_logo.png"
+}

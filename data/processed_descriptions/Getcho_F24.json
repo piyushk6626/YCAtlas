@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/getcho",
+    "name": "Getcho",
+    "headline": "The reliability platform for last-mile delivery",
+    "batch": "F24",
+    "description": "Getcho is a local delivery platform for high-value goods. \r\n\nWe are building a high-reliability delivery network on top of high-volume, unreliable fleets, just like how TCP builds reliable end-to-end networking on top of an unreliable base network (IP).",
+    "activity_status": "Active",
+    "website": "https://getcho.app/",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "New York",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:delivery; industry:logistics; industry:e-commerce; industry:retail-tech; location:new-york",
+    "founders": [
+        {
+            "name": "Jack Considine, Founder",
+            "description": "I'm building last-mile delivery technology at Getcho.\n\nBefore Getcho, I built and ran a software development firm for seven years, scaling to 8 full-time engineers. We developed a specialty for GPS-driven platforms, two of which were acquired. A third set the standard in the pig-tracking industry, supporting $11m in annual contracts.",
+            "linkedin": "https://www.linkedin.com/in/johnpconsidine"
+        },
+        {
+            "name": "Mike Considine, Founder",
+            "description": "At Getcho, I\u2019m building software for streamlining and managing last-mile delivery at scale. I was previously Head of Product at K-Optional Software, where I oversaw the development of dozens of custom software products, including two that were acquired.",
+            "linkedin": "https://www.linkedin.com/in/mike-considine-700172164"
+        },
+        {
+            "name": "Evandro Nadal, Founder",
+            "description": "At Getcho, I\u2019ve overseen thousands of deliveries and worked closely with customers to understand their workflows, improve processes, and ensure smooth operations. Previously, I co-founded K-Optional, a software consultancy specializing in logistics platforms.",
+            "linkedin": "https://www.linkedin.com/in/evandronadal/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Getcho: Simplifying Last-Mile Delivery\n\nFounded in 2022 and hailing from New York, Getcho is leading the charge in revolutionizing last-mile delivery for high-value goods. As part of Y Combinator\u2019s Batch F24, Getcho aims to be the reliability platform that both businesses and consumers can trust. Its mission is clear: build a high-reliability delivery network on top of high-volume, often unreliable fleets, just like how TCP enhances user experience over the inherently flawed IP network.\n\n#### What Does Getcho Do?\n\nGetcho offers a local delivery platform designed specifically for businesses that face the challenges of unreliable delivery services. Here\u2019s how:\n\n1. **Reliable Same-Day Delivery**: With studies showing that 18% of online carts are abandoned without same-day delivery and 72.5% of customers won\u2019t recommend businesses after a bad delivery experience, Getcho steps in with delivery agents that prevent 99% of failures before they occur.\n\n2. **A Suite of Services**: Getcho provides a centralized dashboard for delivery management, smart scheduling assistance, direct communication with dedicated delivery agents, and an automated verification process to confirm every delivery. Their goal? Offer a seamless local delivery experience that delights both merchants and their customers.\n\n3. **Integration and Scalability**: Getcho takes the hassle out of logistics with tools tailored to grow with your business\u2014whether that\u2019s through their easy Shopify integration or a custom solution that fits your platform. This flexibility helps businesses increase cart conversions by up to 20% while reducing delivery errors.\n\n4. **Pricing Options**: Getcho presents three flexible pricing plans:\n   - **Starter Plan**: Ideal for small businesses getting off the ground, starting at $0/month.\n   - **Growth Plan**: A step up at $250/month for multi-location businesses needing more features.\n   - **Enterprise Plan**: Custom solutions for larger enterprises that need advanced features and unlimited scalability.\n\n#### Customer Focus\n\nGetcho isn't just about delivering goods; it\u2019s about creating an experience. Many local businesses sing praises of Getcho's hands-on approach and seamless service. As Carly Jump from Funny Face Bakery points out, Getcho\u2019s support is both reliable and adaptive, making it a standout choice for local deliveries.\n\n#### The Team\n\nWith a small but impactful team of three, Getcho is agile and responsive, and their Group Partner is serial entrepreneur and Y Combinator stalwart, Dalton Caldwell. The company's tech stack is robust, and their commitment to quality service is evident in their stellar user reviews.\n\nIn an era where reliability is paramount, Getcho is carving a niche for itself at the intersection of e-commerce and logistics. If you\u2019re looking for a dependable delivery solution that evolves with your needs, Getcho might be the answer.\n\nFor more information and to explore their offerings, check out their [website](https://getcho.app/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/15ddd2f38362a22eea46c8c1bf5600afd01ea8fe.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191356Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=efe78d3a8b07c8125bd62274ae0bc9fe44e3673290ff65525f22face0458bebe",
+    "social_links": [
+        "https://www.linkedin.com/company/getcho",
+        "https://github.com/getcho-org"
+    ],
+    "logo_path": "data/logos\\Getcho_logo.png"
+}

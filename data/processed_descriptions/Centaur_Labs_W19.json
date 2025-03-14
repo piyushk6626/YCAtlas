@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/centaur-labs",
+    "name": "Centaur Labs",
+    "headline": "Labeling medical data at scale",
+    "batch": "W19",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://centaurlabs.com/",
+    "founded_date": 2017.0,
+    "team_size": 25.0,
+    "location": "Boston",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:crowdsourcing; industry:data-labeling; industry:ai; location:boston",
+    "founders": [
+        {
+            "name": "Tom Gellatly, Founder",
+            "description": "Hello! I live in Durham, NC. I have a background in mobile and web development and engineering management. I studied CSE at the University of Michigan. I was the first employee at SF ride-sharing startup Sidecar, which was acquired by General Motors in 2016. I then managed the mapping & data labeling engineering teams at Cruise Automation for 1.5 years.",
+            "linkedin": "https://www.linkedin.com/in/tbgellatly"
+        },
+        {
+            "name": "Zach Rausnitz, Founder",
+            "description": "I'm a self-taught, generalist software engineer. I cofounded Centaur Labs in 2017. Previously I worked as a full-stack software engineer at Washington City Paper, where many notable people in media got their start.",
+            "linkedin": "https://www.linkedin.com/in/zach-rausnitz-55086927/"
+        },
+        {
+            "name": "Erik Duhaime, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/erik-duhaime-7a827413/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Centaur Labs: Empowering Medical Data Annotation**\n\nFounded in 2017 and based in Boston, Centaur Labs operates at the intersection of healthcare and artificial intelligence. As part of Y Combinator's Winter 2019 batch, this innovative company is on a mission to label medical data at scale\u2014ensuring that AI systems can learn from high-quality, accurately annotated datasets.\n\n### What They Do\nCentaur Labs specializes in crowdsourcing data labeling for various types of medical data, including text, images, audio, video, and waveform data. Their unique approach combines human expertise\u2014sourcing insights from a network of medical professionals\u2014with automated quality checks. The result? Faster, more accurate data annotations to accelerate AI development in healthcare and life sciences.\n\n### Recent Developments\nJust recently, they raised over $16 million in Series B funding, which will help them further expand their capabilities. This significant investment reflects growing confidence in their model and the increasing demand for efficient data annotation in the healthcare sector.\n\n### Team and Operations\nWith a dedicated team of about 25 employees, Centaur Labs is nimble yet impactful. They cater to a diverse array of industries, from medical devices to consumer applications and insurance. Their platform provides users seamless integration into existing data pipelines, ensuring that data annotation is both scalable and reliable.\n\n### Customer Success\nCentaur Labs champions collaboration. They empower customers\u2014from startups to established enterprises\u2014by providing high-quality labels at an unprecedented scale, often resulting in enhanced outcomes for machine learning models. Customers frequently cite improvements in model performance thanks to the comprehensive data labeling services offered.\n\n### Engage with Them\nIf you're interested in exploring their offerings or need assistance with data annotation, you can [book a demo](https://centaurlabs.com/</demo>) or visit [their website](https://centaurlabs.com/) for more information.\n\nCentaur Labs is more than just a labeling service; they\u2019re an essential partner in the creation of robust AI in healthcare. With them, you can take the guesswork out of data labeling and focus on what really matters\u2014building better healthcare solutions.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3c56c612b29dd5903159a89cd1ef87778addfd9b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191045Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1dd29f6d7d07a81eaf2703ca4f4f4ad87338fae09e097a341b63962c1ef19295",
+    "social_links": [
+        "https://www.linkedin.com/company/centaur-labs/"
+    ],
+    "logo_path": "data/logos\\Centaur_Labs_logo.png"
+}

@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/credal-ai",
+    "name": "Credal.ai",
+    "headline": "Build Intelligent Internal Assistants",
+    "batch": "W23",
+    "description": "Give any employee the power to build AI Assistants that understand your Enterprise's people, data and tools. Security, access controls and compliance built in.",
+    "activity_status": "Active",
+    "website": "https://credal.ai",
+    "founded_date": 2022.0,
+    "team_size": 8.0,
+    "location": "New York",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:api; industry:cybersecurity; industry:enterprise; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Ravin Thambapillai, Founder",
+            "description": "I hanker after an honorable Goddam skull. I worked at Google, TheHutGroup (now THG) at Series A, GoCardless at Series A, and most recently at Palantir for 7 years, where I led the building of significant parts of America's emergency-public-health infrastructure, including what Atlantic Magazine called \"America's most reliable Pandemic data.\"\n\nMy principles are listed here: https://docs.google.com/document/d/11-yFsiwOgYDUmHSWe8J0B2RU2a0JbO2yYUwqM2fjDbE",
+            "linkedin": "https://www.linkedin.com/in/ravin-thambapillai-77aa0a11/"
+        },
+        {
+            "name": "Jack Fischer, Founder",
+            "description": "Five years at Palantir in various technical capacities on projects ranging from airline reliability to defense computer vision. Palantir's US commercial hiring manager 2020-2022. \nWorked on several of the precursors to H1 (YC W20) and developed their early entity resolution algorithms.\nNow enabling secure AI!",
+            "linkedin": "https://www.linkedin.com/in/jackfischer11/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Credal.ai: Your Go-To for Intelligent Internal Assistants**\n\nFounded in 2022 and hailing from Y Combinator's W23 batch, Credal.ai is making waves from its New York base. With a compact team of eight, they\u2019re laser-focused on a compelling mission: building intelligent internal assistants that give employees the power to create AI tools tailored to their company\u2019s specific needs.\n\nThe foundation of Credal's offering is impressive. They equip users\u2014regardless of their tech expertise\u2014with the capability to design AI assistants that seamlessly integrate with existing enterprise systems, respect security protocols, and uphold compliance standards.\n\n### What They Do\n\nCredal is innovating in several areas:\n\n1. **Self-Service AI Agents**: Users can create their own AI tools to enhance productivity without heavy reliance on IT.\n2. **Workplace Search**: This allows for efficient searching across company documents and databases.\n3. **Developer RAG Platform**: A robust platform enabling developers to build secure and efficient AI applications.\n\nThey\u2019re not just about cutting-edge products; Credal is also committed to compliance. Their infrastructure is SOC 2 compliant, which is essential for enterprises handling sensitive data.\n\n### Why Credal?\n\nThe real magic of Credal lies in its ease of integration. With point-and-click functionality, companies can connect it to popular tools like Slack, Google Workspace, and Salesforce without the hassle. Whether you're a large enterprise or a scaling startup, Credal aligns well with different business sizes and models, promising a high adoption rate and measurable ROI on AI investments.\n\n### Current Focus Areas\n\nCredal\u2019s offerings can significantly enhance various business functions, including:\n\n- **IT and Operations**\n- **Sales**\n- **Human Resources**\n- **Customer Support**\n\nThe company touts impressive case studies, including partnerships with brands like Checkr, where they've seen AI adoption rates soar to 85%, showcasing their effective approach.\n\n### In Short\n\nCredal.ai represents a leap forward in making AI accessible and secure for enterprises. It's not just about technology; it's about crafting tools that empower employees to harness their own data, transforming how businesses operate. If you're looking to innovate within your organization and bolster productivity, Credal.ai might just be the partner you need.\n\nFor more information, check out their website at [credal.ai](https://credal.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f9915400e99fba6919f38039cbcb0a74bebb6066.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191107Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9e3e6db7b37bf028b5de7e0139f93ad0e62fc396a482390cb23741d131498c83",
+    "social_links": [
+        "https://www.linkedin.com/company/91502554/",
+        "https://twitter.com/credal_ai",
+        "https://www.crunchbase.com/organization/credal-ai"
+    ],
+    "logo_path": "data/logos\\Credal.ai_logo.png"
+}

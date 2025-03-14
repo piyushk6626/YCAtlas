@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/circlemind",
+    "name": "Circlemind",
+    "headline": "Circlemind is an open-source RAG using knowledge graphs and PageRank.",
+    "batch": "F24",
+    "description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology based on Knowledge Graphs and PageRank, allows for efficient, interpretable, and context-aware reasoning and retrieval.",
+    "activity_status": "Active",
+    "website": "https://circlemind.co",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:deep-learning; industry:developer-tools; industry:generative-ai; industry:saas",
+    "founders": [
+        {
+            "name": "Antonio Vespoli, Founder",
+            "description": "Antonio is the co-founder and CEO of Circlemind. He holds a Master\u2019s degree in Computing from Imperial College London, specializing in AI and Machine Learning. He spent three years as a Software Engineer at AWS, working on real-time streaming technology.",
+            "linkedin": "https://linkedin.com/in/antonio-vespoli-895727121"
+        },
+        {
+            "name": "Luca Pinchetti, Founder",
+            "description": "Luca is the co-founder and CTO of Circlemind. He holds a Master's degree in  Computer Science from the University of Oxford, where he researched alternative biologically-inspired methods to build neural networks for his PhD studies.",
+            "linkedin": "https://www.linkedin.com/in/luca-pinchetti-414230222/"
+        },
+        {
+            "name": "Yuhang Song, Founder",
+            "description": "\ud83e\udd77 Yuhang was awarded J.P. Morgan AI Research Award, first-authored a Nature Neuroscience paper, cofounded Fractile, raised $15M in two years and exited.",
+            "linkedin": "https://www.linkedin.com/in/yuhang-song/"
+        }
+    ],
+    "status": true,
+    "generated_description": "## Circlemind: The Next Generation of AI Memory Systems\n\nFounded in 2024 and backed by Y Combinator's Batch F24, Circlemind is an ambitious startup based in San Francisco, California, focusing on evolving Retrieval Augmented Generation (RAG) methods through open-source innovations. At its core, Circlemind leverages the power of Knowledge Graphs and PageRank to enable efficient, context-aware, and interpretable AI reasoning and retrieval.\n\n### Mission and Vision\n\nCirclemind's mission is simple yet profound: to develop a next-generation memory system for AI that goes beyond the limitations of current RAG methodologies. By adopting a unique approach that combines vector databases with knowledge graphs, Circlemind can create intelligent systems that adapt to user-specific contexts, data, and queries.\n\n### What Makes Circlemind Unique?\n\nThe cornerstone of Circlemind's technology is what's known as **GraphRAG**, a highly adaptable retrieval framework. Unlike traditional static RAG approaches, Circlemind's system continuously learns and evolves based on new data and interactions. This self-improving capability allows it to provide more nuanced and relevant responses to complex queries. Here are some of the standout features:\n\n- **Promptable GraphRAG**: Users can command the AI's graph construction in plain English, ensuring the technology aligns closely with the user's intent and data specifics.\n- **Multi-Hop Retrieval**: The system can reason across a network of memories, retrieving highly relevant information seamlessly.\n- **Whole Dataset Reasoning**: Capable of handling complex queries that require an aggregate understanding of data, unlike na\u00efve RAG systems that may struggle with holistic insights.\n- **Dynamic Data Adaptation**: GraphRAG excels with evolving information, making it ideal for applications that require updated context retrieval.\n\n### Pricing and Accessibility\n\nCirclemind aims to democratize access to advanced AI tools. They offer a **Community Edition** that is free for self-hosting, making it accessible for hobbyists and small projects. For businesses needing advanced features and support, there\u2019s a subscription model priced at **$300 per month**. Custom enterprise solutions are also available, catering to scalable team needs.\n\n### The Team\n\nWith a compact team of three, Circlemind's efforts are supported by a robust partnership with industry expert **Diana Hu**, who brings valuable insights from her experience in cutting-edge technology development. \n\n### Conclusion\n\nCirclemind is positioned to push the boundaries of AI technology by harnessing the strengths of most modern systems while addressing their deficiencies. Their innovative approach could redefine how AI interacts with the vast amounts of information available today, allowing for more sophisticated and intuitive applications. For a closer look or to experiment with their offerings, check out their website at [Circlemind](https://circlemind.co) and don\u2019t hesitate to **book a demo** or start with **100 free credits** to explore their capabilities firsthand. \n\nIn a world that craves smarter AI solutions, Circlemind's advancements could very well chart a new path forward.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/635f0f5932fd396198d44fc3799872974bf77b4d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191049Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f94b1679b983c46cd063d9b8e055f8da0efc0a1d287d5490a611341f47e87fde",
+    "social_links": [],
+    "logo_path": "data/logos\\Circlemind_logo.png"
+}

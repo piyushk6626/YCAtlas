@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/volopay",
+    "name": "Volopay",
+    "headline": "Brex for South East Asia - Corporate cards & automated payments.",
+    "batch": "S20",
+    "description": "Volopay is a modern spend management platform that saves companies time and money by giving visibility & control to every aspect of business spending. With Volopay, finance and accounting teams can control expense requests and approvals, make bill payments (domestic/cross-border), manage company cards, and reconcile all accounting on one platform.\r\n\nVolopay completely eliminates the need for expense reports and reimbursements while giving everyone in the company a card to use. We worked in an offshore dev centre in the past and it took 2 months to get our reimbursements and 4 weeks to make any purchase as there was just one corporate card for the entire company and clunky bill payments solutions offered by the banks. \r\n\nAmong our customers are Reddoorz (OYO of South East Asia), Dathena (biggest data security co in Singapore) and Beam (APAC\u2019s leading micro-mobility player).",
+    "activity_status": "Active",
+    "website": "https://www.volopay.com/",
+    "founded_date": 2019.0,
+    "team_size": 11.0,
+    "location": "Singapore, Singapore",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Rajith Shaji, Founder",
+            "description": "Founder & CEO of Volopay. Led product and growth teams at fintechs like MatchMove(biggest card issuance company in South East Asia), MoneySmart and BankBazaar (funded by Amazon).\n\nRajesh and I met at MoneysSmart - the Credit Karma in Singapore where Rajith led product management and Rajesh was a tech lead, where they built Singapore\u2019s first car insurance digital brokerage and the integration with all major insurance providers.",
+            "linkedin": "https://www.linkedin.com/in/rajiths/"
+        },
+        {
+            "name": "Rajesh Raikwar, Founder",
+            "description": "A polyglot programmer and passionate about technologies, and above all, an entrepreneur at heart. For the better part of my career, I've been involved with Fintechs. I see a lot of potentials to improve and grow in the same. Currently focusing on solving the SME business expensing problem with the help of smart corporate cards.",
+            "linkedin": "https://in.linkedin.com/in/rajeshraikwar"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Volopay Overview**\n\nFounded in 2019 and based in Singapore, Volopay positions itself as the Brex for Southeast Asia, aiming to revolutionize business spending through its modern spend management platform. You can think of it as a comprehensive financial control center tailored for businesses, whether they\u2019re just starting out or already scaling. With a lean team of 11 and having participated in Y Combinator's Batch S20, Volopay is shaking things up in the fintech scene with its array of financial solutions.\n\n**What Volopay Does**\n\nVolopay offers a suite of tools designed to streamline corporate spending, automate payments, and provide comprehensive visibility across financial operations. Here\u2019s the crux: it eliminates the hassle of traditional expense management. No more convoluted expense reports and delays; each employee receives a corporate card for easy transactions, whether for travel, vendors, or subscriptions.\n\nKey offerings include:\n\n1. **Corporate Cards**: \n   - Physical and virtual cards for varied uses.\n   - Built-in spending controls to prevent over-expenditure.\n\n2. **Expense Management**:\n   - Real-time tracking of expenses via a single dashboard.\n   - Automated expense claims through a mobile app for hassle-free reimbursements.\n\n3. **Procurement and Accounts Payable**:\n   - Streamlined invoicing and vendor payment processes.\n   - A robust system for tracking procurement from start to finish.\n\n4. **Accounting Automation**:\n   - Seamless integrations with popular ERP systems like Xero, Quickbooks, and Netsuite to keep financial records up-to-date.\n   - Multi-currency capabilities to facilitate domestic and international transactions.\n\n5. **Advanced Approvals**:\n   - Customizable approval workflows to enhance security and reduce errors in the payment process.\n\n**Building Trust and Security**\n\nVolopay takes security seriously. Their platform is SOC 2 compliant, ISO 27001 certified, and adheres to strict PCI DSS guidelines for data safety. They engage trusted, licensed partners for money management, ensuring that client funds are protected and segregated from their operational funds.\n\n**Current Traction**\n\nTheir clientele includes notable names like Reddoorz and Dathena, underscoring their foothold in significant markets across Southeast Asia. They also emphasize the importance of customer success stories as real testimonials of their operational efficiency and value delivery.\n\n**The Takeaway**\n\nIn a world where time is currency, Volopay is effectively transforming the way businesses handle their financial operations. By simplifying spend management and automating tedious processes, they allow companies to focus on what really matters \u2014 growth and innovation. As they continue to grow, leveraging their experience and insights, Volopay is poised to carve out an influential niche in the rapidly evolving fintech landscape.\n\nTo explore more, check out their website at [Volopay](https://www.volopay.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/11d69dc30f768592b1462178d0f7fcc9ad0f3859.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192052Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ae9d3bd480f6c38c001bd374e5fa00322ae78fc549e34ad4a1ff79c6e305458c",
+    "social_links": [
+        "https://www.linkedin.com/company/volopay/",
+        "https://twitter.com/volopay",
+        "https://www.facebook.com/volopay"
+    ],
+    "logo_path": "data/logos\\Volopay_logo.png"
+}

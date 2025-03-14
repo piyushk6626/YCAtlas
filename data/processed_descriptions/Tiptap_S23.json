@@ -1,0 +1,59 @@
+{
+    "links": "https://www.ycombinator.com/companies/tiptap",
+    "name": "Tiptap",
+    "headline": "Developer toolkit for building collaborative apps.",
+    "batch": "S23",
+    "description": "Tiptap is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs. It\u2019s used by thousands of businesses worldwide, including LinkedIn, GitLab, Axios, and Anthropic.",
+    "activity_status": "Active",
+    "website": "https://tiptap.dev/",
+    "founded_date": 2022.0,
+    "team_size": 15.0,
+    "location": "Berlin, Germany",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source",
+    "founders": [
+        {
+            "name": "Philip Isik, Founder",
+            "description": "Philip is the co-founder and co-CEO of Tiptap, where he is responsible for the company's strategy, sales, and business development. With a decade of industry experience, Philip's passion for creating intuitive and transformative digital experiences led him to grow Tiptap from an open source side project at his digital consultancy into a venture-backed startup.",
+            "linkedin": "https://linkedin.com/in/philip-isik-688307123"
+        },
+        {
+            "name": "Sven Adlung, Founder",
+            "description": "Sven is a co-founder and lead frontend developer at Tiptap, where he brings over twenty years of experience in app and web development. Specializing in frontend development, he focuses on the Tiptap Editor and its cloud services.",
+            "linkedin": "https://www.linkedin.com/in/sven-adlung"
+        },
+        {
+            "name": "Patrick Baber, Founder",
+            "description": "Patrick is the co-founder and DevOps of Tiptap, which he started with five other founders in 2022. With more than a decade of experience, he is responsible for the IT infrastructure, defines the software architecture, and drives the mission to simplify the development of collaborative apps. Originally from East Germany, Patrick earned a degree in business economics.",
+            "linkedin": "https://www.linkedin.com/in/patrick-baber-a0247027b/"
+        },
+        {
+            "name": "Nick Hirche, Founder",
+            "description": "Nick is a co-founder and lead UX/UI designer at Tiptap, where he is responsible for the visual appearance and product conception. With more than a decade of experience in the industry, he can quickly grasp complex problems and turn them into new product ideas. These are garnished with amazing design.",
+            "linkedin": "https://linkedin.com/in/nick-hirche-622a2a216"
+        },
+        {
+            "name": "Timo Isik, Founder",
+            "description": "Timo is a co-founder and lead backend developer at Tiptap where he mainly works on collaboration and cloud services. He holds over ten years of diverse experience in software engineering and specializes in the backend part of applications.",
+            "linkedin": "https://linkedin.com/in/timo-isik-6b2956197"
+        },
+        {
+            "name": "Sebastian Schrama, Founder",
+            "description": "Sebastian is the co-founder and co-CEO of Tiptap. With over a decade of experience in the freelance and entrepreneurial world, he has honed his skills in finance and operations. His diverse expertise has shaped his role at Tiptap, where he navigates the company\u2019s financial health and operational efficiency.",
+            "linkedin": "https://linkedin.com/in/sebastian-schrama-0a1112255"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Tiptap: Revolutionizing Collaborative App Development\n\nTiptap is a developer toolkit founded in 2022, based in Berlin, Germany, with a mission to provide an open-source framework for building collaborative applications. \n\nInitially starting as a suite of real-time content editing tools, Tiptap is engineered for developers creating apps similar to Notion or Google Docs. Its robust features allow thousands of businesses worldwide\u2014LinkedIn, GitLab, Axios, and Anthropic, among them\u2014to enhance their collaborative workflows. This powerful toolkit is constantly evolving and gaining traction, particularly after being part of the Y Combinator Batch S23.\n\nWith a dedicated team of 15, Tiptap focuses on delivering a richly customizable, headless rich text editor that integrates over 100+ extensions. This flexibility allows developers to tailor their applications precisely to user needs, providing functionalities such as:\n\n- **Real-time Collaboration:** Syncing documents and interactions as they happen.\n- **Content AI:** Using AI to transform inline text, images, and documents for enhanced user engagement.\n- **Comments and Feedback:** Facilitating discussions directly within the editing interface.\n- **Document Management:** Choose between self-hosted solutions or scalable cloud options.\n\n### Why Tiptap?\n\nTiptap is not just another editor. It's a plug-and-play solution that empowers businesses to create unique editor experiences without starting from scratch. Companies can deploy a fully-featured, customizable editor that is not only powerful but also user-friendly.\n\nTo further support enterprise needs, Tiptap provides dedicated support, extensive service-level agreements (SLAs), and ongoing development and integration assistance, with plans for SOC 2 compliance underway.\n\n### Community and Support\n\nAs an open-source product, Tiptap thrives on community involvement. Developers can access comprehensive documentation, engage with others through Discord and GitHub, and benefit from a wealth of online resources.\n\n### The Road Ahead\n\nAs Tiptap continues to grow, its vision remains clear: simplify the development of collaborative apps while providing the tools necessary for developers to build unique and engaging user experiences. Whether you're a startup looking to implement a simple editor or a large enterprise needing a full-fledged content management system, Tiptap presents a versatile solution.\n\nInterested in joining the Tiptap journey? Check out their website [here](https://tiptap.dev/) and start building the collaborative app of your dreams today.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c9e5d689db787917b33a37d6845184c8129f4741.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192018Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a61119ac65f3b77af90c63d9007af51bf16c48886d17e0b122350ee6c51fd059",
+    "social_links": [
+        "https://www.linkedin.com/company/tiptapdev/",
+        "https://twitter.com/tiptap_editor",
+        "https://www.crunchbase.com/organization/tiptap-75b3",
+        "https://github.com/ueberdosis/tiptap"
+    ],
+    "logo_path": "data/logos\\Tiptap_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/rebolt",
+    "Name": "Rebolt",
+    "Headline": "Your AI restaurant manager",
+    "Batch": "W25",
+    "Description": "Rebolt is AI to replace traditional restaurant managers - by automating tasks from delivery refund management to staff screening, inventory checks, and supplier communications.\r\n\nWe started with delivery app management for takeout restaurants - Rebolt automates order verification and refund management to prevent mistakes and save restaurants time and money.",
+    "Activity_Status": "Active",
+    "Website": "https://rebolt.ai",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/tom-blomfield",
+    "Group_Partner": "Tom Blomfield",
+    "Company_Linkedin": "https://www.linkedin.com/company/reboltai/",
+    "Company_Twitter": "",
+    "Tags": "industry:artificial-intelligence; industry:food-tech; industry:ai; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/reboltai/",
+        "https://x.com/rebolthq"
+    ],
+    "logo_path": "data\\logos\\Rebolt.png",
+    "Active_Founders": [
+        {
+            "Name": "Celia Manzano, Founder",
+            "Description": "Cofounder at Rebolt. Former cloud architect at Salesforce - leading technical sales on key accounts from $150k - $3M. Also worked as solution engineer at Apryse (SDK for document processing) and developed the torque vectoring ECU at UPM Racing (Formula SAE). UPM Aerospace Engineer BS",
+            "LinkedIn": "https://www.linkedin.com/in/celiamanz"
+        },
+        {
+            "Name": "Javier Sanchez, Founder",
+            "Description": "Cofounder at Rebolt. Prev Founding Engineer at Stack AI (YC W23) - Enterprise AI platform, where I steered and built core product features and brought key engineering hires from seed to series A ($2M ARR). Former Software Engineer at Ubuntu. Lead the software team and developed the LiDAR perception system for UPM Racing (Formula SAE). UPM BS CS and Telecom Engineering.",
+            "LinkedIn": "https://www.linkedin.com/in/sanchezfdezjavier"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Rebolt: Your AI Restaurant Manager**\n\nFounded in 2024 and hailing from San Francisco, Rebolt is poised to revolutionize the restaurant industry by replacing traditional management tasks with the power of artificial intelligence. With a dual focus on efficiency and cost savings, Rebolt's mission is clear: to be the go-to AI manager for restaurants.\n\nInitially targeting takeout restaurants, Rebolt automates several crucial operations such as order verification, refund management, and staff communications. This not only diminishes human error but also frees up valuable time for restaurant staff, allowing them to focus on what really matters\u2014providing excellent service.\n\nRebolt's array of services includes automated dispute management, centralized analytics, and seamless hiring processes\u2014essentially streamlining the back-of-house operations. Imagine an AI that disputes delivery app refunds on your behalf, ensuring minimal losses and operational hiccups.\n\nThe company is currently part of the prestigious Y Combinator Batch W25, a testament to its innovative approach, and is backed by Group Partner Tom Blomfield. Despite its small team of just two employees, Rebolt has already begun to make waves in the food-tech sector, leveraging artificial intelligence to bring about transformative efficiency.\n\nTheir customer testimonials sing praises; businesses report remarkable results, like a significant reduction in order mistakes and high recovery rates from erroneous claims. Not only does Rebolt work with a slew of partnerships, integrating with popular platforms like DoorDash and Uber Eats, but it also boasts impressive processing figures\u2014with over 300,000 orders handled.\n\nFor more information, visit [Rebolt's website](https://rebolt.ai) and discover how this AI solution can lead your restaurant to operational excellence and financial efficiency."
+}

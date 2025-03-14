@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/ion-design",
+    "name": "ion design",
+    "headline": "Your front end team in a box - Prompt to code & Figma to code",
+    "batch": "W24",
+    "description": "ion design is re-imagining how front end works.\r\n\nFor early stage companies, ion allows you to describe a UI in text & get react code that\u2019s tailor-made to your business. ion understands your design system and codebase to generate designs that are beautiful and code that\u2019s easy to work with.\r\n\nOnce you've scaled and hired a designer, ion offers a pipeline that automatically converts Figma designs into clean React code that's tailor-fitted to your codebase. We re-use your existing components and variables from your codebase in our generations and can automatically generate PRs and merge conflicts from Figma.",
+    "activity_status": "Active",
+    "website": "https://www.ion.design/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:design-tools; industry:web-development; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Samraaj Bath, Founder",
+            "description": "Samraaj is the co-founder and CEO of ion design. Samraaj is a 2x YC founder and was previously a CTO, a product manager at an early stage startup, a design team manager, a full stack engineer. He's committed to making it easier to build beautiful products.\n\nSamraaj also previously founded an artisan ice cream company, bootstrapped a birthday wishing business, danced professionally, and rebuilt a 1981 motorcycle.",
+            "linkedin": "https://linkedin.com/in/samraajbath"
+        },
+        {
+            "name": "Samuel Barnholdt, Founder",
+            "description": "Fullstack engineer & startup enthusiast. Failed to become the next Swedish House Mafia and turned to coding. Currently making your engineering cycles shorter and your codebase more consistent, one generation at a time.",
+            "linkedin": "https://linkedin.com/in/samuel-barnholdt-a480b3179"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: ion design**\n\nFounded in 2023 and positioned in the bustling tech hub of San Francisco, ion design is an innovative startup redefining front-end development. As a participant in Y Combinator's Winter 2024 batch, it aims to consolidate the workflow between design and development with its tagline: \"Your front end team in a box.\" \n\n**What They Do:**\nAt its core, ion is all about automation and efficiency for early-stage companies. The platform allows teams to turn their Figma designs into a tailored React codebase swiftly and seamlessly. By simply describing a user interface (UI) in text or adjusting design specifications in Figma, users can receive corresponding code that aligns beautifully with their existing design systems. This means less time is wasted interpreting design elements, and teams can focus on building their product.\n\n**How it Works:**\n1. **Design Description to Code**: Startups can input simple text descriptions or design requests, and in return, the ion platform generates precise React code.\n2. **Figma Integration**: Once a company has scaled up and potentially hired design talent, ion transforms Figma designs\u2014leveraging the company\u2019s unique design system\u2014into clean and manageable React code.\n3. **Component Reuse**: It smartly reuses existing components and code variables, thus integrating with the developer's workflow and automatically generating pull requests (PRs) for any necessary code updates or conflicts arising from design changes.\n\n**The Team**: With a compact, agile team of two, ion design operates under the experienced guidance of Dalton Caldwell, a Group Partner at Y Combinator. \n\n**Why Choose ion?** \nThe company positions itself as more than just a code conversion tool. By reducing the repetitive and often cumbersome tasks involved in front-end development, ion empowers designers and developers to enhance productivity and focus on the larger picture\u2014building scalable, innovative products.\n\n**Key Features:**\n- Quick turnaround time from design to code.\n- Seamless integration with the established coding environment.\n- Significant time savings\u2014averaging 10+ hours per week for developers\u2014allowing them to escape the mundane aspects of styling.\n\n**In Summary:**\nion design is not just another software tool; it's a transformative platform that bridges the gap between design and development, fostering efficiency and quality in the coding process. If you're in the early stages of building and looking to streamline your design-to-development pipeline, ion might just be the game-changer you need.\n\nFor more information, check out their website [ion.design](https://www.ion.design/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1101d6809b7474ede82dab75888dbcd51ce7c522.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191439Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c893c7b9fa55e12b1eaae0cb6eeb029d9b8930023609c158ced7fb0a1e32107e",
+    "social_links": [
+        "https://www.linkedin.com/company/ion-dot-design",
+        "https://twitter.com/iondotdesign",
+        "https://github.com/ion-design"
+    ],
+    "logo_path": "data/logos\\ion_design_logo.png"
+}

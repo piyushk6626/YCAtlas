@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/thorntale",
+    "name": "Thorntale",
+    "headline": "Easiest way for post-sales teams to create data-driven presentations",
+    "batch": "W24",
+    "description": "Thorntale automates the creation and updating of customer review decks, enabling post-sales teams to build presentations in minutes instead of hours. Simply paste a URL into a slide to instantly create a brand-colored chart in your deck. The charts are interactive and modifiable mid-presentation, allowing you to answer customer questions on the spot and adjust charts without needing to consult the data team.",
+    "activity_status": "Active",
+    "website": "https://thorntale.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:productivity; industry:collaboration; industry:data-visualization; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ellen Hui, Founder",
+            "description": "Previously big data at Microsoft, SRE at Cruise, distributed systems and real-time video at Mux; now backend and infrastructure at Thorntale (W24).",
+            "linkedin": "https://linkedin.com/in/ellenfkh"
+        },
+        {
+            "name": "John Stimac, Founder",
+            "description": "Frontend, backend, and data engineer. Previously worked on big data at Yelp, and built the entire data platform at Clockwise.",
+            "linkedin": "https://linkedin.com/in/john-h-stimac"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Thorntale: Transforming Post-Sales Presentations with Data-Driven Insights**\n\nFounded in 2024 and hailing from the vibrant tech hub of San Francisco, Thorntale is on a mission to streamline the way post-sales teams create presentations. In an era where data drives business decisions, Thorntale\u2019s innovative platform allows users to generate data-driven presentation decks in mere minutes instead of laborious hours.\n\nThe core of Thorntale's offering lies in its ability to automate the creation and updating of customer review decks. Picture this: You simply paste a URL into a slide, and voil\u00e0\u2014an interactive, brand-colored chart appears instantly. This feature not only enhances the visual appeal of your presentations but also equips sales teams with the flexibility to modify data in real-time, directly addressing customer inquiries on the spot.\n\nWith just a small, dedicated team of three, Thorntale has already made its mark as part of the Y Combinator Batch W24, receiving backing from prominent figures like Michael Seibel as their Group Partner. The company is buzzing with excitement around the potential of its product, which is tagged with keywords like \u2018SaaS\u2019, \u2018B2B\u2019, \u2018productivity\u2019, \u2018collaboration\u2019, and \u2018data visualization\u2019.\n\nTheir platform doesn\u2019t just stop at presentations. Thorntale prioritizes user experience, integrating customizable themes that ensure every slide maintains a polished, professional look. The intention is clear: allow users to focus on narrative and content rather than getting bogged down by software complexities.\n\nKey features include:\n- **Curated Template Library**: A selection of starter templates to conquer the dreaded blank page syndrome.\n- **Real-Time Collaboration**: Teams can work together on presentations seamlessly, regardless of their location.\n- **Data Visualization**: Craft clean, dynamic charts without needing coding skills\u2014no SQL required.\n- **Email Integration**: Send beautiful, engaging presentations directly to clients' inboxes, making sure they stand out.\n\nThorntale understands that presentation matters. They provide tools that not only enhance the quality of content but also boost the confidence of those presenting. As they continue to innovate\u2014with plans for expanded features and enhancements\u2014their goal remains steadfast: to equip post-sales teams with the simplest, most effective ways to tell their story.\n\nCurious to see what\u2019s next? Check them out at [Thorntale.com](https://thorntale.com) to get started or book a demo to explore how you can elevate your presentations to the next level.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0cf7216dfe45a98cb8124c32f388e008be400f58.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192016Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c9b7068cfc67d2eb99935ac737fb9b249fcc922f2b84561d507fc0960a273b76",
+    "social_links": [
+        "https://www.linkedin.com/company/thorntale/",
+        "https://twitter.com/thorntaleHQ",
+        "https://www.facebook.com/thorntale"
+    ],
+    "logo_path": "data/logos\\Thorntale_logo.png"
+}

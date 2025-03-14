@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/nunu-ai",
+    "name": "nunu.ai",
+    "headline": "Building the first multimodal agents to play and test games.",
+    "batch": "W23",
+    "description": "nunu.ai is building the first multimodal agent to test and play games. We infuse AI agents into the game development process, starting at QA all the way to player simulation.",
+    "activity_status": "Active",
+    "website": "https://nunu.ai",
+    "founded_date": 2022.0,
+    "team_size": 4.0,
+    "location": "Z\u00fcrich, Switzerland",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:gaming; industry:ai",
+    "founders": [
+        {
+            "name": "Jan Schnyder, Founder",
+            "description": "Always down for a coffee :)",
+            "linkedin": "https://www.linkedin.com/in/jan-schnyder/"
+        },
+        {
+            "name": "Kyrill Hux, Founder",
+            "description": "co-founder @ nunu.ai, mostly digging through game engines at the moment. Also have a great interest in security and worked as a pentester.",
+            "linkedin": "https://linkedin.com/in/khux"
+        },
+        {
+            "name": "Nicolas Muntwyler, Founder",
+            "description": "I do AI @ nunu.ai. Always down to chat :)",
+            "linkedin": "https://www.linkedin.com/in/nicolasmuntwyler/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**nunu.ai: Revolutionizing Game Testing with AI**\n\nFounded in 2022 and based in Z\u00fcrich, Switzerland, nunu.ai is on a mission to create the first multimodal agents specifically designed to play and test games. Part of the esteemed Y Combinator Batch W23, nunu.ai aims to streamline game development by infusing AI agents into the Quality Assurance (QA) process, from initial testing to simulating player interactions. \n\nAt its core, nunu.ai provides a robust platform that allows game developers to automate their QA efforts. Their offering is straightforward: developers describe what they want to test in plain English\u2014no coding required\u2014and the AI agents handle the rest. These agents emulate human gameplay, executing test cases, identifying bugs, and providing real-time results through intuitive dashboards.\n\n### Key Features:\n1. **Cost Efficiency**: By automating repetitive tasks, game studios can save up to 50% on manual QA costs.\n2. **24/7 Availability**: The AI agents operate round the clock, ensuring consistency and scalability to meet varying demands.\n3. **Easy Integration**: Developers can incorporate nunu.ai's agents using a lightweight SDK, enhancing ease of use.\n4. **Human-like Testing**: The agents play games similarly to human players, identifying bugs that traditional testing might overlook.\n5. **Cross-Platform Support**: Currently catering to PC and mobile games, with future expansions into console gaming.\n6. **Minimal Maintenance**: Unlike traditional scripts that often break with updates, these AI agents adapt autonomously to changes in the game environment.\n7. **Multiplayer Testing**: Easily spawn multiple agents to simulate real player interactions, addressing multiplayer testing challenges.\n8. **Enterprise Security**: nunu.ai employs rigorous security measures to keep data safe, working toward SOC 2 compliance.\n\n### The Team:\nWith a lean team of four and a strong backing from Group Partner Dalton Caldwell, nunu.ai is positioned to push the boundaries of what's possible in game testing and player simulation.\n\n### Start Your AI Journey:\nIf this sounds like something your game studio could benefit from, nunu.ai is inviting developers and studios to book a demo or join their waitlist. \n\nIn essence, nunu.ai is simplifying a critical part of game development with advanced AI, saving tons of time and resources while improving the overall quality of games. If you\u2019re in the gaming industry, it\u2019s worth taking a closer look at what they offer. \n\nExplore more at [nunu.ai](https://nunu.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cfc33008a7fc0e1accd47e5e7fe7f1eb9c6df38b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191603Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=992c001473f6a869955b2af86936454b0254a9fb1b5b7ecc922d07e74181780e",
+    "social_links": [
+        "https://www.linkedin.com/company/nunu-ai",
+        "https://twitter.com/nunudotai"
+    ],
+    "logo_path": "data/logos\\nunu.ai_logo.png"
+}

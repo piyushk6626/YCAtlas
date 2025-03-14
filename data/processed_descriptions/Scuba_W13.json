@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/interana",
+    "name": "Scuba",
+    "headline": "Analytics for impatient people.",
+    "batch": "W13",
+    "description": "Scuba is the fast and scalable event-based analytics solution to answer critical business questions about how customers behave and products are used. Interana allows users to analyze and explore the key business metrics that matter most in a data-driven world \u2013 such as growth, retention, conversion and engagement \u2013 in seconds, rather than the hours or days it often takes with existing solutions. Interana allows customers to discover and investigate these key insights easily through its visual and interactive interface, which makes data analysis a natural extension of everyone\u2019s workflow.",
+    "activity_status": "Active",
+    "website": "https://www.scuba.io",
+    "founded_date": 2013.0,
+    "team_size": 51.0,
+    "location": null,
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; industry:big-data; industry:data-engineering; industry:data-visualization",
+    "founders": [
+        {
+            "name": "Lior Abraham, Founder",
+            "description": "Facebook engineer. Built first real time newsfeed. Scuba internal app. Scuba Analytics as a companh",
+            "linkedin": "https://www.linkedin.com/in/liorabraham"
+        },
+        {
+            "name": "Ann Johnson",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/annstimmlerjohnson"
+        },
+        {
+            "name": "Bobby Johnson",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/bobby-johnson-2362201a6"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Scuba: The Analytics Solution for the Impatient**\n\nFounded in 2013 and part of Y Combinator's Batch W13, Scuba has established itself as a innovative force in the field of analytics. The company operates under the clear mission of providing \"Analytics for impatient people,\" making it a go-to solution for rapid data analysis that answers pressing business questions around customer behavior and product usage.\n\nScuba\u2019s flagship product, Interana, is a fast and scalable event-based analytics platform that enables users to dig deep into critical metrics\u2014like growth, retention, and engagement\u2014in a matter of seconds. Unlike traditional analytics tools that leave users grappling for insights for hours or days, Interana\u2019s intuitive and interactive interface integrates seamlessly into everyday workflows, democratizing data access and enhancing decision-making.\n\nLocated in the heart of the tech world, Scuba boasts a team of 51 dedicated employees and has partnered with notable groups to further its reach. With its offerings tagged under \u2018analytics\u2019, \u2018big data\u2019, \u2018data engineering\u2019, and \u2018data visualization\u2019, Scuba ensures it meets diverse customer needs in a data-driven landscape.\n\n### What Scuba Offers:\n\n1. **Real-Time Insights**: Flows of data are analyzed in real-time, allowing businesses to react swiftly to changes and opportunities as they arise.\n   \n2. **Human in the Loop**: Scuba bridges the gap between autonomous AI agents and human reasoning, allowing businesses to decode customer interactions efficiently.\n\n3. **Privacy Enhancements**: The platform includes built-in privacy technology to meet global regulations, maintaining customer trust while delivering actionable insights.\n\n4. **Automation and Integration**: Scuba can deliver signals directly to tools like Slack or Tableau without necessitating intricate data engineering, making daily operations smoother and more efficient.\n\n### A Glance at Success:\n\nClients, like the Bleacher Report, have heralded Scuba for its transformative impact on user engagement and churn rates. With testimonials highlighting unparalleled visibility into user interactions, it's clear that Scuba doesn\u2019t just facilitate analytics; it empowers businesses to cultivate meaningful relationships with their customers.\n\n**Ready to dive into analytics?** Visit [Scuba's website](https://www.scuba.io) to learn more or schedule a demo today. With Scuba, impatience becomes a competitive advantage.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/61b56e530f546e34a9bcc12d80ef088c565793e8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191913Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5a81a177287fcd9b1777411f3f63c42ed961ef9afc74a921fc4a31f7028cb0d1",
+    "social_links": [
+        "https://www.linkedin.com/company/scubaanalytics/",
+        "https://x.com/scuba_inc?s=21",
+        "https://www.crunchbase.com/organization/interana"
+    ],
+    "logo_path": "data/logos\\Scuba_logo.png"
+}

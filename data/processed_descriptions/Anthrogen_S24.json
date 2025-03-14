@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/anthrogen",
+    "name": "Anthrogen",
+    "headline": "We make molecules like fuels and plastics from the air.",
+    "batch": "S24",
+    "description": "Anthrogen uses genetically modified bacteria and optimized enzymes to turn carbon from the air into cheap chemicals. Think Solugen but for more complex molecules/enzyme cascades and using atmospheric carbon instead of sugar as a base. \r\n\nWe have engineered the fastest photosynthesizing organism in the world with CRISPR and use generative models to design our enzymatic cascades. We are stating with jet/rocket fuel but will expand to other verticals soon.",
+    "activity_status": "Active",
+    "website": "https://anthrogen.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Ankit Singhal, Founder",
+            "description": "Ankit is the CEO of Anthrogen. He was a Science Research Fellow and Named Scholar at Columbia (a designation reserved for the top ~10 STEM research students in each class). He has worked in both wet labs and computational labs (focusing on catalysis and structural biology/biophysics) for years. He published several first-author papers as early as high school, won and led national teams at international science/research competitions \u2013 he\u2019s excited to lead Anthrogen\u2019s damp lab approach.",
+            "linkedin": "https://www.linkedin.com/in/ankit-singhal-columbia/"
+        },
+        {
+            "name": "Vignesh Karthik, Founder",
+            "description": "Vignesh is the COO of Anthrogen. As a student at Columbia Engineering, he studied Applied Math with a focus on Geology before dropping out after his sophomore year. He has been working in data science and geology since early high school, beginning with his research at the U.S. Naval Research Laboratory. Shortly after he was recruited as a freshman to work for Lamont-Doherty Earth Observatory, the worlds leading Earth Institute. Before dropping out he also worked as an Entrepreneurship Fellow.",
+            "linkedin": "https://www.linkedin.com/in/vigkart/"
+        },
+        {
+            "name": "Connor Lee, Founder",
+            "description": "Connor is the CTO of Anthrogen. Before dropping out of Columbia as a sophomore, he was a researcher in Columbia's ROAM Lab and was the youngest ever Columbia Robotics president. He also placed 3rd Internationally for FRC and top 5 internationally for MATE ROV after over a decade of robotics experience.",
+            "linkedin": "https://www.linkedin.com/in/connor-lee-692a40263"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Anthrogen: Turning Air into Usable Chemicals\n\n**Overview**  \nFounded in 2024, **Anthrogen** is an ambitious startup working at the intersection of biotechnology and environmental science. Located in Silicon Valley and part of Y Combinator Batch S24, this three-person team is on a mission to revolutionize how we produce everyday chemicals\u2014by making molecules like fuels and plastics directly from the air.\n\n**Core Technology**  \nAt the heart of Anthrogen\u2019s innovation is the use of genetically modified bacteria and optimized enzymes to convert atmospheric carbon into valuable chemicals, similar to what companies like Solugen are doing, but with a broader scope including more complex molecules. What sets them apart is their engineering of the fastest photosynthesizing organism known, using cutting-edge CRISPR technology, along with advanced generative models for designing their enzymatic processes. Their inaugural focus is on producing jet and rocket fuels, with plans to expand into other verticals in the near future.\n\n**Research Approach**  \nAnthrogen believes that while biomanufacturing has been a difficult nut to crack, it also represents one of the most promising opportunities for climate-friendly innovations. They are adopting a unique \"damp approach\" to bring cell-free enzymatic solutions to market. This is backed by intensive research in large protein language models and high-throughput experimental biology, with guidance from top VCs and leading academic professors.\n\n**Recent Developments**  \nAnthrogen has already made strides in the industry:\n- **Funding**: The company successfully raised **$4 million** to further develop their carbon-negative chemical processes.\n- **Partnerships**: They've partnered with **Stanford\u2019s Fordyce Lab** to speed up enzyme discovery.\n- **Recognition**: They were awarded **\"Most Likely to Succeed\"** at the Y Combinator S24 Retreat.\n\n**Team**  \nThe Anthrogen team is composed of:\n- **Ankit Singhal**, CEO and Co-founder: A Columbia University science fellow with expertise in biophysics and applied math.\n- **Connor Lee**, CTO and Co-founder: Former president of Columbia Robotics with a background in robotics and applied math.\n- **Vignesh Karthik**, COO and Co-founder: Previously with the Lamont-Doherty Earth Observatory and a researcher in geology and applied math.\n\n**Investors and Support**  \nAnthrogen\u2019s ambitious plans are supported by notable investors, including Y Combinator, BoxGroup, and Liquid 2 Ventures, among others.\n\n**Conclusion**  \nBy harnessing the power of genetic engineering and cutting-edge technology, Anthrogen is positioning itself to address critical challenges in the chemical manufacturing industry. If successful, their approach could drastically reduce dependency on fossil fuels and promote a more sustainable future. \n\nFor more info, check out their [website](https://anthrogen.com) and keep an eye on their progress!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/436ba7ba79973ed082171efc885cef5da38f9ef7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190959Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=109abb163570c624da24f4a8af0b67522c3ed48f267d22525e65fd9af9f63395",
+    "social_links": [
+        "https://www.linkedin.com/company/arctic-capture",
+        "https://x.com/AnthrogenBio"
+    ],
+    "logo_path": "data/logos\\Anthrogen_logo.png"
+}

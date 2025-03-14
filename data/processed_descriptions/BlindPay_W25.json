@@ -1,0 +1,47 @@
+{
+    "links": "https://www.ycombinator.com/companies/blindpay",
+    "name": "BlindPay",
+    "headline": "Stablecoin API for global payments",
+    "batch": "W25",
+    "description": "BlindPay is a stablecoin API that enables companies to send and receive money worldwide using fiat money, stablecoins and multiple blockchains. We handle all the complex compliance and regulatory requirements, so companies can focus on their core business.",
+    "activity_status": "Active",
+    "website": "https://blindpay.com/",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": null,
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:crypto-web3; industry:payments; industry:api",
+    "founders": [
+        {
+            "name": "Joao Borges, Founder",
+            "description": "Co-Founder @ BlindPay \u2014 Stablecoin API for global payments \u2014 A prominent leader and entrepreneur, best known for founding one of Brazil's largest blockchain startups. In its first year of operation, he successfully scaled the company to seven-digit revenue and raised millions of dollars from top-tier venture capitalists. Borges is also an active contributor to the Nouns DAO ecosystem and has been recognized on the Forbes 30 Under 30 list.",
+            "linkedin": "https://www.linkedin.com/in/joaoborgesjr/"
+        },
+        {
+            "name": "Gabriel Lyra, Founder",
+            "description": "Co-Founder & CTO @ BlindPay \u2014 Stablecoin API for global payments. Led software engineering at LendingClub, where he architected and implemented critical financial infrastructure handling $50B in monthly loan transactions. Previously at AWS, he optimized infrastructure scripts, reducing monthly costs from $15M to $1M.",
+            "linkedin": "https://www.linkedin.com/in/gabriel-miranda-lyra-10a06448/"
+        },
+        {
+            "name": "Gustavo Marinho, Founder",
+            "description": "Co-Founder & CPO @ BlindPay \u2014 Stablecoin API for global payments. Specializing in consumer-facing financial products for Latin America, I bring over 8 years of experience building digital products. At PicPay (60M+ users), I led the design of a loans marketplace and instant payment initiatives, processing $1.2M in daily loans during MVP phase. As Co-founder of Dropull, I built and scaled a social gaming platform to 1M users.",
+            "linkedin": "https://www.linkedin.com/in/gustavomarinho/"
+        },
+        {
+            "name": "Bernardo Simonassi, Founder",
+            "description": "Co-Founder & CEO @ BlindPay \u2014 Stablecoin API for global payments. Has been shaping the stablecoin payments industry for the past 3 years, during which he developed the first payroll platform powered by stablecoins. Previously at PicPay, he developed instant payment solutions serving 60M+ users.",
+            "linkedin": "https://linkedin.com/in/bernardosm"
+        }
+    ],
+    "status": true,
+    "generated_description": "**BlindPay: Simplifying Global Transactions with Stablecoin**\n\nFounded in 2024 and part of Y Combinator's W25 batch, BlindPay is on a mission to revolutionize global payments through its stablecoin API. In a world where financial transactions can feel complicated and bogged down by red tape, BlindPay handles all the regulatory and compliance headaches. This lets businesses focus on what they do best\u2014growing their operations.\n\n### What They Do\nBlindPay provides a seamless way for companies to send and receive money globally using a mix of fiat currencies and stablecoins, all while utilizing different blockchains. Their solution enables instant settlements and significantly reduces transaction times\u2014up to 80% faster than traditional frameworks.\n\n### Why It Matters\nThe ability to integrate stablecoins into existing payment flows offers companies a modern edge. Instant on- and off-ramps are possible, connecting any blockchain wallet with real-time quotes and low fees. This isn\u2019t just tech talk; it holds practical implications for everything from global payroll to merchant settlements.\n\n### Key Features\n- **Easy Integration**: Developers can jump in with a user-friendly API that supports various languages and frameworks.\n- **24/7 Operations**: Businesses can process payments anytime, anywhere.\n- **Compliance and Security**: BlindPay takes care of all KYC and compliance aspects, allowing you to focus on growth.\n  \n### Their Market\nBlindPay is clearly positioned at the intersection of fintech, crypto-web3, and payment systems. They cater to enterprises needing to streamline invoicing, manage global payouts, and offer affordable remittance solutions.\n\n### The Team\nLocated in Dover, Delaware, BlindPay operates with a small yet fierce team of four. Their Group Partner, Harj Taggar, brings valuable insights from their time at Y Combinator, ensuring that the company leverages the best practices in the startup ecosystem.\n\n### Get Involved\nIf you're a developer or a business looking for a robust payment solution, BlindPay makes it easy to get started through demos and comprehensive documentation available on their [website](https://blindpay.com).\n\nIn a nutshell, BlindPay demonstrates how fintech can evolve by harnessing the power of stablecoins, making global transactions accessible, efficient, and compliant. They're not just creating a product; they're paving the way for the next generation of financial services.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3b89dd25483fc8a964285909b73be18aa26adcd6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191026Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8b917231c3677c28749fee08685759539a22cdda40d0ee03d9f477d1615c2070",
+    "social_links": [
+        "https://www.linkedin.com/company/blindpay",
+        "https://x.com/blindpaylabs"
+    ],
+    "logo_path": "data/logos\\BlindPay_logo.png"
+}

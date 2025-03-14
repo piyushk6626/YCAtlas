@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/serinus-biosciences",
+    "name": "Serinus Biosciences",
+    "headline": "Combinations therapy by rational design",
+    "batch": "S22",
+    "description": "Serinus Biosciences is tackling one of the toughest problems in cancer treatment: creating combination therapies to override treatment resistance. We leverage cutting edge technology to design a fully explainable AI platform primed with decades of system biology knowledge. Uniquely powered for biological inference, our AI engine uncovers how cancer cells evolve treatment resistance and identifies molecules to overcome resistance escape routes. We design combinations that are safer, more effective, and can get to patients quickly. Founded by MIT PhDs and supported by a scientific advisory board of top academics from the Broad Institute, Dana-Farber, and UCSD, Serinus is powered by Y Combinator and other top investors to revolutionize precision medicine.",
+    "activity_status": "Active",
+    "website": "http://www.serinus.bio",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:biotech; industry:therapeutics; industry:oncology; location:new-york",
+    "founders": [
+        {
+            "name": "Adam Yaari, Founder/CEO",
+            "description": "Prior to founding Serinus, Adam gained over 10 years of entrepreneurship experience including a Microsoft R&D Fellowship and Flagship Pioneering Ideation Fellowship. Adam is passionate about developing advanced AI models for biological research that will bring medicine to scale.\nAdam received his PhD and MS in computer science from MIT, MSc in computer science and mathematics from the Weizmann Institute of Science, and dual major BSc in computer science and neuroscience from Bar-Ilan University.",
+            "linkedin": "https://www.linkedin.com/in/adam-yaari-b0192ab4/"
+        },
+        {
+            "name": "Maxwell Sherman, Founder/CTO",
+            "description": "After five years as a paramedic, Max left clinical medicine to develop new treatments for the millions of patients without access to effective medications. He studied applied math and biology at Brown University, statistics at Cambridge University, and is completing his PhD in computational biology at MIT. His research has appeared in prestigious journals including Science, Nature Biotechnology, and Nature Neuroscience and has been recognized with national and international awards.",
+            "linkedin": "https://www.linkedin.com/in/maxwellsh/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Serinus Biosciences is a groundbreaking biotech company based in New York, founded in 2022 as part of the Y Combinator Batch S22. Its mission is to tackle one of the biggest challenges in oncology: overcoming cancer treatment resistance through rationally designed combination therapies. \n\nThe core of Serinus's approach lies in leveraging a state-of-the-art AI platform, named ResCuETM, which blends decades of systems biology insights with advanced computational capabilities. This enables the company to identify vulnerabilities in drug-resistant cancer cells and to propose drug combinations that are not only safer and more effective but also expediently accessible to patients.\n\nFounded by a team of MIT PhDs and supported by an impressive Scientific Advisory Board that includes experts from the Broad Institute, Dana-Farber, and UC San Diego, Serinus is on a mission to revolutionize precision medicine. \n\nThe reality is stark: more than 85% of cancer mortality is linked to drug resistance, yet current approaches to mapping these resistance mechanisms are labor-intensive and historically ineffective. Serinus is addressing this gap by systematically uncovering how cancer cells evolve to evade treatments and what alternative therapeutic strategies can be devised.\n\nWith a highly skilled team of six, Serinus is not only innovating at the intersection of biotech and AI but is actively seeking collaborations with pharma and biotech leaders to fast-track developments in tackling treatment-resistant cancers.\n\nIn summary, Serinus Biosciences is carving a new pathway in cancer therapy using cutting-edge technology to address a critical need in patient care. They aim to deliver the next generation of precision medicines designed specifically for patients who currently have no viable treatment options. For more details, check out their website at [serinus.bio](http://www.serinus.bio).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7f1969bfb09498284c4c4cf34fea64cd2adc51f2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191918Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=adb5116aea152d88eac53b5959a854b9787bca0c873fb029572aefa005b5c7e6",
+    "social_links": [
+        "https://www.linkedin.com/company/serinus-biosciences"
+    ],
+    "logo_path": "data/logos\\Serinus_Biosciences_logo.png"
+}

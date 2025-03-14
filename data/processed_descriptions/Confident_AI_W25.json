@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/confident-ai",
+    "name": "Confident AI",
+    "headline": "The DeepEval LLM Evaluation Platform",
+    "batch": "W25",
+    "description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
+    "activity_status": "Active",
+    "website": "https://confident-ai.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:open-source; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jeffrey Ip, CEO & Cofounder",
+            "description": "Creator of DeepEval, the open-source LLM evaluation framework. and grew it to over 400k monthly downloads and counting. Previously SWE @ Google, Microsoft.",
+            "linkedin": "https://linkedin.com/in/jeffrey-ip-2295ab224"
+        },
+        {
+            "name": "Kritin Vongthongsri, Co-Founder",
+            "description": "Building the #1 LLM Evaluation Platform & empowering teams to red-team and safeguard LLM apps. AI Researcher and CHI-published author, previously built NLP pipelines for fintech startup and researched self-driving cars/HCI during @ Princeton (ORFE'24 + CS).",
+            "linkedin": "https://www.linkedin.com/in/kritin-vongthongsri"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Confident AI: Benchmarking the Future of LLM Applications**\n\nFounded in 2024 and part of Y Combinator Batch W25, Confident AI is a promising startup based in San Francisco. With a two-member team, their mission is clear: they aim to empower organizations of all sizes to benchmark, secure, and enhance their Large Language Model (LLM) applications using the DeepEval LLM Evaluation Platform. \n\n**What They Offer**\n\nAt the core of Confident AI\u2019s offerings are best-in-class metrics and guardrails powered by their flagship tool, DeepEval, which has garnered over 4.3k stars and half a million monthly downloads on GitHub. This platform provides battle-tested, open-source evaluation algorithms, allowing teams to maintain confidence in their LLM systems. Key products include:\n\n- **LLM Evaluation**: This tool benchmarks LLM systems, optimizing on prompts and models while detecting regressions.\n- **LLM Observability**: It enables users to monitor, trace, and A/B test LLM performance, delivering real-time insights.\n\n**Why It Matters**\n\nConfident AI is offering a structured approach to what is often a murky field of LLM evaluation. Many companies struggle to find reliable ways to measure the performance of AI models, and Confident AI aims to eliminate the guesswork. Their suite of tools allows teams to curate and update datasets, run evaluations, and tailor metrics to fit their specific criteria.\n\n**The Open-Source Philosophy**\n\nOne of the standout elements of Confident AI is its commitment to open-source solutions. This ethos of transparency not only builds trust with their user base but also fosters collaboration. Users can enhance their own tools with the knowledge that the evaluation metrics are continuously refined based on community input and real-world applications.\n\n**Client Impact and Scalability**\n\nCompanies have already started to see substantial benefits from using Confident AI. For instance, they assisted Supernormal in reducing LLM costs by 80%! Such statistics underline their potential in helping organizations not only save money but also improve the effectiveness of their AI deployments.\n\n**Final Thoughts**\n\nAs AI continues to penetrate various sectors at an accelerated pace, tools like Confident AI's platform will be crucial in ensuring these systems are not only functional but efficient. For businesses looking to harness the power of LLMs, building confidence in the technology is vital\u2014and that's precisely what Confident AI brings to the table. \n\nIf you're interested in diving deeper or want to see these tools in action, you can explore more on their website: [Confident AI](https://confident-ai.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e1e1d0fa4bd2816abc9ae23e04a6e52282b6d271.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191101Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c3374a1af1d2834c48f94a6d49d1c0a858616b955d6b9404990042d26a789668",
+    "social_links": [
+        "https://www.linkedin.com/company/confident-ai",
+        "https://x.com/confident_ai",
+        "https://github.com/confident-ai/deepeval"
+    ],
+    "logo_path": "data/logos\\Confident_AI_logo.png"
+}

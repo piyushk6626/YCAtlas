@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/pinnacle",
+    "name": "Pinnacle",
+    "headline": "API & SDK for RCS (the next-generation of texting)",
+    "batch": "S24",
+    "description": "Pinnacle is an API for RCS, the new standard for SMS for app-like text messages. For example, developers can create messages that show products that can be purchased with one tap natively on iOS and Android.\r\n\nIf you're currently using SMS from Twilio, etc, and you don't want to leave money on the table, get in touch with us - founders@trypinnacle.app with subject \"YCBIO\". \r\n\nIf you're a YC company, we'll get you a free founders mode\u2122\ufe0f hat, 1000 free msgs/mo + 24/7 real founder mode\u2122\ufe0f support when you switch to us.",
+    "activity_status": "Active",
+    "website": "https://trypinnacle.app/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:sales; industry:e-commerce; industry:sms; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sean Roades, Founder",
+            "description": "Sean is co-founder & CEO of Pinnacle (S24). After graduating from Harvard College where he studied computer science and econometrics, Sean worked at YouTube where he built machine learning models that handled billions of dollars of ad spend.",
+            "linkedin": "https://www.linkedin.com/in/sr19943/"
+        },
+        {
+            "name": "Ivan Zhang, Founder",
+            "description": "Ivan is the cofounder and CTO of Pinnacle.\n\nHe studied Computer Science and Statistics at Harvard College and previously worked as a software engineer at Amazon where he built internal tools. Most recently, he was a software engineer at General Catalyst\u2019s Customer Value Fund where he built an open-source data library with over 25,000 downloads.",
+            "linkedin": "https://www.linkedin.com/in/aivanzhang/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Pinnacle: Revolutionizing Text Messaging with RCS\n\n**Overview**\nFounded in 2024 and hailing from the vibrant tech landscape of San Francisco, Pinnacle is a dynamic startup aiming to reshape the way businesses communicate through text messaging. As part of Y Combinator\u2019s Batch S24, Pinnacle offers an innovative API & SDK designed for Rich Communication Services (RCS), the next wave of messaging that blends the familiarity of SMS with the rich functionality of app-driven interactions.\n\n**Mission**\nPinnacle\u2019s mission is straightforward: to provide developers with the tools they need to leverage RCS for app-like messaging experiences. This means your messages can do much more than simply send a text; they can showcase products, enable one-tap purchases, and create a more engaging user interface right within the messaging app.\n\n**What Makes Pinnacle Special?**\nIf you've been utilizing SMS services like Twilio and feel you're starting to leave money on the table, Pinnacle wants to talk to you. Switching to Pinnacle not only opens up RCS\u2019s rich features but comes with enticing perks for Y Combinator companies\u2014like a free founders mode\u2122\ufe0f hat, a generous allowance of 1,000 free messages per month, and real-time support.\n\n**Key Features**\n- **Developer-Friendly:** Pinnacle provides a clean and simple API that allows developers to integrate RCS messaging into their applications swiftly. You can send both SMS and RCS messages using familiar programming languages like Python, TypeScript, and Ruby.\n- **Rich Features:** With RCS, businesses can send interactive messages that include image carousels, quick reply buttons, and even purchase options\u2014all without requiring the user to download additional apps.\n- **Future-Ready:** RCS messaging is being adopted widely, with major carriers already rolling out support. It's a long-term investment in modern communication.\n\n**Join the RCS Movement**\nAs Pinnacle emphasizes, \u201cSMS is dead.\u201d The writing is on the wall: moving towards RCS is not just smart\u2014it's essential. More and more users expect richer, more interactive messaging experiences, and Pinnacle is here to ensure that businesses are equipped to deliver just that.\n\n**Get in Touch**\nCurious to learn more or ready to make the switch? Reach out at founders@trypinnacle.app with the subject line \u201cYCBIO.\u201d The team is eager to help you navigate the transition to RCS and maximize your messaging potential.\n\n### Find Us\n- **Website:** [trypinnacle.app](https://trypinnacle.app)\n- **Docs:** [Documentation](https://trypinnacle.app/docs)\n- **Blog:** [Latest Articles](https://trypinnacle.app/blog)\n\nPinnacle is not just about sending messages; it\u2019s about redefining digital engagement. Whether you're starting a new project or looking to upgrade existing communication strategies, now is the time to embrace the future of messaging with Pinnacle.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bfe728d51cb5d5cf10a49d7d36415c1d388104ee.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191640Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ff60a69b8baeba416a7a61f3e93c959bc6178b7962cd2927c9e9752a6dbe855f",
+    "social_links": [
+        "https://www.linkedin.com/company/trypinnacle/",
+        "https://x.com/try_pinnacle"
+    ],
+    "logo_path": "data/logos\\Pinnacle_logo.png"
+}

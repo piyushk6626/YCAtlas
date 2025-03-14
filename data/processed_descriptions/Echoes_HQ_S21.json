@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/echoes-hq",
+    "name": "Echoes HQ",
+    "headline": "Measure and communicate engineering activity",
+    "batch": "S21",
+    "description": "Echoes gives engineering leaders visibility into the alignment of engineering efforts against the business goals and whether their deliveries are having actual\u00a0business impacts.\r\n\nBy doing so we enable engineering leaders to make informed decisions on hiring and priorities, to communicate effectively on their team's activity to their business partners/bosses/investors, and to build engagement by putting their team's work into context.\r\n\nWe achieve this by offering a seamless way for engineers to connect their day-to-day contributions to their intent, creating the missing link between tech outputs and business outcomes.",
+    "activity_status": "Active",
+    "website": "https://echoeshq.com",
+    "founded_date": 2020.0,
+    "team_size": 3.0,
+    "location": "Amsterdam, Netherlands",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Arnaud Porterie, Founder",
+            "description": "\ud83e\udd8b ex Dep. CTO @ Veepee\n\ud83d\udc33 ex Sr. Engineering Manager @ Docker\n\ud83c\uddf3\ud83c\uddf1 Paris, SF, now Amsterdam\n\ud83d\udcf8 Photo enthusiast\n\ud83d\udc4c It's pronounced Arno",
+            "linkedin": "https://linkedin.com/in/aporterie"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Echoes HQ: Bringing Clarity to Engineering Efforts**\n\nFounded in 2020 and a proud member of Y Combinator's Batch S21, Echoes HQ is a smart tool designed to help engineering leaders measure and communicate their team's activity effectively. Based in Amsterdam, with a dedicated team of just three, Echoes HQ is laser-focused on bridging the gap between engineering work and business outcomes.\n\n### The Essence of Echoes HQ\n\nAt its core, Echoes HQ seeks to provide engineering leaders with visibility into how their teams\u2019 efforts align with broader business goals. The company\u2019s mission is straightforward: when engineering efforts are measured against what really matters to the business, informed decisions can follow. This is vital for optimizing hiring strategies and prioritizing work effectively.\n\n### How They Do It\n\nEchoes HQ enables seamless integration with platforms like GitHub and GitLab, allowing engineers to connect their daily work to larger strategic intents. This transforms raw engineering output into actionable insights. By monitoring projects without relying heavily on manual reporting, Echoes HQ empowers teams to communicate their progress and performance with confidence. \n\n### Unique Selling Points\n\n- **Easy Setup:** You can set up Echoes in about 15 minutes, making it accessible even for small teams.\n- **Minimal Effort:** The tool requires little intervention from developers, focusing instead on gathering essential data without compromising code security.\n- **Customizable Insights:** Engineering leaders can tailor goals and metrics that align with their specific context, allowing for more personalized and relevant insights.\n\n### Current Offerings\n\nEchoes HQ provides a variety of tools:\n- **Effort Tracking:** Measure contributions through integrated platforms and track engineering focus.\n- **Performance Assessment:** Utilize metrics like DORA to identify bottlenecks and areas for improvement.\n- **Strategic Project Monitoring:** Keep tabs on teams\u2019 progress towards strategic objectives with minimal hassle.\n\n### Feedback from Users\n\nIndustry leaders are already reaping the benefits. For instance, Florent, Head of Engineering at Electra, praises how Echoes helped advocate for engineering hiring by clarifying the balance between maintenance and customer deliverables. Similarly, Benjamin, a CPTO at JobTeaser, notes that it has fostered relationships across executive teams and opened up the black box of tech discussions.\n\n### The Road Ahead\n\nEchoes HQ is carving out a niche in the developer tools, SaaS, and B2B sectors. With a clear mission, innovative approach, and powerful backing, they've positioned themselves as essential partners for engineering teams looking to maximize their impact in business settings.\n\nTo learn more about how they can elevate your engineering team's contributions, visit [Echoes HQ](https://echoeshq.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c36d67c8a454d2a1516f21c6c925d0c7338fff37.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191131Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b1da291bd9157b7cf7d2d8b3fd7047bd32e323341220fd781bbaa5c30c09fb22",
+    "social_links": [
+        "https://www.linkedin.com/company/echoeshq/",
+        "https://twitter.com/echoes_hq",
+        "https://github.com/EchoesHQ"
+    ],
+    "logo_path": "data/logos\\Echoes_HQ_logo.png"
+}

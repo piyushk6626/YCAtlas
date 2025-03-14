@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/anakin",
+    "name": "Anakin",
+    "headline": "We automate pricing for companies like Walmart and Britannia",
+    "batch": "S21",
+    "description": "Anakin is building a fully automated pricing engine for large eCommerce companies such as  Walmart, and Uber. We help them increase their revenue by upto 12% by optimizing the pricing, products and trends data of their competitors.\r\n\nWe do that by collecting data and generating actionable insights. Our pricing engine automatically changes the prices of hundreds of millions of products across 20+ countries in real-time. Anakin is profitable and growing every month with 15+ multi-billion-dollar companies as clients.",
+    "activity_status": "Active",
+    "website": "https://anakin.company",
+    "founded_date": 2020.0,
+    "team_size": 55.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:e-commerce; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Mohit Prateek, Founder",
+            "description": "Mohit Prateek is the founder and CEO of Anakin, which he started in 2020. Mohit sets the company\u2019s strategy to help retailers and brands, both small and big to optimise pricing, and all variables based on competition. He completed his bachelors and masters in Chemical Engineering from IIT Bombay.",
+            "linkedin": "http://linkedin.com/in/mohitprateek"
+        },
+        {
+            "name": "Rashmi Bala, Founder",
+            "description": "Rashmi Bala is the co-founder and CTO of Anakin. Rashmi is responsible for hiring and running Anakin\u2019s engineering and data science teams. She has worked across multiple eCommerce companies building softwares. She graduated from IIT Kanpur with a Bachelor in Electrical Engineering.",
+            "linkedin": "https://www.linkedin.com/in/kumari-rashmi-bala/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Anakin: Revolutionizing Pricing Automation\n\nFounded in 2020, Anakin has emerged as a key player in the eCommerce landscape, offering sophisticated pricing automation solutions for giants like Walmart and Uber. If you're in the business of selling products online, here\u2019s why you should pay attention.\n\n#### The Mission\n\nAnakin's core mission is simple yet powerful: to automate pricing for large eCommerce companies. By optimizing pricing strategies through competitor data analysis, Anakin helps its clients increase revenues by up to 12%. They don't just scrape data; they distill it into actionable insights that can transform pricing strategies in a snap.\n\n#### How It Works\n\nImagine changing prices for hundreds of millions of products in real-time across 20+ countries. That\u2019s exactly what Anakin offers. Their cutting-edge pricing engine dynamically collects data on competitors and market trends, enabling clients to outsmart the competition and make informed decisions.\n\n#### The Numbers\n\n- **Clients**: Over 15 multi-billion-dollar companies.\n- **Employees**: A tight-knit team of 55, based in the vibrant tech hub of San Francisco.\n- **Funding**: Anakin is part of Y Combinator Batch S21 and continues to demonstrate profitability and consistent growth.\n\n#### What Makes Anakin Stand Out?\n\n1. **Precision and Accuracy**: With millions of competitive pricing data points delivered daily, Anakin's platform ensures that clients are working with top-notch information.\n  \n2. **Customization**: Their services are tailored to meet specific industry needs\u2014whether it's e-commerce, ride-hailing, food delivery, or hedge funds. The platform can be adjusted for real-time data scraping schedules as frequently as every 15 minutes.\n\n3. **Technical Prowess**: Anakin excels where many struggle. They are adept at scraping even the toughest platforms, ensuring clients receive the broadest range of competitive insights.\n\n4. **Client Testimonials**: Clients rave about the transformative impact of Anakin\u2019s data in decision-making processes, reporting strategic pivots that have led to market leadership.\n\n#### Industries Served\n\nAnakin\u2019s versatile platform supports various sectors:\n- **E-commerce**: Real-time competitor pricing data for dynamic strategies.\n- **Ride-Hailing**: Insights into fare breakdowns, seasonal discounts, and more.\n- **Food Delivery**: Comprehensive data on restaurant offerings and ratings.\n- **Grocery Delivery**: Real-time pricing and availability metrics.\n\nRemember, in today\u2019s fast-paced market, having access to the right data at the right time can be the difference between leading the pack or lagging behind.\n\n#### The Future\n\nAs Anakin continues to innovate and expand its offerings, it's clear that they are on a mission to redefine how companies approach pricing. The blend of sophisticated technology, deep market understanding, and a commitment to client success sets them apart in the bustling world of SaaS and B2B solutions.\n\nFor more insights and to see Anakin\u2019s offerings in action, check out their website: [Anakin.company](https://anakin.company). If you\u2019re serious about transforming your pricing strategy, reaching out to them might just be the move you need to make.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/782084f9dcde2b4359766bfd011f36672b259a4a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190956Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=93c3b8af0344cc51aa4e3e15c8f084ce2ad18d279144d6db68bb450d044b32c1",
+    "social_links": [
+        "https://www.linkedin.com/company/anakintech/",
+        "https://twitter.com/anakinHQ",
+        "https://www.crunchbase.com/organization/anakin"
+    ],
+    "logo_path": "data/logos\\Anakin_logo.png"
+}

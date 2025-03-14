@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/aurelian",
+    "name": "Aurelian",
+    "headline": "Automating non-emergency for 911 centers",
+    "batch": "S22",
+    "description": "Aurelian automates non-emergency calls for 911 centers. Our AI-powered operator instantly routes, triages, and resolves calls so citizens get exactly what they need and 911 dispatchers get to focus on emergencies.\r\n\nUpwards of 80% of total call volume faced by public safety agencies are administrative calls e.g., citizens trying to pay parking tickets or reporting a power outage. Aurelian lessens this burden and lets 9-1-1 dispatchers deal with actual emergencies.\r\n\nTo date, Aurelian has automated hundreds of thousands of calls and sent over 10,000 emergent calls (that typically would've sat on hold) to the 911 line to be handled immediately.",
+    "activity_status": "Active",
+    "website": "https://www.aurelian.io/",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "Seattle, WA",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:govtech; industry:ai; location:seattle",
+    "founders": [
+        {
+            "name": "Max Keenan, Founder",
+            "description": "Reformed investment banker",
+            "linkedin": "https://www.linkedin.com/in/max-keenan-4a577a137/"
+        },
+        {
+            "name": "James Liu, Founder",
+            "description": "Needl Co-Founder",
+            "linkedin": "https://www.linkedin.com/in/jamesliu08/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Aurelian: Revolutionizing Non-Emergency Call Management for 911 Centers\n\n**Company Overview**\nAurelian, founded in 2022 and part of Y Combinator Batch S22, is a startup based in Seattle, WA, on a mission to automate non-emergency call management for 911 centers. With a small but dedicated team of six, Aurelian is leveraging cutting-edge technology to transform how public safety agencies operate.\n\n**The Problem**\nDid you know that upwards of 80% of calls that public safety agencies handle are administrative in nature? These can range from citizens inquiring about parking tickets to reporting non-urgent issues like a power outage. This deluge of non-emergency calls bogs down 911 dispatchers, preventing them from focusing on genuine emergencies that require immediate attention.\n\n**The Solution**\nEnter Aurelian's AI-powered voice operator\u2014an intelligent system designed to instantly route, triage, and resolve these calls. By automating the preliminary steps of call handling, Aurelian allows dispatchers to spend their time on urgent matters. To date, they have facilitated the automation of hundreds of thousands of calls and ensured thousands of emergent calls reached the 911 lines without delay.\n\n**How It Works**\nAurelian's technology includes several key features:\n- **Call Routing:** Directs callers to the appropriate department while providing them with relevant online resources via text.\n- **Emergency Triage:** Monitors calls in real-time to identify situations that may require immediate assistance.\n- **Service Call Generation:** Collects detailed incident-specific information, helping create calls for service efficiently.\n\nAurelian's AI is multilingual, supporting Spanish, French, and 33 other languages, making it accessible to a broader population. Their system is customizable, which means it can adapt to the unique needs of different emergency communication centers (ECCs).\n\n**Endorsements and Vision**\nTestimonials from industry experts highlight Aurelian's necessity. Gerrit Klein, Technical Services Manager at MACC 911, emphasizes, \u201c911 dispatchers should ONLY handle 911 calls.\u201d The sentiment is echoed by D.T. Donaldson, Director at MACC 911, who notes the strong reliance on Aurelian's solutions.\n\nThis mindset reflects a profound belief: public safety agencies must evolve to thrive in modern times, or risk stagnation. Aurelian is positioning itself at the forefront of this evolution, with a powerful voice AI that not only routes calls but actively resolves caller needs, thereby optimizing service delivery.\n\n**Current Endeavors**\nRight now, Aurelian is not just talk. They are actively automating administrative calls for MACC 911, enhancing their functionality and efficiency. The company\u2019s growth trajectory is promising as they continue to redefine the standards of public safety communication.\n\nIf you\u2019re intrigued by Aurelian's mission and want to learn more about their technologies or book a demo, check out their [website](https://www.aurelian.io/).\n\nIn summary, Aurelian is tackling a significant issue in emergency response communications, making waves with its innovative use of AI, and ultimately enabling 911 operators to focus on what truly matters: saving lives.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f81f64585e84472c2b690dd64de4cce2becb77ff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191011Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=162e8d0b0e7d420976c545b86d238041b904e734b64ee632cc4dd0a4ca6794d7",
+    "social_links": [
+        "https://www.linkedin.com/company/aureliansystem"
+    ],
+    "logo_path": "data/logos\\Aurelian_logo.png"
+}

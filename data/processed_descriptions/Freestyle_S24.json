@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/freestyle",
+    "name": "Freestyle",
+    "headline": "Build exceptional infrastructure with just JavaScript.",
+    "batch": "S24",
+    "description": "Ben and Jacob met in Calculus class in 10th grade, and tried founding a startup in high school \u2014 it didn\u2019t go anywhere, but it taught them a ton.\r\n\nDuring high school, Ben lead the frontend team for the World Health Organization\u2019s COVID-19 App Team.\r\n\nAfter high school, Jacob went to Apple and Ben went to college. When there was an opening on his team, Jacob had Ben apply, and Ben left UChicago to go work at Apple.\r\n\nThey spent about 2 years at Apple as Senior Engineers in the Conversational Engineering Department, before leaving to found Freestyle.\r\n\nFreestyle is directly inspired by what they saw as their failures of the tech they worked with at Apple.",
+    "activity_status": "Active",
+    "website": "https://www.freestyle.sh",
+    "founded_date": 2024.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:web-development; industry:cloud-computing; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Benjamin Swerdlow, Founder",
+            "description": "I learned to code in elementary school.\n\nIn high school I served as a Code Owner and technical lead for the World Health Organization COVID-19 App Collective Team.\n\nI did a year of college, then took a job as a consultant for Apple. In 3 months I became a senior. \n\nI left Apple to found Freestyle.",
+            "linkedin": "https://www.linkedin.com/in/benswerdlow/"
+        },
+        {
+            "name": "Jacob Zwang, Founder/CTO",
+            "description": "I dropped out of college and became an Apple senior full-stack engineer in Conversational Engineering at 19. During the year and a half I worked there, I delivered multiple projects to production at scale.\n\nI love building products that inspire and delight customers, but I'm frequently frustrated by poor back-end developer tools. My co-founder and I are building a new cloud and backend workflow so that we and others can build exceptional software in a fraction of the time.",
+            "linkedin": "https://www.linkedin.com/in/jacobzwang/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Freestyle: Simplifying Infrastructure with JavaScript**\n\nFreestyle is an ambitious startup founded in early 2024 by Ben and Jacob, two high school friends who stumbled upon the world of tech during a Calculus class. Their journey in entrepreneurship began back then, and although their first attempt went nowhere, it laid the groundwork for their future endeavors. Fast forward, Ben led the frontend development of the World Health Organization\u2019s COVID-19 app while Jacob later joined Apple, eventually inviting Ben to the tech giant as well. They spent a productive two years at Apple\u2019s Conversational Engineering Department, learning valuable lessons from the tech they worked with, which ultimately sparked the inspiration for Freestyle.\n\nLocated in San Francisco and part of the Y Combinator Batch S24, Freestyle is on a mission to build exceptional infrastructure using only JavaScript. This small yet driven team of five aims to empower developers by leveraging native JavaScript APIs to streamline web development. With a clear focus on enhancing developer tools, Freestyle challenges the typical reliance on multiple external services for functionalities like database management and authentication.\n\nFreestyle introduces a concept that they call \"TypeScript is the Database,\" allowing developers to structure their applications with simplicity and elegance. By using the @cloudstate decorator, properties of classes can be persistently stored and accessible across any request, paving the way for efficient coding and deployment.\n\nWhat makes Freestyle truly stand out is its commitment to open-source collaboration. Rather than introducing opinionated APIs that complicate development, they leverage existing ECMAScript standards, empowering developers to use what they already know. This enables them to replace external services\u2014like Auth0 or traditional database systems\u2014with versatile, built-in APIs that are easy to use and integrate.\n\nIn a world brimming with boilerplate code and cloud complexities, Freestyle offers a refreshing alternative: \"Deploy your entire stack in 1 command.\" By prioritizing native TypeScript APIs, developers can focus on business logic without getting bogged down by infrastructure concerns. \n\nIf you're curious about their offerings, you can dive into their documentation, join their community on Discord, or even explore their open-source projects on GitHub. Freestyle is positioning itself as a leading edge in developer tools\u2014a place where your JavaScript skills can truly shine.\n\nFor more information, check out [Freestyle's website](https://www.freestyle.sh) and discover how they are revolutionizing the way developers build applications.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e5b192f39759e7dc6b47ad890ddfdb2da37a9f6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191350Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=86545aafae7eea5f7ba28cadb481fc51e2cde456e44e7c0fe4be915f6132d975",
+    "social_links": [
+        "https://github.com/freestyle-sh"
+    ],
+    "logo_path": "data/logos\\Freestyle_logo.png"
+}

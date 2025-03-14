@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/bloomapi",
+    "name": "BloomAPI",
+    "headline": "BloomAPI helps doctors share clinical data. Today most healthcare\u00e2\u0080\u00a6",
+    "batch": "W17",
+    "description": "BloomAPI simplifies how medical records are transferred. Today the majority of records are still moved by fax and couriers. Patients, Doctors, and Insurance companies all benefit when medical records are available when they are needed for the care of patients. We make this possible.",
+    "activity_status": "Active",
+    "website": "https://www.bloomtext.com",
+    "founded_date": 2015.0,
+    "team_size": 7.0,
+    "location": "Seattle, WA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:mental-health-tech; industry:consumer-health-services; industry:healthcare; location:seattle",
+    "founders": [
+        {
+            "name": "Michael Wasser",
+            "description": "I'm generally a hacker with a focus on social impact. I'm currently building open-source projects with a focus on telehealth, remote patient monitoring and broadband internet accessibility.",
+            "linkedin": "https://www.linkedin.com/in/michaelwasser"
+        },
+        {
+            "name": "Heather Milone",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/heathermilone"
+        }
+    ],
+    "status": true,
+    "generated_description": "### BloomAPI Overview\n\nFounded in 2015 and based in Seattle, WA, BloomAPI is a startup that emerged from Y Combinator's W17 batch. The company is on a mission to modernize healthcare communication by facilitating the secure sharing of clinical data, breaking away from outdated methods like fax and courier services, which continue to dominate the industry.\n\n#### What We Do\n\nAt BloomAPI, we believe that timely access to medical records can significantly enhance patient care. Our flagship service, **BloomText**, provides a HIPAA-compliant texting platform that enables healthcare professionals to effortlessly communicate with patients, colleagues, and other entities involved in care coordination. This not only aids in patient management but also streamlines workflows within healthcare organizations.\n\n##### Key Features:\n- **Secure Messaging**: Send text messages, images, and files to patients without requiring them to download an app.\n- **Document Scanning**: Capture documents like insurance cards and share them instantly via SMS.\n- **Team Communication**: Staff can engage in real-time discussions about patient care, complete with read receipts and notifications.\n- **Broadcast Messaging**: Reach multiple contacts simultaneously with mass text capabilities, which can be managed in real-time.\n\nBloomAPI aims to increase operational efficiency and patient satisfaction within healthcare organizations. To date, we've supported over 15,000 users and 2,840 organizations, sending out millions of messages and conducting thousands of video calls.\n\n#### Why BloomAPI?\n\nWe're passionate about enhancing healthcare delivery through smarter communication tools. Our experience shows that when doctors and patients can communicate effortlessly, everyone benefits\u2014patients receive better care, and healthcare providers can operate more efficiently.\n\nFor a detailed look at our services, pricing, or to get started, check out our website at [BloomText](https://www.bloomtext.com).\n\n*In a world where every second counts in patient care, BloomAPI provides the tools to ensure that communication is both secure and efficient.*",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0c30f9ce890c5328ca00c327bcae6dabfa29d2fb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191026Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=68187e5361d0e495f957aaeedbc33125bb29be3dae8214c901fce2de5f954cf3",
+    "social_links": [
+        "https://www.linkedin.com/company/bloomapi/",
+        "https://www.facebook.com/bloomapi/"
+    ],
+    "logo_path": "data/logos\\BloomAPI_logo.png"
+}

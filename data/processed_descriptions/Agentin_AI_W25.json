@@ -1,0 +1,33 @@
+{
+    "Links": "https://www.ycombinator.com/companies/agentin-ai",
+    "Name": "Agentin AI",
+    "Headline": "AI Agents that automate enterprise software processes",
+    "Batch": "W25",
+    "Description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce, NetSuite and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
+    "Activity_Status": "Active",
+    "Website": "https://www.agentin.ai",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "http://linkedin.com/company/agentin-ai",
+    "Company_Twitter": "",
+    "Tags": "industry:artificial-intelligence; industry:reinforcement-learning; industry:enterprise; location:san-francisco-bay-area",
+    "social_links": [
+        "http://linkedin.com/company/agentin-ai",
+        "https://x.com/ai_agentin",
+        "https://www.crunchbase.com/organization/de1aaf20-8ab6-4c76-bf26-fb6dfbb2d0de",
+        "https://github.com/agentin-ai"
+    ],
+    "logo_path": "data\\logos\\Agentin_AI.png",
+    "Active_Founders": [
+        {
+            "Name": "Sankeerth Rao Karingula, Founder",
+            "Description": "ex-Google Deepmind researcher with a PhD in Machine Learning from UC San Diego and undergrad in EE from IIT Bombay. \n\nAt Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying Reinforcement Learning techniques we developed.",
+            "LinkedIn": "https://linkedin.com/in/sankeerthrao"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Agentin AI: Revolutionizing Enterprise Automation**\n\nAgentin AI, founded in 2024 and part of Y Combinator's W25 batch, is on a mission to transform how businesses handle software processes. Based in the heart of San Francisco, this nimble two-person team is tackling the complexities of integrating enterprise systems like Salesforce, NetSuite, and SAP, making automation more accessible and effective.\n\nThe crux of Agentin AI\u2019s offering lies in their specialized AI Agents that automate the Order to Cash (O2C) process. These agents are designed to navigate significant customization in enterprise software, using reinforcement learning to adapt and improve their performance over time. Simply put, they learn from failures, which is a game-changer in a space where traditional integrations can take months and can come with a slew of manual errors.\n\nTheir O2C solution connects orders, contracts, and payments seamlessly across platforms, reducing the typical cycle time from 45 days to just 18 days, and slashing manual touchpoints by a staggering 83%. This is what we like to call \u201centerprise-grade automation.\u201d Imagine a world where your AI is not just processing data but also validating it with near-perfect accuracy (99.9% for order creation) and handling risk assessments in real-time, speeding up approvals significantly.\n\nAgentin AI is not just about decreasing errors; it\u2019s about making integrations simple and automatic. With their AI agents performing over 450 O2C tasks autonomously, the focus shifts from tedious manual input to strategic decision-making. They promise an integration turnaround of just 2-3 weeks, compared to the traditional 4-6 months, alongside self-optimizing models that require no manual updates as the system evolves.\n\nWith collaborations already underway with major players like SAP and Salesforce, and more integrations on the horizon (NetSuite and Microsoft Dynamics expected soon), Agentin AI is constructing a robust ecosystem that promises to elevate how enterprises operate.\n\nIf you\u2019re intrigued by the prospect of significantly reducing your operational overhead and errors while improving efficiency, Agentin AI is opening its platform for early access through a beta waitlist, and they're available for demos to showcase their capabilities.\n\nIn short, whether you're struggling with software integrations or just looking to streamline your enterprise workflows, Agentin AI might just be the partner you\u2019ve been waiting for\u2014embedded in the new era of technological efficiency.\n\nFor more details, visit their website: [www.agentin.ai](https://www.agentin.ai). And if you want to see it in action, don\u2019t hesitate to book a demo."
+}

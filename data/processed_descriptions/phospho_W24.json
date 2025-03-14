@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/phospho",
+    "name": "phospho",
+    "headline": "The fastest way to get started in AI robotics as an ML engineer",
+    "batch": "W24",
+    "description": "phospho aims to provide sdks, tutorials and hardware kits for real-world robotics in Python. The goal is to lower the barrier for entry to robotics so that everyone can start building intelligent robots.",
+    "activity_status": "Active",
+    "website": "https://phospho.ai",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:robotics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Pierre-Louis Biojout, Founder",
+            "description": "CTO @ phospho, Applied Maths and CS (X2019) @ \u00c9cole Polytechnique",
+            "linkedin": "https://linkedin.com/in/pierre-louis-biojout-9509741aa"
+        },
+        {
+            "name": "Paul-Louis Venard, Founder",
+            "description": "CEO @ phospho, Ecole des Ponts, MVA @ ENS Paris-Saclay, Management @ HEC Paris",
+            "linkedin": "https://linkedin.com/in/paul-louis-venard-9269b5116"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Phospho**\n\nFounded in 2023 and hailing from the vibrant tech hub of San Francisco, Phospho is on a mission to streamline the entry into AI robotics for aspiring machine learning engineers. If you've ever wanted to dip your toes into the world of robotics but felt overwhelmed, Phospho aims to change that.\n\nTheir approach is refreshingly straightforward: they provide a range of software development kits (SDKs), tutorials, and hardware kits specifically designed for real-world robotics projects using Python. The overarching goal? Lowering the barriers that often keep bright minds from diving into this innovative field.\n\nPhospho is part of the Y Combinator Batch W24\u2014a testament to its potential\u2014and boasts a compact team of just four dedicated employees, all working under the guidance of Group Partner Nicolas Dessaigne. \n\n### What are They Doing?\nPhospho is not just about theory; they\u2019re taking action. Here are a few initiatives they've launched:\n\n- **AI Robotics**: Delivering resources to help newcomers get started in building intelligent robots.\n  \n- **Tak**: An AI-powered search engine designed to make information retrieval a breeze.\n  \n- **LLM Colosseum**: A unique platform for benchmarking large language models (LLMs) through engaging challenges like fighting games.\n  \n- **Analytics**: An analytics platform tailored for LLM applications\u2014because every good AI project needs sound data-driven insights.\n\nIn essence, Phospho is bridging the gap between complex robotics tech and beginners looking to build the next big thing in AI. If you\u2019re intrigued, you can explore more about their offerings, check out their tutorials, or engage with their community through platforms like [LinkedIn](https://www.linkedin.com/company/90602282/), [Twitter](https://x.com/phospho_ai), and [Discord](https://discord.gg/yRcfDNW3).\n\nFor the curious minds eager to kickstart their journey in AI robotics, Phospho is like a friendly hand into an otherwise intimidating world. Buckle up; the future of robotics just got a lot more accessible.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e2b206c47a1febfecaef32946c85cb12e38e931a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191637Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=038a6e9abd3d8ba7c70b6631a574a258f693375e42fe0ad4457ca6b4e086574c",
+    "social_links": [
+        "https://www.linkedin.com/company/phospho-app/",
+        "https://twitter.com/phospho_ai",
+        "https://www.crunchbase.com/organization/phospho",
+        "https://github.com/phospho-app"
+    ],
+    "logo_path": "data/logos\\phospho_logo.png"
+}

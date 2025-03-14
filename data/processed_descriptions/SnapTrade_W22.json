@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/snaptrade",
+    "name": "SnapTrade",
+    "headline": "Plaid for trading",
+    "batch": "W22",
+    "description": "SnapTrade is an API to connect retail brokerage accounts to any fintech app. We enable API access to real-time account data, historical transactions, and trading. This makes it possible to build new investing experiences with existing brokerage accounts, so users don't need to transfer and it's easier to get started.",
+    "activity_status": "Active",
+    "website": "https://snaptrade.com/",
+    "founded_date": 2017.0,
+    "team_size": 17.0,
+    "location": "Fredericton, Canada",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:fintech; industry:b2b; industry:api",
+    "founders": [
+        {
+            "name": "Brendan Lee Young, Founder",
+            "description": "I'm originally from Trinidad and Tobago but I live in Canada (for now). In a past life I was a DJ and party promoter. Be careful what you say around me because I just might turn what you've said into a song and maybe a dance. Don't believe me? Just ask my wife :) \nFinally, I love helping people and finding win-win solutions. As an entrepreneur, my goal is to build something people want and love.",
+            "linkedin": "https://www.linkedin.com/in/brendanleeyoung/"
+        },
+        {
+            "name": "Brendan Wood, Founder",
+            "description": "I'm a robotics engineer that specializes in software and high-performance computing. I'm a father of three from New Brunswick, Canada, and my favorite thing to do is drift down lazy rivers in a canoe.",
+            "linkedin": "https://www.linkedin.com/in/brendancalebwood/"
+        }
+    ],
+    "status": true,
+    "generated_description": "SnapTrade is a fintech company with a mission to serve as the Plaid for trading. Founded in 2017, and hailing from the Y Combinator Batch W22, SnapTrade operates out of Fredericton, Canada, with a focused team of 17. Their core offering is an API that allows fintech applications to connect to retail brokerage accounts, facilitating access to real-time account data, historical transactions, and trading capabilities without requiring users to transfer their accounts. This makes starting with investing significantly easier for users.\n\n**What SnapTrade Offers:**\nWith SnapTrade, developers can integrate features that enhance user experience in investment apps by accessing balances, holdings, orders, and transactions. This is particularly useful for building new investing experiences that keep users engaged\u2014all while maintaining their existing brokerage relationships. Their API supports trading in stocks, ETFs, crypto, and options right from within your application.\n\n**Key Features:**\n- **High Connection Success Rates:** SnapTrade boasts connectivity above 95%, which means more reliable experiences for users.\n- **Real-Time Data Access:** Developers can get extensive data necessary for building robust financial applications.\n- **Seamless Integration:** The SDKs available help get applications up and running quickly across popular programming languages.\n\n**Why SnapTrade?**\nThis company differentiates itself by reducing the friction in portfolio management. They eliminate manual data entry, allowing users to onboard effortlessly. Additionally, SnapTrade supports portfolio validation and sharing, which helps platforms increase user engagement effectively.\n\n**Trusted By:** \nSnapTrade has established itself with notable partnerships, enabling firms like Blossom, Tiicker, Delta, and others to enhance their investing tools seamlessly. Their API allows these organizations to provide richer experiences to their users without heavy lifting on the data management front.\n\n**Closing Thoughts:**\nIn summary, SnapTrade is transforming how fintech applications interact with retail brokerage accounts. By simplifying integration and enhancing user experience through their API, they're not just about trading but improving overall investment management. If you're in the fintech space and want to incorporate trading capabilities into your platform, SnapTrade is worth checking out. You can learn more at [SnapTrade](https://snaptrade.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/39308ffb9fa78ddecb75ac0f5938ff0675f7855b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191934Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4151c2eb8cae56324591d5f96c91280643c3826c2acc2394826e9fbd36ddba81",
+    "social_links": [],
+    "logo_path": "data/logos\\SnapTrade_logo.png"
+}

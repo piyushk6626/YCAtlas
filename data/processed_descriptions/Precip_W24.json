@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/precip",
+    "name": "Precip",
+    "headline": "High precision AI weather models",
+    "batch": "W24",
+    "description": "Precip uses AI to make hyperlocal weather observations. We\u2019re started with the most important dimension of weather: rain. For example, one of our customers uses Precip daily to make sure their heavy trucks won\u2019t get stuck in muddy fields.\r\n\nOur highly rated mobile app is the best way to see rain and snow totals anywhere.",
+    "activity_status": "Active",
+    "website": "https://precip.ai",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:consumer; industry:climate; industry:api; industry:agriculture; industry:ai",
+    "founders": [
+        {
+            "name": "Jesse Vollmar, Founder",
+            "description": "Previously CEO of FarmLogs (YC W12) where we built the most popular farm management software in the US and raised $37m from top investors like Sam Altman and Drive Capital.\n\nCurrently building Precip (YC W24). We measure rain without needing gauges.",
+            "linkedin": "https://linkedin.com/in/vollmarj"
+        },
+        {
+            "name": "Michael Asher, Founder",
+            "description": "Data scientist and software engineer. Fascinated by agriculture and construction.",
+            "linkedin": "https://linkedin.com/in/michael-asher-1276065b"
+        },
+        {
+            "name": "Sam Pierce Lolla, Founder",
+            "description": "https://sampiercelolla.com/",
+            "linkedin": "https://linkedin.com/in/sampiercelolla"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Precip: Precision in Weather, Powered by AI\n\nPrecip is at the forefront of revolutionizing how we understand and predict weather patterns, specifically rainfall, through high-precision AI models. Founded in 2023 and currently participating in Y Combinator's Batch W24, this nimble startup is based in Ann Arbor and consists of just three dedicated team members. Their mission is clear: to deliver hyperlocal weather observations that enhance the decision-making processes for businesses and individuals alike.\n\n#### The Problem They're Solving\n\nEver found yourself caught off guard by an unpredicted downpour? Precip addresses this issue by providing accurate, real-time data on rainfall accumulation \u2014 all without the need for traditional weather stations or gauges. Their service is especially beneficial for industries like agriculture, where precise weather data can mean the difference between a successful harvest and a muddy mess. One customer even relies on Precip to ensure their heavy trucks avoid the hazards of slippery fields.\n\n#### Innovative Offerings\n\nPrecip\u2019s flagship product is a highly rated mobile app, designed to deliver up-to-the-hour rainfall estimates with remarkable accuracy\u201460% more precise than forecasts from more conventional sources like NOAA. Users can benefit from features such as:\n\n- **Hyper-Local Detection**: Precip achieves 275% better rainfall detection than traditional methods, allowing users to measure precipitation down to extremely specific locations.\n- **Rainfall Notifications**: Get alerts when unexpected rain occurs or when forecasts miss the mark. Say goodbye to guessing and hello to informed planning!\n- **Multi-Location Monitoring**: View rainfall totals and forecasts for multiple locations on a single page, aiding in efficient scheduling and resource management.\n\nAdditionally, for developers, Precip offers the most accurate historical weather data API you can find, enabling seamless integration into applications.\n\n#### Getting Involved\n\nInterested in seeing what Precip can do for you? They offer personalized demos tailored to your specific needs. Their engaging site not only allows you to download the app but also provides resources for developers and essential historical weather data.\n\n#### The Future of Precip\n\nUnder the guidance of Group Partner Garry Tan, Precip is poised for growth, catering to consumer needs, tackling climate concerns, and leveraging AI. Their focus on agriculture, coupled with robust API offerings, positions them as a pioneering force in the weather tech space.\n\nFor more information, check out their website at [Precip](https://precip.ai) and equip yourself with the tools to navigate the weather like never before.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8477fc223ceb60a855014e233418bb52336e5d28.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191651Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8a2511476276f258ac479586f29ca68309f690286fdd4d8b62c1dcb20ff93dc5",
+    "social_links": [
+        "https://x.com/getprecip",
+        "https://www.crunchbase.com/organization/precip"
+    ],
+    "logo_path": "data/logos\\Precip_logo.png"
+}

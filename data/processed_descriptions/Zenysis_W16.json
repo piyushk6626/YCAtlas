@@ -1,0 +1,25 @@
+{
+    "links": "https://www.ycombinator.com/companies/zenysis",
+    "name": "Zenysis",
+    "headline": "Building powerful data analysis software for developing countries.",
+    "batch": "W16",
+    "description": "Zenysis builds data integration software that helps governments view and analyze all their data in one place. When governments face pandemic emergencies, humanitarian crises, or natural disasters, they turn to their data for actionable insights. Zenysis puts this information at their fingertips.",
+    "activity_status": "Active",
+    "website": "http://www.zenysis.com",
+    "founded_date": null,
+    "team_size": 11.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [],
+    "status": true,
+    "generated_description": "**Company Overview: Zenysis**\n\n**Mission:** Zenysis is dedicated to building powerful data analysis software specifically designed to aid developing countries. By integrating data seamlessly, they empower governments to analyze critical information at a moment\u2019s notice, especially during pandemics, humanitarian crises, and natural disasters.\n\n**Origins:** Initially focused on data integration, Zenysis developed tools that consolidate governmental data into an accessible platform. This allows decision-makers to glean actionable insights quickly.\n\n**History:** Founded in 2016 and a proud participant in Y Combinator\u2019s Winter 2016 batch, Zenysis was established to meet the pressing data needs of global health systems.\n\n**Team & Location:** Operating out of San Francisco with a compact team of 11, Zenysis combines technological expertise with a passionate commitment to social impact, under the guidance of Group Partner Michael Seibel.\n\n**What They Do:** Zenysis has rolled out \u201cHarmony,\u201d an open-source advanced analytics platform that brings disparate data from various systems into one user-friendly workspace. Here\u2019s what makes Harmony stand out:\n- **Effortless Integration:** Integrates smoothly with existing data systems, necessitating no alterations.\n- **Harmonization:** Merges granular data for improved insights into health programs.\n- **Flexible Reporting:** Features more than 20 visualization options, ensuring reports cater to diverse stakeholders.\n- **Data Quality:** Users can swiftly pinpoint and rectify data issues using built-in quality metrics.\n- **Integrated Data Warehouse:** Powers high-performance analytics through a consolidated repository of information.\n\n**Global Reach:** Zenysis collaborates with governments and organizations across four continents, including the U.S., Brazil, and various African nations, aiming to enhance health outcomes universally. The company\u2019s partnerships with nonprofits and international organizations reflect their belief in the transformative potential of data-driven decision-making.\n\n**Impact Focus:** From public health authorities to grassroots implementers, Zenysis\u2019s technology addresses some of the globe's most urgent health challenges.\n\n**Website:** For more information about their solutions and impact, check out [Zenysis.com](http://www.zenysis.com).\n\nIn a nutshell, Zenysis is not just about data integration; it\u2019s about forging a healthier, more resilient world through the strategic use of data.",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.crunchbase.com/organization/zenysis",
+        "https://github.com/Zenysis"
+    ]
+}

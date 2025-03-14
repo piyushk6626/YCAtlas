@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/nextera-robotics",
+    "name": "Nextera Robotics",
+    "headline": "AI-native Robotics",
+    "batch": "S20",
+    "description": "Nextera Robotics is an AI-native Robotics and Industrial Automation company founded at MIT.",
+    "activity_status": "Active",
+    "website": "https://nexterarobotics.com",
+    "founded_date": 2020.0,
+    "team_size": 15.0,
+    "location": "Boston",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:autonomous-delivery; industry:deep-learning; industry:robotics; industry:construction; location:boston",
+    "founders": [
+        {
+            "name": "Lana Graf, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/lanagraf/"
+        },
+        {
+            "name": "Alex Rand, Founder",
+            "description": "CTO",
+            "linkedin": "https://www.linkedin.com/in/alex-69292095/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Nextera Robotics: Redefining Construction with AI-native Solutions** \n\nFounded in 2020 at MIT and a member of Y Combinator's S20 batch, Nextera Robotics is blazing trails in the realm of robotics and industrial automation. Based in Boston and currently boasting a compact team of 15, the company is on a mission to revolutionize how we think about labor. Their approach? Leverage AI and robotics to automate tasks that are repetitive and labor-intensive, especially within the construction sector.\n\nNextera Robotics is all about creating **AI-native robots**\u2014think of them as the next leap in industrial automation. These robots are designed to tackle physically demanding jobs, allowing human workers to focus on more strategic and creative initiatives. The company\u2019s flagship offering, **DIDGE**, is all about construction site management powered by autonomous robots. This innovative solution embodies their commitment to better, faster, and greener construction practices. \n\nThe company operates under the banner of ecological responsibility, iterating on ideas of sustainability while implementing technology that can keep up with the fast-paced demands of modern industry. They're not in this alone; they have gained backing from respected investors and construction industry leaders, aligning the tech world with real-world applications.\n\nIf you\u2019re intrigued by how technology is reshaping construction and want to learn more about their projects or innovations, check out [Nextera Robotics](https://nexterarobotics.com) for further dives into their ambitious vision. Every step they take is a stride toward a more automated and efficient future.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/23b07b8d615427e8d62700787717b865896e58e5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191559Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b489bdd34ae1485c3e1e75df58d2964680308a1d189a9aef97c2f3567dc88483",
+    "social_links": [],
+    "logo_path": "data/logos\\Nextera_Robotics_logo.png"
+}

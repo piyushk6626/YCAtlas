@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/cosine",
+    "name": "Cosine",
+    "headline": "Your AI Co-developer",
+    "batch": "W23",
+    "description": "Cosine understands your codebase better than you do. It supports 50+ coding languages, allowing developers to ask any question about their codebase, get explanations about any feature and get suggestions about how to write new code.",
+    "activity_status": "Active",
+    "website": "http://www.cosine.sh",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:machine-learning; industry:nlp; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Alistair Pullen, Founder",
+            "description": "Full-stack Software Engineer with 15 years experience with deep applied knowledge of LLMs and Embeddings. Currently building an AI dev tool. Experienced an exit with Fancy (YC S20,\u00a0acq.\u00a0GoPuff).",
+            "linkedin": "https://www.linkedin.com/in/alistair-pullen-616129226/"
+        },
+        {
+            "name": "Yang Li, Founder",
+            "description": "1 IPO, 2 Acquisitions, 3 Unicorns.  Ex VP of Europe for Digital Currency Group's consumer arm, Luno. Launched Ziglu (acquired by Robinhood) and scaled to 100,000 customers in the first year. Previously Commercial Director for Mobike (acquired by Meituan) growing it to 220M MAUs until the $55B IPO. Yang is one of the 2021 Forbes 30 under 30 cohort.",
+            "linkedin": "https://www.linkedin.com/in/yangli92/"
+        },
+        {
+            "name": "Sam Stenner, Founder",
+            "description": "CTO at Buildt, using generative AI to make app development faster. Mobile engineer at Fancy (YC 20). Youngest person to publish a game on Steam.",
+            "linkedin": "https://www.linkedin.com/in/samstenner"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Cosine: Your AI Co-developer\n\n**Founded:** 2022  \n**Location:** San Francisco  \n**Team Size:** 6 employees  \n**Y Combinator Batch:** W23  \n**Group Partner:** Michael Seibel  \n\n**Website:** [cosine.sh](http://www.cosine.sh)\n\nCosine is an innovative player in the world of software development, making waves with its tagline, *\u201cYour AI Co-developer.\u201d* The company aims to enhance developers' productivity by providing an AI solution that understands codebases better than the developers themselves. Supporting over 50 coding languages, Cosine allows users to interrogate their code, seek explanations for features, and obtain guidance for writing new code.\n\nAt the heart of Cosine's offering is *Genie*, an advanced AI model that excels in software engineering tasks. According to the SWE-Bench benchmark, Genie boasts the highest score globally, outperforming competitors in various coding capabilities with a score of 30.08%. This remarkable performance positions Cosine as a leader in utilizing generative AI for software development.\n\nKey features that set Genie apart include:\n- **Data-Driven Autonomy:** The model incorporates human reasoning directly into its training data, enhancing its problem-solving abilities.\n- **Experimentation Opportunities:** Cosine encourages developers to explore Genie\u2019s potential for their own projects, promoting a collaborative atmosphere for innovation.\n\nCosine is also backed by the prestigious Y Combinator accelerator, which adds a layer of credibility and support. With its focused mission and cutting-edge technology, Cosine is well-poised to transform how developers approach coding and software creation.\n\nIf you're intrigued by the possibilities, you can join the waitlist or explore more about Genie on their [official website](http://www.cosine.sh).\n\n### In Summary:\n- **What:** Cosine offers an AI co-developer solution for software engineers.\n- **Why:** To help developers improve their coding skills, understand their code better, and streamline software development processes.\n- **Where:** Based in San Francisco, fueled by the Y Combinator spirit of innovation.\n- **How:** Through its flagship product, Genie, which leads in the SWE-Bench coding benchmark.\n\nAs AI continues to evolve, Cosine is at the forefront, helping to shape the future of coding and development.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f0b01c76fd4055b95de642ff18c94d837f652471.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191104Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dd52d4d3b902a92fc985e152576a0afacda310da47476908120984ebd56dc303",
+    "social_links": [
+        "https://www.linkedin.com/company/cosine-ai/",
+        "https://twitter.com/cosine_ai",
+        "https://www.crunchbase.com/organization/buildt"
+    ],
+    "logo_path": "data/logos\\Cosine_logo.png"
+}

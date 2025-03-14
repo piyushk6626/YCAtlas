@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/infinity-ai",
+    "name": "Infinity AI",
+    "headline": "Expressive characters that talk",
+    "batch": "W24",
+    "description": "Infinity is a video foundation model for human motion and emotion. We allow creators to generate expressive, talking characters across all styles, from photorealistic to cartoons.",
+    "activity_status": "Active",
+    "website": "https://infinity.ai",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:video; industry:creator-economy; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Lina Colucci, Founder",
+            "description": "I previously co-founded a profitable ML company that made $10 million. I received my PhD from MIT and Harvard. I am originally from Brazil and love dancing, playing music, and blogging/vlogging. I've always loved the intersection of tech and the arts. One of my first inventions was re-designing the traditional ballet point shoe for the 21st century. \nFollow along my YC vlog at: bit.ly/lina-youtube-channel",
+            "linkedin": "https://linkedin.com/in/lina-colucci"
+        },
+        {
+            "name": "Sidney Primas, Founder",
+            "description": "ML Engineering + Product. Prior to Infinity, I co-founded Edge Analytics, an ML consulting company that we grew to 12 mostly PhD-level engineers and $3M/year in revenue. Prior to that, went to MIT to get PhD in ML algorithms for medical imaging. Dropped out. Originally from Switzerland.",
+            "linkedin": "https://linkedin.com/in/sidneyprimas"
+        },
+        {
+            "name": "Andrew Weitz, Founder",
+            "description": "Co-founder at Infinity AI with over 10 years of experience working on AI/ML and synthetic media. Previously, I co-founded and led machine learning at Edge Analytics, a boutique consulting firm that developed algorithms and shipped products for startups and Fortune 500 tech companies. I received my PhD in Bioengineering from Stanford University, where I performed research in medical imaging and computational neuroscience.",
+            "linkedin": "https://www.linkedin.com/in/andrewjweitz/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Infinity AI: Bringing Characters to Life\n\n**Overview**  \nInfinity AI is a fresh entrant in the realm of artificial intelligence, having been founded in 2024 as part of Y Combinator's W24 batch. This innovative company is based in San Francisco and consists of a nimble team of just three employees, but they are on a monumental mission: to create expressive characters that can talk and express emotions across various styles, from photorealistic forms to delightful cartoons.\n\n**What They Do**  \nInitially beginning as a video foundation model focused on human motion and emotion, Infinity AI allows creators to breathe life into their characters. The platform's functionalities hinge on character generation, enabling artists to craft avatars that not only look great but can also communicate. This could revolutionize storytelling by placing characters at the heart of narratives.\n\n**Product Features**\n- **InfinityBeta:** An entry point for creators to explore and utilize the platform.\n- **Studio:** A space to generate and animate characters.\n- **API Access:** For developers looking to integrate Infinity\u2019s capabilities into their own applications.\n- **Video Contests:** They engage users with weekly contests offering prizes up to $500, stimulating creativity and community engagement.\n\n**Use Cases**  \nInfinity AI encourages a variety of applications including entertainment, education, and marketing. The potential is vast, limited only by the creativity of its users.\n\n**Connect with Infinity AI**  \nFor those intrigued by this innovative tool for storytelling, visit their website at [infinity.ai](https://infinity.ai), and don\u2019t forget to check out their resources, which include tutorials, a gallery of user creations, and details for careers and partnerships. You can also follow them on [Twitter](https://twitter.com/toinfinityai) or join their [Discord community](https://discord.gg/GjTnY3SQEy) for more interaction.\n\nIn essence, Infinity AI is not just about characters\u2014it\u2019s about empowering everyone to bring their unique stories to life in a vivid and expressive manner. If you\u2019re a creator looking to escalate your storytelling, this platform might just be the jumpstart you need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e74d7f662338da2e31384aa08b87240d939745f3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191431Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cc6bb90d75641cd577c49e3cd73dbf7f60ff5eab174ab95330beef88f36dd837",
+    "social_links": [
+        "https://www.linkedin.com/company/lemonslice",
+        "https://twitter.com/LemonSliceAI"
+    ],
+    "logo_path": "data/logos\\Infinity_AI_logo.png"
+}

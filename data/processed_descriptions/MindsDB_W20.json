@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/mindsdb",
+    "name": "MindsDB",
+    "headline": "AI that works at work. Turnkey. Private.",
+    "batch": "W20",
+    "description": "MindsDB is a fast-growing AI startup headquartered in San Francisco, California. As a leading innovator bringing AI and Data together, our passion is empowering companies to easily build AI capabilities that can Think, Understand and Orchestrate: enabling teams to move from prototyping & experimentation to production in a fast & scalable way.\r\n\nMindsDB was founded in 2017 by Adam Carrigan and Jorge Torres, inspired by Ian M. Banks's Culture series, in which super AI systems called Minds collaborate with other forms of life to accomplish incredible goals. Starting as an Open-Source project, MindsDB has grown to be one of the most widely used AI-Data platforms in the world, with a growing community and more than 700 contributor developers from every corner of the globe.\r\n\nWe are backed with over $55M in funding from Mayfield, Benchmark, YCombinator, and nVidia. MindsDB is also recognized by Forbes as one of America's most promising AI companies (2021) and by Gartner as a Cool Vendor for Data and AI (2022).",
+    "activity_status": "Active",
+    "website": "https://www.mindsdb.com/",
+    "founded_date": 2017.0,
+    "team_size": 33.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:machine-learning; industry:open-source; industry:enterprise-software; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Adam Carrigan, Founder",
+            "description": "Co-Founder @MindsDB \ud83d\ude80 @Forbes Most Promising AI Companies \ud83e\udd16 @Ycombinator (W20), ex-management consultant @Deloitte, @Cambridge_Uni grad",
+            "linkedin": "https://www.linkedin.com/in/carrigan/"
+        },
+        {
+            "name": "Jorge Torres, Founder",
+            "description": "Jorge Torres is the Co-founder & CEO of MindsDB. He is also a visiting scholar at UC Berkeley researching machine learning automation and explainability. Prior to founding MindsDB, he worked for a number of data-intensive start-ups, most recently working with Aneesh Chopra (the first CTO in the US government) building data systems that analyze billions of patients records and lead to highest savings for millions of patients.",
+            "linkedin": "https://www.linkedin.com/in/torresjorge/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**MindsDB: Bridging AI and Data for Enterprises**\n\nFounded in 2017 by Adam Carrigan and Jorge Torres, MindsDB is a rapidly growing AI startup based in San Francisco, California. Inspired by the visionary \"Culture\" series by Ian M. Banks, MindsDB aims to create sophisticated AI systems that not only understand data but also collaborate across various domains to tackle complex enterprise challenges. \n\nInitially launched as an open-source project, MindsDB has blossomed into a prominent player in the AI-data platform space. It boasts a vibrant community of over 700 contributors globally, showcasing its commitment to innovation and collaboration. Backed by significant funding exceeding $55 million from prestigious investors including Mayfield, Benchmark, YCombinator, and NVIDIA, MindsDB is recognized by Forbes as one of America's most promising AI companies and honored by Gartner as a Cool Vendor for Data and AI in 2022.\n\n**Mission and Vision**\n\nMindsDB\u2019s mission is to make AI accessible and effective for every organization. They believe in building \"AI that works at work,\" offering turnkey solutions that enable teams to transition seamlessly from experimentation to production. The goal is clear: empower enterprises to harness the full potential of AI for data analysis, decision-making, and operational efficiency.\n\n**Core Products and Offerings**\n\nMindsDB offers two primary products:\n\n1. **Minds** - A turnkey solution designed for building enterprise-grade AI systems.\n2. **MindsDB** - An open-source, federated query engine that empowers AI systems to connect with various data sources for real-time insights.\n\nWith a streamlined approach, MindsDB helps businesses address data sprawl and complexities, enabling them to deliver accurate and relevant AI solutions tailored to their unique needs.\n\n**Community and Support**\n\nMindsDB values community engagement, offering resources like a dedicated blog, events, and community programs where developers can collaborate and contribute. They also run initiatives to enhance user experience, including early adopter programs and support channels via Slack for real-time assistance.\n\n**The Future of AI with MindsDB**\n\nAs enterprises increasingly recognize the need for AI integration into their operations, MindsDB is at the forefront, providing tools that fuse data with intelligent insights. With a mission that resonates across industries, their innovative approach ensures that organizations can build AI capabilities that not only understand but also act upon the data, thus optimizing workflows and driving productivity.\n\nExplore MindsDB's offerings and learn more about how they can transform your enterprise\u2019s approach to AI by visiting [MindsDB's website](https://www.mindsdb.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d59b1ad6da819b776f9fa6f92dbb385797ceaec4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191538Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=de68a96db5272af147f4c34466952aeec8e41e3fcc31b055a539acfbfe7d9d3c",
+    "social_links": [
+        "https://www.linkedin.com/company/mindsdb/",
+        "https://twitter.com/mindsdb",
+        "https://www.facebook.com/mindsdb",
+        "https://www.crunchbase.com/organization/mindsdb",
+        "https://github.com/mindsdb"
+    ],
+    "logo_path": "data/logos\\MindsDB_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/mosaic-2",
+    "Name": "Mosaic",
+    "Headline": "AI Agents for Video Editing",
+    "Batch": "W25",
+    "Description": "Mosaic is an agentic video editing paradigm. It enables anyone to create and run their own multimodal video editing agents in a node-based canvas. Our mission is to accelerate hours of video editing work to seconds.",
+    "Activity_Status": "Active",
+    "Website": "https://usemosaic.ai",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/harj-taggar",
+    "Group_Partner": "Harj Taggar",
+    "Company_Linkedin": "https://www.linkedin.com/company/use-mosaic-ai/",
+    "Company_Twitter": "",
+    "Tags": "industry:video; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/use-mosaic-ai/",
+        "https://x.com/usemosaic_ai"
+    ],
+    "logo_path": "data\\logos\\Mosaic.png",
+    "Active_Founders": [
+        {
+            "Name": "Adish Jain, Founder",
+            "Description": "CEO & Co-Founder @Mosaic. Previously Engineering @Tesla @AWS @Berkeley.",
+            "LinkedIn": "https://www.linkedin.com/in/adish-jain/"
+        },
+        {
+            "Name": "Kyle Wade, Founder",
+            "Description": "CTO & Co-Founder @Mosaic. Previous ML Researcher @UCSD and Software Engineer @Tesla",
+            "LinkedIn": "https://www.linkedin.com/in/kylewade13731/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Mosaic: Revolutionizing Video Editing with AI**\n\nMosaic is a fresh startup that burst onto the scene in 2024, based in San Francisco. Its mission? To create AI agents that make video editing a breeze, turning hours of work into just seconds. Imagine being able to build your own tailored video editing agents on a visually intuitive, node-based canvas. That's Mosaic's game plan.\n\nInitially conceived as an \"agentic video editing paradigm,\" Mosaic empowers users to drag and drop 'Tiles'\u2014simple video editing operations within a customizable structure. These Tiles can be strung together, forming 'Agents' that automate the editing process tailored to specific needs. Whether you want to trim a video, add captions, or enhance audio, Mosaic's AI has got you covered, allowing you to generate multiple video versions simultaneously.\n\nCurrently in early access, Mosaic is part of Y Combinator's Batch W25, where it\u2019s been gaining traction and support from notable industry players, including Harj Taggar as their group partner. With a team of just two, they're pushing hard for innovation in video editing with features like a visual 'Canvas' for workflow automation, live editing via 'Chat', and an array of use cases catering to different content needs.\n\nMosaic's capabilities are already being proven\u2014securing first place in the Google Gemini Competition is a testament to the potential they hold. If you're interested, they invite you to join their Discord community and participate in shaping the future of video editing.\n\nFor the latest details and possible early access, check their [website](https://usemosaic.ai). In a world where video content is king, Mosaic could very well be the secret weapon creators have been waiting for. Keep your eyes on them."
+}

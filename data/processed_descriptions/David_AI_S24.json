@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/david-ai",
+    "name": "David AI",
+    "headline": "Data for audio AI",
+    "batch": "S24",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://www.withdavid.ai/",
+    "founded_date": 2024.0,
+    "team_size": 6.0,
+    "location": null,
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Tomer Cohen, Founder",
+            "description": "Co-founder and CEO at David AI. Previously, Chief of Staff at Scale AI and Consultant at McKinsey & Company.",
+            "linkedin": "https://www.linkedin.com/in/cohen-tomer/"
+        },
+        {
+            "name": "Ben Wiley, Founder",
+            "description": "Co-founder and CTO at David AI. Previously, at Scale AI - led engineering for Scale\u2019s Public Sector GenAI Platform, Donovan. Before that - SWE at Microsoft.",
+            "linkedin": "https://www.linkedin.com/in/benwileymn"
+        }
+    ],
+    "status": true,
+    "generated_description": "**David AI: Pioneering Audio AI with Proprietary Data**\n\nFounded in 2024 and currently participating in Y Combinator's Batch S24, David AI is carving out a niche in the fast-evolving audio AI space. The company's mission is succinct: to provide high-quality, proprietary datasets specifically tailored for audio AI models. This focus allows them to stay ahead of the curve as AI applications continue to grow and diversify.\n\nWith a small but dedicated team of six employees, David AI is not just about numbers; they're about impact. Under the experienced guidance of Group Partner Diana Hu, the team is concentrated on sourcing, generating, and labeling non-public audio datasets that are critical for training state-of-the-art AI models.\n\nOne of their standout achievements is the introduction of the world's largest and most diverse speaker-separated speech dataset, boasting over 10,000 hours of multi-speaker conversations across ten different languages. This dataset isn't just about volume; it delivers nuanced features like natural, unscripted conversations and comprehensive metadata on accents and dialects, making it a powerful tool for research labs and AI developers alike.\n\nIf you're intrigued by audio AI or looking for robust datasets to enhance your models, you can explore more about David AI on their [official website](https://www.withdavid.ai/). They even encourage potential partners and researchers to reach out directly to discuss their offerings and access sample data.\n\nIn a field where quality of data can make or break AI capabilities, David AI's commitment to innovation positions them as a key player in audio AI's future landscape. Keep an eye on this company as they continue to expand their impact and drive advancements in the audio AI sector.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e462211b477670fa747d854ccf687e354699fafa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cb754ff602530770d0cb791b4da1a36de66ad36c06cfadabc7d23936c560629c",
+    "social_links": [
+        "https://www.linkedin.com/company/david-ai/"
+    ],
+    "logo_path": "data/logos\\David_AI_logo.png"
+}

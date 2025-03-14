@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/edexia",
+    "name": "Edexia",
+    "headline": "AI Teaching Assistant for Grading Papers",
+    "batch": "W25",
+    "description": "Edexia is an AI teaching assistant that grades papers for teachers. It learns the style of each individual teacher, so it can grade just like they do, saving up to 100% of grading time.  \r\nEdexia can grade assignments from any curriculum, year level, subject, or format. Learning like a teacher, it visually breaks down its understanding of the rubric, and updates this as a teacher corrects its grading on the fly. \r\nOur vision is to transform education by facilitating the safe and effective integration of AI across all institutions and applications. Not using AI to replace teachers but rather to empower them\u2014providing them with all the time and resources they need to develop their students.",
+    "activity_status": "Active",
+    "website": "https://www.edexia.ai/",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-enhanced-learning; industry:education; industry:saas; industry:ai; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Daniel Gibbon, Founder",
+            "description": "CEO at Edexia. On a mission to transform education. Scaled an EdTech startup to $200K ARR at 18 before founding Edexia. TEDx Speaker on AI in education. Ranked top 30 in my state out of high school. Switched from medical school to software engineering at UQ, achieving a perfect GPA.",
+            "linkedin": "https://www.linkedin.com/in/daniel-gibbon-/"
+        },
+        {
+            "name": "Nathan Wang, Founder",
+            "description": "on a mission to transform education!",
+            "linkedin": "https://www.linkedin.com/in/nathan-wang-b73966235/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Edexia: Revolutionizing Grading with AI\n\n**Overview**  \nEdexia is an ambitious startup that aims to transform the education landscape by introducing an AI teaching assistant designed specifically for grading papers. Founded in 2023 in San Francisco and part of Y Combinator\u2019s Batch W25, Edexia is a small but focused team of four who believe in empowering teachers, not replacing them.\n\n**Mission**  \nThe core mission of Edexia is simple yet profound: to save teachers up to 100% of their grading time by learning their individual grading styles. The AI adapts to various curricula and subjects, making it versatile enough to grade everything from math and science to poetry and diagrams. The goal? Freeing up teachers from the mundane to focus more on student engagement and development.\n\n**How It Works**  \nEdexia\u2019s AI doesn\u2019t just churn out scores; it learns from each teacher\u2019s unique rubric. As teachers provide corrections in real time, the system updates its understanding, ensuring that future grading aligns even more closely with the teacher's criteria. This dynamic learning process means that Edexia continuously improves, offering insights and analytics without ever compromising the teacher's control over final grades.\n\n**Vision**  \nThe vision for Edexia extends beyond grading; it's about the safe and effective integration of AI in educational institutions. Edexia's leaders firmly believe that AI should support teachers, providing them with the tools and time to help their students thrive. This is a partnership model, where technology enhances rather than replaces human educators.\n\n**Current Offerings**  \nThe platform is designed to handle both formative and summative assessments seamlessly. Whether grading complex essays or checking homework, Edexia ensures thoroughness while saving valuable hours for teachers. There\u2019s even a free NAPLAN grader available to help schools get started.\n\n**Security and Privacy**  \nData privacy is paramount at Edexia. They ensure that all training data is kept in silos to protect the privacy of individual educators and institutions. The platform is built with robust security measures, ensuring that user data remains confidential and secure.\n\n**Conclusion**  \nEdexia is paving the way for a future where AI and education go hand in hand\u2014a future where teachers can enhance their teaching methods, engage more meaningfully with students, and manage their time more effectively. With backing from Y Combinator and a clear mission, Edexia is well-positioned to make a significant impact on the educational landscape.\n\nFor more information, visit their website: [Edexia](https://www.edexia.ai)",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/836e7b7c9aaf36cfedefe1ee9dfb655e66cb8447.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191132Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=de72d785b38d3509ab2d5ea8bc102b85254cf7229df992ed340debd6d13e8af4",
+    "social_links": [
+        "https://www.linkedin.com/company/edexia-ai/",
+        "https://www.crunchbase.com/organization/edexia/"
+    ],
+    "logo_path": "data/logos\\Edexia_logo.png"
+}

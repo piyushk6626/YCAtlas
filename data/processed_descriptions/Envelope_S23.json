@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/envelope",
+    "name": "Envelope",
+    "headline": "Banking with built-in budgeting",
+    "batch": "S23",
+    "description": "Envelope is a banking app with built-in budgeting. It's similar to Mint, Copilot, or Rocket Money, but our app issues you a checking account during onboarding so there's no syncing or flaky bank connections. We are structured to be the primary checking and savings account for our users.\r\n\nWe (Josh and Katelyn) are married cofounders who previously worked on Apple Card and the Robinhood iOS app. We started Envelope because we were using clunky tools like the Chase app, spreadsheets, and Mint to run our family finances and realized we could do it better.\r\n\nIn the future, you could go set up a Chase account for checking, E-Trade for investing, SoFi for savings, Ally for money market, Greenlight for kid cards, PLUS the Mint/YNAB/Rocket Money to glue it all together + budgeting, or you could just use Envelope.\r\n\n_Envelope is a financial technology company and is not a bank. Banking services provided by Pacific West Bank, Member FDIC. Your funds are FDIC insured up to $250,000 through Pacific West Bank, Member FDIC. The Envelope Visa\u00ae Debit Card is issued by Pacific West Bank, N.A. pursuant to a license from Visa U.S.A. Inc. and may be used anywhere Visa cards are accepted._",
+    "activity_status": "Active",
+    "website": "https://envelopebudgeting.com/",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:fintech; industry:consumer; industry:neobank; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Katelyn Strobel, Founder",
+            "description": "Cofounder/CEO at Envelope. Marketing consultant turned fintech junkie, passionate about personal finance and creating tools for consumers to spend less and save more.",
+            "linkedin": "https://linkedin.com/in/katelynstrobel"
+        },
+        {
+            "name": "Josh Strobel, Founder",
+            "description": "Technical cofounder & CTO at Envelope, an iOS banking app with built-in budgeting for individuals and families. Previously worked on the Robinhood and Twitter iOS apps.\n\nOther places I've been (internships)\n- Tesla (shop.tesla.com)\n- Microsoft (Edge Browser & Windows Server)\n- Adobe (Adobe Analytics)",
+            "linkedin": "https://linkedin.com/in/joshuakcockrell"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Envelope: Banking with Built-In Budgeting**\n\nEnvelope is a fresh take on personal finance management, designed for those frustrated with traditional banking apps. Founded in 2022 by married cofounders Josh and Katelyn\u2014both veterans of Apple Card and Robinhood\u2014the company offers a streamlined banking experience that seamlessly integrates budgeting features right from the get-go. Unlike other budgeting apps like Mint or Rocket Money that require syncing with existing bank accounts, Envelope gives users a checking account during onboarding. This means you won't have to deal with those flaky bank connections that can hinder financial visibility.\n\nThe core idea behind Envelope is straightforward: make managing money simpler. Rather than juggling multiple accounts across different services\u2014Chase for checking, E-Trade for investing, SoFi for savings, and a host of budgeting apps\u2014Envelope aspires to be your primary checking and savings account, all in one place.\n\nLocated in the vibrant San Francisco Bay Area and part of Y Combinator's Batch S23, the company is currently a lean operation with just two employees. Garry Tan serves as their Group Partner, adding strategic insight to the startup.\n\n### What Makes Envelope Different?\n1. **Integrated Banking and Budgeting:** With the banking services being provided by Pacific West Bank (FDIC insured), your financial data is secure, and all your budgeting needs are managed within the app.\n   \n2. **User-Centric Features:** Envelope allows you to track spending effortlessly, set up joint accounts for shared expenses, and manage notifications tailored to your preferences. It even provides flexible budgeting options where you can assign percentages for specific expenses.\n\n3. **Accessibility and Convenience:** Users get instant access to their accounts via virtual cards for online transactions, and can easily request physical cards or lock their accounts for security.\n\n4. **Community Feedback Driven:** Envelope thrives on its users' insights, constantly updating and rolling out features based on community requests. Recent updates included enhanced analytics and new funding options, keeping the app ahead of users' needs.\n\n### User Experience\nFeedback from users has been overwhelmingly positive. Many users appreciate the care put into the app's design and functionality, noting it as a breath of fresh air in the often clunky world of finance management.\n\nIf you\u2019re tired of complicated financial apps and services, Envelope presents an integrated solution that could simplify your budgeting and banking experience. To check it out, visit [Envelope's Website](https://envelopebudgeting.com/) and download the app to kickstart your journey toward smarter spending and saving.\n\nIn a world where financial management can feel overwhelming, Envelope stands out by emphasizing clarity and control\u2014something that seems long overdue.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8e0661a4201f45752869da88527150fa40549d04.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191317Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=18a3c8b5e670853b503623ac0fa94186c5340956f25597d68ddf37e86fcd2ad7",
+    "social_links": [
+        "https://www.linkedin.com/company/envelope-money/",
+        "https://twitter.com/envelopemoney"
+    ],
+    "logo_path": "data/logos\\Envelope_logo.png"
+}

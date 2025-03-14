@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/abundant",
+    "name": "Abundant",
+    "headline": "On-demand human workforce for AI agents",
+    "batch": "F24",
+    "description": "Abundant powers reliable and safe AI deployment with real-time human expertise. Our network of specialized operators works alongside AI agents to:\r\n\n(1) Handle complex edge cases with precision.\r\n(2) Maintain rigorous safety standards.\r\n(3) Generate high-quality training data that continuously improves AI performance.\r\n\nCompanies can meet stringent quality requirements at a fraction of the cost of in-house teams, while accelerating their AI initiatives.",
+    "activity_status": "Active",
+    "website": "https://www.abundant.ai/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:recruiting; industry:collaboration; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Jesse Hu, Founder",
+            "description": "Working towards an abundant future. ex-Waymo ML engineer.",
+            "linkedin": "https://linkedin.com/in/jessehu"
+        },
+        {
+            "name": "Meji Abidoye, Founder",
+            "description": "A human workforce for your AI agents",
+            "linkedin": "https://www.linkedin.com/in/meji-abidoye/"
+        },
+        {
+            "name": "Ke Huang, Founder",
+            "description": "make shit happen!",
+            "linkedin": "https://www.linkedin.com/in/ke-huang-07611058"
+        }
+    ],
+    "status": true,
+    "generated_description": "## Abundant: The On-Demand Workforce for AI Agents\n\nFounded in 2024 and hailing from Y Combinator\u2019s Batch F24, Abundant is on a mission to provide an **on-demand human workforce** that enhances the reliability and safety of AI deployment. Based in San Francisco, the company operates with a small, agile team of three and is headed by Diana Hu, a Group Partner at Y Combinator.\n\n### What They Do\n\nAbundant supports AI agents with real-time human expertise, which is crucial for addressing those complex edge cases that AI struggles with. Here\u2019s how they\u2019re making a difference:\n\n1. **Handling Complex Edge Cases**: Their specialized operators ensure that unexpected scenarios are managed with precision.\n   \n2. **Maintaining Safety Standards**: Abundant adheres to rigorous quality controls, providing peace of mind when deploying AI solutions.\n   \n3. **Generating High-Quality Training Data**: They collect and refine training data that helps continuously improve the performance of AI models.\n\n### Why Choose Abundant?\n\nBy leveraging Abundant\u2019s services, companies can significantly reduce costs compared to maintaining in-house teams, while accelerating their AI initiatives. Their offering is especially attractive to businesses that want to enhance their operational efficiency without sacrificing quality.\n\n### Key Features\n\n- **Human-in-the-Loop Reliability**: Their human operators can step in when things go wrong, ensuring that AI agents maintain high performance, even in failure scenarios. This approach reportedly boosts success rates from 60% to 100%.\n  \n- **Enterprise-Ready Infrastructure**: Companies can scale human operations flexibly, integrating seamlessly with existing workflows and systems without the hassles of managing operator training or privacy concerns.\n\n- **Imitation Training Data**: This feature allows continuous data collection from human responses, leading to automated improvements in AI models.\n\n### Use Cases\n\nAbundant serves a vast array of industries, from healthcare tech to legal tech, effectively sourcing domain-specific experts for tasks like high-quality annotation and data collection. Clients have seen improvements like a 50% reduction in mistakes and up to **9x faster deployment times**.\n\n### Conclusion\n\nIn a world increasingly reliant on artificial intelligence, companies face the challenge of ensuring their systems are not just efficient but reliable and safe. Abundant bridges that gap by offering a workforce that is ready to intervene where AI alone may falter. With its innovative approach and foundation in strong technical expertise, Abundant is poised to be a key player in the future of AI operations.\n\nFor more details, visit [Abundant.ai](https://www.abundant.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/adb9d4fbba747098be832a23aef2905881c48e9f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190942Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=af78a6766a65aab76e93726c652055c8c57fc1f1ced1940f6cf420d5442eb878",
+    "social_links": [
+        "https://www.linkedin.com/company/abundant-ai/",
+        "https://x.com/abundant_labs",
+        "https://github.com/abundant-ai/"
+    ],
+    "logo_path": "data/logos\\Abundant_logo.png"
+}

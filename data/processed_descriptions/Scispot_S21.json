@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/scispot-io",
+    "name": "Scispot",
+    "headline": "The Best Data Infrastructure for Biotechs",
+    "batch": "S21",
+    "description": "Scispot is the best tech stack for biotech. It's the first-ever toolkit that lets you tailor it to your needs \u2013 no coding required. Think of it as a super combo of ELN + LIMS + Integrations + Analytics. You can set it up using a user-friendly interface (GUI) or by entering commands (CLI). It's about making your digital biotech dreams a reality. You can design your data infrastructure, automate your workflows and integrations and make your data ready for machine learning and artificial intelligence \u2013 all on one spot. Scispot even provides pre-made blueprints for major experiments, teamwork, and data management.\r\n\nRequest a demo to see Scispot in action here: https://calendly.com/scispot/30min",
+    "activity_status": "Active",
+    "website": "https://scispot.io",
+    "founded_date": 2020.0,
+    "team_size": 15.0,
+    "location": "Kitchener, Canada",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:ai-assistant",
+    "founders": [
+        {
+            "name": "Guru Singh, Founder",
+            "description": "I am a biotech researcher by training but an entrepreneur at heart. This combination of scientific and business experience motivated me to start and help grow impactful ventures in the last decade. I founded a few biotech communities, a cancer foundation & biotech trade association in India, and I helped scale life science startups in US and EU such as Scientist.com, Science Exchange, and LabTwin. I tapped into all the experience I gained in biotech, SaaS, and entrepreneurship to create Scispot.",
+            "linkedin": "https://www.linkedin.com/in/iamguru/"
+        },
+        {
+            "name": "Satya Singh, Founder",
+            "description": "Co-founder and Chief Product & Operating officer of Scispot.io. I am an engineer turned Product Manager. My experience in tech taught me the importance of product mindset - starting from the customer and working backwards. Before starting Scispot.io, I worked for Hotels.com and Expedia building platforms. My experience in product UX, growth marketing, and platform products brought me to the life science industry that will change human lives for the better.",
+            "linkedin": "https://www.linkedin.com/in/satyaravisingh/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Scispot: Building the Data Backbone for Biotechs**\n\nScispot is redefining how biotech companies manage their data. Founded in 2020 and based in Kitchener, Canada, this Y Combinator Batch S21 company aims to provide the best data infrastructure for biotechnologies. Their mission is clear and focused: to create a framework that can be customized without needing to write a single line of code.\n\nAt its core, Scispot combines the functionalities of Electronic Lab Notebooks (ELNs), Laboratory Information Management Systems (LIMS), integration capabilities, and advanced analytics into a singular toolkit. Whether you're a computational biologist or a lab technician, Scispot allows you to set up your digital lab environment through an intuitive graphical user interface (GUI) or a command-line interface (CLI). The idea is to transform your digital biotech operations into something that\u2019s efficient, automated, and ready for the complexities of machine learning and AI.\n\n**Key Offerings:**\n- **Lab Operating System (LabOS\u2122)**: A unified platform that integrates data and workflows.\n- **GLUE**: A toolkit for linking various applications, instruments, and data formats seamlessly.\n- **alt-ELN and alt-LIMS**: Customizable notebooks and management systems that require no coding to adapt to specific lab needs.\n- **Scibot AI**: An AI-powered lab assistant that enhances workflow efficiency and data interaction.\n\nTheir pre-made blueprints cover major experimental setups, data management, and team collaboration, allowing labs to spend more time focusing on research instead of administrative tasks. \n\n**Performance Metrics**: Scispot reports impressive efficiency gains for its users:\n- 50% increase in sample processing capacity\n- 90% faster report generation \n- 100% compliance with regulatory standards\n\nWith a team of 15 and growing, Scispot is carving a niche in the biotech sector, targeting various domains like drug discovery, molecular diagnostics, and genetic research. Their technology is designed for everyone\u2014from start-ups to large enterprises\u2014ensuring all types of companies can benefit from streamlined data management and enhanced laboratory accuracy.\n\nYou can check out their full suite of services and request a demo to see Scispot in action at [Scispot.io](https://scispot.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/eed573c0a097cc847f94af30678856cafef4cffc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191911Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=24a1678371276e05f7a3ccd817c499b891890b518003c20cd95c0274f815e818",
+    "social_links": [
+        "https://www.linkedin.com/company/scispot-io",
+        "https://twitter.com/scispot_io",
+        "https://www.facebook.com/Scispot",
+        "https://www.crunchbase.com/organization/scispot-io"
+    ],
+    "logo_path": "data/logos\\Scispot_logo.png"
+}

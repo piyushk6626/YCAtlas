@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/relace",
+    "name": "Relace",
+    "headline": "End-to-end fine tuning and inference for open source LLMs",
+    "batch": "W23",
+    "description": "Relace makes it easy for startups to fine tune and host LLMs for domain-specific tasks. We beat SOTA models on performance and speed by providing an opinionated, all-in-one fine tuning and inference stack.",
+    "activity_status": "Active",
+    "website": "https://relace.ai",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Preston Zhou, Founder",
+            "description": "I'm interested in working on AI/ML tech and fun technical problems. Have a soft spot for physics.",
+            "linkedin": null
+        },
+        {
+            "name": "Eitan Borgnia, Founder",
+            "description": "I help people get the most out of their language models. Former PhD student in machine learning at UChicago, with a math degree from Caltech.",
+            "linkedin": "https://www.linkedin.com/in/eitan-borgnia/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Relace**\n\nFounded in 2022 and a proud member of Y Combinator\u2019s W23 batch, Relace aims to revolutionize the process of fine-tuning and deploying open-source large language models (LLMs) for specific domains. Located in the heart of San Francisco, this nimble team of two emphasizes a frictionless experience, making it incredibly easy for startups to fine-tune and host LLMs tailored to their unique needs.\n\n### Mission\nRelace\u2019s mission is clear: to provide an end-to-end solution for fine-tuning and inference of open-source LLMs. Their platform allows users to easily adjust models to outperform state-of-the-art (SOTA) benchmarks\u2014both in performance and speed.\n\n### Services\nRelace\u2019s approach is all about simplicity and effectiveness. Their services include:\n- **Training**: Users can employ default training hyperparameters or customize their own with support from Relace\u2019s machine learning engineers.\n- **Deployment**: Each model deployment is optimized for specific tasks, with options for dedicated GPU resources or autoscaled deployments.\n- **Capture**: Relace facilitates the capturing of datasets at the application level, helping users gather and utilize data efficiently.\n\n### Competitive Edge\nWhat sets Relace apart is not just the technology itself but how accessible they make it. With just a few extra lines of code, developers can integrate highly specialized LLM capabilities into their applications. This simplicity, combined with the power of custom models, offers a competitive advantage for startups needing rapid deployment.\n\n### Team and Investors\nRelace is backed by notable entities like Y Combinator, Pioneer Fund, Amino Capital, and L2 Ventures. Lead by Group Partner Brad Flora, Relace is poised to disrupt the market with a robust framework designed specifically for developers.\n\n### Get Involved\nInterested parties can explore their offerings on their [website](https://relace.ai) or sign up for a free trial. For those seeking a deeper understanding or wanting to chat about their specific needs, booking an introductory call is just a click away.\n\nIn a world where AI continues to evolve rapidly, Relace stands as an approachable solution for startups eager to harness the power of LLMs without the traditional complexities.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1747fcfd45ff287e49e04ce286d940ad7082cc72.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191716Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=84a8b0af3a4c3a9fa434e8cd908b0597b3b9c2e6b85be7c292bac802e6898ac9",
+    "social_links": [
+        "https://www.linkedin.com/company/relace-ai"
+    ],
+    "logo_path": "data/logos\\Relace_logo.png"
+}

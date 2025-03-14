@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/trebu",
+    "name": "trebu",
+    "headline": "Extract and organize order requests, supplier availabilities, and\u00e2\u0080\u00a6",
+    "batch": "S22",
+    "description": "Trebu helps logistics companies to reliably detect and structure incoming sales orders by scanning and interpreting the thousands of incoming Whatsapp messages and emails they receive every day.\r\nFor example, we help a logistics broker to double the amount of daily reported shipment requests by automatically detecting messages asking for a shipping service and transferring the details into a structured database.",
+    "activity_status": "Active",
+    "website": "https://www.trebu.io/",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "Mexico City, Mexico",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:transportation; industry:ai; industry:ai-assistant",
+    "founders": [
+        {
+            "name": "Daniel Akle Carranza, Founder",
+            "description": "CEO at trebu\n-\nMexico GM at Branch\n-\nStanford MBA",
+            "linkedin": "https://www.linkedin.com/in/daniel-akle"
+        },
+        {
+            "name": "Antonio Longoria, Founder",
+            "description": "Mechanical Engineer by training\nSelf-taught full-stack developer\nCo-founder of Skysset",
+            "linkedin": "https://www.linkedin.com/in/antoniolongoria/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Trebu: Organizing Logistics with AI**\n\nTrebu, founded in 2022 and hailing from Mexico City, is a dynamic player in the B2B logistics space. As part of the Y Combinator Batch S22, it\u2019s making waves by tackling a pivotal problem: the overwhelming number of sales orders that logistics companies face daily. With a small but mighty team of three, they\u2019re leveraging AI to streamline the chaos.\n\nThe core mission at Trebu is simple yet impactful. They extract and organize order requests and supplier availabilities from the sea of WhatsApp messages and emails that inundate logistics brokers. Imagine that\u2014every day, hundreds of shipping requests are mixed in with casual chats, and Trebu uses intelligent algorithms to sift through this noise, automatically identifying and structuring pertinent info. For example, one client experienced a doubling of their daily shipment requests simply due to Trebu's automated systems.\n\nWhat sets Trebu apart? Its integration. Instead of trying to force clients and suppliers onto a new platform, Trebu fits seamlessly into existing workflows\u2014working with your current email, WhatsApp, and Transportation Management Systems (TMS). This means that adopting Trebu is refreshingly straightforward; companies can begin reaping the benefits in days, not weeks or months.\n\nBeyond just improving order accuracy, Trebu brings clarity and visibility to operations, reducing human errors and enhancing the overall efficiency of logistics processes. Whether you\u2019re a small startup or a large corporation, Trebu is scalable and customizable to meet your needs. Plus, dedicated technical support is always a click away, ensuring users maximize their experience.\n\nCurious about how it works? Trebu utilizes AI to transform unstructured messages into actionable data, so logistics professionals can focus on what truly matters\u2014driving business forward.\n\nIn an industry where every second counts and miscommunication can lead to costly mistakes, Trebu is a breath of fresh air. If you\u2019re looking to enhance your logistics game, scheduling a demo could be your first step towards a more organized operation.\n\nFor more information, visit their site at [trebu.io](https://www.trebu.io/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1ab5c3c86c7922c448df9885e8dfafedd94b1ae4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192026Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ae3e9eb24bc46e76da93c22dfcffe5f4379472125a2580b0b343c953ab56dbc9",
+    "social_links": [
+        "https://www.linkedin.com/company/trebu-tech/"
+    ],
+    "logo_path": "data/logos\\trebu_logo.png"
+}

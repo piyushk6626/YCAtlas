@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/rulebase",
+    "name": "Rulebase",
+    "headline": "AI agents for fraud detection and investigations.",
+    "batch": "F24",
+    "description": "We build AI agents that protect fintechs and banks from account takeovers, impersonations, and phishing attacks, while also automating fraud investigations. Our AI agent  gathers and analyzes all the necessary evidence, reducing the average investigation time from 30 minutes to just 2 minutes.",
+    "activity_status": "Active",
+    "website": "https://rulebase.co",
+    "founded_date": null,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:finops; industry:finance; industry:fraud-prevention; industry:fraud-detection",
+    "founders": [
+        {
+            "name": "Olaoluwa Gideon Ebose, Founder",
+            "description": "Co-Founder & CEO of Rulebase. Previously Lead Product Designer at Gatherwell, where he guided the company from startup through its successful acquisition by Jumbo PLC. Later joined Microsoft, developing their virtual communication platform for hospitals. Combines 6+ years of product design experience with an Economics degree, bringing both business and technical expertise to enterprise software",
+            "linkedin": "https://linkedin.com/in/gideon-ebose-2a5187100"
+        },
+        {
+            "name": "Chidi Williams, Founder",
+            "description": "Chidi, Co-founder & CTO at Rulebase, has over 7 years of experience. He built Buzz, an early open-source speech-to-text tool with >300k downloads and >12k GitHub stars. With experience building systems for Goldman Sachs' wealth management and Nigerian fintechs like Eyowo, he leverages his fintech and voice AI expertise to lead technology at Rulebase.",
+            "linkedin": "https://www.linkedin.com/in/chidiwilliams/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Rulebase**\n\nRulebase is on a mission to revolutionize fraud detection and investigation through the power of AI agents. Their focus is clear: protect fintech companies and banks from account takeovers, impersonations, and phishing attacks while automating the fraud investigation process. What sets Rulebase apart is its AI's impressive capability to gather and analyze evidence, reducing the average investigation time from 30 minutes to merely 2 minutes.\n\n### Background\n\nFounded in San Francisco and part of Y Combinator's Batch F24, Rulebase is backed by a lean team of just two employees, showcasing the agility of startups in harnessing technology for security solutions. The company is guided by Group Partner David Lieb, who brings in-depth insights and connections to the fintech world.\n\n### Services and Functionality\n\nRulebase provides a suite of AI-powered tools designed to address a spectrum of threats, from internal employee collusion to external impersonation attacks. The system\u2019s capabilities include:\n- **Centralized Threat Visibility**: Monitors activities across contact centers to identify and track attacks in real time.\n- **Employee Risk Scoring**: Assess and prioritize risk levels associated with employees, providing timely alerts on high-risk behaviors.\n- **Fraud Detection Tools**: Uses advanced analytics to catch voice clones and impersonations swiftly, ensuring customer access is tightly controlled.\n\nWith generative AI fraud projected to cost businesses around $11.5 million by 2027, Rulebase\u2019s solution is not just timely; it's essential. It offers businesses critical protective measures against increasingly sophisticated fraud tactics.\n\n### Commitment to Security\n\nRulebase takes security seriously. They utilize AES-256 encryption and maintain GDPR-compliant data centers in Europe. The company is also working towards ISO 27001 certification to further ensure the highest standards in information security. With SOC II compliance, Rulebase emphasizes strict controls over data security, availability, and confidentiality.\n\n### Call to Action\n\nIf you\u2019re keen to see how Rulebase can help secure your business against fraud, you can explore their offerings further on their [website](https://rulebase.co) or schedule a demo.\n\nIn summary, Rulebase represents an exciting frontier in fraud prevention, leveraging AI not just as a tool but as a necessary evolution in securing financial transactions for modern contact centers. Simply put: they\u2019re making fraud prevention faster, smarter, and more effective.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cb602e1025da4e28064416ad0930a87b8239c1c5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191904Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5c798bd7c270d33aa4b07efa19a8b4ef83838c95039458b15120a85f6e3985fc",
+    "social_links": [
+        "https://www.linkedin.com/company/rulebasehq/",
+        "https://x.com/RulebaseHQ"
+    ],
+    "logo_path": "data/logos\\Rulebase_logo.png"
+}

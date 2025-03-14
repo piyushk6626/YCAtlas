@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/ocular-ai",
+    "name": "Ocular AI",
+    "headline": "AI-Native Data Engine for LLMs, Computer Vision, & Enterprise AI",
+    "batch": "W24",
+    "description": "Ocular AI is the data annotation engine for Generative AI, Computer Vision, and Enterprise AI models.\r\n\nWe help you transform unstructured, multi-modal data into golden datasets to power generative AI, frontier models, and computer vision.   \r\n\nOcular Foundry is the most intuitive, data-centric, and fastest platform that lets you label, annotate, version, and deploy your data for training models. It also orchestrates your annotation jobs, improving collaboration with members and annotators.   \r\n\nWith Ocular Bolt, shift from humans in the loop to experts in the loop to supercharge your data labeling and annotation projects. Our global expert workforce ensures fast, accurate results\u2014no matter the scale or complexity of your data.  \r\n\nCompanies spend huge amounts on training data, but Foundry and Bolt are AI-native tools that lower costs, reduce manual effort, and accelerate high-quality data collection. We\u2019re replacing outdated, clunky, and expensive data software!",
+    "activity_status": "Active",
+    "website": "https://useocular.com",
+    "founded_date": 2024.0,
+    "team_size": 5.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:machine-learning; industry:computer-vision; industry:data-engineering; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Michael Moyo, Founder & CEO",
+            "description": "CEO & Co\u2013Founder of Ocular AI. Computer and Biomedical Engineer.",
+            "linkedin": "https://linkedin.com/in/michaelmoyo"
+        },
+        {
+            "name": "Louis Murerwa, Founder",
+            "description": "Louis is the Co-founder and CTO of Ocular AI. He is from Zimbabwe and studied Computer Science at Dartmouth College. Previously Louis worked at Google NYC as a Software Engineer where he built Distributed Architecture that powers Google Cloud.",
+            "linkedin": "https://www.linkedin.com/in/louismurerwa/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Here\u2019s a succinct summary of Ocular AI, keeping the essence direct and engaging:\n\n---\n\n**Ocular AI** is an ambitious data annotation engine, specifically designed for the cutting-edge realms of Generative AI, Computer Vision, and Enterprise AI. Founded in 2024 and part of Y Combinator's W24 batch, Ocular AI is on a mission to transform unstructured, multi-modal data into actionable \u201cgolden datasets\u201d that can drive powerful AI models. \n\nAt the heart of their operations is the **Ocular Foundry**, which serves as a comprehensive platform for labeling, annotating, and managing data effectively. This gives users an intuitive interface to orchestrate workflows, manage dataset versions, and gain insights\u2014all enhancing collaboration between team members and external annotators.\n\nAdditionally, the **Ocular Bolt** feature shifts the paradigm from traditional human labor to leveraging a global expert workforce for data annotation. This not only accelerates the process but also assures accuracy and scalability, making it ideal regardless of the project's complexity. \n\nWhat sets Ocular AI apart is its focus on efficiency\u2014helping companies reduce costs associated with training data, while simultaneously lowering manual effort through its AI-native tools. In an era where outdated data software can decimate budgets, Ocular AI is here to streamline and modernize the data pipeline for AI-driven applications. \n\nLocated in San Francisco and operated by a compact team of 5, Ocular AI is poised for significant impact in the burgeoning AI landscape. Their tech is already integrated with major platforms, ensuring a smooth fit into existing infrastructures while upholding enterprise-grade security.\n\nFor more insight, check out their website: [Ocular AI](https://useocular.com).\n\n--- \n\nThis one should resonate well with anyone looking to understand Ocular AI's offerings and vision!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8fe54d457e13d7489796773928160823c6f8593d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f7314236990c43d837d43a5ccaa383f29b7fb9d3939be940ed3edee69be1dda6",
+    "social_links": [
+        "https://www.linkedin.com/company/use-ocular",
+        "https://x.com/OcularHQ",
+        "https://www.crunchbase.com/organization/ocular-ai",
+        "https://github.com/OcularEngineering"
+    ],
+    "logo_path": "data/logos\\Ocular_AI_logo.png"
+}

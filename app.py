@@ -1,200 +1,162 @@
 import streamlit as st
 import json
-from serachAgent.search import search_companies, deep_research
 import os
+from chromadb import search  # using your provided import
 
-# Load JSON data from the main search results file
-def load_data():
+# Directory that stores the company JSON files (details)
+DATA_DIR = "data/company_descriptions"
+
+# ============================================================================
+# Search functions (as provided)
+# ============================================================================
+def search_companies(query: str, batch: str) -> list:
+    """
+    Search for companies based on a query string.
+
+    Args:
+        query (str): The query string to search for.
+        batch (str): The batch to search for.
+
+    Returns:
+        list: A list of companies that match the query.
+    """
+    # Get the list of companies from the ChromaDB collection
+    companies = search.search_companies(query, batch)
+    # Save the search results to a JSON file
+    with open("search_results.json", "w", encoding="utf-8") as f:
+        json.dump(companies, f, indent=4, ensure_ascii=False)
+    return companies
+
+def deep_search_companies(query: str, batch: str) -> list:
+    """
+    Deep search for companies based on a query string.
+
+    Args:
+        query (str): The query string to search for.
+        batch (str): The batch to search for.
+
+    Returns:
+        list: A list of companies that match the query.
+    """
+    # Get the list of companies from the ChromaDB collection using deep research.
+    companies = search.deep_research(query, batch)
+    # Save the search results to a JSON file
+    with open("search_results.json", "w", encoding="utf-8") as f:
+        json.dump(companies, f, indent=4, ensure_ascii=False)
+    return companies
+
+def load_search_results() -> list:
+    """
+    Load the search results from the JSON file.
+
+    Returns:
+        list: A list of company search results; [] if file not found.
+    """
     try:
-        with open('search_results.json', 'r', encoding='utf-8') as f:
+        with open("search_results.json", "r", encoding="utf-8") as f:
             return json.load(f)
-    except (json.JSONDecodeError, UnicodeDecodeError) as e:
-        st.error(f"Error loading data: {str(e)}")
+    except FileNotFoundError:
         return []
 
-# Search companies based on the query and update the search_results.json file
-def search_companies_query(query, companies):
-    if not query:
-        return companies
 
-    data = deep_research(query)
-    with open('search_results.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-    return data
-
-def show_home_page():
-    st.title("YC ATLAS")
-    
-    # Search bar
-    search_query = st.text_input("Search companies", "", key="search_companies_input")
-
-    # Load data
-    companies = load_data()
-    
-    # Filter companies based on search query
-    if search_query:
-        filtered_companies = search_companies_query(search_query, companies)
-        filtered_companies = load_data()  # reload updated data
-    else:
-        filtered_companies = companies
-    
-    # Display each company with its details and action buttons
-    for company in filtered_companies:
-        metadata = company['metadata']
-        
-        with st.container():
-            logo_col, name_col = st.columns([1, 4])
-            
-            with logo_col:
-                if metadata.get('name'):
-                    logo_name = metadata['name'].replace(' ', '_')
-                    logo_path = os.path.join("data", "logos", f"{logo_name}_logo.png")
-                    if os.path.exists(logo_path):
-                        try:
-                            st.image(logo_path, width=150)
-                        except Exception:
-                            st.write("🏢")
-                    else:
-                        st.write("🏢")
-            
-            with name_col:
-                # Button for navigating to company details
-                if st.button(metadata['name'], key=f"company_{company['id']}", use_container_width=True):
-                    st.session_state.selected_company = company
-                    st.session_state.page = 'details'
-                    st.experimental_user()
-                
-                # Custom CSS for button text styling
-                st.markdown("""
-                    <style>
-                    .stButton button {
-                        font-size: 24px;
-                        font-weight: bold;
-                    }
-                    </style>
-                    """, unsafe_allow_html=True)
-            
-            if metadata.get('headline'):
-                st.subheader(metadata['headline'])
-            
-            # Layout columns for additional company info
-            col1, col2 = st.columns([2, 1])
-            with col1:
-                info_cols = st.columns(3)
-                with info_cols[0]:
-                    st.write("**Batch:**", metadata.get('batch', 'N/A'))
-                with info_cols[1]:
-                    st.write("**Location:**", metadata.get('location', 'N/A'))
-                with info_cols[2]:
-                    st.write("**Team Size:**", metadata.get('team_size', 'N/A'))
-                if metadata.get('tags'):
-                    st.write(" ".join(metadata['tags']))
-            
-            with col2:
-                if metadata.get('website'):
-                    st.write("🔗 [Website](" + metadata['website'] + ")")
-                if metadata.get('ycpage'):
-                    st.write("🏢 [YC Page](" + metadata['ycpage'] + ")")
-        
-            st.markdown("""---""")
-            
-def show_company_details(company):
-    if not company:
-        st.error("No company selected.")
-        return
-        
-    metadata = company['metadata']
-    
-    # Company header with logo and title
-    col1, col2 = st.columns([1, 3])
-    with col1:
-        if metadata.get('name'):
-            logo_name = metadata['name'].replace(' ', '_')
-            logo_path = os.path.join("data", "logos", f"{logo_name}_logo.png")
-            if os.path.exists(logo_path):
-                try:
-                    st.image(logo_path, width=150)
-                except Exception:
-                    st.write("🏢")
+# ============================================================================
+# Helper function to format details recursively into HTML
+# ============================================================================
+def format_details(details, indent=0):
+    """
+    Recursively format company details (dict or list) into an HTML string.
+    """
+    html_content = ""
+    spacing = "&nbsp;" * 4 * indent  # 4 non-breaking spaces per indent level
+    if isinstance(details, dict):
+        for key, value in details.items():
+            html_content += f"{spacing}<b>{key}:</b> "
+            if isinstance(value, dict) or isinstance(value, list):
+                html_content += "<br>" + format_details(value, indent + 1)
             else:
-                st.write("🏢")
-    with col2:
-        st.title(metadata['name'])
-        if metadata.get('headline'):
-            st.subheader(metadata['headline'])
-    
-    # Company Information section
-    st.markdown("### Company Information")
-    st.write("**Batch:**", metadata.get('batch', 'N/A'))
-    st.write("**Location:**", metadata.get('location', 'N/A'))
-    st.write("**Team Size:**", metadata.get('team_size', 'N/A'))
-    st.write("**Founded:**", metadata.get('founded_date', 'N/A'))
-    
-    # Links section
-    st.markdown("### Links")
-    cols = st.columns(3)
-    with cols[0]:
-        if metadata.get('website'):
-            st.write("🔗 [Website](" + metadata['website'] + ")")
-    with cols[1]:
-        if metadata.get('ycpage'):
-            st.write("🏢 [YC Page](" + metadata['ycpage'] + ")")
-    
-    # Social links section
-    if metadata.get('social_links'):
-        st.markdown("### Social Links")
-        for link in metadata['social_links']:
-            st.write("- " + link)
-    
-    # Description and additional information
-    st.markdown("### Description")
-    st.write(metadata.get('description', 'No description available.'))
-    if metadata.get('generated_description'):
-        st.markdown("### Additional Information")
-        st.markdown(metadata['generated_description'])
-    
-    # Founders information
-    st.markdown("### Founders")
-    for i in range(1, 3):
-        founder_name = metadata.get(f'founder_{i}_name')
-        founder_desc = metadata.get(f'founder_{i}_description')
-        founder_linkedin = metadata.get(f'founder_{i}_linkedin')
-        if founder_name:
-            st.write(f"**{founder_name}**")
-            if founder_desc:
-                st.write(founder_desc)
-            if founder_linkedin:
-                st.write(f"[LinkedIn Profile]({founder_linkedin})")
-    
-    # Tags section
-    if metadata.get('tags'):
-        st.markdown("### Tags")
-        st.write(", ".join(metadata['tags']))
+                html_content += f"{value}<br>"
+    elif isinstance(details, list):
+        for item in details:
+            html_content += format_details(item, indent)
+    else:
+        html_content += f"{spacing}{details}<br>"
+    return html_content
 
-def main():
-    # Remove the default Streamlit sidebar
-    st.markdown("""
-        <style>
-        [data-testid="stSidebar"] {
-            display: none;
-        }
-        </style>
-    """, unsafe_allow_html=True)
-    
-    # Initialize session state for page routing and selected company
-    if 'page' not in st.session_state:
-        st.session_state.page = 'home'
-    if 'selected_company' not in st.session_state:
-        st.session_state.selected_company = None
-    
-    # Page routing: Home or Details page
-    if st.session_state.page == 'home':
-        show_home_page()
-    elif st.session_state.page == 'details':
-        show_company_details(st.session_state.selected_company)
-        if st.button("← Back to Companies"):
-            st.session_state.page = 'home'
-            st.experimental_user()
 
-if __name__ == "__main__":
-    main()
+# ============================================================================
+# Streamlit App Layout
+# ============================================================================
+
+st.title("Company Search App")
+st.write("Enter a search query and select one or more batch options to find companies.")
+
+# INPUT: Search query text input
+query = st.text_input("Search Query", placeholder="Enter your query here...")
+
+# INPUT: Multiselect widget for batch selection (example: ["W24", "S24", "W23", "S23", "W22", "S22"])
+selected_batches = st.multiselect("Select Batch", 
+                                  options=["W24", "S24", "W23", "S23", "W22", "S22"],
+                                  help="Select one or more batches")
+# For passing to your function—which expects a string—convert to comma-separated string.
+batch_str = ",".join(selected_batches) if selected_batches else ""
+
+# Two buttons: one for standard search, one for deep research
+col1, col2 = st.columns(2)
+with col1:
+    if st.button("Search Companies"):
+        if query and batch_str:
+            search_companies(query, batch_str)
+            st.success("Search completed! Check the results below.")
+        else:
+            st.error("Please enter a search query and select at least one batch.")
+
+with col2:
+    if st.button("Deep Search Companies"):
+        if query and batch_str:
+            deep_search_companies(query, batch_str)
+            st.success("Deep Search completed! Check the results below.")
+        else:
+            st.error("Please enter a search query and select at least one batch.")
+
+# Load search results from the JSON file
+results = load_search_results()
+
+if results:
+    st.subheader("Search Results")
+    # Display the list of companies in a scrollable expander
+    with st.expander("Companies List", expanded=True):
+        # Build a mapping: { Company Name: Company ID }
+        company_mapping = {}
+        for company in results:
+            name = company.get("metadata", {}).get("name", "Unnamed Company")
+            cid = company.get("id")
+            company_mapping[name] = cid
+        
+        # Create a select box to choose a company from the list
+        selected_company_name = st.selectbox("Select a company to view details",
+                                             options=list(company_mapping.keys()),
+                                             help="Choose a company from the list")
+        # Button to show details of the selected company.
+        if st.button("Show Company Details"):
+            company_id = company_mapping[selected_company_name]
+            # Build file path (example: data/company_descriptions/id.json)
+            detail_file = os.path.join(DATA_DIR, f"{company_id}.json")
+            if os.path.exists(detail_file):
+                with open(detail_file, "r", encoding="utf-8") as f:
+                    company_details = json.load(f)
+                st.subheader(f"Details for {selected_company_name}")
+
+                # Format the company_details dict into HTML (this handles nested dicts/lists)
+                details_html = format_details(company_details)
+
+                # Create an HTML block with a fixed height and overflow (scrollable)
+                html_container = f"""
+                <div style="height:400px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+                    {details_html}
+                </div>
+                """
+                st.markdown(html_container, unsafe_allow_html=True)
+            else:
+                st.error(f"Company details file not found for: {selected_company_name}")
+else:
+    st.info("No search results to display. Please perform a search above.")

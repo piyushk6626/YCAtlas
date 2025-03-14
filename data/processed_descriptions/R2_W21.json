@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/r2",
+    "name": "R2",
+    "headline": "Embedded lending infrastructure",
+    "batch": "W21",
+    "description": "R2 enables platforms to seamlessly offer capital to their SMB customers in Latin America",
+    "activity_status": "Active",
+    "website": "https://r2.co/",
+    "founded_date": 2020.0,
+    "team_size": 50.0,
+    "location": "Mexico City, Mexico",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:b2b",
+    "founders": [
+        {
+            "name": "Roger Larach, Founder",
+            "description": "I'm currently the Co-Founder and CEO of R2  (YC W21). Before that, I spent time with Latin American neobank, Ual\u00e1, launching operations in Mexico. \n\nPior to Ual\u00e1, I was an investment banker focused on M&A and restructuring deals in Latin America.",
+            "linkedin": "https://www.linkedin.com/in/larachr"
+        },
+        {
+            "name": "Roger Teran, Founder",
+            "description": "Co-Founder of R2, a startup that enables platforms to seamlessly offer financing to their SMB users in Latin America. R2 powers the capital arm of leading platforms, such as Rappi and Clip, and we've financed 5,000+ SMBs through our embedded lending infrastructure. \n\nI have worked as a data scientist with several high growth companies. I started my career helping SMBs in Central America find growth capital. I am from El Salvador and I angel invest in other Latam founders on the side.",
+            "linkedin": "https://www.linkedin.com/in/rteran/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: R2**\n\nFounded in 2020 and based in Mexico City, R2 is on a mission to provide embedded lending infrastructure that empowers platforms to seamlessly offer financing to their small and medium-sized business (SMB) customers, especially across Latin America. The company has quickly positioned itself as a key player in the fintech and B2B landscape, being a product of the Y Combinator Batch W21 and backed by notable firms including Gradient Ventures and General Catalyst.\n\n**What R2 Does**\n\nR2\u2019s core offering is simple yet powerful: it allows platforms to become capital providers for their merchants through an API-first approach. By integrating R2 into their systems, platforms can provide revenue-based financing\u2014allowing merchants to access funds ranging from $500 to $50,000. This service not only boosts merchant engagement and retention but also opens up new revenue streams for the platforms themselves.\n\nKey features of R2's offering include:\n- **Seamless API Integration**: Platforms can easily integrate R2\u2019s services into their own infrastructure.\n- **Advanced Scoring Models**: R2 leverages data from millions of merchants to offer personalized financing options.\n- **Same-Day Capital Access**: Merchants can receive funding quickly and efficiently.\n- **All-in-One Service**: R2 manages the lending experience entirely, including credit risk, KYC, and collections.\n\n**Team & Culture**\n\nR2's team consists of about 50 employees driven by innovation and dedication to improving access to capital for SMBs in a region often underserved by traditional financial institutions. With Brad Flora serving as Group Partner, the company benefits from strong leadership and a clear vision on growth and impact.\n\n**The Bigger Picture**\n\nIn a landscape where access to finance can be a bottleneck for growth, R2 is positioning itself strategically to eliminate friction and enhance the capital flow for growing businesses. The company's embedded lending solutions not only support platforms\u2014they create a cycle of trust that cultivates a thriving ecosystem for both businesses and consumers.\n\nIf you're a platform looking to enhance your service offerings and support your merchants better, R2 could be your next strategic partner. They\u2019re not just offering financing; they\u2019re enabling a financial ecosystem that thrives on collaboration.\n\nFor more details, check out their [website](https://r2.co/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ef242ecb5b6dad8077487d6e9e838e08297e8a39.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191703Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=95d2b68a9dfa3213319cb52aae65bb3582dedc1135f613cb23ae701c850a8898",
+    "social_links": [
+        "https://www.linkedin.com/company/r2-cap/"
+    ],
+    "logo_path": "data/logos\\R2_logo.png"
+}

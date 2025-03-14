@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/tergle",
+    "Name": "Tergle",
+    "Headline": "AI agents for auditing",
+    "Batch": "W25",
+    "Description": "Tergle builds AI agents for auditing.",
+    "Activity_Status": "Active",
+    "Website": "https://tergle.com",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/tom-blomfield",
+    "Group_Partner": "Tom Blomfield",
+    "Company_Linkedin": "https://www.linkedin.com/company/tergleai",
+    "Company_Twitter": "",
+    "Tags": "industry:saas; industry:b2b; industry:compliance; industry:ai; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/tergleai",
+        "https://x.com/TergleAI"
+    ],
+    "logo_path": "data\\logos\\Tergle.png",
+    "Active_Founders": [
+        {
+            "Name": "Adam Bowen, Founder",
+            "Description": "Co-Founder at Tergle. Previously an engineer at NASA.\n\nBuilt a web-automation startup at 14, which funded my solo move to Japan at 17. Accepted to Ivy League, but turned down to live in Tokyo for 2 years. Learnt Japanese.",
+            "LinkedIn": "https://www.linkedin.com/in/adambowen03/"
+        },
+        {
+            "Name": "William Tarr, Founder",
+            "Description": "Co-Founder at Tergle. Harvard CS dropout.\n\nBuilt national EdTech non-profit at 16 with Adam - scaled across UK to 500 partner schools. Worked as a software engineer at ASTRI and for the Chan-Zuckerberg Initiative. CS researcher at Harvard.",
+            "LinkedIn": "https://www.linkedin.com/in/willtarr/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Tergle Overview**\n\nFounded in 2024, Tergle is carving out a niche in the auditing landscape by harnessing the power of AI. Based in the bustling tech hub of San Francisco, Tergle is a member of Y Combinator's Batch W25, a testament to its potential and innovative direction. The company operates with a lean team of just two, focusing on streamlining the auditing process by creating AI agents designed specifically for compliance tasks.\n\n**Mission**\n\nTergle's mission is straightforward: to revolutionize auditing with AI. The company aims to eliminate the drudgery of repetitive audits, freeing auditors to focus on more impactful work. They promise a unique solution precisely tailored to each client's needs, utilizing their team of engineers and seasoned auditors with over 25 years of experience.\n\n**How It Works**\n\nTergle simplifies the auditing process in three distinct stages:\n\n1. **White-glove Onboarding**: Start your journey with a personalized, 20-minute call to delve into your current auditing workflow. This ensures that their solution is tailored to fit seamlessly into your existing processes.\n\n2. **AI Solution Development**: Next, Tergle's engineers collaborate with pre-vetted, experienced auditors to create a customized AI solution. This stage ensures that the technology aligns perfectly with your auditing needs.\n\n3. **Ongoing Support**: Tergle values continuous partnership. They offer year-round support with a dedicated channel available through Slack or Zoom, ensuring clients are never left without help.\n\n**Culture & Backing**\n\nWith Tom Blomfield, founder of Monzo, as a group partner, Tergle benefits from insights rooted in the fintech space, where automation is crucial. As Blomfield notes, Tergle is building the auditing automations that have long been promised\u2014now supercharged with AI.\n\n**Getting in Touch**\n\nIf you\u2019re interested in streamlining your auditing process, Tergle invites you to engage with them. They promise not only a tailored approach but also the opportunity for direct communication with the founders.\n\n**Connect with Tergle**:  \nWebsite: [Tergle.com](https://tergle.com)  \nBook a call to start your journey towards a more efficient auditing process."
+}

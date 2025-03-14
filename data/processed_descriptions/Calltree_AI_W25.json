@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/calltree-ai",
+    "name": "Calltree AI",
+    "headline": "AI operations analyst for call center workflows",
+    "batch": "W25",
+    "description": "Calltree helps enterprises' VP of Operations understand how to make their call center more efficient. Our AI agent analyzes millions of minutes of call center recordings to find inefficiencies in workflows and quantifies the cost of each action. For example, when a rep is handling a credit card dispute, Calltree can identify that reps spend 30 seconds per call on manual data gathering and data entry, propose a solution, and measure the opex savings. Calltree surfaces these insights in an analytics tool and generates reports, making it easy for operation leaders to build business cases to prioritize improvements, realizing millions in opex savings.\r\n\nSee us at https://calltree.ai",
+    "activity_status": "Active",
+    "website": "https://calltree.ai",
+    "founded_date": 2025.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:saas; industry:b2b; industry:customer-service; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kun Qian, Founder",
+            "description": "Kun, co-founder and CEO of Calltree AI, previously a product leader at AWS where he focused on contact center solutions. During his tenure, he built and scaled multiple product lines that achieved tens of millions in ARR. Drawing from deep insights into contact center operations and analytics, Kun co-founded Calltree AI to empower contact centers with the data-driven insights they need to optimize operations and reduce costs.",
+            "linkedin": "https://www.linkedin.com/in/qian-kun/"
+        },
+        {
+            "name": "Robertson Taylor, Founder",
+            "description": "Worked on applied multimodal AI with large enterprises at Marqo. Worked on ML for high cardinality anomaly detection that was deployed into fortune 100 companies and banks while at AWS. Led platform teams at Hopper. Georgia Tech CS grad, worked on HPC research.",
+            "linkedin": "https://www.linkedin.com/in/robertsonotaylor/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Calltree AI**\n\nFounded in 2025 and part of Y Combinator Batch W25, Calltree AI is based in San Francisco and operates with a nimble team of just two employees. The company's mission is clear: to serve as an AI operations analyst that optimizes call center workflows, ultimately making them more efficient for enterprise-level clients.\n\n**How It Works**\n\nCalltree AI leverages advanced artificial intelligence to analyze millions of minutes of call recordings. The goal? To uncover inefficiencies in call center operations and quantify the cost of various actions taken by representatives. For instance, in handling credit card disputes, Calltree can provide insights indicating that agents might spend 30 seconds per call on manual data tasks. With this data, Calltree not only identifies problems but also proposes actionable solutions and measures potential operational expense (opex) savings.\n\nThe platform provides various functions that allow operation leaders to:\n- **Track Costs**: Identify hidden inefficiencies and quantify their impact on operational expenses.\n- **Build Business Cases**: Transform insights into data-driven recommendations, allowing leaders to see clear ROI.\n- **Cut Costs**: Turn identified inefficiencies into immediate savings through AI-powered recommendations for workflow and technology improvements.\n- **Prove Results**: Offer real-time monitoring to measure the impact of implemented improvements, ensuring ongoing optimization.\n\n**Key Features**\n- **Cost Impact Analysis**: Quantifies the financial effect of workflows and processes.\n- **ROI Forecasting**: Projects potential savings based on real operational data.\n- **Real-Time Monitoring**: Tracks improvements and confirms savings in real-time.\n- **Opportunity Pipeline**: Keeps a dynamic log of new optimization opportunities as they arise.\n\n**Impact**\n\nWith its robust analytical capabilities, Calltree AI enables enterprises to find substantial savings\u2014in fact, one operations head reported up to $2 million saved simply by optimizing an authentication process. This is a testament to the significant impact that understanding and streamlining call center workflows can have on overall operational efficiency.\n\nIn summary, Calltree AI isn\u2019t just about analyzing data; it\u2019s about transforming insights into actions that lead to tangible results. As more businesses seek ways to enhance their call center operations, Calltree AI positions itself as a pivotal ally in the pursuit of operational excellence. \n\nFor more information, check out their website at [Calltree.ai](https://calltree.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/49812598eaef3460464220dc463d1427e1ea824d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191037Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a15f39f8fe0a08f403bfa2698432ff68f02fd15c26499c7459b0b1c30ba12d7b",
+    "social_links": [
+        "https://www.linkedin.com/company/calltree-ai/"
+    ],
+    "logo_path": "data/logos\\Calltree_AI_logo.png"
+}

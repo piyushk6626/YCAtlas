@@ -1,0 +1,46 @@
+{
+    "links": "https://www.ycombinator.com/companies/sanvivo",
+    "name": "Sanvivo",
+    "headline": "Shopify for pharmacies in Europe",
+    "batch": "W23",
+    "description": "Sanvivo builds a multisided platform to enable customers to order medications, get pharmaceutical advice, and book health services at local pharmacies in Europe. Just like Shopify for pharmacies.\r\n\nSanvivo gives pharmacies software to take, fill and schedule delivery for online orders. We also bring instant demand through integrations with 3rd party consumer delivery companies.\r\n\nAlmost all pharmacies in Europe are, by law, local 1-person businesses. And they are not ready for online orders. Regulatory changes require pharmacies to take and fill e-prescriptions (roll-out Jan-23), but many have no way to do this online today. \r\n\nSanvivo uses technology to give local pharmacies digital superpowers, enabling them to combine fast supply and high-quality consultation with state of the are e-commerce solutions.",
+    "activity_status": "Active",
+    "website": "http://www.sanvivo.eu",
+    "founded_date": 2021.0,
+    "team_size": 4.0,
+    "location": "Munich, Germany",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:marketplace; industry:saas; industry:consumer-health-services; industry:delivery",
+    "founders": [
+        {
+            "name": "Julius Rachor, Founder",
+            "description": "Julius Rachor is the co-founder and CEO of Sanvivo. He has worked with BMW in several roles on e-mobility projects (i8, i3) and the Data and ML infrastructure for BMWs Autonomous driving division. Julius is passionate about building technology-driven products and businesses. He earned a degree in physics and a Ph.D. in electrical engineering.",
+            "linkedin": "https://www.linkedin.com/in/juliusrachor/"
+        },
+        {
+            "name": "Nikolai Alemi Hariri, Founder",
+            "description": "Sanvivo GmbH - Co-Founder & CEO || ALEMI PHARMACY - pharmacy manager || \nLudwig Maximilian University of Munich - pharmacist",
+            "linkedin": "https://www.linkedin.com/in/nikolai-alemi-12157123a/"
+        },
+        {
+            "name": "Dominic Haul, Founder",
+            "description": "Sanvivo GmbH - Co-Founder & COO ||\nNeumann / Sennheiser - Team Lead Acoustics & Mechanics ||\nKlangPurist - Co-Founder ||\nK\u00d6TTER Consulting Engineers - Consulting Engineer ||\nUniversity of Applied Sciences Munich, Germany - Diploma, Technical Physics",
+            "linkedin": "https://www.linkedin.com/in/dominic-haul-524a00111/"
+        },
+        {
+            "name": "Sven Wildermann, Founder",
+            "description": "CTO  and Co-Founder of Sanvivo. He studied Computer Science in Berlin and has been with Microsoft Germany as Cloud Solution Architect, consulting enterprise customers concerning well designed data architectures.\nPassionate about data and artificial intelligence.\nLoves all kind of process automation (favorite tool: Microsoft Azure Logic Apps).\nEnjoys to explain complex topics much simplified to everyone who is eager to listen.\nHost of \"AudioDatAI\" - a German speaking podcast about data and AI.",
+            "linkedin": "https://www.linkedin.com/in/svenwildermann/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Sanvivo: Empowering Pharmacies in Europe\n\nSanvivo is tackling a significant gap in the pharmaceutical landscape by acting as the \u201cShopify for pharmacies\u201d in Europe. Founded in 2021 by Nikolai Alemi and based in Munich, Germany, Sanvivo provides a robust multi-sided platform that enables local pharmacies to accept online orders, offer pharmaceutical advice, and manage health services efficiently. \n\nThe challenge they address is critical: most pharmacies in Europe operate as small, one-person businesses and are not prepared for digital transactions, primarily due to regulatory changes that require them to handle e-prescriptions. Since January 2023, pharmacies must be able to process these prescriptions online, yet many lack the necessary infrastructure. This is where Sanvivo comes in, leveraging technology to give local pharmacies what we might call \"digital superpowers.\" \n\n#### How Does Sanvivo Work?\n\nSanvivo offers a streamlined software solution that allows pharmacies to accept, fill, and schedule deliveries for online orders seamlessly. Their platform integrates instantly with third-party delivery companies, bringing immediate demand to pharmacies that join their network. \n\n- **No Extra Hardware**: Pharmacies can use existing systems without needing new hardware; their solution runs on standard web browsers integrated with the pharmacies' existing inventory systems.\n- **E-Rezept Management**: With changes in prescription submission processes, pharmacies receive e-prescriptions directly through Sanvivo\u2019s portal, ensuring they are not left behind by digital trends.\n- **Retail Integration**: They handle OTC (over-the-counter) orders by listing pharmacies on multiple platforms, simplifying the order management process.\n\nSanvivo is currently part of Y Combinator\u2019s Batch W23, highlighting its potential and innovative approach. The team consists of just four people, showcasing a lean startup model that focuses on scaling efficiently without excess overhead.\n\n#### Key Stats\n\n- **1,000+ Partner Pharmacies**: Sanvivo is already partnered with over a thousand pharmacies across Europe.\n- **18 Million Potential Customers**: By connecting pharmacies with a vast network, Sanvivo arguably unlocks a market of over 18 million customers hungry for efficient pharmaceutical services.\n- **\u20ac82,000 Average Additional Revenue**: Partner pharmacies can see substantial additional revenue, all from hassle-free integration into Sanvivo's system.\n\n#### Testimonials and Impact\n\nPharmacies using Sanvivo\u2019s platform have praised its utility in streamlining their operations. For example, Gerhild Burggraf from Kreuz Apotheke highlighted that the solution caters directly to the hectic pace of pharmacy work, saving valuable time while enhancing customer service.\n\nSanvivo isn't just about transactions; it's about transforming how local pharmacies interact with their patients and navigate the increasingly digital world. As healthcare continues to evolve, those nimble enough to adapt\u2014like Sanvivo\u2014will likely lead the way.\n\nIf you\u2019re curious to know more or consider joining the future of pharmacies, visit their [website](http://www.sanvivo.eu).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6c89e49037df167a21a28e1281cfee0823cda450.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191909Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ef1f0d895132a23bef5805aedfa22cea6c3d1f4854c34ffb2025a175b67f68f0",
+    "social_links": [
+        "https://www.linkedin.com/company/sanvivo-gmbh/"
+    ],
+    "logo_path": "data/logos\\Sanvivo_logo.png"
+}

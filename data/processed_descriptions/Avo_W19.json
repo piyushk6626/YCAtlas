@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/avo",
+    "name": "Avo",
+    "headline": "Fixing data quality in product analytics.",
+    "batch": "W19",
+    "description": "Avo fixes data quality in product analytics. Avo helps teams like Ikea, Wolt, Fender, Sixt and Cond\u00e9 Nast to plan, implement and monitor analytics, so they don't fly blind and fail to build great user experiences\r\n\nStart your step-by-step path to settle your analytics debt:\r\n\nStep 1: Better tracking plan management.\r\nAvo is a better alternative to the \"tracking plan spreadsheet\", keeping your data quality high and your schema sync'd with all downstream tools. Import your tracking plan for an instant audit, then design more scalable data for every feature release, even before you're an expert.\r\n\nStep 2: Better data validation.\r\nAvo is ongoing observability of actual tracking compared with tracking plan. One-time install the Avo Inspector SDK to see what's wrong with your tracking today so you can start making it better.\r\n\nStep 3: Better analytics release workflow.\r\nAvo is the self-serve analytics governance, changing how PMs, devs and data scientists collaborate to plan, implement and verify their product analytics. What used to take Patreon 1-4 days for every feature release, now takes 30-60 minutes.",
+    "activity_status": "Active",
+    "website": "https://www.avo.app/",
+    "founded_date": 2018.0,
+    "team_size": 10.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Stefania Olafsdottir, Founder/CEO",
+            "description": "Mathematician & philosopher. Deep passion for understanding people and things. Always choose the adventure. Make stuff happen. One day be able to do a pull-up. Drink coffee. Eat ice cream.\n\nFind me in San Francisco, Iceland, and as @stefaniabje on the internets.",
+            "linkedin": "https://www.linkedin.com/in/stefaniabjarneyolafsdottir"
+        },
+        {
+            "name": "Solvi Logason, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/solviloga/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Meet Avo: Cleaning Up Data Quality in Product Analytics\n\nFounded in 2018 and a proud graduate of Y Combinator\u2019s Batch W19, Avo has set its sights on a critical but often overlooked area: data quality in product analytics. Based in San Francisco, this compact team of ten serves household names like Ikea, Wolt, Fender, Sixt, and Cond\u00e9 Nast, helping them avoid the pitfalls of flying blind by improving how they plan, implement, and monitor their analytics.\n\n#### Mission Statement\nAvo is all about fixing data quality in product analytics. They believe every team deserves to build great user experiences, underpinned by reliable data.\n\n#### The Avo Methodology: Three Steps to Data Quality\nAvo lays out a straightforward roadmap to help teams tackle their analytics debt:\n\n1. **Better Tracking Plan Management**: Replace the traditional and often cumbersome tracking plan spreadsheet with a dynamic tool that ensures your data quality is high, keeping your schema synchronized with downstream tools. You can import your tracking plan and audit it instantly, allowing even novices to design scalable data for new feature releases.\n\n2. **Better Data Validation**: With Avo, ongoing observability of your tracking versus your tracking plan is just a one-time SDK install away. The Avo Inspector helps identify issues in your current tracking setup, putting you on the fast track to better analytical accuracy.\n\n3. **Better Analytics Release Workflow**: Avo transforms the analytics governance process, enabling project managers, developers, and data scientists to work collaboratively. Tasks that used to take as long as four days can now be accomplished in under an hour. This means faster releases, fewer headaches, and a more robust analytics foundation.\n\n#### Core Features\nAvo's suite of tools, designed to streamline the complexities of data quality, includes:\n\n- **Data Observability & Monitoring**: Get an instant overview of your data\u2019s health, customizable alerts for violations, and an easy way to edit tracking plans with a single click.\n  \n- **Collaborative Schema Management**: Think of it as GitHub for your data schemas\u2014real-time feedback and peer reviews prevent bad data designs.\n\n- **Fast & Accurate Implementation**: Avo generates implementation instructions to minimize errors, ensuring that analytics are deployed according to specifications. This removes the traditional back-and-forth communication issues between teams.\n\n#### Elevate Your Data Processes\nBy harnessing Avo, you can systematically identify data quality issues, resolve them, and put preventive measures in place to ensure they don\u2019t resurface. It\u2019s about moving from bad data to good data, faster.\n\n#### The Avo Experience\nWith Avo, users are reporting transformative results. Analysts from large organizations say that Avo establishes a single source of truth across numerous platforms and simplifies how data is processed and utilized. This clarity translates to better decision-making and enhanced user experiences.\n\nFor those looking to improve their data quality, Avo offers a free trial, allowing teams to explore its features firsthand. \n\nIf your team is entangled in the web of data quality issues, Avo is your ally in breaking free and building a foundation of reliable analytics. Curious to learn more? Check out [Avo\u2019s website](https://www.avo.app/) and take the first step towards cleaner, more effective data management.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/090580632e961994796d543c2fde8f6d5607db99.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191014Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d4bc6ff73540f496b1650416dff0119ca4f8248f553215f6c1e2b227838c4d29",
+    "social_links": [
+        "https://www.linkedin.com/company/avohq",
+        "https://twitter.com/avohq",
+        "https://facebook.com/avohq",
+        "https://www.crunchbase.com/organization/avo-9a0c"
+    ],
+    "logo_path": "data/logos\\Avo_logo.png"
+}

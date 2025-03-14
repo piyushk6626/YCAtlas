@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/cotera",
+    "name": "Cotera",
+    "headline": "AI for customer experience.",
+    "batch": "W22",
+    "description": "Cotera is an AI platform that helps companies understand what their customers are telling them. We integrate directly with the data warehouse, which allows us to derive actionable insights with the full context of all a company's data.",
+    "activity_status": "Active",
+    "website": "https://cotera.co",
+    "founded_date": 2021.0,
+    "team_size": 5.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:analytics; industry:marketing",
+    "founders": [
+        {
+            "name": "Tom Firth, Founder",
+            "description": "Co-founder @ Cotera with Ibby Syed. I like data, software, markets and running long distances. Love hills but sadly live on the flats of Oxfordshire.",
+            "linkedin": "https://www.linkedin.com/in/tom-firth-cfa-7963977b/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Cotera is an emerging AI startup based in London, founded in 2021 and part of Y Combinator's W22 batch. Their mission is clear: to leverage artificial intelligence to enhance customer experience (CX). \n\nAt its core, Cotera functions as an AI operating system that consolidates various customer-related data\u2014like support tickets, feedback, and product interactions\u2014into a coherent, actionable form. This allows companies to transform millions of customer interactions into valuable insights without getting lost in the chaos of data. By integrating directly with data warehouses, Cotera simplifies data management, which not only makes insights more accessible but also automates CX processes at scale.\n\nWith a compact team of five, Cotera is nimble and focused, maneuvering through the clutter of customer data overload that many CX teams face. The platform is designed to address several pain points: the challenge of understanding customer sentiment, the lack of context in current AI tools, and the need for scalable automation in responding to customer needs. \n\nTheir technology is built for the modern business world\u2014utilizing AI workflows, generative insights, and customizable automation to deliver targeted actions based on real-time data analysis. Highlights of their platform include intuitive dashboards for monitoring customer sentiment, alerts for significant events, and the ability to interface seamlessly with tools like Slack and various CRM systems.\n\nCotera's clientele includes well-regarded names such as Peloton and True Nutrition, which underscores their credibility and effectiveness in improving CX. This company is solving real problems in the AI and customer experience space, making every interaction count and paving the way for smarter, more efficient businesses.\n\nYou can learn more about Cotera on their website [here](https://cotera.co).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/418b713b4b26c09015f0e3ee4181149b5da7f613.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191104Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=dabe0b978ae7612cde9ba914f31fdb5b6afb8d5fcca0d2f2211f8bf2b1adfef9",
+    "social_links": [
+        "https://www.linkedin.com/company/coterahq",
+        "https://twitter.com/coterahq"
+    ],
+    "logo_path": "data/logos\\Cotera_logo.png"
+}

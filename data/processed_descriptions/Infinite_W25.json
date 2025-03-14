@@ -1,0 +1,38 @@
+{
+    "Links": "https://www.ycombinator.com/companies/infinite",
+    "Name": "Infinite",
+    "Headline": "Global B2B Stablecoin Processor",
+    "Batch": "W25",
+    "Description": "Infinite is a stablecoin payment processor. We offer businesses turnkey APIs and SDKs to instantly move money anywhere in the world at a fraction of the cost of traditional solutions.",
+    "Activity_Status": "Active",
+    "Website": "https://infinite.dev",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/brad-flora",
+    "Group_Partner": "Brad Flora",
+    "Company_Linkedin": "https://linkedin.com/company/infiniteinc",
+    "Company_Twitter": "",
+    "Tags": "industry:payments; industry:b2b; industry:compliance; location:san-francisco-bay-area",
+    "social_links": [
+        "https://linkedin.com/company/infiniteinc",
+        "https://x.com/infinitedotdev",
+        "https://www.crunchbase.com/organization/infinite-17a4",
+        "https://github.com/infiniteagents"
+    ],
+    "logo_path": "data\\logos\\Infinite.png",
+    "Active_Founders": [
+        {
+            "Name": "Raj Lad, Cofounder & CTO",
+            "Description": "Cofounder and CTO at Infinite. Previously payments tech lead at Sardine where I launched the global stablecoin payments and credit risk workflow products.",
+            "LinkedIn": "https://www.linkedin.com/in/rajlad/"
+        },
+        {
+            "Name": "Nikhil Srinivasan, Cofounder & CEO",
+            "Description": "Cofounder and CEO of Infinite with Raj Lad. Previously platform product lead at Sardine and Coinbase (S12) via acq. Distributed Systems (F1).",
+            "LinkedIn": "https://linkedin.com/in/nikhilsrinivasan"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "Infinite is a promising startup aiming to revolutionize global business payments. Established in 2024 and now part of Y Combinator Batch W25, the company is headquartered in San Francisco. With a compact team of just two employees, Infinite is laser-focused on becoming a leading stablecoin payment processor for businesses worldwide.\n\nTheir mission is straightforward: create a seamless payment infrastructure that allows businesses to move money across borders quickly, affordably, and reliably. They do this by providing easy-to-integrate APIs and SDKs, making it possible for developers to embed fast, compliant payment solutions into their platforms in mere hours. \n\nBacked by partner Brad Flora and positioned within key industries such as payments and compliance, Infinite is addressing a significant issue in the financial sector where traditional payment systems fall short. By leveraging stablecoins, they not only reduce transaction costs but also enhance speed and security.\n\nIf you're intrigued by the future of global transactions and want to learn more, you can check out their offerings for [payments](https://infinite.dev/payments) and [compliance](https://infinite.dev/compliance) at their website: [infinite.dev](https://infinite.dev). They're building something worth watching as they pave the way for a new era in B2B payments."
+}

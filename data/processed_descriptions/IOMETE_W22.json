@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/iomete",
+    "name": "IOMETE",
+    "headline": "The Self-hosted Data Lakehouse Platform",
+    "batch": "W22",
+    "description": "The IOMETE Self-Hosted Data Lakehouse Platform unifies all data - regardless of where the data resides - enabling large-scale analytics (BI/ML/AI) on the entire data set. IOMETE runs always in the customer's environment, whether on premises, on public cloud or private cloud thereby maximizing data security, data privacy and data ownership while reducing cost.",
+    "activity_status": "Active",
+    "website": "https://www.iomete.com/",
+    "founded_date": 2020.0,
+    "team_size": 12.0,
+    "location": "Mountain View",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Vusal Dadalov, Founder",
+            "description": "Vusal Dadalov is cofounder & CEO at iomete, the first complete data infrastructure delivered as a single platform.\n\nMy background is Distributed Systems Engineer. Previously worked at Uber, Careem, OLX Group, Azercell Telecom",
+            "linkedin": "https://www.linkedin.com/in/vusaldadalov/"
+        },
+        {
+            "name": "Piet Jan de Bruin, Founder",
+            "description": "Co-founder IOMETE | The Next-Gen Data Lakehouse Platform for AI and Analytics.\n\nFrom 2016 to 2020 I was CFO and CEO of Tuft & Needle (www.tn.com) which we grew to $200m in revenue while remaining bootstrapped and profitable (exit to Advent International late 2018).",
+            "linkedin": "https://www.linkedin.com/in/pietjandebruin/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**IOMETE: Redefining Data Management**\n\nFounded in 2020 and proudly part of Y Combinator\u2019s W22 batch, IOMETE has carved out a niche as a self-hosted data lakehouse platform. Located in Mountain View, California, with a compact but mighty team of 12, IOMETE is on a mission to simplify data handling across various environments\u2014be it on-premises, public cloud, or private cloud. Their platform is designed for large-scale analytics, allowing businesses to seamlessly integrate and analyze all their data while ensuring robust security and ownership.\n\n### What is IOMETE?\n\nIOMETE\u2019s unique selling point is providing a unified data experience. Unlike many traditional platforms that lock users into costly subscriptions and cloud dependencies\u2014complete with the risks of data breaches\u2014IOMETE runs directly within the customer's infrastructure. This model empowers users with full data ownership and privacy while drastically reducing costs. It embodies a modern approach to leveraging and securing data, making it an appealing alternative to existing giants like Snowflake, Databricks, and Cloudera.\n\n### Core Features\n\n1. **Data Integration:** IOMETE allows for smooth synchronization from a wide range of data sources. This includes everything from operational databases to IoT devices, making it adaptable to any enterprise's unique data landscape.\n\n2. **Real-time Analytics:** The platform is powered by Apache Spark, enabling users to conduct real-time data processing and analytics. The ability to run complex machine learning and AI models on live data opens up new avenues for businesses to glean insights swiftly.\n\n3. **Robust Security:** With certifications that adhere to SOC 2, GDPR, and HIPAA, IOMETE positions itself as a leader in data security. The platform\u2019s architecture ensures that sensitive data stays within the secure perimeter of the enterprise.\n\n4. **Flexible Deployment:** Users can opt for on-premises, hybrid, or full cloud deployment, fostering a customizable experience depending on their technical needs and regulatory environments.\n\n5. **Disruptive Pricing:** IOMETE\u2019s transparent pricing model promises no surprise bills or lock-ins, making it not just a smart choice on paper, but a financially savvy one, too.\n\n### Who's Behind IOMETE?\n\nWith backing from investors like Nan and roots in Silicon Valley's vibrant startup ecosystem, IOMETE is at the forefront of data lakehouse innovation. Their approach is particularly suited for enterprises looking to maximize the value of their data while staying compliant with evolving data privacy regulations.\n\n### In Summary\n\nIOMETE isn\u2019t just another data platform; it's a revolutionary approach to data management that champions user empowerment, security, and adaptability. If you\u2019re tired of complex, high-cost data solutions that leave you exposed and frustrated, IOMETE offers a refreshing alternative that combines the best of analytics with the peace of mind that your data is secure and under your control.\n\nFor more insights, explore their [website](https://www.iomete.com/) to discover how IOMETE can transform your data strategy.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/26085848352fe5a1cfaba0d44b7d07415f0625b3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191438Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=df52f7c221814d47cb5ba0fe8ae1e3bfe88ad9cf87cb4d87591fa4dc6da0f6a6",
+    "social_links": [
+        "https://www.linkedin.com/company/iomete/mycompany/",
+        "https://twitter.com/iometedata",
+        "https://www.facebook.com/iomete-100877938509421",
+        "https://www.crunchbase.com/organization/iomete",
+        "https://github.com/iomete"
+    ],
+    "logo_path": "data/logos\\IOMETE_logo.png"
+}

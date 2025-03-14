@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/decipher-ai",
+    "name": "Decipher AI",
+    "headline": "AI that analyzes your session replays to uncover issues and behavior.",
+    "batch": "W24",
+    "description": "Decipher AI builds AI agents that analyze session replays to understand user behavior, detect bugs and reveal insights\u2014helping teams fix what matters, improve products, and keep their customers happy.",
+    "activity_status": "Active",
+    "website": "https://getdecipher.com",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:b2b; industry:analytics; industry:enterprise-software; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Michael Rosenfield, Founder",
+            "description": "Michael was most recently a Sr. Product Manager where he led the development of the first native ads format on Google Maps, drove Google Search Ads optimization with $XB revenue growth, and was product lead for Pixel premium tier product line. He started his career at Google as an APM.",
+            "linkedin": "https://linkedin.com/in/rosenfieldmichael"
+        },
+        {
+            "name": "Rohan Das, Founder",
+            "description": "Co-founder @ Decipher AI. Previously a staff engineer and manager at Google on the YouTube Homepage, leading the team that rebuilt the Homepage service from scratch to handle billions of requests per day. Passionate about robust yet practical engineering, AI, and elegant design.",
+            "linkedin": "https://linkedin.com/in/rohan-d"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Decipher AI Overview**\n\n**Company Name**: Decipher AI  \n**Founded**: 2023  \n**Location**: San Francisco, CA  \n**Team Size**: 2 employees   \n**Y Combinator Batch**: W24  \n**Group Partner**: Dalton Caldwell  \n**Website**: [getdecipher.com](https://getdecipher.com)  \n**Tags**: Artificial Intelligence, Developer Tools, B2B, Analytics, Enterprise Software, San Francisco Bay Area  \n\n### Mission\nDecipher AI is on a straightforward yet ambitious mission: to develop AI tools that scrutinize session replays, exposing user behavior patterns and identifying bugs. By helping teams understand what\u2019s going wrong or right in real-time, Decipher AI aims to enhance products and improve user satisfaction.\n\n### What They Do\nDecipher AI builds advanced AI agents designed to analyze session replays\u2014think of these as recordings of user interactions on applications. It uses cutting-edge vision language models (LMs) to sift through vast amounts of viewing data, helping companies pinpoint where users run into bugs, how features are utilized, and what insights can enhance user experiences.\n\nHere are some of its key features and offerings:\n- **Real-time Problem Detection**: Automatically identifies when and where users encounter issues.\n- **Feature Usage Insights**: Quickly reveals how customers are interacting with various features and workflows.\n- **AI-Driven Timelines**: Generates session timelines that highlight crucial moments for easy analysis.\n- **Anomaly Detection**: Flags UX frustrations and unusual product behaviors as they arise.\n- **Comprehensive Debugging**: Provides technical context to aid developers in handling backend and frontend issues effectively.\n\n### Why Use Decipher AI?\nDecipher AI positions itself as a reliable partner for companies that prioritize user satisfaction. By simplifying how teams can understand user sessions and quickly address issues, it streamlines the development process, ultimately reducing churn and improving product quality.\n\n### Integration and Setup\nInstalling Decipher AI is remarkably simple. Developers just need to add a short script to their frontend\u2014no excessive engineering time wasted. Once set up, the AI will analyze application behavior and provide actionable insights.\n\n### Customer Engagement\nFor those interested in experiencing Decipher AI\u2019s capabilities, the company offers a free trial, provided there\u2019s a mutual fit. You can easily book a demo via their website.\n\n**In Summary**: Decipher AI is stepping into the market with a strong focus on improving user experiences through intelligent data processing. It's a timely solution for any enterprise aiming to refine their understanding of product interactions and enhance their offerings based on real user feedback. \n\nFor more information, visit their [website](https://getdecipher.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f9fb4c39a03fcfade2c970aa24b8358737edab5a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191115Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8cdd80add81d2760e2ab95c8e4e053944f03a10cd0a6bfd70efa1beb54c5440e",
+    "social_links": [
+        "https://www.linkedin.com/company/decipher-ai/",
+        "https://twitter.com/decipher_ai"
+    ],
+    "logo_path": "data/logos\\Decipher_AI_logo.png"
+}

@@ -1,0 +1,46 @@
+{
+    "links": "https://www.ycombinator.com/companies/matrubials-inc",
+    "name": "Matrubials",
+    "headline": "Developing milk-inspired therapeutics for infectious diseases",
+    "batch": "S21",
+    "description": "Matrubials is an anti-infectives company, focused on human milk peptides as therapeutics to address antimicrobial resistance and modern diseases. Currently the global rise in severe bacterial infections and the drying pipeline of effective treatments are burdensome for healthcare and economics. Sculpted by evolution, milk, first food for the newborn, provides an exemplary solution to address the nutritive and protective challenges an infant is faced with. The anti-pathogenic molecules from milk can be developed into therapeutics geared towards all-age diseases. Our first indication is bacterial vaginosis, a bacterial dysbiosis related inflammation that results in recurrent infections, disruption of homeostasis and long-term clinical complications in women of reproductive age, including but not limited to preterm births, fertility issues and increased rates of STDs. Our next inflection point is the evaluation of rapidly acting and selective candidate peptides in pre-clinical host impact and early safety studies, which can aid clinical and portfolio development towards topical applications.",
+    "activity_status": "Active",
+    "website": "https://matrubials.com/",
+    "founded_date": 2018.0,
+    "team_size": 4.0,
+    "location": "Davis, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:ai-powered-drug-discovery; industry:women's-health; industry:therapeutics",
+    "founders": [
+        {
+            "name": "Ishita Shah, Founder",
+            "description": "Ishita M. Shah, PhD, is the CEO and co-founder of Matrubials, a spin-out from UC Davis, Foods for Health Institute. As the Associate Director (Microbial Programs) at FFHI, she has investigated the role of milk components in human health, specifically in terms of infectious diseases. Previously, Dr. Shah has worked at Genentech (Senior researcher, infectious diseases) and Columbia University (Postdoctoral scientist), receiving several awards (PhD thesis prize -(UMBC'05)/ key researcher/ speaker).",
+            "linkedin": "https://www.linkedin.com/in/ishita-m-shah-ph-d-a6a9664/"
+        },
+        {
+            "name": "Bruce German, Founder",
+            "description": "Bruce is a PhD from Cornell University, Distinguished Professor at the University of California, Davis and director of the Foods for Health Institute. His research focuses on the evolution of lactation and the biological mechanisms by which milk supports the growth, development and performance of infants. He is a co-founder of companies into the therapeutic health space: Evolve Biosystems, BCD Bioscience, Digestiva Inc. and Matrubials.",
+            "linkedin": "https://www.linkedin.com/in/bruce-german-2632a28"
+        },
+        {
+            "name": "Carlito Lebrilla, Founder",
+            "description": "Dr. Carlito B. Lebrilla is a Distinguished Professor at the University of California, Davis in the Department of Chemistry and Biochemistry and Molecular Medicine in the School of Medicine.  His research is in Analytical Chemistry focused on mass spectrometry with applications to clinical glycoproteomic and biofunctional food.  He has co-founded startups in Food and Biotechnology including Evolve Biosystems, BCD Bio and InterVenn.",
+            "linkedin": "https://www.linkedin.com/in/carlito-lebrilla-9166429/"
+        },
+        {
+            "name": "David Mills, Founder",
+            "description": "David A. Mills is a Professor in the Department of Food Science & Technology at the UC Davis. Dr. Mills studies the molecular biology and ecology of bacteria that play an active role in gut health or fermented foods. He is the Peter J. Shields Endowed Chair (2012), a Fellow in the American Academy of Microbiology (2015), and has been named a Highly Cited Researcher by Clarivate Analytics since 2018.  He is also a co-founder of three start ups; Evolve Biosystems, BCD Bioscience, and Matrubials.",
+            "linkedin": "https://www.linkedin.com/in/david-a-mills-82256b4/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Matrubials is an innovative biotechnology company driven by the mission to develop milk-inspired therapeutics specifically aimed at battling infectious diseases. Founded in 2018 and hailing from the University of California, Davis, Matrubials has positioned itself within the critical healthcare landscape where antimicrobial resistance is becoming a significant concern. This issue is not just a medical challenge; it poses serious economic implications as well\u2014leading to a pressing need for creative solutions.\n\nThe company utilizes anti-pathogenic molecules derived from human milk peptides, which evolution has finely tuned to support the health of newborns. These unique therapeutic compounds are being developed for a range of conditions that extend well beyond pediatrics. Currently, Matrubials' initial focus is on bacterial vaginosis (BV), a common but often overlooked condition that affects about one in three women. BV can lead to various complications including urinary infections, fertility issues, and increased susceptibility to sexually transmitted infections.\n\nWhat sets Matrubials apart is its commitment to harnessing cutting-edge technology, particularly artificial intelligence, to streamline the discovery and validation of these bioactive molecules. Their approach aims to not only create safe and effective therapeutics but also to alleviate the healthcare burdens associated with bacterial infections across all age groups.\n\nWith a lean team of four and support through the esteemed Y Combinator (Batch S21), Matrubials is in an exciting growth phase. Their next steps involve pre-clinical studies to identify rapidly acting, selective peptides that could lead to efficient topical applications. Given the rising tide of bacterial infections in the world, this endeavor couldn\u2019t be more timely.\n\nIf you\u2019re interested in exploring their offerings or learning more about their mission, you can find them online at [Matrubials](https://matrubials.com/). They are not merely a biotech firm; they\u2019re at the forefront of a vital shift in how we approach health, balancing innovation in therapeutics with an innate understanding of what our bodies need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/58b6bd14e39644b4ae379678becfe3204f829273.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191526Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fd1a0b778bc727d3f4892c993a8c34df795c8a75befcad27e27d6c45a3ead409",
+    "social_links": [
+        "https://www.linkedin.com/company/89732317/admin/feed/posts/"
+    ],
+    "logo_path": "data/logos\\Matrubials_logo.png"
+}

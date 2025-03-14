@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/revyl",
+    "name": "Revyl",
+    "headline": "Proactive observability",
+    "batch": "F24",
+    "description": "Revyl is an observability platform that automatically catches and triages bugs before they reach production.",
+    "activity_status": "Active",
+    "website": "https://www.revyl.ai",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:b2b; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Landseer Enga, Founder",
+            "description": "Building proactive observability @ Revyl. Automatically catch and triage bugs before they reach production. Did consulting for real estate private equity after graduation. Studied computer science + business @ UBC",
+            "linkedin": "https://linkedin.com/in/landseerenga"
+        },
+        {
+            "name": "Anam Hira, Founder",
+            "description": "building proactive observability - catching bugs before they reach production @ Revyl. \n\nex Uber AI - dragoncrawl team (mobile testing using LLM). \n\nUBC cs + stat",
+            "linkedin": "https://linkedin.com/in/anam-h-5b37a2125"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Revyl: Proactive Observability at Its Core\n\nFounded in 2024 and making waves as part of Y Combinator's Batch F24, Revyl is a San Francisco-based startup with a clear mission\u2014**Proactive Observability**. They aim to transform the way developers handle bug detection and triage, ensuring that issues are caught and addressed before they ever reach production. Their platform is designed to address some of the most frustrating problems in the development lifecycle, namely unreliable end-to-end testing and the tedious process of root cause analysis.\n\n**The Problem**\n- **Brittle Testing Practices**: Many current end-to-end tests are flaky and inconsistent, leading to unreliable outcomes. They require excessive maintenance, which detracts from building new features.\n- **Fragmented Triaging**: Developers often find themselves sifting through a chaotic mix of testing and telemetry data, making it hard to pinpoint the source of bugs.\n\n**Revyl's Solution**\nRevyl offers a comprehensive **quality and control system** that streamlines the debugging process. Here's how they tackle the pain points:\n\n1. **Real User Interactions**: Their platform automatically generates tests that mimic actual user behavior, allowing for precise monitoring that catches issues before they impact users.\n   \n2. **Agentic Flows**: Tests are built to withstand UI changes, enabling seamless execution from local development to production.\n\n3. **Integrated Telemetry**: By connecting testing data with existing telemetry infrastructure, Revyl simplifies the root cause analysis, helping developers identify issues quickly.\n\n4. **Automated Triaging**: Revyl provides visibility across the entire stack, drastically reducing the guesswork involved in debugging.\n\n**Cross-Platform Testing**\nRevyl\u2019s capabilities extend across all major platforms:\n- **Web**: Ditch flaky tests from Selenium and Playwright. Revyl offers reliable testing for web applications.\n- **iOS**: Simplifies the complexities found in XCTest and EarlGrey with robust testing integrated into existing workflows.\n- **Android**: Simplifies testing for the diverse Android ecosystem, mitigating common pitfalls of existing frameworks like Espresso.\n\n**Save Time, Focus on Building**\nWith Revyl handling test creation and maintenance, developers can shift their focus back to what truly matters\u2014building great software. If a bug slips through, Revyl promises to identify it swiftly.\n\n**Team and Leadership**\nWith a compact team of three and Dalton Caldwell serving as their Group Partner, Revyl exemplifies the spirit of agility\u2014small but impactful.\n\n### Why Revyl?\nIf you\u2019re tired of flaky tests, inefficient debugging, and fragmented data insights, Revyl is poised to be the game-changer in your development process. \n[Book a demo today](https://www.revyl.ai/<https:/cal.com/landseer-enga/book-a-demo) and see how they can enhance your workflow.\n\nFor more info, check out their [website](https://www.revyl.ai) or connect with them on [LinkedIn](https://www.revyl.ai/<https:/www.linkedin.com/company/revylai/>) and [Twitter](https://www.revyl.ai/<https:/x.com/tryrevyl>). \n\nRevyl is not just another testing tool. It's a proactive partner that helps you ensure quality at every step of your development process.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a02e834afae2a5d7c142f10d5542e409f0f1306f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191722Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=da15841b9be79ab8db539385a013f2db6b18ab15a1b99e11550959eaaad69e26",
+    "social_links": [
+        "https://www.linkedin.com/company/revylai/",
+        "https://x.com/tryrevyl",
+        "https://github.com/RevylAI/"
+    ],
+    "logo_path": "data/logos\\Revyl_logo.png"
+}

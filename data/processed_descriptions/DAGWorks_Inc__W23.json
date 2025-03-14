@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/dagworks-inc",
+    "name": "DAGWorks Inc.",
+    "headline": "Open source tools & services for reliable AI Agents & AI Applications",
+    "batch": "W23",
+    "description": "We\u2019re on a mission to enable everyone to build reliable AI agents & AI applications. We're fully open source, and provide a unique integrated development & observability experience for those building anything in the AI space. This is the first step towards laying the foundations for Composable AI Systems; all AI systems need observability and introspection to be first class for them to be reliable.\r\n\nHow? We're standardizing how people write python to express data, ML, LLM, & agent workflows/pipelines/applications with lightweight frameworks. So that no matter the author, it'll be easy to collaborate, connect, and importantly in one line integrate observability and datastore needs. This speeds up time to production and reduces TCO because code remains easy to maintain and your data flywheel stays manageable. So you can increase the top line & bottom line of your business by delivering on AI that is reliable.\r\n\nWe've got two open source projects:\r\n- one focused on AI applications, called Burr (https://github.com/dagworks-inc/burr).\r\n- one focused on AI pipelines/workflows, called Hamilton (https://github.com/dagworks-inc/hamilton) see https://www.tryhamilton.dev\r\n\nBoth Hamilton & Burr come with self-hostable UIs (+ enterprise & SaaS offerings). With a one-line code change, you get versioning, lineage / tracing, cataloging, and observability out of the box with Hamilton. With Burr you get tracing, observability and persistence in a single line addition.",
+    "activity_status": "Active",
+    "website": "https://www.dagworks.io/",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Stefan Krawczyk, Founder",
+            "description": "A hands-on leader and Silicon Valley veteran, Stefan has spent the last 15 years working on data and machine learning systems at companies like Stitch Fix, Idibon, Nextdoor, and LinkedIn.\n\nBefore DAGWorks Inc., Stefan led the Model Lifecycle team at Stitch Fix, where its mission was to streamline the model productionization process for over 100+ data scientists. That's when he co-created https://github.com/dagworks-inc/hamilton, which he's excited to continue driving today with DAGWorks Inc.",
+            "linkedin": "https://www.linkedin.com/in/skrawczyk/"
+        },
+        {
+            "name": "Elijah ben Izzy, Founder",
+            "description": "Elijah has spent his career building tools for Data Scientists, Quantitative-minded engineers, and AI researchers. Prior to founding DAGWorks, Inc., Elijah built out Stitch Fix's machine learning platform, which was used and loved by over 100 data scientists. A core component of this was Hamilton (https://github.com/dagworks-inc/hamilton), an open-source framework for managing dataflows that DAGWorks's is now driving forward.",
+            "linkedin": "https://linkedin.com/in/elijahbenizzy"
+        }
+    ],
+    "status": true,
+    "generated_description": "**DAGWorks Inc.** is a relatively new player in the AI space, having been founded in 2022 and emerging from Y Combinator's Winter 2023 batch. Based in San Francisco, this startup is on a mission to make the creation of reliable AI agents and applications accessible for everyone through open source tools and services.\n\nThe essence of DAGWorks' approach lies in its belief that robust AI systems need both observability and introspection. They aim to facilitate this by standardizing how Python is utilized to express various workflows\u2014be it data processing, machine learning, language model applications, or agent-driven tasks. What sets them apart is their lightweight frameworks that allow easy collaboration across projects, while also seamlessly integrating observability and data storage needs\u2014resulting in faster production times and lower total cost of ownership.\n\nDAGWorks offers two main open source projects:\n1. **Burr** - focusing on AI applications ([Burr on GitHub](https://github.com/dagworks-inc/burr)).\n2. **Hamilton** - aimed at managing AI pipelines and workflows ([Hamilton on GitHub](https://github.com/dagworks-inc/hamilton), with an interactive demo at [Try Hamilton](https://www.tryhamilton.dev)).\n\nBoth Burr and Hamilton come equipped with self-hostable user interfaces, plus a suite of features that enable observability, versioning, and traceability\u2014all with just a simple code change. These tools not only enhance AI development but also help businesses scale their data applications effectively.\n\nWith a small but focused team of two, DAGWorks is navigating the complex landscape of AI with the backing of notable investors including Y Combinator. They are strategically positioned to meet the growing demand for reliable AI development tools, echoing a broader trend towards composable AI systems in the tech world.\n\nFor more insights and tools, you can visit their homepage at [DAGWorks.io](https://www.dagworks.io/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/832a746a90703a50ad42b39311d4aba3c417df03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8d6ce026e5d285e4ef6e5c2ffd1049eb60e2e8feae95ee6a0c544bccafbc8f34",
+    "social_links": [
+        "https://www.linkedin.com/company/dagworks-inc/",
+        "https://twitter.com/dagworks",
+        "https://github.com/dagworks-inc/"
+    ],
+    "logo_path": "data/logos\\DAGWorks_Inc._logo.png"
+}

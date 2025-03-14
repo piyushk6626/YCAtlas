@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/brewit",
+    "name": "Brewit",
+    "headline": "Conversational data analytics for every team",
+    "batch": "W23",
+    "description": "Brewit helps companies to create their role-specific BI agents, trained on their database (through feeding sample queries, metric definitions, column descriptions, etc. to create a semantic layer) that can answer data questions/provide data insights (write SQL, generate plots) through a natural language experience.",
+    "activity_status": "Active",
+    "website": "https://brewit.ai/",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "Palo Alto",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:analytics; industry:data-visualization; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Leo Lu, Co-Founder & CEO",
+            "description": "Leo Lu is the co-founder and CEO of Brewit. Before founding Brewit, Leo was a product manager at JP Morgan, working on an internal business intelligence platform that powers thousands of internal commercial bankers within the organization to find more upsell opportunities and to better prospect. He graduated from UCSD with a degree in Management Science and a minor in Data Science.",
+            "linkedin": "https://www.linkedin.com/in/songanglu/"
+        },
+        {
+            "name": "Mark Ding, Co-Founder, CTO",
+            "description": "Mark Ding is the co-founder and CTO of Brewit. Before Brewit, he was a data engineer on Tesla's data platform team, where his team fielded hundreds of ad-hoc data requests monthly. They were relied upon for writing complex and cost-effective SQL queries, creating plots and dashboards, or providing quick insights into specific datasets. This experience inspired Mark to start Brewit to tackle these challenges. He graduated from UCSD with a degree in Data Science.",
+            "linkedin": "https://www.linkedin.com/in/kailingding/"
+        },
+        {
+            "name": "Sam Ding, Founder",
+            "description": "Sam Ding is the co-founder of Brewit. Before Brewit, he was a software engineer at Apple, building internal platforms on the Wireless team. Before He graduated from the University of Washington with a degree in Human-Computer Interaction.",
+            "linkedin": "https://www.linkedin.com/in/kaishan-ding/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Brewit**\n\nBrewit, founded in 2023 and part of Y Combinator Batch W23, is a fresh player in the realm of data analytics, and it\u2019s positioned firmly in the heart of Palo Alto. The company operates with a sleek team of four, which gives it that agile startup feel\u2014perfect for innovation. Its mission is clear: to provide conversational data analytics that empower every team to make data-driven decisions more efficiently.\n\n### What Does Brewit Do?\n\nAt its core, Brewit enables companies to create role-specific business intelligence (BI) agents tailored to their databases. These agents utilize a semantic layer that is constructed by feeding sample queries, metric definitions, and column descriptions, allowing them to generate insights, craft SQL queries, and produce visualizations through a natural language interface. This transforms the sometimes daunting task of data analysis into something more accessible.\n\nWith Brewit, users can chat with their databases\u2014as if they were having a conversation\u2014and extract meaningful insights without needing to write complex queries. The platform integrates with various databases and data warehouses, including PostgreSQL, MySQL, Snowflake, and BigQuery, making it versatile for different technical environments.\n\n### Key Features\n\n1. **Self-Service Analytics**: Brewit guides users through a self-service model, letting them access and analyze data swiftly\u2014claiming to speed up decision-making by tenfold.\n2. **Natural Language Interaction**: Users can ask questions in plain language, and Brewit handles the SQL behind the scenes.\n3. **Robust Data Visualizations**: The platform can automatically suggest the most relevant charts for your data questions, simplifying visual reporting.\n4. **Built-in Data Catalog**: Brewit ensures consistency and accuracy in answers by maintaining an automated semantic layer, making data management effortless.\n\n### Extras\n\nBrewit also allows users to create reports as easily as writing a document, thanks to its user-friendly, Notion-style notebook editor. This focus on storytelling with data enhances the overall utility of raw information, transforming it into actionable insights.\n\n### Conclusion\n\nBrewit is emblematic of how startups are changing the landscape of data analytics. It\u2019s not just about having data; it's about making that data talk back to you. With its focus on user experience and powerful integrations, Brewit positions itself as a compelling tool for teams that want to harness the power of data without the complexity. If you're looking to try it out, head over to their [website](https://brewit.ai/) to get started.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ef33b0b79e585f5820ca0ce4c2e9f93bb5e7a11f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191032Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cd37d18b1739bb9dd6306460eda49662cbcf3a93fc4761b1d5ca5d22f8e3457c",
+    "social_links": [
+        "https://www.linkedin.com/company/brewit",
+        "https://twitter.com/BrewitAI"
+    ],
+    "logo_path": "data/logos\\Brewit_logo.png"
+}

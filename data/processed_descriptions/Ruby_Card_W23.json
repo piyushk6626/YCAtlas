@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/ruby-card",
+    "name": "Ruby Card",
+    "headline": "Neobank for e-commerce businesses",
+    "batch": "W23",
+    "description": "Ruby is a neobank that offers e-commerce businesses a flexible spend management solution and direct integrations with commerce platforms. \r\n\nBy combining banking and commerce data, Ruby provides businesses with a real-time, unified view of their financial health and money movement, empowering them to make better financial decisions and scale their operations.",
+    "activity_status": "Active",
+    "website": "https://www.spendruby.com",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "New York",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:b2b; industry:e-commerce; industry:neobank; location:new-york",
+    "founders": [
+        {
+            "name": "Shariar Kabir, Founder",
+            "description": "CEO of Ruby Card. Former engineer @ Salesforce, Heroku and NFL.",
+            "linkedin": "https://www.linkedin.com/in/shariar-kabir/"
+        },
+        {
+            "name": "Miguel Acero, Founder",
+            "description": "CTO of Ruby Card. Former engineer @ Google & HBO Max",
+            "linkedin": "https://www.linkedin.com/in/miguel-acero-238b88148/"
+        },
+        {
+            "name": "Jordan Yaqoob, Founder",
+            "description": "CFO of Ruby Card. Former engineer @ Capital One",
+            "linkedin": "https://www.linkedin.com/in/jordan-yaqoob-49b7b1152/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Ruby Card is an innovative neobank designed specifically for e-commerce companies, founded in 2022 and currently part of Y Combinator's W23 batch. Located in New York and staffed by a small but driven team of three, Ruby Card seeks to empower internet-based businesses by offering a flexible spend management solution tightly integrated with popular commerce platforms.\n\nAt its core, Ruby consolidates banking and e-commerce data, giving businesses a real-time, holistic view of their financial health. By facilitating better decision-making, Ruby equips users to streamline their operations and scale effectively. The platform boasts an all-in-one financial toolkit that encompasses banking, analytics, chargeback resolution, and integrated accounting \u2014 all essential elements for modern online enterprises.\n\nDespite its youth, Ruby Card is ambitious. Its mission is to usher in a new era of digital finance, where data-driven insights enable e-commerce businesses to operate more efficiently. Looking to the future, Ruby's vision includes continuous enhancements to its services and expanding its reach within the fintech sector, thereby offering even more value to its clientele.\n\nIf you\u2019re an e-commerce entrepreneur looking for a robust financial solution that simplifies spending and integrates seamlessly with your existing workflow, Ruby Card is definitely worth exploring. For more information, check out their website at [SpendRuby](https://www.spendruby.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/535fcfdca39cbaa7c6bbf81264fa3491a2a6dadc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191904Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7255899b9c9eb675ee2802252ed21eadba11509bffd4f7aaa997457a5a0e2340",
+    "social_links": [
+        "https://www.linkedin.com/company/ruby-card"
+    ],
+    "logo_path": "data/logos\\Ruby_Card_logo.png"
+}

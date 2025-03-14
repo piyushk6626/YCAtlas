@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/asayer",
+    "name": "OpenReplay",
+    "headline": "Open-source, self-hosted, session replay tool for developers.",
+    "batch": "S19",
+    "description": "Open-source alternative to FullStory and LogRocket. Self-hosted for a complete control over your data and costs.",
+    "activity_status": "Active",
+    "website": "https://www.openreplay.com/",
+    "founded_date": 2018.0,
+    "team_size": 11.0,
+    "location": "Paris, France",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:open-source",
+    "founders": [
+        {
+            "name": "Mehdi Osman, Founder",
+            "description": "CEO of OpenReplay",
+            "linkedin": "https://www.linkedin.com/in/mehdi-osman-5456174"
+        }
+    ],
+    "status": true,
+    "generated_description": "### OpenReplay: The Open-Source Session Replay Tool\n\n**Overview**  \nOpenReplay is an innovative open-source session replay tool designed specifically for developers. Founded in 2018 and based in Paris, France, this company emerged as a self-hosted alternative to proprietary tools like FullStory and LogRocket. Its mission focuses on giving developers complete control over their data and costs, allowing them to truly own their analytics.\n\n**Founding and Growth**  \nOpenReplay is a proud member of Y Combinator's Batch S19, reflecting its potential and entrepreneurial spirit. With a compact team of 11 employees, it\u2019s nimble enough to adapt quickly while offering robust features. The company\u2019s holistic approach ensures it meets a wide array of developer needs, reinforcing its commitment to the developer community.\n\n**Core Offerings**  \nThe tools provided by OpenReplay help in tracking user interactions and improving product experiences. Key features include:\n\n1. **Session Replay**: Explore user interactions to identify pain points and optimize the user experience.\n2. **Product Analytics**: Analyze user behavior through funnels, heatmaps, and user activity data to better meet KPIs.\n3. **DevTools**: Debug with direct insights into errors, logs, and performance metrics to quickly identify and resolve issues.\n4. **Performance Monitoring**: Keep an eye on system performance to maintain a seamless user experience.\n5. **Co-Browsing**: Enhance customer support by engaging users in real-time while they navigate your site.\n\n**Deployment Options**  \nOpenReplay offers flexibility with deployment. Users can choose to self-host the tool for complete data privacy or opt for a cloud solution, catering to various business needs. This adaptability makes it appealing for teams looking to maintain control over sensitive user data.\n\n**Community and Compliance**  \nWith over 9,700 stars on GitHub, OpenReplay is building a vibrant community of developers embracing its open-source ethos. The platform prioritizes privacy and security, implementing industry-standard measures to ensure data is encrypted and safeguarded.\n\n**Target Audience**  \nOpenReplay specifically thrives in environments where a deep understanding of user interactions is critical. Engineering teams, product managers, customer support, and design teams all benefit from the insights provided by the tool. By simplifying the process of reviewing user experiences, OpenReplay streamlines product development and enhances support.\n\n**Conclusion**  \nOpenReplay stands out as a powerful ally for developers, marrying flexibility with comprehensive analytics capabilities. By merging open-source technology with profound insights into user behavior, it truly empowers teams to iterate and improve their products while keeping their data private. If you're looking to elevate your product\u2019s user experience without surrendering control over your data, OpenReplay is certainly worth considering. \n\nFor more information, check out their website: [OpenReplay](https://www.openreplay.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e46de9ab565d7b10514c61f2f5177850be03635b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191613Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e9930e41fe801d6e2f669257e53c49585b59f16a3ff52e285d1525d4f9c4568d",
+    "social_links": [
+        "https://www.linkedin.com/company/18257552",
+        "https://twitter.com/openreplayhq",
+        "https://www.crunchbase.com/organization/asayer",
+        "https://github.com/openreplay"
+    ],
+    "logo_path": "data/logos\\OpenReplay_logo.png"
+}

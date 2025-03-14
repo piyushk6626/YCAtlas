@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/soff",
+    "name": "Soff",
+    "headline": "Supply Chain OS for manufacturing companies.",
+    "batch": "S24",
+    "description": "Soff is a supply chain OS for manufacturing companies. We unify supply chain data and automate core workflows, such as data entry, requesting quotes, comparing quotes, and issuing purchase orders. Our customers save dozens of hours a week spent on repetitive manual tasks.",
+    "activity_status": "Active",
+    "website": "https://soff.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:manufacturing; industry:supply-chain; industry:procurement; industry:enterprise-software; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Raban von Spiegel, Founder",
+            "description": "Co-founder and CEO at Soff. Building AI agents for supply chain teams at enterprise-scale industrials. Stanford Engineer and German National Merit Foundation scholar, previously studied at MIT, CDTM, and TUM. Bootstrapped investment tool to $2m+ AUM, consulted Fortune 100 on supply chain spend. Chaired Germany's largest student consultancy with 7-figure annual revenue.",
+            "linkedin": "https://linkedin.com/in/raban"
+        },
+        {
+            "name": "Berni Hausleitner, Founder",
+            "description": "Co-founder and CTO at Soff. Building AI agents for supply chain teams at enterprise-scale industrials. Previously a Full-Stack Engineer on Tesla\u2019s Autopilot team, developing AI tooling. Published AI Research at Stanford, holding M.Sc. in Robotics and Electrical Engineering from TUM. Licensed German car mechanic.",
+            "linkedin": "https://www.linkedin.com/in/hausleitnerb/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Soff: Revolutionizing Supply Chain Management for Manufacturers**\n\nFounded in 2024 and hailing from the innovative heart of San Francisco, Soff is on a mission to transform the way manufacturing companies handle their supply chains. Think of it as a supply chain operating system (OS) designed to streamline operations through the power of automation and data unification. The goal is not just ambitious; it's practical\u2014saving teams countless hours that previously went into mundane manual tasks.\n\n**What Does Soff Do?**\nSoff specializes in automating key workflows such as:\n\n- **Data Entry:** Bye-bye, tedious data entry. Soff automates the extraction of data from PDFs, emails, and spreadsheets directly into your ERP systems.\n- **Vendor Communication:** It keeps your vendor interactions seamless by automating follow-ups on purchase orders and shipping statuses.\n- **Request for Quotes (RFQ):** Imagine being able to request and compare quotes with just a click\u2014no more juggling spreadsheets.\n- **Invoice Reconciliation:** Say goodbye to mismatches with automated three-way matching of invoices.\n- **Spend Analysis:** Helps optimize procurement spending to uncover cost savings.\n\nAs Florian Muschaweckh, Team Lead for Supply Chain at NavVis, puts it: \"We use Soff to fully automate manual data entry. Engineers and my entire team love using it. We literally save dozens of hours every week.\"\n\n**How Is Soff Positioned?**\nParticipating in Y Combinator Batch S24, Soff is tagged with descriptors like 'b2b,' 'manufacturing,' 'supply-chain,' and 'enterprise software'\u2014a clear signal of its focus and market niche. With a compact team of just two people, it's a small but mighty operation under the mentorship of Nicolas Dessaigne from Y Combinator.\n\n**Noteworthy Achievements**\nIn its early stages, Soff has already processed an impressive 27,446 quotes, showcasing its capability and the trust it\u2019s earning within the industry.\n\n**Joining Forces**\nSoff integrates smoothly with various software stacks, ensuring that manufacturers can plug in their existing systems without major overhauls.\n\n**Contact and Learn More**\nIf you're curious to see this innovation in action, you can book a demo [here](https://soff.ai/<https:/cal.com/hausleitner/meet>) or log in directly at [Soff's platform](https://soff.ai/<https:/app.soff.ai/>). \n\nIn summary, Soff isn\u2019t just another SaaS product; it's a game-changer for manufacturing companies looking to enhance efficiency and reduce the burden of manual tasks. In an era where time is money, embracing solutions like Soff might just be the edge manufacturers need to stay competitive.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e637d25914569ba122fdd3ed647ecdc16e25a87e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191934Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7153930df25b53cf939a1f47ef141a448fe2e0dd56f5bba9483033fc3908895b",
+    "social_links": [
+        "https://www.linkedin.com/company/soff-ai",
+        "https://www.x.com/soff_hq"
+    ],
+    "logo_path": "data/logos\\Soff_logo.png"
+}

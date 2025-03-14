@@ -1,0 +1,28 @@
+{
+    "links": "https://www.ycombinator.com/companies/worldql",
+    "name": "WorldQL",
+    "headline": "Building Dreamlab.gg \u00e2\u0080\u0093 AI-Native Multiplayer Game Engine for the Web",
+    "batch": "W22",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://www.worldql.com/",
+    "founded_date": 2021.0,
+    "team_size": 3.0,
+    "location": "Denver, CO",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:gaming",
+    "founders": [
+        {
+            "name": "Jackson Roberts, Founder",
+            "description": "Software engineer. My interests include distributed systems (both computer and IRL), novel business models, and discovering new problems. CU Boulder '21.",
+            "linkedin": "https://www.linkedin.com/in/jackson-roberts/"
+        }
+    ],
+    "status": true,
+    "generated_description": "WorldQL is a burgeoning company founded in 2021, nestled in the vibrant city of Denver, CO. Part of Y Combinator's W22 batch, it's on a mission to make multiplayer game creation accessible to everyone through their innovative platform, Dreamlab.gg\u2014a tool designed for developers to easily build, test, deploy, and host games with AI-powered asset generation.\n\nTheir guiding philosophy is simple yet compelling: they believe multiplayer games are not just entertainment; they're a vital social good that fosters connection and creativity. By empowering developers, WorldQL aims to maximize joy creation in the gaming community.\n\nCurrently operating with a small team of three, WorldQL is spearheaded by Jared Friedman as their Group Partner. They're tagged in the developer-tools and gaming sectors, aligning perfectly with their mission to empower game development.\n\nWorldQL's standout product, Dreamlab, is pitched as the fastest way to bring multiplayer games to life, integrating TypeScript for gameplay scripting along with instant server hosting. Additionally, they offer the WorldQL Server, an open-source 3D database and messaging hub that previously powered their Minecraft scaling solution, Mammoth.\n\nCuriously, their name, \"WorldQL,\" started off as a playful nod to SQL, originally describing a spatial database product. Nowadays, it doesn't stand for anything specific\u2014though they humorously suggest it could mean \u201cWorld Quantization Labs.\u201d \n\nIf you're looking to dive into multiplayer game development or have ideas for the company, WorldQL is readily inviting collaboration through their website. Check them out at [worldql.com](https://www.worldql.com/) and join the journey of turning abstract gaming ideas into reality.",
+    "logo": "/logos/medium/missing.png",
+    "social_links": []
+}

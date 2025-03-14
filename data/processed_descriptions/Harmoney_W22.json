@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/harmoney",
+    "name": "Harmoney",
+    "headline": "Electronic bond trading platform for institutions in India",
+    "batch": "W22",
+    "description": "Harmoney is a bond trading platform for financial institutions and asset managers in India. We are building the infrastructure to digitize bond markets and make bond trading more efficient.",
+    "activity_status": "Active",
+    "website": "https://www.harmoney.in/",
+    "founded_date": 2021.0,
+    "team_size": 25.0,
+    "location": "India",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:marketplace; industry:b2b",
+    "founders": [
+        {
+            "name": "Aditya Mehta, Founder",
+            "description": "I have been working at the intersection of financial services and technology for more than 8 years, first as a quant at Goldman Sachs and then in the core team at a lending startup Paysense (acquired for $185 Mn by Payu). I love finding problems in financial systems and figuring out solutions to improve them. I am a silver medalist from IIT Bombay.",
+            "linkedin": "https://www.linkedin.com/in/adityamehta1990/"
+        },
+        {
+            "name": "Amal Dani, Founder",
+            "description": "I enjoy solving problems from a data and technology perspective. Before Harmoney, I built portfolio management solutions using tech at Goldman Sachs and data-driven trading strategies at a $2 Bn hedge fund. I am a computer science grad from IIT Bombay.",
+            "linkedin": "https://www.linkedin.com/in/amal-dani-cfa-845555107/"
+        },
+        {
+            "name": "Omkar Ghaisas, Founder",
+            "description": "After graduation, I have spent the last eight years of my career in Corporate Finance and Wealth Management. I enjoy learning about and solving financial problems. I predominantly look after business development at Harmoney.",
+            "linkedin": "https://www.linkedin.com/in/omkar-ghaisas/"
+        }
+    ],
+    "status": true,
+    "generated_description": "## Harmoney: Simplifying Bond Trading in India\n\nHarmoney is an innovative electronic bond trading platform designed specifically for financial institutions and asset managers in India. Founded in 2021 and part of Y Combinator's Winter 2022 batch, Harmoney is on a mission to digitize and streamline the bond market, making trading not only more efficient but also significantly more integrated.\n\n### What They Do\n\nHarmoney offers a variety of products tailored for fixed income trading, catering primarily to banks, mutual funds, broker-dealers, and wealth managers. Their key offerings include:\n\n- **DART**: A robust platform that allows users to trade fixed income securities seamlessly from a single screen. It boasts features like AI-powered quote detection, ticketing, and integration with major exchanges.\n  \n- **FIND**: A rich database containing comprehensive reference data for over 30,000 securities, complete with bond cashflows and a price calculator, giving traders access to real-time and historical data.\n\nThese solutions aim to provide comprehensive market information while also facilitating effective communication within the trading community.\n\n### Stats That Matter\n\n- **150+ Participants**: Harmoney connects a diverse range of financial players.\n- **5000+ Cr Processed Volume**: They have an impressive trading volume that reflects their growing prominence.\n- **30,000+ Bonds**: A vast selection of bonds available on their platform, catering to various trading needs.\n\n### Team and Vision\n\nThe Harmoney team comprises 25 talented individuals dedicated to transforming India's bond trading landscape. They operate out of Mumbai, under the guidance of Group Partner Harj Taggar. The company\u2019s focus is clearly on enhancing efficiency and fostering collaboration within the bond markets.\n\n### Conclusion\n\nIf you're involved in the financial sector and looking to leverage the power of technology for bond trading, Harmoney provides an essential platform that could elevate your trading experience. They\u2019re poised to redefine how bond markets function in India, making transactions quicker, clearer, and ultimately more profitable.\n\nFor more information, check out their [website](https://www.harmoney.in/) or connect with them on [LinkedIn](https://www.linkedin.com/company/harmoney/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a4bebe7ecca6af12db1308971219553f628b8217.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191412Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bacc43776f6cc7534c4305fc5e776da91df9677f1dd0ac25fc92c345299c7384",
+    "social_links": [
+        "https://www.linkedin.com/company/harmoney/",
+        "https://twitter.com/harmoney_in"
+    ],
+    "logo_path": "data/logos\\Harmoney_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/spruceid",
+    "name": "SpruceID",
+    "headline": "SpruceID lets users control their data across the web.",
+    "batch": "W21",
+    "description": "SpruceID lets users control their data across the web. Instead of people signing into platforms, we imagine platforms should sign into people\u2019s data vaults. We implement this pattern into digital wallet ecosystems for governments, enterprises, and blockchains. We believe that architectures that enable individual autonomy in the digital world are necessary for free societies and dynamic economies to thrive.",
+    "activity_status": "Active",
+    "website": "https://www.spruceid.com",
+    "founded_date": 2020.0,
+    "team_size": 25.0,
+    "location": "New York",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:govtech; industry:crypto-web3; industry:identity; industry:privacy; industry:infrastructure; location:new-york",
+    "founders": [
+        {
+            "name": "Wayne Chang, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/waynebuilds"
+        },
+        {
+            "name": "Gregory Rocco, Founder",
+            "description": "Brooklyn native. \n\nHi \u2013 my name is Rocco. I\u2019m a digital humanist and Joycean by education, a musician by practice, and a technologist by trade. I am a co-founder of Spruce. In a past life, I was an associate producer for a children\u2019s media company, an editor in chief and journalist, a startup consultant on product and strategy, and eventually a strategy lead for a team at ConsenSys focused on digital identity.",
+            "linkedin": "https://www.linkedin.com/in/gregoryvrocco/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**SpruceID Overview: Mastering Digital Identity Control**\n\nFounded in 2020 and part of Y Combinator's W21 batch, SpruceID is based in New York and has quickly gathered a talented team of 25. Their mission? To empower individuals to take control of their personal data across the web. Think of it as shifting the power dynamic: instead of users logging into various platforms, platforms should gain access to their data vaults. This twist on digital identity positions SpruceID not just as a product but as a critical building block for a free society in the digital age.\n\n### What They Do \n\nSpruceID's offerings include a suite of products designed for the issuance and verification of digital credentials. Their flagship product, **Credible**, is a robust end-to-end solution for verifiable identities\u2014think of digital driver's licenses and other necessary credentials in our increasingly digital world. They also provide **SpruceKit**, an open-source library to help developers integrate these capabilities into their applications.\n\n#### Key Solutions:\n- **Issuance**: Digital IDs, passes, permits, and supply chain credentials.\n- **Verification**: Secure methods for online and in-person checks of digital credentials.\n\n### Industry Reach\n\nSpruceID isn\u2019t just targeting a single market; their solutions are applicable across several sectors including government, healthcare, education, financial services, marketplaces, and the emerging Web3 space. This versatility not only broadens their impact but also reinforces the importance of privacy and individual autonomy in those domains.\n\n### The Foundation of Their Mission\n\nAt SpruceID, privacy-by-design is not just a buzzword\u2014it's embedded in their architecture. They believe in creating frameworks that enhance individual autonomy, a necessity for fostering dynamic economies and vibrant, free societies. Their journey has led them to partner with notable organizations, including the California DMV for mobile driver's licenses, showcasing their expertise in crafting secure and user-friendly digital identities.\n\n### The Big Picture\n\nAs we navigate an age where AI can easily generate fake identities, SpruceID addresses the looming identity crisis head-on. Their techniques and security features are designed to withstand these challenges, ensuring genuine interactions in the digital realm.\n\nIn essence, SpruceID is redefining how we perceive and handle digital identity. Their vision transcends mere technology; it's about ensuring that people retain control over their identities, a principle that resonates deeply in today\u2019s fast-evolving digital landscape.\n\nFor more information, visit their website at [SpruceID.com](https://www.spruceid.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bc271ec2040317e2825e0e93400ac65f41f7e50f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191944Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a70e1b5ea5a979303f8c750c9182eec72042dff761b989e77597c544a542bcdb",
+    "social_links": [
+        "https://www.linkedin.com/company/sprucesystemsinc/",
+        "https://twitter.com/spruceid",
+        "https://www.crunchbase.com/organization/spruce-systems",
+        "https://github.com/spruceid"
+    ],
+    "logo_path": "data/logos\\SpruceID_logo.png"
+}

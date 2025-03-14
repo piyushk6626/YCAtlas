@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/melty",
+    "name": "Melty",
+    "headline": "Chat with a bunch of AIs at once",
+    "batch": "S24",
+    "description": "We're building Chorus, a Mac app that lets you chat with O1, Claude, Perplexity, Deepseek, and others on your desktop. Find the right model for each task, get more creativity without copy\u2013pasting prompts, and get more reliability without manually comparing model outputs.",
+    "activity_status": "Active",
+    "website": "https://melty.sh",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Charlie Holtz, Founder",
+            "description": "Co-founder & CEO at Melty. \n\nPreviously led growth at Replicate, where I built apps with millions of users. Before that I was a quantitative dev at a team at Point72.\n\nI studied cognitive neuroscience at Brown, where I also played Ultimate Frisbee (and met my co-founder, Jackson).",
+            "linkedin": "https://www.linkedin.com/in/charlieholtz"
+        },
+        {
+            "name": "Jackson de Campos, Founder",
+            "description": "I came from the ML infrastructure team at Netflix, where I scaled inference for video understanding models across Netflix\u2019s catalog. Now working on Melty, an AI chat app.",
+            "linkedin": "https://www.linkedin.com/in/jacksondecampos/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Melty: The AI Conversation Hub for Mac Users**\n\nFounded in 2024 and hailing from the innovative ecosystem of Y Combinator's Batch S24, Melty is all about transforming the way we interact with artificial intelligence. Operating out of San Francisco and backed by a lean team of just two, Melty is geared toward those who love to harness the power of generative AI without the hassle of traditional tools.\n\n### **What\u2019s Melty Up To?**\n\nAt the core of Melty\u2019s mission is the desire to enable users to chat with multiple AI models simultaneously. The initial product, named **Chorus**, is a Mac application that lets users engage with an array of AI models\u2014including O1, Claude, and Perplexity\u2014all from their desktop. This innovative platform is designed to help users find the right AI for specific tasks, fostering creativity while eliminating the tedious need for copy-pasting prompts and manually sifting through outputs.\n\nMelty isn\u2019t stopping with Chorus; they\u2019ve rolled out features like **Ambient Chat**, which allows users to chat with an AI that can see and interact with their screen in real-time. This opens up a realm of possibilities for more intuitive and responsive AI interactions.\n\n### **More Than Just Chat**\n\nMelty also boasts tools like **Bartleby**, which lets users share their screen with an AI, enhancing collaborative efforts and efficiency. Additionally, their **Melty** chat-first code editor aims to streamline coding processes by integrating AI capabilities right into the development workflow.\n\n### **Why Melty?**\n\nMelty positions itself as an unorthodox tech company for what it self-describes as \u201cweirdos and freaks\u201d \u2014 those who thrive on the cutting edge of technology and creativity. In the ever-evolving landscape of generative AI, Melty stands out with its straightforward approach: providing tools that are not only functional but also inspire users to push the boundaries of how they think and create.\n\nTo explore more about their offerings, check out their website at [melty.sh](https://melty.sh).\n\nIn essence, Melty isn\u2019t just another startup; it's a platform aimed at redefining your relationship with AI, making it accessible, engaging, and downright fun. The future looks bright for this small but mighty team pushing the boundaries of what AI can do on your Mac.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/abf9773f43b6b3e710a69115041ed263e68173e4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191530Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e6db1df175f0c232f453c29611aeb41306f4a5f221240b27f75d9085aa82b703",
+    "social_links": [
+        "https://www.linkedin.com/company/meltylabs",
+        "https://x.com/charliebholtz",
+        "https://github.com/meltylabs"
+    ],
+    "logo_path": "data/logos\\Melty_logo.png"
+}

@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/turntable",
+    "name": "Turntable",
+    "headline": "AI-native operating system for analytics teams",
+    "batch": "W23",
+    "description": "Turntable allows less technical analysts to build their own data pipelines. Companies use our AI-native workspace to scale their analytics without hiring more engineers.\r\n\nIf you use DBT or Airflow- or you're building out your data stack for the first time- please reach out!",
+    "activity_status": "Active",
+    "website": "https://www.turntable.so",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "New York",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:new-york",
+    "founders": [
+        {
+            "name": "Justin Leder, Founder",
+            "description": "Justin most recently led the Commercial Data Science team at Cruise. Previously, he worked in a variety of data, strategy, & ops roles at Cruise and McKinsey.",
+            "linkedin": "https://www.linkedin.com/in/justin-leder/"
+        },
+        {
+            "name": "Ian Tracey, Founder",
+            "description": "Ian is a co-founder & CTO of Turntable.\n\nIan has spent years as a tech lead where he led the development of some of Stripe's hosted UI products and the business ML platform at Pinterest. Previously, Ian worked on autonomous drone software at Latitude and was the founder of Hack Arizona, one of the largest collegiate hackathons in the US with over 1100 hackers attending annually.",
+            "linkedin": "https://www.linkedin.com/in/itracey/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Turntable: Empowering Analysts with AI-Native Solutions**\n\nFounded in 2023 and hailing from Y Combinator Batch W23, Turntable is a New York-based startup on a mission to revolutionize the analytics landscape. Turntable is like an AI-powered hub for analytics teams, designed specifically to let less technical analysts build their own data pipelines without the need to involve more engineers. It allows companies to scale their analytics efforts efficiently, particularly beneficial for those using tools like DBT or Airflow\u2014or for newcomers building their data stack from scratch.\n\nAt its core, Turntable offers a collaborative workspace where users can develop, deploy, and monitor their reporting stack, streamlining what typically takes countless hours into a fraction of the time. The platform features a powerful data IDE with a purpose-built code editor that supports common tools and languages like dbt Core and SQL.\n\nTurntable benefits from some nifty features:\n\n- **Automated Cataloging:** Sync sources and dashboards with updated metadata.\n- **Column-Level Lineage:** Trace data origins through the entire pipeline, improving transparency and accountability.\n- **Multiplayer Projects:** Collaborate with teammates in real-time, making team efforts more integrated and effective.\n- **Virtual Data Branches:** Modify and deploy changes to BI tools instantly, preventing data duplication.\n- **End-to-End Visibility:** Track data quality across the board so you can identify and solve issues before they reach stakeholders.\n\nThis robust platform is already trusted by a number of reputable data teams, including Spotify, Louis Vuitton, and HubSpot. The simplicity of setting up Turntable\u2014taking merely five minutes\u2014makes it an inviting option for organizations looking to supercharge their analytics.\n\nWith a small but mighty team of three, backed by influential partners like Michael Seibel, Turntable is poised for growth in a data-centric world. If you find yourself needing an efficient way to enhance your analytics capabilities, whether it's through improved modeling or monitoring, you might want to check out Turntable\u2019s offerings.\n\nFor more information or to get early access, visit [Turntable\u2019s website](https://www.turntable.so).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9ab1a9d5e159ae8de5b4afe701a0c210d4bf1b27.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192032Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=184ace6b80f5e8213c1efc983d4a4a4e08555cf12bdac1e014c22bf0b5a28b30",
+    "social_links": [
+        "https://www.linkedin.com/company/turntabledata",
+        "https://twitter.com/turntabledata"
+    ],
+    "logo_path": "data/logos\\Turntable_logo.png"
+}

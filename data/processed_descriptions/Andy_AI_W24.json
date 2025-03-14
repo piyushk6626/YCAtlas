@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/andy-ai",
+    "name": "Andy AI",
+    "headline": "Faster clinical documentation for home health nurses",
+    "batch": "W24",
+    "description": "Andy is AI software that completes documentation for nurses doing home visits. Our software saves $8B a year; Tiantian was previously a PM at Google\u2019s healthcare business and Max was a staff engineer on the health team at Apple. \r\n\nAndy benefits nurses and the agencies that employ them. Agencies that use Andy see up to 45% more detailed charts, 2x greater nurse productivity, and timely submission (no more billing delays!) With Andy, clinicians get their evenings back. \r\n\nHome health is the fastest growing segment of healthcare, doubling to $251B by 2031. Combined with recent nursing shortages and burnout, we\u2019re seeing not just urgency, but excitement and joy, around adopting AI for home health.",
+    "activity_status": "Active",
+    "website": "https://with-andy.com",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:health-tech; industry:b2b; industry:healthcare; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Tiantian Zha, Founder",
+            "description": "Tiantian is the CEO and co-founder of Andy AI. Princeton CS >> Google APM >> Verily (Google Life Sciences). She was the first PM on Debug, an AI and robotics moonshot to eliminate Dengue fever, which affects up to 400M people each year. The product is commercially launched and achieves up to 80% reduction in disease.",
+            "linkedin": "https://linkedin.com/in/tiantianzha"
+        },
+        {
+            "name": "Max Akhterov, Founder",
+            "description": "Max is the CTO and co-founder of Andy AI. Previously, he was a staff engineer at Apple where he built health sensing algorithms for the Apple Watch. The AI model he developed is running on millions of Apple Watch devices passively screening for signs of atrial fibrillation. Max holds a Ph.D in Physics from UC Irvine and a B.S. in Applied Physics from UC Santa Cruz.",
+            "linkedin": "https://linkedin.com/in/akhterov"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Andy AI: Revolutionizing Home Health Documentation\n\n**Company Overview**\nAndy AI is carving its niche in the healthcare industry by streamlining clinical documentation for home health nurses. Founded in 2023 and part of Y Combinator Batch W24, this San Francisco-based startup was born from the vision of Tiantian, a former Product Manager at Google\u2019s healthcare division, and Max, a veteran engineer from Apple\u2019s health team. Their mission? Deliver faster clinical documentation to alleviate the burdens on nurses making home visits.\n\n**The Challenge Addressed**\nIn the ever-expanding world of home healthcare, where the market is projected to double to $251 billion by 2031, the need for effective technology has never been greater. Nursing shortages and high burnout rates necessitate solutions that enhance productivity and morale among healthcare professionals. This is where Andy AI steps in.\n\n**How Andy Works**\nAndy is an AI-driven software designed to complete comprehensive documentation efficiently. It saves an astounding $8 billion annually by converting what used to take hours of painstaking work into just a quick interaction. Nurses can chart an OASIS in under 15 minutes with Andy. Here's how it boasts efficiency:\n\n- **Increased Accuracy:** Andy remembers 24% more data than the typical clinician, extracting 45% more conditions from medical records.\n- **Time-Saving:** It significantly reduces documentation time, enabling nurses to document the most complex patients swiftly\u2014often in under 15 minutes.\n- **Enhanced Productivity:** By freeing nurses from tedious charting, Andy helps them request twice as many starts-of-care visits.\n\n**Benefits for Agencies and Nurses**\nAgencies that have integrated Andy into their operations see remarkable results:\n- Up to **45%** more detailed charts.\n- **2x** greater productivity from nurses, leading to timely submissions and resolving billing delays.\n- Clinicians regain their evenings, reducing fatigue and burnout.\n\nWith a lean team of two and backed by Gustaf Alstromer as a Group Partner, Andy AI represents a blend of cutting-edge technology and deep industry knowledge aimed at empowering nurses and agencies alike.\n\n**The Big Picture**\nAs home health becomes a crucial part of the healthcare landscape, tools like Andy are not just beneficial but essential. Clinicians now have the opportunity to provide better patient care without the looming pressure of documentation weighing them down. \n\nFor those interested in what Andy can do, you can learn more at [Andy AI's website](https://with-andy.com).\n\n---\n\nIn summary, Andy AI is not just another tech solution; it's a breath of fresh air for an industry at a crossroads, eager for innovation and respite from long-standing issues. ",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/963e037cb48ec558cada35a262b8fa8865ee1114.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190957Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=04c7a255c6b52c5afdcd1c1402959662640834fcf104c83253bdede0f12c21bf",
+    "social_links": [
+        "http://linkedin.com/company/with-andy",
+        "https://www.facebook.com/people/Andy-AI/61556463293700/"
+    ],
+    "logo_path": "data/logos\\Andy_AI_logo.png"
+}

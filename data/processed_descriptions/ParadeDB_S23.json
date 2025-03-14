@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/paradedb",
+    "name": "ParadeDB",
+    "headline": "Postgres for Search and Analytics",
+    "batch": "S23",
+    "description": "ParadeDB is an Elasticsearch alternative built on Postgres. We're modernizing the features of Elasticsearch's product suite, starting with real-time search and analytics.",
+    "activity_status": "Active",
+    "website": "https://paradedb.com",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "New York",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:analytics; industry:open-source; industry:infrastructure; industry:databases; location:new-york",
+    "founders": [
+        {
+            "name": "Philippe No\u00ebl, Founder",
+            "description": "Founder & CEO @ ParadeDB. Previously @Whist, @Microsoft. Harvard CS'20. From Qu\u00e9bec.",
+            "linkedin": "https://linkedin.com/in/philippemnoel"
+        },
+        {
+            "name": "Ming Ying, Founder",
+            "description": "Founder @ ParadeDB",
+            "linkedin": "https://linkedin.com/in/ming-ying"
+        }
+    ],
+    "status": true,
+    "generated_description": "**ParadeDB: Postgres for Search and Analytics**\n\nFounded in 2023 and emerging from Y Combinator's Batch S23, ParadeDB is making waves from its base in New York. It positions itself as a cutting-edge alternative to Elasticsearch, built on the robust infrastructure of PostgreSQL. Their mission? To harness the power of Postgres for enhanced search capabilities and real-time analytics, eliminating the complex overhead that often bogs down developers.\n\n**What\u2019s the Big Idea?**\n\nAt its core, ParadeDB aims to transform Postgres into a powerful search engine. It\u2019s designed especially for real-time, update-heavy workloads, enabling teams to bypass the cumbersome synchronization tools typically associated with Elasticsearch. By leveraging the native strengths of Postgres, ParadeDB brings features like BM25 scoring, custom tokenizers, and hybrid search to the table, ensuring that developers can supercharge their data without the headaches of managing multiple systems.\n\n**Key Features:**\n- **Zero ETL:** Easily integrate with your existing infrastructure using native Postgres replication\u2014no messy ETL processes required.\n- **ACID Compliance:** Ensures your data is always searchable right after writing, thanks to Postgres\u2019 transactional guarantees.\n- **Automatic Cleanup:** No more worries about stale indexes; ParadeDB keeps everything tidy with Postgres\u2019 vacuum process.\n- **Open Source:** Trusted by a growing community, ParadeDB has already seen significant Docker deployments and Postgres extension installs.\n\n**Community and Support**\n\nParadeDB is more than just a product; it\u2019s a growing community. The company supports its users with rich documentation, a blog, and dedicated channels for feedback and collaboration. Their product has gained trust among enterprises while being loved by developers for its simplicity and effectiveness.\n\nWhether you're part of a startup or a large organization, ParadeDB's focus on integrating seamlessly with managed Postgres services speaks volumes about its practicality. Notably, it supports data ingestion from various sources like Amazon RDS, Azure PostgreSQL, and Google Cloud SQL.\n\n**In Summary**\n\nParadeDB is driving a paradigm shift in the way we think about search and analytics in the context of Postgres. With a talented team of four and strong backing from Y Combinator, they're poised for significant impact. If you\u2019re eager to explore its capabilities, you can start with their [documentation](https://paradedb.com/docs.paradedb.com) or even book a demo to see it in action.\n\nTo follow their journey, connect on [GitHub](https://github.com/paradedb/paradedb), or join their [Slack community](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ). \n\nIn a world where efficient data handling is crucial, ParadeDB is carving a niche that many will find hard to ignore.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c95533dde7e2f88d650cb9f544d5aec0668602ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191622Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b98458090a26b3d1629a0539bab6b672e44b4e39aa54105c7b0c23442d1aedaf",
+    "social_links": [
+        "https://linkedin.com/company/paradedb",
+        "https://twitter.com/paradedb",
+        "https://www.crunchbase.com/organization/paradedb",
+        "https://github.com/paradedb"
+    ],
+    "logo_path": "data/logos\\ParadeDB_logo.png"
+}

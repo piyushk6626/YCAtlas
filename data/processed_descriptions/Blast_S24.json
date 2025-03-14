@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/blast",
+    "name": "Blast",
+    "headline": "Helping enterprises build safe and compliant LLM apps/agents",
+    "batch": "S24",
+    "description": "Blast helps large enterprises build safe and reliable LLM apps. We provide a platform to help enterprises rigorously evaluate and turn their generative AI prototypes into reliable apps that can be confidently deployed at scale.",
+    "activity_status": "Active",
+    "website": "https://withblast.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:enterprise-software; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Arnav Joshi, Founder",
+            "description": "CEO at Blast. I was recently a BS/MS student in CS at Stanford. Previously, I worked on autonomous driving research at NVIDIA. I also interned at Amazon, where I built a computer vision tool.",
+            "linkedin": "https://www.linkedin.com/in/arnav-joshi-516516154/"
+        },
+        {
+            "name": "Daniel Zamoshchin, Founder",
+            "description": "CTO at Blast. I studied computer science with a focus in security at Stanford. I worked on security research with Prof. Dan Boneh and data privacy research with Prof. Matei Zaharia (Databricks). In high school, I built an app with 2M+ downloads.",
+            "linkedin": "https://www.linkedin.com/in/daniel-zamoshchin/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Blast**\n\nFounded in 2024 and currently part of Y Combinator's Batch S24, Blast is situated in the vibrant tech hub of San Francisco. With a nimble team of two and backed by Group Partner Michael Seibel, Blast is on a mission that\u2019s incredibly timely: helping enterprises build safe and compliant large language model (LLM) applications.\n\n### The Problem\n\nAs organizations increasingly leverage AI, concerns over the security and reliability of these systems have come to the forefront. Many enterprises can't afford to discover vulnerabilities only after launching their applications. That\u2019s where Blast shines, focusing on preemptively identifying potential failures that could lead to financial, legal, and reputational fallout.\n\n### What They Do\n\nBlast offers a specialized platform that rigorously evaluates generative AI prototypes, ensuring they can be confidently deployed at scale. This involves:\n\n- **Preemptive Diagnostics**: Identifying critical failure modes before deployment, thereby minimizing risks.\n- **Real-World Applications**: The company has already helped large enterprises, including a Fortune 50 retailer reduce hallucination rates, a Fortune 300 financial institution remain compliant with AI regulations, and a Fortune 200 travel firm protect its brand from AI-related mishaps.\n\n### Key Features & Benefits\n\n1. **Continuous Protection**: Automated re-testing to detect and prevent safety risks alongside real-time alerts and detailed reporting.\n2. **Expert Network**: Collaboration with a global network of expert safety testers that combines their knowledge of AI safety and brand protection.\n3. **Enterprise-Grade Solutions**: The platform enables secure deployment within organizations, whether on-premises or within their virtual private clouds (VPCs), with built-in role-based access control.\n\n### Industry Applications\n\n- **Retail**: Helps safeguard customer interactions, ensuring accurate product information and protecting customer data.\n- **Education**: Shields students from inappropriate content while building trust in AI responses regarding curriculum resources.\n  \n### Get Involved\n\nIf you're part of an enterprise looking to deploy responsible AI, Blast makes it easy to get started. You can [book a demo](https://withblast.com/<https:/cal.com/blastlabs/demo>) today and see how they can fortify your AI applications against potential threats.\n\nIn a world where AI is quickly integrated into various sectors, companies like Blast are critical in ensuring that these technologies are both effective and safe. \n\nFor more information, visit their website at [withblast.com](https://withblast.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f391cad9f5460a94fb737f06fc5ccf0b3b61b4d8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191025Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=87495618ed8d952f6c63b06594ddf7b343a0f75a06970ee357313e0fc3f38699",
+    "social_links": [
+        "https://www.linkedin.com/company/blastcorp/",
+        "https://x.com/useblast"
+    ],
+    "logo_path": "data/logos\\Blast_logo.png"
+}

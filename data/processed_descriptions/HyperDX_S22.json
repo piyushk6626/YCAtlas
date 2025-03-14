@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/hyperdx",
+    "name": "HyperDX",
+    "headline": "Open-source, dev-friendly observability.",
+    "batch": "S22",
+    "description": "HyperDX assists engineers in resolving production bugs more quickly with simple workflows that take you from alert to resolution. You can get set up in a matter of minutes and correlate debug telemetry all in one place, including logs, metrics, traces, and browser session replays, allowing you to resolve issues faster than ever before.\r\n\nHyperDX is open source and built on top of Clickhouse and S3, so customers can enjoy ten times the savings when compared to traditional vendors like Datadog.",
+    "activity_status": "Active",
+    "website": "https://hyperdx.io/",
+    "founded_date": 2022.0,
+    "team_size": 4.0,
+    "location": "San Mateo, CA",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:open-source; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Michael Shi, Founder",
+            "description": "Michael was the PM leading developer experience at LogDNA (YC W15) scaling through $Xm to $XXm ARR growth.",
+            "linkedin": "https://www.linkedin.com/in/mikeshi42/"
+        },
+        {
+            "name": "Warren Lee, Founder",
+            "description": "Previously built a profitable company from 0 to millions ARR",
+            "linkedin": "https://linkedin.com/in/warren-jonhow-lee-7b91b3187"
+        }
+    ],
+    "status": true,
+    "generated_description": "### HyperDX: Observability Done Right\n\n**Overview**  \nFounded in 2022 and hailing from the prestigious Y Combinator Batch S22, HyperDX is spearheading a new era in engineering with its mission of delivering open-source, developer-friendly observability tools. Located in San Mateo, California, the company is small but mighty, consisting of a dedicated team of four.\n\n**What They Do**  \nHyperDX started by addressing a crucial pain point for engineers: resolving production bugs swiftly. It accomplishes this by offering a streamlined workflow that aggregates alerts and debugging telemetry in one place\u2014logs, metrics, traces, and even browser session replays. Setting it up? You're looking at just minutes before you start resolving issues faster than ever. \n\nOne of the standout features is the ability to correlate every request from a user\u2019s browser all the way through to backend servers and async workers, automating the tracing process. This is particularly useful for high-velocity engineering teams who need to act immediately to resolve issues without getting bogged down by cumbersome tooling.\n\n**Cost Efficiency**   \nHyperDX is not just about speed; it\u2019s also refreshingly cost-effective. By leveraging Clickhouse and S3, they offer significant savings\u2014up to ten times cheaper than traditional monitoring solutions like Datadog. Pricing is straightforward, charging $0.40 per GB without costs per user or host, enabling teams to focus on building rather than worrying about the observability bill.\n\n**Open Source Philosophy**  \nThe company embodies the spirit of open-source. They provide a platform that not only promotes transparency but also encourages collaboration within the community. With tools designed to be vendor-agnostic and an easy setup with minimal friction, HyperDX empowers developers to instrument their applications seamlessly, avoiding vendor lock-in.\n\n**Features & Integrations**  \nHyperDX includes a range of powerful features like:\n- **Log Patterns**: Instantly cluster and analyze similar logs.\n- **Correlated Session Replays**: Link session replays directly with backend logs.\n- **Intuitive Search Tools**: Easy-to-use search functionality without convoluted syntax.\n- **Visualization Tools**: An advanced chart builder for detailed insights.\n\nMoreover, it integrates effortlessly with existing tools. Want Slack alerts when something goes wrong? Done. Need to jump from Intercom straight to a user\u2019s session? No problem.\n\n**The Future**  \nAs they continue to refine their offerings and expand their community, HyperDX is poised to be a game changer in the observability space. Their blend of speed, simplicity, and savings is a refreshing take that can easily disrupt the traditional players who have dominated the market for too long.\n\nCheck them out at [HyperDX](https://hyperdx.io/) for a glimpse of how observability should be.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fbea9a6e0a015828a846b42e2ecb6b3da23f3eb7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191426Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0a6a9630ea6a87def12bf77e82b1bc44d5a7b9a6c7827eb1d00b2df2d6d06f44",
+    "social_links": [
+        "https://www.linkedin.com/company/hyperdx",
+        "https://twitter.com/hyperdxio",
+        "https://github.com/hyperdxio"
+    ],
+    "logo_path": "data/logos\\HyperDX_logo.png"
+}

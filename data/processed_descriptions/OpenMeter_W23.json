@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/openmeter",
+    "name": "OpenMeter",
+    "headline": "Usage Metering, AI & API Monetization",
+    "batch": "W23",
+    "description": "OpenMeter's mission is to standardize metering with the goal of becoming the data source for AI and API monetization. We've built an open-source platform that processes billions of events into our usage lake in a matter of seconds, which acts as the backbone that serves revenue and efficiency teams.",
+    "activity_status": "Active",
+    "website": "https://openmeter.io",
+    "founded_date": 2023.0,
+    "team_size": 7.0,
+    "location": null,
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Peter Marton, Founder",
+            "description": "Hi, I'm Peter. I worked on Stripe's usage and cost platform and built Netflix's serverless infrastructure. Earlier, I co-founded RisingStack, a Node.js performance monitoring company. I recently co-founded OpenMeter.io to help AI & API companies monetize their usage.",
+            "linkedin": "https://www.linkedin.com/in/petermarton"
+        },
+        {
+            "name": "Andras Toth, Founder",
+            "description": "Andras is coming from an enterprise cloud and Kubernetes platform company Banzai Cloud (acquired by Cisco) where he mainly worked on the company's service mesh product, Backyards (renamed to Calisti). Previously, he worked at DataCamp and RisingStack & participated in Google Summer of Code two times.",
+            "linkedin": "https://www.linkedin.com/in/andr\u00e1s-t\u00f3th/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Summary of OpenMeter\n\n**Company Name:** OpenMeter  \n**Founded:** 2023  \n**Location:** Not specified  \n**Team Size:** 7 employees  \n**Y Combinator Batch:** W23  \n\n#### Mission\nOpenMeter is on a mission to revolutionize usage metering, aiming to standardize how data is collected and monetized in the age of AI and API services. They envision themselves as the primary data source for driving revenue and efficiency for businesses.\n\n#### What They Do\nAt the core of OpenMeter\u2019s offering is an open-source platform capable of processing billions of events in real time. This platform not only serves as a robust \"usage lake\" but also integrates seamlessly into existing systems, empowering revenue and efficiency teams to monitor and manage their billing processes effectively.\n\n1. **Real-Time Metering and Billing:** OpenMeter enables companies to monitor their usage in real-time and place controls around costs through usage limits and notifications.  \n   \n2. **API Integration:** They provide SDKs for popular languages (Node.js, Python, Go) making it easy for developers to implement usage-based billing.\n\n3. **Product Flexibility:** OpenMeter allows teams to update pricing models quickly, enabling sales teams to create custom deals without lengthy developer intervention.\n\n4. **Actionable Insights:** Their platform helps businesses identify new revenue opportunities and track customer usage, helping to maximize net revenue retention (NRR).\n\n5. **Open Source:** OpenMeter values community collaboration and offers their code base under the Apache 2.0 license, encouraging contributions and transparency. \n\n**Website:** [OpenMeter](https://openmeter.io)\n\n#### Quotes from Users\n- Matt Aitken, Founder of Trigger.dev, states: \"We use OpenMeter for real-time billing, it flawlessly handles massive event tracking and integrates with Stripe effortlessly.\"\n- Yunong Xiao from Google Cloud shares, \"OpenMeter presents a comprehensive view of our customers\u2019 usage, directly correlating activity to revenue\u2014an invaluable tool.\"\n\n#### Notable Backers\nOpenMeter is backed by Y Combinator and has received support from investors like Haystack and Sunflower Capital, which further strengthens its credibility and potential for growth.\n\n#### Why It Matters\nIn a world where digital services are expanding and consumption patterns are evolving, OpenMeter allows companies to agilely adapt their billing models to reflect real usage, ensuring fairness for consumers and maximizing profits for providers. Its focus on real-time analytics makes it a powerful tool for any company that values transparency and dynamism in billing structures. \n\nOpenMeter is inviting developers and teams to get started for free, indicating a strong push towards lowering the barrier for entry into efficient billing practices. \n\nWould you like to dive deeper into a specific aspect of OpenMeter?",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/39c10d257734364f1a6e46491b11bcd8a04359e0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191612Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=711c72355823de21f70cdcbe119247f91b443b60794e9962aae44a7cd56ea791",
+    "social_links": [
+        "https://www.linkedin.com/company/openmeter",
+        "https://twitter.com/openmeterio",
+        "https://github.com/openmeterio"
+    ],
+    "logo_path": "data/logos\\OpenMeter_logo.png"
+}

@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/scout-2",
+    "name": "Scout (formerly Uh-Oh Labs)",
+    "headline": "The smart testing platform that unlocks digital health at home.",
+    "batch": "W22",
+    "description": "Digital health holds a lot of potential but is ignoring a growing problem: diagnostic testing. Without this data, providers and organizations will be limited in the services they can provide patients at home.\r\n\nScout has developed a platform - Hub, test kits, and app - that delivers health testing at home with 10x lower development cost and 3x lower per-test price. Our patented tech also meets performance requirements for medical diagnoses and integrates with the current healthcare tech stack. Scout\u2019s technology is poised to disrupt the outdated $33Bn diagnostic market by democratizing testing while dramatically improving the patient experience.\r\n\nScout has received $16M in non-dilutive funding from the NIH and other organizations to fully de-risk our platform, and our pipeline includes a diverse test menu for primary care (e.g. respiratory and sexual health), wellness (e.g. gut health), and chronic conditions (e.g. certain cancers). We have already received FDA authorization for our platform in clinical settings and are planning to launch our flagship Scout Hub in 2024.",
+    "activity_status": "Active",
+    "website": "http://scouthealth.com",
+    "founded_date": 2018.0,
+    "team_size": 12.0,
+    "location": "Santa Clara, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:consumer-health-services; industry:covid-19; industry:health-tech; industry:diagnostics; industry:consumer-products; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Cameron Ball, Founder",
+            "description": "Cam is an accomplished biomedical engineer and entrepreneur. Before starting Uh-Oh Labs, Cameron worked at Sandia National Laboratories. Cameron is an expert in molecular diagnostics, microfluidics, materials science, and drug delivery. With 12 years of experience as a biomedical engineer, he brings a command of cross-functional engineering skills and fundamental science knowledge to bear on complex problems in biological systems.",
+            "linkedin": "https://www.linkedin.com/in/cameronsball/"
+        },
+        {
+            "name": "Alex Jiao, Cofounder and CEO",
+            "description": "Bioengineering PhD trained in stem cell biology & tissue engineering (cardiac & skeletal muscle) and now in molecular diagnostics. Worked in biopharma therapy development (small molecule, biologics, gene therapy). Started and Silene Biotech and now working at Scout (formerly Uh-Oh Labs) as President and Chief Business Officer.",
+            "linkedin": "https://www.linkedin.com/in/alexjiao/"
+        },
+        {
+            "name": "Joshua Torrey, Founder",
+            "description": "Josh has over 10 years in various startup environments in addition to getting his MD and MPH from Tufts University School of Medicine. As an Emergency Medicine physician Josh combines his startup experiences with his  strong expertise in both clinical medicine and public health to help democratize access to healthcare as Uh-Oh Labs' Chief Medical Officer.",
+            "linkedin": "https://www.linkedin.com/in/joshua-torrey-81862041/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Scout (formerly Uh-Oh Labs): Revolutionizing At-Home Health Testing\n\n**Overview:**\nFounded in 2018 and based in Santa Clara, CA, Scout is on a mission to unlock digital health in the comfort of your home. The company, a part of Y Combinator's Batch W22, originally identified a gap in the digital health market\u2014diagnostic testing. Their insight was simple yet profound: to expand the potential of digital health at home, access to accurate diagnostic data is crucial.\n\n**The Strategy:**\nScout has developed a smart testing platform, comprising a Hub, test kits, and a user-friendly app. This innovative system achieves remarkable cost efficiencies\u201410 times lower in development costs and three times lower per-test pricing\u2014while meeting the stringent performance requirements for medical diagnostics. Scout\u2019s technology plugs seamlessly into the existing healthcare ecosystem, aiming to disrupt an outdated $33 billion diagnostic market by making testing accessible and affordable.\n\n**Funding and Validation:**\nWith $16 million in non-dilutive funding from the National Institutes of Health (NIH) and other institutions, Scout has effectively de-risked its platform. The company has already gained FDA authorization for clinical settings, which speaks volumes about their credibility. Their diverse pipeline includes tests for primary care (like respiratory and sexual health), wellness (focusing on gut health), and chronic conditions (such as certain cancers) with plans to launch their flagship Scout Hub in 2024.\n\n**The Technology:**\nWhat sets Scout apart is its precision. Their home testing system boasts a clinical accuracy rate that is 99% as effective as traditional lab tests, allowing for earlier detection of infections compared to standard home tests. With results available in just 30 minutes, it brings lab-grade testing straight to your living room.\n\n**Community Impact:**\nScout not only focuses on technology but also advocates for accessibility\u2014recent initiatives include improving STI testing access for college communities and developing low-cost diagnostics for bacterial infections like gonorrhea and chlamydia.\n\n**Team and Culture:**\nWith a small, agile team of 12, Scout embodies the startup spirit while being backed by prestigious partners like the NIH and Johns Hopkins University. This lean structure enables rapid innovation and responsiveness to the evolving healthcare landscape.\n\n**In Conclusion:**\nScout stands at the intersection of health tech and consumer empowerment, challenging the status quo and making significant strides in ensuring that everyone has access to quality diagnostic testing at home. As they gear up for their full launch, the company promises to be a transformative force in healthcare delivery.\n\nFor more information, visit [Scout Health](http://scouthealth.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/47a620ea9ab1ac9947a0d692d739c59ec2a7e1fc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191911Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=898585746dc5aea23e2cc013d6902579615e4627cde528b5a6e7e0672b043cf6",
+    "social_links": [
+        "https://www.linkedin.com/company/uh-oh-labs/"
+    ],
+    "logo_path": "data/logos\\Scout_(formerly_Uh-Oh_Labs)_logo.png"
+}

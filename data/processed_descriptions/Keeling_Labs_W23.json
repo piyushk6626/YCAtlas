@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/keeling-labs",
+    "name": "Keeling Labs",
+    "headline": "We develop ML that optimizes how batteries in the grid store energy",
+    "batch": "W23",
+    "description": "Founded in 2022, Keeling Labs was started as a place to develop and apply machine learning to solve the world's biggest problem\u2014climate change. Our current priority is getting the grid to run on 100% clean energy, which is currently limited by battery storage (specifically, the algorithms that control them).\r\n\nWe're redefining these algorithms to unlock gigawatts of untapped energy storage capacity, enabling the grid to run on more clean energy from wind and solar.",
+    "activity_status": "Active",
+    "website": "http://keelinglabs.com",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "Los Angeles, CA",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:energy-storage; industry:reinforcement-learning; industry:climate; industry:energy; industry:climatetech; location:los-angeles",
+    "founders": [
+        {
+            "name": "Jack O'Grady, Founder",
+            "description": "I build Reinforcement Learning for energy systems. Currently founding Keeling Labs. Previously at Rivian for 3+ years building battery data science from the ground up, where I ultimately focused on applied AI (RL) for battery optimization in R1T/R1S.",
+            "linkedin": "https://www.linkedin.com/in/jackogrady/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Keeling Labs: Optimizing Energy Storage for a Greener Future\n\n**Company Overview:**\nFounded in 2022 and operating out of Los Angeles, Keeling Labs is a budding startup that's part of the Y Combinator Batch W23. The company's mission is clear: harness machine learning (ML) to enhance how batteries in the grid store and release energy, with the ultimate goal of supporting a 100% clean energy grid. With a small team of just three, they are working on monumental solutions in the realm of energy optimization.\n\n**The Problem They Tackle:**\nThe transition to a clean electricity grid is hampered by the intermittent nature of renewable energy sources like solar and wind. Although these sources are plentiful, their production doesn\u2019t always align with energy demand, which peaks at different times. The result? Increased reliance on fossil fuels during high demand periods. Improving how batteries are controlled\u2014particularly through more adaptive algorithms\u2014could unlock immense storage capacity and keep the grid cleaner.\n\n**What Keeling Labs Does:**\n1. **Self-Optimizing Energy Storage:** They are developing models that can self-learn how to optimally charge and discharge batteries within the grid, maximizing the use of available clean energy.\n2. **Energy Trading Pilot:** This initial step allows them to test their models in real-world scenarios, aiming to optimize battery usage for energy trading, particularly in California.\n\n**Technical Approach:**\nKeeling Labs employs advanced techniques such as reinforcement learning, enabling their algorithms to adapt to changing conditions within the energy ecosystem. This innovative approach aims to displace carbon emissions directly by optimizing how clean energy is utilized.\n\n**Cultural and Impact Vision:**\nKeeling Labs isn't just about engineering solutions; they\u2019re about creating a culture driven by the urgency to fight climate change. Their team of engineers and researchers believes that solving this monumental challenge requires continuous, massive action. They also emphasize the importance of real-world application\u2014ensuring their algorithms aren't just theoretical, but deployed in practical scenarios.\n\n**Why Now?**\nThe climate crisis necessitates immediate action, and Keeling Labs is one of the myriad attempts to make a tangible difference. As technologies evolve and the world pivots away from fossil fuels, optimizing energy storage is a crucial piece of the puzzle. By focusing on the algorithms governing battery operations, they aim to increase the efficiency of renewable energy deployment.\n\nFor those interested in the intersection of climate technology and innovative ML solutions, Keeling Labs represents a compelling opportunity for investment, collaboration, or even joining their small but driven team.\n\n**Get Involved:**\nTo learn more about them or explore career opportunities, visit their website: [Keeling Labs](http://keelinglabs.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8883c9b4bc107ab79922e9db2730f6f406e83a04.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191448Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=256a17148da4f729082ee4194389f6ae69641ac3348efb33da3f33c8d3be26da",
+    "social_links": [
+        "https://www.linkedin.com/company/keeling-labs/",
+        "https://twitter.com/keeling_labs"
+    ],
+    "logo_path": "data/logos\\Keeling_Labs_logo.png"
+}

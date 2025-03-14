@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/slicker",
+    "name": "Slicker",
+    "headline": "Recover payment failures and maximize subscription Revenue",
+    "batch": "S23",
+    "description": "Slicker eliminates involuntary churn through AI-powered retries, tailored for your business. Our proprietary engine automatically monitors, detects, and recovers failed recurring payments, so you can convert past due invoices into revenue.",
+    "activity_status": "Active",
+    "website": "https://www.slickerhq.com",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:finops; industry:saas; industry:payments; industry:subscriptions",
+    "founders": [
+        {
+            "name": "Dani Penev, Founder",
+            "description": "Dani Penev is the co-founder and CEO of Slicker, the AI-powered subscription failure recovery platform. He has multiple years of experience in payments, having built global bank transfer solutions at Stripe and Thought Machine. Dani graduated from the University of Glasgow where he worked on a food-delivery startup with his co-founder.",
+            "linkedin": "https://linkedin.com/in/dani-penev"
+        },
+        {
+            "name": "Ivan Valkov, Founder",
+            "description": "Ivan Valkov is the co-founder and CTO of Slicker, the AI-powered subscription failure recovery platform. He has built and scaled products and teams in companies ranging from early-stage startups to large corporations. Ivan co-hosts a podcast and will publish his fantasy novel one day.",
+            "linkedin": "https://linkedin.com/in/ivan-valkov"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Slicker Company Overview**\n\nFounded in 2023 and based in London, Slicker is a Y Combinator Batch S23 startup that focuses on recovering payment failures to maximize subscription revenue. With a lean team of just two employees, Slicker deploys a proprietary AI engine designed to eliminate involuntary churn\u2014a common issue in subscription-based businesses. \n\n**Mission and Service**\n\nThe core mission of Slicker is simple yet powerful: recover failed payments efficiently. Their innovative system automatically monitors and detects payment failures, allowing companies to convert past due invoices into legitimate revenue without manual intervention. This automation provides a seamless experience, freeing businesses to focus on growth while ensuring revenue continuity.\n\n**Features and Technology**\n\nSlicker leverages state-of-the-art machine learning technology that optimally schedules retries for failed payments based on various parameters and patterns. This dynamic approach helps in understanding generic payment errors, enabling a consistent recovery strategy. \n\nKey features include:\n- **Automatic Payment Recovery**: The system operates on autopilot to recover missed subscription payments.\n- **Quick Setup**: Implementation is straightforward, reportedly requiring just five minutes of setup time.\n- **Integration with Multiple Gateways**: Slicker maximizes recovery success by routing payments through various platforms rather than relying on a single gateway.\n\nSlicker\u2019s team has a strong background, managing over $1B in payments across various sectors. Their strategy includes transparency in AI operations, where users can inspect and audit all actions within the system, reinforcing trust in the technology.\n\n**Pricing Model**\n\nSlicker utilizes a performance-based approach; clients only pay for successfully recovered payments. They also offer a one-month free trial, allowing potential customers to experience first-hand the effectiveness of their service before making any commitments.\n\n**Tagline and Future Goals**\n\nSlicker operates with the tagline \u201cStop leaving money on the table,\u201d aiming to ensure businesses recover their cash flow potential without the traditional headaches associated with payment failures. Going forward, they intend to further refine their AI capabilities and expand integration options to serve their clients better.\n\nIn summary, Slicker presents a smart solution for subscription businesses grappling with payment challenges, helping them maintain revenue streams with minimal effort and maximum efficiency. Check them out at [SlickerHQ](https://www.slickerhq.com) for more detailed insights into their offerings.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ea8deef3eab95ca1a2ebe1386666ff51bfd546f5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191931Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=15df57498c43f685f32c824e70b25acd9cd23207873612373679652f5e64bc6f",
+    "social_links": [
+        "https://www.linkedin.com/company/slicker",
+        "https://twitter.com/SlickerHQ"
+    ],
+    "logo_path": "data/logos\\Slicker_logo.png"
+}

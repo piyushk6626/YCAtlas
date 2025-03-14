@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/venue-ink",
+    "name": "Venue.ink",
+    "headline": "Software for tattoo artists and studios",
+    "batch": "W22",
+    "description": "Venue.ink is a booking app for tattoo artists and studios. Receive bookings, manage your calendar, chat with clients and get paid. We help artists spend more time on art, and less time on admin.",
+    "activity_status": "Active",
+    "website": "https://venue.ink",
+    "founded_date": 2023.0,
+    "team_size": 9.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:creator-economy",
+    "founders": [
+        {
+            "name": "Jason Goldlist, Founder",
+            "description": "I started my career as a business analyst at McKinsey & Company. After a quick operations tour at the Vancouver Olympic Games and an MBA at INSEAD, I worked at A Place for Mom in Seattle. I was an early employee at Wealthsimple (co-founded by Brett Huneycutt & Rudy Adler, prev. YC S10) before founding Venue. \n\nI live in Toronto with my wife Tenielle our two boys (Abe is 10, and Reuben is 7).",
+            "linkedin": "https://www.linkedin.com/in/goldlist/"
+        },
+        {
+            "name": "Danilo Cabello, Founder",
+            "description": "I am computer engineer, born in Brazil, moved to Canada in 2012, I love seeing people using my creations, most recently working with WebRTC, React, Typescript and Ruby on Rails. Love to discuss and talk about tech, processes, ideas, product development.",
+            "linkedin": "https://www.linkedin.com/in/danilocabello/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Venue.ink: Simplifying Tattoo Booking**\n\nFounded in 2023 and hailing from Toronto, Canada, Venue.ink is shaking up the tattoo industry with its innovative software designed specifically for tattoo artists and studios. Initially launched as a booking app, Venue.ink allows artists to handle their appointments, communicate with clients, and receive payments\u2014all in one smooth platform. The goal is simple: empower artists to focus more on their craft and less on the administrative grind.\n\n### Core Features\n- **Customizable Booking Forms:** Artists can create tailored booking forms, collect client information, and make the whole process smoother.\n- **Integrated Calendar & Scheduling:** No more juggling multiple calendars. Venue.ink\u2019s customizable calendar lets artists manage their time efficiently. \n- **Client Communication:** A built-in chat function keeps everything organized\u2014artists can talk to clients without losing important details in the chaos of DMs.\n- **Payment Solutions:** With features for accepting deposits and full payments, including installment plans through Affirm, artists can manage their finances seamlessly.\n- **Text Reminders:** Automatic reminders to clients help reduce no-shows and keep everything on track.\n\n### Why Venue.ink?\nThis platform is not just about managing bookings\u2014it's a solution aimed at enhancing the artist-client relationship by making the entire interaction more fluid. Venue.ink streamlines administrative tasks while incorporating features like bulk upload for flash designs, direct payment processing with Stripe, and real-time scheduling that can adapt to how each artist works.\n\nIt's worth noting that while Venue.ink charges a booking fee (10% of deposits) to clients, artists can use the platform for free, making it an appealing option for tattoo professionals looking to cut down on overhead.\n\n### Community and Growth\nWith a team of nine and the backing of Y Combinator\u2019s Batch W22, Venue.ink is rapidly building a community of tattoo artists who appreciate the platform's ease of use. Their testimonials highlight how Venue.ink not only saves time but also enhances their focus on art\u2014an essential aspect when creativity is at the forefront of their work.\n\nYou can explore more about Venue at their website: [Venue.ink](https://venue.ink) and see firsthand how it\u2019s revolutionizing the tattoo booking experience. \n\nIn sum, Venue.ink isn\u2019t just making tattoo bookings easier; it's giving artists back their time and helping them better serve their clients. If you\u2019re in the tattoo industry and find yourself buried in admin tasks, Venue might just be the assistant you didn\u2019t know you needed.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4978a0de57d308fad628950b87f4e532df01beac.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAFJSOQ65W%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192044Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDHe2krNA4Wz4ZdbboNJG%2B0zG6MmRspOJ5Kex%2FWuhFzDwIhAK4JNrLJx7V6Lp69aumcmLj570j2DR2Eh3hPcEuQGW3%2FKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgweLBjNRNugVRDPT8gqwgPiLGnMwjgQOiNH7FMTInTVKCCJLDe5fdDWlactIzRh2XOtRjauQZptst9ejdBs3vj590lIr07sFFKCWuGV%2B%2BJkmRqS%2BXBC6caH3J97%2FH7W3ch4kKAyKE3TuVCMVl%2BqNFww29jX%2BimNvDUNvCgQtjVE03FWSnfbJrDf3NUx8wttW6l2EC5fgOealDp0Ne7xA51qGtDKfIYSJUUyj6d2WgcNp66ilXSYF5HX3L4wid4xRepJ9Vt1krkNG6bsNoITqg8zMlLgZ7QT5uVwuoY%2Fhv%2F89O661Pa6%2FtGfz6gcZjx3JmkvJh2yaephzjfzpFg43OFS%2B3NnORgMbCqTEcn9piGJokbf9a5xoR2Qt8E4L2AdZTypzC0scYqz%2BA1CsQiK1RrvedAjSsaEw4%2FqFaR6rBrZ4SBiKqlmStv67nu5CMG6DF414F2WlGbkeS8C%2BJYZ2iky%2B19B0K9e4J7Tik78PRFNXoN8lSqP4k%2BLhdrqVq5b2d4m7UHeeProhr%2Fv5HV%2BORFSiFow%2Fhbxt6GN2P2YWxzdIHA32IkBqYD%2BeZ3eFOZSk%2B1Pldgq4PSaiU5lQlEewufIwxcnWXTzGkzSJ%2BLlLlzWX4EwrKPjvQY6pAEqZgWN8cooHP%2FeegIX6R3Pun8lUwrTM2csrvVF8K2udU7KUu1EoXzzxsupULfK9AN%2Bcef1HwWg3GN0hRmtduP9znDwqy7B09eErZHX3iCWPeVm7m2HUwQH0BM7NBnkw%2BBNh35scX3c4lMIghjRFyw9b8VEOGAbUjAxbgvLqemFdd8Zq7DGRWXDbhLqcGd2hHliZLchEjlQhzfD3wdeSwzTgvkJMw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=91da1ad13b912f26943dba1c1cce5d06f2c1acbcb48c88ee7d5b0aa0bef9c64e",
+    "social_links": [
+        "https://www.linkedin.com/company/venue-ink/",
+        "https://www.instagram.com/venue.ink"
+    ],
+    "logo_path": "data/logos\\Venue.ink_logo.png"
+}

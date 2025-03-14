@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/zenbase-ai",
+    "name": "Zenbase AI",
+    "headline": "Continuous prompt optimization for LLMs from DSPy core contributors",
+    "batch": "S24",
+    "description": "Zenbase helps developers focus on programming by automating prompt engineering and model selection. We\u2019re core contributors of Stanford NLP\u2019s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, among many others. But it's hard to use outside of academia. We're building the production version.",
+    "activity_status": "Active",
+    "website": "https://zenbase.ai",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:saas; industry:open-source; industry:infrastructure; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Cyrus Nouroozi, Co-Founder",
+            "description": "Cyrus is the Co-Founder @ Zenbase AI and a core contributor to Stanford NLP's DSPy. He's been called bottled lightning, a 95th percentile AI researcher (after 4 months of self-studying), and a beautiful soul. He enjoys the little moments in a day with coffee, ecstatic dance, and tai chi.",
+            "linkedin": "https://linkedin.com/in/knouroozi"
+        },
+        {
+            "name": "Amir Mehr, Co-Founder",
+            "description": "With a Master\u2019s in Computer Science from the University of Calgary and as a key contributor to StanfordNLP's DSPy project, Amir has deep expertise in AI and software engineering. He played a crucial role in engineering at HubMeta and OVOU. His early success running a profitable web hosting business in high school showcases his technical acumen and entrepreneurial drive.",
+            "linkedin": "https://www.linkedin.com/in/amir--mehr/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Zenbase AI** is a fresh player in the optimization landscape for large language models (LLMs), founded in 2024 and proudly part of the Y Combinator S24 batch. Based in the vibrant tech hub of San Francisco, this lean startup, with its dedicated team of just two employees, is on a mission to simplify the complexities of prompt engineering and model selection for developers.\n\n### The Mission\nZenbase AI aims for \"continuous prompt optimization\" - harnessing the expertise of their core contributors from Stanford NLP's DSPy project, which is recognized as the leading framework for LLM optimization, utilized by giants like Meta, Microsoft, and Google. The founders noticed that while DSPy was powerful, its utility dropped off outside of academic settings. Zenbase is stepping in to change that by building a production-ready version that anyone can easily harness.\n\n### What They Do\nZenbase AI positions itself as a developer tool and cloud infrastructure service for those who expect perfection from their LLMs. Essentially, they handle the tedious and often frustrating tasks of prompt engineering for developers, enabling them to focus on what truly matters: actual programming.\n\nThey offer a range of solutions, from open-source options all the way up to enterprise-grade capabilities, including automated experimentation with prompts and models that maximize performance efficiently. Their tools let users continuously optimize their models, catering to a variety of use cases effectively\u2014whether that\u2019s vibe checks or transaction categorization.\n\n### Team and Support\nGuided by founders **Cyrus Nouroozi** (CEO) and **Amir Mehr** (CTO), both seasoned contributors to the DSPy project, Zenbase is backed by a notable Group Partner, **Diana Hu**. Their small but agile team plays into their advantage, allowing them to move fast and adapt quickly to user demands.\n\n### Customer Validation\nZenbase has attracted positive attention from early adopters and industry experts alike. Users have reported tremendous improvements: one client even increased their evaluation accuracy from 10% to 91.6% with Zenbase's help. Such testimonials illustrate their product's effectiveness and ease of use\u2014qualities that are critical in the fast-evolving landscape of AI development tools.\n\n### Getting Started\nFor those looking to leverage Zenbase AI's offerings, options are flexible. They provide everything from a free, open-source version suitable for optimizing existing pipelines to more robust commercial plans starting at $1,000 per month.\n\nIn summary, Zenbase AI is all about unshackling developers from the complexities of prompt engineering and model selection, allowing them to concentrate on the core of their projects with smarter, automated assistance. If you\u2019re in the AI development space and tired of wrestling with prompts, Zenbase might just be the solution you've been looking for. \n\n**Explore more on their website:** [Zenbase AI](https://zenbase.ai)",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/915965f07ccd655c3c0ad541151d852e787dc350.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192107Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cd99d4ce2564d2ca7501e509f745aca1cd789ad0f9132007885e8f880a2c5ae1",
+    "social_links": [
+        "https://www.linkedin.com/company/zenbase-ai/",
+        "https://github.com/zenbase-ai"
+    ],
+    "logo_path": "data/logos\\Zenbase_AI_logo.png"
+}

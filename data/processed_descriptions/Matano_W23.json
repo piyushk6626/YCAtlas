@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/matano",
+    "name": "Matano",
+    "headline": "Cloud Native SIEM (alternative to Splunk/Elastic)",
+    "batch": "W23",
+    "description": "Matano is a modern SIEM, built for cloud-first security teams. \r\n\nIt replaces traditional SIEM databases like Splunk or Elastic with a cybersecurity platform built on top of a cost-effective Security Data Lake.",
+    "activity_status": "Active",
+    "website": "https://www.matano.dev",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "Seattle, WA",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:devsecops; industry:analytics; industry:open-source; industry:cybersecurity; location:seattle",
+    "founders": [
+        {
+            "name": "Samrose Ahmed, Founder",
+            "description": "Hi I'm Samrose, a software engineer by background. I grew up in NYC, went to CMU, and worked at AWS for a few years before starting Matano. I'm especially interested in big data, cloud, and highly available systems. Outside of work, I'm an avid reader.",
+            "linkedin": "https://www.linkedin.com/in/samrosea"
+        },
+        {
+            "name": "Shaeq Ahmed, Founder",
+            "description": "Hey! Shaeq is a software engineer who originally hails from New York and loves all things open source, security and big data. He quit his job \ncrunching data for autonomous robots at Amazon to build Matano - an open-source SIEM alternative for security teams on AWS.",
+            "linkedin": "https://www.linkedin.com/in/shaeq-ahmed"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Matano: The Cloud Native SIEM Revolutionizing Cybersecurity**\n\nFounded in 2022 and operating out of Seattle, WA, Matano is making waves in the cybersecurity landscape as a cloud-native Security Information and Event Management (SIEM) platform. The company is part of Y Combinator's Batch W23, which lends it a stamp of credibility and innovation. \n\n### Mission\nMatano's mission is ambitious yet straightforward: to simplify security analytics for cloud-first teams. By replacing traditional SIEM heavyweights like Splunk and Elastic with a more efficient, cost-effective solution, Matano aims to enhance the way organizations handle their cybersecurity posture.\n\n### What They Do\nMatano provides a unique cybersecurity platform built on a Security Data Lake, enabling organizations to aggregate and analyze vast amounts of security data effortlessly. The technology allows for:\n- **Petabyte-scale analytics** without the astronomical costs typically associated with data storage.\n- **Seamless integrations** with over a thousand data sources, utilizing pre-built parsers that normalize diverse data into a unified schema.\n- A **rapid response framework** with over 800 out-of-the-box detection rules tailored to real-time threat identification and incident response.\n\nTheir platform is designed to reduce the total cost of ownership (TCO) by simplifying data management and improving threat detection across various environments, from cloud to endpoint security.\n\n### Key Features\n- **Unified Security Data Lake:** Centralizes and scales security data in a highly effective manner.\n- **Rapid Detection and Response:** Readily deploy preconfigured correlation rules that enhance security operations.\n- **Familiar Search Capabilities:** Leverage a search language compatible with tools like Splunk, minimizing the learning curve for security teams.\n\n### Market Position\nMatano is keenly positioned in the market under tags such as 'devsecops,' 'analytics,' 'open-source,' and 'cybersecurity.' It stands out as an innovative alternative for security teams looking to modernize their operations without the hefty price tag of traditional incumbents.\n\n### Leadership and Team\nWith a compact team of two, Matano is backed by Group Partner Diana Hu, whose support likely helps steer the company as it navigates early-stage challenges in the competitive cybersecurity field. \n\nOverall, Matano is not just reshaping how organizations think about SIEM capabilities; they're redefining the economics of security data management, encouraging businesses to think twice before settling for outdated, costly solutions. If you\u2019re in the market for streamlined security analytics, Matano is definitely worth exploring. \n\nFor more information, check out their website [here](https://www.matano.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/17d0996886b091bbf01af030407fea6f8a77ff92.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191526Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cd9b8a9fc249e91db04f86fe1b46df972153b41967770a7e2cebe38f2ac4537f",
+    "social_links": [
+        "https://www.linkedin.com/company/matanolabs/",
+        "https://twitter.com/matanolabs",
+        "https://www.crunchbase.com/organization/matano",
+        "https://github.com/matanolabs"
+    ],
+    "logo_path": "data/logos\\Matano_logo.png"
+}

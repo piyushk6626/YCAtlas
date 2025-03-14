@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/durate",
+    "name": "Durate",
+    "headline": "We build automated scheduling software for hospitals",
+    "batch": "F24",
+    "description": "We make software to automate call shift scheduling for hospital residents/faculty and generally help hospital administrators keep track of their departments. Hospitals have long lists of requirements and rules they must follow, leading administrators to spend hundreds of hours a month ensuring their departments adhere to guidelines.",
+    "activity_status": "Active",
+    "website": "https://www.durate.com/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:healthcare; industry:healthcare-it",
+    "founders": [
+        {
+            "name": "Michael Mounajjed, Founder, CEO",
+            "description": "Rice CS / Applied Math dropout now building automation software for hospital administrators at Durate",
+            "linkedin": "https://linkedin.com/in/michael-mounajjed"
+        },
+        {
+            "name": "Benjamin Liu, Founder",
+            "description": "Ex-Rice CS, building software to help hospitals automate hundreds of hours of administrative tasks",
+            "linkedin": "https://www.linkedin.com/in/ben-franklin-liu/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Durate: Automating Hospital Scheduling**\n\nFounded in 2024 and part of Y Combinator\u2019s Batch F24, Durate is a promising startup focused on revolutionizing the way hospitals manage scheduling. They\u2019ve honed in on a critical pain point for healthcare providers, creating software that simplifies and automates call shift scheduling for hospital residents and faculty. With a small yet dedicated team of three based in an undisclosed location, Durate is positioned to make a significant impact in the healthcare IT sector.\n\n### The Problem They Solve\n\nHospitals are often bogged down by complex scheduling requirements and guidelines that drain the time and resources of administrators. The inefficiency in traditional scheduling methods leads to hundreds of hours wasted each month. Durate aims to relieve this burden by offering a smarter, automated approach.\n\n### Key Features of Durate\n\n1. **Automated Scheduling**: Utilizing AI, Durate provides a seamless scheduling process that syncs directly with calendars, eliminating last-minute surprises and scheduling headaches.\n  \n2. **Integrations**: The platform offers numerous integrations, allowing for a holistic view and management of data, which reduces the need for tedious copy-pasting.\n\n3. **Comprehensive Management**: Durate\u2019s tools enable administrators to easily manage shifts, view rotations, and make real-time adjustments without hassle.\n\n4. **Payroll Linking**: Direct payroll integrations ensure that scheduling accuracy translates to financial accuracy, a crucial element for any hospital.\n\n5. **Data Insights**: The system compiles extensive data points, helping hospitals make informed decisions based on scheduling trends.\n\n### Specialties Catered to\n\nDurate isn't limited to just one department; it caters to a wide range of specialties, including but not limited to:\n- Anesthesiology\n- Cardiology\n- Emergency Medicine\n- OBGYN\n- Radiology\n- Urgent Care\n\nThere's a strong focus on ensuring that nearly every specialty can utilize their features effectively.\n\n### The Bigger Picture\n\nBy automating the scheduling process, Durate doesn't just aim to simplify the lives of hospital administrators; they want healthcare providers to focus on what truly matters\u2014delivering high-quality patient care. Backed by Y Combinator, and with strong initial traction, Durate is positioned not just to survive but to thrive in a critical sector of the economy.\n\nIf you\u2019re curious about how Durate can transform scheduling at your facility, you can explore their offerings or see a demo at [Durate\u2019s website](https://www.durate.com/).\n\nIn the healthcare landscape, where efficiency is paramount, Durate is carving out a niche that could well define the future of hospital administration.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/11d83da0c8ad4ab6da143f1c9eaf8a8d4357c833.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191129Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a538d5acfc07e39052c93aa47278bdaaefa1a47d2fcf19402caee3d343b84f88",
+    "social_links": [
+        "https://www.linkedin.com/company/docflowsoftware"
+    ],
+    "logo_path": "data/logos\\Durate_logo.png"
+}

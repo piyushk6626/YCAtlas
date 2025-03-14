@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/kombo",
+    "name": "Kombo",
+    "headline": "Unified API for HR, payroll and recruiting software",
+    "batch": "S22",
+    "description": "Kombo makes it easy for software companies to offer integrations with HR software. For example, a recruiting company could use our unified API to integrate with the dozens of recruiting systems used by different customers all at once instead of building an integration to each of them.",
+    "activity_status": "Active",
+    "website": "https://kombo.dev",
+    "founded_date": 2022.0,
+    "team_size": 20.0,
+    "location": "Berlin, Germany",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Alexander K\u00fcbel, Founder",
+            "description": "Status: 429 Too Many Requests",
+            "linkedin": "https://www.linkedin.com/in/alexander-kuebel-8b8351180/"
+        },
+        {
+            "name": "Aike Hillbrands, Founder",
+            "description": "Co-Founder & VP Engineering at Kombo",
+            "linkedin": "https://www.linkedin.com/in/aike-hillbrands-5a54061b6/"
+        },
+        {
+            "name": "Fabian Rothfu\u00df, Founder",
+            "description": "-",
+            "linkedin": "https://www.linkedin.com/in/fabian-rothfu%C3%9F-3b772b1b1/"
+        }
+    ],
+    "status": true,
+    "generated_description": "## Overview of Kombo\n\nKombo is a forward-thinking startup founded in 2022, based in Berlin, Germany, and is currently a member of Y Combinator's Batch S22. At its core, Kombo aims to revolutionize how businesses integrate various HR, payroll, and recruiting systems through a unified API. Picture this: instead of spending countless hours and resources building individual integrations for different systems, software companies can now use Kombo's single API to connect with a wide range of recruiting and HR platforms simultaneously.\n\n### Mission\n\nKombo's mission is simple yet powerful: to provide a unified API for HR, payroll, and recruiting software. By consolidating multiple integrations into one accessible platform, Kombo makes life easier for both developers and businesses.\n\n### The Problem It Solves\n\nTraditionally, software companies faced significant hurdles when trying to integrate with various HR software solutions. Each system might have its own unique integration requirements, making the process tedious and time-consuming. By using Kombo, a recruiting firm can seamlessly connect with numerous recruiting systems all at once, speeding up deployment and improving the overall user experience.\n\n### Team and Leadership\n\nKombo has assembled a dynamic team of around 20 professionals passionate about transforming the recruitment landscape. Leadership includes Brad Flora, a seasoned technology executive and partner at Y Combinator, providing valuable guidance and resources to the Kombo team.\n\n### Current Offerings\n\nKombo's flagship product offers an extensive array of integrations across various use cases:\n\n- **ATS Integrations**: Integrating with Applicant Tracking Systems (ATS) provides a robust pipeline for managing job applications.\n- **HR & Payroll Integrations**: Streamline payroll processing through effective integration with various HR Information Systems (HRIS).\n- **Talent Acquisition Software**: Enhance candidate experiences with seamless data flow between recruiting tools.\n- **B2B Fintech**: Support financial technologies that require complex employee data synchronization.\n- **Security & Compliance**: Automate compliance and training processes by ensuring seamless data updates in real-time.\n\nMore can be explored through their use cases on their [website](https://kombo.dev).\n\n### The Customer Journey\n\nWith Kombo, companies can leverage detailed dashboards to monitor their integrations in real time, customize their data collection methods, and manage synchronization issues effortlessly. Their focus on excellent customer support ensures that businesses can integrate quickly and effectively, without the headaches of a typical integration process.\n\n### The Future\n\nKombo not only solves the integration nightmare; it provides a foundation for businesses to expand their markets and improve their offerings while contributing to a smoother and more efficient hiring process across various industries.\n\n### Why Partner with Kombo?\n\nKombo is quickly becoming the preferred solution for B2B companies aiming to scale and enhance their recruitment and HR offerings. By focusing exclusively on this niche, Kombo has positioned itself as subject-matter experts, underscoring their commitment to ongoing innovation in the HR technology space.\n\nIn conclusion, Kombo is more than just another API provider; it\u2019s an integral part of the future of integrated HR technology solutions. If you're looking for a smart way to handle HR integrations without the usual complexity, you might want to check them out.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ea1693eef78aa570fc3fbf88ccb4f74cfaa6e391.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191454Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b44931485717c0fb067c824d9ec18dfb38059ce1e6042a8ae004d757ee2619df",
+    "social_links": [
+        "https://www.linkedin.com/company/kombo-api",
+        "https://www.crunchbase.com/organization/kombo-9d88",
+        "https://github.com/kombohq"
+    ],
+    "logo_path": "data/logos\\Kombo_logo.png"
+}

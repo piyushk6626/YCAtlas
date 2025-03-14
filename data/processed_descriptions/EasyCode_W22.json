@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/easycode",
+    "name": "EasyCode",
+    "headline": "ChatGPT that understands your codebase.",
+    "batch": "W22",
+    "description": "EasyCode is GPT-4 powered AI that understands developer context. It gives immediate answers to developer questions specific to their codebase. 900,000 developers already use EasyCode to get unblocked & build 10x faster.",
+    "activity_status": "Active",
+    "website": "https://www.easycode.ai/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:productivity",
+    "founders": [
+        {
+            "name": "James Jiang, Founder",
+            "description": "Unlocking human potential with AI\nSerial Entrepreneur\nEx-Amazon Software Developer",
+            "linkedin": "https://www.linkedin.com/in/jamesdreamcrafters/"
+        },
+        {
+            "name": "Paul Li, Founder",
+            "description": "Paul is a second time founder. After working as a software engineer in the bay area, he went back to Toronto to co-found Mirage VR. Paul prides himself on being the \u201cswiss army knife\u201d that gets stuff done. He holds dual degrees in Computer Science and Business Administration from the University of Waterloo.",
+            "linkedin": "https://www.linkedin.com/in/hey-paul/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### EasyCode: Revolutionizing Developer Productivity\n\n**Overview**\nFounded in 2023 and part of Y Combinator Batch W22, EasyCode is an innovative startup based in Toronto, Canada. The mission? To enhance the coding experience by providing an AI, powered by GPT-4, that comprehensively understands your codebase. With a small but effective team of just two employees, EasyCode has already attracted a user base of 900,000 developers, helping them unblock issues and significantly speed up their development processes\u2014often reported as 10 times faster.\n\n**What They Offer**\nEasyCode acts as a personal assistant for developers within their Integrated Development Environment (IDE). Imagine asking questions about your code and receiving immediate, context-aware answers. This tool is designed not only to help with current projects but also to simplify the understanding of legacy code, making it a versatile asset for any coding team.\n\nHere's what EasyCode can do:\n- **Context-Aware Suggestions:** Get tailored code recommendations that fit seamlessly with your existing code structure.\n- **IDE Integration:** Use the power of ChatGPT right where you build\u2014inside your IDE, bringing the intellect of generative AI to live coding scenarios.\n- **Language Support:** Available for over 15 programming languages, including Python, JavaScript, TypeScript, and more, making it a universal tool for diverse coding environments.\n- **Productivity Enhancements:** Developers spend an average of 80% of their time understanding and navigating code. EasyCode helps minimize these interruptions, enabling higher productivity and keeping your coding flow intact.\n\n**Benefits**\nAdopting EasyCode means improved code quality, reduced developer fatigue, and enhanced collaboration among team members. Also, it supports onboarding new developers more efficiently, helps adapt to new technologies, and eases the burdens of troubleshooting errors and migrating legacy systems.\n\n**Engagement**\nThe company encourages developers to join the EasyCode community, boasting over a million users leveraging its capabilities to speed up their workflows. Want to dive in? You can explore pricing, security options, join the team, or even request a demo on their [website](https://www.easycode.ai/).\n\n### Conclusion\nEasyCode stands as a new frontier in developer tools, melding generative AI with practical coding applications. By focusing on developer context and nurturing a smoother coding experience, it aims to reshape how developers interact with their code\u2014making programming not just faster, but smarter. \n\n---\n\nIf you're a developer eager to supercharge your workflow, don\u2019t hesitate to [download EasyCode](https://www.easycode.ai/download) and see how it can transform your coding experience!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/19c5ba5aef5e852510a7b82a97358ae3ca1d44fa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191131Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e5d3fff78ff85f4b58d3c0826bd00425c080d413ac5eb65f0fab4177a43a2c34",
+    "social_links": [
+        "https://www.linkedin.com/company/easycodeai/",
+        "https://twitter.com/EasyCodeAI",
+        "https://www.crunchbase.com/organization/easycode-e8b3"
+    ],
+    "logo_path": "data/logos\\EasyCode_logo.png"
+}

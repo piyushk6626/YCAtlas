@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/pincites",
+    "name": "Pincites",
+    "headline": "Close deals faster with AI for contract negotiation",
+    "batch": "S23",
+    "description": "Pincites makes contract negotiations faster and more consistent for legal teams. Using LLMs, Pincites takes a first pass at reviewing contracts, helping lawyers focus on riskiest parts of their negotiations.",
+    "activity_status": "Active",
+    "website": "https://www.pincites.com/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "Menlo Park, CA",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:legal; industry:legaltech; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Sona Sulakian, Founder",
+            "description": "Building Pincites (S23) to make contract negotiation faster with AI. Previously a transactional attorney, patent attorney, and a strategic consultant for legal tech.",
+            "linkedin": "https://www.linkedin.com/in/sonasulakian/"
+        },
+        {
+            "name": "Mariam Sulakian, Founder",
+            "description": "Building Pincites (S23) to make contract negotiation faster with AI. Previously at GitHub and Meta.",
+            "linkedin": "https://linkedin.com/in/ms-"
+        }
+    ],
+    "status": true,
+    "generated_description": "Pincites is a fresh player in the legaltech space, founded in 2023 and proudly part of Y Combinator's Summer 2023 batch. Based in Menlo Park, CA, this lean team of three is on a mission: to help legal teams close deals faster through the power of AI-powered contract negotiation.\n\nThe core of Pincites' offering is centered on using large language models (LLMs) to bring speed and consistency to contract reviews. The service kicks off by automating the initial pass on reviewing any contract, allowing lawyers to zero in on the more critical parts of negotiations\u2014think of it as a high-tech sidekick that streamlines the mundane tasks.\n\nWhat really excites about Pincites is its seamless integration with Microsoft Word. This means legal professionals can work in an environment they already know while getting real-time suggestions and AI-generated redlines that align with their specific templates and style guidelines. The platform supports contract reviews in over 15 languages, making it a versatile tool for global legal teams.\n\nAs you use Pincites, the system learns from your redlines and preferences, continuously sharpening its suggestions to better fit your style. Moreover, it doesn\u2019t just make suggestions; it also identifies trends in your negotiation strategies\u2014helping you refine your approach over time.\n\nIn the current landscape where efficiency is key, Pincites positions itself as not just a tool, but as an essential ally that empowers legal teams to negotiate ten times faster. They also offer extensive expert support to tailor the AI experience to your unique needs and playbooks.\n\nIf you\u2019re intrigued and want to see how this can supercharge your legal workflow, you can book a demo or try Pincites for free at their [website](https://www.pincites.com/).\n\nIn a nutshell, Pincites is setting out to revolutionize how legal contracts are negotiated, focusing on automation, precision, and continuous learning\u2014all packed into a user-friendly interface. As they continue to evolve, they might just become the go-to solution for legal professionals looking to make sense of the complicated world of contracts.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c13fcabe31d49e9db4b74fb4107cbe101441274a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191640Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2cea5e9d3695fec566c649c39ac6a623d92740ad7cef99d2d362f3c6aaf56804",
+    "social_links": [
+        "https://www.linkedin.com/company/pincites",
+        "https://twitter.com/pincitesai",
+        "https://www.crunchbase.com/organization/pincites",
+        "https://github.com/pincites/"
+    ],
+    "logo_path": "data/logos\\Pincites_logo.png"
+}

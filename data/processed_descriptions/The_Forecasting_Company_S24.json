@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/the-forecasting-company",
+    "name": "The Forecasting Company",
+    "headline": "Foundation models for time series",
+    "batch": "S24",
+    "description": "The Forecasting Company builds planning systems based on our in-house foundation models for time series.",
+    "activity_status": "Active",
+    "website": "https://www.theforecastingcompany.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "Paris, France",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:supply-chain; industry:enterprise-software; industry:ai",
+    "founders": [
+        {
+            "name": "Geoffrey Negiar, Founder & CEO",
+            "description": "Co-founder and CEO at The Forecasting Company, helping enterprise customers improve their operational decision making. PhD grad from UC Berkeley's BAIR. I spent time with Amazon Forecasting Science in SCOT, Google Brain, and Bloomberg LP where I worked on forecasting, optimization and deep learning research.",
+            "linkedin": "https://linkedin.com/in/geoffrey-negiar"
+        },
+        {
+            "name": "Joachim Fainberg, Founder & CTO",
+            "description": "PhD in ML for speech and full-stack developer. Interned at Sonos where I built an on-device wake word detector and at Bloomberg building a large ASR system. Worked full-time at JPMorgan in their Machine Learning Center of Excellence in New York, and then at two startups, team lead ML/NLP at Consigli, a prop-tech startup, and sr algorithm engineer and full-stack at Vind AI, a SaaS for designing off-shore wind parks.",
+            "linkedin": "https://linkedin.com/in/jfainberg"
+        }
+    ],
+    "status": true,
+    "generated_description": "**The Forecasting Company**\n\nFounded in 2024, The Forecasting Company is a fresh face in the realm of machine learning and time series analysis, with roots planted firmly in Paris, France. As a proud member of Y Combinator's Batch S24, TFC is on a mission to revolutionize how businesses predict future events with their cutting-edge foundation models designed specifically for time series data.\n\nAt its core, TFC builds planning systems that leverage in-house models to deliver precise predictions across a variety of time series applications. Whether you\u2019re in logistics, retail, manufacturing, energy, or pharmaceuticals, their solutions can help you optimize operations and better understand demand.\n\n### Key Features\n- **Navi Model**: This is TFC\u2019s flagship forecasting model, allowing users to predict any time series data with remarkable accuracy. Businesses can upload their historical data and receive insights for anything from next quarter's sales to two-year forecasts.\n- **OpenAPI**: Their intuitive API allows seamless integration into existing workflows, making it easy for companies to harness the power of AI without heavy lifting.\n- **Back-Testing**: TFC empowers users to analyze historical data for reliable decision-making, ensuring that forecasts are not just educated guesses, but grounded in past performance.\n\n### Team and Leadership\nCurrently a compact team of two, TFC is guided by Jared Friedman, a Group Partner at Y Combinator, who brings invaluable startup insight and mentorship to help steer this innovative venture.\n\n### Applications Across Industries\nTFC\u2019s solutions aren't one-size-fits-all. They cater to:\n- **Logistics**: Fine-tune supply chains by accurately predicting product demand.\n- **Retail**: Gain insights into customer behavior and optimize inventory levels to boost sales while reducing waste.\n- **Manufacturing**: Pinpoint production needs and maintenance schedules to streamline operations.\n- **Energy**: Predict energy demands and align maintenance schedules for renewable sources.\n- **Pharmaceuticals**: Optimize drug manufacturing processes by predicting market demands.\n\nFor businesses strapped for time, TFC promises speedy integration and actionable insights that can lead to smarter decisions and greater efficiency.\n\n### Learn More\nTo explore their offerings or request access to their innovative forecasting tools, you can visit their website [here](https://www.theforecastingcompany.com). \n\nIn essence, The Forecasting Company is not just selling predictions; they are laying the groundwork for businesses to not only anticipate the future but to thrive in it.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0c476882c916cc20311577dd180993e1d02f4c9a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192015Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1c7dba278ade0a198a6086894bde948d25f21086f1bca1f4b35d3be9bd146ee2",
+    "social_links": [
+        "https://www.linkedin.com/company/104348230/",
+        "https://x.com/forecastingco",
+        "https://www.crunchbase.com/organization/the-forecasting-company",
+        "github.com/theforecastingcompany/"
+    ],
+    "logo_path": "data/logos\\The_Forecasting_Company_logo.png"
+}

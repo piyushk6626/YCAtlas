@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/telmai",
+    "name": "Telmai",
+    "headline": "Automated data observability and quality for Data Lake",
+    "batch": "S21",
+    "description": "Telmai is a Data observability and Data Quality platform designed for Open architecture. It monitors data stored/managed in any data system, such as a data lake or data warehouse, in its raw format at scale without sampling",
+    "activity_status": "Active",
+    "website": "https://www.telm.ai/",
+    "founded_date": 2020.0,
+    "team_size": 12.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; industry:ai; industry:ml; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Mona Rakibe, Founder",
+            "description": "Started Telmai in November 2020 with a vision to improve data quality.\nPrior to Telmai spend 5 years at a Data management start-up as director of product management.",
+            "linkedin": "https://www.linkedin.com/in/monarakibe/"
+        },
+        {
+            "name": "Maxim Lukichev, Founder",
+            "description": "Data Science and Engineering Leader with over 15 years of experience in various environments including startups and Fortune 500 companies",
+            "linkedin": "http://linkedin.com/in/maximlukichev"
+        }
+    ],
+    "status": true,
+    "generated_description": "## Meet Telmai\n\nFounded in 2020 and based in San Francisco, Telmai is carving out a significant niche in the realm of **data observability** and **data quality**\u2014especially for data lakes. It emerged from the Y Combinator Batch S21, and it's rapidly growing its team, currently boasting 12 dedicated employees. \n\n### What They Do\n\nTelmai's mission is straightforward yet critical: it aims to provide automated data observability and quality monitoring for any data system, particularly focusing on open architectures like data lakes and warehouses. By monitoring data in its raw form without sampling, Telmai empowers businesses to guarantee the integrity of their data workflows at scale.\n\n### Key Features\n\n1. **Open Architecture**: No-code integration with data lakes, natively handling raw formats like Iceberg, Hudi, and Delta.\n2. **Data Quality Assurance**: Validates every data value before it's ingested into AI models and automates quality workflows within AI workloads.\n3. **Anomaly Detection**: Leveraging machine learning, Telmai identifies outliers and inconsistencies without relying on sampling.\n4. **Data Layer Consistency**: Ensures data quality across various processing stages\u2014bronze, silver, and gold\u2014by implementing embedded design patterns that halt bad data upstream.\n5. **Incident Management**: Provides robust alerting and ticketing mechanisms to tackle data discrepancies proactively.\n\n### Recognition\n\nTelmai recently achieved the status of a market leader in the **2024 GigaOm Radar for Data Observability**, reinforcing its position in the market. Customers praise its granular insights and seamless integration, calling it a top-tier SaaS solution for monitoring complex datasets.\n\n### Customers\n\nCompanies like **Clearbit** have harnessed Telmai's capabilities, using it to oversee vast amounts of data\u2014remarkably, over 50 million company records and billions of contact details.\n\n### Resources and Community\n\nTelmai thrives on community engagement, offering a rich resource library that includes a blog, data wiki, and various case studies to help users understand the impact of data quality on modern AI initiatives.\n\n### Conclusion\n\nIf you're navigating the complex landscape of data management and want to ensure your data is reliable and high-quality, keep an eye on Telmai. They\u2019re building tools that not only simplify data monitoring but also empower teams to make better, data-driven decisions without the heavy lifting. \n\nFor more information, visit their website [Telmai](https://www.telm.ai/) or consider booking a demo to see how they can support your data observability needs.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5c587c86e741053bc9563aa60118f4b6faa4fda7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192010Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b6c97913a5fa0527addbc66248e4a7b99fc9a9525eb61cc20c92fbeb69e4d126",
+    "social_links": [
+        "https://www.linkedin.com/company/telmai",
+        "https://twitter.com/telmai1"
+    ],
+    "logo_path": "data/logos\\Telmai_logo.png"
+}

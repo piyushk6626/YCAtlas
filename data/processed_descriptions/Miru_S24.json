@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/miru-ml",
+    "name": "Miru",
+    "headline": "Deployment infrastructure for robotics and IoT",
+    "batch": "S24",
+    "description": "Miru provides developers with the infrastructure to easily deploy updates over-the-air to fleets of robots and IoT devices by simply pushing new changes to GitHub.\r\n\nWe\u2019re on a mission to accelerate the automation of the physical world by enabling developers to move atoms with bits. Our vision is simple\u2014robots everywhere, doing everything.",
+    "activity_status": "Active",
+    "website": "https://www.miruml.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:aiops; industry:developer-tools; industry:robotics; industry:iot; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Armel Talla, Founder",
+            "description": "Armel is the Co-Founder and CEO of Miru.\n\nHe graduated from UT Austin with a B.S. in Computer Science and Mathematics. He previously founded Clips AI, an AI video dev tool that automatically repurposed long videos into clips. During college, Armel interned at Google and YouTube, focusing on building internal tools and infrastructure.",
+            "linkedin": "https://linkedin.com/in/armeltalla"
+        },
+        {
+            "name": "Vedant Nair, Founder",
+            "description": "Vedant is the Co-Founder and COO of Miru.\n\nHe graduated from UT Austin, where he studied Business and Computer Science. He previously founded Clips AI, an AI video developer tool that automatically repurposed long videos into clips. During college, he interned at Bain & Co. and EY-Parthenon, doing GTM consulting for software companies.",
+            "linkedin": "https://linkedin.com/in/vedantnair"
+        },
+        {
+            "name": "Benjamin Smidt, Founder",
+            "description": "Ben is the Co-Founder and CTO of Miru. \n\nHe holds a B.S. in Electrical and Computer Engineering from UT Austin, where he initially spent two years studying Mechanical Engineering, igniting his passion for hardware and robotics. Prior to Miru, Ben founded Clips AI, where he developed production-ready AI models and video processing servers using Kubernetes.",
+            "linkedin": "https://linkedin.com/in/benjamin-smidt"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Miru: Enabling the Future of Robotics and IoT\n\nMiru is a fresh player in the tech landscape, founded in 2024 and currently part of Y Combinator's Batch S24. With a three-person team, this San Francisco-based startup has a clear mission: to accelerate the automation of the physical world through robust deployment infrastructure for robotics and IoT.\n\n#### What's the Deal?\n\nAt its core, Miru enables developers to effortlessly deploy over-the-air updates to fleets of robots and IoT devices. The process is simple: push new changes to GitHub, and Miru handles the rest. This means developers can move \"atoms\" with \"bits,\" creating a seamless operational flow that allows for rapid iteration and improvement of robotic functions.\n\n#### Key Features \n\nMiru's platform boasts several standout features:\n- **Over-the-Air Deployment:** Easily deploy containerized updates by just pushing new changes to your GitHub repository.\n- **Remote Management:** Manage device connectivity, software versioning, and even SSH access from anywhere in the world. \n- **Logging:** Access to build and container logs through a user-friendly interface.\n- **AI Ready:** Designed to handle compute-intensive, GPU-enabled edge devices\u2014perfect for modern robotics applications.\n- **Security:** Built-in security measures protect data throughout the deployment process.\n- **Reliability:** The platform is engineered to maintain performance even in environments with unreliable connectivity or power constraints.\n\n#### Team and Backing\n\nMiru is led by a small yet ambitious team, and they are backed by Y Combinator, a testament to their potential. With Aaron Epstein as a Group Partner, they have access to a vast network and resources to help them grow.\n\n#### Vision for the Future\n\nThe vision here is bold: \"robots everywhere, doing everything.\" Miru aims to democratize robotic technology, ensuring that anyone\u2014developers, companies, or innovators\u2014can easily deploy updates and solutions that will lead to smarter, more autonomous devices.\n\n#### Conclusion\n\nIf you\u2019re intrigued by the intersection of robotics and IoT and looking for a reliable deployment solution, Miru offers a compelling product that simplifies the complexities of software management for edge devices. As they continue to evolve, Miru is positioning itself as a key player in the future landscape of automation.\n\nFor more details, you can check their website: [Miru](https://www.miruml.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2973ffacf3de1f84baa9604809612a19dfc8e6a0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191542Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=68b0dbb129738f5d2c3f7ca0727ff2a78fe9fcd2ad1ea8520df9bb10f76023a3",
+    "social_links": [
+        "https://www.linkedin.com/company/miruml",
+        "https://x.com/mirurobotics",
+        "https://github.com/miruml"
+    ],
+    "logo_path": "data/logos\\Miru_logo.png"
+}

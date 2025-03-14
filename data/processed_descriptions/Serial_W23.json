@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/serial",
+    "name": "Serial",
+    "headline": "Root cause manufacturing issues in seconds",
+    "batch": "W23",
+    "description": "Serial is software to help manufacturers root cause problems in minutes not days and avoid millions in liabilities. Our solution integrates with data sources from any production line, enabling engineering & operations teams to ask questions about their manufacturing data and instantly get answers. Serial will become the single source of truth for manufacturing data.\r\n\nOur founding team has 10+ years of manufacturing and product design experience from Apple, Tesla, and more. We have suffered this problem firsthand and are building the tool to fix it.",
+    "activity_status": "Active",
+    "website": "https://www.serial.io/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:analytics; industry:manufacturing; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Tak Alguire, Founder",
+            "description": "Co-founder and CEO of Serial (W23). Tak has spent the past 5 years in manufacturing operations at companies such as Apple, North, and Fleetcarma. He has firsthand experience deploying large-scale data tools for the iPhone and Apple Watch to empower engineers to make data-driven decisions. Now he wants to help all engineers save time and effort.",
+            "linkedin": "https://www.linkedin.com/in/tak-alguire/"
+        },
+        {
+            "name": "Devon Copeland, Founder",
+            "description": "Co-founder and CTO of Serial (W23). Devon has spent over 5 years working in hardware engineering at companies like Apple, Tesla, and Aeryon Labs. His obsession with timely, data-driven decision making has guided the engineering of several features on Apple Watch Ultra and the Model 3. Today, Devon is laser-focused on bringing his wealth of analytical engineering knowledge to Serial, thereby unlocking new cheat codes for any company making physical products.",
+            "linkedin": "https://www.linkedin.com/in/dkccopeland/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Serial**\n\nFounded in 2023 and based in San Francisco, Serial is shaking up the manufacturing landscape with a bold mission: to help manufacturers pinpoint root causes of issues in seconds rather than days, ultimately shielding them from millions in liabilities. Think of it as a smarter, faster way for engineering and operations teams to dig into their production data, ask the hard questions, and get instant answers.\n\nAt its core, Serial is a software platform designed to integrate seamlessly with various data sources along any production line. It aims to serve as the single source of truth for all manufacturing data, making it easier for teams to track every detail\u2014from components to final assembly. \n\nThe founding team brings over a decade of experience from industry giants like Apple and Tesla, so they understand these problems firsthand. They are not just creating another tool; they are crafting a solution they wish they had while navigating the complexities of manufacturing.\n\nThe platform includes features such as:\n- **Instant Analysis**: Skip the Excel headaches and dive straight into insightful graphs and comparisons.\n- **Automated Reporting**: Review test results for specific serial numbers in a snap.\n- **Dynamic Work Instructions**: Customize instructions based on part numbers for clarity and efficiency.\n- **Trend Alerts**: Catch potential issues before they escalate by proactively monitoring trends.\n- **Mobile Access**: Because data should never be restricted to a desk.\n\nSupported by Y Combinator in their W23 batch, Serial operates with a lean two-person team, guided by the expertise of Aaron Epstein as Group Partner. Their strong backing and unique insights into manufacturing challenges position them as an exciting startup in the SaaS and analytics spaces, carving out a niche in the Bay Area.\n\nFor more information, schedule a demo, or just get a better sense of what Serial can do, check out their website: [Serial.io](https://www.serial.io/). \n\nIn a world where manufacturing efficiency can make or break a company, Serial is stepping in to change the game\u2014one answer at a time.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5ae7de89f46abe54d63cbdcc9e6db29e0136a159.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191918Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c96d72ee09d956b7b4403195642471d68ed14770bd8d8bcb909829896ec0c95e",
+    "social_links": [
+        "https://www.linkedin.com/company/serialmfg/",
+        "https://twitter.com/Serialmfg"
+    ],
+    "logo_path": "data/logos\\Serial_logo.png"
+}

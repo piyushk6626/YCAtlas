@@ -1,0 +1,35 @@
+{
+    "Links": "https://www.ycombinator.com/companies/optifye-ai",
+    "Name": "Optifye.ai",
+    "Headline": "AI line optimization for manual assembly",
+    "Batch": "W25",
+    "Description": "Optifye.ai is an AI line Optimization system for manual assembly.\r\n\nWe place cameras in assembly lines and use computer vision to help supervisors solve shop-floor inefficiencies in real-time. \r\n\nThe shop floor has historically been a black box. With Optifye, manufacturing companies can now accurately measure workspace output and make decisions that boost line efficiency by up to 30%.",
+    "Activity_Status": "Active",
+    "Website": "https://www.optifye.ai",
+    "Founded_Date": "2024",
+    "Team_Size": "3",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/brad-flora",
+    "Group_Partner": "Brad Flora",
+    "Company_Linkedin": "https://www.linkedin.com/company/optifye-ai/?viewAsMember=true",
+    "Company_Twitter": "",
+    "Tags": "industry:computer-vision; industry:manufacturing; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/optifye-ai/?viewAsMember=true"
+    ],
+    "logo_path": "data\\logos\\Optifye.ai.png",
+    "Active_Founders": [
+        {
+            "Name": "Vivaan Baid, Founder",
+            "Description": "I studied computer science & psychology at Duke. My family has been running a manufacturing company since before I was born. I've been around assembly lines for as long as I can remember.\n\nAt Optifye, I am using my expertise in computer vision to enable supervisors to solve shop-floor inefficiencies in real-time.",
+            "LinkedIn": "https://www.linkedin.com/in/vivaan-baid-119415177/"
+        },
+        {
+            "Name": "Kushal Mohta, Founder",
+            "Description": "Building Optifye.ai. Previously built a system to boost efficiency by 105% of semi-automated lines at an automobile gears manufacturing company. My family also runs several manufacturing plants in various industries, which has given me unrestricted access to assembly lines since I was 15.\n\n Studied for a B.S.E in Electrical and Computer Engineering and B.S. in Computer Science at Duke University.",
+            "LinkedIn": "https://www.linkedin.com/in/kushal-mohta-6926931b4/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Optifye.ai: Revolutionizing Manual Assembly with AI**\n\nFounded in 2024 and nestled in San Francisco, Optifye.ai is directly tackling inefficiencies in the manufacturing sector. As part of Y Combinator\u2019s Batch W25, this startup focuses on AI line optimization specifically for manual assembly processes. What sets them apart? They employ advanced computer vision technology, placing cameras along assembly lines to give real-time insights that can enhance overall efficiency by up to 30%. \n\n**Mission and Technology**  \nOptifye.ai\u2019s mission is straightforward: to turn the shop floor\u2014from a black box into a transparent, data-driven workspace. By accurately measuring workspace output, manufacturing companies are not just recording data; they are unlocking actionable insights that lead to smarter decisions. This approach allows businesses to identify productivity bottlenecks and optimize their assembly lines significantly.\n\n**Getting Started**  \nOptifye's setup is user-friendly. In just three simple steps\u2014camera installation, AI training, and access to a personalized dashboard\u2014a company can start reaping the benefits of real-time productivity metrics, automated reporting, and insightful analytics concerning cycle times and workspace performance.\n\n**Data Privacy at Heart**  \nWith the increasing importance of data security, Optifye takes privacy very seriously. They utilize robust measures like end-to-end encryption, prompt data deletion, and stringent access controls, ensuring that your sensitive information remains confidential. \n\n**Team and Backing**  \nWith a nimble team of just three and guidance from Group Partner Brad Flora, Optifye.ai is small but ambitious. Their strategy focuses on transforming the conventional manufacturing landscape by leveraging the capabilities of AI in ways that were unimaginable until recently.\n\nWant to see Optifye in action? You can [book a demo](https://www.optifye.ai/<https:/calendly.com/founders-optifye/optifye-intro-call>) to explore how their system can boost your assembly line productivity. \n\nIn summary, Optifye.ai is dressing an age-old manufacturing challenge with a modern, AI-driven solution that promises not only to shed light on the mysteries of shop-floor operations but also to drive significant efficiency improvements. It\u2019s an exciting time to watch this company grow as it moves toward reshaping the future of manufacturing."
+}

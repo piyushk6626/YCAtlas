@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/afterquery",
+    "name": "AfterQuery",
+    "headline": "High-quality AI starts with high-quality human data",
+    "batch": "W25",
+    "description": "We empower foundational AI labs, enterprises, and startups by providing high-quality human-generated datasets that are essential for fine-tuning more capable, refined, and reliable AI systems. \r\n\nOur thesis is that truly exceptional model performance requires the highest quality human training data.\r\n\nTo solve for this, we are building a platform to onboard experts in various fields to work on custom datasets. Think of the working professionals at top firms and the smartest students in various subjects (PhDs). Then, whenever our clients have a request for a certain type of data, we will construct and lead a team to produce: fine-tuning data, RLHF data, benchmarks, etc.\r\n\nWe\u2019ve already started in finance, illustrating the importance of high-quality data in our paper posted here: https://arxiv.org/abs/2501.18062.",
+    "activity_status": "Active",
+    "website": "https://afterquery.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:data-labeling; industry:big-data; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Carlos Georgescu, Co-Founder",
+            "description": "Building AfterQuery. Previously interned at Citadel Securities (2x), Meta & Google as a software engineer. Past acquired ed-tech founder. \n\nStudied for a B.S. in Computer Science from the University of British Columbia.",
+            "linkedin": "https://www.linkedin.com/in/carlossgg/"
+        },
+        {
+            "name": "Spencer Mateega, Co-Founder",
+            "description": "Building AfterQuery. Previously interned in technology private equity at Silver Lake, technology investment banking at Morgan Stanley, and software engineering at Meta and Google. Built and sold a startup with Danny, in high school.\n\nStudied for a B.S. in Finance and Statistics at Wharton and a M.S. Computer Science at Penn.",
+            "linkedin": "https://www.linkedin.com/in/spencermateega"
+        },
+        {
+            "name": "Danny Tang, Co-Founder",
+            "description": "Building AfterQuery. He was previously a student at Wharton and interned at Morgan Stanley where he worked on the largest IPO of 2024. Built and sold a startup with Spencer, in high school.",
+            "linkedin": "https://www.linkedin.com/in/danny1898/"
+        }
+    ],
+    "status": true,
+    "generated_description": "AfterQuery is a freshly minted startup based in San Francisco that officially launched in 2024 and is part of Y Combinator\u2019s W25 batch. Their mission is simple yet profound: \"High-quality AI starts with high-quality human data.\" \n\nWhat sets AfterQuery apart is their strong belief in the adage that great models start with great data. They aim to empower AI labs, enterprises, and startups by supplying meticulously crafted human-generated datasets that are crucial for enhancing and refining AI systems. AfterQuery is tapping into a potent thesis: to achieve top-tier model performance, you need top-tier training data.\n\nThe brains behind AfterQuery are not just tech enthusiasts; they are committed to building a structured platform that brings together experts from various fields\u2014think seasoned professionals and bright PhD students. Whenever a client needs a specific type of data, AfterQuery assembles a tailored team to create bespoke datasets, focusing on areas ranging from finance to more complex domains.\n\nTheir current offerings span several categories:\n\n1. **Foundational Models**: They provide unique datasets to fill the gaps in your large language models (LLMs).\n2. **Enterprise AI**: Customized data solutions help businesses enhance their AI without the fear of generating incorrect outputs or hallucinations.\n3. **AI Startups**: Startups can access rare datasets that fast-track their AI developments, giving them the competitive edge needed to impress customers.\n4. **Bespoke Datasets**: Every project begins with a thorough assessment of the client\u2019s needs, followed by strategic design and expert engagement to ensure the highest quality and relevance of data.\n\nAfterQuery prides itself on its rigorous quality assurance process. Every data point is validated and enriched with critical context, ensuring that clients don't just receive data; they receive data that can dramatically boost their AI\u2019s performance. \n\nFrom finance (as demonstrated in their published research) to diverse multimodal datasets, AfterQuery is on a mission to set a new standard for what AI training data can and should be. With a small but nimble team ready to adapt, AfterQuery is one to watch as they continue to redefine the landscape of AI training.\n\nIf you want to delve deeper into their offerings or even partner up, you can check out their website at [AfterQuery](https://afterquery.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e64524646f623c2972ef5f15acd858a6b1b39c3e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190946Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8d9c0e6890422b75fb865c7447dbec11ab2879acd57b1c56ac34e2ab5c44621c",
+    "social_links": [],
+    "logo_path": "data/logos\\AfterQuery_logo.png"
+}

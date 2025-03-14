@@ -1,0 +1,35 @@
+{
+    "links": "https://www.ycombinator.com/companies/magic-loops",
+    "name": "Magic Loops",
+    "headline": "Program computers with natural language",
+    "batch": "S23",
+    "description": "Magic Loops are the fastest way to automate (almost) anything. By combining generative AI with code, we make it easy for anyone (yes, even non-programmers!) to setup repeatable tasks and automated workflows.\r\n\n- Want to use ChatGPT to classify new product features from a Close call? \r\n\n- Want to receive a text when someone purchases >$1000 from your Shopify store?\r\n\n- Want to replace your bespoke AWS Lambdas with self-repairing code? \r\n\nBuild your first Magic Loop today!",
+    "activity_status": "Active",
+    "website": "https://magicloops.dev",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:consumer; industry:productivity; industry:automation; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Adam Williams, Founder",
+            "description": "Grew Kojo from 1 to 20+ engineers, Seed to Series C, millions in ARR. Created Long Game from scratch to millions in AUM. Built weather data infrastructure for all iPhone and Android phones in the US. Wrote digital logic for two satellite missions (NASA) and a Mars rover (ESA/NASA).",
+            "linkedin": "https://linkedin.com/in/%F0%9F%8F%97-adam-williams-%F0%9F%9A%A7-0995a949"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Magic Loops**\n\n**Founded:** 2023  \n**Location:** San Francisco  \n**Team Size:** 2  \n**YC Batch:** S23  \n**Website:** [magicloops.dev](https://magicloops.dev)  \n\n---\n\n**Mission:**  \nMagic Loops is on a quest to revolutionize how we engage with computers\u2014by programming them with natural language. They believe in shaking off the shackles of traditional coding and making automation accessible to everyone, including those who aren't trained programmers.\n\n**What They Do:**  \nInitially launched as a tool designed to automate tasks efficiently, Magic Loops marries generative AI with code to help users set up repeatable tasks and workflows with ease. Imagine being able to classify product features from a sales call using ChatGPT or getting instant notifications when a hefty purchase is made on your Shopify store. They offer something truly unique with their platform\u2014self-repairing code that can replace cumbersome AWS Lambdas.\n\n**Key Features:**\n- **Custom API Creation:** You can define your API needs, review the proposals, and activate your Flow with three simple steps.\n- **Pre-Built Templates:** Whether you're looking to scrape weather data or automate birthday reminders, they provide a range of templates crafted by users.\n- **Diverse Automation Options:** From sending daily emails with cat pictures to summarizing news articles, their platform supports a myriad of smart automations.\n\n**Current Offering:**\nAmong the many possibilities, users can:\n- Create an API for translating user requests into English.\n- Generate concise, Twitter-ready updates from merged GitHub pull requests.\n- Get daily style advice based on weather conditions in San Francisco.\n- Automate birthday gift reminders using a smart logic based on upcoming dates.\n\n**User Base:**\nMagic Loops has garnered rapid traction, with over 800,000 Loops executed, benefiting tens of thousands of users. Testimonials highlight its effectiveness, with users expressing surprise at how well it integrates compared to other solutions.\n\n**Pricing:**\nMagic Loops opts for transparency in pricing:\n- **Free Plan:** Get started with 3,000 credits and access public Loops.\n- **Professional Plan:** For $20/month, enjoy 20,000 credits with dedicated support.\n- **Enterprise Plan:** Tailored for larger organizations with unlimited credits and custom solutions.\n\n---\n\nIn a nutshell, Magic Loops is here to empower anyone looking to introduce a bit of magic into their workflows. By leveraging the capabilities of generative AI, they\u2019re making the once daunting task of automation not just possible but enjoyable. Dive in and build your first Magic Loop today!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/24725fa5101063235b8e65e9dd0bfcf3718b85a8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191519Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=098e944a0035003a0f321fe3d80f38af0b220c4f44b173200bf96e7c5560959c",
+    "social_links": [
+        "https://www.linkedin.com/company/magicloops",
+        "https://twitter.com/magicloopsdev",
+        "https://www.facebook.com/magicloopsdev",
+        "https://www.crunchbase.com/organization/magic-loops",
+        "https://github.com/magicloops"
+    ],
+    "logo_path": "data/logos\\Magic_Loops_logo.png"
+}

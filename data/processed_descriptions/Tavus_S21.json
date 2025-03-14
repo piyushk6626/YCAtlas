@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/tavus",
+    "name": "Tavus",
+    "headline": "Building the human layer of AI",
+    "batch": "S21",
+    "description": "At Tavus, we're building the human layer of AI. Our mission is to make human-AI interaction as natural as face-to-face interaction, enabling the human touch where it has been previously unscalable. We achieve this through pioneering research in multi-modal AI models for human perception and understanding, combined with state-of-the-art human avatar rendering and conversation models that we make accessible to developers worldwide. Our models and APIs power everything from text-to-video AI avatars to real-time conversational video experiences across industries like healthcare, recruiting, sales, education, and more. By enabling AI to see, hear, and communicate with human-like authenticity, we're creating the foundation for developers to create the next generation of AI employees, assistants, and companions.",
+    "activity_status": "Active",
+    "website": "https://www.tavus.io",
+    "founded_date": 2021.0,
+    "team_size": 30.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:b2b; industry:video; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Hassaan Raza, Founder",
+            "description": "Building the human layer of AI",
+            "linkedin": "http://linkedin.com/in/hassaanraza/"
+        },
+        {
+            "name": "Quinn Favret, Founder",
+            "description": "Building the human layer of AI",
+            "linkedin": "https://www.linkedin.com/in/quinn-favret/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Tavus: Building the Human Layer of AI**\n\nFounded in 2021 and part of Y Combinator's Batch S21, Tavus is ramping up the way we interact with AI by making it feel more human. The company, based in San Francisco and employing around 30 people, is on a mission to enhance human-AI interaction to be as seamless and natural as face-to-face communication.\n\n### What They Do\n\nEssentially, Tavus provides powerful tools that allow developers to create truly innovative AI experiences. This includes everything from text-to-video AI avatars to real-time conversational interfaces. Their technology focuses on replicating human perception and understanding using multi-modal AI models\u2014think of them as the behind-the-scenes nerds turning the sci-fi dream of digital twins into reality.\n\nThe flagship offerings include:\n- **Video Generation**: Create videos from scripts using realistic AI avatars.\n- **Conversational Video Interface**: Engage in real-time conversations with AI that feels genuine.\n- **AI Models**: Access advanced, highly realistic digital replicas through their API, powered by their innovative Phoenix model.\n\n### Target Markets\n\nTavus' technology is applicable across various industries, including:\n- Healthcare\n- Recruiting\n- Sales\n- Education\n\nIt\u2019s clear that Tavus wants to enable businesses to leverage AI for tasks that had previously been too complex or unscalable.\n\n### Why Tavus Stands Out\n\nTavus emphasizes a developer-first approach, providing extensive resources, documentation, and support to ensure smooth integration. Its models are not just about generating cool content; they're engineered for realism and responsiveness. According to feedback from users, their technology offers impressively low latency and high fidelity\u2014making AI interactions almost indistinguishable from real human contacts.\n\nThey are also considerate about privacy and security, ensuring that user experiences are safeguarded with comprehensive protocols. With features like safety checks and content moderation, they\u2019re aiming for an ethical approach in AI deployment.\n\n### Looking Ahead\n\nTavus is not just stopping at what they have; they\u2019re constantly evolving their offering\u2014dubbing APIs and language support enhancements are on the horizon. Their ambition signals a strong belief in the future where AI can uphold the \"human touch,\" responsibly and authentically.\n\nIn conclusion, Tavus is carving a niche in the AI landscape, driven by innovation and a clear vision for future interactions. They offer not just tools, but a pathway to a more genuine integration of technology into our daily lives. You can explore their offerings further at [Tavus.io](https://www.tavus.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/7900f12abb2522222ef61d5a3f5155671651c594.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192007Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2626e70aa437795d10fffcabb9568339e615a4b40c7cea4ce919299a4e4d9e70",
+    "social_links": [
+        "https://www.linkedin.com/company/tavus-io/",
+        "https://twitter.com/heytavus",
+        "https://www.crunchbase.com/organization/tavus"
+    ],
+    "logo_path": "data/logos\\Tavus_logo.png"
+}

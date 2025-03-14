@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/webiny",
+    "name": "Webiny",
+    "headline": "Open-source framework for building serverless applications",
+    "batch": "W21",
+    "description": "When the public cloud appeared migration was easy. Existing apps running on physical servers could just be moved to virtual machines running in the cloud. The cloud is now moving towards serverless, and serverless is not backward compatible. New tools need to be created and existing apps need to be rewritten. Webiny provides developers with everything they need to build those serverless apps.\r\n\nWe are a 100% remote team.",
+    "activity_status": "Active",
+    "website": "https://www.webiny.com",
+    "founded_date": null,
+    "team_size": 6.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:open-source",
+    "founders": [
+        {
+            "name": "Sven Al Hamad, Founder",
+            "description": "Co-founder & CEO at Webiny. \n\nEx-Akamai - worked with the largest media and ecommerce customers in Europe as their trusted advisor on the topics of web performance and architecture. Proven track record of successful delivery of several multi-million dollar projects for large enterprises. \nAn experienced entrepreneur acted as a CTO in 4 different startups.",
+            "linkedin": "https://www.linkedin.com/in/svenalhamad/"
+        },
+        {
+            "name": "Pavel Denisjuk, Founder",
+            "description": "CTO and Co-founder of Webiny.",
+            "linkedin": "https://www.linkedin.com/in/paveldenisjuk/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Webiny: The Serverless Framework for Developers**\n\nWebiny is a pioneering open-source framework that equips developers with the tools necessary to build serverless applications. Founded during the shift from traditional cloud computing to serverless architecture, Webiny emerged to address the significant shift in infrastructure and development practices. For developers migrating from physical servers to virtual ones, the journey is clear\u2014transfer apps to the cloud. However, moving towards serverless requires a new set of tools and a rethinking of application architecture, which is where Webiny excels.\n\n### Mission and Location\nBased in London, United Kingdom, Webiny operates with a fully remote team of six talented individuals. As part of the Y Combinator Batch W21, the company's mission is clear: to create a seamless environment for developers to leverage serverless technology to its fullest potential.\n\n### Product Offerings\nWebiny is more than just a framework; it's a suite of powerful applications tailored for modern content needs:\n- **Headless CMS**: A GraphQL-based solution that serves as the backbone for managing content.\n- **Page Builder**: A no-code, drag-and-drop feature allowing users to build dynamic pages effortlessly.\n- **File Manager**: A robust solution for managing digital assets in a serverless environment.\n- **Form Builder**: Helps in creating lead generation forms without coding.\n- **Advanced Publishing Workflow**: Ensures content is peer-reviewed before publication, enhancing reliability.\n\n### Key Features\nThe framework boasts a range of standout features:\n- **Multi-Tenancy**: Allows for the management of multiple projects from a single instance, perfect for enterprise solutions.\n- **Self-Hosted**: Users have complete control over their data, empowering privacy and governance.\n- **Open-Source**: Designed for customization and extensions, enabling developers to tailor the platform to specific needs.\n- **AWS Serverless Infrastructure**: Built on highly scalable and efficient serverless systems that reduce operational overhead.\n- **Development Framework**: Accelerates the process of building new serverless applications.\n\n### Community and Support\nWebiny fosters a vibrant community of over 2,700 developers on Slack, encouraging collaboration and support. The platform also invites contributions, ensuring it remains a community-driven project.\n\n### Recognition and Customer Base\nWebiny has been recognized by leaders in various industries, including Siemens, Starbucks, AWS, and Warner Bros. Discovery. These organizations chose Webiny for its unparalleled customization, scalability, and dedication to data ownership.\n\n### Conclusion\nIf you're navigating the complexities of serverless development and need a robust, customizable platform that emphasizes data ownership and security, Webiny is worth exploring. It stands as a beacon for developers eager to harness the full potential of serverless architectures while maintaining control over their environments.\n\nFor more information or to get started, visit [Webiny\u2019s official website](https://www.webiny.com) or book a demo to see how it can revolutionize your development process.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/19123e8c27bcd670720d9951d7aa460750795114.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192057Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=30d120292723cb4140d3f8fd0e1f68c27fcade646164dc0d8e1c82a4a4bf32d6",
+    "social_links": [
+        "https://twitter.com/WebinyPlatform",
+        "https://www.crunchbase.com/organization/webiny",
+        "https://github.com/webiny"
+    ],
+    "logo_path": "data/logos\\Webiny_logo.png"
+}

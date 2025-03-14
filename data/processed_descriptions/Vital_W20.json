@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/vital",
+    "name": "Vital",
+    "headline": "API for at-home health data",
+    "batch": "W20",
+    "description": "Vital is an API for at-home health data that makes it easy for health tech companies to collect data from 100's of wearable devices and deliver at-home test kits to their users. Healthtech companies need lab data as well as wearable data, and we give them access to both through a single line of code.",
+    "activity_status": "Active",
+    "website": "https://tryvital.io",
+    "founded_date": 2021.0,
+    "team_size": 10.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:health-tech; industry:digital-health; industry:api; industry:health-&-wellness",
+    "founders": [
+        {
+            "name": "Maitham Dib, Founder",
+            "description": "Love all things health-tech :) Previously applying ML in Aerospace, before joining Babylon health.",
+            "linkedin": "https://www.linkedin.com/in/maitham-deeb-7380696a/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Vital**\n\nFounded in 2021 and part of the Y Combinator W20 batch, Vital is a London-based health-tech startup on a mission to revolutionize at-home health data collection. Their main offering? A simple API that allows health tech companies to seamlessly gather data from hundreds of wearable devices, alongside lab test results, all through a single line of code. With a compact team of ten, Vital is making a significant impact in the digital health landscape.\n\n**Why Vital Matters**\n\nVital's API is built for efficiency and simplicity. Health tech companies often juggle multiple data streams to provide comprehensive health insights, which can be a cumbersome engineering task. Vital streamlines this by integrating wearables and lab data into one platform, reducing the time developers spend on integrations from months to mere hours. \n\n**Key Offerings:**\n\n1. **Device API:** Effortlessly connect your app to wearable device data.\n2. **Lab Test API:** Get streamlined lab testing across three modalities.\n3. **Horizon AI:** Gain actionable insights by harnessing the power of AI on your health data.\n\nThey claim to support over 500 devices and labs, ensuring a wide coverage of health data without the hassle.\n\n**Proven Value**\n\nVital's system isn't just beneficial in theory\u2014companies using their API report concrete successes: \n\n- An increase of over 1,000 patients per month\n- Rapid integration timelines, with some going from zero to fully operational in just three weeks\n- Stunning cost savings, with companies reporting up to $450,000 saved in a year\n\nCustomers have praised Vital for exceptional functionality and support, illustrating a compelling partnership approach.\n\n**Security and Compliance**\n\nVital prioritizes data security, with certifications like SOC 2 Type I, HIPAA, and GDPR compliance. This is essential in health tech, where data sensitivity is paramount.\n\n**Final Thoughts**\n\nIn a world where health tech is rapidly evolving, Vital\u2019s API acts as a bridge, connecting a multitude of health data sources with ease. By focusing on reducing engineering burdens while ensuring comprehensive health insights, Vital positions itself as a crucial ally for health tech companies striving to innovate in at-home health care. \n\nFor more info, check out their website: [Vital](https://tryvital.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8beb33b66f4c9a3193d4c13575a8540ed9de6a2c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192050Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6bdf1b40b9b1e937cb3e7f0c0e4e73c149fa99c116a190f14b593b831cb1a805",
+    "social_links": [
+        "https://www.linkedin.com/company/tryvital/",
+        "https://twitter.com/tryVital"
+    ],
+    "logo_path": "data/logos\\Vital_logo.png"
+}

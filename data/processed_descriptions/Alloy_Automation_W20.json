@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/alloy-automation",
+    "name": "Alloy Automation",
+    "headline": "Alloy is a platform for building and managing SaaS integrations",
+    "batch": "W20",
+    "description": "Alloy is an integration platform used by Amazon, Gorgias, Postscript, & others to launch ERP, commerce, CRM, and various other integrations. Founded in 2019, the company is backed by $27M from a16z, Bain Capital Ventures, Y Combinator, and others.",
+    "activity_status": "Active",
+    "website": "https://runalloy.com/",
+    "founded_date": 2019.0,
+    "team_size": 40.0,
+    "location": "New York",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:api; location:new-york",
+    "founders": [
+        {
+            "name": "Sara Du, Founder",
+            "description": "YC W20",
+            "linkedin": "https://www.linkedin.com/in/saradu"
+        },
+        {
+            "name": "Gregg Mojica, Founder",
+            "description": "Cofounder of Alloy Automation. https://twitter.com/greggmojica",
+            "linkedin": "https://www.linkedin.com/in/greggmojica/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Alloy Automation is carving quite a niche in the rapidly growing realm of SaaS integrations. Founded in 2019 and part of Y Combinator's Winter 2020 batch, Alloy has taken on the ambitious mission of simplifying how businesses build and manage integrations among various software applications.\n\n### Quick Facts:\n- **Founded:** 2019\n- **Location:** New York\n- **Team Size:** 40 employees\n- **Funding:** $27 million from notable investors including a16z, Bain Capital Ventures, and Y Combinator.\n- **Website:** [runalloy.com](https://runalloy.com/)\n\n### Mission and Solutions\nAt its core, Alloy is an integration platform specifically designed for software-as-a-service (SaaS) companies. It's about making it easier to connect tools used in e-commerce, CRM, ERP, and more\u2014think Amazon, Gorgias, and Postscript, which already leverage their technology. The beauty of Alloy lies in its **AI-powered, low-code iPaaS** (Integration Platform as a Service) which allows businesses to launch integrations in mere minutes, freeing up engineering resources for more strategic projects.\n\nTheir platform includes features like a **Workflow Builder** that\u2019s super intuitive, enabling users\u2014regardless of coding expertise\u2014to set up custom workflows with a simple drag-and-drop interface. And let's be real, who doesn\u2019t love a solution that scales effortlessly while keeping things automated?\n\n### Why Alloy Stands Out\n1. **Extensive Integrations:** With pre-built connectors for numerous popular applications across ERP, CRM, and commerce platforms, Alloy provides businesses access to a treasure trove of integrations.\n   \n2. **Efficiency Gains:** Companies like Burberry have reportedly saved significant resources by automating processes with Alloy, showcasing just how impactful integration can be when done right.\n\n3. **Robust Security:** Alloy prioritizes compliance and data security, being SOC 2 Type 2, SOC 3, GDPR, CCPA, and HIPAA compliant. They use bank-level encryption to protect data, emphasizing a security-first mindset.\n\n4. **Scalable Infrastructure:** Their multi-regional architecture ensures quick data routing, while their Kubernetes-backed infrastructure means they can handle varying loads with grace.\n\n5. **Community Feedback:** More than just slick marketing, Alloy garners trust from leading organizations, as evidenced by positive testimonials from firms like Best Buy and Postscript.\n\nImagine a future where setting up a new software integration is as easy as pie. With Alloy Automation at the helm, that future is well within reach. If that sounds exciting, don't hesitate to reach out and see how they can help your business streamline and scale operations through smarter integrations! \n\nFor more details, check out their website: [runalloy.com](https://runalloy.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f83804d6f823e7d9a139274610f9f328775f10a5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190954Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5caa1936bc56fe2dfc1444e320d69561347c33c1bded481f1ed6272f0b4ec0d6",
+    "social_links": [
+        "https://www.linkedin.com/company/alloy-automation",
+        "https://twitter.com/AlloyAutomation",
+        "https://www.facebook.com/AlloyAutomation/",
+        "https://www.crunchbase.com/organization/alloy-automation",
+        "https://github.com/alloy-automation"
+    ],
+    "logo_path": "data/logos\\Alloy_Automation_logo.png"
+}

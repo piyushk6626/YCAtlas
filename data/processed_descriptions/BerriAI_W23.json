@@ -1,0 +1,27 @@
+{
+    "links": "https://www.ycombinator.com/companies/berriai",
+    "name": "BerriAI",
+    "headline": "Call every LLM API like it's OpenAI [100+ LLMs]",
+    "batch": "W23",
+    "description": "An open-source library to simplify LLM completion + embedding calls: https://github.com/BerriAI/litellm",
+    "activity_status": "Active",
+    "website": "https://github.com/BerriAI/litellm",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [],
+    "status": true,
+    "generated_description": "BerriAI is a fledgling startup founded in 2023 and is a proud member of Y Combinator\u2019s Winter 2023 batch. With a small but ambitious team of two, BerriAI aims to democratize access to large language models (LLMs) by providing a streamlined solution to call over 100 LLM APIs as if they're from OpenAI. Think of them as the universal translator for language models.\n\nTheir flagship product, **LiteLLM**, is an open-source library that simplifies the process of interacting with various LLM APIs, making it easier for developers to incorporate AI capabilities into their applications. By abstracting the complexities, LiteLLM allows users to manage API requests for providers like Azure, Google Cloud (VertexAI), Cohere, Hugging Face, and more\u2014all under a unified interface.\n\nBerriAI is geared towards those looking to harness the power of multiple LLMs without getting bogged down by integration complications. They\u2019ve designed LiteLLM to not only support traditional completion and embedding calls but also to handle features like rate limiting and cost tracking, which are crucial for enterprises managing multiple AI model integrations.\n\nThe founders have expressed a clear vision derived from a personal pain point\u2014balancing the growing complexity and capabilities of various LLMs. They've recognized the market's need for a solution that keeps things simple while still offering extensive functionality.\n\nIf you\u2019re intrigued, BerriAI\u2019s code and documentation can be found on their GitHub repository: [BerriAI/litellm](https://github.com/BerriAI/litellm). \n\nIn the bustling world of AI startups, BerriAI stands out with a straightforward mission: make calling every LLM API feel as seamless as using OpenAI. For developers hovering at the intersection of innovation and practicality, this could be a game-changer. Keep an eye out for this company as they scale up and refine their offering in the growing AI landscape.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9fef0d29c0e7fac9f4f469da653ff53101e37a96.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191020Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1fb6486dcfe256529dbb43f6ec2c687449aa9db8fc5d0957293a7b0d2b8d41a1",
+    "social_links": [
+        "https://www.linkedin.com/company/berri-ai/",
+        "https://twitter.com/LiteLLM",
+        "https://github.com/BerriAI/litellm"
+    ],
+    "logo_path": "data/logos\\BerriAI_logo.png"
+}

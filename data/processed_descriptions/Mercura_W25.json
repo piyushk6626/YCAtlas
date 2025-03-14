@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/mercura",
+    "name": "Mercura",
+    "headline": "AI Quoting for Wholesale Distribution and Manufacturers",
+    "batch": "W25",
+    "description": "Mercura automates sales quotation for building material suppliers. Our software lets sales teams process requests for quotations in seconds instead of days. By eliminating repetitive back-office tasks, we help sales reps focus on winning more deals and driving revenue.",
+    "activity_status": "Active",
+    "website": "https://www.mercura.ai",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:construction; industry:b2b; industry:sales-enablement; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Lukas Bock, Founder",
+            "description": "CEO at Mercura. Previously, AI Engineer at Google X, implementing end to end ML pipelines impacting millions of users. Former Data Scientist at Allianz, driving AI integration across ~60 global entities. PhD dropout, University of Cambridge. Lifelong exposure to the construction industry, growing up in an HVAC and plumbing family and learning about the industry firsthand on job sites.",
+            "linkedin": "https://www.linkedin.com/in/lukas-bock-7636a0131"
+        },
+        {
+            "name": "Hai Dang, Founder",
+            "description": "CTO at Mercura. Previously AI researcher at Meta and Autodesk  building GenAI systems leading to patented innovations and first-authored papers at top-tier HCI conferences. Architected multi-source data integrations and process optimizations at Celonis for 8 enterprise clients analyzing over 45M product and invoice queries. PhD in Human-Computer Interaction (University of Bayreuth, Harvard University) focusing on Human-AI collaboration with over ten first-authored papers and over 450+ citations.",
+            "linkedin": "https://www.linkedin.com/in/hdng"
+        },
+        {
+            "name": "Stefan Zheng, Founder",
+            "description": "CPO at Mercura. Previously consultant at Bain, improving operations efficiency for manufacturing companies at 15+ plants. Product Manager at VC-backed startups and led the DD of 4 deals as a early-stage investor at Cherry Ventures. Researcher at MIT Center for Collective Intelligence, developing GPT solutions with the DoD. Graduated within the top 2% of his Master\u2019s in Business and CS from TU Munich and Harvard Business School.",
+            "linkedin": "https://www.linkedin.com/in/stefan-zheng/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Mercura is an innovative startup founded in 2024, nestled in the heart of San Francisco. Its mission? To revolutionize the quoting process for wholesale distribution and manufacturers through the power of AI. They began by automating sales quotations specifically for building material suppliers, slashing the time it takes to respond to requests from days to mere seconds. The goal is straightforward\u2014by removing the monotony of back-office tasks, sales teams can zero in on what they do best: closing deals and driving revenue.\n\nBacked by Y Combinator's Batch W25, Mercura understands the construction space like few others. Their software automates the processing of Bills of Quantities (BOQs) and Bills of Materials (BOMs) using AI algorithms that can match inventory items instantaneously. This not only boosts efficiency but also helps users avoid errors, enabling greater sales potential. Importantly, clients gain full transparency into their sales operations, allowing them to analyze performance and enhance their strategies.\n\nWith a lean team of three and under the guidance of Group Partner Gustaf Alstromer, Mercura has already attracted attention in the B2B sector. As they continue to refine their offering, they're tagged in the realms of generative AI, construction, sales enablement, and more, signaling a broad interest and application for their technology.\n\nFor anyone in the wholesale and manufacturing sectors, Mercura presents a compelling opportunity to automate quoting processes and elevate business performance. Interested parties can easily book a demo through their website: [Mercura.ai](https://www.mercura.ai). \n\nIn this competitive landscape, Mercura isn't just a tool; it's a partner in transforming the way businesses interact with their customers, making quoting not just faster, but smarter.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6ee72008ae6c658eff8c7556657835788e555aeb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191532Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=aa318baa919069e892f36e1795b6874cb73de046b5a7b4c3dc3606207275d5b2",
+    "social_links": [
+        "https://www.linkedin.com/company/mercura-ai/"
+    ],
+    "logo_path": "data/logos\\Mercura_logo.png"
+}

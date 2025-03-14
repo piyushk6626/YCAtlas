@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/patched",
+    "name": "Patched",
+    "headline": "Open-source workflow automation for dev teams",
+    "batch": "S24",
+    "description": "Patched empowers development teams to build and deploy AI-assisted workflows that can autonomously complete post-code tasks like documentation, code reviews, and security patching. Our workflows can be customized using a visual builder and can be self-hosted with any AI model, enabling automation without compromising security, control, or compliance.",
+    "activity_status": "Active",
+    "website": "https://patched.codes",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:open-source; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Rohan Sood, Co-Founder and CEO",
+            "description": "Rohan holds a Master's in optimization algorithms from NTU Singapore and is a second-time founder.  He closed millions in enterprise revenue from customers in the defense, energy, and healthcare sectors, before being acquired in 2023 and was a recipient of the million-dollar CSA Innovation Award from the Singapore government.",
+            "linkedin": "https://linkedin.com/in/rohansood3107"
+        },
+        {
+            "name": "Asankhaya Sharma, Co-Founder & Chief Technology Officer",
+            "description": "Asankhaya holds a PhD in static analysis from NUS, and was previously an Engineering Director at Veracode following the acquisition of his startup SourceClear. He has over a decade of experience leading engineering teams, has 40+ research publications, and received the ACM Distinguished Paper Award for his work on using machine learning for curating software vulnerabilities.",
+            "linkedin": "https://www.linkedin.com/in/asankhaya/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Patched: Automating Developer Workflows with Intelligence\n\n**Overview**\nPatched is an innovative startup focused on revolutionizing how development teams automate their workflows. Founded in 2024 and part of Y Combinator Batch S24, this company operates out of San Francisco with a tight-knit team of two. Its mission is to provide open-source workflow automation that empowers developers without tying them down with the complexities of code maintenance.\n\n**The Problem**\nEvery developer knows that post-code tasks\u2014like documentation, code reviews, and security patching\u2014can be tedious and time-consuming. They distract from actual coding. That's where Patched comes in, offering a solution that allows for automation while maintaining security and control over codebases.\n\n**The Solution**\nPatched achieves this through its core product, Patchwork\u2014an open-source framework built to automate common coding tasks using AI. Users can create and deploy customizable workflows through a visual builder or by coding directly, enabling flexibility depending on team needs. The platform is designed to work with any AI model, so companies can reduce the risk of data exposure while still benefiting from AI's power.\n\n**Key Features**\n1. **Customizable Workflows**: Developers can leverage ready-made patchflows that handle tasks such as:\n   - **Generating Documentation**: Automatically create README files and other documentation.\n   - **Pull Request Review**: Summarize and comment on PRs based on changes.\n   - **Dependency Management**: Automatically upgrade vulnerable dependencies while mitigating breaking changes.\n   \n2. **Privacy First**: Patched allows self-hosting of workflows, enabling full control over data and compliance.\n\n3. **No-Code, Low-Code, and Full Code Options**: Whether you're a coding wizard or prefer a drag-and-drop approach, Patched accommodates all with its flexible interface.\n\n4. **Free and Open Source**: Patchwork is completely free to use and continues to be an open-source resource, aligning with the ethos of community-driven development.\n\n**Integration and Accessibility**\nPatched integrates seamlessly with popular tools like GitHub, GitLab, and Jira, making it easy to incorporate into existing development cycles. They also boast over 10,000 monthly downloads and multiple integrations that streamline various aspects of the coding process.\n\n**Pricing**\nPatched adopts a usage-based pricing model. They offer:\n- **Free Plan**: Always free with access to limited patchflows.\n- **Pro Plan**: Starting at $99/month for increased limits and features.\n- **Enterprise Plan**: Tailored pricing for larger teams with unlimited patchflows.\n\n**Conclusion**\nPatched is positioned to mitigate some major pain points in software development, enabling teams to focus on what really matters\u2014building great products. As it continues to grow under the guidance of Y Combinator and with a clear mission to empower developers, Patched is certainly one to watch. For further details, visit [Patched](https://patched.codes). ",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3632e95f758a183c5a87541bc98ade755833aafc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191624Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=41207f211690df7b5db8f73b01a8c624b6a9b144903aeb7070511b270e85c40b",
+    "social_links": [
+        "https://www.linkedin.com/company/patched-codes",
+        "https://x.com/patchedcodes",
+        "https://www.crunchbase.com/organization/patched-codes",
+        "https://github.com/patched-codes"
+    ],
+    "logo_path": "data/logos\\Patched_logo.png"
+}

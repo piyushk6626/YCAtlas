@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/convoy-2",
+    "name": "Convoy",
+    "headline": "Webhooks Gateway for outgoing and incoming webhooks.",
+    "batch": "W22",
+    "description": "We are building Convoy for engineering teams that value efficiency, especially during this bear market. \r\n\nYou might already know about API Gateways. Convoy is exactly that for webhooks.\r\n\nEngineering teams today use Convoy to securely send, receive and manage millions of webhooks reliably with robust support for retries, rate limiting, static IPs, circuit breaking, rolling secrets and more.\r\n\nWe know both receiving and sending webhooks can become a lot of work to manage, we have built a product to enable engineers to build and ship highly scalable stripe-like webhooks infrastructure.",
+    "activity_status": "Active",
+    "website": "https://getconvoy.io",
+    "founded_date": 2021.0,
+    "team_size": 8.0,
+    "location": "Lagos, Nigeria",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:open-source",
+    "founders": [
+        {
+            "name": "Subomi Oluwalana, Founder",
+            "description": "Subomi Oluwalana is the Co-founder and CEO of Convoy. Subomi is a software engineer and entrepreneur. Nothing excites him more than bringing ideas to life. Originally, He graduated from Landmark University where he received a Bachelor in Accounting & Finance.",
+            "linkedin": "https://www.linkedin.com/in/subomi-oluwalana-one/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Convoy: The Webhooks Gateway\n\nFounded in 2021 and part of Y Combinator\u2019s Batch W22, **Convoy** is a webhooks gateway designed specifically for engineering teams that prioritize efficiency, especially in today's challenging climate. Located in Lagos, Nigeria, and powered by a dedicated team of eight, Convoy helps companies navigate the complexities of webhook management.\n\n#### What Does Convoy Do?\n\nAt its core, Convoy simplifies the sending, receiving, and managing of webhooks for developers. Think of it as an API gateway but tailored for webhooks. With features like robust retry mechanisms, rate limiting, static IPs, and advanced security options\u2014like rolling secrets\u2014it allows engineering teams to focus more on product development rather than juggling the workload associated with webhook infrastructure.\n\n### Key Features\n\n1. **Core Gateway**: A solid backbone for managing webhook traffic.\n2. **Advanced Endpoint Management**: Enhances reliability with tailored controls to improve security and performance.\n3. **Developer Playground**: A testing space where developers can easily generate webhook URLs, inspect payloads, and analyze headers.\n4. **Documentation & Guides**: In-depth resources that cover best practices and help teams deliver high-quality APIs and webhooks.\n\n### Why Use Convoy?\n\nThe platform is designed for reliability and compliance\u2014meeting both SOC2 and GDPR standards with near-perfect uptime (99.999% SLA). This robust framework ensures that businesses can trust Convoy to handle sensitive data securely while alleviating the headaches often associated with webhooks.\n\n### Customer Feedback\n\nConvoy has garnered praise from various CTOs and engineering leads. From its intuitive setup process to its out-of-the-box reliability, organizations that switched to Convoy have noted its ability to significantly reduce the time and complexity involved in developing internal webhook solutions.\n\n### Future Prospects\n\nAs webhooks become an increasingly critical component of modern software architecture, Convoy stands poised to enhance the developer experience further. With a focus on scalability and security, the company looks to expand its reach, helping more teams streamline their webhook processes.\n\n### Conclusion\n\nConvoy is proving itself as the go-to solution for engineering teams looking to optimize their webhook management. With its steady commitment to developer experience and robust infrastructure, Convoy is not just keeping pace with the demands of the industry; it\u2019s setting the standard.\n\nFor more information, check out their [website](https://getconvoy.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/70b30fa0e4eb363bbafbf3271afa146fd0ffd08a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191102Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b69349309d152c2549bfd7db87ad3070b80466dc4d28c835007e253a3cc44e52",
+    "social_links": [
+        "https://www.linkedin.com/company/convoy-webhooks/",
+        "https://twitter.com/getconvoy"
+    ],
+    "logo_path": "data/logos\\Convoy_logo.png"
+}

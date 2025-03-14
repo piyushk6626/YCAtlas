@@ -1,0 +1,37 @@
+{
+    "Links": "https://www.ycombinator.com/companies/leeroo",
+    "Name": "Leeroo",
+    "Headline": "Turning workflows to production-ready, e2e trainable Compound Models.",
+    "Batch": "X25",
+    "Description": "Leeroo empowers developers and organizations to turn complex workflows and ideas into production-ready AI systems. Our platform enables the creation of end-to-end trainable Compound Models that combine pre-trained models, tools, and data seamlessly. Not only do we automate model building but also automate the integration of tools and data sources, accelerating the journey from concept to deployment. By abstracting complexity, we allow users to focus on solving problems, not building infrastructure, and deliver scalable, customizable, and fully private solutions.",
+    "Activity_Status": "Active",
+    "Website": "https://www.leeroo.com/",
+    "Founded_Date": "2024",
+    "Team_Size": "3",
+    "Location": "",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "Group_Partner": "Nicolas Dessaigne",
+    "Company_Linkedin": "",
+    "Company_Twitter": "",
+    "Tags": "industry:artificial-intelligence",
+    "logo_path": "data\\logos\\Leeroo.png",
+    "Active_Founders": [
+        {
+            "Name": "Alireza Mohammadshahi, Founder",
+            "Description": "Co-founder and Chief Scientist at Leeroo, hold a PhD from EPFL. Previously, I developed an LLM-based question generation and evaluation systems at Meta AI and a compact massively multilingual translation model at NAVERLABS, both with more than 0.5 million downloads, widely benefiting the AI community.",
+            "LinkedIn": "https://www.linkedin.com/in/alireza-mohammadshahi/"
+        },
+        {
+            "Name": "Arshad Shaikh, Founder",
+            "Description": "I am the Co-founder and CTO of Leeroo, bridging the gap between research and production. Previously, I shaped scalable knowledge-tracing recommender systems in edtech, impacting millions of users. I also contributed to AI research at IIT Bombay.",
+            "LinkedIn": "https://www.linkedin.com/in/ars7"
+        },
+        {
+            "Name": "Majid Yazdani, Founder",
+            "Description": "I am the co-founder and CEO of Leeroo. Before that, I was a scientist at Meta AI, Linkedin AI, the University of Geneva, and Idiap Research Institute. I got my PhD in machine learning from EPFL.",
+            "LinkedIn": "https://linkedin.com/in/majid-yazdani-a9032011"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "### Leeroo: Simplifying AI Workflow Automation\n\n#### Overview\nLeeroo is a startup launched in 2024, with a clear mission: to transform complex workflows into production-ready, end-to-end trainable AI systems. The company is part of Y Combinator\u2019s Batch X25, highlighting its commitment to innovation in the realm of artificial intelligence.\n\n#### What Leeroo Does\nAt its core, Leeroo empowers developers and organizations to harness the power of AI by combining pre-trained models, tools, and data into cohesive workflows. This platform allows users to automate both model building and integration, drastically speeding up the transition from concept to deployment. Think of it as taking the heavy lifting out of the process and letting users focus on solving real problems rather than wrestling with infrastructure.\n\n1. **Integration and Composition:** Leeroo makes it easy to stitch together models and tools without the typical chaos that manual integration brings. It\u2019s about speed\u2014the faster you can assemble the right components, the quicker you get your solution to market.\n\n2. **End-to-End Training of AI Systems:** This isn\u2019t just about training individual models. Users can fine-tune entire systems based on specific desired outcomes. Input your vision, and Leeroo adjusts the underlying architecture to ensure everything functions harmoniously.\n\n3. **Automated Platform Growth:** Forget the long waits for manual updates. Leeroo's automated platform grows dynamically, making sure that as your needs evolve, so does your AI capability. It\u2019s smooth, it\u2019s rapid, and it fits right in with the velocity that modern development demands.\n\n#### The Team and Leadership\nLeeroo is a lean operation, currently consisting of just three employees. It benefits from the guidance of Nicolas Dessaigne as a Group Partner, who brings experience and expertise to the venture.\n\n#### Why It Matters\nIn today's fast-paced world, the ability to quickly develop robust AI solutions is crucial. Leeroo addresses this need head-on by turning abstract ideas into deployable models, thus enabling businesses to leverage AI without getting bogged down by the complexity usually associated with it.\n\n#### Get in Touch\nLeeroo is based in London, UK. You can reach out for support at support@leeroo.com or explore their offerings on [Leeroo\u2019s website](https://www.leeroo.com/).\n\nAs AI continues to evolve, platforms like Leeroo are paving the way for a future where developing smart solutions is not just for the tech giants but for any organization willing to innovate. Join the movement, and see how you can turn your ideas into reality with the ease that Leeroo promises."
+}

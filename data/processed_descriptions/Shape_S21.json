@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/shape",
+    "name": "Shape",
+    "headline": "Get data insights without writing SQL",
+    "batch": "S21",
+    "description": "Shape lets workers get access to data insights without having to write SQL.",
+    "activity_status": "Active",
+    "website": "https://shape.xyz",
+    "founded_date": 2021.0,
+    "team_size": 4.0,
+    "location": "London, United Kingdom",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:analytics; industry:enterprise; industry:ai",
+    "founders": [
+        {
+            "name": "Namit Chadha, Founder",
+            "description": "Namit is the founder & CEO of Shape. He's a repeat founder who has built and led teams. Previously Product Design Lead at Meta, and Software Engineer at Goldman Sachs.",
+            "linkedin": "https://www.linkedin.com/in/namitchadha/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Shape**\n\nFounded in 2021 and part of Y Combinator's Batch S21, Shape is a London-based startup on a mission to democratize access to data insights\u2014specifically, by eliminating the need for users to write SQL queries. With a small team of four, Shape aims to empower workers across all levels to derive meaningful analytics without getting mired in technical complexities.\n\n### What Shape Does\nAt its core, Shape allows users to query databases using plain English, which is a game-changer for those who lack technical expertise but still need reliable data for decision-making. This simplicity is bolstered by the integration of an AI data bot designed to mitigate the burdens associated with ad-hoc queries, making data inquiries more efficient and accessible.\n\n### Features and Offerings\nShape's platform stands out for its intuitive interface that accommodates a range of data needs:\n- **Plain Language Queries**: Users can pose questions in straightforward language, avoiding the technical jargon of SQL.\n- **AI Data Analysis**: Their AI engine interprets questions like an analyst, providing nuanced answers and clear assumptions around data.\n- **Slack Integration**: For teams using Slack, Shape provides instant insights through a dedicated bot, allowing users to get answers swiftly.\n- **Data Visualizations**: Automatic charts and graphical representations of data enhance understanding and clarity.\n\n### Security and Pricing\nShape assures users of the highest data security standards, employing industry-standard encryption with SOC 2 Type I certification. They offer several pricing plans to choose from:\n- **Starter Plan**: $49/month for 2 users, ideal for individuals or small teams.\n- **Team Plan**: $499/month for up to 20 users, perfect for growing teams needing more data access.\n- **Custom Enterprise Plan**: Tailored solutions for larger organizations requiring unlimited users and additional features.\n\n### Conclusion\nShape is positioned as a pioneer in making data analytics user-friendly and accessible. By combining AI and natural language processing, they bridge the gap between technical data analysis and real-world usability. If you need quick, insightful data without the headache of SQL, Shape might just be the solution you\u2019ve been waiting for.\n\nFor more information, check out their website: [shape.xyz](https://shape.xyz).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/38342a9215f96b4b6313a00e45abea51f79e489c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191919Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f62a8a05a9a3baa6fd2c7a6dd4dccb4eb8ef175305f06857410d9f912bcaeb70",
+    "social_links": [
+        "https://www.linkedin.com/company/shapeinsights",
+        "https://twitter.com/shapexyz"
+    ],
+    "logo_path": "data/logos\\Shape_logo.png"
+}

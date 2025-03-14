@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/vigilant",
+    "name": "Vigilant",
+    "headline": "Lightweight logging and alerting for startups",
+    "batch": "S23",
+    "description": "Vigilant is a lightweight tool for managing structured logs. It lets you centralize your logs, search them, and get alerted when things break. We're focused on nailing the basics so setup and debugging feels as fast and intuitive as an IDE.",
+    "activity_status": "Active",
+    "website": "https://vigilant.run",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "Columbus, OH",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:design; industry:design-tools",
+    "founders": [
+        {
+            "name": "Ben Shumaker, Founder",
+            "description": "Howdy. I'm Ben, cofounder of Vigilant. Before, I was Lead Game Designer at TempoStorm. And before that, I was a competitive strategy gamer.",
+            "linkedin": "https://www.linkedin.com/in/ben-shumaker-9b2620238/"
+        },
+        {
+            "name": "Izak Fritz, Founder",
+            "description": "Founder and CTO of Vigilant.",
+            "linkedin": "https://linkedin.com/in/izak-fritz-3b8579120"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Vigilant: The Startup-Friendly Logging Tool**\n\nFounded in 2023 and hailing from Columbus, OH, Vigilant is on a mission to simplify logging and alerting for startups. Their product is all about lightweight log management \u2013 think of it as a centralized hub where you can view, search, and get alerts on structured logs without the technical headache. \n\nVigilant is designed to feel as intuitive as an integrated development environment (IDE), so developers can focus on what really matters: building great products. The tool enables users to instantly search through logs, receive alerts when things go sideways, and even debug before users start complaining. The founders have put a premium on nailing the basics\u2014easy setup, seamless integration, and intuitive UI. \n\n### Why Vigilant Stands Out\n\n- **Unified Log Management:** Organize logs from multiple services by environment, ensuring full visibility and minimal chaos.\n- **Intuitive Search:** Quickly filter logs by various attributes\u2014no more endless scrolls to find what's broken.\n- **Custom Alerts:** Get notified about important log messages or errors in real-time.\n- **Simple Integration:** Just a single code snippet, and you're ready to roll. It accommodates existing logging setups without requiring major changes\u2014works with popular languages like Node.js, Python, and Go.\n\n### The Team & Backers\n\nWith a lean team of just two, Vigilant is backed by Dalton Caldwell as their Group Partner from Y Combinator's Batch S23. Their vision is substantial, but they're tackling it step by step, focusing on startups that need a foolproof way to manage logs without diving into overly complex systems.\n\n### Pricing & Availability\n\nVigilant offers a free trial without requiring a credit card, making it accessible for developers to get hands-on with their tool. And with no human interaction necessary for the setup \u2013 it's self-serve all the way. \n\nIf you\u2019re interested in learning more or trying it out, visit their site at [Vigilant](https://vigilant.run) and see how they can help you streamline your logging process. \n\nIn the fast-moving startup world, tools like Vigilant that simplify fundamental tasks can make a real difference. They focus on creating a product that fits seamlessly into the developer workflow while keeping things straightforward and reliable.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/881081758e8d6c9c6dd419b598cc78c0278daabd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192048Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=857e0235954edb3332854770d1d7518477a05d714de503a88cfe505929af3c84",
+    "social_links": [
+        "https://www.linkedin.com/company/vigilantrun/",
+        "https://x.com/VigilantRun",
+        "https://www.crunchbase.com/organization/autoember"
+    ],
+    "logo_path": "data/logos\\Vigilant_logo.png"
+}

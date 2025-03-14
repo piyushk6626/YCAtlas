@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/neosync",
+    "name": "Neosync",
+    "headline": "Neosync is an open-source anonymization and synthetic data platform.",
+    "batch": "S22",
+    "description": "Neosync is an open-source platform that allows you to create anonymized or synthetic data and sync it across all environments for testing and machine learning. Companies in highly regulated industries such as FinTech, HealthTech, InsureTech and those with sensitive data can use Neosync to create production-like data to use for debugging and building features in lower-level environments without the security and privacy risk of using production data.",
+    "activity_status": "Active",
+    "website": "https://neosync.dev",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Evis Drenova, Founder",
+            "description": "Evis is the CEO/Co-founder of Nucleus. Before Nucleus, he was one of the first Product hires at Skyflow, a data privacy and security company, and led Product and GTM for the Fintech market from Seed -> Series B. Prior to Skyflow, he was Head of Product at Truedata, a Managing Consultant at IBM and started his career in Enterprise Sales at Experian and Oracle. He was born in Albania, grew up in Boston and currently resides in San Francisco.",
+            "linkedin": "https://linkedin.com/in/evisdrenova"
+        },
+        {
+            "name": "Nick Zelei, Founder",
+            "description": "Nick is the CTO/Co-Founder of Neosync. Prior to Neosync, he was a Staff Software Engineer at Newfront, a new-age insurance brokerage where he built and managed the Platform Engineering team from Series B -> Series D. He grew up outside of Cleveland, Ohio and currently resides in San Francisco.",
+            "linkedin": "https://linkedin.com/in/nick-zelei"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Neosync: A Brief Overview \n\n**Mission**: Neosync aims to provide a robust, open-source platform dedicated to anonymizing and generating synthetic data. It allows companies, especially in sensitive sectors like FinTech, HealthTech, and InsureTech, to create safe, production-like datasets for testing and machine learning, without the risks associated with using real production data.\n\n**Founded**: Established in 2023, Neosync is a proud member of Y Combinator's Batch S22.\n\n**Location**: Based in San Francisco, Neosync operates with a tight-knit team of three employees.\n\n**Key Personnel**: Jared Friedman serves as the Group Partner, providing guidance and strategic insight.\n\n**Product Overview**: \nNeosync offers a powerful platform that integrates seamlessly with existing data infrastructures. The core functionalities include:\n- **Data Anonymization**: Mask, redact, or obfuscate sensitive data.\n- **Synthetic Data Creation**: Generate realistic synthetic datasets with over 45 pre-built transformers.\n- **Environment Synchronization**: Sync anonymized or synthetic data efficiently across different environments to maintain consistency.\n\n**Customer Base**: Neosync is already trusted by hundreds of companies, ranging from high-growth startups to established public organizations. Clients have reported significant efficiency gains, reducing data preparation times from weeks to days.\n\n**Why Neosync?**:\n1. **Developer-Centric Focus**: Designed with developers in mind, Neosync offers APIs, SDKs, and Terraform modules to align seamlessly with existing workflows.\n2. **Compliance and Security**: Address various regulations like GDPR and HIPAA, ensuring safe handling of sensitive data.\n3. **Time Efficiency**: It transforms the traditionally tedious process of creating testing datasets into a streamlined task, allowing engineers to focus on building rather than preparing data.\n\n**Current Initiatives**: \n- Continual updates to improve features and enhance user experience.\n- Educational resources like documentation and a blog to keep users informed and engaged.\n\n**Get Started**: Neosync offers a no-credit-card-required trial, encouraging potential users to explore its capabilities firsthand.\n\n**Website**: For more information, visit their [official site](https://neosync.dev).\n\nNeosync is poised for growth, reflecting a strong offering in the data management landscape, especially for sectors that tread carefully around privacy issues. If you\u2019re coding in a regulated industry and need reliable testing data without the overhead of security risks, Neosync deserves a look.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8bb2092e2a4fb3cbacb3cd5b7fca287b48e13f83.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191556Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=571f92a6ae49a7817f50ed3d364e9c01b17e74b7d37537f16440bda35522d129",
+    "social_links": [
+        "https://www.linkedin.com/company/neosync",
+        "https://twitter.com/neosynccloud",
+        "github.com/nucleuscloud/neosync"
+    ],
+    "logo_path": "data/logos\\Neosync_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/omnistrate",
+    "name": "Omnistrate",
+    "headline": "Transform any software to multi-cloud SaaS in minutes not years",
+    "batch": "W23",
+    "description": "Omnistrate is a cloud platform to SaaS-ify your docker image in minutes instead of years.\r\n\nLet\u2019s say you have an open-source software, and you want to monetize your invention by building a multi-cloud SaaS solution. You can either spend years doing it yourself or use Omnistrate to do it in no time.\r\n\nGet started today by simply importing your existing docker-compose.",
+    "activity_status": "Active",
+    "website": "http://www.omnistrate.com",
+    "founded_date": 2023.0,
+    "team_size": 15.0,
+    "location": "Redwood City, CA",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:cloud-computing; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kamal Gupta, Founder",
+            "description": "Kamal is a Co-Founder & CEO of Omnistrate. He is a repeat founder with an entrepreneurial spirit. Kamal led the engineering for Kafka at Confluent across all channels. During his time, Kafka Cloud revenue grew by 20x. Before that, he led the database engineering for AWS Aurora MySQL, a BB+ dollar business managing MM+ of database nodes. During his period at AWS (2007-2020), he built more than half-a-dozen cloud services at AWS across different domains & providers",
+            "linkedin": "https://www.linkedin.com/in/kkgupta2/"
+        },
+        {
+            "name": "Alok Nikhil, Founder",
+            "description": "Alok comes with deep technical expertise in Serverless, Networking, Performance on the Cloud. He was the original technical author of Aurora Serverless, which revolutionized the data systems space. Within the first year of its introduction, ~50% of hundreds of thousands of Aurora DBs created were on Aurora Serverless. He also scaled networking (packets-per-second) on AWS by 10-15x during his tenure at Cisco, scaled Confluent Cloud by 5x from 4GBps to 20GBps, and Kafka Cloud latencies by 10x.",
+            "linkedin": "https://www.linkedin.com/in/nikhilalok/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Omnistrate: A Cloud Innovation Game Changer\n\n**About the Company**  \nFounded in 2023 and part of Y Combinator Batch W23, Omnistrate is revolutionizing the way software developers transition their applications into the multi-cloud SaaS landscape. Headquartered in Redwood City, CA, the company employs a team of 15 passionate individuals ready to tackle the challenges of modern cloud computing.\n\n**Mission**  \nOmnistrate's core mission is straightforward: **to transform any software into a multi-cloud SaaS solution in minutes, not years**. This is essential for creators of open-source software looking to monetize their projects without enduring the long and exhausting processes historically associated with SaaS development.\n\n**How It Works**  \nAt its heart, Omnistrate allows users to simply import existing Docker images or docker-compose files into its platform. In just minutes, developers can get their applications live and operating in a managed cloud environment. This is not just about speed; it's about enabling self-serve deployments for customers and automating day-two operations, empowering users to focus more on innovation than infrastructure.\n\n**Target Audience**  \nOmnistrate caters to several groups:\n- **Product Owners** who wish to turn their apps into seamless cloud services.\n- **Developers** looking to offload complex tenant management.\n- **DevOps Teams** needing full visibility across cloud infrastructures.\n- **Data Scientists and ML Ops** professionals wanting easier model deployment.\n\n**Key Features**  \n- Rapid onboarding with existing code or images.\n- Multi-cloud infrastructure support, including Kubernetes and Terraform integrations.\n- Self-service customer portals and automated infrastructure management.\n- Transparent, usage-based pricing\u2014users pay only for what they use.\n\n**Customer Success Stories**  \nMany users have touted Omnistrate's impact. Notably, it's helped businesses like Convoy reduce months of development work to just weeks and allowed others, like FalkorDB, to cut their time to market dramatically from months to weeks. The platform's efficiency is described as a \"superpower\" that simplifies the complex orchestration required for robust SaaS solutions.\n\n**Join the Revolution**  \nIf you're an innovator eager to bring your software to market with unprecedented speed and efficiency, head over to [Omnistrate's website](http://www.omnistrate.com). Take the plunge and transform your application into a multi-cloud SaaS in what feels like seconds, rather than years. Get started for free\u2014no credit card required.\n\nIn a world where time is often the biggest barrier to success, Omnistrate is the toolkit every software developer needs, streamlining the path from concept to cloud.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cc35dde24713d7354b7af22230a770a3be027ce9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191608Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f4d63135500781bf95494d05a0ff156868e0bb232020df009756bbb15492554a",
+    "social_links": [
+        "https://www.linkedin.com/company/omnistrate/",
+        "https://twitter.com/omnistrate",
+        "https://www.facebook.com/omnistrate",
+        "https://www.crunchbase.com/organization/omnistrate"
+    ],
+    "logo_path": "data/logos\\Omnistrate_logo.png"
+}

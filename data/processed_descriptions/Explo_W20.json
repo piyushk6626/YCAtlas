@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/explo",
+    "name": "Explo",
+    "headline": "Customer-facing analytics, lightning fast",
+    "batch": "W20",
+    "description": "Explo allows you to build customer-facing dashboards and reporting, lightning-fast. With Explo, you can create custom white-labeled dashboards for your application, share custom reports, or embed an AI report builder.\r\n\n- Dashboards: build fully white-labled dashboards for your application or enable your users to create their own dashboards from a library of charts you create\r\n\n- Report Builder: embed a full self-service analytics experience into your application, allowing your users to create their own tables and charts from scratch\r\n\n- Email: cadenced and one off emails to share analytics and data with your users\r\n\n- Explo AI: embed an AI experience into your product to enable your users to gain insights into their data\r\n\nExplo is built for product teams and developers. We power analytics of all sizes from YC companies to Fortune 500 companies.",
+    "activity_status": "Active",
+    "website": "https://explo.co/",
+    "founded_date": 2019.0,
+    "team_size": 16.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:analytics; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Andrew Chen, Founder",
+            "description": "Founder at Explo",
+            "linkedin": "http://linkedin.com/in/andrewchen9"
+        },
+        {
+            "name": "Gary Lin, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/garymlin/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Explo: The Future of Embedded Analytics**\n\nFounded in 2019 and part of Y Combinator's Winter 2020 batch, **Explo** operates out of San Francisco with a dynamic team of 16. The company has carved a niche in customer-facing analytics, allowing product teams and developers to embed powerful analytics tools directly into their applications. The mission is clear: provide *lightning-fast* analytics experiences that empower end users.\n\n**Core Offerings:**\n\n1. **Dashboards**: Explo enables users to create fully white-labeled dashboards tailored to their applications. Users can either build their own or select from a range of customizable charts.\n\n2. **Report Builder**: This self-service tool lets users create custom reports and visualizations from scratch\u2014no data scientists required.\n\n3. **Explo AI**: Leveraging AI, this feature enables users to gain insights by simply asking questions about their data, translating complex analytics into intuitive visualizations.\n\n4. **Email Reports**: Regular and one-off reports can be sent directly to users, keeping them informed and engaged without requiring them to log into the app.\n\nExplo's tools cater to a wide array of industries, including SaaS, e-commerce, healthcare, and fintech, offering tailored solutions that suit the unique needs of diverse applications. This flexibility makes them a go-to choice for companies ranging from Y Combinator startups to Fortune 500 giants.\n\n**Why Choose Explo?**\n\n- **Efficiency**: Clients have saved significant development time and costs in implementing embedded analytics\u2014what could take months can now be achieved in days.\n- **User Experience**: Customers enjoy a customizable and secure analytics environment that elevates their application.\n- **Support**: A dedicated support team ensures smooth implementations and long-term partnerships.\n\nExplo's ability to seamlessly integrate into existing platforms without data replication means customers can tap into their existing databases hassle-free. This ease of integration, along with robust security compliance (SOC II, GDPR, HIPAA), empowers organizations to scale confidently and swiftly.\n\n**Customer Success Stories** underline Explo's impact. For instance, Spekit maximized its offering with minimal development effort, while Caju significantly cut down on custom report requests by 95%, thanks to Explo\u2019s intuitive Report Builder.\n\nIn a world where data drives decisions, Explo stands out as a powerful ally for product teams aiming to enhance user experience through actionable insights. Ready to get started? Check out their [website](https://explo.co/) for a tour and see how Explo can transform your analytics approach.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/dcbf36c2ebc2f982bf379603bf4f3abe33a8c36e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191324Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8ab59ab88d6bcbfc1cd2add52f951203b7ef8a67b78fb44c0872891165f31862",
+    "social_links": [
+        "https://www.linkedin.com/company/explo-co/",
+        "https://twitter.com/tryexplo"
+    ],
+    "logo_path": "data/logos\\Explo_logo.png"
+}

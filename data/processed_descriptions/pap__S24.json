@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/pap",
+    "name": "pap!",
+    "headline": "Agents that earn consumers dollars when they shop, travel, and live.",
+    "batch": "S24",
+    "description": "Consumers miss out on $70B+ every year because they're busy and unaware, and that money is sitting in their email inbox. So, we automated reading email receipts and claiming the money they're entitled to, offering a service to which you can sign up once, do (literally) nothing, and earn $.\r\n\nWhere is this money coming from?\r\n\n- Retailers: When the price of clothes or furniture you've already bought drops, you're entitled to a refund for the difference\r\n- Airlines: When a flight you've booked gets delayed or canceled, you're entitled to a cash compensation.\r\n- Enterprises: When a class-action lawsuit is filed against a company you engage with, you're entitled to money.\r\n- And many more, that even the government holds some of your unclaimed funds.\r\n\nToday, the dream of one service that automatically claims the money you deserve when you shop, fly,... and live is (finally) possible.\r\n\nWe started with automating refunds in the shopping industry and have secured $8,000 in refunds to our users, growing 233% MoM. With AI, we've been able to repurpose that same automation to tackle refunds in the flight industry and the class-action lawsuit landscape.\r\n\nWhy us? (1) We're obsessed with reclaiming what's rightfully yours: Kamal and Anthony grew up in Lebanon, where people's money was unfairly taken away. (2) Weijie was the lead infra engineer for Wish's recommendation system, the feature that fueled their IPO. Our combined experience includes Apple, Addepar, Bolt, Wish, and StackAdapt.\r\n\nAnd we're all working towards one goal: move those billions of dollars where they belong.",
+    "activity_status": "Active",
+    "website": "https://joinpap.com/",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "Berkeley, CA",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:consumer; industry:consumer-finance; industry:ai-assistant; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kamal Nahas, Co-Founder, CEO",
+            "description": "Kamal earned a B.S. in Electrical Engineering and Computer Sciences from UC Berkeley, worked at Apple as a Security/ML software engineer intern, and met hundreds of engineers while working at Human Capital. He grew up in Lebanon, where he led operations resulting in 230+ families fed for an entire month and 25+ civilians housed.",
+            "linkedin": "https://www.linkedin.com/in/kamal-nahas/"
+        },
+        {
+            "name": "Anthony Rassi, Co-Founder, COO",
+            "description": "Anthony graduated from USC in Computer Engineering and Computer Sciences and worked at Addepar as a product engineer intern. He grew up in Lebanon, where he won a national hackathon, built a 5-figure affiliate marketing business, and led an engineering team at the country\u2019s largest retailer.",
+            "linkedin": "https://www.linkedin.com/in/anthonyrassi"
+        },
+        {
+            "name": "Weijie Wang, Founder",
+            "description": "Weijie is the Co-founder & CTO of pap!. Before pap!, Weijie spent 6 years in the e-commerce domain and was the lead infra engineer for Wish\u2019s recommendation system. Waterloo & UIUC grad.",
+            "linkedin": "https://www.linkedin.com/in/wjwang2/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: pap!\n\n**Website:** [joinpap.com](https://joinpap.com)\n\n**Founded:** 2024  \n**Location:** Berkeley, CA  \n**Team Size:** 3 Employees  \n**Y Combinator Batch:** S24  \n**Group Partner:** Aaron Epstein  \n**Tags:** Fintech, Consumer Finance, AI Assistant, San Francisco Bay Area  \n\n---\n\n#### Mission\npap! aims to empower consumers by reclaiming the money they deserve when they shop, travel, and live. With consumers missing out on over $70 billion annually due to leisurely habits and lack of awareness, pap! automates the process of reading email receipts and claiming refunds, allowing users to sign up once and earn money effortlessly.\n\n#### How It Works\nConsumers may be eligible for refunds through various channels:\n- **Retailers:** Price drops trigger price adjustment refunds.\n- **Airlines:** Delayed or canceled flights warrant cash compensation.\n- **Class-Action Settlements:** Eligibility for payouts from lawsuits against companies.\n- And yes, even unclaimed funds held by governments.\n\nBy leveraging AI and advanced automation, pap! started by offering refunds in shopping, successfully securing $8,000 for users with a remarkable 233% growth month-over-month. The service is expanding into the travel refund sector and class-action settlements.\n\n---\n\n#### Founders' Motivation\nCo-founders Kamal and Anthony grew up in Lebanon where financial injustices were commonplace. Their personal experiences fuel a passionate pursuit of fairness and reclaiming funds that rightfully belong to consumers. Weijie, with a track record at wish.com, brings his expertise in infrastructure from a top-tier recommendation system that contributed to an IPO.\n\n---\n\n#### Unique Value Proposition\n- **Hassle-Free Experience:** Users sign up once and automate the entire refund claiming process.\n- **No Out-of-Pocket Cost:** They only charge 25% of the successfully recovered amounts\u2014if you don't get money back, you pay nothing.\n- **Secure and Private:** Access is limited to email receipts, ensuring user data safety.\n- **Guaranteed Rewards:** If no refund is secured within 30 days, users receive a gift card as compensation.\n\n---\n\n#### Customer Testimonials\nUsers rave about the service, expressing disbelief in how simple it is to get money refunded back to their accounts. Statements like, \u201cIf you\u2019re not on pap! You\u2019re just losing money, period,\u201d and \u201cI just buy right away and watch the money come back to my account!\u201d underline pap!'s significant impact.\n\n---\n\nIn a world that often leaves money on the table, **pap!** turns the tide, ensuring that consumers reclaim funds that they may not even realize were owed to them. With its fast growth trajectory and a compelling mission, pap! is not just about refunds; it\u2019s about reclaiming what rightfully belongs to you.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/286c4252a33afb26df579243cedf8b727ffbebaa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191622Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6b0a58270c429068604c104712357a40f3ac0da38d715b0f4a1c0d72841def57",
+    "social_links": [
+        "https://www.linkedin.com/company/joinpap/"
+    ],
+    "logo_path": "data/logos\\pap!_logo.png"
+}

@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/glasskube",
+    "name": "Glasskube",
+    "headline": "Software Distribution Platform for On-Prem, Kubernetes, Docker & BYOC",
+    "batch": "S24",
+    "description": "Managing enterprise software deployments shouldn\u2019t feel like a balancing act. At Glasskube, we make deploying, managing, and updating software in on-premises, VPC, and air-gapped environments easier than ever.\r\n\nOur Mission:\r\nWe empower software vendors to deliver exceptional customer experiences with less complexity. Whether you\u2019re onboarding new clients, rolling out updates, or troubleshooting issues, our Software Distribution Platform streamlines every step.\r\n\nThe founders have been best friends for over 15 years, lived together in college, and even had a startup together. Philip was the CTO of a European Kubernetes-based company that was acquired in 2022.",
+    "activity_status": "Active",
+    "website": "https://glasskube.dev/",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": "Vienna, Austria",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:b2b; industry:open-source; industry:kubernetes; industry:devops",
+    "founders": [
+        {
+            "name": "Louis Weston, Founder/President",
+            "description": "Business, Law, and Compliance background. Before Glasskube, I advanced from intern to legal counsel at a fintech startup with over 100 employees in three years, negotiating contracts with Apple, Deutsche Bank, and Volkswagen, and building a compliance and security system according to ISO standards.",
+            "linkedin": "https://www.linkedin.com/in/louisnweston/"
+        },
+        {
+            "name": "Philip Miglinci, Founder",
+            "description": "Open-Source and Kubernetes \u2764\ufe0f\n\nIronman finisher \ud83c\udfca \ud83d\udeb4 \ud83c\udfc3\n\nBefore working on Glasskube, I built:\n - Mission-critical alerting infrastructure in Europe as CTO\n - PCR testing and analytics software as part of my Master thesis",
+            "linkedin": "https://linkedin.com/in/pmigat"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Glasskube: Simplifying Software Distribution for Developers**\n\nWelcome to the world of Glasskube\u2014a software distribution platform designed for on-premises, Kubernetes, Docker, and Bring Your Own Cloud (BYOC) environments. Founded in 2023 and part of Y Combinator\u2019s Batch S24, Glasskube aims to eliminate the juggling act that often comes with managing software deployments. With a small dedicated team based in Vienna, Austria, they're determined to streamline every aspect of the software delivery lifecycle for developers and enterprises alike.\n\n### Mission and Vision\n\nAt its core, Glasskube is about empowering software vendors to enhance customer experiences while minimizing friction. Whether it's onboarding new clients, rolling out updates, or troubleshooting, their platform simplifies these processes. They firmly believe that deploying, managing, and updating software should be a straightforward endeavor, especially in complex environments.\n\n### Meet the Founders\n\nThe founders of Glasskube, Philip and his partner, have a rich history\u201415 years of friendship, college roommates, and startup collaborators. Philip previously served as CTO at a European Kubernetes-based company that was acquired in 2022. Their unique blend of experience and camaraderie is what fuels their passion for Glasskube.\n\n### What They\u2019re Building: Distr\n\nIntroducing **Distr**, Glasskube's latest offering, which provides a centralized platform for managing deployments in on-prem, VPC, and air-gapped environments. It helps:\n\n- **Reduce Onboarding Time:** Streamlined installation processes ensure a smoother start for your customers.\n- **Increase Update Velocity:** Customers are kept informed about updates and can initiate them at their convenience.\n- **Simplify Troubleshooting:** Comprehensive metrics allow for quick diagnostics and proactive support.\n\nWith Distr, onboarding to support is integrated into one seamless platform, allowing software vendors to focus on what matters most: creating great products.\n\n### Community Engagement and Resources\n\nGlasskube actively shares insights through their blog and a glossary, dancing through topics like switching programming languages and evaluating software distribution platforms. The community's confidence in Glasskube is evident from the positive testimonies provided by users who cherish its intuitive interface and robust capabilities.\n\n### Why Glasskube?\n\nIf you're tired of the challenges that come with on-premise software deployment, Glasskube offers a battle-tested solution to scale effortlessly. With features that cater to the unique needs of modern software environments, they're not just simplifying installations\u2014they\u2019re revolutionizing the way software distribution is handled.\n\nFor continuous updates and insights, you can follow their journey through their [website](https://glasskube.dev/) and stay connected via various platforms. With Glasskube, the complexity of software deployment is a thing of the past. Welcome to the future of streamlined operational efficiency.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3ed1fa1868063efbe08890518ffee3df307b6a09.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191359Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=02193f96a0e36f2e49a82f336813c401b5ed7c87f96ca16ee846f58689d5f15f",
+    "social_links": [
+        "https://www.linkedin.com/company/glasskube/",
+        "https://twitter.com/glasskube",
+        "https://www.crunchbase.com/organization/glasskube",
+        "github.com/glasskube/glasskube/"
+    ],
+    "logo_path": "data/logos\\Glasskube_logo.png"
+}

@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/marblism",
+    "name": "Marblism",
+    "headline": "Generate a fully-functional web app from a single prompt",
+    "batch": "W24",
+    "description": "Everyone dreads the first few lines of code: choosing frameworks, designing UI/UX, setting up your project, integrating front-end with back-end\u2026\r\n\nThat's why we created Marblism: just describe your app, and voila! \r\n\nHere\u2019s how the magic work:\r\n\n1. Describe the product you want to build: it works well for SaaS, marketplaces, social apps and AI apps\r\n2. We generate the database and the back-end\r\n3. We generate the front-end\r\n4. You clone the github repos and you\u2019re ready to go\r\n\nThe 90% heavy lifting work is done for you. You focus on adding your 10% unique touch.\r\n\nYou can launch your idea in days not months.",
+    "activity_status": "Active",
+    "website": "https://marblism.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Pete Koomen",
+    "group_partner_yc": "https://www.ycombinator.com/people/pete-koomen",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:ai-assistant",
+    "founders": [
+        {
+            "name": "Ulric Musset, Founder",
+            "description": "Founder @ Marblism\nex-founder @ Vauban sold to Carta.",
+            "linkedin": "https://linkedin.com/in/ulricmusset"
+        },
+        {
+            "name": "Cyril Pluche, Founder",
+            "description": "Co-founder @MARBLISM. Ex-CTO @VAUBAN (acquired by Carta).",
+            "linkedin": "https://linkedin.com/in/cyril-pluche"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Marblism: A New Frontier in Web Development\n\nWelcome to Marblism, a fresh startup aiming to revolutionize how we build web applications. Founded in 2024 and part of Y Combinator's Batch W24, this ambitious company promises to make web development as simple as typing a single prompt. Imagine if generating a fully-functional web app came with no coding nightmares\u2014just clarity and a few clicks. That\u2019s the genius of Marblism.\n\n#### **The Mission Simplified**\n\nMarblism\u2019s mission is refreshingly straightforward: help you generate a fully-functional web application from just one prompt. This brilliance removes the usual clutter of coding\u2014the endless decision-making about frameworks, UI/UX design, and back-end integration. Instead of being bogged down by tedious initial setups, you simply describe your app idea, and the Marblism engine handles the heavy lifting.\n\n#### **How It Works**\n\n1. **Describe Your Product**: Whether it\u2019s a SaaS, a marketplace, a social app, or an AI project, just give a brief overview.\n2. **Back-End & Database Generation**: You\u2019ll get a robust back-end setup and a database tailored to your needs.\n3. **Front-End Creation**: The next step generates a dynamic and intuitive user interface.\n4. **Clone and Customize**: Finally, you can clone the GitHub repos provided and add your unique flair.\n\nThe beauty? The bulk of the work is done by Marblism, allowing you to focus on the creative part\u2014just that 10% that makes your project uniquely yours. You can launch your ideas in days instead of the usual months.\n\n#### **The Team & Vision**\n\nHailing from a small but mighty team of two, Marblism is spearheaded by visionary minds who understand the pains developers face. With Pete Koomen as their Group Partner, the company is poised to harness the powers of artificial intelligence, developer tools, and generative AI to create a smoother development experience.\n\n#### **Current Offerings**\n\nMarblism specializes in creating and deploying AI agents designed to save time, cut costs, and boost productivity. They cater to a user base that spans startups and larger enterprises. Trusted by 70,000 users, including big names like Google, Microsoft, and Amazon, Marblism is clearly on the right path.\n\nYou can select from their various AI agents tailored for tasks such as executive assistance, sales management, accounting, customer support, and even full-stack development\u2014think of them as digital helpers capable of learning and evolving.\n\n#### **Pricing Plans**\n\nMarblism keeps it simple with three transparent pricing tiers:\n\n- **Basic Plan**: $89/month for individuals, includes 100 runs/month and email support.\n- **Pro Plan**: $199/month for professionals, includes 300 runs/month and priority email support.\n- **Enterprise Plan**: Custom pricing for businesses requiring unlimited runs and tailored solutions.\n\n#### **Community and Learning**\n\nAt its core, Marblism values community engagement. They\u2019ve established a vibrant forum for sharing insights and improving their offering through user feedback. Their blog features articles on AI agents and guidance on building solutions\u2014helping users keep pace with the latest trends in tech.\n\nWhether you're an individual looking to prototype your next big idea or part of a larger company aiming to streamline operations, Marblism is here to make your life easier. Check them out at [marblism.com](https://marblism.com)\u2014the future of web app creation is just a prompt away.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b5fc0ef98f03773064abe6b182505ab81e81aee2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191523Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=505e5f8081674ac08989285e704b9b556c16d5468af38eabe8deea12f88cd5c6",
+    "social_links": [
+        "https://twitter.com/marblismAI"
+    ],
+    "logo_path": "data/logos\\Marblism_logo.png"
+}

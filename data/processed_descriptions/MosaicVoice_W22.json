@@ -1,0 +1,34 @@
+{
+    "links": "https://www.ycombinator.com/companies/mosaicvoice",
+    "name": "MosaicVoice",
+    "headline": "We make it simple for call centers to automate quality assurance.",
+    "batch": "W22",
+    "description": "MosaicVoice makes it easy for call centers to automate their Quality Assurance function. Our software listens to customer conversations in real-time and identifies and alerts agents and managers to any compliance violations as they happen",
+    "activity_status": "Active",
+    "website": "https://mosaicvoice.ai/",
+    "founded_date": 2020.0,
+    "team_size": 4.0,
+    "location": "Oakland, CA",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:call-center; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Julian McCarty, Founder",
+            "description": "I've spent my career at the intersection of analytics and the call center. After studying math at Berkeley, I spent 4 years as a consultant, advising some of the world's largest call centers on operational optimization. After business school at Stanford, I spent 7 years as an Investment Banker covering the call center software landscape. Now, as CEO and Co-founder of MosaicVoice, my team and I are working to empower call centers and their employees with the use of Conversational Intelligence.",
+            "linkedin": "https://www.linkedin.com/in/julianmccarty/"
+        },
+        {
+            "name": "Chishun Kwong, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/chishun-kwong-582ab51a"
+        }
+    ],
+    "status": true,
+    "generated_description": "**MosaicVoice: Simplifying Quality Assurance for Call Centers**\n\nFounded in 2020 and part of Y Combinator's W22 batch, MosaicVoice is on a mission to streamline quality assurance for call centers. Based in Oakland, CA, the company has a tight-knit team of four and is helmed by Nicolas Dessaigne as their Group Partner.\n\nSo, what exactly does MosaicVoice do? Their AI-driven software listens to customer conversations in real-time, alerting agents and managers to compliance violations as they occur. This shift from manual to automated quality assurance empowers teams to maintain high compliance standards without the traditional headaches.\n\n### Key Features:\n1. **Real-Time Guidance**: The software understands customer intent and helps agents with relevant prompts during calls, making interactions smoother and more effective.\n2. **Intelligent Objection Management**: When customers express concerns, the system provides instant responses to help agents address objections immediately.\n3. **Automated Quality Assurance**: Compliance breaches are tracked and flagged right away, ensuring that agents receive corrective actions before the call ends.\n4. **Comprehensive Call Summaries**: Detailed reports, including transcripts with sensitive information redacted, are automatically uploaded to CRM systems.\n5. **Analytics for Improvement**: The platform provides powerful analytics that helps managers identify best practices and drive continuous improvement.\n\n### Measurable Impact:\nMosaicVoice claims impressive outcomes, reporting a **50% reduction in training time**, **95% reduction in non-compliant calls**, and an **80% increase in positive call outcomes** among users. That's not just incremental improvement; that\u2019s a transformative approach to customer conversations.\n\nWith such a targeted solution, MosaicVoice is empowering teams to be more efficient and effective, all while delivering measurable ROI in days, not months. \n\nFor more about what they offer, check out their [website](https://mosaicvoice.ai/). It\u2019s a quick, no-code solution aimed at letting you focus on conversations while they handle the rest. \n\nIn an industry where customer interactions matter, MosaicVoice is making waves by redefining how quality assurance can operate\u2014through smart automation and real-time insights.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fd157014be5ae264a3557b61a8e98b3f5b98b0da.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191550Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f503170aecfcd7603446a8e021d8a26355bfb7c7329ab59c0cfe488ec5d32293",
+    "social_links": [],
+    "logo_path": "data/logos\\MosaicVoice_logo.png"
+}

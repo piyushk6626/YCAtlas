@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/roe-ai",
+    "name": "Roe AI",
+    "headline": "Data warehouse to query unstructured data like docs, webs, imgs & more",
+    "batch": "W24",
+    "description": "Roe AI is the next-generation AI-powered data warehouse to store, process, and query unstructured data like documents, websites, images, videos, and audio. By making the impossible data possible, we help data teams become strategic enablers.\r\n\nData lies at the heart of strategic decision-making, steering enterprises toward their KPIs. Roe AI accelerates these successes by providing intuitive and intelligent multi-modal data extraction, data classification & multi-modal RAG via Roe's SQL engine.\r\n\nBook us a call to discover how Roe AI can take your enterprise's data intelligence to the next level https://cal.com/team/roe-ai/hi-roe\r\n\nThe future of data science is here.",
+    "activity_status": "Active",
+    "website": "https://getroe.ai",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Mateo, CA",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:saas; industry:b2b; industry:big-data; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Richard Meng, Founder",
+            "description": "Cofounder & CEO of Roe AI, democratizing the access of safe, steerable, scalable Gen AI to enterprise\n\nex-tech lead of Gen AI @ Snowflake.\nSnowflake Summit 2023 Speaker.\nex-tech lead of Knowledge Graph & Generative Skill Assessment at LinkedIn\n2014-18 UC Berkeley CS & Stats",
+            "linkedin": "https://linkedin.com/in/berkeleymeng"
+        },
+        {
+            "name": "Jason Wang, Founder",
+            "description": "Hi, I'm Jason. With a background in both Computer Science and Applied Mathematics from UC Berkeley, I've had the privilege of diving deep into AI, product, and infrastructure roles at leading tech companies including Meta, Robinhood, and most recently, Retool. Excited to shape the future of AI-driven solutions!",
+            "linkedin": "https://linkedin.com/in/jason-wang-a29851128"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Roe AI Overview**\n\nFounded in 2023 and hailing from Y Combinator's Batch W24, Roe AI is a rising player in the world of data management. Based in San Mateo, CA, this compact team of three is on a mission to revolutionize how enterprises interact with unstructured data\u2014think documents, websites, images, videos, and audio. Their tagline? Making the impossible data possible.\n\n**What They Do**\n\nRoe AI provides a next-generation AI-powered data warehouse designed to store, process, and query unstructured data. This isn't just about storing data; it's about empowering data teams to become strategic enablers within their organizations. They achieve this using intuitive multi-modal data extraction, classification, and an innovative SQL engine that makes querying straightforward.\n\n**Core Features and Solutions**\n\n- **Agentic Unstructured Data Analytics:** Roe AI excels at extracting insights from complex data, helping businesses navigate the intricate nuances found in documents and online content.\n- **SQL-Powered AI Agents:** Their technology applies AI to unstructured data sources, functioning as \"SQL on steroids\" which brings a level of query power not commonly seen in the industry.\n- **Enterprise-Grade Security:** Built with stringent security measures, Roe AI emphasizes data privacy and compliance, making it a trustworthy partner for enterprises.\n\n**Industries Served**\n\nRoe AI is particularly geared toward financial services, fintech, insurance, e-commerce, and retail. They help companies streamline their operations\u2014whether it's reducing credit risks, improving compliance in insurance pricing, or making lengthy R&D documents queryable.\n\n**Why It Matters**\n\nData is central to strategic decision-making, and Roe AI positions itself as a catalyst for companies striving to leverage their data more effectively. The promise of transforming vast amounts of unstructured data into actionable insights is not just appealing\u2014it's essential in today's fast-paced business environment.\n\n**Get Involved**\n\nFor enterprises looking to enhance their data intelligence, Roe AI invites you to explore their solution further. You can book a demo to see firsthand how they can unlock your organization's data potential.\n\nWebsite: [getroe.ai](https://getroe.ai)  \nBook a Call: [Schedule Here](https://cal.com/team/roe-ai/hi-roe)\n\nIn summary, Roe AI is set to make waves in the data analytics landscape, and if you're any organization dealing with the overwhelming flood of unstructured data, they might just be the partner you need.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/64d82752b880fd0b119839d5cb73445773446ea4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191856Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=333d4b2e81b62d499c70672e83cd16c43a7996930669c8342c83480a25264ef9",
+    "social_links": [
+        "https://www.linkedin.com/company/roe-ai",
+        "https://twitter.com/try_roe_ai"
+    ],
+    "logo_path": "data/logos\\Roe_AI_logo.png"
+}

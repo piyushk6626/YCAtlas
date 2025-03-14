@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/stackup",
+    "name": "Stackup",
+    "headline": "Stackup helps businesses manage their crypto assets.",
+    "batch": "S22",
+    "description": "Stackup is transforming how businesses manage their on-chain operations by offering a smart account platform designed to simplify and automate complex blockchain tasks. As the need for seamless, secure, and efficient crypto transactions grows, Stackup provides centralized control over decentralized assets, allowing businesses to take charge of every detail of their operations with ease. Our platform integrates advanced security and adaptive features to eliminate the chaos of traditional crypto wallets, empowering businesses to manage their crypto stack in real-time. Whether you\u2019re orchestrating large-scale transactions or ensuring complete transparency, Stackup\u2019s solution brings order and precision to blockchain management\u2014turning crypto chaos into structured, seamless business flow.",
+    "activity_status": "Active",
+    "website": "https://www.stackup.fi",
+    "founded_date": 2021.0,
+    "team_size": 4.0,
+    "location": "Los Angeles, CA",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:crypto-web3; industry:b2b; industry:open-source; location:los-angeles",
+    "founders": [
+        {
+            "name": "John Rising, Founder",
+            "description": "John is the co-founder and CEO of Stackup, a platform that helps businesses manage their crypto assets. Before Stackup John worked at SpaceX, Virgin Galactic, and Relativity Space (W16) where he was head of rocket engineering as first employee through $4B valuation.",
+            "linkedin": "https://linkedin.com/in/johnrising/"
+        },
+        {
+            "name": "Hazim Jumali, Founder",
+            "description": "Hazim is the co-founder and CTO of Stackup, a company building accounts infrastructure for web3. He built one of the first implementations of an EIP-4337 smart contract wallet. Before Stackup Hazim worked as a Software Engineer building the consumer side of Afterpay and scaling e-commerce platforms at Redbubble.",
+            "linkedin": "https://www.linkedin.com/in/hazim-jumali/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Stackup is a promising startup based in Los Angeles, CA, that is focused on simplifying the complex world of cryptocurrency management for businesses. Founded in 2021 and part of Y Combinator's S22 batch, Stackup aims to empower companies to take control of their crypto assets through a smart account platform.\n\n### What They Do\nStackup's mission is about managing digital assets efficiently. Their platform offers features that allow businesses to streamline their on-chain operations, automate tasks, and gain full visibility into their crypto transactions. Essentially, they transform the chaos of traditional wallets into a centralized control system for decentralized assets.\n\nBy providing a way to manage on-chain finances without the usual hassles\u2014think cumbersome hardware wallets or convoluted transaction processes\u2014Stackup is targeting the crypto sector\u2019s need for clarity and security. Their tools facilitate everything from payroll to invoice payments, all while ensuring assets remain secure.\n\n### Key Features\n1. **Role-Based Access Control**: Assign specific permissions for team members, reducing errors and safeguarding sensitive information.\n2. **Passkey Authentication**: Eliminate cumbersome private keys with user-friendly passkeys.\n3. **Automated Billing**: Send invoices and schedule payments directly from the platform.\n4. **Real-Time Reporting**: Get an accurate view of all transactions without back-and-forth communication with staff.\n5. **Non-Custodial Control**: Maintain full custody over your tokens, transacting freely across multiple blockchains.\n\n### The Founding Team\nStackup was co-founded by John Rising, who brings experience from SpaceX, and Hazim Jumali, a tech veteran from Afterpay and Accenture. This duo combines deep technical expertise with a visionary outlook on the evolution of blockchain operations.\n\n### Why It Matters\nIn a world where many crypto companies juggle multiple clunky platforms, Stackup positions itself as the solution. It\u2019s designed not just for ease of use but also to cater to the financial complexities that come with the territory of managing digital assets. By automating many of these tasks, Stackup enables businesses to focus on growth rather than getting bogged down in operational minutiae.\n\nYou can learn more about Stackup on their website [here](https://www.stackup.fi). \n\nIn summary, Stackup isn't just another tech startup; it's a bold attempt to redefine how businesses interact with crypto. They\u2019re on a mission to make on-chain finances less of a puzzle\u2014because in the fast-paced crypto world, companies shouldn't be wasting time sorting through chaos. Instead, they should have the tools to take charge and excel.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/66bc8473bddf18e8b1c1b3ae0b0f83da51086b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191946Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c98c487b48e873fe939e9df9be75d0df568f6a82a437d8774cc762ecf8236420",
+    "social_links": [
+        "https://twitter.com/stackup_fi"
+    ],
+    "logo_path": "data/logos\\Stackup_logo.png"
+}

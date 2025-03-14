@@ -1,0 +1,44 @@
+{
+    "links": "https://www.ycombinator.com/companies/compup",
+    "name": "CompUp",
+    "headline": "Building a compensation graph to help companies optimise people spend",
+    "batch": "S22",
+    "description": "With over 500M white-collared job offers rolled out annually, companies find it very difficult to be certain about what to offer. Companies rely on old compensation survey data, which are updated only once every year.\r\n\nThe salary expectations of candidates in the market change significantly on a quarterly basis (~7% statistically) in the startup ecosystem.\r\n\nThis results in more than 50% of qualified/selected candidates not joining the company due to expectation mismatch.\r\n\nCompUp is an API-driven compensation benchmarking tool. We integrate with your existing HR/payroll systems, removing the need for manual data entry, and also getting updated in real-time.\r\n\nCompUp provides the most accurate real-time compensation benchmarking data which helps you make the right offer to the candidate. The platform allows you to make better compensation decisions such as annual increments, candidate offers using internal and external data. \r\n\nThis has the following advantages :\r\n- All the process of compensation data submission is automatic and needs no manual intervention\r\n- Since the job market is dynamic in nature, the offers made on CompUp's real-time benchmarks would be the most efficient\r\n- The presentation of the offer to the candidate makes it look more appealing and explanatory to the candidate",
+    "activity_status": "Active",
+    "website": "https://www.compup.io",
+    "founded_date": 2020.0,
+    "team_size": 35.0,
+    "location": "Bengaluru, India",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:human-resources; industry:b2b; industry:hr-tech",
+    "founders": [
+        {
+            "name": "Anurag Dixit, Founder",
+            "description": "Specializing in user research, I love building and scaling technology solutions for the problems I genuinely wish never existed. I'm passionate about using technology to enhance human capabilities and give them more firepower.\n\nI am currently building HireSure.ai which is a technology breakthrough in white-collar hiring. Stay tuned for more updates from HireSure because the journey has just started.\n\nI love speaking about hiring, candidate experience, hiring brand, and candidate engagement.",
+            "linkedin": "https://www.linkedin.com/in/anurag-dixit-131838a5/"
+        },
+        {
+            "name": "Ramesh Konatham, Founder",
+            "description": "Engineering graduate from IITK with 15+ years of experience in IT sales & delivery at IBM. Started as a programmer and quickly learnt the art of client delight and delivered  multi million dollar IT M&A projects in US and APAC geos. Best way to deal with unsolved problems no one  solving is to solve yourself and that's the genesis of my entrepreneur journey at HireSure.ai",
+            "linkedin": "https://www.linkedin.com/in/ramesh-k-b6044b51/"
+        },
+        {
+            "name": "Anshul Mishra, Founder",
+            "description": "Having learned product and technology while creating value out it, has been my journey so far. \n\nInto my second stint as a founder, I am very passionate about developing scalable products and making things that is loved by its users.",
+            "linkedin": "https://www.linkedin.com/in/anshul-mishra01/"
+        }
+    ],
+    "status": true,
+    "generated_description": "CompUp is a dynamic startup based in Bengaluru, India, founded in 2020 as part of Y Combinator Batch S22. At its core, CompUp is tackling a significant challenge in the hiring ecosystem: the outdated and infrequent nature of compensation data, which leaves companies struggling to make competitive offers. With over 500 million white-collar job offers released annually, many companies are stuck relying on compensation surveys that are updated just once a year. Given that salary expectations in the fast-paced startup environment can change significantly\u2014up to 7% every quarter\u2014this creates a real risk of losing qualified candidates due to mismatched expectations.\n\nEnter CompUp, an API-driven compensation benchmarking tool designed to provide real-time, accurate compensation data integrated smoothly with existing HR and payroll systems. This means no more tedious manual data entry; instead, organizations can access the latest benchmarks effortlessly. CompUp\u2019s platform empowers companies to make informed compensation decisions that not only optimize talent acquisition but also enhance retention strategies.\n\n### Why Choose CompUp?\n- **Automation**: The compensation data submission process is entirely automated, minimizing human error and reducing administrative burden.\n- **Real-Time Insights**: With a constantly updated database, companies can make immediate offers that reflect current market rates, increasing the likelihood of acceptance from prospective hires.\n- **Enhanced Presentation**: The tool not only provides numbers but also presents them in a compelling, easy-to-understand manner that resonates with candidates.\n\nCurrently, CompUp boasts a robust team of 35 and has garnered trust from over 200 leading startups and enterprises. Key products include Compensation Management, HireSure.ai for candidate offer workflows, Compensation Benchmarking, Reward Statements, and soon, People Analytics.\n\nReviews speak volumes; customers rave about the platform, noting its effectiveness in streamlining compensation tasks and enhancing hiring workflows. CompUp has transformed traditional compensation planning, enabling companies to implement world-class strategies more simply and effectively.\n\nIn summary, CompUp is revolutionizing how companies approach salary offerings, making it easier to attract and retain top talent in an ever-evolving market. If you\u2019re ready to elevate your compensation strategies, visit [CompUp's website](https://www.compup.io) for more information.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/270da6933b2042b03c010550236f43848fe8479b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191100Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b262acfb398080fc4cb88ae4326a7436b40701b11880a8fe9911f284679e4577",
+    "social_links": [
+        "https://www.linkedin.com/company/getcompup/",
+        "https://twitter.com/hire_sure",
+        "https://www.facebook.com/be.HireSure/",
+        "https://www.crunchbase.com/organization/hiresure"
+    ],
+    "logo_path": "data/logos\\CompUp_logo.png"
+}

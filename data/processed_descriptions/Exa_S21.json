@@ -1,0 +1,32 @@
+{
+    "links": "https://www.ycombinator.com/companies/exa",
+    "name": "Exa",
+    "headline": "Web search rebuilt for LLMs",
+    "batch": "S21",
+    "description": "Exa is a search engine built for AIs. We enable developers to filter the internet's content with complex\u00a0queries in order to bring the world's knowledge into their AI apps.",
+    "activity_status": "Active",
+    "website": "https://exa.ai",
+    "founded_date": 2021.0,
+    "team_size": 7.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:search; industry:ai; industry:apis; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Will Bryk, co-founder/CEO",
+            "description": "I grew up in NYC, then studied CS and physics at Harvard, where I did some ML research and led the robotics club. Then I was a software engineer at ML startup Cresta, while also writing a book about the history of civilization in my spare time. When I realized the future of civilization depends almost entirely on the quality of information we consume, I left to start Exa.",
+            "linkedin": "https://www.linkedin.com/in/william-bryk"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Exa**\n\nFounded in 2021 and hailing from the Y Combinator Batch S21, Exa is making waves in the San Francisco Bay Area. The company is on a mission to revolutionize web search for large language models (LLMs)\u2014essentially, they're building a search engine tailored for AIs. This mission revolves around enabling developers to filter through the vast expanses of the internet, using complex queries to harness the world's information for their AI applications. Currently, they operate with a lean team of seven employees and are led by Nicolas Dessaigne, their Group Partner.\n\n**What Exa Offers**\n\nExa\u2019s key products are designed to enhance how applications interact with web data:\n\n1. **Exa API**: This is a powerful tool that provides AI applications with high-quality web data through a meaning-based search process, streamlining the integration of web content into various applications.\n\n2. **Websets**: A newly launched web research agent that not only finds data but also enriches it, catering to sales teams, recruiters, and analysts, among others. \n\nTheir web presence is comprehensive, featuring an intuitive [website](https://exa.ai), where users can access documentation, pricing details, and demo experiences. \n\n**Key Use Cases**\n\nExa\u2019s technology is versatile, appealing to a range of applications:\n- **News Summarization**: Users can quickly gain insights into recent news topics, making it a perfect tool for information aggregation.\n- **Q&A Solutions**: The platform allows the development of chatbots that can contextualize responses with up-to-date information.\n- **Competitor Analysis**: Conveniently aggregates web data on companies within specific sectors.\n- **Research Assistance**: Helps in sourcing reliable content for varied research needs.\n\n**Customer Testimonials**\n\nExa's impact has resonated with users across industries. For instance:\n- Rabi Gupta, CEO of EvaBot, notes that \"Exa feeds our deep research AI,\" emphasizing the speed and quality of data it provides.\n- Jonathan Frankle, Chief Scientist at Databricks, reinforces this by stating, \"Models are only as good as the data they\u2019re trained on, and Exa\u2019s search allowed us to get high-quality data we couldn\u2019t find any other way.\"\n\n**Conclusion**\n\nExa is not just another startup; it embodies the future of how web data can be integrated into AI tools. By focusing on the unique needs of AI-driven applications, they're carving out a niche that positions them as a frontrunner in the realm of intelligent search solutions. If you're curious about how Exa can enhance AI applications or streamline your web research, head over to [their website](https://exa.ai) and check out what they have to offer.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0353a0ccfb7d513ccfe034122dddb72e069b43fa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191324Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1aee808f363dd784f02f5ad3b3b386e268f813c274895d86ee66db28619dbe38",
+    "social_links": [
+        "https://www.linkedin.com/company/exa-ai/",
+        "https://twitter.com/ExaAILabs"
+    ],
+    "logo_path": "data/logos\\Exa_logo.png"
+}

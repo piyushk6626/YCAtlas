@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/zealth",
+    "name": "Zealth",
+    "headline": "Software for remote monitoring of cancer patients",
+    "batch": "W21",
+    "description": "Zealth is building remote monitoring software to help hospitals provide automated continuous round-the-clock support to their cancer patients post-discharge. \r\n\nHospitals are overburdened with no resources to provide care to their chronic patients once they leave the hospital. For instance, in India, there are only 2200 oncologists for 1.38 billion people. Patients travel 100 miles waiting for hours to get few minutes with the doctors. They have no easy means to manage all the toxicities and symptoms they get once they are back home. This leads to 6X lower patient retention, 4X high emergency readmissions, and poor patient outcomes. \r\n\nZealth bridges this gap through its digital health intervention platform.",
+    "activity_status": "Active",
+    "website": "https://zealth-ai.com/",
+    "founded_date": 2020.0,
+    "team_size": 2.0,
+    "location": "Bengaluru, India",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:health-tech; industry:remote; industry:oncology",
+    "founders": [
+        {
+            "name": "Monika Mehta, Founder",
+            "description": "Ph.D. Immunology, NUS, Singapore\nClinical Research Fellow, SingHealth, Singapore\nSenior Scientist, Chugai Pharma (Roche group), Singapore",
+            "linkedin": "https://linkedin.com/in/monika-mehta-657ba786"
+        },
+        {
+            "name": "Dheeraj Mundhra, Founder",
+            "description": "Building Zealth - Software for remote monitoring of cancer patients.\nGraduated from IIT Kharagpur, Built multiple AI based products in finance and healthcare in the last 7 years.",
+            "linkedin": "https://linkedin.com/in/dmundhra"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Zealth: Transforming Cancer Patient Monitoring\n\n**Overview**  \nFounded in 2020 and part of Y Combinator's W21 batch, Zealth operates out of Bengaluru, India, with a nimble team of just two employees. Its mission? To provide software for the remote monitoring of cancer patients, making post-hospital care more accessible and effective.\n\n**The Need**  \nThe statistics are stark: In India, with a staggering population of 1.38 billion, there are only 2,200 oncologists available. Patients often journey over 100 miles to secure mere minutes of a doctor's time, leading to 6 times lower patient retention and 4 times higher emergency readmissions. The post-treatment phase for cancer patients is chaotic\u2014symptoms and toxicities abound, often leaving patients in confusion without accessible help.\n\n**The Solution**  \nZealth's platform aims to bridge this gap. By leveraging machine learning, it offers an end-to-end solution for real-time health monitoring and symptom management for cancer patients at home. The software alerts patients when it's time to reach out to their doctors and provides actionable insights tailored for clinicians. This not only enhances patient engagement but significantly lightens the load on healthcare providers, allowing them to focus on what they do best\u2014care for their patients.\n\n**What They Do**  \n1. **Patients**: Empower them to track symptoms and receive real-time alerts.\n2. **Clinicians**: Provide a 360-degree view of their patients' statuses from home, simplifying follow-ups and decision-making.\n3. **Insurers**: Help reduce claims through proactive health interventions.\n4. **Clinical Trials**: Generate real-world evidence that can streamline clinical trials while driving down costs.\n\n**Impact**  \nThe feedback from users highlights the platform's efficacy:\n- Caregivers appreciate the symptom-tracking capabilities, which help save time and enhance peace of mind.\n- Doctors report improved patient follow-up and engagement thanks to the tools provided by Zealth.\n\n**Conclusion**  \nWith the pressing need for efficient post-discharge monitoring of cancer patients, Zealth is tackling a critical healthcare challenge head-on. They provide not just a service, but a lifeline that empowers patients and eases the burdens on the healthcare system.\n\nFor more information, you can visit their website at [Zealth](https://zealth-ai.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/667a09903d90a797f5fa3c9fe15e4fe5c64f971f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192108Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=898f14c62b51cfef986d57da509585bf49c18fedeb3ce194c4b74c9ec4c8f5ce",
+    "social_links": [
+        "https://www.linkedin.com/company/zealth-ai/",
+        "https://github.com/Zealth-AI"
+    ],
+    "logo_path": "data/logos\\Zealth_logo.png"
+}

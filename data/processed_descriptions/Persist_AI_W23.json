@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/persist-ai",
+    "name": "Persist AI",
+    "headline": "Developing long-lasting drug formulations 50% faster",
+    "batch": "W23",
+    "description": "It takes 5 years for pharma to develop long lasting drug injections for chronic diseases like cancer and diabetes. Persist uses AI-driven automation to reduce formulation development time down to 2 years, a ~50% reduction.",
+    "activity_status": "Active",
+    "website": "http://www.persist-ai.com",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "Woodland, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:robotics; industry:microfluidics; industry:nanotechnology; industry:therapeutics",
+    "founders": [
+        {
+            "name": "Karthik Raman, Founder",
+            "description": "When mom got brain cancer, I used to take her for her \"infusions\". \n\nFor 4 hours, we would sit there while drug was being infused into her veins and she had horrible nausea and hair loss.\n\nI built Persist to eradicate this horrible experience for future patients. \n\nWe package drugs so that patients take 1 injection per month or year, without an infusion. This lowers the overall dose the patient receives (reducing side-effects), improves compliance, and quality of life.",
+            "linkedin": "https://www.linkedin.com/in/karthik-raman-scientist/"
+        },
+        {
+            "name": "Christopher Shelner, Founder",
+            "description": "Career program manager, first time founder.  Focus has been in electronics, automation, and manufacturing.  Super excited to be part of the YC batch!",
+            "linkedin": "http://www.linkedin.com/in/christophershelner/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Persist AI**\n\n**Founded:** 2022  \n**Location:** Woodland, CA  \n**Team Size:** 6 employees  \n**Y Combinator Batch:** W23  \n**Website:** [persist-ai.com](http://www.persist-ai.com)\n\n**Mission:**  \nPersist AI is on a mission to accelerate the development of long-lasting drug formulations by leveraging AI-driven automation. They\u2019re slashing the typical drug formulation development time from five years to just two\u2014an impressive 50% reduction. This is particularly impactful for chronic diseases like cancer and diabetes, which often require intricate formulation work.\n\n**Technological Edge:**  \nPersist AI utilizes a combination of machine learning, robotics, microfluidics, and nanotechnology to revolutionize drug formulation. Their innovative approach involves a high-throughput robotic lab that can run thousands of formulations in parallel, minimizing human error and optimizing the formulation process. The AI platform developed by Persist aids in analyzing complex data sets and predicting effective formulations, allowing teams to achieve faster and more reliable outcomes.\n\n**Core Services:**\n1. **Cloud Lab:** A cutting-edge platform where formulation scientists define experiments in the cloud, and robots execute them in real-time, promoting agility and cost-effectiveness.\n2. **Formulation Development:** Specialized scientists focus on achieving a Quality Target Product Profile (QTPP) using AI and robotic technologies.\n3. **Commercial cGMP Manufacturing:** An automated manufacturing line for producing clinical and commercial batches post-formulation.\n4. **Analytical Support:** Comprehensive analytical capabilities integrated into both the Cloud Lab and traditional development projects for enhanced precision and results.\n\n**Recent Developments:**  \nPersist AI has made headlines for successfully raising $4 million in seed financing, led by 2048 Ventures. They also announced a collaboration with Nivagen to advance AI-driven manufacturing processes for long-acting injectables.\n\n**Conclusion:**  \nPersist AI stands at the forefront of pharmaceutical innovation, promising to supercharge drug formulation processes that save time, money, and ultimately offer better therapeutic options for chronic disease management. Their strategic use of advanced technologies positions them as a key player in transforming the landscape of drug development.\n\nFor more insights, check out their [news section](http://www.persist-ai.com/blog) or contact them directly [here](http://www.persist-ai.com/contact).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/45155711679549942ceee4a5e0a4ab46262845b5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191632Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=27877715043c6d59685064ce14f715d353a682867eb93d709c87da21dc9f24b2",
+    "social_links": [
+        "https://www.linkedin.com/company/persist-ai/"
+    ],
+    "logo_path": "data/logos\\Persist_AI_logo.png"
+}

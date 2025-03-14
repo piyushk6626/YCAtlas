@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/nectar",
+    "name": "Nectar",
+    "headline": "Collecting companies' carbon emissions data",
+    "batch": "S23",
+    "description": "Nectar helps large companies collect carbon emissions data for mandatory disclosures. Over 50,000 companies today are required to collect utility data for upcoming regulations in the US/EU. Sustainability teams manually parse the data, a process that takes 100M work hours annually, requires expensive audits, and results in inaccurate metrics. Nectar automatically extracts, structures, and inputs this data into companies' existing systems.",
+    "activity_status": "Active",
+    "website": "https://nectarclimate.com",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:climate; industry:enterprise-software; industry:climatetech; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Allen Wang, Founder",
+            "description": "Allen studied CS & EE and Math at MIT. Before founding Nectar with Katherine, he worked at Scale AI and Google. Talk to Allen about climate, math, or card magic.",
+            "linkedin": "https://linkedin.com/in/allenwang314"
+        },
+        {
+            "name": "Katherine He, Founder",
+            "description": "Katherine studied computer science and business management at MIT. Previously she's worked at Two Sigma building financial pipelines that move millions of dollars daily. She holds a US record in poetry memorization.",
+            "linkedin": "https://linkedin.com/in/katherine-he"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Nectar**\n\n**Mission:** Nectar aims to simplify the process of collecting carbon emissions data for large companies, helping them comply with mandatory disclosure regulations.\n\n**Background:** Founded in 2022 and part of Y Combinator Batch S23, Nectar is based in San Francisco. The company was established in response to an overwhelming challenge facing over 50,000 companies in the U.S. and EU, who need to gather utility data for sustainability reporting. The traditional method of data collection is slow, error-prone, and labor-intensive, consuming roughly 100 million work hours annually and resulting in costly audits with questionable accuracy. Nectar solves this problem by automating data extraction, structuring, and integration into existing systems.\n\n**Team:** Currently, Nectar operates with a lean team of two employees, with Gustaf Alstromer from Y Combinator serving as their Group Partner.\n\n**Target Market:** Nectar primarily serves large enterprises in sectors such as manufacturing, food and beverage, real estate, telecommunications, and technology, offering them tools to automate their utility management for energy, water, and waste. \n\n**Core Features:**\n- **Automated Data Collection:** Links to over 7,000 utility providers globally, allowing seamless access to energy, water, and waste usage data.\n- **Integrations:** Works with sustainability and ESG platforms, enabling users to visualize and analyze their utility data in one place.\n- **Audit Trail:** Provides a comprehensive edit history for data, enhancing accountability and transparency.\n- **Enhanced Analytics:** Offers extensive reporting capabilities, helping organizations identify gaps in their data and assess their sustainability impact accurately.\n\n**Customer Testimonials:** Users have praised Nectar for reducing human errors, expediting data entry, and providing reliable metrics. Notable clients include Vontier Corporation and Idaho Milk Products, praising how Nectar has transformed their sustainability data management.\n\n**Conclusion:** Nectar is positioned to be a game-changer in the climate tech space by tackling a significant operational hurdle for large enterprises and enabling them to make informed decisions towards achieving sustainability goals. As regulations tighten, Nectar's relevance and potential for growth will only continue to rise.\n\nFor more information, visit [Nectar](https://nectarclimate.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/84d5c9229cf0252a4a9d3c3988e0f6010664fcbb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191556Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5cf75cac095d7514ef20f3d774f50eb81256ba7110db91464d2dad08158e787e",
+    "social_links": [
+        "https://www.linkedin.com/company/nectarclimate"
+    ],
+    "logo_path": "data/logos\\Nectar_logo.png"
+}

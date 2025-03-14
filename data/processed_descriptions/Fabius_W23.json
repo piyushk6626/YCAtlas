@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/fabius",
+    "name": "Fabius",
+    "headline": "AI to improve Sales Calls",
+    "batch": "W23",
+    "description": "Fabius helps sales leaders understand and improve their reps' performance by analyzing customer calls with AI. Companies like Airbyte and Fermat use us to score every call and identify when a customer hasn\u2019t been properly qualified.\r\n\nFabius helps drive decisions within sales, including:\r\n- Disqualify a deal: Reps work on deals that will never close. We identify the deals that won't be successful and make sure reps don't waste time on them.\r\n- Need to strengthen the business case for a deal: We tell managers and reps when a deal has a weak business case and show them how to uncover more business value in the deal.",
+    "activity_status": "Active",
+    "website": "https://fabius.io",
+    "founded_date": 2020.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:saas; industry:b2b; industry:sales; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Neil Madsen, Founder",
+            "description": "Neil is the CEO of Fabius.  \n\nBefore co-founding Fabius, Neil was the Head of Technical Services at LiveRamp, where he led all technical customer-facing teams (Sales Engineering, Implementation, Technical Account Management, and Support). \n\nHe has a BS in Computer Science from The Ohio State University.",
+            "linkedin": "https://www.linkedin.com/in/neil-madsen-18a3755b/"
+        },
+        {
+            "name": "Andy Day, Co-Founder",
+            "description": "Co-Founder and CTO of Fabius. Previously lead the Pixel Serving Engineering Team @ LiveRamp.",
+            "linkedin": "https://www.linkedin.com/in/andrewkday"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Fabius: Empowering Sales with AI-Driven Insights**\n\nFounded in 2020, Fabius is a San Francisco-based startup that aims to revolutionize sales calls through its AI-driven platform. Part of Y Combinator's W23 cohort, Fabius is on a mission to help sales leaders improve their representatives' performance by analyzing customer interactions intelligently.\n\n**What Does Fabius Do?**\n\nFabius offers a sophisticated tool that dissects sales calls, focusing on two critical areas:\n\n1. **Disqualification of Deals:** Reps often chase deals that have little chance of closing. Fabius identifies these opportunities, helping sales teams prioritize their efforts on leads that are likely to convert.\n   \n2. **Strengthening Business Cases:** The platform points out when a deal may lack a solid business rationale. It also provides actionable insights on how to extract more value from the deal, guiding reps to articulate stronger business cases.\n\n**How It Works:**\n\nFabius becomes the intelligence layer for a company\u2019s go-to-market strategy. It ingests various sales-related data\u2014calls, emails, proposals, and more\u2014to offer tailored insights that are hyper-relevant to each sales organization. By mastering the intricacies of your product and market, Fabius automates facets of the sales process and steers reps towards the actions that matter most.\n\n**Key Features:**\n\n- **Pre-Call Research:** It analyzes prospects\u2019 information and prepares your reps with meaningful insights to customize their approach, ensuring they ask the right questions from the start.\n  \n- **Post-Call Automation:** After a call, Fabius generates personalized follow-up emails, enriching them with relevant case studies or ROI data, and updates CRM systems automatically.\n\n- **Feedback & Coaching:** It develops specific scoring rubrics to evaluate reps on essential behaviors during sales processes, ultimately enhancing performance through constructive feedback.\n\n**Why Choose Fabius?**\n\nFabius positions itself not just as another AI tool, but as a strategic partner in navigating the complex landscape of sales. Companies like Airbyte and Fermat have leveraged its capabilities to streamline their sales processes and up their success rates. As a compact team of two, Fabius underscores the potential of targeted technology solutions in the ever-competitive B2B landscape.\n\nIf you\u2019re a sales leader looking to become more data-driven and efficient, Fabius might just be the sidekick your team needs to boost performance and drive results. \n\nExplore more at [Fabius.io](https://fabius.io) and see how their technology can turn your sales strategy into a winning formula.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/103c865954db05c667accb43c8f6ff46e97a2a7a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191326Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c0522422e909e841fcf49a51daa43bae47926797c673a68a960a6a497a106f84",
+    "social_links": [
+        "https://www.linkedin.com/company/fabius-technologies/",
+        "https://twitter.com/fabiustech",
+        "https://www.crunchbase.com/organization/fabius-66e4"
+    ],
+    "logo_path": "data/logos\\Fabius_logo.png"
+}

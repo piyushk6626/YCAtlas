@@ -1,0 +1,25 @@
+{
+    "links": "https://www.ycombinator.com/companies/directed-edge",
+    "name": "Directed Edge",
+    "headline": "Product recommendations.",
+    "batch": "S09",
+    "description": "Directed Edge delivers Amazon-like \"People who bought this also bought...\" and \"We think you'd also like\"-style recommendations to other sites, using existing data being collected such as purchase or click histories. Recommendations are served in real-time via a REST API, with language bindings in several programming languages to make integration easy.",
+    "activity_status": "Active",
+    "website": "http://directededge.com",
+    "founded_date": null,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:machine-learning; industry:recommendation-system; location:san-francisco-bay-area",
+    "founders": [],
+    "status": true,
+    "generated_description": "**Directed Edge Overview**\n\nDirected Edge, a tech startup based in San Francisco, aims to transform e-commerce with its advanced product recommendation services. Think of those \"People who bought this also bought...\" suggestions you see on sites like Amazon\u2014Directed Edge brings that capability to your online store through a seamless integration.\n\n**Mission Statement**  \nAt its core, Directed Edge focuses on delivering precise product recommendations to enhance the shopping experience. Their technology analyzes existing purchase and click histories in real-time, offering insightful suggestions that foster increased sales and customer engagement.\n\n**Background**  \nFounded during Y Combinator's Summer 2009 batch, Directed Edge is a nimble team of just two employees. This startup ethos reflects its innovative drive and capacity to adapt quickly in a dynamic tech landscape.\n\n**Product Features**  \nDirected Edge\u2019s primary product is a plugin for Shopify, where it has been remarkably successful, currently delivering over half a million recommendations per day. Here\u2019s a glimpse of what their recommendation system offers:\n\n- **Related Products:** Suggests items that are commonly paired with the product a customer views.\n- **Shopping Cart Recommendations:** Offers suggestions based on the contents of a customer\u2019s shopping cart.\n- **Product Bundles:** Shows potential bundles of products available for a single purchase.\n- **Personalized Recommendations:** Tailors suggestions for returning customers based on their previous interactions.\n- **Top Products:** Highlights the most popular items in the user's shop.\n- **Recently Viewed Products:** Keeps track of items a customer has viewed recently for quick reference.\n- **Transactional Email Recommendations:** Incorporates recommendations into order and shipping confirmation emails.\n\n**Additional Features**  \nIn addition to its core offerings, Directed Edge allows businesses to customize their recommendations through features like an advanced hand-picker for manually selecting products, business rule creations for tailored suggestions, and a CSV importer/exporter that simplifies the transfer of external data into their system.\n\n**Why It Matters**  \nAt a time when e-commerce is saturated with options, effectively curating product suggestions can make or break customer experiences. Directed Edge\u2019s approach leverages the power of artificial intelligence and machine learning to create a personal touch that retailers need to stand out.\n\n**Key Takeaway**  \nFor businesses looking to harness the potential of AI-driven recommendations, Directed Edge provides a robust solution that promises not just to enhance sales, but also to improve customer satisfaction. Their integration simplicity and advanced features keep them at the forefront of e-commerce innovation.\n\nIf you're interested in elevating your online store\u2019s performance, check out their services at [Directed Edge](http://directededge.com) or find them on the Shopify App Store.",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.crunchbase.com/organization/directed-edge",
+        "https://github.com/directededge"
+    ]
+}

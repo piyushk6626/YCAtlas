@@ -1,0 +1,35 @@
+{
+    "Links": "https://www.ycombinator.com/companies/vocality-health",
+    "Name": "Vocality Health",
+    "Headline": "AI medical interpreter for hospitals",
+    "Batch": "W25",
+    "Description": "Our app allows doctors to speak any language, removing the need for human medical interpreters in hospitals and clinics. Hospitals spend billions on in-person and remote medical interpreters, yet non-English speaking patients still struggle to get the care they need. Furthermore, existing tech solutions make mistakes and aren't secure.\r\n\nWe're building the most accurate and compliant medical language interpretation system across voice and video modalities.",
+    "Activity_Status": "Active",
+    "Website": "https://www.vocalityhealth.com",
+    "Founded_Date": "2025",
+    "Team_Size": "2",
+    "Location": "",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/brad-flora",
+    "Group_Partner": "Brad Flora",
+    "Company_Linkedin": "https://www.linkedin.com/company/vocality-health",
+    "Company_Twitter": "",
+    "Tags": "industry:healthcare; industry:health-&-wellness; industry:ai",
+    "social_links": [
+        "https://www.linkedin.com/company/vocality-health"
+    ],
+    "logo_path": "data\\logos\\Vocality_Health.png",
+    "Active_Founders": [
+        {
+            "Name": "Vivek Jayaram, Founder/CTO",
+            "Description": "Vivek is a Harvard CS graduate and PhD in generative models from UW. He previously led the implementation of computer vision algorithms at Second Spectrum (acq for 200M) and then founded a computer vision sports application that reached 1M ARR and 4M monthly users during his PhD. His research has focused on speech and music generative models, hearable devices, and fast diffusion sampling. He is building custom LLMs for medical language interpretation at Scyther.",
+            "LinkedIn": "https://www.linkedin.com/in/vivek-jayaram/"
+        },
+        {
+            "Name": "Brogan McPartland, Founder",
+            "Description": "Cofounder and CEO of Vocality Health. Previously, cofounder and CTO of Fulltrack AI, a viral computer vision sports app that became the #1 sports app in India on the Google Play Store, surpassing Adidas and the Olympics (during the Olympics). Scaled Fulltrack to mid-six-figure MAUs and $1M ARR. Author of three patents from work at Fulltrack. Studied Computer Science at Harvard.",
+            "LinkedIn": "https://www.linkedin.com/in/brogan-mcpartland-05830031a/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Vocality Health: Breaking Down Language Barriers in Healthcare**\n\nFounded in 2025 and nestled in the innovative environment of Y Combinator's Batch W25, Vocality Health aims to revolutionize medical interpretation through advanced AI technology. Think of them as the bridge between patients and healthcare providers who speak different languages, ensuring everyone receives the care they need, regardless of what language they speak.\n\n### **The Mission: AI-Powered Medical Interpretation**\n\nVocality Health's mission is clear and impactful: develop an AI medical interpreter that serves hospitals efficiently and accurately. Their platform eliminates the need for human interpreters\u2014an often costly and unreliable solution\u2014by providing instant translations in over 100 languages during medical consultations. This not only helps in cutting down expenses for hospitals but also enhances patient safety and care quality by reducing communication errors.\n\n### **Why Vocality Health?**\n\nTraditional interpretation methods can be a hassle. They often involve exorbitant costs, long wait times, and inconsistent quality, all putting patient care at risk. The existing tools (think Google Translate) simply don\u2019t cut it in high-stakes environments like healthcare. This is where Vocality Health steps in with features that speak for themselves:\n\n- **AI-Powered Accuracy:** Their models are trained on extensive datasets specific to medical conversations, ensuring that every interpretation is contextually relevant.\n  \n- **Continuous Learning:** The AI is designed to adapt and improve over time, learning from real-world conversations and feedback.\n\n- **Enterprise-Grade Security:** Built with patient confidentiality in mind, their technology is HIPAA compliant and employs end-to-end encryption to protect sensitive information.\n\n### **How It Works**\n\nVocality Health makes the interpretation process simple and seamless:\n\n1. **Connect:** Their system integrates easily with existing healthcare IT infrastructures.\n2. **Speak:** Healthcare providers can communicate naturally in their preferred language.\n3. **Communicate:** Patients receive real-time translations, ensuring clarity and understanding in every consultation.\n\n### **The Team & Vision**\n\nWith a small team of just two, Vocality Health is lean but agile. Brad Flora, their Group Partner from Y Combinator, backs the operation with invaluable mentorship. The combination of a solid vision, cutting-edge technology, and a commitment to ongoing improvement positions Vocality Health as a frontrunner in the healthcare AI space.\n\n### **Join the Revolution**\n\nFor hospitals and clinics tired of the pitfalls of traditional interpretation methods, Vocality Health presents a compelling alternative. Whether you're looking to enhance patient engagement or streamline communication, their AI-powered solution promises to break language barriers and, crucially, improve patient care\u2014a challenge that, until now, has remained largely unaddressed.\n\nTo explore how Vocality Health can transform medical interpretation in your institution, visit their website at [Vocality Health](https://www.vocalityhealth.com) and start a free trial today. \n\nIn the evolving landscape of healthcare, solutions like Vocality Health could very well become the norm rather than the exception."
+}

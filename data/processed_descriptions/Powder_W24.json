@@ -1,0 +1,47 @@
+{
+    "links": "https://www.ycombinator.com/companies/powder",
+    "name": "Powder",
+    "headline": "AI Agents for precise document analysis",
+    "batch": "W24",
+    "description": "Powder is an AI tool that helps wealth advisors rapidly create sales proposals that are personalized for each prospective client.  Using LLMs, Powder is able to automate a series of manual tasks such as understanding documents and conversations to create mind-blowing analysis that builds immediate trust.\r\n\nPowder has 3 main features to automate sales workflows -\r\n\n1. Brokerage, tax and estate document parser thats fast and accurate.\r\n2. Meeting notetaker thats able to capture personalized insights.\r\n3. Portfolio analysis tool that optimizes portfolio returns, risk and fees.\r\n\nOur app saves hours of time and creates a pinpoint proposal that lifts a firm's ability to win new business.",
+    "activity_status": "Active",
+    "website": "https://www.powderfi.com/",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": null,
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Kanishk Parashar, Founder",
+            "description": "cofounder/CEO Powder - AI growth platform for wealth advisors.  Previously, I was cofounder/CEO of RCI Navigator.  Navigator helps asset and wealth managers to pace into private assets such as VC, PE, Infra, etc. while taking risks into account.  It was acquired by Addepar in Jan 2021.  Navigator is used by 150+ firms including UBS and Morgan Stanley.  Before that I was cofounder/CEO of Coin (YCW13).  Coin was a all-in-one digital credit card that combined all your cards into one.",
+            "linkedin": "https://linkedin.com/in/diamondk"
+        },
+        {
+            "name": "Soo Yung Cho, Founder",
+            "description": "Sooyung is the co-founder and CTO of Powder, AI sales copilot for wealth advisors. Prior to founding Powder, Sooyung was a founding team member of RCI which was acquired by Addepar in 2021. Sooyung graduated from Johns Hopkins with a BS degree in Computer Science. Out of work, he enjoys playing lacrosse.",
+            "linkedin": "https://linkedin.com/in/soo-yung-cho-53643811"
+        },
+        {
+            "name": "David Goerz, Founder",
+            "description": "Co-founder & Chief Investment Officer for Powder Finance, which is building an AI Sales co-Pilot for wealth advisors to automate gathering financial holdings, analyze portfolios, assess risk tolerance, and summarize data to engage faster and efficiently.\n\nHe managed portfolio strategies for institutional asset owners for 33 yrs on mandates up to $30B in assets with pioneering innovations in quantitative equity and return forecasting, optimization and risk management. Chair, Investment Committees",
+            "linkedin": "https://linkedin.com/in/davidgoerz3"
+        },
+        {
+            "name": "Dominic Tully, Founder",
+            "description": "I am currently the co-founder and Head of Sales and Operations at Powder. Prior to Powder, I work at the fintech firm, Addepar, as both a Senior Account Executive and Senior Account Manager. I started my career at Goldman Sachs, where I worked in the Private Wealth Management division in San Francisco.",
+            "linkedin": "https://linkedin.com/in/dominic-tully-b9418292"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Summary: Powder\n\n**Overview:**  \nPowder, founded in 2023 and proudly a part of Y Combinator's W24 batch, is revolutionizing how wealth advisors operate. Its mission is straightforward: use AI agents for precise document analysis that saves time and boosts efficiency in creating personalized sales proposals. The technology leverages large language models (LLMs) to automate time-consuming manual tasks, transforming complex documents and conversations into insightful analyses that foster immediate trust with clients.\n\n**Key Features:**  \nPowder comes equipped with three powerful tools that streamline sales workflows in the wealth management sector:\n\n1. **Document Parser:** This feature efficiently processes brokerage, tax, and estate documents with speed and accuracy.\n   \n2. **Meeting Notetaker:** Captures personalized insights during meetings, allowing advisors to focus on conversations without losing essential details.\n   \n3. **Portfolio Analysis Tool:** Helps optimize portfolio returns, risk, and fees, providing a clear view of investment performance.\n\nThese tools significantly reduce tedious tasks, potentially saving advisors up to 95% of their time, enabling them to focus more on client engagement and less on manual calculations.\n\n**Impact:**  \nBy automating critical aspects of financial advisory work, Powder helps firms deliver tailor-made proposals swiftly, enhancing their competitive edge in winning new business. Additionally, the platform boasts features that ensure compliance with SEC/FINRA standards while safeguarding client data.\n\n**Team & Backing:**  \nThe Powder team consists of six dedicated professionals, backed by Garry Tan as their Group Partner. Despite being a nascent startup, they have already caught the industry's attention, being shortlisted on the 2024 CB Insights list of the \"100 Most Innovative Fintech Startups.\"\n\n**Client Testimonials:**  \nThe feedback from early adopters, such as Sunpointe Investments, underscores Powder's effectiveness in streamlining operations. Advisors have reported drastic reductions in their workload, with some tasks that previously took hours now completed in mere minutes. This not only enhances efficiency but also enriches client relationships by allowing advisors to allocate more time to high-value interactions.\n\n**Website:**  \nTo explore more about Powder and its offerings, visit [www.powderfi.com](https://www.powderfi.com).\n\nIn short, Powder isn't just another fintech tool; it's a game-changer for wealth advisors looking to leverage AI for unprecedented efficiency and client satisfaction. If you\u2019re in the field, it\u2019s worth checking out.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/54f8be49462680bccbd9aa76c1589edceae18403.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191651Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=eb0245aa79279afbd7f77246811958ca0723ad900a8b2bf16b89928aa6300d8e",
+    "social_links": [
+        "https://www.linkedin.com/company/powderfinance/",
+        "https://twitter.com/PowderFi"
+    ],
+    "logo_path": "data/logos\\Powder_logo.png"
+}

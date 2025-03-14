@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/navier-ai",
+    "name": "Navier AI",
+    "headline": "Real-Time CFD Simulations",
+    "batch": "W24",
+    "description": "Navier AI is making CFD 1000x faster with their ML-based solver.\r\n\nPhysics simulations, such as Computational Fluid Dynamics (CFD), are essential across many industries ranging from the design and analysis of aircraft, to weather prediction, to the development of medical devices. Today\u2019s simulation tools use explicit numerical solvers for physical equations, such as the Naiver-Stokes equations. These solvers are complex to setup and can take ages to produce results.\r\n\nNavier AI is building 1000x faster simulations using physics-ML solvers. Navier AI's fast CFD platform will enable engineers to quickly explore design spaces and perform analysis-in-the-loop design optimization. They are lowering the barrier to entry for aerospace and mechanical engineers to create high performance designs.",
+    "activity_status": "Active",
+    "website": "http://navier.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Cameron Flannery, Founder",
+            "description": "Cameron is an Aerospace Engineer and the cofounder of Navier AI. Cameron has built rocket engines, satellites, hydrofoiling containerships, and autonomous trucks in his career at some of the top engineering companies in the world. \n\nFormerly at SpaceX, Tesla, Aurora Innovation, Astranis, and Boundary Layer Technologies.",
+            "linkedin": "https://linkedin.com/in/cameronflannery"
+        },
+        {
+            "name": "Evan Kay, Founder",
+            "description": "Evan is an Aerospace Engineer and the co-founder of Navier AI. Evan formerly worked at SpaceX and General Atomics, where he was designing and metal 3D printing rocket engine and aircraft components. Prior to Navier AI, Evan was also a hard tech investor at Anzu Partners, where he invested in early-stage industrial technologies.",
+            "linkedin": "https://linkedin.com/in/evankay1"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Navier AI: Revolutionizing CFD Simulations\n\nFounded in 2023 and part of Y Combinator's Winter '24 batch, **Navier AI** is on a mission to revolutionize computational fluid dynamics (CFD) simulations, making them **1000x faster** than traditional methods. The company is spearheaded by a small but capable team, including co-founders Cameron Flannery and Evan Kay, both of whom have impressive backgrounds with companies like SpaceX and Tesla.\n\n#### What is Navier AI Doing?\n\nAt its core, Navier AI is taking the complex world of physics simulations\u2014vital for industries like aerospace, medicine, and environmental science\u2014and simplifying it through advanced machine learning techniques. Traditional CFD tools can be cumbersome and time-consuming, often requiring extensive setup and processing power. With Navier AI's innovative **physics-ML solver**, engineers can rapidly conduct simulations, enabling quicker design iterations and optimizations.\n\nThis speed not only enhances the design process but also lowers barriers for aerospace and mechanical engineers, allowing them to achieve high-performance designs more efficiently. \n\n#### Why It Matters\n\nIn practical terms, their technology will empower engineers to explore design spaces without the lengthy wait times associated with traditional simulation methods. Faster simulations mean more ideas can be tested, ultimately leading to better-performing products\u2014whether that\u2019s a new aircraft design or a more effective medical device.\n\n#### The Team\n\nNavier AI operates with a nimble team of just two employees, but they bring a wealth of experience from elite engineering backgrounds. The mentorship from Y Combinator and access to industry networks further bolster their potential.\n\n#### Final Thoughts\n\nNavier AI exemplifies how up-and-coming startups can leverage cutting-edge AI technology to solve longstanding engineering challenges. By drastically reducing the time to run CFD simulations, they\u2019re not just changing the game; they\u2019re opening up a whole new realm of possibilities for design innovation.\n\nFor more information, you can check out their [official website](http://navier.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0136e16c1554030ae8bcb924600958aa21f97494.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191554Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a2228752fdb515eb50f1d646645a4e7d49006176474ae43cbd4d085514471b92",
+    "social_links": [
+        "https://www.linkedin.com/company/navier-ai/about/",
+        "https://twitter.com/NavierAI"
+    ],
+    "logo_path": "data/logos\\Navier_AI_logo.png"
+}

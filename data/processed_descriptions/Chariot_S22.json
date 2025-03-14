@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/chariot-2",
+    "name": "Chariot",
+    "headline": "A payment network connecting nonprofits to the $250B in DAFs",
+    "batch": "S22",
+    "description": "Chariot is building financial products for nonprofits, starting with the first ever online payment system connecting Donor Advised Funds (DAFs) with nonprofits. DAF\u2019s have $250 billion in assets and grant out over $52 billion per year to nonprofits. It\u2019s the fastest growing segment of philanthropy, by far.\r\n\nChariot now powers seamless DAF giving for tens of thousands of nonprofits, including some of the most well-known nonprofits in the country, like Memorial Sloan Kettering Cancer Center, Central Park Conservancy, Boys & Girls Club of America, Pan-Mass Challenge, and March of Dimes. \r\n\nDAFpay is also now a primary payment option on leading fundraising platforms like GoFundMe, Givebutter, DonorDrive, Springboard by Jackson River, Engaging Networks, and dozens more. We are already driving tens of millions in new online DAF Giving by thousands of donors, and we\u2019re only getting started.",
+    "activity_status": "Active",
+    "website": "https://givechariot.com/",
+    "founded_date": 2022.0,
+    "team_size": 18.0,
+    "location": "New York",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:payments; industry:nonprofit; industry:b2b; location:new-york",
+    "founders": [
+        {
+            "name": "Salomon Serfati, Founder",
+            "description": "Salo is the CEO/CTO of Chariot. Before Chariot, Salo was a backend engineer at BlackRock and a founding engineer at Forage (YCS21). Salo graduated from the University of Pennsylvania with a degree in computer science. Salo was a President Innovation Prize finalist and at the age of 18 co-built a roommate app with 5,000+ users in 2 months with 0 CAC, 5 interns & 50+ brand ambassadors. Salo was born in Caracas, Venezuela.",
+            "linkedin": "https://www.linkedin.com/in/salomon-serfati-8ba836112/"
+        },
+        {
+            "name": "Aaron Kahane, Founder",
+            "description": "Aaron is the COO of Chariot. Before Chariot, he was a consultant at Bain & Company. At Bain, he worked for a $100B+ hedge fund looking at public equities in the tech/telecom space. Aaron graduated Summa Cum Laude from the University of Pennsylvania, receiving the highest distinction in his major. He also worked with Adam Grant on his NYTimes\u2019 best-selling book Think Again and Angela Duckworth on her upcoming book.",
+            "linkedin": "https://www.linkedin.com/in/aaron-kahane-98a86013b/"
+        },
+        {
+            "name": "Drew Schneider, Founder",
+            "description": "Drew is the Chief Product Officer of Chariot. Before Chariot, he was a consultant at Bain & Company. At Bain, he ran due diligence on software systems for top healthcare providers. Drew graduated Summa Cum Laude from Dartmouth College with a degree in Human-Centered Design. He has an extensive background in UI/UX and the design workflow process.",
+            "linkedin": "https://www.linkedin.com/in/andrew-schneider-130b77190/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Chariot: Revolutionizing Philanthropy Through Payments\n\n**Company Overview:**\nFounded in 2022 and part of Y Combinator's S22 batch, Chariot is a New York-based fintech startup that's aiming to connect nonprofits to a massive pool of funds. Its mission focuses on making the $250 billion in Donor Advised Funds (DAFs) accessible to nonprofits, enabling them to secure donations more efficiently. \n\n**The Challenge They Address:**\nTraditionally, engaging with DAFs has been cumbersome for nonprofits. These funds represent a rapidly growing segment of philanthropy, granting out over $52 billion per year. With Chariot\u2019s innovations, this financial landscape is set to transform. \n\n**What They Do:**\nChariot has developed DAFpay, the first-ever online system dedicated to connecting DAFs with nonprofits seamlessly. Their platform allows for an easy, streamlined donation process, which is key for both nonprofits and donors. This doesn't just improve the experience but also drives tens of millions in new online DAF giving\u2014marking a significant impact on fundraising.\n\n**Current Partnerships and Reach:**\nChariot supports tens of thousands of well-known nonprofits, including renowned names like Memorial Sloan Kettering, the Central Park Conservancy, and the Boys & Girls Club of America. DAFpay has become a prominent payment option on major fundraising platforms such as GoFundMe and Givebutter, illustrating its rapid acceptance in the sector.\n\n**Growth Potential:**\nWith DAFs being the fastest-growing area in philanthropy, Chariot is tapping into a vibrant market. They currently operate with a small and agile team of 18 and aim to expand their reach further within this dynamic landscape.\n\n**Leadership and Team:**\nLed by experienced professionals, with Aaron Epstein serving as the Group Partner, the team is dedicated to crafting financial products that speak directly to the needs of nonprofits. Their ethos centers around enhancing giving methods and simplifying the donation process on the donor side.\n\n**Future Goals:**\nChariot isn't just content with the status quo. They continually seek to innovate, providing resources like case studies, a blog, and webinars to educate both nonprofits and donors about the advantages and uses of DAFs. \n\n### Conclusion:\nIn essence, Chariot is revolutionizing how nonprofits interact with donor funds. By making DAFs easily accessible through their payment network, they're not just facilitating donations\u2014they're transforming philanthropy for the future. For more details, visit their website at [givechariot.com](https://givechariot.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2106a676b47633ae518f6d7cda045c158f7e5d18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191047Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8a71df3bdffd9865af00291182ca23220281d78eb719da58f99b86c8d52ad64c",
+    "social_links": [
+        "https://www.linkedin.com/company/givechariot/"
+    ],
+    "logo_path": "data/logos\\Chariot_logo.png"
+}

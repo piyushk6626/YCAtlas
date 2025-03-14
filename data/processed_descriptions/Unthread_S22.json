@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/unthread",
+    "name": "Unthread",
+    "headline": "Agentic service management in Slack",
+    "batch": "S22",
+    "description": "Unthread is an AI-powered helpdesk built natively into Slack. We help companies to automate the creation and resolution of tickets right from a Slack channel.\r\n\nWe work with IT, HR, and CX teams at some of the world's largest companies to resolve tickets instantly using AI.",
+    "activity_status": "Active",
+    "website": "https://unthread.io",
+    "founded_date": 2021.0,
+    "team_size": 7.0,
+    "location": "New York",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:customer-support; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Tom Bachant, Founder",
+            "description": "Founder at Unthread. Previously founder of Dashride (acquired by Cruise in 2018).",
+            "linkedin": "https://linkedin.com/in/tombachant"
+        },
+        {
+            "name": "Jake McCloskey, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/jakemccloskey"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Unthread: Simplifying Support Within Slack\n\n**Company Overview**  \nFounded in 2021 and based in New York, Unthread is a clever software solution designed for organizations that rely on Slack for collaboration. It\u2019s an AI-powered helpdesk embedded right into Slack, aimed primarily at automating ticket creation and resolution processes, making support operations both efficient and user-friendly.\n\n**Mission Statement**  \nUnthread\u2019s mission is straightforward: enabling agentic service management within Slack. They believe that support should be conversational, scalable, and enjoyable. By focusing on automating ticketing processes, Unthread seeks to free up teams to engage more meaningfully with colleagues and customers alike.\n\n**Team & Backing**  \nThey\u2019re a tightly-knit team of seven, backed by a respected name in the startup space\u2014Y Combinator, having graduated from the Batch S22. Their Group Partner at Y Combinator, Aaron Epstein, adds a layer of mentorship and industry insight to the venture.\n\n**Target Audience & Usage**  \nUnthread caters to IT, HR, and Customer Experience (CX) teams at major corporations worldwide, helping them to instantly resolve tickets using AI. Their platform allows organizations to automate responses, thereby enhancing efficiency and speeding up resolution times.\n\n**Core Products & Solutions**  \nUnthread offers a range of features integrated into Slack, such as:\n\n- **Slack Channel Support**: To track conversations happening in shared channels.\n- **AI-Generated Support**: Active automation of responses and insights.\n- **Shared Email Inbox**: A unified place for email engagement synced with Slack.\n- **In-App Live Chat**: Real-time customer interactions within Slack.\n\nAdditionally, they provide specific ticketing solutions tailored for various functions, including IT, HR, customer support, and customer success.\n\n**Key Features**  \n- **Automated Ticket Tracking**: Capture and manage all incoming queries as tickets.\n- **AI-Powered Insights**: Utilize AI to prioritize and categorize tickets, enabling smarter workflows.\n- **Multi-channel Management**: Manage tickets received from Slack, emails, and more\u2014all in one place.\n- **Integrations**: Unthread plays nicely with task managers, CRMs, and existing helpdesk systems, enhancing its adaptability.\n\n**Security & Compliance**  \nUnthread adheres to stringent security standards, boasting SOC 2 compliance, ensuring the protection of sensitive data for businesses.\n\n**Who\u2019s Using Unthread?**  \nTheir client roster includes prominent names like Intuit, Cribl, and LangChain, emphasizing their credibility and traction within the market.\n\n**Conclusion**  \nIf your team is looking to streamline ticket management right within Slack while harnessing the latest in AI technology, Unthread presents a compelling option. Their approach to conversational support truly emphasizes making operations both efficient and pleasant for everyone involved. You can explore more on their [website](https://unthread.io) and even get started with a demo trial.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1826b97fcedc947311374383d490e83edfe595c7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192037Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8f793b52269a2c0152b852fb55bd666f7e6a2679baf9c6e61152875a646e60ff",
+    "social_links": [
+        "https://linkedin.com/company/unthreadai",
+        "https://twitter.com/unthreadai",
+        "https://facebook.com/unthreadai",
+        "https://www.crunchbase.com/organization/unthread"
+    ],
+    "logo_path": "data/logos\\Unthread_logo.png"
+}

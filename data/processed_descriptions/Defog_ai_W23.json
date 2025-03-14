@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/defog-ai",
+    "name": "Defog.ai",
+    "headline": "Fine-tuned LLMs for enterprise data analysis",
+    "batch": "W23",
+    "description": "Defog lets your business users query data in seconds, using everyday language.\r\n\nWe are powered by SQLCoder \u2013\u00a0our state of the art open-source model that can search and visualise structured data (like SQL databases or Data Warehouses), and can be further fine-tuned and and deployed on-prem on your servers.",
+    "activity_status": "Active",
+    "website": "https://defog.ai",
+    "founded_date": 2023.0,
+    "team_size": 5.0,
+    "location": "Mountain View",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:machine-learning; industry:open-source; industry:enterprise; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Rishabh Srivastava, Founder",
+            "description": "ML developer. Previously bootstrapped data APIs co to 100M+ monthly end users. I blog at rish.blog and am fairly active on Twitter (@rishdotblog)",
+            "linkedin": "https://linkedin.com/in/rishsriv"
+        },
+        {
+            "name": "Medha Basu, Founder",
+            "description": "Co-Founder of Defog.ai. Former journalist/editor/content marketing person. Grew an enterprise content marketing firm from $0 to 7 figures in yearly revenue. Once interviewed a terrorist.",
+            "linkedin": "https://www.linkedin.com/in/medha-basu/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Defog.ai is a fresh contender in the data analysis space, having launched in 2023 and quickly becoming a part of Y Combinator Batch W23. Nestled in the heart of Mountain View, the company is on a mission to empower enterprises with fine-tuned large language models (LLMs) that make data querying effortless and intuitive.\n\nOriginally, Defog aimed to let business users query data in plain language, effectively lowering the barrier to accessing insights. This promise is now powered by their flagship product, SQLCoder, an open-source model that specializes in searching and visualizing structured data\u2014think SQL databases and data warehouses. One of the key selling points of SQLCoder is its adaptability; it can be fine-tuned and deployed on-premises, putting privacy and control back into the hands of enterprises.\n\nDefog's small but mighty team of five is riding the generative AI wave along with a robust portfolio of developer tools aimed at machine learning and open-source solutions. They\u2019ve already managed to grab the attention of industry giants like Toyota and Macmillan, showcasing their product\u2019s prowess in tackling real-world data challenges at scale.\n\nAt its core, Defog is about speed and accessibility. It enables users to get immediate answers without the usual waits that come with traditional data querying methods. Users can drill down for specifics or explore broad hypotheses, all while knowing their data remains private and secure\u2014an increasingly crucial selling point in today\u2019s world.\n\nWhat\u2019s more, their technology is getting noticed in the industry for its accuracy and ease of use. SQLCoder has been lauded for surpassing even some of the leading models on the market, earning endorsements from industry experts who highlight its interpretability and reliability.\n\nDefog isn\u2019t just about traditional data exploration; it actively learns from user interactions, adapting to feedback to improve its responses over time. As more companies recognize the potential of harnessing AI for data analysis, Defog.ai seems poised to become a go-to solution for enterprises looking to leverage their data effectively.\n\nFor a deeper dive into what they offer, check them out at [defog.ai](https://defog.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0f9f39337296a9f87006dfe0e8fd21441bb551e3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191116Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=43ab516a0201a668c6338d0e10fda2787d25e651135d0018f4510dccb72dfbc3",
+    "social_links": [
+        "https://www.linkedin.com/company/defog-ai/",
+        "https://twitter.com/defogdata",
+        "https://github.com/defog-ai/"
+    ],
+    "logo_path": "data/logos\\Defog.ai_logo.png"
+}

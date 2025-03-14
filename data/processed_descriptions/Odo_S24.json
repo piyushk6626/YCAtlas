@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/odo",
+    "name": "Odo",
+    "headline": "Help companies find and win government contracts with AI",
+    "batch": "S24",
+    "description": "State and local governments buy $1.5TN worth of products and services from companies every year. However, the process of finding and winning government contracts is extremely fragmented, non-standardized, and time consuming today.\r\n\nOdo is the first AI-powered platform to help companies win state and local government contracts. Odo can find relevant contracts, draft proposals, and analyze why companies won or lost through public records sourcing. Our customers have saved up to 80% of time drafting proposals and increased their win rates.",
+    "activity_status": "Active",
+    "website": "https://www.odo.do/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:govtech; industry:b2b; industry:productivity; industry:procurement; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Yooni Ahn, Founder",
+            "description": "Yooni is the CEO and co-founder @ Odo. She built products and business at Robinhood (Robinhood Gold, Customer Care during Gamestop, Original Content) for five years. Before that, she did consulting at Oliver Wyman where she spent endless hours writing government proposals. She studied public policy at Princeton University.",
+            "linkedin": "https://www.linkedin.com/in/yooni-ahn/"
+        },
+        {
+            "name": "Andrew Wagner, Founder",
+            "description": "Andrew is the CTO and co-founder @ Odo. He was a staff engineer at Robinhood and spent many years freelancing where he developed outsized skill in taking projects from 0 to 1. It's there that he built a deep empathy for businesses struggling to balance billable work with finding new contracts.",
+            "linkedin": "https://www.linkedin.com/in/drewag"
+        }
+    ],
+    "status": true,
+    "generated_description": "Odo is a fresh entrant into the world of government contracting, having been founded in 2023, and it\u2019s already making waves as part of Y Combinator's Batch S24. Based in San Francisco, this startup is addressing a significant pain point: navigating the $1.5 trillion landscape of state and local government contracts, a process that has notoriously been fragmented and cumbersome.\n\nTheir mission is straightforward yet ambitious: to help businesses of all sizes find and win government contracts using artificial intelligence. Odo is the first AI-driven platform designed specifically for this purpose, which streamlines the entire process. The company\u2019s tool not only identifies relevant contracts but also drafts proposals and provides valuable analytics on past successes and failures based on public records. The results speak volumes\u2014clients have reportedly saved up to 80% of the time previously spent on proposal drafting and have seen an increase in their win rates.\n\nWith a compact team of just two employees, Odo leans heavily on their technology and the backing of a well-known accelerator to drive their growth. They are tagged under several key areas including generative AI, government technology, B2B services, and productivity, highlighting the multifaceted nature of their offering.\n\nFor those interested in government contracts, Odo\u2019s platform is structured to help users discover Requests for Proposals (RFPs) tailored to their business capabilities\u2014be it web development, marketing, or clean energy. The process is designed to be user-friendly: upload a relevant RFP, allow Odo to draft a proposal, and finalize it collaboratively with your team, all while gaining insights into how to improve future submissions.\n\nIn a nutshell, Odo is here to reshape the landscape of government contracting, making it simpler and more accessible for companies to win bids. They\u2019re not just solving a problem; they\u2019re transforming an industry. If winning more government contracts sounds appealing, check out Odo\u2019s platform at [odo.do](https://www.odo.do/) and consider booking a demo to see how they can help you.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e8e002a205c61def49e3ad5555df9a80138ec5e1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=483d0f234baabe0ad22f3ffa70173dacb9f21a42fde289c36307e6efe6de6370",
+    "social_links": [
+        "https://www.linkedin.com/company/odolabs/"
+    ],
+    "logo_path": "data/logos\\Odo_logo.png"
+}

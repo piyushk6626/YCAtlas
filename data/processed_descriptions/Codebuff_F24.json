@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/codebuff",
+    "name": "Codebuff",
+    "headline": "The CLI tool that writes code for you",
+    "batch": "F24",
+    "description": "Chat with Codebuff to edit your codebase. It's a coding agent that can iterate and run terminal commands, just like a real engineer! We are going up-market from Cursor, starting at a $49/mo price point.\r\n\nCodebuff chooses files to read automatically on each message, which improves its awareness of your codebase and saves you time. It has full access to your terminal\u00a0\u2014 Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. It's the most powerful coding agent on the market that also happens to be the easiest to use.\r\n\nCodebuff is an engineer working for you. Run `npm install -g codebuff` to get started.",
+    "activity_status": "Active",
+    "website": "https://codebuff.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "James Grugett, Founder",
+            "description": "I'm building Codebuff \u2014 the CLI tool that writes code for you.\n\nPreviously, I founded Manifold Markets, a site with 150,000 user-created prediction markets that gets millions of views per month.\nI'll be applying lessons learned from growing a consumer app for nerds (Manifold) to growing Codebuff, a dev tool for software nerds.\n\nI bring passion and intensity to my work. With Codebuff, I've jumped into a new field, AI code generation, and built something state of the art within a couple months.",
+            "linkedin": "https://www.linkedin.com/in/james-grugett"
+        },
+        {
+            "name": "Brandon Chen, Founder",
+            "description": "I've worked at YC companies all of my software engineering career (Kuna W14, Virtually S20)! Excited to take part on a founder level. My cofounder James and I are building a coding agent that lives in your terminal \u2013 the simplest and most accessible way to get your software projects built!",
+            "linkedin": "https://www.linkedin.com/in/brandon-chen-37b95910a/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Codebuff Overview\n\n**Name:** Codebuff  \n**Founded:** 2024  \n**Y Combinator Batch:** F24  \n**Location:** Not specified  \n**Team Size:** 2 employees  \n**Group Partner:** Dalton Caldwell  \n**Website:** [codebuff.com](https://codebuff.com)  \n\n---\n\n### Mission\nCodebuff\u2019s mission is simple yet bold: it's a command-line interface (CLI) tool that writes code for you. The idea is to streamline the coding process, allowing developers to focus on more significant challenges while Codebuff handles the repetitive and mundane tasks.\n\n### Product Origin\nOriginally starting as a chat interface for code editing, Codebuff has evolved into a powerful coding agent that mimics the capabilities of a real engineer. By the time you hit the terminal with a command, Codebuff can handle multiple functions\u2014including iterating, running commands, installing packages, and executing tests\u2014all from a simple prompt.\n\n### How It Works\nCodebuff automatically selects relevant files based on your commands, giving it an impressive understanding of your entire codebase. This capability ensures that it saves you precious time while enhancing productivity\u2014reportedly, developers experience up to a tenfold increase in their efficiency. \n\n1. **Whole-codebase Understanding:** Ask it to implement changes, and it\u2019ll navigate through thousands of files.\n2. **Terminal Access:** Codebuff can execute any terminal command, making it feel like you have a dedicated engineer at your fingertips for just $49 a month.\n3. **Try It:** You can easily start using it by running `npm install -g codebuff`. \n\n### Testimonials\nThe product has resonated well with developers, as illustrated by the enthusiastic testimonials:\n- \u201cI was flabbergasted! It even did the `pip install` for me!\u201d - Daniel Hsu, Founder & CEO\n- \u201cIt's like hiring an engineer for $50/month.\u201d - Shardool Patel, Founder & CTO\n- \u201cFinally, AI that understands my code structure and dependencies.\u201d - Gray Newfield, Founder & CEO\n\n### Pricing\nStarting at **$49/month**, this tool positions itself attractively in the market, especially for developers looking for more than just a few basic coding functions.\n\n### Conclusion\nCodebuff is poised to change the landscape of coding by making it not only faster but also remarkably easier. With a clearer focus on automating command execution and enhancing code comprehension, it stands out from the competition. If you're a developer looking to boost your productivity, Codebuff might just be your new best friend.\n\nFor more details, visit their website: [codebuff.com](https://codebuff.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c50b12bdfebb588b996cd485130543e1530434b3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191056Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6ea92a38c9bcc914c1726ad1fe0199c7659f5e9fd5192de38b497e33599bcfe1",
+    "social_links": [
+        "https://www.linkedin.com/company/codebuff",
+        "https://x.com/codebuffai"
+    ],
+    "logo_path": "data/logos\\Codebuff_logo.png"
+}

@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/fiddlecube",
+    "name": "FiddleCube",
+    "headline": "Build safe, enterprise-ready Gen AI systems",
+    "batch": "W23",
+    "description": "FiddleCube's AI agent helps teams build safe, enterprise-ready Gen AI systems. FiddleCube generates the most comprehensive and up-to-date set of adversarial tests for red-teaming, ensuring safety and compliance with laws across the EU, USCAN, and MENA countries.",
+    "activity_status": "Active",
+    "website": "https://fiddlecube.ai/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:data-science; industry:data-labeling; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Neha Nupoor, Founder",
+            "description": "Creating high quality datasets at FiddleCube. Fascinated about AI alignment. Curious about health-tech, design and fitness. Full Stack engineer, part-time illustrator.",
+            "linkedin": "https://www.linkedin.com/in/nehanupoor/"
+        },
+        {
+            "name": "Kaushik Srinivasan, Founder",
+            "description": "Obsessed with improving LLMs with high-quality synthetic data. \n\nIn my previous life, I built products at companies like Google, Uber and LinkedIn for nearly 10 years.",
+            "linkedin": "https://www.linkedin.com/in/kaushik92/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**FiddleCube: Pioneering Safe AI Systems**\n\nLaunched in 2023 and hailing from the dynamic ecosystem of Y Combinator\u2019s W23 batch, **FiddleCube** is on a mission that resonates profoundly in today's tech landscape: to build safe, enterprise-ready generative AI systems. Nestled in San Francisco, the company boasts a nimble team of just two, reflecting a lean, focused approach to innovation.\n\nAt its core, FiddleCube provides teams with a powerful AI agent designed specifically to create robust and secure AI solutions. They achieve this by generating an extensive set of adversarial tests for red-teaming\u2014essentially, stress-testing AI systems to assess their vulnerabilities and compliance with regulatory standards across various regions, including the EU, US, Canada, and MENA.\n\nWhat makes FiddleCube particularly compelling is its commitment to safety. Their platform allows organizations to manage high-quality datasets for training and red-teaming machine learning models. This includes pre-training safety measures, fine-tuning processes, and ongoing feedback loops to counteract emerging threats. Essentially, they\u2019re ensuring that AI not only performs well but is also aligned with ethical standards and operational security.\n\n### Key Features:\n\n- **Collaborative Platform**: Designed for teams to efficiently build and manage safe AI systems.\n- **Safety Datasets**: Tools for testing model alignment and ensuring helpfulness.\n- **Continuous Feedback Handling**: Automatic detection and mitigation of potential attacks.\n- **Customizable Hosting**: Organizations can host their data privately, ensuring data privacy by keeping all sensitive information in-house.\n- **Compliance**: They adhere to leading AI security standards laid out by OWASP, NIST, and MITRE, among others, enabling clients to integrate safety checks with just a couple of lines of code.\n\n### Flexible Offerings:\n\nFiddleCube recognizes that one size doesn\u2019t fit all, which is why they provide flexible pricing plans tailored to various needs. From a free tier that offers $100 credits to enterprise packages featuring 10 million tokens and custom integrations, they\u2019re making safe AI accessible without oversimplifying its complexities.\n\n### Testimonials:\n\nClients are vocal about the impact FiddleCube has had on their operations, with endorsements highlighting the platform's ability to streamline dataset creation and safety protocols. Oren Dar, a Staff Data Scientist at Intuit, states it \u201chits the nail on the head\u201d in tackling essential data challenges.\n\n### Conclusion:\n\nFiddleCube isn't just another startup; it's a crucial player in the evolving narrative of responsible AI. By focusing on safety and compliance, they\u2019re setting the stage for a new standard in AI development. Interested in learning more? You can explore their offerings at [FiddleCube's website](https://fiddlecube.ai/) or even book a demo to see the platform in action. \n\nIn an era where AI capabilities are matched only by the risks they pose, FiddleCube stands as a beacon for building a safer, more compliant future.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6da6eeb165962567361c573d7e5a2d92a13f4ac6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191331Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8033ef9e4e2322eea413c403e72d573606a7609987e15268dd3b61bb8129d355",
+    "social_links": [
+        "https://www.linkedin.com/company/fiddlecube/",
+        "https://twitter.com/FiddleCubeAI"
+    ],
+    "logo_path": "data/logos\\FiddleCube_logo.png"
+}

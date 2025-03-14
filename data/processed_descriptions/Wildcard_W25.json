@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/wildcard",
+    "name": "Wildcard",
+    "headline": "Making APIs 'just work' for AI Agents",
+    "batch": "W25",
+    "description": "Connect agents to any API in the world with LLM-native interfaces. Wildcard is a developer platform that combines powerful API integrations with intelligent tool orchestration for AI agents. \r\n\nOur vision is to be the bridge between AI agents and the world\u2019s APIs.",
+    "activity_status": "Active",
+    "website": "https://wild-card.ai",
+    "founded_date": 2025.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:generative-ai; industry:saas; industry:api; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Kaushik Mahorker, Founder",
+            "description": "CEO at Wildcard. Previously, Engineering Manager at Scale AI where I led the GenAI Allocation team. Built the ecommerce enrichment engine for the largest company pilot - enriching 2.4M attributes across 400K SKUs. Former Eng at AWS Elastic File System. UCLA Masters CS and UCSB CS undergrad.",
+            "linkedin": "https://www.linkedin.com/in/kaushikmahorker"
+        },
+        {
+            "name": "Yagnya Patel, Cofounder",
+            "description": "CTO at Wildcard. Previously NLP and Knowledge Graphs at Tesla, Amazon, and Truveta. Scaled the first AI Knowledge Graph plotting half of all 330M US patients with clinical records, prescriptions, and images. UCSB CS",
+            "linkedin": "https://linkedin.com/in/y-patel"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Wildcard** is a San Francisco-based startup founded in 2025 and a proud member of Y Combinator's Batch W25. At its core, Wildcard aims to simplify the use of APIs for AI agents, believing that APIs should \"just work.\" Its mission is to create seamless connections between AI agents and the myriad APIs available, effectively acting as a bridge.\n\nThe platform provides a developer-friendly ecosystem where powerful API integrations can be combined with intelligent tool orchestration. Think of it as a way to empower AI agents to take actions using any tool available on the web, driven by natural language queries. With a lean team of just two employees, Wildcard is poised to make a significant impact in the realm of generative AI and developer tools.\n\nWildcard is centered around a few key features:\n\n1. **Connect and Orchestrate**: It allows developers to connect APIs to their AI agents using large language model (LLM)-native interfaces. This is crucial for automating workflows and executing actions across different tools seamlessly.\n  \n2. **Comprehensive API Library**: The platform offers an initial collection of 12 popular APIs with over 2000 endpoints, ready for developers to use, ranging from payment processing with Stripe to CRM integrations with Salesforce.\n\n3. **Intelligent Tool Selection**: Unlike conventional approaches, Wildcard leverages natural language processing to enable highly accurate selections of tools for specific tasks\u2014with an impressive accuracy rate of about 95% compared to around 60% with leading alternatives.\n\n4. **Model-Agnostic Execution**: Wildcard provides tool definitions that are compatible with any AI model. This flexibility ensures that developers can maintain control over their tool calls and execute functions on their own infrastructure securely.\n\n5. **Ease of Integration**: Getting started with Wildcard involves simple steps: install the package, select and connect tools, and execute actions\u2014all typically taking just three lines of code.\n\nWith its unique approach, Wildcard positions itself as a game-changer for developers wanting to create sophisticated AI solutions by minimizing the boilerplate associated with API integrations and instead focusing on innovative features.\n\nTo learn more about what they're building, check out their website at [wild-card.ai](https://wild-card.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ded9c49e4caae76b5466102e61073e6b370cb326.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192059Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7fa2740d6cc75e839f5b2448dd22d37ebd324329ad3461df320915d4c993de3d",
+    "social_links": [
+        "https://www.linkedin.com/company/wild-card-ai",
+        "https://x.com/wildcard_ai",
+        "https://github.com/wild-card-ai"
+    ],
+    "logo_path": "data/logos\\Wildcard_logo.png"
+}

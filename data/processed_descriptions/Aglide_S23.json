@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/aglide",
+    "name": "Aglide",
+    "headline": "Natively connect any app to your SSO.",
+    "batch": "S23",
+    "description": "Aglide is the next generation identity. Our pioneering agentic technology can connect any application to our customers' SSOs, without using the standard protocols (SAML, SCIM, etc.).",
+    "activity_status": "Active",
+    "website": "https://aglide.com",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Patrick D. McGuckian, Founder",
+            "description": "Imperial College London alumnus (Design Engineering, specialising in data privacy). Previously COO of Team Repair, a sustainable subscription service teaching STEM & repair.",
+            "linkedin": "https://linkedin.com/in/patrick-d-mcguckian-6b5743191"
+        },
+        {
+            "name": "Oliver Colebourne, Founder",
+            "description": "Design engineer, specialised in software products. Based in London and studied at Imperial College. Previously CTO for Team Repair, helping create the tech behind our award winning sustainable STEM subscription.",
+            "linkedin": "https://linkedin.com/in/olivercolebourne"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Aglide: Bringing Simplicity to Single Sign-On\n\nFounded in 2023 and part of Y Combinator\u2019s Batch S23, Aglide is a fresh player in the identity management space based out of San Francisco. With a compact team of just two, Aglide is tackling one of the IT industry's more cumbersome challenges: integrating disparate applications into a single sign-on (SSO) system without the convoluted protocols you often hear about, like SAML or SCIM.\n\n### What They Do\n\nAglide's mission is clear: **\"Natively connect any app to your SSO.\"** They leverage something they call \u201cagentic technology\u201d to streamline access management across apps, which means users can log in to any application using their existing SSO credentials. For administrators, this tool provides robust features like conditional access policies, session revocation, and the ability to migrate unmanaged accounts into a secure SSO framework within seconds.\n\n**Key Offerings:**\n- **Single Sign-On**: Offers a security model similar to SAML, but without its typical complexities.\n- **Access Control**: Admins can set access rules based on device management or geolocation.\n- **Password Management**: Aglide comes equipped with an encrypted vault for sensitive information like credit cards and API keys.\n- **Ghost App Detection**: It identifies unmanaged applications, allowing companies to maintain control over their digital landscape.\n\n### The Problem with SSO\n\nOne of the big issues companies face is what's often referred to as the \"SSO tax.\" This term captures the high costs often associated with integrating SSO systems with existing applications. Aglide sets itself apart by focusing on a cost-efficient model that aims to save businesses money even from the first application switched over to their service.\n\n### Federal to Scale\n\nDespite being in its infancy, Aglide has big ambitions and the backing of Y Combinator, which suggests a bright future ahead. With their unique technology, they promise to make SSO accessible to every app, encouraging businesses to break free from the constraints of traditional protocols and extend their SSO capabilities.\n\n### Conclusion\n\nAglide is addressing a real pain point in the identity management landscape with a bold new approach to SSO integration. Given their innovative technology and the backing of a notable accelerator, they could indeed be the next big thing, simplifying access management while ensuring security across the board. To learn more, you can visit [Aglide's website](https://aglide.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/663fc647694e61edd0d5ca02908d73255926c3f2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190948Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fefc5827873e0964ce96105d01bb656bb780b6ec5366f2fdf10ee44c3588aee5",
+    "social_links": [
+        "https://www.linkedin.com/company/aglide",
+        "https://twitter.com/useaglide"
+    ],
+    "logo_path": "data/logos\\Aglide_logo.png"
+}

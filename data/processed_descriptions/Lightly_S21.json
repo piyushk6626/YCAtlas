@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/lightly",
+    "name": "Lightly",
+    "headline": "Help ML teams label the right data",
+    "batch": "S21",
+    "description": "When ML teams send their data to companies like Scale.ai for labeling, most can only afford to label 1% or less of their datasets.  But today they don\u2019t have a good way to pick which 1% to label. We help them pick the best 1% of their data to label.  By labeling the most representative data, they significantly improve model accuracy at the same cost.",
+    "activity_status": "Active",
+    "website": "https://lightly.ai/",
+    "founded_date": 2018.0,
+    "team_size": 5.0,
+    "location": "Z\u00fcrich, Switzerland",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:data-labeling",
+    "founders": [
+        {
+            "name": "Igor Susmelj, Founder",
+            "description": "Igor has more than five years of experience in machine learning. He holds a degree in electrical engineering from ETH Zurich. During his studies, he developed a lot of experience in machine learning and robotics and had multiple successful publications in the area of deep learning at top conferences such as ICML and ECCV. He previously worked for two years at the Swiss stock exchange as a software engineer.",
+            "linkedin": "https://www.linkedin.com/in/igorsusmelj/"
+        },
+        {
+            "name": "Matthias Heller, Founder",
+            "description": "Co-Founder at Lightly.ai. Previously worked at BCG, startups, and in finance. Studied at HSG, Harvard, and HEC Paris.",
+            "linkedin": "https://www.linkedin.com/in/matthiasheller/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Lightly is a company founded in 2018, nestled in the tech-friendly environment of Z\u00fcrich, Switzerland. It's a gem from the Y Combinator Batch S21, working under the clever premise of optimizing data labeling for machine learning teams. \n\nThe core mission of Lightly is simple yet powerful: help ML teams identify and label the most informative portion of their datasets\u2014specifically that elusive 1% that can dramatically improve model accuracy. This means no more wasted resources on labeling irrelevant data. By focusing on the right data, Lightly enables organizations to enhance model performance without blowing up labeling costs.\n\nWith a compact team of just five committed employees, Lightly has created a savvy set of products like Lightly One, Lightly Edge, and Lightly Train. These tools are designed to bridge the gaps in data curation, automating the process of selecting, capturing, and training machine learning models effectively. For those in machine learning, it\u2019s a tantalizing promise\u2014the ability to cut labeling costs by up to 92% while simultaneously improving model quality by as much as 19%. \n\nBrad Flora serves as a Group Partner, lending his experience and insight to the company's mission. And while small, the team has achieved noteworthy recognition, making headlines in platforms like VentureBeat and Forbes, highlighting their innovative approach and success stories from various industries including autonomous driving and smart farming.\n\nThe tagline\u2014\u201cGet the most out of your data\u201d\u2014has never felt more relevant, especially when you consider the headaches of data redundancy and bias that plague most ML endeavors. Lightly allows companies to manage their machine learning pipelines more effectively, cutting down on retraining cycles, efficiently managing data, and ultimately helping shape tomorrow\u2019s cutting-edge technologies. \n\nIf you're looking to deepen your understanding of your data and reclaim precious time in your model training processes, Lightly could be the partner you never knew you needed. For more information, check out their website at [Lightly.ai](https://lightly.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/4d5c8b7fb95e492cca3a6d58d953a5633320a17c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191507Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=59ca287ca35d0cfceb713bc0b6c8bc5ffcc1052027643a13a2cfab67fe943c93",
+    "social_links": [
+        "https://www.linkedin.com/company/lightly-tech",
+        "https://twitter.com/LightlyAI",
+        "https://www.crunchbase.com/organization/mirage",
+        "https://github.com/lightly-ai"
+    ],
+    "logo_path": "data/logos\\Lightly_logo.png"
+}

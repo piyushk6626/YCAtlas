@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/kater-ai",
+    "name": "kater.ai",
+    "headline": "Deliver complete data analysis from a single question",
+    "batch": "W24",
+    "description": "1. You explain your problem.\r\n2. Kater identifies the most important data questions to ask.\r\n3. Kater writes the code.\r\n4. You get insights in seconds rather than weeks.\r\n\nKater.ai flips the script on enterprise analytics by making every user an expert analyst. It uses a continuous classification engine to turn a single business question into a contextualized package of questions that is specific to your needs.\r\n\nKater puts the power of data into the hands of business experts while ensuring they use trusted data that is specific to their persona. No more waiting for data analysts. No more wasted time on analysis misfires and rework.\r\n\nYvonne was a data engineer and analyst who built the entire data stack at CREXi. Robin led engineering in Microsoft.  \r\n\nData is the new oil. Companies are data-rich, insight-poor. We're helping companies become insight-rich. This is the future of data.",
+    "activity_status": "Active",
+    "website": "https://www.kater.ai",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:analytics; industry:data-engineering; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Yvonne Chou, Founder",
+            "description": "Yvonne is the co-founder and CEO of Kater. She graduated from UC Berkeley. Previously, she was a data engineer at Crexi, where she built the data infrastructure from the ground up. She has 8+ years of experience working in analytics teams for companies like Kaiser Permanente, Tapcart, and Crexi, where she supplied data to all dashboards for sales, marketing, finance, and executive management.",
+            "linkedin": "https://linkedin.com/in/yvonne-chou"
+        },
+        {
+            "name": "Robin Seitz, Founder",
+            "description": "Robin is the co-founder and CTO of Kater. He graduated Magna Cum Laude from UCLA. Previously, he worked at companies such as Microsoft, Abbott and Paragon as a Software Engineer. He has 8+ years of experience working in different software engineering disciplines, including distributed systems, full stack engineering and big data.",
+            "linkedin": "https://linkedin.com/in/robin-seitz-12029970"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Kater.ai: Simplifying Data Analysis for Everyone**\n\nKater.ai was founded in 2023 and is a promising newcomer in the world of data analytics, currently part of Y Combinator's Batch W24. Based in San Francisco, it aims to revolutionize how businesses approach data through a straightforward yet powerful mission: delivering complete data analysis from just a single question.\n\nThe process Kater.ai employs is quite innovative. It starts with users articulating their data-related issues. Then, Kater identifies the essential questions that need to be answered, generates the necessary code, and ultimately delivers insights in seconds instead of weeks. This is a game-changer in the often tedious and slow-moving realm of enterprise analytics.\n\nKater's unique selling point is its continuous classification engine, which transforms a user\u2019s single inquiry into a customized series of questions tailored to their specific needs. This empowers users\u2014especially those who may not be data scientists\u2014to become expert analysts, leveraging trusted data relevant to their specific roles or personas. It effectively eliminates the bottleneck of relying on dedicated data analysts, reducing time spent on analysis misfires and rework.\n\nThe founding team boasts impressive credentials, with Yvonne, a former data engineer and analyst who built the entire data stack at CREXi, and Robin, who led engineering at Microsoft. Their collective expertise shapes Kater into a robust platform that helps organizations transition from being data-rich but insight-poor to insight-rich.\n\nKater also focuses on data storytelling, automating responses to data questions, outlining next steps, and generating weekly reports filled with actionable insights. Features like *Data Playbooks*, 'Butler AI', and a unified data model enable users to engage with data in a more conversational and instinctive way, further democratizing data access.\n\nSecurity remains a top priority as well\u2014the company is working towards SOC 2 Type 2 compliance and ensures data privacy through robust encryption protocols.\n\nFor those eager to explore the future of data, Kater.ai simplifies analytics, allowing teams to set it up in about 15 minutes and offering a free trial for potential customers. The platform integrates seamlessly with popular data warehouses like Snowflake, BigQuery, and Redshift, making it an attractive option for businesses looking to enhance their data-driven decision-making processes.\n\nIn summary, Kater.ai is not just another analytics tool; it's a transformative approach to how businesses interact with and derive insights from their data. If you\u2019re ready to empower your team to tap into the potential of data easily and intuitively, Kater.ai could be your next big step. Check them out at [Kater.ai](https://www.kater.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3831b3d3aa0f836db197ff5355aedd2f5cbfd8f1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191449Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b0f2354001c47a084820a92f9d7d95229270f7d327d732693380ff457022b1bb",
+    "social_links": [
+        "https://www.linkedin.com/company/kater-ai/?viewAsMember=true"
+    ],
+    "logo_path": "data/logos\\kater.ai_logo.png"
+}

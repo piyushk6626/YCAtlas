@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/silurian",
+    "name": "Silurian",
+    "headline": "Foundation models to simulate Earth, starting with weather.",
+    "batch": "S24",
+    "description": "Silurian is building foundation models for simulating Earth, starting with weather. From assessing the risk of wildfires to predicting the energy grid load, we provide an infrastructure layer for our planet. Our frontier models push the boundaries of what can be simulated on Earth and improve decision making across vital sectors including energy, insurance, agriculture, and logistics.",
+    "activity_status": "Active",
+    "website": "https://silurian.ai/",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "Kirkland, WA",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:climate; industry:insurance; industry:agriculture; industry:energy",
+    "founders": [
+        {
+            "name": "Jayesh K. Gupta, Founder",
+            "description": "Jayesh is Co-founder and CEO of Silurian AI. Previously he was the Head of AI at Poly Corporation. He led the development of the first foundation model for weather & climate as researcher at Microsoft and was the co-author of Aurora. Jayesh holds a Ph.D. in CS from Stanford.",
+            "linkedin": "https://www.linkedin.com/in/jayeshkg/"
+        },
+        {
+            "name": "Cristian Bodnar, Founder",
+            "description": "Chief Scientist of Silurian. I was previously a Senior Researcher at Microsoft Research where I co-lead the development of the Aurora foundation model. During my PhD at Cambridge, I've also spent time in top AI industry labs like Google Brain, Google X and Twitter Cortex.",
+            "linkedin": "https://www.linkedin.com/in/crisbodnar/"
+        },
+        {
+            "name": "Nikhil Shankar, Founder",
+            "description": "Nikhil is a co-founder and chief engineer at Silurian AI. Previously he was a software engineer at AWS SageMaker and prior to that he dropped out of his PhD in applied mathematics where he was working on problems in fluid dynamics.",
+            "linkedin": "https://www.linkedin.com/in/nikhil-shankar-3090131b7/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Silurian: Simulating Earth for a Resilient Future\n\n**Overview**  \nSilurian, founded in 2024 and hailing from Kirkland, WA, is a cutting-edge startup that\u2019s embarked on an ambitious mission: to create foundational AI models that simulate planetary systems, starting with weather. As part of the Y Combinator Batch S24, this small but mighty team of four is dedicated to transforming how we understand and mitigate environmental challenges.\n\n**Mission and Impact**  \nAt its core, Silurian aims to develop sophisticated models that give a clearer picture of Earth\u2019s physical systems. This is not just about academic exploration; it\u2019s about real-world applications. From predicting energy grid loads to assessing wildfire risks, Silurian provides crucial insights that enhance decision-making across a variety of sectors\u2014including energy, insurance, agriculture, and logistics. Their pioneering approach not only pushes the boundaries of simulation capabilities but also positions itself as a key player in tackling climate change and its impacts.\n\n**Products and Technology**  \nSilurian\u2019s flagship offering, the GFT model, stands as a testament to their innovation. GFT 1.2 caters to businesses with AI-powered, personalized weather forecasts, ensuring that organizations are equipped with the data they need for effective planning. In addition, the Aurora foundation model represents a breakthrough in Earth systems modeling, promising enhanced understanding and predictive capabilities about our planet's future.\n\n**Why It Matters**  \nIn a world grappling with climate uncertainties, Silurian's work is vital. Their models help stakeholders across various sectors anticipate challenges and optimize responses, ultimately fostering a more resilient planet. Whether it\u2019s providing actionable climate insights for farmers or enhancing the reliability of power distribution, Silurian is at the forefront of merging technology with sustainability.\n\n**Get Involved**  \nCurious about their offerings? You can explore their [website](https://silurian.ai/) for more information, sign up for their API, or even book a demo to see their models in action. The team is actively looking for collaborations and new talent, making it a prime opportunity for those looking to engage in impactful work.\n\n**Conclusion**  \nSilurian isn\u2019t just another AI company; it\u2019s a pioneer in earth modeling with a vision that intersects technology and climate resilience. Their journey is just beginning, and there\u2019s a lot more to come, so keep an eye on what they\u2019re doing. They\u2019re not just predicting the weather; they\u2019re helping to decipher the future of our planet.\n\n---\n\nFor more details, visit their [official site](https://silurian.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/8602876890f39e8203f587413eea9cae007c79c3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191927Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8dc9c85c3b63d45fe2594d0e4a95a33b7f3b2fa94213ad75742cf5b7de53ec65",
+    "social_links": [
+        "https://www.linkedin.com/company/silurianai",
+        "https://twitter.com/SilurianAI",
+        "https://github.com/silurian-ai/"
+    ],
+    "logo_path": "data/logos\\Silurian_logo.png"
+}

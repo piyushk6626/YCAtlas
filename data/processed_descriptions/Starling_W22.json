@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/starling",
+    "name": "Starling",
+    "headline": "AI enabling digital urine diagnostics in the home",
+    "batch": "W22",
+    "description": "Starling is building a urine diagnostic remote patient monitoring platform that seamlessly integrates into anyone's bathroom routine.  By detecting early changes in a patient's urine using our toilet indwelling mass spectroscopy device, our platform is aiming to prevent hospitalizations from numerous conditions like recurrent UTIs, BPH exacerbations, or diabetes. We do this while creating significant new annual revenues for our clinician partners from remote patient monitoring reimbursements without requiring any significant changes in a staff's day to day schedule.",
+    "activity_status": "Active",
+    "website": "https://starlingmedical.com/",
+    "founded_date": 2019.0,
+    "team_size": 5.0,
+    "location": "Houston, TX",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:medical-devices; industry:digital-health",
+    "founders": [
+        {
+            "name": "Drew Hendricks, Founder",
+            "description": "I am a health-tech entrepreneur with a special interest in all things urine and diagnostic. My background in medicine and medical device design gives me a unique point of view while identifying major gaps in healthcare through regular patient interaction.",
+            "linkedin": "https://www.linkedin.com/in/drew-hendricks/"
+        },
+        {
+            "name": "Hannah McKenney, Founder",
+            "description": "My experience within both the hospital and industry setting has developed my interest in emphasising the user-centered and human factors design of medical technologies to ensure accessibility and usability in all areas around the world. My skills are broadly in problem definition, upstream product development, and implementation of medical technologies (device and digital health) in the clinical setting. I am focused on ensuring Starling prioritises the user experience throughout our growth.",
+            "linkedin": "https://www.linkedin.com/in/hmck96/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Starling Medical: Revolutionizing Home Health Monitoring**\n\nFounded in 2019 and nurtured through Y Combinator's W22 batch, Starling Medical is located in Houston, TX, and is making waves in the healthcare space with its innovative urine diagnostics technology. The mission? To leverage AI and a unique diagnostic platform to enable at-home monitoring of urine health, all while fitting seamlessly into daily bathroom routines.\n\nAt the heart of Starling\u2019s offering is **UrinDx\u2122**, a sophisticated device that uses mass spectroscopy to monitor patient health every time they visit the restroom. This device is specifically designed to identify early changes in urinary health, aiming to prevent hospitalizations due to conditions such as recurrent urinary tract infections (rUTIs), benign prostatic hyperplasia (BPH), and diabetes-related issues. \n\n**How It Works:**\nThe UrinDx device pairs with a smartphone app to deliver real-time urinary health insights directly to users and their healthcare providers. When it detects concerning changes\u2014like the presence of nitrites that could indicate a UTI\u2014Starling's care team is alerted to reach out, allowing for timely interventions and reducing the need for unnecessary clinic visits.\n\nStarling isn\u2019t just about the tech; it\u2019s also about creating a sustainable model for healthcare providers. By integrating this remote patient monitoring platform, clinicians can diversify their revenue streams through insurance reimbursements without adding to their workload. This makes it a win-win: patients benefit from proactive health monitoring at home, and providers can enhance their care offerings without disrupting their routines.\n\n**The Bigger Picture:**\nStarling Medical operates under the understanding that effective healthcare shouldn\u2019t have to come at the cost of convenience or privacy. They prioritize patient data security\u2014ensuring that only the user and their medical teams have access to personal health information, which is crucial in today\u2019s digital age.\n\nWith a lean team of five, Starling is ambitious but has the foundational support of strategic partners. The company is poised for growth, not just in Texas but potentially across the nation, as they look to optimize home health diagnostics and pave the way for smarter, more accessible healthcare solutions.\n\nIn summary, Starling Medical stands at the intersection of technology and healthcare, harnessing the potential of AI and everyday home life to keep health monitoring simple, effective, and private. Their goal? To prevent hospitalizations with every flush\u2014now that\u2019s a mission worth supporting.\n\nFor more information, check out their website: [Starling Medical](https://starlingmedical.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cf9d88086e8df2782e03db3eaf8c8d1c3c3bd80f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191949Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=958594eb21b5c540ff63346c58cf0174e21bfa00bb9a6984760d02ccba5a9686",
+    "social_links": [
+        "https://www.linkedin.com/company/starling-medical",
+        "https://twitter.com/StarlingMedical",
+        "https://www.crunchbase.com/organization/starling-medical"
+    ],
+    "logo_path": "data/logos\\Starling_logo.png"
+}

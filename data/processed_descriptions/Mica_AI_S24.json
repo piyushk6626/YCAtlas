@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/mica-ai",
+    "name": "Mica AI",
+    "headline": "AI Agents that Automate B2B Sales",
+    "batch": "S24",
+    "description": "Mica builds AI Agents that automate B2B sales. Our agents analyze sales calls, generate tailored collateral, and follow up until the deal is closed.\r\n\nThe founders met at UC Berkeley, and at our last jobs, we saw that the best sales reps weren\u2019t just great at selling\u2014they were elite content creators. They crafted tailored collateral like decks and highlight videos for each buyer, and their champions used this info to advocate for purchasing their product within their companies. \r\n\nHowever, because this takes more than 30 minutes per call, even the best reps could only do tailored follow-ups for a few clients, leaving millions in lost deals.\r\n\nMica\u2019s agents reduce that time to less than a minute. This lets top performers do A+ work on every deal and helps the rest of the team sell like a top performer.\r\n\nSales collateral creation and follow-up is a $11b market in the US but this is just our beachhead. We\u2019ll ship a fleet of agents that automate and eventually replace every other facet of the $80b enterprise sales market.",
+    "activity_status": "Active",
+    "website": "https://usemica.com/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:sales; industry:sales-enablement; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Achyuta Iyengar, Founder/CEO",
+            "description": "Achyuta is the co-founder and CEO of Mica AI.\n\nPrior to Mica, Achyuta worked as a Product Manager at Lob (YC S13) where he led the New Product Development, Address Verification, and Developer Experience teams. He has a BS in Business Administration from the Haas School of Business at UC Berkeley.",
+            "linkedin": "https://www.linkedin.com/in/achyuta-iyengar/"
+        },
+        {
+            "name": "Bharadwaj Swaminathan, Founder/Head of Eng",
+            "description": "Bharadwaj is the founder and Head of Engineering at Mica AI. Previously, he worked as a Data Scientist at Hewlett Packard Enterprise, working on creating machine learning products in the networking space. He has a Bachelor's in Data Science and Economics from UC Berkeley.",
+            "linkedin": "https://www.linkedin.com/in/bharadwajswaminathan"
+        },
+        {
+            "name": "Jai Yarlagadda, Founder/CTO",
+            "description": "Jai is the co-founder and CTO of Mica AI.\n\nBefore Mica, Jai was Senior Machine Learning Engineer at GenerAI focused on building video understanding AI models, scaling software, and understanding client needs. Before that, he was a Software Engineer at Booz Allen Hamilton, building scalable software used by tens of thousands of users.\n\nHe studied Physics and Computer Science at University of California, Berkeley.",
+            "linkedin": "https://www.linkedin.com/in/jai-yarlagadda-8a4733109/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Mica AI: Revolutionizing B2B Sales with AI Agents\n\nMica AI is on a mission to transform B2B sales through the power of artificial intelligence. Founded in 2023 by a trio of innovators who met while studying at UC Berkeley, Mica builds AI agents that automate the often-time-consuming tasks associated with sales\u2014specifically, analyzing sales calls, generating customized collateral, and following up with prospects until deals are closed.\n\n#### The Problem\n\nIn the landscape of sales, the best representatives aren\u2019t just convincing; they\u2019re also exceptional content creators. They tailor presentations and supporting materials to resonate with individual buyers, but as they juggle multiple clients, this level of personalization becomes unsustainable. What takes elite salespeople over 30 minutes per call can make or break a deal. For the vast majority of sales teams, this results in lost opportunities and revenue\u2014the numbers here are significant, with the sales collateral creation market alone clocking in at $11 billion in the U.S.\n\n#### The Solution \n\nEnter Mica AI. By slashing the time spent on personalized follow-ups to under a minute, Mica empowers sales teams to perform at their best, ensuring that every client interaction is impactful. The AI agents not only enhance efficiency but democratize sales success\u2014now, even average performers can leverage tools that enable them to sell like the top sellers.\n\nThe platform allows users to upload their sales call recordings, after which Mica analyzes the conversation to identify key topics of interest such as product features, pricing, and benefits. It then generates a personalized Deal Summary page that can be shared seamlessly with prospects. This ensures that critical information doesn\u2019t get lost in translation\u2014a common issue dubbed the \"game of telephone\" in sales discussions.\n\n#### The Impact\n\nThe results speak for themselves: teams using Mica have reported a 25% reduction in sales cycle duration, a 30% increase in monthly deal closures, and a 60% faster follow-up rate with prospects. By creating champions within client organizations who can advocate for the solution, Mica accelerates the entire buying process.\n\n#### The Future\n\nLocated in San Francisco and backed by Y Combinator's Batch S24, Mica is just at the beginning of its journey. With a team of three and ambitions to expand beyond initial offerings, they envision rolling out a fleet of agents that will eventually automate all aspects of the $80 billion enterprise sales market.\n\nIn a world where time is money, Mica AI is poised to change the game for sales teams everywhere.\n\nInterested in finding out more? Visit [Mica AI's website](https://usemica.com/), where you can also book a demo to see the magic in action!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/079c6580e39c0eac8ccd3eaae275f6dbab03d0e7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191535Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b1d458166d85ffc6fbbe0e13a76e9de3bab810a5ae5db4100a381665973e46cd",
+    "social_links": [
+        "https://www.linkedin.com/company/mica-ai"
+    ],
+    "logo_path": "data/logos\\Mica_AI_logo.png"
+}

@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/primevault",
+    "name": "PrimeVault",
+    "headline": "Supercharged crypto operations, custody and risk management",
+    "batch": "S22",
+    "description": "PrimeVault is a deep-tech crypto infrastructure company that is dedicated to building innovative core tools that make on-chain value ownership, transfer, issuance and access to decentralized financial products convenient, efficient and secure for businesses and institutions of any size and scale. PrimeVault leverages cutting-edge technologies such as sealed TEEs (Trusted Execution Environment), Formal Verification and MPC (Multiparty Computation) to offer powerful, secure, scalable and modular wallet infrastructure, programmable cross-chain asset management, comprehensive portfolio tracker, seamless CeDeFi interoperability with both on- and off-chain markets, and sophisticated risk mitigation solutions.",
+    "activity_status": "Active",
+    "website": "https://www.primevault.com",
+    "founded_date": 2022.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:defi; industry:saas; industry:crypto-web3; industry:b2b; industry:dao; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Prashant Upadhyay, Founder",
+            "description": "Co-founder @ PrimeVault - an all-in-one crypto security platform for teams to manage their digital assets, DeFi investments and more. Formerly, first PM at Rippling (YC W17) building and scaling payroll, payments, compliance, risk and accounting products. Math nerd, Web3 enthusiast.",
+            "linkedin": "https://www.linkedin.com/in/prashant-upadhyay/"
+        },
+        {
+            "name": "Tanmay Chaudhari, Founder",
+            "description": "Co-founder of PrimeVault. Previously a tech lead at Rippling and worked at Goldman Sachs.",
+            "linkedin": "https://www.linkedin.com/in/tanmayc25/"
+        },
+        {
+            "name": "Vivek Kumar, Co-Founder",
+            "description": "Co-founder @ PrimeVault,\nFormer Tech lead at Rippling",
+            "linkedin": "https://www.linkedin.com/in/vivek-kumar-578013119/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**PrimeVault: Supercharging Crypto Operations**\n\nFounded in 2022 and based in San Francisco, PrimeVault is a deep-tech crypto infrastructure company dedicated to enhancing the world of decentralized finance (DeFi) through innovative tools. As part of Y Combinator's Batch S22, it leverages advanced technologies like Trusted Execution Environments (TEEs), Formal Verification, and Multiparty Computation (MPC) to redefine how businesses and institutions manage their digital assets securely and efficiently.\n\n**Mission and Services**\nPrimeVault's mission is clear: to supercharge crypto operations. They focus on providing a comprehensive suite of services that encompass custody, trading, risk management, and a seamless interface for entering the DeFi space. Their offerings include:\n\n- **Custody:** Revolutionizing institutional self-custody with fine-grained governance and multi-TEE key protection.\n- **Trade:** High-performance trading infrastructure enabling access to both on- and off-chain markets.\n- **Risk Management:** Continuous monitoring and mitigation strategies that protect users from market volatility.\n- **Web3 Treasury & Tokenization:** Streamlining token operations like issuance and compliance, all under one roof.\n\nThe goal is to create a modular, scalable infrastructure that provides businesses, funds, market makers, and exchanges with tools that ease the complexity often associated with crypto and DeFi operations.\n\n**Innovative Features**\nPrimeVault boasts several notable innovations:\n- A **proprietary MPC-powered transaction signing** mechanism that ensures top-tier security.\n- Comprehensive multi-chain and multi-asset protocol support, allowing for versatile asset management.\n- Automated on-chain transactions that reduce manual input and operational risk.\n\nThrough their Autonomous Signing Infrastructure (ASI), users can pre-authorize transactions that execute once predefined conditions are met, further automating and securing their crypto operations.\n\n**Team and Leadership**\nPrimeVault, despite being a small team of just three employees, benefits from significant industry insights and mentorship, particularly from Group Partner Harj Taggar at Y Combinator. Their compact size allows them to maintain agility while addressing the intricate needs of their users.\n\n**Backed and Audited**\nWith backing from prominent players like Arrington Capital and Hashkey Capital, PrimeVault holds an industry-leading position not just in technology but also in trust. They\u2019ve achieved SOC 2 certification and undergone audits by Halborn\u2014this highlights their commitment to security and privacy in the crypto space.\n\n**Why Choose PrimeVault?**\nFor institutions looking to navigate the complex landscape of digital assets with efficiency and confidence, PrimeVault offers a promising pathway. It represents the evolution of digital asset management where security and operational ease meet cutting-edge technology.\n\nInterested parties can explore collaborations or demo their offerings at [PrimeVault's website](https://www.primevault.com).\n\nIn summary, PrimeVault isn't just about crypto; it's about empowering businesses to harness the full potential of digital assets with robust, secure, and innovative solutions. They\u2019re paving the way for a decentralized future\u2014one smart contract at a time.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/0ffedb5ed931ff1421cb856a4c5063086d78e363.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191653Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=77cabe1e71a835c787131d78c7480bfdcb4eebb0c9fc8a1ec5db8856aecd0339",
+    "social_links": [
+        "https://www.linkedin.com/company/primevault",
+        "https://twitter.com/primevaultHQ",
+        "https://www.crunchbase.com/organization/excheqr"
+    ],
+    "logo_path": "data/logos\\PrimeVault_logo.png"
+}

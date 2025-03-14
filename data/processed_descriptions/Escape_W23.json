@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/escape",
+    "name": "Escape",
+    "headline": "Discover and secure all your APIs, SPAs and Microservices",
+    "batch": "W23",
+    "description": "Secure your APIs, SPAs, and microservices effortlessly with Escape\u2014Document all your APIs in minutes, leverage our proprietary DAST algorithm to detect business logic vulnerabilities, and reduce developer remediation overhead with code fixes.",
+    "activity_status": "Active",
+    "website": "https://escape.tech",
+    "founded_date": 2020.0,
+    "team_size": 14.0,
+    "location": "Paris, France",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:security; industry:api; industry:graphql",
+    "founders": [
+        {
+            "name": "Tristan Kalos, Founder",
+            "description": "Building Escape (YC W23) to help AppSec and Engineering teams secure their Single Page Apps, APIs, and Microservices. Previously ML engineer at source{d} and researcher at UC Berkeley. Passionate about solving complex business problems with creative technology or user experiences.",
+            "linkedin": "https://linkedin.com/in/tkalos"
+        },
+        {
+            "name": "Antoine Carossio, Founder",
+            "description": "\ud83c\uddeb\ud83c\uddf7 \u2022 Engineer \u2022 UC Berkeley \u2022 Apple",
+            "linkedin": "https://linkedin.com/in/acarossio"
+        }
+    ],
+    "status": true,
+    "generated_description": "Escape is a dynamic startup founded in 2020 located in Paris, France, and currently a part of Y Combinator\u2019s W23 batch. With a dedicated team of 14 employees, Escape has set its sights on securing APIs, Single Page Applications (SPAs), and Microservices\u2014all effortlessly. Their mission is straightforward: discover and secure all features of modern application architecture without the friction that often comes with security measures.\n\nWhat makes Escape particularly compelling is its proprietary Dynamic Application Security Testing (DAST) algorithm, which not only maps and documents APIs in minutes but also effectively detects critical business logic vulnerabilities. This is an area often overlooked by traditional security solutions, and it's where Escape shines. The platform allows developers to remediate vulnerabilities with minimal overhead, offering code fixes that can integrate seamlessly into existing workflows.\n\nAs a product, Escape is tailored for speed\u2014proving itself as an invaluable tool for modern development practices where pace matters. With a focus on user-friendliness, the platform integrates smoothly into existing security stacks. Companies employing Escape can expect a reduction in security-related remediation tasks, freeing developers to focus more on their core activities while maintaining security best practices.\n\nEscape isn't just about current offerings; they're also engaged in making a significant impact through ongoing security research. Their findings contribute valuable insights into the state of API exposure and GraphQL security, which is critical in today's API-heavy application ecosystems.\n\nKey features include:\n- **Agentless and Trafficless Security**: No need for installing agents or altering infrastructure.\n- **Automated Pentesting**: Regular detection of vulnerabilities with detailed compliance reporting.\n- **Comprehensive API and GraphQL Security**: Tailored specifically for the rising use of GraphQL in applications.\n- **Integrations and Workflows**: Advanced integrations with CI/CD pipelines to automate security at every stage of development.\n\nThe company is led by notable Group Partner Nicolas Dessaigne, and its technology stack supports various fields including fintech and e-commerce. Escape is also well-reviewed; their platform has received high ratings on platforms like G2.\n\nFor anyone looking to bolster their security approach with a modern solution designed for the complexity of today\u2019s applications, Escape emerges as a robust contender. If you\u2019re curious about their powerful capabilities, you can visit their website at [escape.tech](https://escape.tech) or book a demo to see their technology in action.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ea4bf020048393e6bcf99f14cd64095cada82777.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191320Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=36d9e0ea80ffaa75247141a71efeec52a0ca454d697ea1da379ef29bdad8ee42",
+    "social_links": [
+        "https://www.linkedin.com/company/escapetech",
+        "https://twitter.com/escapetechhq",
+        "https://www.crunchbase.com/organization/escape-b74e",
+        "https://github.com/Escape-Technologies/"
+    ],
+    "logo_path": "data/logos\\Escape_logo.png"
+}

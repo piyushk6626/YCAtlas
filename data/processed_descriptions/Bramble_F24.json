@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/bramble",
+    "name": "Bramble",
+    "headline": "The next generation Zillow.",
+    "batch": "F24",
+    "description": "Bramble is a video-first search platform for real estate, powered by AI. It helps agents auto-generate beautiful video listings and helps buyers search them for what they actually care about, like natural light or a big yard.\r\n\nWe launched as a flat-rate real estate brokerage. After helping customers close on $10M worth of homes, we learned that lead generation is the biggest problem in real estate. By helping agents market their listings with videos and allowing buyers to find homes visually, we'll build a next-generation Zillow.",
+    "activity_status": "Active",
+    "website": "https://usebramble.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:real-estate; industry:consumer; industry:proptech; industry:consumer-products; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Nimesh Chakravarthi, Founder",
+            "description": "Nimesh is a Co-Founder at Bramble, building the new way to find a home. He graduated EECS at Berkeley and is a former engineering leader at LinkedIn, bringing 8 years of building consumer tech products to the real estate industry.",
+            "linkedin": "https://linkedin.com/in/nimesh-chakravarthi-68238749"
+        },
+        {
+            "name": "Daniel Hsu, Founder",
+            "description": "Danny is building Bramble, the next-gen Zillow. He previously led eng teams at LinkedIn; drove 10k++ extra DAUs on launch with the single highest-engagement feature at Mango Health (acq. TrialCard); and built a 1k-DAU app as co-founder of the 5-person team at Mash Music (Berkeley Venture Labs). He attended the University of California, Berkeley for Computer Science.",
+            "linkedin": "https://www.linkedin.com/in/dannyighsu"
+        },
+        {
+            "name": "Deepan Mehta, Founder",
+            "description": "Deepan is building the best way to discover and buy homes at Bramble. \n\nPreviously he spent 4 years as a Sr. PM at LinkedIn, where he launched an AI-powered revamp of messaging, video posting, and messaging stories while driving 10s of millions in ARR. Before that, he launched LiveRamp's first self-serve distribution UXs and APIs. He graduated from Georgia Tech with a BS in computer science and is a Mexican Pizza enthusiast.",
+            "linkedin": "https://linkedin.com/in/deepanmehta"
+        }
+    ],
+    "status": true,
+    "generated_description": "Bramble is embarking on a mission to redefine the real estate market as \"the next generation Zillow.\" Founded in 2024 and nestled in San Francisco, Bramble started as a video-first search platform anchored in AI technology. This innovative approach allows real estate agents to automatically create stunning video listings, making the property search not just easier but more visually engaging.\n\nWhat sets Bramble apart is its understanding of the buyer's desires\u2014rather than sifting through lists of properties based on basic filters, users can search for what truly matters to them, like \"lots of natural light\" or \"big yards.\" This tailored approach is rooted in Bramble\u2019s experience, having successfully closed $10 million in real estate transactions as a flat-rate brokerage before pivoting to focus on lead generation challenges, which they found to be the crux of real estate hurdles.\n\nWith a compact team of three and backing from Y Combinator Batch F24, Bramble is primed for growth. Their technology not only enhances the visibility of listings through visually appealing videos but also helps buyers find homes that fit their lifestyle preferences, bridging a gap between buyers and agents with a personalized touch. \n\nIf you're curious to know more or want to see how it works, you can explore their platform at [usebramble.com](https://usebramble.com).\n\nIn summary, Bramble is not just another real estate platform; it\u2019s leveraging AI to create a more intuitive, visually compelling home-buying experience, aiming to reshape how we search for our next favorite space.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d7abb63d2f888f88b5a9e455d9f11d103ac007c2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191031Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=de291c2113526a0804403b81f0eae006bc072b5b4efc979ca993452874ed47b5",
+    "social_links": [
+        "https://www.linkedin.com/company/usebramble/",
+        "https://x.com/usebramble",
+        "https://github.com/village-chat"
+    ],
+    "logo_path": "data/logos\\Bramble_logo.png"
+}

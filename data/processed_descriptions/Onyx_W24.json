@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/onyx",
+    "name": "Onyx",
+    "headline": "Open Source AI Assistant and Enterprise Search",
+    "batch": "W24",
+    "description": "Onyx is the AI assistant that connects to all your company tools and docs and makes finding any piece of information a breeze. Think ChatGPT, but with access to all your companies documents (only the ones you have access to, of course :P). Or, if you know Glean, you can think about it like an open-source Glean. \r\n\nConcerned about your data? Don't worry we're open source (MIT license) and built to be self-hosted. You can setup Onyx in your VPC in less than 30 minutes - no packets ever have to leave your cloud.\r\n\nCheck us out on Github: https://github.com/onyx-dot-app/onyx!",
+    "activity_status": "Active",
+    "website": "https://www.onyx.app/",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:open-source; industry:nlp; industry:enterprise; industry:search",
+    "founders": [
+        {
+            "name": "Yuhong Sun, Founder",
+            "description": "Expertise is in Machine Learning (with specialization in NLP) as well as backend systems. Previously working on Deep Learning for NL-to-SQL and Semantic Search at Alation, inc.",
+            "linkedin": "https://linkedin.com/in/yuhongsun"
+        },
+        {
+            "name": "Chris Weaver, Founder",
+            "description": "Former TL on the anti-fraud engine team at Robinhood.\n\nIn a previous life, was a top-100 NA League of Legends player.",
+            "linkedin": "https://linkedin.com/in/chris-weaver101"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: Onyx\n\n**Founded:** 2023  \n**Location:** San Francisco, CA  \n**Team Size:** 6 employees  \n**Y Combinator Batch:** W24  \n\n---\n\n**Mission:**  \nOnyx aims to revolutionize workplace efficiency with its open-source AI assistant and enterprise search tool, designed to simplify how teams find, access, and utilize information.\n\n**What is Onyx?**  \nImagine an AI assistant like ChatGPT, but tailored for your organization. Onyx seamlessly connects to all your company\u2019s tools and documents, significantly reducing the time spent on searching for data. If you\u2019re familiar with Glean, think of Onyx as its open-source counterpart. \n\n**Data Security:**  \nOne of the significant selling points of Onyx is its approach to data security. By being open-source and designed for self-hosting, Onyx allows companies to deploy their AI assistant within their virtual private cloud (VPC), ensuring that no data ever leaves an organization\u2019s infrastructure. This means setting it up is not just easy, but securely contained in less than 30 minutes.\n\n**Core Features:**\n\n- **Integrations:** Onyx boasts over 40 integrations with popular applications like Asana, Google Drive, GitHub, and Slack, among others. This breadth allows users to sync data in real-time across multiple platforms seamlessly.\n   \n- **User-Friendly Interface:** Users can create AI assistants that leverage their organization's unique knowledge, ensuring that help is available right where work happens.\n\n- **Advanced Document Access:** Onyx employs document-level permissions, enhancing security and ensuring that users only access what they need.\n\n- **Customizable APIs:** Developers can utilize open-source APIs to build tailored workflows that suit their team's individual needs.\n\n**Target Audience:**  \nOnyx is built for everyone\u2014from operational teams needing swift access to vital information to developers who require a robust platform for custom workflows.\n\n---\n\n**Current Initiatives:**  \n1. **Assistants:** Creating bespoke AI assistants that cater to team-specific requirements.\n2. **Search:** Enhancing the ability for organizations to locate information quickly across all integrated applications.\n3. **OnyxBot:** A dedicated feature to facilitate real-time communication with the AI assistant.\n\n### Join the Conversation  \nWant to learn more? Get involved with the Onyx community via [Github](https://github.com/onyx-dot-app/onyx) or check out their official site at [onyx.app](https://www.onyx.app).\n\n### Final Thought  \nOnyx isn\u2019t just another AI tool; it\u2019s a lean, mean, information-finding machine, built with security and flexibility at its core. If you've been bogged down by information overload, Onyx might just be the solution that helps you unleash your team\u2019s potential.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/75a421dba31452189c63ca0e120e9cb64c1a2f81.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191611Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6552a98a17bc21f5c364a4efaf0fe7a61e59a1b47a7cea288e26e0b8e65c9f83",
+    "social_links": [
+        "https://www.linkedin.com/in/onyx-dot-app/",
+        "https://x.com/onyx_dot_app",
+        "https://github.com/onyx-dot-app/onyx"
+    ],
+    "logo_path": "data/logos\\Onyx_logo.png"
+}

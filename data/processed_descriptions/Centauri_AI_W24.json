@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/centauri-ai",
+    "name": "Centauri AI",
+    "headline": "The Modern ETL and Data Science Platform for Finance",
+    "batch": "W24",
+    "description": "Centauri AI is a modern ETL and Data Science platform for banks and investment firms, starting with Structured Finance. \r\n\nFinancial firms heavily rely on Excel, PDF, and PPT files to exchange complex asset details, leading analysts to spend hours crunching the files and extracting insights. Moreover, these data files and reports cannot be easily reused due to poor data infrastructure. \r\n\nPowered by AI, our product cuts hours of data wrangling work down to minutes and makes it possible to query past data easily. This helps firms evaluate assets faster and win more deals.\r\n\nSince launching last month, we've started a pilot with a brokerage team at a public investment bank that now uses our product daily. Aiming to serve over 100,000 investment teams needing complex data analysis for alternative investments, this opens up a potential $5 billion market.",
+    "activity_status": "Active",
+    "website": "https://centauri-ai.tech",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "He Lu, Founder",
+            "description": "He is the co-founder and CEO of Centauri AI with 9 years of experience in banking and capital market. Before Centauri AI, he was co-founder and CTO of Blue Water Fintech, which achieved $11M in annual net revenue before its acquisition in 2022. Previously, he managed five institutional fixed-income portfolios as a portfolio manager. He likes tennis and running. He is also a member of the Santa Clara County Sheriff's Office search and rescue team.",
+            "linkedin": "https://linkedin.com/in/he-lu-63666852"
+        },
+        {
+            "name": "Milan Shen, Founder",
+            "description": "Milan is co-founder and Chief Product Officer at Centauri AI. Milan has expertise in Data and AI over 10 years with both research and product development. After obtaining a PhD in Statistics from Stanford, she led DS for Pricing and Forecasting powering over 1 million listings at Airbnb. More recently at Meta as a research scientist manager, she led the team to deploy Facebook Ads system\u2019s first privacy-preserving AI solution (approx $0.5B+ yearly incremental revenue).",
+            "linkedin": "https://linkedin.com/in/milan-shen-860b5062"
+        },
+        {
+            "name": "James Wu, Founder",
+            "description": "James was a Director of Engineering at Tubi, hired the Platform Eng. Team, managed a >1500c autoscaling K8s cluster and oversaw costs for a $x0M/year tech budget. Principal Engineer at Minted as a full-stack DevSecOps developer. UC Berkeley Alum.",
+            "linkedin": "https://linkedin.com/in/jameswu1991"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Centauri AI: Revolutionizing Data Analysis for Financial Firms\n\n**Overview**  \nFounded in 2023 and currently part of Y Combinator's Batch W24, Centauri AI is carving out a niche as a modern ETL (Extract, Transform, Load) and Data Science platform specifically designed for the finance sector. The company aims to simplify how banks and investment firms handle structured finance data, a process that has traditionally been cumbersome and time-consuming.\n\n**The Problem**  \nFinancial analysts spend an inordinate amount of time wrestling with data from Excel, PDF, and PPT files. This not only leads to wasted hours but also hampers the ability to reuse insights due to the lack of a robust data infrastructure. With complex asset details buried in various formats, the challenge is clear: how can firms make faster evaluations and capture more opportunities?\n\n**The Solution**  \nCentauri AI leverages artificial intelligence to transform the data wrangling process. What used to take hours can now be executed in minutes, enabling analysts to query historical data effortlessly. This accelerated workflow is a game changer for firms that need to evaluate assets quickly to secure deals.\n\n**Market Potential**  \nWith an ambitious vision to cater to over 100,000 investment teams, Centauri AI is poised to tap into a substantial market opportunity estimated at $5 billion. This potential is backed by early traction; since launching just a month ago, the company has initiated a successful pilot with a brokerage team at a public investment bank.\n\n**Key Features**  \nCentauri AI's platform stands out by offering:\n\n- **Automated Data Processing:** Streamlined workflows that reduce repetitive tasks and enhance output quality.\n- **User-Friendly Interface:** Users can upload any file and receive processed data in moments.\n- **Intelligent Data Mapping:** Sophisticated transformations that handle multiple files simultaneously, eliminating missing values or invalid fields.\n- **Custom Queries and Analytics:** Analysts can make data queries using natural language and maintain a full citation of their projects, improving transparency and decision-making.\n\n**Testimonials**  \nMark K, a Director in Private Credit, highlights how the platform increases utility across teams and enhances their collective decision-making capabilities. Yuki M, a Manager at a global insurance company, applauds Centauri AI for its ability to store corporate knowledge through customizable templates.\n\n**Support and Backing**  \nCentauri AI is not navigating these waters alone. The company is supported by key players like Microsoft for Startups, Y Combinator, NVIDIA Inception, and AWS Activate, providing a strong foundation for its growth.\n\n**Final Thoughts**  \nCentauri AI is poised to reshape data analysis in finance by addressing real pain points with intelligent solutions. If you're part of an investment team looking to unlock the potential within your data, getting in touch with Centauri AI could be the next step. With a lean team of three and high ambitions, they're just getting started and ready to make waves in the financial industry.\n\n**Website**: [Centauri AI](https://centauri-ai.tech)",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/80166573e58ff4706f9cf4f1157bb35015e90b65.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191045Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5f8eb29d9a00321ecf7ed70109c96ae5c0dd311cc2b8aba7581c77b191dd1672",
+    "social_links": [
+        "https://www.linkedin.com/company/101369147/",
+        "https://github.com/centauri-ai"
+    ],
+    "logo_path": "data/logos\\Centauri_AI_logo.png"
+}

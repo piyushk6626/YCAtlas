@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/elementary",
+    "name": "Elementary",
+    "headline": "Open-source data observability for data teams",
+    "batch": "W22",
+    "description": "Elementary enables data teams to detect problems in their data before their users do. An open-source solution that any data engineer can deploy in minutes without sharing sensitive data.",
+    "activity_status": "Active",
+    "website": "http://elementary-data.com/",
+    "founded_date": 2021.0,
+    "team_size": 12.0,
+    "location": "Tel Aviv-Yafo, Israel",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:analytics; industry:open-source; industry:data-engineering",
+    "founders": [
+        {
+            "name": "Maayan Salom, Founder",
+            "description": "Ex-8200, Formerly Incident Response engagement manager at Sygnia (acquired by Temasek).\nOver 10 years in data analysis and managing teams of analysts and researchers. \nValidating data since 2010.",
+            "linkedin": "https://www.linkedin.com/in/maayansa/"
+        },
+        {
+            "name": "Or Avidov, Founder",
+            "description": "Ex-8200 (Israeli intelligence unit), formerly Director of engineering at Singular.\nOver 10 years in software and data engineering. \nM.Sc. in Computer Science and Machine learning.\nBuilding data pipelines since 2010.",
+            "linkedin": "https://www.linkedin.com/in/oravidov/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Company Overview: Elementary\n\n**Founded:** 2021  \n**Location:** Tel Aviv-Yafo, Israel  \n**Team Size:** 12 Employees  \n**Founder & Group Partner:** Dalton Caldwell (Y Combinator Batch W22)\n\n### Mission\nElementary aims to provide open-source data observability for data teams. The goal is straightforward: empower data teams to detect data issues before their users face them. By offering a solution that is both easy to deploy and secure, Elementary ensures that data engineers can implement data monitoring without compromising sensitive information.\n\n### Key Features and Products\nElementary stands out in the data observability space by combining a user-friendly interface with robust technical capabilities. Here\u2019s what they offer:\n\n1. **Data Health Monitoring:** Keep track of quality metrics such as completeness and freshness across various tables.\n2. **Anomaly Detection:** Leverage ML-powered tools to identify outliers and unexpected patterns automatically.\n3. **Data Lineage:** Understand how data flows through your systems with detailed lineage visualizations.\n4. **Incident Management:** Streamline processes for handling data quality incidents, prioritizing resolutions, and notifying affected teams.\n\nElementary provides integrated tools that work seamlessly with existing data stacks, including native support for dbt (data build tool), ensuring that organizations already invested in dbt can continue to leverage their existing workflows without redundancy.\n\n### Community and Support\nWith over 3,000 community members backing Elementary, the company emphasizes collaboration, knowledge sharing, and support. They host webinars, maintain a robust documentation library, and facilitate a community for peer assistance.\n\n### Use Cases\nElementary is designed for various stakeholders, including:\n- **Data Engineers:** To maintain data quality using familiar tools without adding extra overhead.\n- **Data Analysts:** To engage in data quality without needing coding skills.\n- **Business Stakeholders:** To gain confidence in data driving decisions with clear visibility into data quality.\n\n### Recognition\nElementary was recently noted in **Gartner's Market Guide for Data Observability Tools**, a testament to its rising significance in the data management landscape.\n\n### Conclusion\nIn an era where data accuracy is paramount, Elementary positions itself as a necessary tool for companies aiming to enhance their data reliability and observability. Their commitment to open-source principles, combined with a straightforward implementation model, makes them an attractive choice for data teams looking to add a layer of assurance to their data workflows. \n\nFor further exploration, you can check out their [website](http://elementary-data.com/) and consider booking a demo to see how Elementary can fit your needs.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ee2f33ec4da3f7ef4186281dff56e0a0f6bcc122.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191208Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f7a8c2dea995ee11a6cc092379baccfd0768922074ec9f1fdcd5a865639c77f3",
+    "social_links": [
+        "https://www.linkedin.com/company/elementary-data",
+        "https://twitter.com/ElementaryData",
+        "https://github.com/elementary-data/elementary"
+    ],
+    "logo_path": "data/logos\\Elementary_logo.png"
+}

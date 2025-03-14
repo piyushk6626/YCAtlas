@@ -1,0 +1,31 @@
+{
+    "links": "https://www.ycombinator.com/companies/meticulous",
+    "name": "Meticulous",
+    "headline": "Automated e2e screenshot testing without writing or maintaining tests",
+    "batch": "S21",
+    "description": "Meticulous is a tool to automatically catch UI bugs in your web application with zero-effort. Install our JavaScript snippet onto production or staging and dev environments, which records user sessions by collecting clickstream and network data. When you post a pull request, Meticulous selects a subset of sessions which are relevant and simulates these against the frontend of your application. Meticulous takes screenshots at key points and detects any visual differences. It posts those diffs in a comment for you to inspect in a few seconds. \r\n\nThis eliminates the setup and maintenance burden of UI testing.",
+    "activity_status": "Active",
+    "website": "https://www.meticulous.ai",
+    "founded_date": 2021.0,
+    "team_size": 5.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:hard-tech; industry:saas",
+    "founders": [
+        {
+            "name": "Gabriel Spencer-Harper, Founder",
+            "description": "Working on software to catch bugs in web applications with zero-effort from developers. \n\nI used to be a software engineer at Opendoor and Dropbox.",
+            "linkedin": "https://www.linkedin.com/in/gabrielsharper"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Meticulous: Revolutionizing UI Testing\n\n**Overview**\n\nFounded in 2021 and a proud member of Y Combinator\u2019s Batch S21, Meticulous is a London-based startup that\u2019s transforming how we think about user interface (UI) testing. With a compact team of five employees, they've developed a powerful tool designed to automate end-to-end screenshot testing without the cumbersome need to write or maintain tests. You can check them out at [Meticulous AI](https://www.meticulous.ai).\n\n**Mission**\n\nMeticulous aims to eliminate the burden of setup and maintenance associated with traditional UI testing methods. Simply by installing a JavaScript snippet in your production or staging environments, you can start capturing user sessions including clickstream and network data. As developers work and push changes, Meticulous intelligently selects and simulates a representative subset of user sessions. The tool automatically generates screenshots at critical points in user interactions to identify visual discrepancies, enabling teams to catch bugs before they reach production.\n\n**How It Works**\n\n1. **Session Recording**: Add a script tag to start recording sessions wherever your application is being developed.\n   \n2. **AI-Driven Test Generation**: Meticulous uses advanced AI to create a comprehensive suite of visual tests that cover every nook and cranny of your application. \n\n3. **Pull Request Impact Analysis**: Before merging a pull request, Meticulous provides detailed insights on how changes will affect user workflows, helping to avoid potential regressions.\n\n4. **Continuous Evolution of Tests**: As your application evolves, so does your test suite. New tests are generated automatically with new features while outdated tests are seamlessly retired, requiring zero intervention from developers.\n\n5. **Speed and Reliability**: Meticulous runs tests in a highly parallelized fashion across a compute cluster, getting results for thousands of screens in less than two minutes. It combats flaky tests by employing deterministic scheduling, ensuring consistency and stability in how tests perform.\n\n**Trusted by Many**\n\nOver 100 organizations already trust Meticulous, including known names like Dropbox and Lattice. Users have praised its capacity to catch UI bugs without the overhead of manual test maintenance, allowing teams to move faster with confidence.\n\n**Conclusion**\n\nMeticulous is positioning itself as a game-changer in the DevTools landscape. With its revolutionary approach to UI testing, it is empowering teams to focus on what really matters\u2014building great products without the logistical headaches of traditional testing. So, if you're looking to elevate your development process, Meticulous offers a compelling solution to enhance productivity and reliability.\n\nWhether you're interested in streamlining your testing process or simply want to ensure bug-free user experiences, Meticulous might just be the tool you've been waiting for.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ad3ac80f0b8a3cf333e2087165590b35cd6f4951.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191534Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=07c8e3c8d46d7e30f73c69b7b7d759f2b8698010099e78d2952459b74bfe1948",
+    "social_links": [
+        "https://twitter.com/meticulousgabe"
+    ],
+    "logo_path": "data/logos\\Meticulous_logo.png"
+}

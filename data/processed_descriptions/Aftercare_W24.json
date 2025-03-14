@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/aftercare",
+    "name": "Aftercare",
+    "headline": "Conversational AI surveys with intelligent follow-up questions",
+    "batch": "W24",
+    "description": "Aftercare helps you run surveys with AI-powered follow-up questions to dig into responses for deeper insights\u2014it\u2019s like having a skilled interviewer for every survey.",
+    "activity_status": "Active",
+    "website": "https://getaftercare.com",
+    "founded_date": 2024.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:productivity; industry:feedback; industry:data-visualization; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Aidan Lee, Founder",
+            "description": "Co-founder of Aftercare - Conversational AI surveys with intelligent follow-up questions.\nex-Growth Strategy at Datadog, Investment Banking at Barclays. \nNYU Stern '20",
+            "linkedin": "https://linkedin.com/in/aidan-cj-lee"
+        },
+        {
+            "name": "Justin May, Founder",
+            "description": "Co-Founder at Aftercare\n\nex-Senior Software engineer at Palantir, Nextdoor | Rutgers '20",
+            "linkedin": "https://linkedin.com/in/justinseanmay"
+        },
+        {
+            "name": "Anand Nanduri, Founder",
+            "description": "Co-Founder at Aftercare | ex-Senior Software engineer at Affirm | Yale '20",
+            "linkedin": "https://linkedin.com/in/anand-nanduri"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Summary: Aftercare**\n\nFounded in 2024 and based in the vibrant tech hub of San Francisco, Aftercare is a startup that leverages the power of conversational AI to transform how surveys are conducted. It\u2019s not just about collecting data; it\u2019s about extracting deeper insights through intelligent follow-up questions. This approach effectively turns every survey response into a mini-interview, allowing businesses to understand the 'why' behind the 'what.'\n\nAs a part of Y Combinator's W24 batch, Aftercare is backed by a solid group of tech enthusiasts and engineers hailing from notable companies like Nextdoor, Palantir, Datadog, and Microsoft. With a compact team of three, led by Group Partner Diana Hu, Aftercare is focused on making surveys more interactive and insightful.\n\n### Core Offerings\n\nAftercare's platform includes several innovative products:\n- **AI Survey Platform:** Facilitates streamlined survey creation while integrating follow-up questions.\n- **AI Follow-up API:** Enhances existing surveys with intelligent follow-up capabilities.\n- **AI Data Quality API:** Ensures the integrity and quality of collected data.\n\nThe platform also boasts various survey templates tailored to specific needs, such as market research, customer satisfaction (CSAT), exit surveys, and more\u2014making it versatile for various industries.\n\n### Features That Stand Out\n\n1. **Intelligent Follow-up Questions:** Instead of standard multiple-choice responses, Aftercare empowers users to dive deeper into survey data, encouraging richer, more nuanced responses.\n2. **Flexible Workflow Builder:** Users can easily customize survey paths with a simple drag-and-drop interface, adding dynamic branching logic based on respondents' answers.\n3. **AI Response Categorization:** This feature automatically sorts and summarizes responses, allowing businesses to quickly spot trends without getting lost in spreadsheets.\n\n### Why It Matters\n\nIn an age where data is invaluable, Aftercare promises to save organizations time and enhance their understanding of customers\u2019 needs. By making surveys conversational and responsive, it shifts the traditional survey model toward a more engaging experience\u2014one that can adapt in real-time based on participant feedback.\n\nThink about it: What if your surveys could be as engaging and informative as a dialogue? That\u2019s the vision Aftercare is pushing forward.\n\nFor more information, check out their website at [Aftercare](https://getaftercare.com).\n\n---\n\nIn summary, Aftercare is not just collecting data; it\u2019s harnessing the nuances of human conversation to redefine the survey space. They\u2019re making it easier\u2014and a lot more insightful\u2014for organizations to understand their audiences. Keep an eye on them; they might just be doing the next big thing in feedback analysis.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2767ba1878b5724a0aa3b5c8f1c59db3e0d04caf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190945Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=24d69f5cad23125b15c3bb594c0351be117437f2ab0f86745f3adf436cf601e3",
+    "social_links": [
+        "https://www.linkedin.com/company/getaftercare/",
+        "https://x.com/getaftercare"
+    ],
+    "logo_path": "data/logos\\Aftercare_logo.png"
+}

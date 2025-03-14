@@ -1,0 +1,48 @@
+{
+    "links": "https://www.ycombinator.com/companies/mindfi",
+    "name": "MindFi",
+    "headline": "Transforming Mental Health for Corporate Asia",
+    "batch": "S21",
+    "description": "MindFi is an app that reduces burnout and improves mental health for employees. We sell to companies in Asia such as Deutsche Bank, KPMG, PatSnap, Visa. The team is headquartered in Singapore and consists of Bjorn, (ex-Zendesk product manager), psychologist Anita Sadasivan (UMich alum, ex-Raffles Hospital), Leon 2X startup founder with 2 exits and Gangeshwar, an award-winning AI engineer.",
+    "activity_status": "Active",
+    "website": "https://www.mindfi.co",
+    "founded_date": 2017.0,
+    "team_size": 25.0,
+    "location": "Singapore, Singapore",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:mental-health-tech; industry:b2b; industry:hr-tech; industry:health-&-wellness",
+    "founders": [
+        {
+            "name": "Bjorn Lee, Founder",
+            "description": "Bjorn Lee is a serial entrepreneur and technology executive with experience in Asia and Silicon Valley. Bjorn is currently the founder CEO of MindFi, a B2B mental health & wellbeing platform. He was an ex-product manager at Zendesk (who acquired Zopim Chat) and founder CEO of Stickery, an edu-tech startup funded by AngelPad & Google Ventures. Bjorn is an alumnus of National University of Singapore (NUS) and the NUS Overseas College (NOC) program at Stanford University.",
+            "linkedin": "https://www.linkedin.com/in/bjornlee/"
+        },
+        {
+            "name": "Gangeshwar Krishnamurthy, Founder",
+            "description": "AI Scientist turned startup founder. Ex-A*STAR, Ex-Microsoft. Currently building MindFi's AI-assisted platform for working professionals in Asia.",
+            "linkedin": "https://www.linkedin.com/in/gangeshwark"
+        },
+        {
+            "name": "Leon CK Leong, Founder",
+            "description": "I currently manage Business Development and Client Success @ MindFi. Previously, I co-founded and sold 2 tech start-ups and lost 250 lbs.. Yep, start-up life is a toughie alright. XD",
+            "linkedin": "https://www.linkedin.com/in/leonck/"
+        },
+        {
+            "name": "Anita Sadasivan, Founder",
+            "description": "Co-Founder and Chief Wellbeing Officer at MindFi - A B2B Mental Health & Wellbeing company for Corporate Asia.",
+            "linkedin": "https://www.linkedin.com/in/anitasadasivan/"
+        }
+    ],
+    "status": true,
+    "generated_description": "MindFi, founded in 2017 and a proud member of Y Combinator's Batch S21, is on a mission to transform mental health across corporate Asia. Headquartered in Singapore, the company has developed an innovative app that focuses on reducing burnout and enhancing the mental wellbeing of employees. Think of it as a modern employee assistance program (EAP) tailored for small to medium-sized companies \u2013 and they\u2019ve already struck partnerships with big names like Deutsche Bank, KPMG, PatSnap, and Visa.\n\nThe team behind MindFi is impressive, featuring Bjorn, an ex-Zendesk product manager; Anita Sadasivan, a psychologist and UMich alum; Leon, a two-time startup founder with successful exits; and Gangeshwar, an award-winning AI engineer. This blend of expertise is what drives MindFi\u2019s value proposition: a proactive approach to mental health, combining cutting-edge technology with psychological insights.\n\nWhat sets MindFi apart? They offer on-demand therapy that allows employees to book sessions within 24 hours, as well as a robust suite of self-care resources. Employees can access media content, self-assessments, and support through online communities, ensuring that help is available whenever they need it.\n\nMindFi operates in the realm of B2B mental health solutions, catering primarily to employers who recognize the importance of their teams' mental wellness. They provide real-time insights through an analytics dashboard to help organizations maintain a pulse on employee well-being, which is a considerable advantage over traditional EAPs that typically lag in responsiveness and adaptability.\n\nThe results speak for themselves. With a 40% active platform utilization rate (traditional EAPs often hover around a measly 0-5%), and 82% of employees noticing improvements in their well-being within just a month, MindFi is proving that a fresh approach can yield significant benefits. Their app is not only user-friendly but also engaging, making it easier for employees to seek help without the stigma often associated with mental health issues.\n\nAs for who can use MindFi? They are equipped to provide support across multiple countries in Asia and beyond, including Singapore, Malaysia, India, and even further afield to the USA and UK. They offer a free 14-day trial, making it easy for companies to see the benefits without any commitment.\n\nIn a landscape where mental health tools are often overlooked or inadequately funded, MindFi steps in as a much-needed ally for businesses and their employees. If you\u2019re seeking to bolster mental health initiatives in the workplace, MindFi is definitely worth a look. You can find more information and start your journey at [MindFi.co](https://www.mindfi.co).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/08feefa190995c5b643304bbb2c84ddac9d4ea50.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191537Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=af53144b9207217360a19b9bd0b0c7d71e25c8f39604277cd34fd4a0fee7a6ce",
+    "social_links": [
+        "https://sg.linkedin.com/company/mindfi.co",
+        "https://twitter.com/mindfico",
+        "https://www.facebook.com/mindfico"
+    ],
+    "logo_path": "data/logos\\MindFi_logo.png"
+}

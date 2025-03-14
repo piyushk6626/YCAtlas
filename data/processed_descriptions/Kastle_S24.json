@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/kastle",
+    "name": "Kastle",
+    "headline": "AI agents for mortgage servicing",
+    "batch": "S24",
+    "description": "Kastle is an AI voice agent for mortgage servicing. We help servicers collect payments, verify new borrowers, and qualify new loan inquiries over the phone. \r\n\nRishi and Nitish met at UIUC where they graduated with degrees in systems engineering and computer science.  Rishi was the founding Product Manager for Redfin\u2019s Mortgage Marketplace at 22 and grew the business from $3M to $6M in revenue in 9 months. Nitish patented Verkada\u2019s motion search system and was the youngest tech lead at the company at 23.\r\n\nWhile building Redfin's Mortgage Marketplace Rishi realized traditional lenders didn't have the infrastructure to service online inquiries and were losing customers. Nitish and Rishi are building Kastle to help traditional financial services companies better interface with their customers.",
+    "activity_status": "Active",
+    "website": "https://kastle.ai/",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Rishi Choudhary, Founder",
+            "description": "Rishi is the co-founder and CEO of Kastle (www.kastle.ai)\n\nBefore Kastle, Rishi was the founding Product Manager for Redfin\u2019s Mortgage Marketplace at age 22 and grew the business from $3M to $6M in revenue in 9 months. He also led Redfin's Search Experience team responsible for 80% of the company's traffic. \n\nRishi has a BS in Systems Engineering from the University of Illinois at Urbana Champaign. At UIUC, Rishi ran the largest US student consulting club with 250 students and $500K ARR",
+            "linkedin": "https://www.linkedin.com/in/choudharyrishi/"
+        },
+        {
+            "name": "Nitish Poddar, Founder",
+            "description": "Nitish is the co-founder and CTO of Kastle (kastle.ai). Before Kastle, Nitish was a tech lead at Verkada, where he led development for a patented motion search system and built out the entire backend inference infrastructure. He also led the firmware delivery team on a new fleet management system and led engineering for Incident Management, Verkada's newest product line. Nitish graduated from UIUC with a degree in Computer Science.",
+            "linkedin": "https://www.linkedin.com/in/nitish-poddar/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Kastle: AI-Driven Mortgage Servicing**\n\nFounded in 2024 and part of Y Combinator's Batch S24, Kastle is on a mission to revolutionize mortgage servicing through intelligent AI agents. Co-founded by Rishi and Nitish\u2014both graduates of the University of Illinois at Urbana-Champaign\u2014they leverage their impressive backgrounds to tackle inefficiencies in the industry. Rishi previously helped scale Redfin\u2019s Mortgage Marketplace significantly in just nine months. Nitish, a patented innovator, made waves as the youngest tech lead at Verkada.\n\nKastle began as an AI voice agent designed specifically for mortgage servicing, tackling issues like payment collection, borrower verification, and loan inquiry qualification\u2014all over the phone. Recognizing that traditional lenders are often bogged down by outdated infrastructure, Rishi and Nitish aimed to bridge the gap between these institutions and their customers through seamless, automated interactions.\n\n### What Kastle Does\n\nTheir AI agents operate 24/7, managing customer interactions through calls, texts, emails, and web chats. This not only enhances customer experience but also drives retention and facilitates collections. Key features include:\n\n- **Payments & Escrow**: Handling inbound requests without the need for after-hours staffing.\n- **Outbound Collections**: Providing easy payment options for customers in early delinquency.\n- **Sales Support**: Qualifying new and repeat borrowers with real-time responses.\n\nKastle prides itself on security, ensuring compliance with mortgage regulations while protecting sensitive customer data. Their technology integrates smoothly with existing systems\u2014on-premises and in the cloud\u2014allowing clients to avoid vendor lock-in and extensive overhauls.\n\n### The Future of Kastle\n\nWith a compact team of just two, Kastle is small but mighty. They\u2019ve already achieved accolades such as winning LendingTree's Innovation Challenge, showcasing their potential to positively impact businesses and consumers alike. Their promise? Cost savings of up to 80% per call\u2014evidence that transforming traditional industries can be both efficient and profitable.\n\nIf you're curious about how AI can enhance your mortgage business, visit [Kastle\u2019s website](https://kastle.ai/) and consider booking a demo. The future of mortgage servicing is here, and it speaks with a voice powered by Kastle.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1c394a3b78aafb6f3f380c63158329a76da4aa6f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191448Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2918ca18a612999c10b784281806f02a4003f1439b0f4a951f3b9a7dbd092334",
+    "social_links": [
+        "https://www.linkedin.com/company/kastleai/",
+        "https://www.crunchbase.com/organization/kastle"
+    ],
+    "logo_path": "data/logos\\Kastle_logo.png"
+}

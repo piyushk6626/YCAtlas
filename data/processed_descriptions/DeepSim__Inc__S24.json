@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/deepsim-inc",
+    "name": "DeepSim, Inc.",
+    "headline": "An AI physics simulator for AI chip design",
+    "batch": "S24",
+    "description": "DeepSim is building an AI physics simulator. We are currently developing the only thermal simulator to meet AI chip design needs and are validating our tool with Intel. We are a team of three electrical engineering PhDs from Stanford with backgrounds in semiconductor fabrication and design.",
+    "activity_status": "Active",
+    "website": "https://www.deepsim.io",
+    "founded_date": 2020.0,
+    "team_size": 3.0,
+    "location": "Mountain View",
+    "group_partner": "David Lieb",
+    "group_partner_yc": "https://www.ycombinator.com/people/david-lieb",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:semiconductors; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Connor McClellan, Founder",
+            "description": "Stanford EE PhD grad now building an AI physics simulation platform at DeepSim to solve the frustrating parts of my PhD. I'm also really into espresso making and will be happy to make you your best cup of coffee.",
+            "linkedin": "https://www.linkedin.com/in/connor-j-mcclellan"
+        },
+        {
+            "name": "Alexander Gabourie, Founder",
+            "description": "Alex is a co-founder of DeepSim, Inc., where he develops AI physics simulators. He earned his PhD in Electrical Engineering from Stanford, specializing in nanoscale thermal simulations, and brings over a decade of experience in the semiconductor industry.",
+            "linkedin": "https://www.linkedin.com/in/alexgabourie/"
+        },
+        {
+            "name": "Chuck Koroglu, Founder",
+            "description": "Stanford EE PhD with background in semiconductor engineering, and physics modeling of integrated circuits. Excited about transforming the landscape of engineering simulations with new technology that combines physics, experimental data and AI.",
+            "linkedin": "https://www.linkedin.com/in/ckoroglu/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**DeepSim, Inc. Overview**\n\nDeepSim, Inc., founded in 2020 and located in Mountain View, California, is carving out a niche in the semiconductor industry by developing a cutting-edge AI-driven physics simulator specifically designed for AI chip design. Initially known simply as DeepSim, the company is now on the forefront of providing the first dedicated thermal simulator that aligns with the emerging needs of AI chip engineers, and they are already validating their tool in collaboration with tech giant Intel.\n\nThe company is spearheaded by a tightly-knit team of three Stanford-educated electrical engineering PhDs\u2014Connor McClellan (CEO), Alex Gabourie (CTO), Cagil (Chuck) Koroglu (Chief Scientist), and Fiona Wang (CPO). This powerhouse team brings a wealth of experience in semiconductor fabrication and design, making them uniquely equipped to tackle the complexities of chip design.\n\n**Mission and Vision**\n\nThe mission at DeepSim is straightforward: to enhance engineering productivity through lightning-fast, multi-scale physics simulations. They offer an innovative simulation platform that automates and simplifies the setup processes typically required in chip design. This allows engineers to devote more time to strategic design choices rather than getting bogged down in tedious simulation logistics.\n\n**Key Features**\n\nWhat sets DeepSim apart is its ability to handle simulations that are approximately 1000 times larger than what is possible with traditional tools. By leveraging a custom GPU-accelerated simulation pipeline, their platform provides high-resolution insights that span from nano to macro scales\u2014essential for modern semiconductor development.\n\n**Engagement with Ecosystem**\n\nDeepSim's participation in Y Combinator's Batch S24 highlights its credibility and the backing it has received from prominent partners, which also include collaborations with DARPA. With their robust technology and strategic alliances, DeepSim is poised to make substantial contributions to the semiconductor landscape, particularly in AI application areas.\n\n**Conclusion**\n\nDeepSim, Inc. is not just about creating software; it's about redefining what\u2019s possible in chip design through advanced simulation techniques. Their commitment to empowering engineers by enhancing productivity and enabling greater design insight is setting the company on a path to shape the future of semiconductor technology, one simulation at a time.   \n\nFor more information or to get in touch, visit [DeepSim's website](https://www.deepsim.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/76b7eac32ae8fc6c46c6d3c9b21d4d7bcf7e305a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191115Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2bdcd99180db3ea57e6ea7c6c3106c29186fd747acdc8f93a2be9ae8a18f7a78",
+    "social_links": [
+        "https://www.linkedin.com/company/deepsim-inc/"
+    ],
+    "logo_path": "data/logos\\DeepSim,_Inc._logo.png"
+}

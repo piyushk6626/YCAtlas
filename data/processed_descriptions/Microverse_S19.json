@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/microverse",
+    "name": "Microverse",
+    "headline": "Training and connecting untapped talent with global opportunities",
+    "batch": "S19",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://www.microverse.org",
+    "founded_date": null,
+    "team_size": 35.0,
+    "location": null,
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:education; industry:remote",
+    "founders": [
+        {
+            "name": "Ariel Camus, Founder",
+            "description": "Founder of Microverse (YC S19), a global school for remote software developers that is free until you get a job. Previously Tourist Eye co-founder (acq. by Lonely Planet).",
+            "linkedin": "https://www.linkedin.com/in/arielcamus"
+        }
+    ],
+    "status": true,
+    "generated_description": "Microverse is on a mission to train and connect untapped global talent with opportunities that can change lives. Founded as part of Y Combinator\u2019s Batch S19, this innovative company has positioned itself as a bridge for aspiring developers worldwide. With a team of 35 dedicated employees, Microverse operates entirely online, embracing the future of remote work.\n\nThe company's primary offerings include a Full-Stack Web Development Program and Leap, an online English school designed specifically for developers looking to improve their language skills and gain confidence to land lucrative jobs. Currently, the Full-Stack program is undergoing updates, temporarily pausing new enrollments, but the promise of equipping individuals to become remote software engineers remains a cornerstone of their philosophy.\n\nMicroverse is trusted by major companies globally, including giants like Microsoft, HSBC, and IBM, signifying credibility and connection to the wider tech job market. Their model thrives on collaboration, where students not only learn but also support each other, fostering accountability and communal growth.\n\nIn essence, Microverse isn\u2019t just an educational platform; it\u2019s a community-driven initiative aimed at elevating lives through tech education and global job connectivity. As they expand their offerings, the potential for impact only grows, making them a noteworthy player in the space of online education for tech professionals. \n\nFeel free to check out their website for more insights: [Microverse](https://www.microverse.org).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/49f52eacecf9e9f1076220e896f033e5c877220c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191536Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b745fa1e7f34fea32a65da41047c322f043b214c03da9f15e399bdf58a6dc131",
+    "social_links": [
+        "http://twitter.com/microverseinc",
+        "https://www.crunchbase.com/organization/microverse",
+        "https://github.com/microverseinc"
+    ],
+    "logo_path": "data/logos\\Microverse_logo.png"
+}

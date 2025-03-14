@@ -1,0 +1,35 @@
+{
+    "Links": "https://www.ycombinator.com/companies/olive",
+    "Name": "Olive",
+    "Headline": "Build internal tools for your database with natural language.",
+    "Batch": "W25",
+    "Description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
+    "Activity_Status": "Active",
+    "Website": "https://fromolive.com",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "Group_Partner": "Gustaf Alstromer",
+    "Company_Linkedin": "https://www.linkedin.com/company/fromolive",
+    "Company_Twitter": "",
+    "Tags": "industry:artificial-intelligence; industry:developer-tools; industry:b2b; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/fromolive"
+    ],
+    "logo_path": "data\\logos\\Olive.png",
+    "Active_Founders": [
+        {
+            "Name": "Bardia Safari, Founder",
+            "Description": "CEO of Olive. Previously built Fundsy\u2014financial services (cards, payments, donations) platform for nonprofit fiscal sponsorship & operations. Former intern at Amazon (worked on internal HR tool) and JuiceMind (collaborative coding education product for schools). ex-Stanford.",
+            "LinkedIn": "https://linkedin.com/in/bardiasafari"
+        },
+        {
+            "Name": "Shrey Gupta, Founder",
+            "Description": "CTO of Olive. Previously built internal tools used to service over 400,000 cardholders/year at Capital One. Also was a SWE intern at Campsite (workplace communication startup acq'd by Notion) and NASA (satellite data infra org). Co-founded Fundsy in 2020, helping people start and fundraise for grassroots community projects. UC Davis CS dropout.",
+            "LinkedIn": "https://linkedin.com/in/shreyguptaoc"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Meet Olive: Simplifying Internal Tool Creation with Natural Language**\n\nFounded in 2024 and part of Y Combinator's W25 batch, Olive is on a mission to revolutionize how companies build their internal tools. Located in the heart of San Francisco, this nimble startup, comprised of a team of just two, aims to eliminate the complexity often associated with internal tool development.\n\n### What Does Olive Do?\n\nOlive leverages artificial intelligence to connect with your databases and third-party services, enabling users to generate admin dashboards and support tools in mere minutes\u2014all through natural language commands. Think of it as a smart assistant for your data, facilitating a seamless creation of the tools you need without the usual overhead.\n\n### Key Features\n\n- **Ease of Use:** Simply describe what you need, and Olive will understand your intention, connecting with your existing systems to create production-grade tools swiftly.\n- **Powerful Integrations:** Olive supports connections to various databases and APIs, ensuring that your tools are tailored to your specific data landscape.\n- **Automatic Updates:** The platform proactively manages changes to your database schema, keeping your tools up to date effortlessly.\n- **Enterprise Solutions:** For larger organizations, Olive offers on-premises deployment, integrating directly with existing infrastructure.\n\n### Backing and Vision\n\nWith Gustaf Alstromer as their Group Partner in Y Combinator, Olive is positioned at the forefront of the burgeoning field of developer tools, particularly in the B2B space. Their emphasis on artificial intelligence not only streamlines processes but also empowers teams to focus more on their core products rather than get bogged down by tool development.\n\nIn essence, Olive is not just another tool\u2014it's a vision for the future where internal tool creation can be as easy as having a conversation. If you\u2019re looking to simplify how you manage and utilize your data, request early access and witness how Olive can transform your internal processes. \n\nFor more details, visit their website at [fromolive.com](https://fromolive.com)."
+}

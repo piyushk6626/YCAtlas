@@ -1,0 +1,49 @@
+{
+    "links": "https://www.ycombinator.com/companies/superb-ai",
+    "name": "Superb AI",
+    "headline": "Superb AI is a training data management platform",
+    "batch": "W19",
+    "description": "Superb AI helps you effortlessly label, manage, and curate training datasets for computer vision and makes rapid, consistent iteration a reality.",
+    "activity_status": "Active",
+    "website": "https://www.superb-ai.com",
+    "founded_date": 2018.0,
+    "team_size": 90.0,
+    "location": "San Mateo, CA",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:deep-learning; industry:saas; industry:b2b; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Hyun Kim, Founder",
+            "description": "- Co-founder, CEO @ Superb AI ('18-now)\n- AI Engineer @ SK Telecom ('16-'18)\n- Duke University, B.S / Ph.D. dropout",
+            "linkedin": "https://www.linkedin.com/in/hyunsoo-kim-a60557b2/"
+        },
+        {
+            "name": "Moonsu Cha, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/moonsucha/"
+        },
+        {
+            "name": "Jonghyuk Lee, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/jonghyuk-lee-5612a312a"
+        },
+        {
+            "name": "Jungkwon Lee, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/jung-kwon-lee-67a36a152/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Superb AI, founded in 2018 and part of Y Combinator\u2019s W19 cohort, is revolutionizing how organizations manage their training data. Based out of San Mateo, CA, this team of 90 employees is dedicated to making the process of labeling, managing, and curating training datasets for computer vision both effortless and swift. \n\nTheir core mission is straightforward: they want to enable rapid iterative cycles when it comes to AI development. The platform is designed for businesses looking for a one-stop shop\u2014from data curation to model deployment\u2014streamlining what has traditionally been a cumbersome process.\n\nSuperb AI is gaining traction with numerous recognizable clients, including giants like Samsung, Hyundai, and Toyota, among others. These partnerships reflect the company's capacity to cater to diverse industries, from digital platforms to automotive manufacturing\u2014there's a strong demand for enhanced AI solutions.\n\nThey offer a range of products and services aimed at simplifying AI development, including tools for data automation, analysis, and model management. Within just six weeks, businesses can engage with their experts to build tailored AI models, ensuring a smooth adoption process.\n\nMichael Seibel, a notable figure in the startup ecosystem, serves as their Group Partner, further solidifying their reputation in the tech community.\n\nIf you\u2019re curious to learn more about their offerings or want to dive into the world of AI, you can visit their website at [Superb AI](https://www.superb-ai.com). What they\u2019re doing isn\u2019t just cool\u2014it\u2019s necessary for businesses ready to scale their AI capabilities.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/cb8576f2c3a4645f52525514a006a707659454f9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191956Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=26a27399d6b5ac156932d6b51cd024f397c51f1581845040b84b865e64481618",
+    "social_links": [
+        "https://www.linkedin.com/company/superb-ai",
+        "https://twitter.com/superb_hq",
+        "https://www.crunchbase.com/organization/superb-ai",
+        "https://github.com/Superb-AI-Suite"
+    ],
+    "logo_path": "data/logos\\Superb_AI_logo.png"
+}

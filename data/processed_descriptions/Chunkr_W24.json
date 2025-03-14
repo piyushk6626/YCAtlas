@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/chunkr",
+    "name": "Chunkr",
+    "headline": "Open source API service to parse complex documents",
+    "batch": "W24",
+    "description": "Battle-tested + highly modular vision infrastructure to convert PDFs, PPTs, Word, Excel, PNG, and JPEGs into LLM-ready data. \r\n\nWe started by building lumina.sh - where we needed to parse ~600M pages of scientific literature. The researchers didn't care - but devs wanted our ingestion pipeline. So we built chunkr instead. \r\n\nWe offer high quality layout analysis, OCR, bounding boxes, granular VLM controls, semantic chunking, and all the last mile engineering that goes into building standout AI applications. Common use-cases include RAG, and automating document workflows like invoices/medical reports -> database.",
+    "activity_status": "Active",
+    "website": "https://chunkr.ai/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "San Francisco",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:computer-vision; industry:open-source; industry:data-engineering; industry:enterprise-software; industry:search; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Mehul Chadda, Founder",
+            "description": "Co-founder & CEO at Chunkr.\n\nI have a background in metrology and a bsc in materials engineering. I work on helping computers read documents now.",
+            "linkedin": "https://www.linkedin.com/in/mehul-chadda-9157472a9/"
+        },
+        {
+            "name": "Ishaan Kapoor, Founder",
+            "description": "co-founder @ lumina",
+            "linkedin": "https://linkedin.com/in/ishaan-kapoor99"
+        },
+        {
+            "name": "Akhilesh Sharma, Founder",
+            "description": "Co-Founder @ Lumina\nI am a mechanical engineer from the University of Illinois Urbana Champaign. I have experience in robotics and as a cloud solutions architect.",
+            "linkedin": "https://linkedin.com/in/akhilesh-sharma-82151b1a5"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Chunkr: Simplifying Document Processing**\n\nFounded in 2023 and nestled in the heart of San Francisco, Chunkr is an innovative startup emerging from Y Combinator\u2019s Winter 2024 batch. With a keen mission to democratize access to document intelligence, Chunkr offers an open-source API service designed to convert complex documents into LLM-ready formats. This means you can take all sorts of documents\u2014think PDFs, Word files, PowerPoints, or even images\u2014and seamlessly parse them into a format that's ready for machine learning and AI applications.\n\n### The Story Behind Chunkr\n\nThe seed for Chunkr was planted through an earlier project called lumina.sh, born out of the need to parse an astonishing 600 million pages of scientific literature. Interestingly, while researchers had minimal interest in our parsing capabilities, software developers lined up to learn about our ingestion pipeline. This developer-centric feedback ultimately inspired the creation of Chunkr\u2014a highly modular and efficient infrastructure for document parsing.\n\n### What We Offer\n\nChunkr stands out by providing:\n- **High-Quality Layout Analysis**: Identify and categorize document segments like titles, tables, pictures, and lists.\n- **Multi-Lingual OCR**: Extract text across languages, making it versatile for global applications.\n- **Semantic Chunking**: Maintain the context and meaning within chunks of data, ensuring AI models can interpret it effectively.\n- **Flexible File Handling**: Process various document formats, whether they are uploaded directly, served via URLs, or converted into base64.\n- **Last-Mile Engineering**: Built on Rust, Chunkr operates with exceptional speed and reliability, boasting an error rate of under 0.05%.\n\n### Use Cases\n\nChunkr enables applications ranging from rapid automated document workflows\u2014like converting invoices or medical reports into structured databases\u2014to powering document retrieval systems (RAG) for research or enterprise needs.\n\n### Pricing Structure\n\nChunkr offers a scalable pricing model beginning with a free tier (100 credits/month for 200 pages) to meet the needs of developers and enterprises alike. Plans increase in credits based on usage, allowing for flexibility as your document processing needs grow.\n\n### Team and Support\n\nWith a nimble team of three and guided by Group Partner Harj Taggar of Y Combinator, Chunkr is positioned to deliver dedicated and responsive support, whether through community channels or personalized enterprise solutions.\n\n### Conclusion\n\nChunkr is not just a tool; it\u2019s a comprehensive solution for anyone looking to take advantage of the immense data locked within complex documents. If you\u2019re a developer looking to integrate cutting-edge document processing capabilities into your AI applications, or an enterprise wanting to streamline workflows, Chunkr is ready to help. Dive into the details on their [website](https://chunkr.ai/). \n\nIn essence, Chunkr embodies the spirit of modern document intelligence\u2014agile, open-source, and designed to harness the power of automated data processing.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/48a9e7eaea489b399ad62c99eb6140e1f6582c1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191049Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c295fdc169509bf1274674631ba2c8de1ef0ef34bb86b670e249f4f62a5cac1c",
+    "social_links": [
+        "https://x.com/chunkrai",
+        "https://github.com/lumina-ai-inc/chunkr"
+    ],
+    "logo_path": "data/logos\\Chunkr_logo.png"
+}

@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/greptile",
+    "name": "Greptile",
+    "headline": "AI expert on your codebase that you can query via an API",
+    "batch": "W24",
+    "description": "Greptile is an AI that understands large codebases that you can query via an API. \r\n\nYou can:\r\n- Use it to chat with your codebase\r\n- Plug it into Jira to generate descriptions for tickets, into GitHub to get automate PR reviews etc. with full knowledge of the codebase\r\n- Build custom internal tools and automations on top of the API!\r\n\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.\r\n\nToday, 800+ software teams including Wombo, Metamask, Warp, Exa AI, Bland, Leya, and more use Greptile to accelerate their software development lifecycle.",
+    "activity_status": "Active",
+    "website": "https://www.greptile.com",
+    "founded_date": 2023.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Daksh Gupta, Founder",
+            "description": "Co-founder of Greptile - the AI expert that has full context of your codebase. \n\nI studied CS at Georgia Tech, and interned at Amazon, where I was so good that they named an Amazon locker after me.",
+            "linkedin": "https://linkedin.com/in/dakshg"
+        },
+        {
+            "name": "Soohoon Choi, Founder",
+            "description": "cofounder@greptile. math+cs@georgia tech.",
+            "linkedin": "https://linkedin.com/in/soohoonchoi"
+        },
+        {
+            "name": "Vaishant Kameswaran, Founder",
+            "description": "Founder @ Greptile. CS from Georgia Tech, minor in Linguistics.",
+            "linkedin": "https://linkedin.com/in/vaishant"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Greptile: Your AI Codebase Expert**\n\nFounded in 2023 and a part of Y Combinator's W24 batch, Greptile is based in the heart of San Francisco, bringing an innovative approach to software development teams. Their mission? To provide an AI expert that understands your entire codebase, accessible effortlessly via an API. \n\n**What Can You Do with Greptile?**\n\n1. **Chat with Your Codebase**: Picture querying your codebase just like chatting with a colleague. Need insights or clarifications? Greptile has you covered.\n   \n2. **Integrate with Popular Tools**: Seamlessly plug Greptile into **Jira** for crafting ticket descriptions or **GitHub** for automated pull request (PR) reviews. It understands the intricacies of your codebase, making automation smarter.\n   \n3. **Custom Tool Development**: With Greptile's API, you can build tailored internal tools and automations that suit your team's specific needs.\n\n4. **Deployment Flexibility**: Whether you prefer cloud options or need something more secure, Greptile can be hosted in 100% air-gapped environments.\n\n**Who\u2019s Using Greptile?**\n\nToday, over 800 software teams\u2014including notable names like Wombo, Metamask, and Exa AI\u2014are leveraging Greptile to enhance their software development lifecycles. The feedback is unanimously positive, with users highlighting its effectiveness in catching bugs and providing valuable insights in code reviews.\n\n**Why Greptile Stands Out**\n\n- **Depth of Understanding**: Unlike many tools, Greptile generates a detailed graph of your entire codebase, providing context that ensures its suggestions are relevant and actionable across over 30 programming languages.\n  \n- **Security**: Its design is security-first and SOC 2 compliant, making it a trusted choice for teams in sensitive sectors like healthcare and finance.\n  \n- **Affordable Pricing**: Greptile offers a straightforward pricing structure\u2014fixed monthly subscriptions for chat, while API requests and code reviews operate on a usage basis, making it scalable for growing teams.\n\n**Join the Movement!**\n\nGreptile is more than just a tool; it\u2019s a partner in your development journey. For teams wanting to ship faster without losing quality, Greptile's combination of automation, smart suggestions, and ease-of-use is hard to beat.\n\nCurious to see it in action? [Try Greptile for free](https://www.greptile.com) today\u2014there\u2019s no credit card required for the trial. As the software landscape evolves, having a savvy companion like Greptile might just be what you need to stay ahead.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/10287f22d57f57b81165efcf9377c04fbf46f4b5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191404Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d5b0ca75a3a2622db82810155959e99419518120ed1d1ca1603c7ec7bb34eef5",
+    "social_links": [
+        "https://linkedin.com/company/greptile",
+        "https://twitter.com/greptileai",
+        "https://github.com/greptileai"
+    ],
+    "logo_path": "data/logos\\Greptile_logo.png"
+}

@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/bluebook",
+    "name": "Bluebook",
+    "headline": "Self-driving accounting",
+    "batch": "W25",
+    "description": "Bluebook is building AI agents for accounting firms to accelerate research, reconciliations and monthly closings. We allow professionals to serve 200 clients instead of just 20. With research time cut by 30% accountants can provide more strategic advice to help their clients thrive. The 30 leading firms in the Nordics already use Bluebook.\r\n\nThe accounting industry faces a perfect storm: a massive CPA retirement wave (75% in the coming 15 years), increasing complexity from globalization and new regulations, and private equity consolidation driving productivity demands. LLMs enables software that can understand context, adapt to new scenarios, and handle complex accounting tasks with human-like reasoning - capabilities that traditional rule-based software lacks.",
+    "activity_status": "Active",
+    "website": "https://getbluebook.com",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": null,
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:b2b; industry:ai",
+    "founders": [
+        {
+            "name": "Jonathan Andersson, Founder",
+            "description": "Co-founder of Bluebook, leading sales and operations to get our products into users' hands. Started flipping scooters at 13 from my parents' garage and have been fascinated on building businesses ever since.",
+            "linkedin": "https://www.linkedin.com/in/jonathan-andersson1/"
+        },
+        {
+            "name": "Philip Andersson, Co-Founder",
+            "description": "Self-taught AI builder and seasoned founder. Developed my first webpage at age 8, founded my first company at 17, built a software consultancy generating millions in revenue, exited a product company, launched many failures. Last years spent as engineering leader at startups such as FirstVet, Mindler and Epidemic Sound.",
+            "linkedin": "https://linkedin.com/in/phiandersson"
+        },
+        {
+            "name": "Filip St\u00e5l, Founder",
+            "description": "Self-taught programmer and college dropout. Started working at 14 and haven\u2019t been able to slow down ever since. For the past 4 years I've been studying physics while building AI systems for startups (Lovable amongst others) in the Stockholm area.",
+            "linkedin": "https://www.linkedin.com/in/filip-st%C3%A5l-464849229/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Bluebook: The Future of Accounting Starts Here**\n\n**Mission:** Bluebook is on a mission to revolutionize the accounting sector with self-driving accounting solutions, leveraging AI to boost efficiency and effectiveness in accounting practices.\n\n**Foundation and Background:** Launched in 2024 and part of Y Combinator's Batch W25, Bluebook started by building AI agents aimed at accounting firms. These agents help streamline crucial tasks such as research, reconciliations, and monthly closings, allowing accountants to manage up to 200 clients instead of just 20. With research time reduced by 30%, professionals can offer more strategic advice, ultimately helping their clients thrive. Notably, 30 leading firms in the Nordics are already adopting Bluebook\u2019s technology.\n\n**The Challenge in Accounting:** The accounting industry faces immense pressure due to a looming wave of CPA retirements (with 75% expected to retire in the next 15 years), increasing global complexities, and the demands driven by private equity consolidation. Traditional software often falls short, but large language models (LLMs) provide the necessary capabilities\u2014context understanding, adaptability, and human-like reasoning\u2014to tackle these challenges head-on.\n\n**Key Offerings:**\n- **Streamlined Workflows:** Automate repetitive tasks and optimize processes with intelligent workflows designed specifically for accountants.\n- **Anomaly Detection:** Conduct monthly reviews with impressive speed, improving accuracy and freeing up time for strategic advisory roles. \n- **Invoice Processing:** Automate supplier invoice workflows from data extraction to approval, minimizing manual errors and saving time.\n- **Grounded Research:** Provide comprehensive answers to complex accounting questions, supported by reliable sources.\n\n**Current Status:** Based in [insert location here], Bluebook has a tight-knit team of four, with Gustaf Alstromer as their Group Partner. The company operates in the fintech space, uniquely intersecting B2B services and AI.\n\n**Fundraising Success:** Recently, Bluebook secured a $3 million pre-seed funding round led by EQT Ventures, positioning itself for significant growth as it aims to transform the accounting landscape.\n\n**Why Choose Bluebook?**\n- **Futuristic Yet Familiar:** Offers a sleek and intuitive interface that prioritizes reliability and user experience.\n- **Scalability:** Adapts to processes, regulations, and client needs as firms grow.\n- **Active Solutions:** Instead of merely retrieving data, Bluebook's AI agents execute tasks, delivering real results.\n- **Real-World Insight:** Collaborates closely with top accounting firms, continually refining its models to enhance relevance and accuracy.\n\n**Join the Movement:** Bluebook is at the forefront of a transformative wave in accounting. If you\u2019re ready to be part of the future, check them out at [getbluebook.com](https://getbluebook.com).\n\nIn a nutshell, Bluebook isn\u2019t just providing another piece of software. It's building the future of accounting\u2014automated, efficient, and ready to tackle the complexities of tomorrow\u2019s business environment.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/820da1484505f5db25dfc65c1172ab4cb06e8253.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191028Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d2ba665960f59535a2dd92300618953d07fa41f275bed2904c34c115fb3abe24",
+    "social_links": [
+        "https://www.linkedin.com/company/bluebook-accounting",
+        "https://x.com/bluebookhq"
+    ],
+    "logo_path": "data/logos\\Bluebook_logo.png"
+}

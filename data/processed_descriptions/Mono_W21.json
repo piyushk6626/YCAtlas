@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/mono",
+    "name": "Mono",
+    "headline": "Plaid for Africa, but better.",
+    "batch": "W21",
+    "description": "We allow companies to access data from their customers bank accounts and allow them to debit money from these same bank accounts.",
+    "activity_status": "Active",
+    "website": "https://mono.co",
+    "founded_date": 2020.0,
+    "team_size": 10.0,
+    "location": "Lagos, Nigeria",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech",
+    "founders": [
+        {
+            "name": "Abdulhamid Hassan, Founder",
+            "description": "CEO at Mono, Previously a product manager at Paystack",
+            "linkedin": "https://www.linkedin.com/in/ijbkid/"
+        },
+        {
+            "name": "Prakhar Singh, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/prakharsgh/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Mono Overview: Fintech for Africa**\n\nFounded in 2020 and hailing from Lagos, Nigeria, Mono positions itself as \u201cPlaid for Africa, but better.\u201d The company, which emerged from Y Combinator\u2019s Winter 2021 batch, is on a mission to streamline financial data access for businesses while ensuring a robust user experience. With a compact team of just ten people, Mono aims to simplify how companies interact with their customers' banking data.\n\n### What Does Mono Do?\n\nMono is a fintech platform that enables businesses to access their customers' banking data and directly collect payments from bank accounts. Their service is tailored specifically for African markets, providing reliable tools to handle financial data securely. The platform emphasizes no-code solutions, making it accessible for a variety of users\u2014from developers to enterprises.\n\n**Key offerings include:**\n- **Connect**: A tool for financial account linking.\n- **Statement Pages**: Allows businesses to collect bank statements without any coding.\n- **DirectPay**: Facilitates direct bank payments, eliminating the need for credit cards and reducing the risk of chargebacks.\n- **Portal**: For managing linked accounts.\n- **Percept**: Corporate finance management rolled into a single dashboard.\n\n### Why Choose Mono?\n\nMono's emphasis on security, reliability, and user consent is crucial. Their interface is designed for ease of use, making it simple for businesses to implement banking solutions without extensive technical debt. Their pricing is also crafted to be affordable, making it feasible for small to medium-sized enterprises as well as larger organizations.\n\n### Trust and Collaboration\n\nMono's success doesn't just hinge on technology; it's also about partnerships and customer trust. Noted brands like Carbon, Aella, and Evolve Credit have lauded the platform for its reliability and ease of integration. Users have reported seamless transitions to the Mono platform, reinforcing that the product works effectively in real-world applications.\n\n### Getting Started\n\nBusinesses can [get started for free](https://mono.co/signup) with Mono by accessing high-quality financial data and initiating bank payment processes within minutes. For support, there's a dedicated [Slack channel](https://mono.co/join.slack.com/t/devwithmono/shared_invite/zt-gvkqczzk-Ldt4FQpHtOL7FFTqh4Ux6A), highlighting Mono's commitment to customer assistance.\n\nIn a landscape where fintech solutions are proliferating, Mono stands out not just for its product features but also its understanding of the African financial ecosystem. As they build towards the future of digital finance, Mono is not just participating in the fintech wave\u2014it's shaping it, one bank statement at a time.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2d5dc358aef994cae088be983c24e7908bed5c79.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191546Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=adf1e05197421d44699429faaeca1616516f31ce28e30151f1c66e53b547d618",
+    "social_links": [
+        "https://www.linkedin.com/company/withmono",
+        "https://twitter.com/mono_hq",
+        "https://facebook.com/mono_hq",
+        "mono"
+    ],
+    "logo_path": "data/logos\\Mono_logo.png"
+}

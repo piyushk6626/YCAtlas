@@ -1,0 +1,42 @@
+{
+    "links": "https://www.ycombinator.com/companies/finny-ai",
+    "name": "FINNY AI",
+    "headline": "The OS for independent financial advisors",
+    "batch": "S24",
+    "description": "FINNY is building a new operating system for independent financial advisors, and starting by helping them grow.\r\n\nOur goal is to empower the best financial advisors (the independents!) to serve all Americans who want financial advice.  We are starting with growth, which is the most existential problem advisors face. \r\n\nThe organic growth process is highly inefficient and full of noise. Advisors often waste 60 hours of business development to convert 1 new client.  \r\n\nAt FINNY, we are certain we can do better with AI. With our tool, advisors can:\r\n- Identify prospects within their target niche, aggregating thousands of data points per lead\r\n- Prioritize prospects based on their predicted likelihood of converting, a score unique to each advisor and prospect pair\r\n- Automate the outreach and meeting scheduling with their high priority prospects\r\n\nIn essence, doing all the work for the advisors, and letting them focus on what actually matters, the client relationship.",
+    "activity_status": "Active",
+    "website": "https://www.finnyai.com/",
+    "founded_date": 2024.0,
+    "team_size": 4.0,
+    "location": "New York",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:machine-learning; industry:finance; industry:sales-enablement; industry:automation; location:new-york",
+    "founders": [
+        {
+            "name": "Eden Ovadia, Founder",
+            "description": "Eden is the Co-founder and CEO of FINNY.\n\nShe studied Software Eng. at McGill University with a focus on ML. Prior to starting FINNY, Eden was at BCG where she worked in Private Equity & Financial Services.",
+            "linkedin": "https://linkedin.com/in/edenovadia"
+        },
+        {
+            "name": "Theodore Janson, Founder",
+            "description": "Theo is the co-founder and CTO at FINNY. \nBefore FINNY, Theo worked as an applied ML engineer in an early Fintech startup, leading the development of statistical models and LLMs for automated financial analysis. He has also held research roles in LLM explainability and particle physics. Theo has degrees in electrical engineering and CS from Ecole Polytechnique (X) and McGill University.",
+            "linkedin": "https://linkedin.com/in/theodore-janson"
+        },
+        {
+            "name": "Victoria Toli, Founder",
+            "description": "Victoria is the co-founder and CPO of FINNY, an AI-driven growth engine for financial advisors. \n\nBefore FINNY, she was a Product Manager at Uber, where she led growth and international expansion for Uber One. She holds a BS in Symbolic Systems, Artificial Intelligence from Stanford. Victoria grew up in Athens, Greece.",
+            "linkedin": "https://www.linkedin.com/in/victoria-toli/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**FINNY AI: A Game Changer for Financial Advisors**\n\nFounded in 2024 and located in the bustling heart of New York, FINNY AI serves a definitive mission: to be the operating system for independent financial advisors. The brainchild of a four-person team, FINNY initially entered the stage as simply \"FINNY,\" focused on tackling an existential problem for advisors: growth.\n\n**The Challenge: Inefficiency in Growth**\n\nIndependent financial advisors face a daunting challenge. To onboard just one new client, they can expend up to 60 hours in business development. It\u2019s a high-stakes game filled with noise and missed opportunities. FINNY AI believes that with the power of artificial intelligence, they can turn this tide.\n\n**The Solution: AI-Driven Client Prospecting**\n\nFINNY AI's platform harnesses the vast expanse of data to empower financial advisors in ways that were never possible before:\n\n- **Prospect Identification**: Advisors can tap into thousands of data points to identify leads within their target niche. FINNY monitors life events\u2014like a job change or marriage\u2014that often trigger the need for financial advice.\n  \n- **Prospect Prioritization**: Using a unique scoring system dubbed the F-Score, prospects are ranked based on their conversion likelihood, tailoring the approach to each advisor\u2019s specific clientele.\n\n- **Automated Outreach**: FINNY AI takes on the heavy lifting by managing outreach efforts. Whether it's selecting the best channel or crafting personalized messages, the platform allows advisors to book meetings with interested clients efficiently.\n\nThis trio of capabilities means that financial advisors can focus on what they do best: nurturing client relationships.\n\n**Backed by Y Combinator**\n\nAs part of the Y Combinator Batch S24, FINNY AI recently celebrated a successful $4.3 million seed funding round, affirming its model and vision. Notably, it's on the radar of industry leaders and has received accolades for its innovative approach, including being named \"Best in Show\" at the 2024 Fintech Showcase.\n\n**Empowering the Independents**\n\nAt its core, FINNY AI champions independent financial advisors, aspiring to help them provide essential financial services to all Americans. By leveraging cutting-edge technology, they hope to cut through the noise of traditional prospecting methods and create an ecosystem where growth is not just a goal but a given.\n\nIf you're an advisor ready to revolutionize your practice, you can learn more about their offerings or book a demo at their website: [FINNY AI](https://www.finnyai.com/).\n\nIn summary, FINNY AI stands as a promising beacon for financial advisors, combining AI-driven insights with straightforward automation to redefine the way they connect with clients. Isn\u2019t it time to make financial advice accessible and efficient for all?",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a1e07cbcda581fb8ec72363ffd8441b2787d167d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191335Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=095a43bf70041348266ac160f15bc6eba4336f44b21fc2b9cac83e8f724fefde",
+    "social_links": [
+        "https://www.linkedin.com/company/finnyai/",
+        "https://www.crunchbase.com/organization/finny-6acf"
+    ],
+    "logo_path": "data/logos\\FINNY_AI_logo.png"
+}

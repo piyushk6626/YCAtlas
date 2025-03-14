@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/logisticsos",
+    "name": "LogisticsOS",
+    "headline": "World's fastest and most optimal route optimization engine",
+    "batch": "W21",
+    "description": "LogisticsOS provides route optimization and fleet dispatching algorithms as services to let any last-mile company offer same-day and next-hour delivery. We are the creators of the route optimization engine that both FedEx and USPS are using on production today. We increase profit per delivery by 15% and optimize thousands of deliveries in seconds using 30X faster algorithms.",
+    "activity_status": "Active",
+    "website": "https://logisticsos.com",
+    "founded_date": 2020.0,
+    "team_size": 6.0,
+    "location": "Ontario, CA",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:delivery; industry:logistics; industry:api; industry:cloud-computing",
+    "founders": [
+        {
+            "name": "Yuzhe Yan, Founder",
+            "description": "Hi there, I am Yuzhe. I am an algo expert and a C++ guru. Let me know how I can help.",
+            "linkedin": "https://www.linkedin.com/in/yuzheyan"
+        },
+        {
+            "name": "Tiangang Song, Founder",
+            "description": "Tech geek, ask me about any technologies. Also interested in many other fields like music, philosophy, psychology, physics, etc.",
+            "linkedin": "https://www.linkedin.com/in/tgsong/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### LogisticsOS: Revolutionizing Route Optimization\n\n**Overview**  \nFounded in 2020 and part of Y Combinator's W21 batch, LogisticsOS is on a mission to build the world\u2019s fastest and most optimal route optimization engine. Based in Ontario, CA, with a dedicated team of six, they've developed algorithms that empower any last-mile logistics company to provide swift delivery solutions\u2014like same-day and next-hour delivery.\n\n**What They Do**  \nLogisticsOS specializes in route optimization and fleet dispatching. Their remarkable technology boasts a computation speed that is 30 times faster than traditional algorithms and can optimize thousands of deliveries in mere seconds. Notably, their solutions currently power services used by industry giants like FedEx and USPS, driving down delivery costs by an impressive 15%.\n\n**Key Features**  \n- **Scalability:** Handle over 10,000 orders with enhanced quality.\n- **Feature-Rich:** Flexible solutions that support various operational constraints.\n- **Easy Integration:** A REST API that seamlessly fits into any existing system.\n- **Flexible Pricing:** Options range from pay-as-you-go to volume discounts, ensuring affordability as businesses expand.\n- **Lightning Fast:** Real-time optimization capabilities using effective algorithms paired with accurate map data from providers like OpenStreetMap and TomTom.\n\n**Use Cases**  \nLogisticsOS is not just about speed; it\u2019s about enhancing operational efficiency at scale. For delivery companies, this means fewer drivers, reduced travel time, and lower distances\u2014which ultimately cut costs. E-commerce businesses can quickly batch orders, allowing for faster same-day services. Transportation Management Systems (TMS) benefit from increased order handling capabilities, making entry into competitive markets easier.\n\n**Testimonials**  \nClients rave about the insights and quick solutions provided by LogisticsOS. Brian McIntosh, General Manager of A&B Courier, highlights the astonishing 60X faster response times achieved with their setup. As for Mathieu Br\u00e9mond from Stuart, he notes the flexible solver that adapts well across various operational models in different countries.\n\n**Conclusion**  \nIn a world where timely deliveries can make or break a business, LogisticsOS stands out as a powerful ally. With a fair pricing model, robust features, and client-centric innovations, they're turning logistics into a smooth, scalable operation. If you\u2019re ready to optimize your delivery processes, check out their website at [LogisticsOS](https://logisticsos.com) and consider requesting a demo today!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/a969e2cc0ae5cf7b7210e7c0b29391b854c19cc1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191513Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=96c8904d2dcab5251c6a1f6176d60431c01d66288a64a1bbcda60875cd41eade",
+    "social_links": [
+        "https://www.linkedin.com/company/logisticsos-inc"
+    ],
+    "logo_path": "data/logos\\LogisticsOS_logo.png"
+}

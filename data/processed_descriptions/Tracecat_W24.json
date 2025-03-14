@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/tracecat",
+    "name": "Tracecat",
+    "headline": "Open source Tines / Splunk SOAR alternative for security engineers.",
+    "batch": "W24",
+    "description": "Tracecat is the open source Tines / Splunk SOAR alternative.\r\n\nSecurity engineers use our platform to build AI-assisted workflows that automate investigations and incident response. We're building the easiest way for security teams to fight burnout and reduce mean time to respond.",
+    "activity_status": "Active",
+    "website": "https://tracecat.com",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:workflow-automation; industry:open-source; industry:cybersecurity; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Chris Lo, Founder",
+            "description": "CEO @ Tracecat (W24) the open source Tines / Splunk SOAR alternative for security engineers. Our vision is to create a more open, efficient, and maintainable way to automate security. Based in San Francisco. Working alongside my best friend since elementary school / cofounder / CTO.\n\nPreviously ML engineer at PwC building data-driven internal tools for security and fraud teams.",
+            "linkedin": "https://linkedin.com/in/chrislohy"
+        },
+        {
+            "name": "Daryl Lim, Founder",
+            "description": "Daryl Lim is the Co-Founder and Chief Technology Officer of Tracecat.\n\nPreviously, he worked on various observability, data and AI infrastructure teams at AMD, Meta, and a London-based quant trading firm. He earned a Bachelors and Masters degree in Computer Engineering from Imperial College London.",
+            "linkedin": "https://linkedin.com/in/daryllimyt"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Tracecat: The Open-Source Alternative for Security Automation**\n\nFounded in early 2024 as part of Y Combinator's Batch W24, Tracecat is a promising new player based in San Francisco, aiming to revolutionize security automation for engineers. With a compact team of just two people, it's evident that Tracecat is nimble and focused.\n\n**Mission and Vision**\nTracecat positions itself as an open-source alternative to Tines and Splunk's SOAR (Security Orchestration, Automation and Response) platforms. Its mission is straightforward: provide security engineers with a robust tool to automate investigations and incident responses, thereby reducing burnout and decreasing mean time to respond. In a world where security threats are ever-evolving, this is a much-needed solution.\n\n**Key Features**\nWhat makes Tracecat stand out is its configurable architecture. Users can create AI-assisted workflows that are as flexible as they are powerful. It offers:\n- Unlimited workflows that can be triggered via webhooks or run as scheduled tasks.\n- A low-code, user-friendly interface for building automations quickly.\n- Self-hosting capabilities with open-source deployment options via Docker, Terraform, or Kubernetes.\n- The ability to integrate with any API, coupled with pre-built integrations for better efficiency.\n\n**Why it Matters**\nIn the cybersecurity landscape, where speed and adaptability are key, Tracecat focuses on the needs of security teams. By allowing for unlimited workflows and customizable automations, it not only makes security operations more efficient but also empowers teams to tailor solutions to their specific processes rather than bending to fit rigid platforms. This is particularly appealing for engineering-minded security practitioners, managed detection and response (MDR) teams, and managed security service providers (MSSPs).\n\n**Backing and Community**\nWith Garry Tan as a group partner, Tracecat has reputable backing, promising a solid foundation for growth. The open-source nature invites collaboration and improvements from a community of developers and security engineers, enhancing its utility and robustness.\n\n**Final Thoughts**\nTracecat is not just another tool in the security quarterback's kit; it's a breath of fresh air for an industry often bogged down by clunky software and siloed processes. With its commitment to open-source principles and a clear dedication to solving real-world problems for security teams, Tracecat stands out as a highly relevant and promising alternative in the cybersecurity space.\n\nFor more information, check out their website at [Tracecat.com](https://tracecat.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c594244b2433e84e3a8b510d19753aadd0561058.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192023Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=805e285c354a3444e5dae7c472a977e8e3433ec41dc23697fe71e6e80baab3a0",
+    "social_links": [
+        "https://www.linkedin.com/company/tracecat-ai",
+        "https://twitter.com/TracecatAI",
+        "https://www.crunchbase.com/organization/tracecat",
+        "https://github.com/TracecatHQ/tracecat"
+    ],
+    "logo_path": "data/logos\\Tracecat_logo.png"
+}

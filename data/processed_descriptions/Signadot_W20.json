@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/signadot",
+    "name": "Signadot",
+    "headline": "Shift Left Testing for Microservices",
+    "batch": "W20",
+    "description": "Signadot is a Kubernetes-native platform that accelerates the development of microservices based applications. Using Signadot developers test and preview their code changes early in the development lifecycle and iterate 10x faster.",
+    "activity_status": "Active",
+    "website": "https://www.signadot.com/",
+    "founded_date": 2020.0,
+    "team_size": 8.0,
+    "location": "San Mateo, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:kubernetes; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Arjun Iyer, Founder",
+            "description": "My background is in distributed systems and Machine Learning. I graduated from IIT-Kharagpur and did my MS at UIUC. I've led large Engineering teams and am a lifelong learner. When not at work, I love to play tennis and spend time with my family!",
+            "linkedin": "https://www.linkedin.com/in/arjun-iyer-916332/"
+        },
+        {
+            "name": "Anirudh Ramanathan, Founder",
+            "description": "Technical Leader with a focus on distributed systems. I am passionate about containers, k8s and building better tools for systems of the future.",
+            "linkedin": "https://www.linkedin.com/in/anirudhrx/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Signadot**\n\nFounded in 2020, Signadot is a startup that emerged from the Y Combinator Batch W20, located in San Mateo, CA. The company stands on a mission to revolutionize software development by enhancing the testing processes for microservices through a philosophy known as \"Shift Left Testing.\" Essentially, this means catching errors and running tests earlier in the development life cycle, ultimately aiming to deliver better software faster.\n\n**What is Signadot?**\n\nSignadot offers a Kubernetes-native platform designed specifically to facilitate the development of microservices-based applications. By providing developers with the tools to quickly test and preview code changes early in the lifecycle, the platform boosts iteration speeds\u2014allowing teams to iterate up to 10 times faster than traditional methods. \n\nWith a compact team of just 8 employees, Signadot has managed to secure significant traction in a competitive field, primarily targeting developers and engineering teams looking to streamline their Continuous Integration/Continuous Deployment (CI/CD) workflows.\n\n**Core Features:**\n\n1. **Preview Environments:** Cost-effective previews for every code change, even when handling hundreds of microservices, utilizing a single multi-tenant cluster.\n   \n2. **AI-Powered Smart Testing:** This feature automates integration testing, continuously monitoring APIs to catch potential failures before code merges, which simplifies test writing and maintenance.\n\n3. **End-to-End Testing:** Ensures that regressions are identified early by running comprehensive E2E tests on every code change with popular frameworks like Selenium, Cypress, and Postman.\n\n**Operational Benefits:**\n\nSignadot claims to drastically reduce the time required for developers to test changes\u2014from an average of 30 minutes down to as little as 60 seconds. This not only accelerates the development process but also significantly enhances code quality and reliability. \n\nAs companies increasingly rely on microservices architecture, the importance of efficient and cost-effective testing solutions becomes paramount. Signadot advocates for a single environment that minimizes duplication and lowers cloud costs, a necessity in today\u2019s resource-conscious tech landscape.\n\n**Customer Experience:**\n\nFeedback from users like software engineers from DoorDash and technical leads from companies like ShareChat highlights dramatic improvements in development efficiency and confidence in releases. Users appreciate how Signadot removes bottlenecks, allowing for quicker previews and a culture of collaboration around product development.\n\n**Conclusion:**\n\nIn short, Signadot is positioning itself as a crucial tool for high-velocity engineering teams dealing with microservices. The streamlined, scalable testing solutions provided by Signadot not only help in catching issues early but also contribute to a substantial reduction in deployment-related headaches\u2014making it an essential ally in modern software development.\n\nFor more insights and to consider their offerings, you can visit their website: [Signadot](https://www.signadot.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e1105b83af25e892fd51db0b3b0aafc0a2d7536f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191927Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c194f7dfa9b28826a5815188915467606bc7830d91ee2ebeb4f12dd46c3e4957",
+    "social_links": [
+        "https://www.linkedin.com/company/signadot/",
+        "https://twitter.com/signadot",
+        "https://www.crunchbase.com/organization/signadot",
+        "https://github.com/signadot"
+    ],
+    "logo_path": "data/logos\\Signadot_logo.png"
+}

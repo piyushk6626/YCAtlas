@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/upshift",
+    "name": "Upshift",
+    "headline": "Turn your software product into a platform.",
+    "batch": "F24",
+    "description": "Upshift is tooling for plugin systems. We help product companies support extension points, which enable them and their users to build and share additional functionality on top of their core product offerings. Extensibility with Upshift drives more sales, better retention, and compounds value over time.\r\n\nUp until now, only the biggest companies have had the resources to build these types of systems because it can take years and massive upfront engineering investment to ship something. We cut the time-to-production down to weeks. And this will open up previously inaccessible possibilities for mid-sized businesses and fast-growing startups.\r\n\nWe know how to build it. For more than six years, Adam and Thomas have worked together as eng leaders, mastering our system integration expertise from Palantir and Candid Health. Our biggest win included converting an $823 million contract vehicle for the US Army, overhauling their entire data fabric.",
+    "activity_status": "Active",
+    "website": "https://upshift.dev",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "Charlotte, NC",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Adam Suskin, Founder",
+            "description": "CEO and co-founder of Upshift.\n\nFor 5+ years, I've worked as an eng lead at Palantir and Candid Health. I love helping other devs.\n\nAt Palantir, I was the tech lead of the US Army deployment that converted an $823 million contract vehicle.",
+            "linkedin": "https://www.linkedin.com/in/adamsuskin/"
+        },
+        {
+            "name": "Thomas Baker, Founder",
+            "description": "Hi there! I'm working on building Upshift with my best friend and previous coworker, Adam Suskin.\n\nAt Palantir, I created a no-code data integration product while working on a massive Army contract. I then joined Candid Health (YC W20) as an early software engineer and built a no-code rules engine to help them revolutionize medical billing.\n\nIn my free time I love cooking, brewing beer, all things DIY (especially homes and cars), and adventuring with my wife and two dogs!",
+            "linkedin": "https://www.linkedin.com/in/thomas-baker-457789129/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Upshift: Transforming Software Products into Ecosystems**\n\nFounded in 2024 and nestled in Charlotte, NC, Upshift is a dynamic player in the world of developer tools, specifically in the realm of software extensibility. Their mission? To enable businesses to transform their software products into thriving platforms. Think of a core product with the ability for users to create plugins, extensions, and add-ons that enhance its functionality. This isn\u2019t just a perk; it's a powerful strategy for driving sales and improving retention over time.\n\n### What They Do\n\nUpshift provides a robust solution for product companies to support extension points, which allows them (and their users) to innovate on top of existing software offerings. This is revolutionary because, until now, building such extensible systems has been a playground only for the largest firms, requiring years and hefty investment. Upshift cuts that time dramatically to mere weeks, making this capability accessible for mid-sized businesses and ambitious startups.\n\nAt the helm are Adam and Thomas, engineering leaders with over six years of collaboration and a proven track record in system integration, having honed their skills at organizations like Palantir and Candid Health. Their experience includes significant projects like modernizing the US Army\u2019s data infrastructure\u2014a clear testament to their capabilities.\n\n### Core Offerings\n\nUpshift focuses on:\n\n- **Easy, Safe Plugin Management:** They take the complexity out of managing plugins by offering type-safe orchestration that integrates seamlessly with various architectures.\n- **Ecosystem Growth:** By enabling community-centric features where users can collaborate and share plugins, the value of the product grows exponentially.\n- **Support and Maintenance:** Upshift tackles common concerns head-on\u2014like third-party code safety, upgrade issues, and monetization\u2014which historically have made extensibility daunting for many developers.\n\n### Reach Out\n\nIf you\u2019re looking to empower your product and community while unlocking new revenue streams, Upshift invites you to connect. Whether you\u2019re a mid-market company or a high-growth startup, their framework is designed to enable significant adaptability without the long wait times or overwhelming costs usually associated with such systems.\n\nFor more information or to get in touch, visit their website [upshift.dev](https://upshift.dev) and explore the potential of transforming your software into a lively ecosystem. The future of your platform starts here.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f919818f8b4d104fa39dd209fb452978f4d5eb68.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=da412d0affe1f5f657058a5f85283db6685f01a7e1da77e4a559294c6c94dc14",
+    "social_links": [
+        "https://www.linkedin.com/company/upshift-dev/"
+    ],
+    "logo_path": "data/logos\\Upshift_logo.png"
+}

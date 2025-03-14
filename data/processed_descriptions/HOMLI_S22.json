@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/homli",
+    "name": "HOMLI",
+    "headline": "Modern real estate brokerage for Europe",
+    "batch": "S22",
+    "description": "Launched in 2022, HOMLI is a modern, scalable real estate brokerage that helps European consumers sell, rent, and buy real estate.\r\n\nWe are building Europe's first 'Zestimate' platform to finally bring transparency around property prices and neighborhood dynamics to all consumers across Europe. We couple that with an in-house brokerage team that is more effective, more productive, and more pleasant to work with.\r\n\nWe combine the most advanced technological innovations with a holistically new approach to operations to re-invent a brokerage industry that hasn't evolved in decades, and introduce a brand new real estate experience for European consumers.",
+    "activity_status": "Active",
+    "website": "https://thehomli.com",
+    "founded_date": 2021.0,
+    "team_size": 20.0,
+    "location": "New York",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:machine-learning; industry:real-estate; industry:consumer; industry:proptech; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Antonis Mitropoulos, Founder",
+            "description": "Antonis is a Co-Founder at HOMLI. Prior to HOMLI, he focused on launching and scaling tech ventures through his work at McKinsey's New York Office, and SoFi's strategy team. He holds an MBA from MIT, and a Master's in Computer Engineering from the National Technical University of Athens.",
+            "linkedin": "https://www.linkedin.com/in/antonis-mitropoulos/"
+        },
+        {
+            "name": "Tim Ioannidis, Founder",
+            "description": "Tim is a Co-Founder at HOMLI. Prior to HOMLI, he spent almost a decade working in the fields of finance, machine learning and software development. He was the Co-Founder of a successful software consulting agency and has additionally experience working in quantitative finance with tenures at Morgan Stanley and Ellington Management Group. At HOMLI, he's leading our technology team. He holds a PhD and an MBA from MIT as well as a Master's from the National Technical University of Athens.",
+            "linkedin": "https://www.linkedin.com/in/tim-ioannidis/"
+        },
+        {
+            "name": "Nikos Legbelos, Founder",
+            "description": "Nikos is a Co-Founder at HOMLI. Prior to HOMLI, he worked at McKinsey & Company as an Engagement Manager, at Amazon as an Operations Manager in one of the largest fulfillment centers in the US, and at a US engineering firm advising nuclear power plants on safety topics. He holds an MBA from the MIT Sloan School of Management, an MEng in Structural Engineering from MIT, and an MSc in Civil Engineering from the Aristotle University of Thessaloniki.",
+            "linkedin": "https://www.linkedin.com/in/nlegbelos/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: HOMLI**\n\nFounded in 2021, HOMLI is a modern real estate brokerage based in New York, geared toward revolutionizing how Europeans buy, sell, or rent properties. The company was launched in 2022 and is part of Y Combinator's Batch S22, showcasing an innovative approach to the traditionally sluggish real estate sector.\n\n**Mission and Vision**\n\nHOMLI aims to be Europe\u2019s go-to platform for real estate transactions, shattering the opacity around property prices and neighborhood dynamics through their ambitious \"Zestimate\"-like platform. With a mission to enhance transparency and accessibility for consumers, they're not just another brokerage; they aspire to create a seamless and pleasant experience for their users.\n\n**Key Services**\n\nHOMLI offers a suite of services that includes:\n- **Valuation**: Get an accurate assessment of property worth.\n- **Sell**: Facilitates the sale of homes, connecting homeowners with interested buyers.\n- **Buy**: A marketplace for individuals looking to acquire properties, featuring new builds to off-market opportunities.\n- **Rent**: Connects landlords with pre-screened tenants, ensuring a hassle-free rental process.\n\nBy bootstrapping advanced technology with a fresh operational methodology, HOMLI intends to redefine the brokerage industry, which has stayed largely static for decades.\n\n**Team and Culture**\n\nHOMLI currently operates with a competent team of 20 employees under the guidance of their group partner, Jared Friedman. This diverse team brings a rich array of skills, allowing the company to offer highly effective and productive service to its clientele.\n\n**Technology and Innovation**\n\nThey\u2019re leveraging machine learning and AI to power their platform, ensuring that users have access to the most accurate data when making real estate decisions. By integrating these technologies, HOMLI not only enhances user experience but also positions itself as a leader in the proptech space.\n\n**Why HOMLI Matters**\n\nHOMLI is set against a backdrop of an evolving real estate landscape in Europe. By approaching the market with transparency, technological innovation, and an emphasis on customer satisfaction, they are on track to reshape the way real estate transactions are conducted on the continent.\n\nAt a glance, HOMLI is not just a brokerage; they are pioneering a way for consumers to engage with real estate in a more informed, efficient, and enjoyable manner.\n\nFor more information, visit [HOMLI's website](https://thehomli.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/74c70c87b1bcd8edfbccdd9682a05d873d21f583.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191421Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fa824f31ba29a0cd069cf7493c2bbcf620d89f4a95d21372a81ed3fd167872ee",
+    "social_links": [
+        "https://www.linkedin.com/company/homli/",
+        "https://www.facebook.com/thehomli",
+        "https://www.crunchbase.com/organization/homli"
+    ],
+    "logo_path": "data/logos\\HOMLI_logo.png"
+}

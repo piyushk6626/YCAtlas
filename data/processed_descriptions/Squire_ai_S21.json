@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/squire-ai",
+    "name": "Squire.ai",
+    "headline": "Never code alone.",
+    "batch": "S21",
+    "description": "Squire is a devtool that works with you by writing pull request descriptions, reviewing PRs, and writing code to implement code review feedback.",
+    "activity_status": "Active",
+    "website": "https://squire.ai",
+    "founded_date": 2021.0,
+    "team_size": 8.0,
+    "location": "San Francisco",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:compliance; industry:security; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Karl Clement, Founder",
+            "description": "Co-Founder of Codex (https://usecodex.com). \"Fullstack\" kind of guy. Obsessed with startups, software and engineering, I mostly like to build stuff. As an engineer my focus is primarily on modern micro-service architectures, Javascript SPAs, REST/GraphQL APIs, high-traffic applications as well as DevOps (the whole stack). As an entrepreneur, I started building companies when I was 14 and never looked back.",
+            "linkedin": "https://www.linkedin.com/in/karlclement/"
+        },
+        {
+            "name": "Saumil Patel, Founder",
+            "description": "I am the co-founder and CEO of Squire AI. Squire AI helps engineering teams merge PRs quickly by providing reviews and implementing feedback.\n\nPreviously, as a Partner at Dignified, I helped build software at businesses ranging from startups to Fortune 250 enterprises.\n\nI have also contributed to numerous other organizations as a CTO, Software Engineer, Product Lead, and Engineering Lead.\n\nWhen I'm not working, I'm experimenting in the kitchen, reading a book, gaming, or walking with my dog Moch",
+            "linkedin": "https://www.linkedin.com/in/saumilptl/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Squire.ai Overview\n\n**Name**: Squire.ai  \n**Founded**: 2021   \n**Location**: San Francisco  \n**Team Size**: 8 employees  \n**Y Combinator Batch**: S21  \n**Group Partner**: Nan  \n\n**Website**: [squire.ai](https://squire.ai)\n\n---\n\n#### Mission: \"Never code alone\"\n\nSquire.ai is revolutionizing how developers manage code reviews and pull requests. Initially launched as just \"Squire,\" the platform is designed to enhance the coding experience by automating the tedious aspects of code review, freeing developers to focus on what truly matters\u2014writing impactful code.\n\n---\n\n### What Does Squire.ai Do?\n\nSquire.ai serves as an agentic code review and quality platform. Its key features include:\n\n- **Efficient Code Reviews**: Squire can review code in under a minute, applying team coding rules and best practices automatically.\n- **Pull Request Summaries**: The platform generates perfect abstracts and detailed changes for pull requests, ensuring clear documentation and better team alignment.\n- **Rule Enforcement**: It allows teams to enforce coding standards seamlessly across their codebases, reducing friction and ensuring quality.\n- **AI Assistance**: Developers can chat with their AI \"Squire\" to comment on reviews, ask questions, and receive instant help without switching context.\n\n#### Impact on Developer Teams\n\nSquire.ai is making waves in the developer community, with teams reporting significant improvements like:\n- **Saved Time**: An average of 4 hours per engineer per week.\n- **Faster Merges**: 21% reduction in time-to-merge for pull requests.\n- **Shorter Release Cycles**: Overall cycle time reduced by 2 days.\n\n---\n\n### Industry Tags\n\nSquire.ai falls under several industry categories, including:\n- Artificial Intelligence\n- Developer Tools\n- SaaS (Software as a Service)\n- Compliance & Security\n- San Francisco Bay Area\n\n---\n\nIn a world where coding can often lead to isolation, Squire.ai is changing the narrative. It embodies the ethos of collaborative programming, ensuring that developers never have to navigate the complexities of code alone. Whether you're a seasoned engineer or just starting, Squire.ai offers the tools to enhance your coding workflow and bring your team's projects to the finish line faster and with higher quality. ",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/776bfbda1f2ad155658d95bf2b97de04716b8deb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191943Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7c551b788268092fcf3fe17ae83409680dc3a8b6dc053f1de6f8620961b20bdf",
+    "social_links": [
+        "https://www.linkedin.com/company/squireai",
+        "https://twitter.com/squiredev"
+    ],
+    "logo_path": "data/logos\\Squire.ai_logo.png"
+}

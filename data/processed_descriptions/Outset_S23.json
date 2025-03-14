@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/outset",
+    "name": "Outset",
+    "headline": "AI-powered user interviews",
+    "batch": "S23",
+    "description": "Outset offers AI-powered user interviews to conduct qualitative research. Traditional surveys are fast but lack depth while live interviews produce high quality data but are slow and expensive. Outset uses LLMs to lead interviews and synthesize results so researchers get high quality data 100 times faster.",
+    "activity_status": "Active",
+    "website": "https://outset.ai/",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:saas; industry:b2b; industry:market-research; industry:enterprise-software; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Aaron Cannon, Founder",
+            "description": "Co-founder and CEO of Outset. Aaron was previously the head of product at Untapped and Triplebyte and played senior product roles at Tesla, Pebble, and Monitor Deloitte before that. He started his career as a tour manager for a band called Timeflies.",
+            "linkedin": "https://www.linkedin.com/in/a-a-ron-cannon/"
+        },
+        {
+            "name": "Michael Hess, Founder",
+            "description": "Engineer-turned-firefighter-turned-founder",
+            "linkedin": "https://linkedin.com/in/mchl-hess"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Outset: Revolutionizing User Research with AI\n\nFounded in 2022 and hailing from the vibrant tech scene of San Francisco, **Outset** is on a mission to redefine qualitative research through AI-powered user interviews. Imagine the speed of a survey combined with the depth of a personal interview\u2014Outset makes this a reality. By leveraging state-of-the-art large language models (LLMs), the company facilitates thorough discussions while synthesizing insights at a pace previously thought impossible (up to 100 times faster than traditional methods).\n\n### What They Do\n\nOutset\u2019s technology allows researchers to conduct and synthesize video, audio, and usability sessions with hundreds of participants simultaneously. This capability not only broadens the scale of participant engagement but also deepens the quality of insights gathered. They understand that traditional surveys may quickly gather data but often leave out the crucial nuances: the \"why\" behind user opinions. That\u2019s where Outset steps in, filling the gap with AI that drives rich dialogues.\n\n### Key Features\n\n1. **AI-Moderated Conversations**: Conduct hundreds of interviews in any language, with AI leading participants through meaningful conversations.\n2. **Customized Insights**: Tailor the AI interviewer's approach according to your specific research needs.\n3. **Automatic Theme Identification**: Let the AI uncover common themes, highlights, and powerful quotes from your interviews, making the analysis seamless and quick.\n4. **Multilingual Capabilities**: Engage a diverse array of participants across different languages, enhancing the inclusivity of your research.\n\n### Support & Security\n\nOutset prioritizes security and privacy. Powered by Azure OpenAI Service, users can rest assured that their data remains confidential and is not used to train AI models. This gives clients the peace of mind they need to focus on what really matters: gaining insights from their user base.\n\n### The Team & Industry Standing\n\nWith a focused team of just six, Outset is nimble yet powerful. They're backed by **Garry Tan** as a group partner within the Y Combinator Batch S23, which hints at their potential for growth and impact in the market. The company is strategically positioned within the **B2B** SaaS sector, with tags that include artificial intelligence, enterprise software, and market research.\n\n### Why Choose Outset?\n\nIn a world where rapid feedback and deep understanding are crucial for product development, Outset provides a tool that dramatically enhances the productive capacity of researchers. Clients have reported massive savings in hours spent on research, with some citing improvements of over 120 hours on a single project. The consensus is clear: Outset isn\u2019t just another research tool; it\u2019s the future of market research.\n\n**For more, visit [Outset's website](https://outset.ai/) to learn about how they can supercharge your research efforts with AI.**",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/1996590c25f47eb8e24647dfe3935e707be28cab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191617Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=00be81ca42fdb00b74b056793661020852414d55beb5124eb31c81555a282335",
+    "social_links": [
+        "https://www.linkedin.com/company/outset-ai/"
+    ],
+    "logo_path": "data/logos\\Outset_logo.png"
+}

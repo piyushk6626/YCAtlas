@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/onegrep",
+    "name": "OneGrep",
+    "headline": "AI Agent for DevOps Workflow Automation",
+    "batch": "W24",
+    "description": "OneGrep is a DevOps Agent that helps engineers automate manual devops tasks. It works across integrations that teams have to search, correlate, and operate automated tasks like runbook automation during incidents.\r\n\nOneGrep specializes across devops tools to help teams release code faster and more reliably so that engineers can spend more time building rather than being trained in bespoke tools like Observability, Ci/Cd, or Infra.\r\n\nAchintya and Brian are technical co-founders who have deep domain expertise in building and operating systems at scale at Coinbase, Disney, and Amazon. Achintya led the Search Team at Disney enabling DisneyPlus to scale to 70M users in two weeks. Brian was a founding engineer on the team that built the Incident Management Platform at Amazon that helps 30k DAUs in Amazon resolve critical incidents every day.\r\n\nhttps://www.onegrep.dev",
+    "activity_status": "Active",
+    "website": "https://www.onegrep.dev",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "New York",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:b2b; industry:devops; industry:conversational-ai; location:new-york",
+    "founders": [
+        {
+            "name": "Achintya Ashok, Founder",
+            "description": "Achintya is a Co-Founder and the CEO of OneGrep which he started with Brian Cripe in late 2023. OneGrep saves engineers time by automatically generating insights that improve the usefulness of their Observability Data.\n\nAchintya has worked in engineering highly distributed systems at Coinbase, Disney Streaming, & Goldman Sachs. In a previous life, he was the Tech Lead of the Search Team at Disney Streaming responsible for serving contextual experiences to 70-million customers in real-time.",
+            "linkedin": "https://www.linkedin.com/profile/view?id=AAIAAAgz8egBvjGL53N3zhzkhhR7N5gfUrh7GJE"
+        },
+        {
+            "name": "Brian Cripe, Founder",
+            "description": "Brian Cripe is the co-founder and CTO of OneGrep, which he started with Achintya Ashok in 2023.  OneGrep saves engineers time by automatically generating insights that improve the usefulness of their Observability Data.  Brian brings over a decade of experience in the areas of developer-tools, distributed systems, and real-time analytics from companies such as 'Amazon', 'Tableau', and 'Coinbase'.",
+            "linkedin": "https://linkedin.com/in/briancripe"
+        }
+    ],
+    "status": true,
+    "generated_description": "**OneGrep Overview**\n\nOneGrep, founded in 2024 and a part of Y Combinator's Batch W24, is all about automating the mundane in DevOps. With a clear mission to provide an AI agent that enhances workflow automation, OneGrep helps engineers automate manual tasks. It seamlessly integrates with numerous tools, enabling teams to manage incidents better and execute runbook automation efficiently.\n\nLocated in New York, OneGrep is a lean startup with a dedicated team of just two technical co-founders\u2014Achintya and Brian\u2014who bring a wealth of experience from top-tier companies like Coinbase, Disney, and Amazon. Achintya's leadership in scaling DisneyPlus to 70 million users in just two weeks and Brian's role in creating Amazon's Incident Management Platform underscore their capacity to build robust systems at scale.\n\n**What OneGrep Does**\n\nOneGrep is focused on reducing the time engineers spend learning bespoke tools related to observability, CI/CD, and infrastructure. Instead, it empowers them to release code faster and more reliably, so they can concentrate on creating great products. The startup is engineered to facilitate safe and secure connections to hundreds of community-built integrations, along with establishing granular access control policies\u2014allowing teams to dictate what their agents can and cannot do.\n\n**Getting Involved**\n\nCurrently, OneGrep is building out its platform and garnering interest. They invite potential users to join their waitlist for early access to their tools. The future looks promising for OneGrep as they continue to carve out a niche in the DevOps landscape.\n\nFor more information, visit [OneGrep's website](https://www.onegrep.dev) or check out their [LinkedIn page](https://www.onegrep.dev/<https:/www.linkedin.com/company/onegrep>). \n\nIn summary, OneGrep is a fresh take on how DevOps can be streamlined through intelligent automation, aimed at enabling engineers to focus on building instead of battling operational complexities. With solid leadership and an innovative approach, it\u2019s a company worth keeping an eye on.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/93fae65a4c85b77104186f3c4c188b6fd7219b47.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191610Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2f026ad788d96e38ff7c78580db3c197b39b872e5821821566c1615536fca211",
+    "social_links": [
+        "https://www.linkedin.com/company/onegrep",
+        "https://twitter.com/one_grep"
+    ],
+    "logo_path": "data/logos\\OneGrep_logo.png"
+}

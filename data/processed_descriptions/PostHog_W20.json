@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/posthog",
+    "name": "PostHog",
+    "headline": "The single platform to analyze, test, observe, and deploy new features",
+    "batch": "W20",
+    "description": "PostHog helps engineers build better products. We provide everything they need to make sure they are building something that people want. This means - product analytics, session replays, feedback tools, feature flags, experimentation, LLM observability, and a datawarehouse (with SQL) with one click data imports from the places you use.\r\n\nWe've been averaging ~10% monthly revenue growth, we are [default alive](http://www.paulgraham.com/aord.html), and we didn't raised a huge / now-overpriced round in 2021. While others are focused on layoffs and struggling to grow into huge valuations, we're focusing on an awesome product for end users, hiring (a handful of) exceptional team members and seeing fantastic increases in revenue as a result.\r\n\nCheck out posthog.com/careers if you want to be part of this journey.",
+    "activity_status": "Active",
+    "website": "https://www.posthog.com",
+    "founded_date": 2020.0,
+    "team_size": 85.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:b2b; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "James Hawkins, Founder",
+            "description": "cofounder at PostHog /\nused to be a bad pro cyclist /\nknows about brand (sounds fluffy right, my mom says i'm special though)/shipping lots of stuff/marketing to developers",
+            "linkedin": "https://www.linkedin.com/in/j-hawkins/"
+        },
+        {
+            "name": "Tim Glaser, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/timgl/"
+        }
+    ],
+    "status": true,
+    "generated_description": "PostHog is a dynamic startup founded in January 2020, emerging from Y Combinator's W20 batch, and based in San Francisco. With a team of about 85 people and led by co-founders James and Tim, the company is honing in on a singular mission: to provide a comprehensive platform for product development that enables analysis, testing, observation, and deployment of new features seamlessly.\n\nInitially crafted to help engineers build better products, PostHog has evolved into an all-in-one tool offering features like product analytics, session replays, feedback tools, feature flags, experimentation capabilities, and more\u2014all with effortless integration through a one-click data warehouse setup. The platform empowers teams to deeply understand user behavior with capabilities that include event-based analytics, cohorts, conversion funnels, and even SQL access for advanced data querying. \n\nFinancially, PostHog is on an upward trajectory with an impressive average of around 10% monthly revenue growth. They are not just surviving; they\u2019re thriving\u2014having avoided the typical pitfalls that plagued many startups during the 2021 funding frenzy. The company is \"default alive,\" meaning its revenue covers its operational costs, a hallmark of a sustainable business model.\n\nWhat distinguishes PostHog is its commitment to community and customer-centricity. Their pricing structure is designed for scalability: it starts free for up to a million events a month, allowing small startups to grow without the pressure of immediate costs. For larger companies, the value proposition is competitive with the lowest pricing compared to their competitors in the market.\n\nAs a beacon of resilience in an industry often bogged down by volatility, PostHog focuses on building great products and hiring talented individuals instead of engaging in mass layoffs. They are also transparent about their development, actively publish their product roadmap, and invite users to influence their feature prioritization.\n\nIf you\u2019re looking to join an innovative team that's not just about analytics but about crafting user-driven products within a vibrant startup culture, PostHog is currently hiring (check out their careers page at https://www.posthog.com/careers).\n\nIn summary, PostHog isn\u2019t just software; it\u2019s a robust platform for anyone looking to create products that resonate with users while keeping costs manageable. As they continue to expand their offerings and refine their products, it\u2019s clear they\u2019re not just in the game\u2014they\u2019re changing how products are built.\n\nFor more details, visit their website at https://www.posthog.com.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/85013b304f17b12eb2ee3602bf79080cdedaf8cf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191650Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2ba9bea90e179525fbd65c013c1bbeb9bbaabe72698bc7e857a7b846fb50e1fa",
+    "social_links": [
+        "https://www.linkedin.com/company/posthog/",
+        "https://twitter.com/posthog",
+        "https://www.facebook.com/PostHog/",
+        "https://www.crunchbase.com/organization/posthog",
+        "https://github.com/PostHog"
+    ],
+    "logo_path": "data/logos\\PostHog_logo.png"
+}

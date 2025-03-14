@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/zelos-cloud",
+    "name": "Zelos Cloud",
+    "headline": "The First Cloud Platform for Firmware Development and Testing",
+    "batch": "S23",
+    "description": "Zelos Cloud is accelerating electronics product development with powerful tools for emulation, tracing, and automated testing on real microcontrollers in the cloud.\r\n\nAs firmware engineers, we spent years developing and shipping products at scale. Between batteries, bootloaders and brain implants, we've seen it all. Our mission is to build the tools we wish we had to enable teams to ship higher quality products, faster.",
+    "activity_status": "Active",
+    "website": "https://zeloscloud.io",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:hard-tech; industry:manufacturing; industry:data-visualization",
+    "founders": [
+        {
+            "name": "Michael Jaradah, Founder",
+            "description": "Co-Founder @ Zelos Cloud - The First Cloud Platform for Firmware Development and Testing. \n\nFormer Tesla Energy Firmware lead. Experienced across domains like embedded, networking, safety systems and validation infrastructure.",
+            "linkedin": "https://www.linkedin.com/in/michaeljaradah/"
+        },
+        {
+            "name": "Taylor Keairns, Founder",
+            "description": "Co-Founder @ Zelos Cloud - The First Cloud Platform for Firmware Development and Testing\n\nFormer Tesla Energy Firmware/Software lead. Specialized in system programming for embedded Linux and RTOS.",
+            "linkedin": "https://www.linkedin.com/in/taylor-keairns-872063125/"
+        },
+        {
+            "name": "John Ott, Founder",
+            "description": "Co-founder at Zelos Cloud - The First Cloud Platform for Firmware Development and Testing.\n\nEx-Neuralink/Tesla full-stack engineer, with production deployed projects from bare-metal assembly to Kubernetes.",
+            "linkedin": "https://www.linkedin.com/in/john-b-ott/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Zelos Cloud is making waves in the firmware development arena with a mission to be the first dedicated cloud platform for all things firmware. Founded in 2023 and hailing from Y Combinator's Batch S23, the company is fundamentally about speed and quality in electronics product development. Their tagline, \"The First Cloud Platform for Firmware Development and Testing,\" succinctly encapsulates their ambition.\n\nThe team, although small\u2014just three dedicated engineers\u2014brings significant industry experience from leading companies like Neuralink and Tesla Energy. They aren't just theorists; they've battled the complexities of firmware development in real-world scenarios, from batteries to brain implants. Their shared experiences have shaped their goal: to build the exact tools they wished they had while shipping products. \n\nZelos Cloud offers powerful tools for emulation, tracing, and automated testing, all facilitated through real microcontrollers in the cloud. This setup allows teams to connect seamlessly to cloud-hosted hardware, enabling real-time emulation of connected systems. Their offerings include a robust data capture and visualization suite, along with a Python-based test framework for quick iterations and compliance with development standards. It\u2019s a single pane of glass for firmware manufacturing testing that promises to accelerate product development.\n\nThe founders embody a blend of skills and specialties, with backgrounds in full-stack engineering, embedded systems, and firmware validation. This diversity allows Zelos Cloud to cater to various aspects of the manufacturing cycle. \n\nIf your firmware development needs a boost, Zelos Cloud might just be the partner you're looking for. Check them out at [zeloscloud.io](https://zeloscloud.io).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b71a09dba2874d5dd7088f35f7d950c81e2d4437.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192107Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=eb765c87f444b8451d21256c48d87965cd6c8ff8d564e31e34c705eb9bd44567",
+    "social_links": [
+        "https://www.linkedin.com/company/zeloscloud/"
+    ],
+    "logo_path": "data/logos\\Zelos_Cloud_logo.png"
+}

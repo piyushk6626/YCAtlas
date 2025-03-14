@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/terra-api",
+    "name": "Terra API",
+    "headline": "API for developers to connect to health data from wearables and\u00e2\u0080\u00a6",
+    "batch": "W21",
+    "description": "Terra makes it easy to transfer health data.\r\n\nThe unified API makes it easy to access data from health apps, wearables, sensors, and medical equipment through one source",
+    "activity_status": "Active",
+    "website": "http://tryterra.co",
+    "founded_date": 2020.0,
+    "team_size": 25.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b; industry:digital-health",
+    "founders": [
+        {
+            "name": "Kyriakos Eleftheriou, Founder",
+            "description": "CEO and founder of Terra API.  ex Special Forces, Forbes 30 under 30 and Imperial Alumnus",
+            "linkedin": "https://www.linkedin.com/in/kyriakos-eleftheriou/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Terra API**\n\nFounded in 2020 and backed by Y Combinator in batch W21, Terra API has emerged as a versatile solution for developers looking to connect to health data from a variety of sources, including wearables, health apps, and medical devices. Headquartered in London, the company employs a team of 25 passionate individuals, all dedicated to improving how health data is shared and utilized for insights.\n\n**Mission and Vision**\n\nTerra API's core mission is straightforward: to simplify the transfer of health data. By providing a unified API, it enables developers to easily access information from various health applications and devices, creating a seamless integration experience. In a world where health data is scattered across multiple platforms, Terra API presents itself as a critical tool for efficient data management and insights generation.\n\n**Features and Offerings**\n\nTerra offers a wide range of products tailored for health data integration. Here\u2019s a quick look at their key offerings:\n\n- **Unified API**: Gather data from different health sources under a single umbrella.\n- **SDK**: Software Development Kit to boost your integration capabilities.\n- **Graph API**: Create personalized graphs visualizing health metrics.\n- **Health Scores and Rewards**: Transform complex health data into actionable insights and engage users by rewarding healthy behaviors.\n- **Blood Report API**: Access essential blood test data for deeper health analysis.\n- **Streaming Capabilities**: Stream real-time data from wearables like Garmin and Fitbit, directly into your application.\n\nThrough these features, developers can create innovative applications that leverage real-time health data, incorporate AI, and foster user engagement.\n\n**Community and Support**\n\nAt Terra API, community and support are highly prioritized. They offer extensive documentation, a vibrant community platform, and expert support to help developers navigate their integration journeys. Their resources include tutorials, a blog, and even a podcast featuring insights from health and fitness industry leaders.\n\n**Security and Compliance**\n\nData security is paramount at Terra API. They ensure end-to-end encryption and maintain compliance with industry standards, including HIPAA and GDPR, providing users with peace of mind regarding their sensitive health data.\n\n**Why Choose Terra API?**\n\nIf you're a developer looking to enter the health tech space or enhance your existing application, Terra API is poised to be your go-to partner. With a track record of rapid advancements, strong backing from the startup community, and a clear understanding of developers' needs, Terra API is solidifying its place at the forefront of digital health integration.\n\nIn essence, whether you're aiming to create an AI-driven health coach or simply need a reliable way to aggregate health data from wearable devices, Terra API provides a robust platform to get you there.\n\nTo learn more or get started, visit their website at [http://tryterra.co](http://tryterra.co).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/915fb21dc2d843d2a928dda2b272d60118669846.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192012Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fdb96ffde4f2082ae162841bfd68184b6c2e0126904f0d34680bcfeba0adacd5",
+    "social_links": [
+        "https://www.linkedin.com/company/terra-enabling-developers/",
+        "https://twitter.com/terraapi",
+        "https://www.crunchbase.com/organization/terra-5293"
+    ],
+    "logo_path": "data/logos\\Terra_API_logo.png"
+}

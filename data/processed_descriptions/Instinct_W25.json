@@ -1,0 +1,45 @@
+{
+    "Links": "https://www.ycombinator.com/companies/instinct",
+    "Name": "Instinct",
+    "Headline": "GPS satellites for lunar navigation",
+    "Batch": "W25",
+    "Description": "Instinct is making satellites to provide GPS navigation to companies landing on or orbiting the moon. By downsizing the current navigation architecture into a cubesat format we can drastically lower both manufacturing and launch costs, allowing for quicker deployments and more resiliency within the system.",
+    "Activity_Status": "Active",
+    "Website": "https://www.instinct-space.com/",
+    "Founded_Date": "2024",
+    "Team_Size": "4",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/aaron-epstein",
+    "Group_Partner": "Aaron Epstein",
+    "Company_Linkedin": "https://www.linkedin.com/company/instinct-space/",
+    "Company_Twitter": "",
+    "Tags": "industry:commercial-space-launch; industry:space-exploration; industry:satellites; industry:aerospace; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/instinct-space/"
+    ],
+    "logo_path": "data\\logos\\Instinct.png",
+    "Active_Founders": [
+        {
+            "Name": "Alex Pinel Neparidze, Founder",
+            "Description": "Building GPS on the Moon. Co-CEO of Instinct.\n\nGraduate in Space Engineering at UCL and Aerospace engineering at QMUL. At Open Cosmos, he worked in project management on the HAMMER and PHISAT-2 Earth observation satellites, both launched in 2024 and now in orbit. Published research on the usage of machine learning for detecting Coronal Mass Ejections (CMEs) at the Mullard Space Science Laboratory.",
+            "LinkedIn": "https://www.linkedin.com/in/alex-pinel/"
+        },
+        {
+            "Name": "Joaquim Dickson, Founder",
+            "Description": "Building GPS for the moon.\n\nGraduate in Physics at Imperial College London and Space Technology at UCL. Worked on the magnetometer (MAG) for NASA's IMAP spacecraft with Imperial's Fluxgate Magnetometer Laboratory. Also worked on the Solar Wind Analyser (SWA) instrument suite aboard ESA's Solar Orbiter spacecraft with UCL's Mullard Space Science Laboratory.",
+            "LinkedIn": "https://www.linkedin.com/in/joaquim-ropd/"
+        },
+        {
+            "Name": "Ashwin Iyer, Founder",
+            "Description": "Building GPS on the moon. Ashwin is the co-founder and co-CEO of Instinct.\n\nHe studied mechanical engineering at QMUL in London and holds a Master in Industrial Systems, Manufacturing and Management from the University of Cambridge. Ashwin has also worked at Imperial College London, doing research on Rolls Royce jet engines as well as undertaken consulting projects as part of a team at Cambridge across a variety of industries including Venture capital, Metalworking and Electronics.",
+            "LinkedIn": "https://www.linkedin.com/in/ashwin-iyer-626263245/"
+        },
+        {
+            "Name": "Joe Papworth, Founder",
+            "Description": "Building GPS for the Moon - VP of Engineering\n\nFinished his Masters degree in Space science and engineering at UCL as the team lead of systems engineering design for the Heliosphere Exploration and Interstellar Research Observatory (HERO). Developed a mission concept for permanently shadowed regions in the south lunar pole for In-Situ Resource Utilization and architecture. Completed his BSc in Astrophysics and designed a cost optimized CubeSat constellation deployment strategy with Airbus.",
+            "LinkedIn": "https://www.linkedin.com/in/joe-papworth"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Instinct** is a forward-thinking company on a mission to revolutionize lunar navigation through the development of GPS satellites tailored for the moon. Founded in 2024 and currently part of Y Combinator's Batch W25, Instinct is based in San Francisco and operates with a lean team of just four employees.\n\nWhat sets Instinct apart is its innovative approach to satellite design. By condensing existing navigation architectures into a compact cubesat format, they aim to significantly reduce both manufacturing and launch costs. This downsizing not only accelerates deployment but also enhances system resiliency\u2014a crucial factor for the unpredictable nature of space exploration.\n\nInstinct's core product is a constellation of 6U CubeSats packed with sophisticated navigation transmitters. These small but mighty satellites are built on proven smallsat technology, designed to provide precise navigation signals that support critical lunar landing operations. This means spacecraft can rely on real-time positioning data for a pinpoint landing, guiding them safely from orbit to touchdown.\n\nThe company's carefully designed elliptical orbits ensure constant coverage, with a special focus on the South Polar region of the moon\u2014an area poised to be at the heart of future lunar missions and human endeavors.\n\nIn the fast-evolving landscape of commercial space exploration, Instinct positions itself as a game changer, championing low-cost, high-precision navigation solutions that will facilitate a new era of lunar missions. If you want to learn more or have questions, you can reach out to them at founders@instinct-space.com or visit their website at [Instinct](https://www.instinct-space.com/).\n\nIn summary, Instinct is not just about satellites; it\u2019s about laying the groundwork for a sustained human presence on the moon. In a field where every gram counts and precision is paramount, they are making big strides in making lunar navigation more accessible and efficient."
+}

@@ -1,0 +1,33 @@
+{
+    "links": "https://www.ycombinator.com/companies/corgea",
+    "name": "Corgea",
+    "headline": "Corgea finds, and fixes insecure code.",
+    "batch": "S23",
+    "description": "Corgea\u00a0helps companies find and fix vulnerable code quicker, and\u00a0save 80% of the engineering cost & time in fixing these issues. It does this by using\u00a0AI to scan and write code fixes and issues pull-requests for your engineers to approve.",
+    "activity_status": "Active",
+    "website": "https://www.corgea.com/",
+    "founded_date": 2023.0,
+    "team_size": 4.0,
+    "location": "San Francisco",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:security; industry:cybersecurity; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Ahmad Sadeddin, Founder",
+            "description": "Ahmad is the founder and CEO of Corgea, which is his 3rd startup. His last one was acquired by Coupa. He spent the last 3 years of his tenure there leading the payments product where he worked on making sure their products were secure.",
+            "linkedin": "https://linkedin.com/in/asadeddin"
+        }
+    ],
+    "status": true,
+    "generated_description": "Meet Corgea, a newcomer on the tech scene, founded in 2023 and already making waves as part of the Y Combinator Batch S23. Based in San Francisco, this agile team of four is on a mission to find and fix insecure code, essentially giving developers a security sidekick that reduces their workload by up to 80%. \n\nCorgea's primary offering leverages AI to scan code, identify vulnerabilities, and generate immediate pull requests for engineers to approve. This innovative approach doesn\u2019t just save time and money; it also automates much of the tedious, error-prone aspects of code maintenance that typically bog down developers. \n\nTheir platform is designed to spot complex issues, such as business logic errors and authentication flaws, as well as scan for malicious code and hardcoded secrets. By intelligently triaging findings, Corgea reduces the number of tickets engineers have to sift through by around 30%\u2014a significant distraction eliminated.\n\nWhat\u2019s even more compelling about Corgea is its user-centric design. Developers can work within their preferred environments, like GitHub and Azure DevOps, without needing to learn new commands or processes. The tool is compatible with a wide range of programming languages\u2014including Java, Python, and C++\u2014making it highly versatile for diverse teams.\n\nCorgea goes beyond just detection; it aims for proactive solutions. By incorporating unique business contexts into its AI analysis, it tailors its vulnerability detection and fix recommendations to fit specific developer needs, thereby enhancing the effectiveness of security measures.\n\nAs cybersecurity threats grow more sophisticated, Corgea\u2019s ability to keep pace and offer timely security fixes positions it as an essential player for modern software teams. If security feels cumbersome in your development workflow, Corgea could be the magic wand you've been searching for.\n\nFor more information or to start a free trial, check out their [website](https://www.corgea.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ae27fc68dacd796d747ee3de00c0bcd90a51eed2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191104Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=738b4bb94f00b2be3b32bf55d8e503840ccb8e37ce986440941b0db159ed65f1",
+    "social_links": [
+        "https://www.linkedin.com/company/corgea/",
+        "https://twitter.com/CorgeaInc",
+        "https://www.crunchbase.com/organization/corgea"
+    ],
+    "logo_path": "data/logos\\Corgea_logo.png"
+}

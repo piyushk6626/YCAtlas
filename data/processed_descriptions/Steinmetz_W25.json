@@ -1,0 +1,36 @@
+{
+    "Links": "https://www.ycombinator.com/companies/steinmetz",
+    "Name": "Steinmetz",
+    "Headline": "Steinmetz is developing the engine of electric vehicles.",
+    "Batch": "W25",
+    "Description": "Steinmetz is an electric vehicle platform company based in San Francisco. We use new power electronics techniques to significantly improve\u00a0power densities\u00a0(kW/kg, kW/L) bringing down\u00a0vehicle system costs\u00a0and\u00a0even unit costs.\r\n\nOur first products are Inverters/motor controllers with industry-leading power densities while remaining cost competitive.",
+    "Activity_Status": "Active",
+    "Website": "https://steinmetzmotors.com/",
+    "Founded_Date": "2024",
+    "Team_Size": "2",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/tom-blomfield",
+    "Group_Partner": "Tom Blomfield",
+    "Company_Linkedin": "https://www.linkedin.com/company/steinmetzinc/",
+    "Company_Twitter": "",
+    "Tags": "industry:hardware; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/steinmetzinc/",
+        "https://x.com/SteinmetzInc"
+    ],
+    "logo_path": "data\\logos\\Steinmetz.png",
+    "Active_Founders": [
+        {
+            "Name": "Owen Brake, Founder",
+            "Description": "Multi-disciplinary engineer with a track record of building across industries\u2014from high-performance brake systems to GHz FCC compliance and scaling production SQL databases with 10B+ records.\n\nPreviously developed motor controllers at Tesla. Held diverse engineering roles at Neuralink, Apple, Parallel Systems, and Ford.\n\nMechatronics Engineering graduate, University of Waterloo. Led the Formula Electric team, driving innovation in EV performance.",
+            "LinkedIn": "https://www.linkedin.com/in/owen-brake-39363a169/"
+        },
+        {
+            "Name": "Ethan Childerhose, Founder",
+            "Description": "Co-founder and CTO at Steinmetz. Previously at Rocketlab, Nvidia, Tesla, and Neuralink. I've worked across the hardware stack from analog transistor level design to 100 lb mechanical fixtures for environmental testing. My work has reached the moon, been mass produced millions of times, and processed the faintest of signals from the human brain.",
+            "LinkedIn": "https://linkedin.com/in/ethan-childerhose"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "**Steinmetz Overview**\n\nFounded in 2024 and based in San Francisco, Steinmetz is carving out a niche in the electric vehicle (EV) ecosystem. With an audacious mission to enhance the performance and affordability of electric vehicles, Steinmetz is at the forefront of innovation in power electronics. Utilizing cutting-edge techniques, they seek to significantly raise the power densities of EV components\u2014essentially making EVs lighter and more efficient\u2014while driving down overall system and unit costs.\n\nThe company's debut products are inverters and motor controllers that boast industry-leading power densities, making them not only competitive but also a game changer for manufacturers looking to improve their EV offerings. \n\nSteinmetz is currently a proud member of the Y Combinator Batch W25, benefiting from the guidance and network of one of the most renowned startup accelerators. The team may be small, consisting of just two employees, but the ambitions are large, with a vision to transform the electric vehicle landscape. Tom Blomfield, an experienced name in the startup world, serves as their Group Partner, providing mentorship and strategic direction.\n\nIf you're curious to learn more about what Steinmetz is pioneering in the world of electric vehicles, they have a dedicated website: [Steinmetz Motors](https://steinmetzmotors.com/).\n\nIn summary, Steinmetz is not just another startup; they are on a mission to power the future of transportation, making big strides in the hardware aspect of EVs and putting their mark on Silicon Valley. Keep an eye on them\u2014they're just getting started."
+}

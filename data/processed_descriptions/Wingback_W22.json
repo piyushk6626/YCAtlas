@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/wingback",
+    "name": "Wingback",
+    "headline": "Wingback provides tools and APIs for SaaS pricing and packaging.",
+    "batch": "W22",
+    "description": "Wingback provides tools and APIs for SaaS pricing and packaging. We are infrastructure that allows SaaS startups to deploy any set of features of their product using any pricing model. It enables non-technical teams to implement pricing and packaging changes and execute product-led growth campaigns without engineering involvement.",
+    "activity_status": "Active",
+    "website": "https://www.wingback.com/",
+    "founded_date": 2021.0,
+    "team_size": 12.0,
+    "location": "San Francisco",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:saas; industry:api; industry:enterprise; industry:infrastructure; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Torben Friehe, Founder",
+            "description": "I've been fascinated by technology since early childhood, which led me to founding 1aim, an IoT startup. I ran 1aim together with my co-founder Yann for seven years before it was acquired. After that, I provided advice to some founder friends. In late 2020, I joined On Deck. After many conversations with On Deck fellows in SaaS, Yann and I started building Wingback. Besides startups, I'm interested in Formula 1, cars, and planes, but also in architecture, fashion, and history.",
+            "linkedin": "http://linkedin.com/in/tfriehe"
+        },
+        {
+            "name": "Yann Leretaille, Founder",
+            "description": "Co-Founder Wingback, Former Co-Founder 1aim",
+            "linkedin": "https://www.linkedin.com/in/yleretaille/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Wingback: Revolutionizing SaaS Pricing and Packaging**\n\nFounded in 2021 and hailing from the Y Combinator W22 batch, Wingback is a startup positioned in San Francisco that's making significant waves in the SaaS pricing infrastructure space. Their mission is straightforward yet impactful: to provide tools and APIs that empower SaaS companies to implement flexible pricing and packaging strategies without the need for deep technical involvement. This means that non-technical teams can efficiently execute changes and spearhead product-led growth campaigns.\n\n**What Does Wingback Offer?**\n\nWingback's platform is essentially an enabling technology for SaaS startups, allowing them to deploy a range of features with various pricing models. This flexibility opens doors to unlimited possibilities, including:\n\n- **Feature Entitlements**: Manage what features different customer tiers can access.\n- **Quoting**: Simplified process for sales teams to create quotes.\n- **Self-Serve Sign-Up**: Let customers onboard themselves easily.\n- **Plan Creation & Management**: Craft custom pricing plans based on user needs and behaviors.\n- **Billing & Payments**: Streamlined processes for handling transactions.\n\nTheir approach leans heavily on a low-code philosophy which minimizes the need for engineering resources. This is particularly noteworthy in today\u2019s fast-paced startup environment where speed to market can be the difference between success and oblivion.\n\n**The Team and Support**\n\nWhile Wingback operates with a compact team of twelve, they benefit from strategic guidance, including from Group Partner Nicolas Dessaigne. Their diverse offerings cater to varying roles within organizations\u2014ranging from sales to customer success\u2014ensuring that all stakeholders can leverage the platform effectively.\n\n**Why Wingback Matters**\n\nIn an era where businesses are increasingly looking for agile and scalable solutions to meet customer demands, Wingback stands out by aligning pricing with the actual value delivered to customers. Their solutions enable companies to experiment with pricing models, detect churn risks, and identify upsell opportunities\u2014all key factors that can drive significant revenue growth.\n\nFor those navigating the complexities of SaaS pricing, Wingback is a formidable ally that combines flexibility, power, and ease of use. You can explore more about their offerings on their [website](https://www.wingback.com). Whether you're a startup or an established SaaS company, aligning your pricing strategy with your growth ambitions has never been easier.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/3edee155ea802a824d3ae12627cae50f3d16d015.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192059Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=59cc74b988144932ba0ab7315eb9392d29da4d474775674178455d8a80a49aec",
+    "social_links": [
+        "https://www.linkedin.com/company/wingbackapp",
+        "https://twitter.com/wingbackapp",
+        "https://www.crunchbase.com/organization/wingback"
+    ],
+    "logo_path": "data/logos\\Wingback_logo.png"
+}

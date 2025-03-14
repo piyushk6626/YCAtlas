@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/hydra",
+    "name": "Hydra",
+    "headline": "We make it easier to build apps and analytics on real-time data",
+    "batch": "W22",
+    "description": "Hydra is an open source, analytics database that makes it easy to build apps, analytics, and ML on real-time data. It operates 100-1000X faster than traditional analytics databases (OLAP) that require data ingestion and transformation from external data source like Postgres and Amazon S3. With Hydra, high performance analytical processing runs directly on live transactions and real-time event data with zero-ETL.\r\n\nEvery Hydra project includes a fully managed Postgres database, integrated analytical processing, and bottomless, globally distributed object storage so you can ship sub-second analytics with any application in an afternoon.",
+    "activity_status": "Active",
+    "website": "https://hydra.so",
+    "founded_date": 2021.0,
+    "team_size": 6.0,
+    "location": "San Francisco",
+    "group_partner": "Tom Blomfield",
+    "group_partner_yc": "https://www.ycombinator.com/people/tom-blomfield",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:analytics; industry:open-source; industry:data-engineering; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Joseph Sciarrino, Founder",
+            "description": "CEO, Hydra\nFormer PM @ MSFT Azure Open-Source Databases team.\nHeroku (W08) and Citus Data (S11) alum",
+            "linkedin": "https://www.linkedin.com/in/jsciarrino12/"
+        },
+        {
+            "name": "JD Dance, Founder",
+            "description": "CTO, Hydra\nSoftware engineer, technical leader, entrepreneur\nHeroku (2011-2021), Crunchy Data (2021)",
+            "linkedin": "https://www.linkedin.com/in/jonathandance/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Hydra: Empowering Real-Time Data Applications**\n\nFounded in 2021 and proudly part of Y Combinator's Batch W22, Hydra aims to make it remarkably easier for developers to build applications and analytics on real-time data. At its core, Hydra revolutionizes how we think about data analytics by eliminating the need for traditional databases that require extensive data ingestion and transformation\u2014a process that can take up precious time and resources.\n\n### What Makes Hydra Stand Out?\n\n**Speed and Efficiency**: Hydra operates 100-1000 times faster than conventional analytics databases (OLAP), allowing high-performance analytical processing to run directly on live transactional data. No need for zero-ETL (Extract, Transform, Load) means you can dive straight into analytics without the usual headaches.\n\n**Fully Managed Infrastructure**: Every project on Hydra includes a fully managed Postgres database, integrated analytical processing, and globally distributed object storage. This setup allows developers to implement sub-second analytics across applications, making it possible to deliver complex insights in just an afternoon.\n\n**Open Source and Accessible**: Positioned in the vibrant San Francisco Bay Area with a team of six, Hydra embraces an open-source model. This allows a broad community of developers to contribute and benefit from its capabilities. The company's tech is particularly appealing to developers seeking robust analytics engines without the complexities of large enterprise solutions.\n\n### Current Offerings\n\nRecently, Hydra launched a new feature: the DuckDB-Powered Postgres extension, \"pg_duckdb,\" bringing together the best of both worlds\u2014the transactional power of Postgres and the analytical capabilities of DuckDB. This integration allows for rapid querying on vast datasets without the overhead usually associated with syncing data between separate databases.\n\n### Community and Support\n\nTom Blomfield, a Group Partner at Y Combinator, is among those excited about what Hydra brings to the table. Their approach is not just about efficiency but also about fostering collaboration among developers through strong community support and user-friendly documentation.\n\n### The Bottom Line\n\nWhether you're building complex apps or diving deep into data analytics, Hydra simplifies the process and enhances performance with cutting-edge technology. With a strong foundation in open-source principles, ongoing community engagement, and a commitment to making data exploration straightforward, Hydra is carving out an essential niche in the developer tools landscape.\n\nYou can learn more by visiting their website: [Hydra](https://hydra.so). If you\u2019re a developer looking to harness the power of real-time data analytics with ease, Hydra might just be your new best friend.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6509a46aab9ac9b284217a12ecc966ce81927fe5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191425Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2f051c8ab46f51bb27fa6436a3334469ea20c82523eaf4a553593fc5fd956f8f",
+    "social_links": [
+        "https://www.linkedin.com/company/hydradatabase",
+        "https://twitter.com/hydradatabase",
+        "https://www.crunchbase.com/organization/hydra-7681",
+        "https://github.com/HydrasDB"
+    ],
+    "logo_path": "data/logos\\Hydra_logo.png"
+}

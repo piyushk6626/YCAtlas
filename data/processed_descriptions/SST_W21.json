@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/sst",
+    "name": "SST",
+    "headline": "Build modern full-stack applications on your own infrastructure",
+    "batch": "W21",
+    "description": "SST is an open-source framework that makes it easy to build modern full-stack applications on your own infrastructure.",
+    "activity_status": "Active",
+    "website": "https://sst.dev",
+    "founded_date": 2010.0,
+    "team_size": 3.0,
+    "location": "Toronto, Canada",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source",
+    "founders": [
+        {
+            "name": "Jay V, Founder",
+            "description": "Founder at SST",
+            "linkedin": "https://www.linkedin.com/in/jayair/"
+        },
+        {
+            "name": "Frank Wang, Founder",
+            "description": "Founder at SST",
+            "linkedin": "https://linkedin.com/in/fanjiewang/"
+        }
+    ],
+    "status": true,
+    "generated_description": "SST is a company that's making waves in the developer tools space, especially within the realm of open-source frameworks. Founded in 2010 and part of the Y Combinator Batch W21, SST calls Toronto, Canada home, and operates with a lean team of just three people. The mission is straightforward: to help developers build modern full-stack applications using their own infrastructure, simplifying the complex web development landscape.\n\nInitially launched as an open-source framework, SST empowers developers by providing a cohesive way to manage their applications with a single configuration. This approach targets those who want complete control over their deployment environments\u2014whether it\u2019s on the cloud or on-premises. We'll get into the benefits, but first, let\u2019s touch on what they\u2019re doing.\n\nSST enables you to deploy all components of your application\u2014databases, APIs, and front-end\u2014all with just a few lines of code. For instance, developers can set up a database connection with PlanetScale, configure an email service using AWS, and deploy a Next.js application\u2014all in one go. It\u2019s this level of simplicity and integration that has attracted a following among development teams, evidenced by their growing GitHub community.\n\nWith its clear focus on being a developer-first tool, SST thrives in a niche marked by rapid innovation and constant learning. Engaging with their resources, like their [blog](https://sst.dev/blog) and [documentation](https://sst.dev/docs), showcases their commitment to an open-source ethos, allowing developers to not only use but also contribute back to the framework. \n\nSo if you\u2019re a developer looking to streamline your workflow while keeping control of your infrastructure, SST could be your new best friend. It's a great example of how targeted tools can enable creators to focus on building rather than managing\u2014and in the fast-paced world of tech, that\u2019s a significant advantage. You can explore more about what they offer on their website: [sst.dev](https://sst.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d5374f12c782246b369eb0dac3cec68761d1e3ab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191947Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0726d6581b0c724959c03b75b4c701f11202b3b8d22b74c86b74cd44c018a393",
+    "social_links": [
+        "https://www.linkedin.com/company/sst-dev/",
+        "https://twitter.com/SST_dev",
+        "https://github.com/sst"
+    ],
+    "logo_path": "data/logos\\SST_logo.png"
+}

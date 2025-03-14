@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/mindee",
+    "name": "Mindee",
+    "headline": "AI Document Understanding API",
+    "batch": "W21",
+    "description": "Documents are everywhere. Through all industries, understanding their content is a critical step of many processes that software builders throughout the globe want to automate.\r\n\nWe focus on the science, the AI, the deep learning to give these builders the one API they need to automate the understanding of documents and give their software human-like superpowers.\r\n\nBased on three pillars:\r\n- A product: a universal self-service platform where builders can train their own models\r\n- A catalog of use-cases: We push critical use cases to the limits of human performances in critical markets such as Accounting software, AP Automation, Expense Management, KYC and many others\r\n- A internal capability to make tailor-made AI: We answer to specific needs from large customers that needs a custom AI of their own to handle their use cases",
+    "activity_status": "Active",
+    "website": "https://mindee.com",
+    "founded_date": 2018.0,
+    "team_size": 60.0,
+    "location": "Paris, France",
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:deep-learning; industry:developer-tools; industry:automation; industry:apis",
+    "founders": [
+        {
+            "name": "Jonathan Grandperrin, Founder",
+            "description": null,
+            "linkedin": "https://www.linkedin.com/in/jonathan-grandperrin-47014563/"
+        },
+        {
+            "name": "Mohamed Biaz, Founder",
+            "description": "Passionate about deep learning, I have several experiences in computer science and specially in machine learning. \n\nAfter graduating from a Mathematics degree in 2017, I founded Mindee, a startup specialized in computer vision and OCRs.",
+            "linkedin": "https://www.linkedin.com/in/mohamed-biaz-8268597a/"
+        },
+        {
+            "name": "Olivier Rey, Founder",
+            "description": "Passionate about technology, I founded Mindee to enable document parsing via APIs by leveraging the best of artificial intelligence.",
+            "linkedin": "https://www.linkedin.com/in/oliv-rey/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Mindee**\n\nFounded in 2018, Mindee is revolutionizing how businesses interact with documents through their AI Document Understanding API. Located in the heart of Paris, France, the company started with a simple premise: documents are ubiquitous, and understanding their content is crucial for automating workflows across various industries. By leveraging advanced AI and deep learning techniques, Mindee empowers software developers to infuse human-like capabilities into their applications, enabling the automation of document processing.\n\n**Mission and Core Offerings**  \nMindee's mission is clear: to provide a universal platform where developers can easily train and utilize custom models for document understanding. This is built around three foundational pillars:\n\n1. **Self-Service Product Platform**: A user-friendly platform that allows developers to train their own models tailored to specific document types.\n  \n2. **Extensive Use Case Catalog**: Mindee pushes the limits of tech in critical markets such as accounting software, accounts payable automation (AP), expense management, and Know Your Customer (KYC) processes, enhancing performance up to human-like levels.\n\n3. **Tailor-Made AI Solutions**: For larger clients with unique needs, Mindee offers customizable AI options to address specific challenges within their operations.\n\n**Team and Growth**  \nWith a team of about 60 dedicated employees, Mindee is part of Y Combinator's prestigious Batch W21, indicative of its potential and innovation in the AI sector. Nicolas Dessaigne serves as the Group Partner, steering the company\u2019s strategies. \n\n**What They Do**  \nMindee\u2019s platform encompasses various functionalities, enabling businesses to automate end-to-end document workflows, extract data intelligently, and streamline cumbersome processes:\n\n- **Document Process Automation**: Create seamless workflows from documents, enhancing operational efficiency.\n- **Custom Document Understanding**: Develop tailored APIs that align with specific business needs.\n- **Pre-Built Document Understanding APIs**: Utilize ready-to-go APIs for common document types, such as invoices, receipts, or financial documents.\n- **Open Source OCR Toolkit**: An adaptable OCR toolkit that allows for innovative uses in document processing.\n\n**Benefits and Impact**  \nMindee's solutions promise significant operational efficiencies:\n- **Reduce manual entry by up to 88%**, freeing staff from repetitive tasks.\n- **Decrease error rates by 30%**, moving towards more reliable document processing.\n- **Cut turnaround times by 57%**, thus boosting overall productivity.\n\n**Why Choose Mindee?**  \nWhether you're an operational professional or a software vendor, Mindee is designed to optimize your processes reliant on documentation. Their cutting-edge platform ensures data quality and integrates easily within existing business workflows.\n\nFor more information, you can explore their offerings at [Mindee\u2019s website](https://mindee.com). \n\nIn today\u2019s world of digital transformation, if optimizing your document workflows sounds like a good idea (it is), Mindee could be the partner you need to make that leap.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/390c3545a6b833aa1a2c76340c9ad5fd91d5ac7f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191537Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4dcdc5ec1d0e9ea53a54f10dfe22fd147a94c0ea62f43a36a655b6d68afff7f4",
+    "social_links": [
+        "https://www.linkedin.com/company/mindee",
+        "https://twitter.com/MindeeAPI",
+        "https://github.com/mindee"
+    ],
+    "logo_path": "data/logos\\Mindee_logo.png"
+}

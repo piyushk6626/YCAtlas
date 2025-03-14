@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/feroot-security",
+    "name": "Feroot Security",
+    "headline": "AI-powered Compliance Platform for PCI 4, CCPA, HIPAA, CIPA, 50+ laws",
+    "batch": "W21",
+    "description": "Feroot (YC W21) is the leading compliance and security platform for b2b websites that  helps you easily achieve and maintain compliance with PCI DSS 4.0.1, CCPA, CIPA, HIPAA and 50+ data privacy regulations.",
+    "activity_status": "Active",
+    "website": "https://www.feroot.com",
+    "founded_date": 2017.0,
+    "team_size": 24.0,
+    "location": "Toronto, Canada",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:compliance; industry:security; industry:privacy",
+    "founders": [
+        {
+            "name": "Ivan Tsarynny, Founder",
+            "description": "Ivan is the CEO and Co-Founder of Feroot Security. An Intelligent and automated security testing and run-time protection of the client-side of web applications. It provides an early warning, detection and management of data assets and risks. Feroot Security was awarded a number the NextAI Top Venture Award by NextCanada, 2019 Comet TOP 5 Cybersecurity Startups in Canada by Ingram Micro and Microsoft.",
+            "linkedin": "https://www.linkedin.com/in/ivantsarynny/"
+        },
+        {
+            "name": "Vitaliy Lim, Founder",
+            "description": null,
+            "linkedin": "https://linkedin.com/in/vitaliylim"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Feroot Security**\n\nFounded in 2017 and a part of Y Combinator's W21 batch, Feroot Security, headquartered in Toronto, Canada, is carving out a significant niche in the realm of digital compliance and security. Their mission centers around providing an AI-powered compliance platform that seamlessly integrates with B2B websites to facilitate adherence to a myriad of regulations including PCI DSS 4.0.1, CCPA, HIPAA, and CIPA, among over 50 other laws governing data privacy.\n\n**What They Do**\n\nFeroot simplifies the complex landscape of compliance by offering solutions that ensure organizations meet strict digital security requirements. Their platform, branded Feroot GRC AI, empowers companies to automate compliance processes while enhancing website security against threats posed by third-party scripts and tracking technologies.\n\n**Key Products:**\n- **PaymentGuard AI:** Designed specifically to protect payment pages by ensuring PCI compliance.\n- **HealthData Shield AI:** Focused on safeguarding sensitive health information in line with HIPAA regulations.\n- **AlphaPrivacy AI:** Enhances data privacy measures for organizations, allowing them to monitor and control data access effectively.\n- **CodeGuard AI:** Protects applications from vulnerabilities originating from client-side scripts.\n\nFeroot\u2019s tools enable businesses to maintain continuous compliance with evolving regulations and safeguard customer data, crucial in an era where data breaches are not just costly but can damage reputations irreparably.\n\n**Market Focus and Reach**\n\nThe company caters to several key sectors including healthcare, e-commerce, financial services, and SaaS, ensuring that they meet each industry's specific regulatory needs. With a team of 24 dedicated employees, Feroot is actively helping its clients by securing over 3.1 million web pages and protecting more than 2.4 billion visitors to date.\n\n**Current Activities & Resources**\n\nFeroot is focused on educating businesses through resources like the \"Beware of Pixels and Trackers Report,\" designed to unveil blind spots that may lead to privacy and security risks. They offer free website assessments, enabling potential customers to identify risks without any upfront investment. \n\n**Why Feroot?**\n\nIn a digital landscape riddled with evolving threats, Feroot stands out by addressing the security gaps left by traditional security tools, which often overlook client-side vulnerabilities. As pointed out by users, the shift from server-side to client-side security is a critical trend, and Feroot is positioned to lead the charge.\n\nSo, if you\u2019re looking to ease the burden of compliance while strengthening your web security, Feroot might just be the partner you need. Check them out at [Feroot.com](https://www.feroot.com) to explore how they can help protect your online presence today.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/c2fb033e68ccf990f61439e7f835accb5e320268.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=49b8af2e6205514637d1e7b2bf93a9cec7c7feb3446bd8a30dc14875bde231a2",
+    "social_links": [
+        "https://www.linkedin.com/company/feroot/",
+        "https://x.com/FerootSecurity",
+        "https://www.crunchbase.com/organization/feroot"
+    ],
+    "logo_path": "data/logos\\Feroot_Security_logo.png"
+}

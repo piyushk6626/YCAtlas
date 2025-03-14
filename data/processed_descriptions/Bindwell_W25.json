@@ -1,0 +1,37 @@
+{
+    "Links": "https://www.ycombinator.com/companies/bindwell",
+    "Name": "Bindwell",
+    "Headline": "Discovering new pesticides with AI",
+    "Batch": "W25",
+    "Description": "We're developing better, safer pesticides in-house using custom AI models. \r\n\nOur latest model, Foldwell, is the AlphaFold killer\u2014it's four times faster than AlphaFold 3.",
+    "Activity_Status": "Active",
+    "Website": "https://www.bindwell.ai/",
+    "Founded_Date": "2024",
+    "Team_Size": "3",
+    "Location": "San Francisco",
+    "Group_Partner_YC": "https://www.ycombinator.com/people/aaron-epstein",
+    "Group_Partner": "Aaron Epstein",
+    "Company_Linkedin": "https://www.linkedin.com/company/bindwell",
+    "Company_Twitter": "",
+    "Tags": "industry:ai-powered-drug-discovery; industry:agriculture; industry:sustainable-agriculture; location:san-francisco-bay-area",
+    "social_links": [
+        "https://www.linkedin.com/company/bindwell",
+        "https://x.com/bindwell_ai",
+        "github.com/Bindwell"
+    ],
+    "logo_path": "data\\logos\\Bindwell.png",
+    "Active_Founders": [
+        {
+            "Name": "Tyler Rose, Founder",
+            "Description": "Founder @ Bindwell. Former Wolfram Research, background in ML engineering and biology. Big fan of hackathons and open-source projects.",
+            "LinkedIn": "https://www.linkedin.com/in/tylerarose/"
+        },
+        {
+            "Name": "Navvye Anand, Founder",
+            "Description": "Founder @ Bindwell: AI Platform for Pesticide R&D. I'm passionate about bioinformatics and AI, exploring the intersection of biology & natural language processing: ex-Caltech student and World Science Scholar.",
+            "LinkedIn": "https://www.linkedin.com/in/navvye-anand/"
+        }
+    ],
+    "crawl_status": true,
+    "generated_description": "Bindwell is a forward-thinking company on a mission to revolutionize the pesticide industry using artificial intelligence. Founded in 2024, this San Francisco-based startup emerged from Y Combinator's Batch W25. With a lean team of just three employees, including co-founders Navvye Anand and Tyler Rose, Bindwell aims to create better, safer pesticides by addressing the stagnation in the agrochemical sector.\n\nThe problem they're tackling is clear: despite a doubling in pesticide usage since 2000, we're still losing a significant portion of crops\u201420-40%\u2014to pests. The industry's reliance on outdated solutions has resulted in a cycle of increasing resistance, forcing farmers to apply more chemicals, which only exacerbates the issue. Bindwell recognizes that the pesticide discovery process hasn't kept pace with advancements in other fields, particularly drug discovery powered by AI.\n\nEnter Bindwell\u2019s unique approach. Their flagship AI model, Foldwell, is an advanced replacement for AlphaFold, boasting a speed that\u2019s four times faster. This efficiency allows them to conduct biological assays in seconds\u2014transforming a process that previously took days. They also leverage other state-of-the-art models, like PLAPT for protein-ligand interactions and APPT for biopesticide screening, to identify new pesticide candidates with high specificity.\n\nBindwell doesn\u2019t just develop proprietary technology; they also embrace openness, making many of their models available on GitHub to encourage innovation and collaboration within the community. Their approach is one of speed and precision\u2014using AI to power through the traditionally cumbersome pesticide discovery process.\n\nThe team is anchored by their shared vision and background. Anand and Rose are Indo-Chinese founders who left academia to take on this complex challenge, fueled by personal ties to agricultural lands. They are bolstered by Max Niederman, an open-source enthusiast, whose diverse interests enrich their collaborative spirit.\n\nBacked by notable investors, including Paul Graham, Bindwell is well-positioned to lead the charge in creating the next generation of sustainable agriculture solutions. They're not just building software; they are reshaping an industry that desperately needs innovation. Check out their work at [Bindwell.ai](https://www.bindwell.ai/) and see how they plan to turn the world of pesticides on its head."
+}

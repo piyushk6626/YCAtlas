@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/quill-ai",
+    "name": "Quill AI",
+    "headline": "AI Powered Equity Research Platform",
+    "batch": "S23",
+    "description": "Quill AI automates the tedious parts of researching and investing in public equities. Extract back-linked data from SEC filings and earnings calls, get excel-downloadable financial historicals with company-specific KPIs, and digest earnings results faster every quarter. Faster processes help you increase your coverage per analyst.",
+    "activity_status": "Active",
+    "website": "https://quillai.com",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "New York",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:fintech; industry:automation; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Gabriel Banks, Founder",
+            "description": "Love to touch computer all day",
+            "linkedin": "https://linkedin.com/in/gabriel-banks-662548230"
+        },
+        {
+            "name": "Kartik Donepudi, Founder",
+            "description": "Quill AI, Computer Science and Economics at MIT",
+            "linkedin": "https://linkedin.com/in/kartik-donepudi-763a22167"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Quill AI: Rethinking Equity Research with AI**\n\nFounded in 2023, Quill AI has quickly captured attention in the world of fintech and equity research. Nestled in New York and a participant in Y Combinator\u2019s S23 batch, they are a compact team of three, spearheaded by Jared Friedman as their group partner. Their mission? To transform how analysts interact with public equity data.\n\nAt its core, Quill AI is about automation and efficiency. Where traditional equity research can be a tedious slog through SEC filings and earnings calls, Quill AI offers an intelligent solution that not only extracts relevant data but also cleans and organizes it for quick analysis. This means that analysts can focus on making informed decisions rather than getting bogged down in spreadsheet gymnastics.\n\nQuill AI\u2019s web application allows users to pose specific questions about companies and their financials\u2014think of it like having a financial research assistant that doesn\u2019t need coffee breaks. Want to know Tesla's latest factory updates or Amazon's quarterly revenue? Just ask. The AI is designed to pull precise information, complete with source citations, ensuring that what you get is not just timely, but also accurate.\n\nTheir Excel extension adds even more power: it updates your models automatically with fresh data from earnings releases, eradicating the drudgery of manual updates. This kind of integration boosts an analyst\u2019s productivity, allowing them to cover more ground with the same time investment.\n\nQuill AI has also developed robust features like historical financial data retrieval, real-time alerts for SEC filings, and extensive context for earnings call metrics. Analysts at major firms like Morgan Stanley and Goldman Sachs are already using Quill to sharpen their insights and improve their reporting.\n\nPricing for Quill AI is straightforward\u2014$39 per month for web-only access, with a demo available for those interested in their enterprise solutions that include API access and workflow automation.\n\nIn a landscape cluttered with data, Quill AI is carving out a niche by making messy financial information accessible and useful. They are at the forefront of the AI-driven finance revolution, making investing smarter and more efficient, one spreadsheet at a time. For more information, check out their website: [quillai.com](https://quillai.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/754f88e043550450c39985dc0aabe8f91525b984.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191702Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ef08a752439072c373c536b1ec035bf9f64f67942e2f1cc24649c8d3a705d7b0",
+    "social_links": [
+        "https://www.linkedin.com/company/quill-ai/"
+    ],
+    "logo_path": "data/logos\\Quill_AI_logo.png"
+}

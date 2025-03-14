@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/common-paper",
+    "name": "Common Paper",
+    "headline": "The SAFE for commercial contracts",
+    "batch": "W23",
+    "description": "Common Paper is a contracting platform that helps startups close deals with their customers faster and with less risk.\r\n\nWe create standard, open-source contracts for commercial transactions, including NDAs, DPAs, and sales agreements. These are analogous to the SAFE, but are between customers and vendors rather than investors and startups. The standardized format means that data within contracts is structured from inception. \r\n\nWe build software for managing standard contracts, accelerating sales cycles, and making the data within the contracts programmatically accessible to other business systems.\r\n\nThousands of people have downloaded our standard contracts, and 63% of the contracts on our system close within 24 hours.",
+    "activity_status": "Active",
+    "website": "https://commonpaper.com/",
+    "founded_date": 2020.0,
+    "team_size": 9.0,
+    "location": "Philadelphia, PA",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:open-source; industry:sales; industry:legal; industry:legaltech",
+    "founders": [
+        {
+            "name": "Benjamin Garvey, Founder",
+            "description": "CTO @ Common Paper. Formerly RJMetrics / Magento / Adobe / Betterment.  Loves charts and Twin Peaks.",
+            "linkedin": "https://www.linkedin.com/in/bengarvey/"
+        },
+        {
+            "name": "Jake Stein, Founder",
+            "description": "Jake Stein is co-founder and CEO of Common Paper. Previously, he was co-founder of RJMetrics (acquired by Magento, then Adobe) and Stitch (acquired by Talend). \n\nBefore RJMetrics, Jake worked in venture capital, started a landscaping business in high school, and was the 44th ranked table tennis player under 21 in New Jersey; achievements of which he is equally proud.",
+            "linkedin": "https://www.linkedin.com/in/jakestein/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Common Paper: Simplifying Commercial Contracts**\n\n**Overview**\nFounded in 2020 and hailing from Philadelphia, PA, Common Paper is a dynamic startup that focuses on revolutionizing the way commercial contracts are created and managed. They emerged from the Y Combinator Batch W23 and are spearheaded by a tight-knit team of nine. Their mission? To serve as the SAFE (Simple Agreement for Future Equity) for commercial contracts, simplifying transactions between vendors and customers.\n\n**What They Do**\nCommon Paper creates and offers access to standard, open-source contracts, including NDAs, DPAs, and sales agreements. This approach streamlines the negotiation process by ensuring that data within contracts is organized from the beginning. Their goal is clear: help startups move faster in closing deals with reduced risk. \n\nIn fact, they report an impressive statistic\u201463% of contracts within their system close within 24 hours. This efficiency is built upon a simple premise: by providing standardized agreements, they eliminate much of the friction typically associated with contract negotiations.\n\n**Tech and Features**\nAt the heart of Common Paper\u2019s offering is a robust software platform. This platform allows users to not only build and negotiate contracts quickly but also manage them seamlessly. The platform makes contract data programmatically accessible, enabling easier integration with other business systems. \n\nCommon Paper's tools are trusted by numerous organizations, enhancing their credibility and effectiveness in streamlining commercial negotiations. Their website features a variety of resources, including a Language Library, a Help Center, and detailed API documentation.\n\n**Client Testimonials**\nFeedback from industry players speaks volumes about the service's value. For instance, Kelly Martin, Managing Counsel at Figma, lauds Common Paper for streamlining their commercial negotiations, allowing legal teams to focus on more critical tasks while keeping sales teams happy with faster processes.\n\n**Conclusion**\nBy combining straightforward, standardized contracts with an efficient management system, Common Paper is shaking up the legal tech landscape. Their approach empowers startups, reduces risk, and accelerates sales cycles\u2014making them a notable player in the SaaS and legaltech sectors. If you\u2019re interested in learning more or want to see how they can help your business, check them out: [Common Paper](https://commonpaper.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9f6d15e0c4a17a432a82376ce8af5b7471be43ff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191059Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f5d0d3aca38e7156e373223010a670acf8b92d9cd7cb7e075c82f6aaea401acb",
+    "social_links": [
+        "https://www.linkedin.com/company/common-paper",
+        "https://twitter.com/UseCommonPaper",
+        "https://www.facebook.com/profile.php?id=100076076826750",
+        "https://www.crunchbase.com/organization/common-paper"
+    ],
+    "logo_path": "data/logos\\Common_Paper_logo.png"
+}

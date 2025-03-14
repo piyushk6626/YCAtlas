@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/facio",
+    "name": "Facio",
+    "headline": "Salary advance to employees in Brazil.",
+    "batch": "W20",
+    "description": null,
+    "activity_status": "Active",
+    "website": "https://www.facio.com.br/",
+    "founded_date": 2019.0,
+    "team_size": 36.0,
+    "location": null,
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "M\u00e1rcio Dos Santos, Founder",
+            "description": "Experienced lead engineer with 15+ years of experience. Wide range of experience in software development, team management, culture builder, and product shipping. Focus on productivity, quality, and innovation. Worked in 3 different countries.\n\nPassionate by the engineering side of Machine Learning. Designed TensorFlow experience for AWS SageMaker.\n\nInterested in Machine Learning training and serving performance, ML pipelines, TensorFlow, PyTorch, architecture, scale, and AWS.",
+            "linkedin": "https://www.linkedin.com/in/marcio-dos-santos/"
+        },
+        {
+            "name": "Saulo Tristao, Founder",
+            "description": "Saulo is starting a new fintech to help employees afflicted by restricted access to credit. His new venture just closed a seed round and is on its way building a stellar engineering crew. Saulo was Head of Marketing for SumUp Brazil . As the second person on the ground in Brazil, he structured the marketing and product from scratch. He graduated in Aeronautical Engineer and concluded his MBA at Stanford GSB. He was an Eventing Rider and Member of the Brazilian Team at the Beijing Olympics (2008)",
+            "linkedin": "https://www.linkedin.com/in/saulo-tristao-4332331b/"
+        },
+        {
+            "name": "Ticiano Vieira, Founder",
+            "description": "I'm a nerd and tech enthusiast-- still build my own rig and discuss physics breakthroughs.\n\nAfter quite a ride helping build SumUp, I now focus my energy rethinking credit availability in Brazil. We're building an original solution to give customers financial peace of mind in times of need.\n\nI'm also an engaged AIESEC alumni and hold an Engineering Physics degree from UFSCar.",
+            "linkedin": "https://www.linkedin.com/in/ticiano/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Facio: A Quick Dive into Their Business**\n\nFounded in 2019, Facio is a Brazilian fintech that offers salary advances to employees, a crucial service in a country where financial flexibility can make a real difference in people's lives. They emerged from the Y Combinator Batch W20, which gives them a nod of credibility and a solid network to tap into as they scale.\n\nWith a team of 36 employees, Facio has streamlined the process of accessing money. Their website promises \u201cDinheiro na conta em 2 minutos\u201d\u2014money in your account in just 2 minutes\u2014with fees starting as low as R$9.90. It\u2019s about making small amounts of cash more accessible; something that resonates with the typical concerns of everyday workers.\n\nThe process is straightforward:\n1. **Credit Analysis**: Users fill out a simple form to get started.\n2. **Choose an Offer**: After the analysis, users select an offer that suits their needs.\n3. **Pay When Paid**: The beauty of the model\u2014repay when you receive your salary.\n\nThis kind of model not only empowers employees but also addresses the cash flow issues many face, especially in unpredictable economic climates.\n\nIf you're looking to learn more, their platform is user-friendly. They've also provided various support options, including a central help section for FAQs and active WhatsApp communication for quick assistance. For those savvy enough, their mobile app is available for both Android and iOS, ensuring that managing finances is just a tap away.\n\n**Key Details to Know:**\n- **Website**: [facio.com.br](https://www.facio.com.br/)\n- **Location**: S\u00e3o Paulo, Brazil \n- **Leadership**: Michael Seibel as a group partner\n- **Customer Experience**: Emphasis on quick service with a focus on user satisfaction.\n\nIn essence, Facio is about enabling financial independence and making cash flow less of a worry. With their model, they\u2019re not just offering a service, but a pathway to a more secure financial future for Brazilian employees.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f682843eb8c65a86a2696aa0fa932cc1dfc33e04.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191325Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=782b95bb9a6fae671c4ba8023bd4f7fbf211135068aef8ea628fac8f4baf9a29",
+    "social_links": [
+        "https://www.crunchbase.com/organization/facio-b68a"
+    ],
+    "logo_path": "data/logos\\Facio_logo.png"
+}

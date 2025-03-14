@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/supabase",
+    "name": "Supabase",
+    "headline": "Build in a weekend. Scale to billions.",
+    "batch": "S20",
+    "description": "Supabase is the easiest way to get started with Postgres. \r\n\nEach project within Supabase is an isolated Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.\r\n\nWe are 100% remote.",
+    "activity_status": "Active",
+    "website": "https://supabase.com",
+    "founded_date": 2020.0,
+    "team_size": 70.0,
+    "location": "San Francisco",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:open-source; industry:big-data; industry:data-engineering; industry:databases; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Paul Copplestone, Founder",
+            "description": "CEO, Supabase.",
+            "linkedin": "https://www.linkedin.com/in/paulcopplestone/"
+        },
+        {
+            "name": "Ant Wilson, Founder",
+            "description": "CTO @ Supabase (YC S20)",
+            "linkedin": "https://www.linkedin.com/in/anthony-wilson-46179937/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Supabase: Build in a Weekend, Scale to Billions\n\n**Overview:**  \nSupabase, founded in 2020 and a proud participant in Y Combinator (Batch S20), aims to simplify the development process for programmers by providing an alternative to Firebase. With a mission statement to \"Build in a weekend, scale to billions,\" it sets out to democratize backend development.\n\n**Key Features:**\n- **Postgres Made Easy:** Each project in the Supabase ecosystem operates on its own isolated Postgres cluster. This gives developers the freedom to scale depending on their needs without constraints. Supabase not only sets up the database in a flash but also integrates authentication, row-level security, real-time data streams, APIs that generate automatically, and a user-friendly web interface.\n  \n- **Developer Tools:** Supabase comes packed with features including:\n  - **Authentication** that secures data with Row Level Security.\n  - **Edge Functions** that allow developers to deploy code without worrying about server management.\n  - **Real-time capabilities** enabling live interactions.\n  - **Data APIs** that automatically provide ready-made RESTful APIs.\n  - **Storage solutions** for managing and serving large files, such as videos and images.\n  - **Vector embeddings** for integrating machine learning models seamlessly.\n\n**Team and Structure:**  \nSupabase operates fully remotely with a dynamic team of around 70 members. It\u2019s spearheaded by Jared Friedman, who serves as their Group Partner. The company is headquartered in San Francisco and participates actively in the open-source community, positioning itself as a go-to tool for developers looking to streamline their backend processes.\n\n**Community and Validation:**  \nSupabase has a robust user base, with successful case studies ranging from small startups to bigger companies like Mozilla and 1Password, illustrating its versatility. Users echo positive sentiments around its ease of use, especially in setting up applications that traditionally took longer with competing solutions.\n\n**Future Prospects:**  \nAs the platform continues to evolve, Supabase remains committed to enhancing its offerings while fostering a community-centric approach. With its strong focus on building developer-friendly tools, it certainly positions itself as a formidable player in the backend-as-a-service space.\n\n**Learn More:**  \nDive into Supabase\u2019s extensive documentation and start your project on their website: [Supabase](https://supabase.com).\n\nIn short, Supabase is not just a tool\u2014it\u2019s a platform that empowers developers to focus on building rather than wrestling with complex backend setups. If you\u2019re looking to kickstart your next project effortlessly, Supabase is undoubtedly worth exploring.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/07c5442909fdf02d563ce57187c8e2c4e615d016.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191956Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f4cf04fe75c41702bea7a26ff637eb6067ee39403d01ade482603fd8795d2cab",
+    "social_links": [
+        "https://www.linkedin.com/company/supabase/",
+        "https://twitter.com/supabase",
+        "https://github.com/supabase"
+    ],
+    "logo_path": "data/logos\\Supabase_logo.png"
+}

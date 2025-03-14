@@ -1,0 +1,48 @@
+{
+    "links": "https://www.ycombinator.com/companies/trigger-dev",
+    "name": "Trigger.dev",
+    "headline": "Open source background jobs with no timeouts.",
+    "batch": "W23",
+    "description": "Create durable background jobs directly in your codebase with no timeouts.\r\n\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple\u2019s App of the Year.",
+    "activity_status": "Active",
+    "website": "https://trigger.dev",
+    "founded_date": 2022.0,
+    "team_size": 5.0,
+    "location": "London, United Kingdom",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:productivity; industry:open-source",
+    "founders": [
+        {
+            "name": "Matt Aitken, Founder",
+            "description": "Matt Aitken is the CEO of Trigger.dev, a developer tool that makes creating automation workflows a great experience in your codebase. He's a programmer who previously created two iPad apps that went on to win Apple's iPad app of the year award. He's worked on several startups including building JSON Hero, a popular developer tool.",
+            "linkedin": "https://www.linkedin.com/in/mattaitken1985/"
+        },
+        {
+            "name": "Eric Allam, Founder",
+            "description": "Eric Allam is the founder and CTO of Trigger.dev, the developer-first open source Zapier Alternative. He's previously co-founded CodeSchool.com and works on JSON Hero, a popular developer tool.",
+            "linkedin": "https://www.linkedin.com/in/eric-allam/"
+        },
+        {
+            "name": "Dan Patel, Founder",
+            "description": "Co-founder of Trigger.dev; the background jobs framework for Typescript, and JSON Hero.",
+            "linkedin": "https://www.linkedin.com/in/danielkpatel/"
+        },
+        {
+            "name": "James Ritchie, Founder",
+            "description": "I'm co-founder and frontend engineer of Trigger.dev, a developer tool for creating background jobs in code. Previously I was a product lead at a number of VC backed startups. I also built JSON Hero, another popular OSS developer tool.",
+            "linkedin": "https://www.linkedin.com/in/jamesritchiecv/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Trigger.dev: Revolutionizing Background Jobs for Developers**\n\nFounded in 2022 and part of Y Combinator's Batch W23, Trigger.dev is on a mission to simplify background job management by offering an open-source platform with no timeouts. It allows developers to write durable background jobs directly in their codebase, ensuring reliability and flexibility.\n\n### What\u2019s the Big Idea?\n\nInitially kickstarted from the success of creating JSON Hero\u2014a popular open-source JSON viewer used by over 35,000 developers\u2014Trigger.dev builds on that momentum. The founders, Eric and Matt, come from rich backgrounds in tech; Eric was the CTO of Code School, while Matt created award-winning iPad apps. Their collective experience forms a solid foundation for Trigger.dev's ambitious goals.\n\n### Why Trigger.dev Stands Out\n\n1. **No Timeouts:** Developers can now write simple, reliable code that won\u2019t run into latency issues.  \n2. **Pay-for-What-You-Use Model:** Their pricing model only charges when tasks actively execute.\n3. **No Server Management:** The platform takes on the complexities of scaling and infrastructure management, letting developers focus on building.\n\n### Key Features\n\n- **Realtimely Connect:** Seamless integration of frontend applications with task management.\n- **Concurrency Control:** Fine-tune how many tasks run concurrently, optimizing performance.\n- **Observability & Monitoring:** Real-time insights into task performance.\n- **Durable Scheduling:** Set up cron jobs that won't time out.\n\nWith a lean team of five based in London, Trigger.dev marries innovative technology with user needs, and their open-source approach (Apache 2.0 licensed) greatly appeals to a developer-centric audience.\n\n### Community and Adoption\n\nTrigger.dev is seeing traction in the developer community, evidenced by over 10.3k stars on GitHub and a vibrant Discord chat group with 3.1k members. Developers from various companies attest to its transformative impact on their workflows. \n\n### Testimonials and Backing\n\nRenowned entities like Supabase and Dropbox back Trigger.dev, validating its potential to redefine how background jobs are handled. Users describe it as a game-changer\u2014if you previously needed a complex setup of AWS Lambda with restrictive timeout limits, Trigger.dev offers a much smoother ride.\n\n### Conclusion\n\nIf you're developing applications that require robust backend job processing without the hassle of timeouts and server management, Trigger.dev is definitely worth exploring. Their streamlined documentation and quick start guides make it easy to dive in, ensuring you can get up and running in a matter of minutes.\n\n**Ready to simplify your background job processes? Check out [Trigger.dev](https://trigger.dev) and start building today!**",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/ae48c622b3c61f5e9d1e6c4e87c528f8d45ae9c0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192028Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=926cade9a5a29c2a0f78d55a34a5fbc6ff3dbc5ca2a586dc564ed08d66a4688a",
+    "social_links": [
+        "https://www.linkedin.com/company/triggerdotdev/",
+        "https://twitter.com/triggerdotdev",
+        "https://github.com/triggerdotdev/trigger.dev"
+    ],
+    "logo_path": "data/logos\\Trigger.dev_logo.png"
+}

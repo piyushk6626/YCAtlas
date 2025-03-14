@@ -1,0 +1,35 @@
+{
+    "links": "https://www.ycombinator.com/companies/activeloop",
+    "name": "Activeloop",
+    "headline": "Database for AI",
+    "batch": "S18",
+    "description": "We provide a simple API for creating, storing, versioning, and collaborating on multi-modal AI datasets of any size. With Activeloop's open-core stack, you can rapidly transform and stream data while training models at scale. Deep Lake powers foundational model training by acting as a vector database with significant benefits, such as (1) the ability to use multi-modal datasets to fine-tune your own LLM models, (2) storing both the embeddings and the original data with automatic version control, so no embedding re-computation is needed (3) truly serverless service with no vendor lock-in. How cool is that?\r\n\nGitHub loves us - we're one of the fastest-growing libraries there, and we're used by little-known companies like Google, Waymo, and Intel. No big deal. \r\n\nOur founding team hails from places like Princeton, Stanford, Google, and Tesla, and we're backed by Y Combinator & other Silicon Valley heavyweights. \r\n\nActiveloop is hiring, and we want you! Check out our open roles on our YC page and join the fun.\r\n\n10-min demo: https://activeloop.wistia.com/medias/aibvo0dst2\r\nWhitepaper: https://www.deeplake.ai/whitepaper",
+    "activity_status": "Active",
+    "website": "https://activeloop.ai/",
+    "founded_date": 2018.0,
+    "team_size": 15.0,
+    "location": "Mountain View",
+    "group_partner": "Diana Hu",
+    "group_partner_yc": "https://www.ycombinator.com/people/diana-hu",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:computational-storage; industry:deep-learning; industry:generative-ai; industry:computer-vision; industry:open-source; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Davit Buniatyan, Founder",
+            "description": "Founding CEO Activeloop, PhD on leave from Princeton, AI/ML, Data and Infra, Y Combinator S18, UCL 16\u2019 Working on Data 2.0",
+            "linkedin": "https://www.linkedin.com/in/davidbuniatyan"
+        }
+    ],
+    "status": true,
+    "generated_description": "Activeloop is a dynamic startup founded in 2018 that\u2019s changing the game in artificial intelligence data management. With a mission that can be distilled into a simple phrase\u2014\u201cDatabase for AI\u201d\u2014Activeloop provides developers with an open-core platform designed specifically to manage multi-modal datasets efficiently and effectively.\n\nThe core of Activeloop\u2019s offering is *Deep Lake*, a robust vector database that simplifies the process of creating, storing, versioning, and collaborating on AI datasets, no matter their size. Here\u2019s where it gets interesting: \n\n1. **Multi-Modal Capabilities**: Users can leverage various data types, from images to text, to fine-tune their language models (LLMs).\n2. **Automatic Version Control**: No more wasting time on redundant embedding re-computation; Deep Lake automatically handles this.\n3. **Serverless Functionality**: Developers get a truly serverless experience with no vendor lock-in, which is quite an attractive feature in the booming AI landscape.\n\nThe tool has gained traction rapidly\u2014think of big names like Google, Waymo, and Intel as some of the users. You'd be proud to know that GitHub has showered Activeloop with love, making it one of the fastest-growing libraries in the Python ecosystem with over 8,400 stars. \n\nThe founding team is no slouch either. Coming from prestigious institutions like Princeton and Stanford and companies like Google and Tesla, Activeloop has attracted ample attention from top-tier investors, including Y Combinator.\n\nLocated in Mountain View, California, Activeloop has a tight-knit team of 15. They're participating in exciting projects across various sectors\u2014agriculture, biomedical healthcare, autonomous vehicles, and generative AI. Each case study showcases substantial improvements, like enhancing data prep times and cutting GPU costs significantly.\n\nThe company remains committed to growth and hiring. They're looking for innovative minds to join their mission, and the call to action encourages potential applicants to check out their open roles.\n\nFor anyone interested in diving deeper, Activeloop offers an engaging demo of their technology [here](https://activeloop.wistia.com/medias/aibvo0dst2) and provides a more comprehensive view in their [whitepaper](https://www.deeplake.ai/whitepaper). \n\nIf you want to know more or perhaps collaborate, check out their [website](https://activeloop.ai/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/e513dad444b8ff140740bca3b9100f4ad4091476.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190942Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3e3977b215035cc7f6cc314a9516c4bae8eecd0dfa317cae2d8038a2421ce527",
+    "social_links": [
+        "https://www.linkedin.com/company/activeloop",
+        "https://twitter.com/activeloopai",
+        "https://www.facebook.com/activeloopai",
+        "https://www.crunchbase.com/organization/snark-ai",
+        "https://github.com/activeloopai"
+    ],
+    "logo_path": "data/logos\\Activeloop_logo.png"
+}

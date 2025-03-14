@@ -1,0 +1,29 @@
+{
+    "links": "https://www.ycombinator.com/companies/abel-police",
+    "name": "Abel Police",
+    "headline": "Automating police paperwork",
+    "batch": "S24",
+    "description": "Abel takes police body camera footage and turns it into completed police reports. Currently American patrol officers spend one third of their shift writing reports - turning that to zero would increase the effective police force by 50%, radically changing US cities.",
+    "activity_status": "Active",
+    "website": "http://abelpolice.com",
+    "founded_date": 2024.0,
+    "team_size": 5.0,
+    "location": null,
+    "group_partner": "Garry Tan",
+    "group_partner_yc": "https://www.ycombinator.com/people/garry-tan",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": null,
+    "founders": [
+        {
+            "name": "Daniel Francis, Founder",
+            "description": "Software engineer who built and sold a fitness app, now interested in police technology",
+            "linkedin": "https://www.linkedin.com/in/daniel-francis/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Abel Police is on a mission to revolutionize law enforcement bureaucracy by automating police paperwork. Founded in 2024 and part of Y Combinator's S24 batch, Abel has taken on the hefty task of transforming body camera footage into complete police reports. This is a game-changer. As it stands, American patrol officers spend about one-third of their shifts wrestling with paperwork. Abel aims to eliminate that entirely, which could boost the effective police force by a staggering 50%. Imagine what that could do for urban safety.\n\nThe company operates out of San Francisco and is a small but mighty team of five. They leverage advanced video interpretation and transcription technologies to process and rewrite footage into actionable narratives and data. This not only frees up officers\u2019 time but also integrates seamlessly with existing systems\u2014no data migration or complicated installation needed. Just access to the evidence locker and a simple browser extension, and you\u2019re good to go.\n\nSecurity is a top priority, with all data hosted on AWS GovCloud, ensuring compliance with CJIS regulations and encryption. Not to mention, the company is backed by Garry Tan, a prominent figure in the startup ecosystem.\n\nIf you\u2019re involved in law enforcement and tired of the paperwork grind, it might be worth checking out Abel\u2019s platform. They\u2019re wrapping up their initial development phase and currently seeking new agency partners. Interested? You can get started by booking a demo at [Abel Police](http://abelpolice.com).\n\nTheir vision is clear: a future where police work isn\u2019t bogged down by tedious paperwork, but is instead focused on enhancing community safety and responsiveness. With Abel, it\u2019s time to leave the paperwork behind.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9d61cb886793b0c4978a19af7f581d614357d083.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190937Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=130e349fcac687ea6a6289fca272984b06510729e674b9b4b76fc9aeba2e61c2",
+    "social_links": [],
+    "logo_path": "data/logos\\Abel_Police_logo.png"
+}

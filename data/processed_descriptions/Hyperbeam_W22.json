@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/hyperbeam",
+    "name": "Hyperbeam",
+    "headline": "API for shared embeddable web browsers",
+    "batch": "W22",
+    "description": "Emebedding third-party apps and websites can often be a nightmare due to incompatible platforms, security issues, and poor UX. Adding multiplayer functionality to these embeds makes this problem exponentially more difficult.\r\n\nEnter Hyperbeam\u2014an API that lets you embed virtual computers anywhere, including web, mobile, VR, and even VSCode. You can then open any third-party website or application, synchronize audio and video flawlessly among multiple participants, and add multi-user control with just a few lines of code. Uses cases and customer segments include remote learning, virtual offices, online casinos, productivity, watch parties and more.\r\n\nWe are three technical founders from the University of Waterloo, and worked as engineers at Facebook, Yahoo, and Lyft. Our technology is battle-tested\u2013we currently stream over 1.25M hours of video per month across every continent. https://hyperbeam.com?ch=yc",
+    "activity_status": "Active",
+    "website": "https://hyperbeam.com?ch=yc",
+    "founded_date": 2021.0,
+    "team_size": 3.0,
+    "location": "Waterloo, Canada",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:elearning; industry:virtual-reality; industry:api; industry:remote-work",
+    "founders": [
+        {
+            "name": "Philip Scott, Founder",
+            "description": "Philip is the co-founder and CEO of Hyperbeam, an API for embedding multiplayer web browsers. He studied software engineering at the University of Waterloo, where he met his co-founders Ambareesh Balaji and Declan Goncalves. For their capstone project, they created a watch party site called Tutturu.tv to watch anime with their friends. Tutturu.tv garnered 150K monthly active users and evolved into Hyperbeam. He has interned at numerous startups and big tech companies, including Lumina and Yahoo.",
+            "linkedin": "https://www.linkedin.com/in/philip-j-scott/"
+        },
+        {
+            "name": "Ambareesh Balaji, Founder",
+            "description": "Ambareesh is the co-founder & CTO of Hyperbeam, an API for embedding multiplayer web browsers. He met his co-founders Philip and Declan at the University of Waterloo, where Hyperbeam started off as their engineering capstone project Tutturu.tv, a watch party site with 150K monthly active users. He has interned as a Software Engineer at startups and big tech companies alike, such as Globality and Facebook.",
+            "linkedin": "https://www.linkedin.com/in/Ambyjkl"
+        }
+    ],
+    "status": true,
+    "generated_description": "Hyperbeam is a Canadian tech startup founded in 2021 by three engineers from the University of Waterloo who previously worked at heavyweights like Facebook, Yahoo, and Lyft. Currently part of Y Combinator's Winter 2022 batch, Hyperbeam is on a mission to simplify the world of virtual collaboration by providing an API that enables developers to embed shared, embeddable web browsers into their applications.\n\nThe problem they're tackling is significant: integrating third-party apps and websites can turn into a convoluted mess filled with compatibility and security issues. Hyperbeam\u2019s solution? A virtual computer that you can easily plug into your web, mobile, or even VR experiences. This isn't just about display; their API allows you to synchronize audio and video seamlessly across multiple users, and offers multi-user control without complicated setups\u2014just a few lines of code to get started.\n\nHyperbeam\u2019s use cases are plentiful: it\u2019s perfect for remote learning, virtual workspaces, online casinos, and even movie watch parties. With over 1.25 million hours streamed each month globally, it's clear there's a real demand for what they're offering.\n\nThe team is compact, consisting of just three dedicated members, allowing them to remain agile and focused. They\u2019re also backed by experienced investors like Aaron Epstein, which is a testament to their potential in the competitive developer-tools space.\n\nOne feature that stands out is ease of integration. Whether you're looking to build a collaborative workspace or an online social space, Hyperbeam aims to handle the backend complexity, letting you focus on user experience and functionality. With offerings like free usage of up to 10,000 minutes per month, it\u2019s designed to meet the needs of both small developers and larger enterprises.\n\nOverall, Hyperbeam is channeling a significant shift towards making collaboration more intuitive and less frustrating, embracing a future where remote interactions feel as real and seamless as being in the same room.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/516f3050a3bfa9b979cfa1f5bc0b03306b4a679b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191425Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=88d68b2935068725b1549d73f717e68c8ff4c09a0297de49c3a7b9ce86c3c61b",
+    "social_links": [
+        "https://www.linkedin.com/company/hyperbeam-api",
+        "https://twitter.com/hyperbeamapi",
+        "https://www.facebook.com/hyperbeamapi/",
+        "https://www.crunchbase.com/organization/hyperbeam"
+    ],
+    "logo_path": "data/logos\\Hyperbeam_logo.png"
+}

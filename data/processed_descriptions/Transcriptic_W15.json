@@ -1,0 +1,27 @@
+{
+    "links": "https://www.ycombinator.com/companies/transcriptic",
+    "name": "Transcriptic",
+    "headline": "The robotic cloud laboratory for the life sciences.",
+    "batch": "W15",
+    "description": "Founded in 2012, Transcriptic has developed the first robotic cloud lab platform for on-demand life science research. It\u2019s powered by the Transcriptic Common Lab Environment (TCLE) a scalable, digital infrastructure that integrates laboratory processes, instruments and IoT technologies into a single user interface. Researchers can carry out scalable, reproducible and rapid experimentation from anywhere in the world. \r\n\nTop ten pharmaceutical companies, as well as emerging biotech companies, are using the platform to gain more reproducibility and flexibility in the design and control of their experiments. By leveraging cloud-based technologies, users can access the power of a fully automated laboratory \u2013 whether in their own labs through an on-premise deployment of TCLE or through Transcriptic\u2019s Bioassays services \u2013 all through a simple web-based interface. \r\n\nTranscriptic is transforming drug discovery and synthetic biology research by helping scientists focus on accelerating discoveries instead of labor-intensive bench work.",
+    "activity_status": "Active",
+    "website": "http://transcriptic.com",
+    "founded_date": null,
+    "team_size": 13.0,
+    "location": "Menlo Park, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:robotics; industry:biotech; location:san-francisco-bay-area",
+    "founders": [],
+    "status": true,
+    "generated_description": "Transcriptic, founded in 2012 and hailing from Menlo Park, CA, is on a mission to revolutionize life sciences research with its innovative Robotic Cloud Laboratory platform. What's the big idea? They\u2019ve built a scalable, digital infrastructure called the Transcriptic Common Lab Environment (TCLE) that allows researchers to conduct experiments anywhere in the world. Imagine having the power of a fully automated lab at your fingertips, accessible via a simple web interface.\n\nThe platform is already making waves, with top pharmaceutical companies and burgeoning biotech firms leveraging its capabilities. They\u2019re using TCLE to enhance reproducibility and flexibility in their experimental designs. By shifting the focus from tedious, manual bench work to streamlined, rapid experimentation, Transcriptic is helping scientists accelerate their discoveries in drug development and synthetic biology.\n\nDespite being a relatively small team of 13, Transcriptic is well-positioned within the biotech landscape, showing promise as a key player in merging robotics with life sciences. They\u2019re part of the esteemed Y Combinator Batch W15, signaling their innovative approach is being taken seriously in the startup ecosystem.\n\nWith tags like 'robotics' and 'biotech' and a clear focus on transforming how scientific research is conducted, Transcriptic is undoubtedly a company to watch. For more details, you can check them out at [transcriptic.com](http://transcriptic.com).",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.linkedin.com/company/transcriptic/",
+        "https://twitter.com/transcriptic",
+        "https://www.crunchbase.com/organization/transcriptic",
+        "https://github.com/transcriptic"
+    ]
+}

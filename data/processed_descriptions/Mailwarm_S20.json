@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/mailwarm",
+    "name": "Mailwarm",
+    "headline": "Prevents marketing emails from landing in spam.",
+    "batch": "S20",
+    "description": "Mailwarm is a marketing software which takes care of your email deliverability so your emails reach your recipients' inboxes.\r\nMailwarm allows you to :\r\n- get a perfect email activity \r\n- raise your sender reputation\r\n- keep your email deliverability high",
+    "activity_status": "Active",
+    "website": "https://www.mailwarm.com",
+    "founded_date": 2020.0,
+    "team_size": 2.0,
+    "location": "Paris, France",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:saas; industry:b2b",
+    "founders": [
+        {
+            "name": "Gonzague Hacher, Founder",
+            "description": "Frenchy in love with tech.",
+            "linkedin": "https://www.linkedin.com/in/gonzaguehacher"
+        },
+        {
+            "name": "Amine Benjelloun, Founder",
+            "description": "Currently living in the UAE \ud83c\udde6\ud83c\uddea \nPreviously in France \ud83c\uddeb\ud83c\uddf7 \nBorn in Morocco \ud83c\uddf2\ud83c\udde6",
+            "linkedin": "https://www.linkedin.com/in/benjellouna/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Mailwarm: Keeping Your Emails Out of the Spam Folder**\n\nFounded in 2020 and part of Y Combinator's Summer 2020 batch, Mailwarm is a Paris-based startup on a mission to enhance email deliverability. Their job? Ensuring that the emails you labor over don\u2019t just vanish into spam oblivion. With a two-person team, they've streamlined the complexities of email marketing into a user-friendly SaaS platform focusing on raising sender reputation and maintaining high deliverability rates.\n\n### What Mailwarm Offers\nMailwarm essentially acts like a digital warm-up for your email account. Here\u2019s how it works:\n- **Perfect Email Activity**: Mailwarm boosts your email activity, ensuring that it meets both quantitative and qualitative thresholds required for landing in inboxes.\n- **Sender Reputation**: By interacting positively with your emails, it enhances your email, domain, and IP reputation \u2014 key players in the email ecosystem.\n- **High Deliverability**: Consistent daily operation keeps your email deliverability at optimal levels, reducing the chance of your emails being marked as spam.\n\n### How It Works\nThe cleverness of Mailwarm lies in its unique operation. The platform mimics legitimate user interactions: your email account sends out a bunch of emails to over a thousand Mailwarm accounts, generating replies and engagement. Your emails get opened, marked as important, and even replied to, all serving as positive signals to email providers\u2019 spam filters.\n\n### Set-Up Made Easy\nGetting started is a breeze. In three simple steps:\n1. **Sign Up**.\n2. **Link Your Email Account**.\n3. **Start the Warm-Up**.\n\nIn just two minutes, you can start improving your email deliverability, ensuring that every crafted message reaches its intended inbox.\n\n### Why Choose Mailwarm?\nThe testimonials speak volumes. Users report significant improvements in open rates and overall deliverability, especially for cold outreach campaigns. If you\u2019re tired of watching your carefully written emails slip into the abyss of spam, giving Mailwarm a go might just be the solution you need.\n\nFor anyone running email campaigns \u2014 especially in B2B \u2014 Mailwarm is a game changer. You can find out more and sign up for their services on [Mailwarm's website](https://www.mailwarm.com). \n\nSo if improving your email deliverability is on your agenda, why not give it a shot? After all, every email deserves an audience.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/bd4ea21011b8cde8fe04fe1c51e6c3f412676a67.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191521Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d1840f70a1dc4bf2fb592c286f7389168613713a4df661827a81584563a7ed21",
+    "social_links": [
+        "https://twitter.com/mailwarm",
+        "https://www.facebook.com/Mailwarm-102161834695215"
+    ],
+    "logo_path": "data/logos\\Mailwarm_logo.png"
+}

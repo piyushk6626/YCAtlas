@@ -1,0 +1,36 @@
+{
+    "links": "https://www.ycombinator.com/companies/palmier",
+    "name": "Palmier",
+    "headline": "AI Native Github Alternative",
+    "batch": "S24",
+    "description": "Code repositories are built for humans to understand and collaborate on code. But soon, they\u2019ll be used primarily by AIs working on our behalf. As this shift happens, the structure and processes around code must evolve.\r\n\nAt Palmier, we\u2019re building a new kind of code repository designed for AIs. Every line of code has a history behind it, and we\u2019re making that history accessible for AIs to create more efficient and reliable code, aligned with human intention.\r\n\nOur first product is a platform that helps developers work seamlessly with AI, improving efficiency. We aim to provide an API for any AI to interact with code, giving it the information needed to produce better quality code.\r\n\nReach out at founders@palmier.io",
+    "activity_status": "Active",
+    "website": "https://www.palmier.io",
+    "founded_date": 2024.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:b2b; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Marcos Rico Peng, Founder",
+            "description": "After graduating Berkeley in three years, I worked for a year and a half as an infra engineer at LinkedIn. Now co-founder and CEO of Palmier, building something people want! Documented my journey as a professional swimmer training to make the Paris Olympics on YouTube [143k+].",
+            "linkedin": "https://www.linkedin.com/in/marcosrico"
+        },
+        {
+            "name": "Harrison Tin, Founder",
+            "description": "Co-founder of Palmier. \n\nPreviously Software Engineer at Microsoft. Studied EECS at UC Berkeley.",
+            "linkedin": "https://www.linkedin.com/in/harrison-tin-a260321b3/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Palmier: Your AI-Powered GitHub Alternative\n\n**Mission**: Palmier is on a mission to reimagine code repositories for an AI-driven future. As code becomes increasingly managed by AI rather than humans, the entire structure and processes surrounding it need to evolve. Palmier aims to be at the forefront of this evolution. \n\n**Background**: Founded in 2024 and currently part of Y Combinator\u2019s Batch S24, Palmier started with a simple premise: create code repositories that are fundamentally built for human understanding and collaboration. But, with AI becoming a critical player in coding, Palmier is pivoting to facilitate this transition, designing repositories specifically for AI efficiency and reliability. \n\n**Product Offering**: Their flagship platform empowers developers by integrating seamlessly with AI, enabling enhanced productivity. At the core of Palmier's offering is an API designed for any AI to interact with code, allowing AIs to access the historical context of code and thus deliver higher quality, more reliable programming solutions. \n\n**How It Works**: One standout feature is the ability to tag `@palmier-bot solve` in GitHub issues. This triggers Palmier's AI to analyze the associated codebase and generate a well-crafted pull request (PR) in response to the issue. Whether it's optimizing performance in a processing pipeline or identifying key changes in PRs, Palmier's AI capabilities aim to streamline the workflow for developers.\n\n**Team**: Based in San Francisco, Palmier operates with a tight-knit team of two, showcasing an agile approach to innovation. The team benefits from the guidance of Michael Seibel, a prominent partner at Y Combinator, nudging them towards successful growth in the competitive tech landscape.\n\n**Clientele & Partnerships**: Trusted by engineers from notable organizations like Microsoft, LinkedIn, and UC Berkeley, Palmier is quickly establishing itself as a reliable resource for modern development teams seeking to navigate the evolving coding environment.\n\n**Get Involved**: Interested developers can dive in and experience Palmier's offerings firsthand\u2014a demo can be requested directly from their website [palmier.io](https://www.palmier.io), or reach out via email at founders@palmier.io.\n\nAs the coding landscape shifts, Palmier isn\u2019t just keeping pace; it\u2019s leading the charge towards a future where developers and AI collaborate more effectively than ever before.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/6ed5f5fab8628ef5b66bb9fd27e4db4996d73811.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191620Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=51fede976fa5662a1d783fd4bc40378b6168268d4c9e3a7aed6fee416c236b91",
+    "social_links": [
+        "https://www.linkedin.com/company/palmier-io"
+    ],
+    "logo_path": "data/logos\\Palmier_logo.png"
+}

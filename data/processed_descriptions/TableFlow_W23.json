@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/tableflow",
+    "name": "TableFlow",
+    "headline": "AI Agents for Document Workflows",
+    "batch": "W23",
+    "description": "Leverage AI to extract data from PDFs, CSVs, images, and emails instantly.",
+    "activity_status": "Active",
+    "website": "https://tableflow.com",
+    "founded_date": 2022.0,
+    "team_size": 2.0,
+    "location": "San Francisco",
+    "group_partner": "Brad Flora",
+    "group_partner_yc": "https://www.ycombinator.com/people/brad-flora",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:saas; industry:open-source; industry:data-engineering; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Mitch Patin, Founder",
+            "description": "Co-founder and CEO at TableFlow. Early engineer at Bolt (transitioned to product). First product hire at Heymarket.",
+            "linkedin": "https://www.linkedin.com/in/mitchpatin/"
+        },
+        {
+            "name": "Eric Ciminelli, Founder",
+            "description": "Co-founder and CTO at TableFlow. Early engineer on the commerce team at Facebook. First full-stack engineering hire at Heymarket.",
+            "linkedin": "https://www.linkedin.com/in/ericciminelli/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### TableFlow Overview\n\n**Company Name:** TableFlow  \n**Founded:** 2022  \n**Location:** San Francisco  \n**Website:** [tableflow.com](https://tableflow.com)  \n**Team Size:** 2 employees  \n**Y Combinator Batch:** W23  \n**Group Partner:** Brad Flora  \n\n#### Mission\nTableFlow aims to revolutionize document workflows by leveraging AI agents that automate the extraction of data from various formats\u2014like PDFs, CSVs, images, and emails\u2014instantly. Their focus centers around increasing efficiency and reducing manual efforts in document handling.\n\n#### How It Works\nTableFlow's process is robust and meticulous, entailing the following steps:\n\n1. **Collect:** Gather documents via email, API, SFTP, or integration.\n2. **Extract:** Pull text, numbers, and tables from documents while preserving context.\n3. **Classify:** Use human-like logic to categorize data into defined fields.\n4. **Validate:** Ensure data accuracy and transform it to meet specific requirements.\n5. **Complete:** Deliver validated data via preferred methods like API or direct integration.\n\nThis multi-stage process has proven effective, with TableFlow processing over 20,000 documents and extracting more than a billion data points, achieving a touchless completion rate exceeding 99%.\n\n#### Industries Served\nTableFlow\u2019s technology benefits a variety of sectors:\n- **Distribution & Wholesale:** Automates the processing of invoices and sales orders, drastically cutting manual effort.\n- **Supply Chain & Logistics:** Streamlines data extraction from purchase orders and shipping manifests to enhance accuracy and speed.\n- **Real Estate:** Guarantees faster decision-making through automated processing of contracts and mortgage documents.\n\n#### Security\nData protection is a priority; TableFlow complies with stringent standards:\n- **SOC 2 Type 2:** Ensures high security, availability, and confidentiality of data.\n- **GDPR Compliance:** Guarantees data privacy for users across the globe, reassured by strict international regulations.\n\n#### Value Proposition\nWith TableFlow, businesses unlock significant productivity gains. They offer:\n- **Smart Data Capture:** Minimizes manual entry and reduces errors.\n- **Customizable Workflows:** Adapts to changing operational requirements with ease.\n- **Real-Time Processing:** Accelerates insights and decision-making through continuous data access.\n- **Scalable Infrastructure:** Maintains reliability across varied document volumes and business sizes.\n\n### Call to Action\nFor organizations looking to enhance their operational efficiency through document automation, TableFlow invites you to [Book a Demo](https://tableflow.com/</demo>) and experience a tenfold increase in productivity. \n\nIn a nutshell, TableFlow is not just about data extraction; it's about transforming how businesses handle their documentation for a more efficient, error-free future.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/5b455b663ea2a73f1e0618eafc8d7f4c8ddb80cb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192003Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d882d1848d2ab887e728a6605f33f14488c9a6c0ecf7f82e9a0c536d8a102aca",
+    "social_links": [
+        "https://www.linkedin.com/company/tableflowhq",
+        "https://twitter.com/tableflow",
+        "https://www.crunchbase.com/organization/tableflow",
+        "https://github.com/tableflowhq"
+    ],
+    "logo_path": "data/logos\\TableFlow_logo.png"
+}

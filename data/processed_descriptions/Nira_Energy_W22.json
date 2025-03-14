@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/nira-energy",
+    "name": "Nira Energy",
+    "headline": "Software to find the best sites for renewables on the electrical grid",
+    "batch": "W22",
+    "description": "Nira is a map tool, built for renewable energy developers, that shows available capacity at every interconnection point on the electrical grid. Customers like AES and Cypress Creek use Nira to find the most profitable points on the grid to site new projects.",
+    "activity_status": "Active",
+    "website": "https://www.niraenergy.com/",
+    "founded_date": 2021.0,
+    "team_size": 20.0,
+    "location": null,
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:solar-power; industry:climate; industry:energy; industry:renewable-energy; industry:climatetech",
+    "founders": [
+        {
+            "name": "Chris Ariante, Founder",
+            "description": "I'm Nira's CEO and lead business development. \n\nPrior to Nira, I worked with Andrew at another grid startup and built a $150M pipeline of projects in <2 years. In that role, we worked as consultants for most of the major utilities and renewable developers in the US. \n\nWe are leveraging our industry expertise / network to build Nira and I couldn't be more excited about the impact we are having on accelerating renewable growth!",
+            "linkedin": "https://www.linkedin.com/in/chris-ariante-9302804a/"
+        },
+        {
+            "name": "Andy Chen, Founder",
+            "description": "I'm the cofounder and CTO at Nira Energy. I recently made the switch to working on climate tech and am loving it. I definitely got lucky meeting my cofounders Chris and Andrew, who are veterans in the renewable energy space with 10+ years of experience.\n\nI worked at Palantir as a software engineer for 2 years and a PM for one year. Before that I graduated from Brown with a BS in Computer Science. I live a 3 minute walk from my local surf beach in the Rockaways, NY.",
+            "linkedin": "https://www.linkedin.com/in/andy-chen-38596889/"
+        },
+        {
+            "name": "Andrew Martin, Founder",
+            "description": "My background is in studying power grids to ensure they will remain reliable for decades to come. This profession is called \"Transmission Planning\", and I lead the Transmission Planning team at Nira.\n\nOur team is codifying the way transmission planners study the grid to help expedite the integration of new power plants like solar, wind, and energy storage projects. Our clients use our software to more simply navigate this complex space.",
+            "linkedin": "https://www.linkedin.com/in/andrew-martin-539a5288/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Nira Energy: Powering the Future of Renewable Energy Site Selection**\n\nFounded in 2021 and a proud member of Y Combinator Batch W22, Nira Energy is revolutionizing the renewable energy landscape with its innovative mapping tool designed specifically for renewable energy developers. This tool simplifies the process of finding optimal sites for new projects by visualizing available capacity at every interconnection point on the electrical grid.\n\n### Mission\n\nNira's mission is straightforward: provide software that helps users identify the best locations for renewable energy installations on the electrical grid. By focusing on data-driven insights, Nira ensures developers can maximize their investments and minimize wasted efforts.\n\n### The Nira Tool\n\nInitially launched as a mapping solution, Nira has evolved into a comprehensive platform that allows users to:\n- Access capacity data across all substations within a particular region.\n- Conduct injection studies at each point of interconnection (POI).\n- Enjoy regularly refreshed data that updates automatically as system queues change.\n\nThis is especially beneficial for companies like AES and Cypress Creek, who have adopted Nira to streamline their site prospecting process. Customers highlight that using Nira can save them weeks of research by clearly identifying viable sites from the get-go.\n\n### Team and Leadership\n\nNira Energy is based in [location not specified] and boasts a dedicated team of 20 employees. They are guided by Gustaf Alstromer as their Group Partner, bringing valuable experience and insights to the team.\n\n### Why Nira Matters\n\nIn the ever-evolving realm of climate tech and renewable energy, having access to accurate and timely data is crucial. Nira's platform allows developers to avoid spending time on sites with no interconnection capacity, directing focus and resources to locations with high potential. \n\nFeedback from users speaks volumes: \"Nira has changed the game for prospecting,\" remarks Skye Mooney from AES, emphasizing how the tool has streamlined their site vetting process. Timothy Walsh from Doral Renewables echoes this sentiment, noting the speed and volume of sites they can now evaluate.\n\n### Additional Resources\n\nTo learn more or try out the platform, you can visit [Nira Energy's website](https://www.niraenergy.com/) where you\u2019ll find pricing options, FAQs, and even opportunities to schedule a demo.\n\nAs the world pivots towards sustainable energy solutions, Nira is well-positioned to be at the forefront of this transition, making the task of site selection not just easier but also smarter.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/d3ec90c6ceaca07c6c8e5e7555e38b7eeacf5991.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191600Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=761bf10398e7389cd631f9c9d5e65f6011d5040ce529177f4460fa41baed3360",
+    "social_links": [
+        "https://www.linkedin.com/company/74744310/"
+    ],
+    "logo_path": "data/logos\\Nira_Energy_logo.png"
+}

@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/dart",
+    "name": "Dart",
+    "headline": "The ultimate AI project management tool",
+    "batch": "W22",
+    "description": "Dart is a fully-featured project management tool that uses AI to assist with roadmap planning, report generation, breaking tasks into subtasks, duplicate detection, and executing on basic writing and design tasks. Teams use Dart in order to plan better and eliminate regular PM chores from their schedule, freeing up seven hours per week to focus on other work.",
+    "activity_status": "Active",
+    "website": "https://itsdart.com",
+    "founded_date": 2022.0,
+    "team_size": 7.0,
+    "location": "San Francisco",
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:generative-ai; industry:b2b; industry:productivity; industry:ai; location:san-francisco-bay-area",
+    "founders": [
+        {
+            "name": "Milad Malek, Founder",
+            "description": "I grew up in Chattanooga, TN, then moved to the bay where I studied physics + math at Stanford. Afterwards I was an investor at Plug and Play Ventures where I led ventures activities in the Smart Cities vertical focused on energy and sustainability. I also worked with major corporations on their innovation roadmaps, and I helped to launch various international offices. Now I get to help even more startups by building Dart.",
+            "linkedin": "https://www.linkedin.com/in/miladmalek/"
+        },
+        {
+            "name": "Zack Swafford, Founder",
+            "description": "I'm a cofounder at Dart, which is the ultimate AI project management tool!\n\nBefore Dart I was at Stanford, then Plenty. As the first engineer there I laid the groundwork for our full stack application suite, data pipelines, and ML and CV models. We grew very quickly so I hired out a full team, building and managing an org of dozens of engineers, product managers, and others.\n\nWould love to chat about Dart (which typically saves teams about a third of their PM time) or anything else--ping me!",
+            "linkedin": "https://www.linkedin.com/in/zswafford/"
+        }
+    ],
+    "status": true,
+    "generated_description": "Dart is an innovative project management tool, designed to leverage the power of artificial intelligence to streamline workflows and eliminate tedious tasks. Founded in 2022, Dart emerged as part of Y Combinator's W22 batch and is based in San Francisco, where a team of seven is shaping its future. The mission? To be the ultimate AI project management tool that empowers teams to optimize their time and tackle projects with greater clarity and efficiency.\n\nDart incorporates a suite of features including roadmap planning, report generation, task decomposition into subtasks, and even duplicate detection. What\u2019s really compelling about Dart is its ability to relieve teams of standard project management drudgery, potentially freeing up to seven hours each week. It positions itself as a solution for both small teams and large organizations across varied industries, making it adaptable and versatile.\n\nAt its core, Dart focuses on productivity through AI. It offers integrations with popular tools like GitHub, Slack, and Zapier, enabling seamless workflows and collaboration across platforms. Users have praised Dart for its intuitive design and powerful features, which include project planning tools, task execution capabilities, and an elegant document editor that can automatically generate reports.\n\nDart's branding is enriched by its emphasis on generative AI, making it one of the forefront contributors to the B2B productivity software landscape. Feedback from users highlights how it simplifies complex projects, enhances team collaboration, and ultimately boosts organizational productivity. As the product continues to evolve, Dart positions itself not just as a tool, but as a robust platform that supports innovation and growth for teams of all kinds. \n\nFor more insight into Dart's offerings and to see it in action, you can explore their website at [itsdart.com](https://itsdart.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9fb9716c4dca2429ec81f7e87cdbc2f352d593d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191112Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=2e8398092aba3b2d784ed9993bd680c2574810df2f64bd3537ab616619ff2ec1",
+    "social_links": [
+        "https://www.linkedin.com/company/dart-ai",
+        "https://x.com/its_dart",
+        "https://github.com/its-dart"
+    ],
+    "logo_path": "data/logos\\Dart_logo.png"
+}

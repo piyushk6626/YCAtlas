@@ -1,0 +1,30 @@
+{
+    "links": "https://www.ycombinator.com/companies/nectome",
+    "name": "Nectome",
+    "headline": "Building a way to preserve long-term memories.",
+    "batch": "W18",
+    "description": "Nectome is a neuroscience startup that aims to preserve the brain and keep all its memories intact.\r\n\nThe company is building the next generation of tools to preserve the connectome. The connectome is all the connections called synapses between neurons in the brain. Researchers from the company is now learning to manipulate individual memories, building advanced brain prosthetics, and reverse-engineering the brain.",
+    "activity_status": "Active",
+    "website": "https://nectome.com/",
+    "founded_date": null,
+    "team_size": 5.0,
+    "location": "South San Francisco, CA",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:neurotechnology",
+    "founders": [
+        {
+            "name": "Aurelia Song, Founder/CEO",
+            "description": "I run the company Nectome, building a way for communities to preserve their terminally ill people so they can have a shot at living again in the future.",
+            "linkedin": "https://www.linkedin.com/in/aurellem"
+        }
+    ],
+    "status": true,
+    "generated_description": "Nectome is a pioneering neuroscience startup located in South San Francisco, CA, with a mission to build a way to preserve long-term memories. The company, which emerged from Y Combinator's Winter 2018 batch, is on a quest to understand and ultimately manipulate the brain's connectome\u2014the intricate network of synapses that form our memories.\n\nAt its core, Nectome focuses on advancing the science of memory through rigorous research. The team, currently consisting of five dedicated employees, engages in experiments that delve into how memories are physically created within our brains. They're not just stopping at theoretical models; they are also developing innovative biological preservation techniques designed to safeguard the physical traces of memories.\n\nNectome's work includes several cutting-edge initiatives:\n- **Connectome Preservation**: These techniques serve as a foundation for constructing new models of the nervous system.\n- **Molecular Dynamics**: They explore mathematical modeling of vitrifixation processes, a method that complements their biological preservation efforts.\n- **Memory Extraction**: This nascent and underexplored field holds potential for significant advancements in understanding memory retrieval.\n- **Biomolecular Preservation**: Research here focuses on verifying how effectively various classes of biomolecules can be preserved.\n\nNectome's aspirations go beyond mere research; they envision creating advanced brain prosthetics and reverse-engineering memory functions. They recently gained recognition when their vitrification method won a Large Mammal prize for brain preservation\u2014an elegant validation of their work.\n\nThe future of memory technology is unfolding, and Nectome is at its forefront. If you\u2019re interested, they\u2019ve got a careers page open for those who wish to join this groundbreaking endeavor. You can explore more about them at [Nectome's website](https://nectome.com/).",
+    "logo": "/logos/medium/missing.png",
+    "social_links": [
+        "https://www.crunchbase.com/organization/nectome"
+    ]
+}

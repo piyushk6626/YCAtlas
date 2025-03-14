@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/snapcalorie",
+    "name": "SnapCalorie",
+    "headline": "Single photo nutrition tracking.",
+    "batch": "S21",
+    "description": "SnapCalorie is the world\u2019s first app where you can take a photo of ANY meal and get an accurate calorie count.  It takes seconds to use and is more accurate than a trained nutritionist. The team previously co-founded Google Lens, Cloud Vision API, and published a CVPR paper demonstrating the first algorithm to outperform a professional nutritionist at calorie counting.",
+    "activity_status": "Active",
+    "website": "https://www.snapcalorie.com/",
+    "founded_date": 2021.0,
+    "team_size": 5.0,
+    "location": "New York",
+    "group_partner": "Michael Seibel",
+    "group_partner_yc": "https://www.ycombinator.com/people/michael-seibel",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:computer-vision; industry:fitness; industry:ai; location:new-york",
+    "founders": [
+        {
+            "name": "Wade Norris, Founder",
+            "description": "Ex-Google AI, ex-Google [X]. Computer vision researcher.\n\nCo-lead for the 100+ researcher Mobile Vision team at Google AI. During my time, the team co-founded Google Cloud Vision API, Google Lens, MobileNets, and a wide variety of computer vision models powering products across Google.\n\nCo-founded The Spaghetti Detective, now the #1 paid plugin in 3D printing.\n\nCo-author for CVPR accepted Nutrition5k paper. First algorithm to outperform a professional nutritionist at visual calorie counting.",
+            "linkedin": "https://www.linkedin.com/in/wadenorris/"
+        },
+        {
+            "name": "Scott Baron, Founder",
+            "description": "Scott Baron, the co-founder and CTO of SnapCalorie. He previously spent 12 years as a systems engineer in Aerospace where he developed software and algorithms to support high reliability missions and advanced data science applications.",
+            "linkedin": "https://www.linkedin.com/in/scott-baron-7b09b011/"
+        }
+    ],
+    "status": true,
+    "generated_description": "### SnapCalorie: Revolutionizing Nutrition Tracking\n\nSnapCalorie is a cutting-edge app that simplifies the often laborious task of tracking meal nutrition with just one snap. Founded in 2021 and hustled through Y Combinator's Batch S21, this New York-based company is here to change how we approach calorie counting.  \n\n#### What Do They Do?\nImagine being able to take a picture of any meal and instantly receive an accurate calorie count and nutritional breakdown. That\u2019s exactly what SnapCalorie offers. Leveraging advanced AI and computer vision technology\u2014developed by a team that once worked on Google Lens and the Cloud Vision API\u2014this app delivers precision that outshines even seasoned nutritionists. It all happens in mere seconds.  \n\n#### Key Features\n1. **Fast & Accurate**: Snap a photo of your meal, and within moments, the app provides a detailed calorie count\u2014five times faster than traditional methods and twice as accurate as a nutritionist.\n2. **User-Friendly**: Forget tedious entries; just snap and go. The app is designed for quick logging, allowing you to enjoy meals without always being glued to your screen.\n3. **Voice Notes**: For those moments at home, SnapCalorie supports voice notes. You can easily log your nutrition hands-free, speaking either detailed amounts or just a summary.\n\n#### Achievements & Impact\n- **100,000+ happy users** are already aboard, showing a genuine interest in streamlining their nutrition tracking.\n- The app is not just a novelty; it\u2019s a practical solution for anyone serious about their health and well-being.\n\nLooking forward, SnapCalorie continues to refine its technology and expand its user base, making nutrition tracking as effortless as pointing a camera. Whether you\u2019re at a bustling restaurant or cooking at home, SnapCalorie aims to be your go-to companion for healthy eating.\n\nFor those interested, check out their website: [SnapCalorie](https://www.snapcalorie.com/) to get started on the fastest way to track your meals!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/30ab507c659d155a03f9a834700d9c450cd380dc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191934Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8bf6b70967ac229b220ccafb5233b71125799652e86a9492cae7bf55c6bd5750",
+    "social_links": [
+        "https://www.linkedin.com/company/snapcalorie/",
+        "https://twitter.com/snapcalorie",
+        "https://www.facebook.com/snapcalorie",
+        "https://www.crunchbase.com/organization/snapcalorie",
+        "https://github.com/snapcalorie"
+    ],
+    "logo_path": "data/logos\\SnapCalorie_logo.png"
+}

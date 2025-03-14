@@ -1,0 +1,41 @@
+{
+    "links": "https://www.ycombinator.com/companies/deasy-labs",
+    "name": "Deasy Labs",
+    "headline": "Metadata for GenAI workflows",
+    "batch": "S23",
+    "description": "Deasy Labs provides metadata orchestration for AI workflows. Deasie's platform provides the best way for AI teams to create and embed high-quality, customized metadata into their AI workflows (e.g., RAG, Agentic frameworks).\r\n\nOur three founders (from Amazon, McKinsey/QuantumBlack & MIT) previously built an ML data governance tool from 0 to 1 within McKinsey, which we deployed with 11 Fortune 500 companies. We saw in early 2023 the ability to create high-quality metadata (without reliance on domain experts) would be a key factor in achieving the accuracy & speed in GenAI applications required for production.  \r\n\nOur investors include General Catalyst, Y Combinator, RTP Global and world experts in enterprise data. Website: https://deasylabs.com",
+    "activity_status": "Active",
+    "website": "https://www.deasylabs.com/",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:data-labeling; industry:big-data; industry:ai-assistant; industry:databases",
+    "founders": [
+        {
+            "name": "Reece Griffiths, Founder",
+            "description": "Co-founder of Deasie: Data governance for language models in the enterprise. \n\nPrior experience: QuantumBlack: Product Manager for AI for Data Governance product (1.5 yrs); McKinsey & Company: Management consultant (2 yrs); X26: Founder of X26 (global entrepreneurs community); University of Cambridge: Masters in information engineering. Personal blog: https://reecewgriffiths.com",
+            "linkedin": "https://linkedin.com/in/reece-william-griffiths"
+        },
+        {
+            "name": "Mikko Peiponen, Founder",
+            "description": "Mikko is the co-founder of Deasie. He is a technologist with deep experience (5+ years) in data and machine learning space from McKinsey and QuantumBlack, where he implemented and deployed models at large enterprises. Prior to moving into the world of data governance for language models with Deasie, he was the Lead data scientist building AI data quality tool at QuantumBlack. Mikko holds a graduate degree from MIT.",
+            "linkedin": "https://linkedin.com/in/mikkopeiponen"
+        },
+        {
+            "name": "Leonard Platzer, Founder",
+            "description": "Co-founder of Deasie: Data governance for unstructured data. \n\nPrior experience: QuantumBlack: Software Engineer, Machine Learning at AI for Data Quality product; Previous Engineer at Amazon, Mercedes-Benz and ChatBot Startup (E-Bot 7); Bachelor from National University of Singapore and Graduate from UWC Mostar",
+            "linkedin": "https://linkedin.com/in/leonardplatzer"
+        }
+    ],
+    "status": true,
+    "generated_description": "Deasy Labs is carving out a crucial niche in the burgeoning landscape of generative AI by focusing on metadata orchestration for AI workflows. Founded in 2023 and part of Y Combinator\u2019s Batch S23, the company was birthed from the experiences of three founders who previously built a machine learning data governance tool at McKinsey from the ground up. They deployed this tool with 11 Fortune 500 companies, which provided them keen insights into the importance of high-quality metadata in enhancing AI applications.\n\nThe mission here is straightforward: empower teams to seamlessly create and integrate customized metadata into their workflows\u2014think RAG and Agentic frameworks. By eliminating the need for constant reliance on domain experts, Deasy Labs aims to optimize the accuracy and speed necessary for production in generative AI.\n\nTheir platform offers several standout features:\n\n1. **Direct Connection to Vector Embeddings**: It interfaces with any vector database, allowing metadata generation from embeddings or underlying documents.\n2. **Auto-Suggested Metadata**: Leveraging sophisticated models to derive the most relevant metadata schema from a set of documents.\n3. **Multi-Modal Metadata at Scale**: Extracting metadata from both chunks and entire documents in a way that's both hierarchical and standardized.\n4. **Intelligent Information Retrieval**: Their system utilizes metadata for efficient agent or node selection, ensuring that users access the right information when it matters most.\n\nThe confidence in Deasy Labs is echoed by their clientele. Companies like Octopus Legacy and Decision Science Advisors highlight the transformative impact of the platform on automating processes and accelerating time-to-value.\n\nBacked by credible investors such as General Catalyst, Y Combinator, and RTP Global, Deasy Labs combines expertise from notable institutions like Amazon, McKinsey, and MIT. They emphasize that creating high-quality metadata efficiently is no longer a luxury; it\u2019s an essential part of modern AI deployment strategies.\n\nWith a lean team of three, they already show promise in fundamentally changing how businesses approach data governance and operational intelligence. If you\u2019re looking to dive deeper, check out their [website](https://www.deasylabs.com) and consider requesting a demo to see their solution in action.\n\nOverall, Deasy Labs stands out not just because of its technological offerings, but because it addresses a critical gap in the AI landscape, ensuring teams can focus on what they do best: innovating.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b6bfd3c6d73fad13ff70b406a46c2bd07a39bc9d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191114Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=217e760fe8755ad9463363b053f43ab91dfbdebbda4fb0b510f7e461b8b748a8",
+    "social_links": [
+        "https://www.linkedin.com/company/deasie"
+    ],
+    "logo_path": "data/logos\\Deasy_Labs_logo.png"
+}

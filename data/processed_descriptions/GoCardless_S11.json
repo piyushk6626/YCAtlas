@@ -1,0 +1,40 @@
+{
+    "links": "https://www.ycombinator.com/companies/gocardless",
+    "name": "GoCardless",
+    "headline": "We\u00e2\u0080\u0099re building the world\u00e2\u0080\u0099s bank payment network.",
+    "batch": "S11",
+    "description": "At GoCardless we believe that bank payments are the best way to pay and get paid. We help businesses collect both recurring and one-off payments, without the chasing, stress or expensive fees.\r\n\nWe\u00e2\u0080\u0099re building a global bank payment network that lets people make and collect payments straight from their bank account, across multiple countries and currencies. 75,000+ businesses around the world trust us to power their payments. We enable them to collect payments from 30+ countries, processing over $30 billion each year.\r\n\nOur suite of add-on products are helping businesses face their payment challenges head on. From automatically recovering failed payments, to challenging charge backs and fighting fraud - all without compromising their customer\u00e2\u0080\u0099s payment experience.\r\n\nOur open banking leadership unlocks the ability to make and accept direct bank payments confidently and securely. And our acquisition of Nordigen means we\u00e2\u0080\u0099re also helping businesses make faster and more informed decisions by accessing and generating insights from their customers\u00e2\u0080\u0099 bank account data.\r\n\nWe\u00e2\u0080\u0099re also backed by some of the world\u00e2\u0080\u0099s leading investors including Accel Partners, Bain Capital Ventures, Balderton Capital, GV (formerly Google Ventures), Notion Capital, Passion Capital, Permira and Salesforce Ventures. We're a global team, with offices in London, Paris, Riga, Melbourne and New York.",
+    "activity_status": "Active",
+    "website": "http://gocardless.com",
+    "founded_date": 2011.0,
+    "team_size": 900.0,
+    "location": "London, United Kingdom",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:payments",
+    "founders": [
+        {
+            "name": "Hiroki Takeuchi, Founder/CEO",
+            "description": "Hiroki is co-founder and CEO of GoCardless, a global leader in direct bank payment solutions. Prior to founding GoCardless, he worked as a Business Analyst at McKinsey & Co before succumbing to the entrepreneurial bug and enrolling in the Y Combinator program. He studied Mathematics at Oxford University where he served as Vice President of Oxford Entrepreneurs.",
+            "linkedin": "https://www.linkedin.com/in/hirokitakeuchi/"
+        },
+        {
+            "name": "Tom Blomfield",
+            "description": "Cofounded GoCardless (YC S2011) and Monzo (YC Continuity). Now a partner at YC, based in San Francisco.",
+            "linkedin": "https://www.linkedin.com/in/tomblomfield"
+        }
+    ],
+    "status": true,
+    "generated_description": "**GoCardless: Simplifying Payments for Businesses Globally**\n\nFounded in 2011 and a proud member of Y Combinator\u2019s Batch S11, GoCardless is on a mission to revolutionize the way payments are handled worldwide. The company believes that bank payments are the most efficient method for businesses to pay and collect payments, cutting out the stresses and costs associated with traditional methods like credit cards.\n\n### What They Do\nGoCardless offers a simple, automated way for businesses to collect both recurring and one-off payments directly from customer bank accounts, transcending borders with the ability to operate in over 30 countries and manage multiple currencies. To date, they cater to 75,000+ businesses globally, processing more than $30 billion annually.\n\nBut GoCardless isn\u2019t just a one-trick pony; their suite of products addresses common pain points in payments, such as failed transactions and fraud, ensuring that businesses can navigate the complexities without sacrificing customer experience. The recent acquisition of Nordigen further extends their capabilities by enabling businesses to access vital insights from customer bank account data, improving financial decision-making.\n\n### Key Features\n1. **Ease of Use**: Clients can collect payments effortlessly, automating processes around subscriptions, invoices, and even installment plans.\n2. **Open Banking Leader**: With their technical prowess, they provide secure and direct bank payment solutions, ensuring customer data protection while streamlining payments.\n3. **Enhanced Recovery**: Their system includes intelligent retries for failed transactions, recovering around 70% of them, which is a game changer for cash flow management.\n4. **Scalable Solutions**: Whether for small startups or large enterprises, GoCardless tailors its offerings to fit the specific needs of each client.\n\n### Investment and Growth\nBacked by renowned investors like Accel Partners, GV (formerly Google Ventures), and Bain Capital Ventures, GoCardless has built a robust framework to scale and innovate in the ever-evolving fintech landscape. Their global footprint spans cities including London, Paris, Riga, New York, and Melbourne, supported by a strong team of 900 employees.\n\n### Conclusion\nGoCardless is not just creating a payment platform; they're pioneering a global bank payment network designed to simplify and enhance the payment experience for businesses and their customers alike. By championing direct bank payments, they're helping organizations save time and money while ensuring seamless transactions.\n\nFor more information, check out their website: [GoCardless](http://gocardless.com).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/da7ec9b22508d0e16b0a6cc0909f6a2df3edbcb0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191401Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1c1a5beaa5d612748766a3f39a08f24b3d17c92c6cd4fe2c25ec9b025b819f7c",
+    "social_links": [
+        "https://www.linkedin.com/company/gocardless/",
+        "https://twitter.com/GoCardless",
+        "https://www.facebook.com/GoCardless/",
+        "https://www.crunchbase.com/organization/gocardless",
+        "https://github.com/gocardless"
+    ],
+    "logo_path": "data/logos\\GoCardless_logo.png"
+}

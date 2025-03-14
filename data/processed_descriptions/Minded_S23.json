@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/minded",
+    "name": "Minded",
+    "headline": "AI support agents to solve the tickets that reach humans",
+    "batch": "S23",
+    "description": "We are helping CX teams reduce ticket volumes by 50-70%, by training AI Agents from the best human agents. We seamlessly connect to their CRM, help center and backoffice to train human-level agents.",
+    "activity_status": "Active",
+    "website": "https://www.minded.com/",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": "Tel Aviv-Yafo, Israel",
+    "group_partner": "Harj Taggar",
+    "group_partner_yc": "https://www.ycombinator.com/people/harj-taggar",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:api; industry:customer-support; industry:ai-assistant",
+    "founders": [
+        {
+            "name": "Ohad Navon, Founder",
+            "description": "Launch AI support chatbot that grew Roundforest from $200M to $1B GMV within 18 months. Saved Google $100M in fraud prevention as an engineer. Data science at McKinsey. Graduated at 19. Dan 2 black belt in Krav Maga",
+            "linkedin": "https://linkedin.com/in/ohad-navon-639b356a"
+        },
+        {
+            "name": "Nadav Zamir, Founder",
+            "description": "Launched the Chinese Google Photos as Director of AI at Alibaba, becoming the #1 app in China.\nEx-CTO & Co-founder at Galigu, search engine for VR, raised money, launched product, but VR wasn\u2019t there yet. \nBuilt the world\u2019s first wireless VR headset at Intel launched at CES by Intel's CEO.",
+            "linkedin": "https://linkedin.com/in/nadavzamir"
+        }
+    ],
+    "status": true,
+    "generated_description": "Minded is a Tel Aviv-Yafo-based startup, founded in 2023 and part of Y Combinator\u2019s S23 batch. The company\u2019s mission is to revolutionize customer support with AI agents that significantly reduce the volume of tickets that human agents handle\u2014improving efficiency by 50-70%. By training these AI agents on the best practices of human agents and integrating seamlessly with existing CRM systems and help centers, Minded aims to empower companies to enhance their customer service without sacrificing personal touch.\n\nA tiny team of just two employees drives this ambitious project, backed by Group Partner Harj Taggar. The AI technology at Minded specializes in handling customer queries in a way that mimics human agents, including accessing historical data and understanding help center articles. This capability allows it to tackle complex issues and provide resolutions at a market-leading 72% resolution rate after only three weeks in some cases.\n\nThe model is compelling\u2014Minded operates on a \u201cpay for resolution\u201d system, meaning companies only incur costs when the AI successfully addresses a customer's issue. This pragmatic approach ensures that businesses see real value from their investment.\n\nNotably, Minded has achieved remarkable metrics, such as a 67% reduction in cost per ticket and a 90% decrease in wait times. The company\u2019s focus on privacy is evident, as they employ built-in PII masking and are compliant with SOC 2 and GDPR standards.\n\nIn short, Minded is positioning itself as a game-changer in the customer service sector, allowing businesses to leverage AI not just for automation but to create meaningful customer interactions. With a robust platform and forward-thinking strategy, Minded is one to watch as the AI landscape continues to evolve.\n\nFor more details and potential collaboration, check out their website [Minded](https://www.minded.com/).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/743b541753586a212168aeb231d6e8d86985b4ed.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191537Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5a4cf931b01df2c4b74906280f6fccef4f91bf153b1ff96c4aba16f7c29c7981",
+    "social_links": [
+        "https://www.linkedin.com/company/minded-ai",
+        "https://twitter.com/agents_force",
+        "https://www.facebook.com/profile.php?id=61550230631817",
+        "https://www.crunchbase.com/organization/octo-c3f2"
+    ],
+    "logo_path": "data/logos\\Minded_logo.png"
+}

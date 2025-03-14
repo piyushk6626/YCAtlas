@@ -1,0 +1,53 @@
+{
+    "links": "https://www.ycombinator.com/companies/pluggy",
+    "name": "Pluggy",
+    "headline": "Plaid for Brazil: we allow developers to access users' financial data",
+    "batch": "S21",
+    "description": "Pluggy is a B2B Fintech that allows any developer to connect to the data from their users' bank and broker accounts, essentially Plaid for Brazil. \r\n\nWe are 100% focused in Brazil. One of the largest markets in the world. Its complexity, risks and challenges require its own solution.\r\n\nLocal focus and our deep experience in banking tech engineering allowed Pluggy to create a product that is considered by our customers as the only one to provide reliable data at the right time to market.\r\n\nWe currently cover 90% of the bank accounts in Brazil a market of more than 7 billion USD. \r\n\nWe are Pluggy!",
+    "activity_status": "Active",
+    "website": "https://pluggy.ai",
+    "founded_date": 2020.0,
+    "team_size": 31.0,
+    "location": "S\u00e3o Paulo, Brazil",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:fintech; industry:api",
+    "founders": [
+        {
+            "name": "Rogerio Correa, Founder",
+            "description": "Responsible for operations at Pluggy, making my best to use the knowledge that I've acquired working 10 years in Business Consulting and more 3 years in Digital Transformation Consulting to build and deliver the best product for the Brazilian Market",
+            "linkedin": "https://www.linkedin.com/in/rog\u00e9rio-corr\u00eaa-26789131"
+        },
+        {
+            "name": "Victor Braga, Founder",
+            "description": "Used to work in banking and M&A consultancy, but left the corporate world to create new ways of making the world a better place!\n\nI am working with my great co-founders at Pluggy to make Open Banking in Brazil as disruptive as Brazilians need.",
+            "linkedin": "https://www.linkedin.com/in/victor-urano-braga-75434521/"
+        },
+        {
+            "name": "Bruno Loiola, Founder",
+            "description": "Co-founder @Pluggy.",
+            "linkedin": "https://www.linkedin.com/in/brunoloiola/"
+        },
+        {
+            "name": "Federico Miras, Founder",
+            "description": "Federico Mir\u00e1s (or \"Fefo\") is an Argentinian tech entrepreneur, investor and programmer. He is the Co-Founder, Head of Product, and CEO of Pluggy. Fefo wrote his first lines of code at the age of 12 and created his first software company at the age of 19. Strong leadership and company culture skills, he loves crypto & video games.",
+            "linkedin": "https://www.linkedin.com/in/fmiras"
+        },
+        {
+            "name": "Gabriel Pan Gantes, Founder",
+            "description": "Argentinian Tech-Founder and Developer, leading the product and development of Pluggy\u00b4s solution, building developer-driven innovation with the latest technologies. Analytical, organized & practical, focus on shipping solutions as faster as possible.",
+            "linkedin": "https://www.linkedin.com/in/gabrielpangantes"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Pluggy: Your Open Finance Gateway in Brazil**\n\nFounded in 2020 and hailing from S\u00e3o Paulo, Pluggy is Brazil's answer to fintech infrastructure, drawing comparisons to Plaid in the U.S. Its mission? To empower developers by simplifying access to users' financial data, addressing Brazil's unique challenges head-on. \n\nPluggy operates within a vast market\u2014over $7 billion\u2014by covering around 90% of bank accounts in Brazil, a notable achievement considering the intricate landscape of Brazilian finance. This local focus isn't just a buzzword; it's embedded in Pluggy's approach, crafted with deep banking experience and a commitment to delivering timely, reliable data.\n\nWith a team of 31 talent members, Pluggy is part of Y Combinator's Batch S21, leveraging the accelerator\u2019s world-class resources. The company has distinguished itself with a suite of powerful products for developers, including:\n\n- **Pluggy Connect**: A simple widget for fast data integration.\n- **Recurring Payments**: Simplifying billing processes for clients.\n- **Open Finance No-Code Solutions**: A plug-and-play option for businesses.\n- **Data Enrichment**: Unlocking insights from raw financial data.\n- **Pluggy API**: Streamlined connections for account access.\n- **Instant Payment Initiation**: Fast-track payments through native applications.\n\nTheir infrastructure is designed not just to connect, but to enhance user experience, offering tools like **My Pluggy** for consent management and features for credit portability and secure transactions. \n\nPluggy isn\u2019t merely a financial data provider; it\u2019s a strategic partner enabling businesses to transform their operations\u2014from ERP systems to customer financial platforms. They also stand committed to educating the market with resources including a blog, podcasts, and technical documentation, all encapsulated within an intuitive web interface.\n\nWith impressive backing and a sharp focus, Pluggy aims to unlock the full potential of Open Finance in Brazil, reinforcing trust and security in financial transactions while giving developers the power they need to innovate.\n\nFor more information, visit [Pluggy's website](https://pluggy.ai) to explore their offerings and join the evolution of finance in Brazil.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/2e257994c1af09712bb1851fea3192bfb150e1f6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191645Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8e394120936affa13f1039ef83de54de93b5cc3de653211c26f3905c5c929858",
+    "social_links": [
+        "https://www.linkedin.com/company/pluggyai",
+        "https://twitter.com/pluggyai",
+        "https://www.crunchbase.com/organization/pluggy"
+    ],
+    "logo_path": "data/logos\\Pluggy_logo.png"
+}

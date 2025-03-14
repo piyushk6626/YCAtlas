@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/buster",
+    "name": "Buster",
+    "headline": "Open source, AI Digital Workers for analytics & data",
+    "batch": "W24",
+    "description": "We're building AI Digital Workers for every part of your analytics & data stack. \r\n\nYou can think of our platform as a 24/7 team of AI data engineers, scientists, & analysts. Its modern, simple, & open source.",
+    "activity_status": "Active",
+    "website": "http://buster.so",
+    "founded_date": 2023.0,
+    "team_size": 3.0,
+    "location": "Salt Lake City, UT",
+    "group_partner": "Jared Friedman",
+    "group_partner_yc": "https://www.ycombinator.com/people/jared-friedman",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:generative-ai; industry:data-science; industry:data-engineering; industry:data-visualization; industry:databases",
+    "founders": [
+        {
+            "name": "Blake Rouse, Founder",
+            "description": "Blake Rouse is the co-founder and CEO of Buster. Previously, he led product development at a bootstrapped analytics startup (DataSpark, acqd by Threecolts). Blake is originally from South Carolina. He studied Product Management and Computer Science at BYU for three years before dropping out to start Buster.",
+            "linkedin": "https://linkedin.com/in/cblakerouse"
+        },
+        {
+            "name": "Dallin Bentley, Founder",
+            "description": "Dallin Bentley is the co-founder and CTO of Buster.  Before starting Buster, Dallin worked as a Cloud Security Engineer.  After that, he founded Leftovers (Surplus food marketplace) which was later sold. Dallin graduated from Brigham Young University with his Masters of Information Systems.",
+            "linkedin": "https://linkedin.com/in/dallinbentley"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Buster**\n\nFounded in 2023 and a proud member of Y Combinator's Batch W24, Buster is innovating how businesses use data and analytics by introducing open-source AI Digital Workers. Based in Salt Lake City, UT, the company currently operates with a lean team of three employees. Their mission is straightforward yet ambitious: to provide AI-powered data engineers, scientists, and analysts that can work seamlessly within your analytics and data stack.\n\nThink of Buster like having an entire team of skilled data workers that are available 24/7. They are designed to enhance insights and optimize your data systems continuously. The platform is characterized as modern, simple, and, crucially, open-source, making it accessible for developers and organizations alike.\n\nBuster\u2019s offerings revolve around two core products:\n1. **AI Data Analysts:** These AI assistants can interact with your data, perform complex analyses, and create visually appealing dashboards\u2014all through a natural language interface, simplifying the usual data-heavy processes.\n2. **AI Data Engineers:** This tool serves as a copilot for engineers, automatically detecting enhancements for data models, generating pull requests, and streamlining tedious tasks.\n\nThe company is tagged across several important fields like generative AI, data science, data engineering, visualization, and databases. Their systematic approach enables users to unlock deeper insights quickly while enhancing overall efficiency.\n\nFor those interested in experiencing what Buster offers, the website provides avenues for booking a demo, accessing their GitHub for development purposes, and diving into their AI Data Analysts and Engineers. \n\nIn a world increasingly driven by data, Buster stands out by combining the power of artificial intelligence with an open-source philosophy\u2014making it easier for organizations to tap into insights that truly matter.\n\nTo learn more, visit [Buster's Website](http://buster.so).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fb8ee2940dd67a4475ce26837e11458ed1fc6102.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191035Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=882286b94cba1ff45803dfaa67b625e28c95a5b608c370deb04642a1876b67df",
+    "social_links": [
+        "https://www.linkedin.com/company/usebuster/",
+        "https://twitter.com/usebuster",
+        "https://www.crunchbase.com/organization/buster-3f14"
+    ],
+    "logo_path": "data/logos\\Buster_logo.png"
+}

@@ -1,0 +1,43 @@
+{
+    "links": "https://www.ycombinator.com/companies/langfuse",
+    "name": "Langfuse",
+    "headline": "Open source LLM engineering platform",
+    "batch": "W23",
+    "description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\nWe are hiring: https://langfuse.com/careers",
+    "activity_status": "Active",
+    "website": "https://langfuse.com",
+    "founded_date": 2022.0,
+    "team_size": 7.0,
+    "location": "Berlin, Germany",
+    "group_partner": "Gustaf Alstromer",
+    "group_partner_yc": "https://www.ycombinator.com/people/gustaf-alstromer",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:analytics; industry:open-source",
+    "founders": [
+        {
+            "name": "Marc Klingen, Founder",
+            "description": "Marc has diverse experience across Product, Sales, Business Intelligence and full-stack engineering at companies from large (Google, DHL) to early stage startups. He graduated within the top 1% of his Masters in Management and Computer Science from Technical University Munich. Besides that, he loves to hack on personal project and connect with other builders (something he does not get to too much right now).",
+            "linkedin": "https://www.linkedin.com/in/marcklingen/"
+        },
+        {
+            "name": "Maximilian Deichmann, Founder",
+            "description": "Max built trading systems at European 5bn Fintech, Trade Republic. He knows the ins and outs of building reliable, scalable systems to handle our customers\u2019 most critical business processes. While Max started out studying Management in undergrad, he quickly found his love for computer science and transitioned into engineer self-taught and with a graduate degree.",
+            "linkedin": "https://www.linkedin.com/in/maxdeichmann/"
+        },
+        {
+            "name": "Clemens Rawert, Founder",
+            "description": "Before starting Langfuse, Clemens worked with the founder-CEOs of German Fintech Unicorn Scalable Capital including a unicorn fundraising, an acquisition and helped scale the org and team from 100 - 400 employees. On another note, he studied Economic History, dropped out of a PhD at Oxford, and was a competitive wine taster.",
+            "linkedin": "https://www.linkedin.com/in/rawert/"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Company Overview: Langfuse**\n\n**Mission**: Langfuse is an open-source platform designed for engineering applications using large language models (LLMs). It aims to enhance the development, monitoring, and debugging of these applications throughout their lifecycle.\n\n**Founding & Team**: Founded in 2022 and part of Y Combinator's W23 batch, Langfuse is based in Berlin, Germany, with a team of 7 dedicated employees. Their group partner is Gustaf Alstromer, which underscores their strong foundation in the startup ecosystem.\n\n**Core Offerings**: Initially started as a tool called \"Traces,\" Langfuse has evolved to provide a suite of features that include:\n\n- **Develop**: Tools for observability including a user-friendly UI and prompt management.\n- **Monitor**: Features for tracing, analytics, metrics, and evaluations to keep track of application performance.\n- **Test**: Capabilities for conducting experiments, managing releases, and handling datasets.\n\n**Community and Support**: Langfuse strongly believes in the open-source model, allowing users to host the platform either locally or via self-hosting options. Their commitment to community engagement is evident through their Discord and GitHub channels, where users can seek help and collaborate.\n\n**Technology & Integrations**: The platform supports SDKs for both Python and JavaScript/TypeScript, along with native integrations for popular libraries and standards like OpenTelemetry, making it flexible and accessible for developers.\n\n**Security Compliance**: Langfuse takes data security seriously. Their cloud service is SOC 2 Type II and ISO 27001 certified, and the platform adheres to GDPR compliance, making it suitable for enterprise use.\n\n**Pricing Plans**: Langfuse offers a freemium model:\n- **Hobby Plan**: Free; 50k monthly observations.\n- **Pro Plan**: $59/month for more extensive use.\n- **Team Plan**: $499/month; advanced features and support for larger teams.\n- **Enterprise Plan**: Custom pricing with tailored support and security needs.\n\n**Current Focus**: Langfuse focuses on building tools that help teams efficiently debug and enhance complex LLM applications, which has driven their recognition in the industry\u2014culminating in awards like the #1 Golden Kitty in the AI Infrastructure category on Product Hunt.\n\nFor more information or to get involved, visit their [official website](https://langfuse.com) or check out their [career opportunities](https://langfuse.com/careers).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/244b2b72d6a859de59acda3d58777c44e60f2d17.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191459Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=931bf2b7982fff8ddc523617ffde15bcfaa7f04749ff59d43c24ea656ccf9822",
+    "social_links": [
+        "https://www.linkedin.com/company/langfuse",
+        "https://twitter.com/langfuse",
+        "https://github.com/langfuse/langfuse"
+    ],
+    "logo_path": "data/logos\\Langfuse_logo.png"
+}

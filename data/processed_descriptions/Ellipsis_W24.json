@@ -1,0 +1,39 @@
+{
+    "links": "https://www.ycombinator.com/companies/ellipsis",
+    "name": "Ellipsis",
+    "headline": "AI code reviews & bug fixes",
+    "batch": "W24",
+    "description": "Ellipsis will help your team merge code 13% faster.\r\n\nEllipsis is an AI developer tool that automatically reviews code and fixes bugs on pull requests. It uses LLM agents to catch logical errors, security issues, and can even enforce a team's style guide.\r\n\nThe coolest part is that after Ellipsis identifies an issue, developers can tag @ellipsis-dev to have Ellipsis implement the fix. Internally, Ellipsis actually executes the code it generates, just like a human does.\r\n\nAs a result, we allow developers to generate working, tested code directly from GitHub/GitLab.",
+    "activity_status": "Active",
+    "website": "https://ellipsis.dev",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Dalton Caldwell",
+    "group_partner_yc": "https://www.ycombinator.com/people/dalton-caldwell",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:developer-tools; industry:generative-ai; industry:saas; industry:ai",
+    "founders": [
+        {
+            "name": "Hunter Brooks, Co-founder & CEO",
+            "description": "Do you want to merge code 13% faster with AI code reviews and bug fixes? Learn how at www.ellipsis.dev.\n\nPreviously, I created a code generation product that dynamically created programming challenges used in technical interviews. I've worked as an ML Engineer at AWS and Amazon Ads, in addition to filling various engineering roles at companies like Brigit and Capital One.\n\nBefore that, I published in the field of Astrophysics.",
+            "linkedin": "https://linkedin.com/in/seanhunterbrooks"
+        },
+        {
+            "name": "Nick Bradford, Founder",
+            "description": "Co-Founder and CTO, Ellipsis. \n\nPreviously, Nick built codebase migration agents at Grit, researched LLM interpretability at Redwood Research, managed several teams at ML startup Hyperscience, and worked on trading algorithms at Bridgewater Associates.",
+            "linkedin": "https://linkedin.com/in/nsbradford"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Ellipsis: Streamlining Code with AI-Powered Tooling**\n\nFounded in 2023 and currently part of Y Combinator's W24 batch, Ellipsis is a burgeoning player in the developer tools space, specifically focusing on AI-driven code reviews and bug fixes. Their mission is straightforward: to help development teams merge code 13% faster by automating the tedious, error-prone parts of the coding process.\n\nAt its core, Ellipsis utilizes large language model (LLM) agents to automatically review pull requests, catching logical errors, security vulnerabilities, and enforcing style guide compliance\u2014all the heavy lifting that can bog down even the most seasoned developers. Once an issue is flagged, developers can simply tag `@ellipsis-dev` in their comments to have the AI implement a fix, executing code in real-time, much like a human would. This means developers can generate functional, tested code directly from platforms like GitHub and GitLab.\n\n### Key Features\n- **AI Code Reviews:** Automatically spot logical mistakes, anti-patterns, and style violations.\n- **Async Code Generation:** Assign tasks through GitHub comments and receive working code shortly after.\n- **Question and Answer:** Directly interact with Ellipsis by tagging it in comments for quick queries.\n- **Style Guide Enforcement:** Write your style guide in natural language, and Ellipsis will flag violations.\n- **Change Logs:** Generate weekly summaries that explain what changed in your codebase and why it matters.\n\nEllipsis supports over 20 programming languages and has already reviewed more than 2.1K commits daily, gaining traction with over 9,300 developers across 29,000 codebases. \n\n### Security and Accessibility\nThe company places a high value on security, being SOC 2 Type 1 certified and ensuring no data retention of your source code beyond necessary processing. This fosters confidence among users, knowing that their code is treated with care and integrity. Furthermore, Ellipsis is free for public GitHub repositories, making it accessible while offering a straightforward pricing model of $20 per developer per month for enterprise use.\n\nWith a keen focus on productivity and security, Ellipsis marks itself as an essential tool for modern development teams looking to enhance their workflow while minimizing errors.\n\nCurious to see what Ellipsis can do for you? Dive in at [ellipsis.dev](https://ellipsis.dev) and start your free trial!",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/548825c6b474933be0bab5e4d0894f5a194c0b8e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191232Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=453f59176ee8dacb6946a0873b0bb5a4d7056fba86a19be00edb0373d968ccaa",
+    "social_links": [
+        "https://www.linkedin.com/company/ellipsis-dev/",
+        "https://twitter.com/ellipsis_dev",
+        "https://www.crunchbase.com/organization/bitbuilder-91a2",
+        "https://github.com/ellipsis-dev"
+    ],
+    "logo_path": "data/logos\\Ellipsis_logo.png"
+}

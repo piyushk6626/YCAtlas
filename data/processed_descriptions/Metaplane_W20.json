@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/metaplane",
+    "name": "Metaplane",
+    "headline": "Data observability for modern data teams",
+    "batch": "W20",
+    "description": "Metaplane\u00a0ensures everyone trusts the data that powers your business. Data teams at Bose, Ramp, and Klaviyo use our data observability platform to prevent and detect data issues \u2014 before the CEO pings them about weird revenue numbers.\r\n\nWe do this with ML-based anomaly detection, end-to-end column-level lineage, and tools to help prevent incidents before they occur. You can monitor your entire data stack within 30 minutes.\r\n\nThe company is backed by Khosla Ventures, Y Combinator, and the founders of Okta, HubSpot, and Vercel.",
+    "activity_status": "Active",
+    "website": "https://metaplane.dev",
+    "founded_date": null,
+    "team_size": 12.0,
+    "location": "Boston",
+    "group_partner": "Aaron Epstein",
+    "group_partner_yc": "https://www.ycombinator.com/people/aaron-epstein",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:saas; industry:data-engineering; location:boston",
+    "founders": [
+        {
+            "name": "Guru Mahendran, Founder",
+            "description": null,
+            "linkedin": "http://www.linkedin.com/in/gurubavan"
+        },
+        {
+            "name": "Kevin Hu, Founder",
+            "description": "CEO of Metaplane",
+            "linkedin": "http://linkedin.com/in/kevinzenghu"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Metaplane: Your Partner in Data Observability\n\n**Overview**  \nFounded in the Winter of 2020 as part of Y Combinator's Batch W20, Metaplane is a Boston-based tech startup that specializes in data observability\u2014a critical area for modern data teams. With a small team of 12 and a clear mission, they ensure that data-driven businesses can trust the data that fuels their decisions. Their clients include notable brands like Bose, Ramp, and Klaviyo.\n\n**Mission**  \nMetaplane's core mission is to provide data observability solutions that empower modern data teams to prevent, detect, and resolve data issues before they escalate to higher management. In other words, they aim to avoid awkward conversations with the CEO about unusual revenue figures.\n\n**Key Features**  \nMetaplane utilizes advanced machine learning for anomaly detection, offering features such as:\n- **End-to-end column-level lineage**: Get complete visibility into your data flow\u2014from source to usage.\n- **Proactive incident prevention**: Tools that help anticipate and neutralize data quality issues well in advance.\n- **Quick setup**: You can monitor your entire data stack in just about 30 minutes.\n\nTheir platform encompasses a range of capabilities including:\n- **Data quality monitoring**\n- **Schema change alerts**\n- **Pipeline monitoring**\n- **Automated incident management**\n\n**Team & Partners**  \nBacked by notable investors like Khosla Ventures, Y Combinator, and industry founders from Okta, HubSpot, and Vercel, Metaplane is a growing player in the data engineering landscape. Their partnerships and integrations with popular data services like Snowflake, BigQuery, and Databricks enhance their offerings.\n\n**Integrations**  \nMetaplane provides seamless integration with a variety of tools:\n- Data warehouses: Snowflake, BigQuery, Redshift, and more.\n- Ingestion tools: Airbyte, Fivetran.\n- BI platforms: Looker, Tableau, and others.\n  \nThese integrations simplify the setup process and enhance the monitoring experience for users.\n\n**What\u2019s Next?**  \nMetaplane is constantly evolving its platform, introducing features such as a Snowflake Native App and continuous enhancements based on user feedback. They are committed to building a solution that not only fits technical needs but is also intuitive enough for non-technical team members to understand and engage with.\n\n**Conclusion**  \nIn a world where data drives decisions, having a trustworthy observability platform is not just a luxury\u2014it's essential. Metaplane stands out with its user-friendly interface and powerful features that help teams regain trust in their data, setting the stage for informed decision-making. If you're looking to level up your data operations, Metaplane is worth a look.\n\nFor more details, check out their website at [metaplane.dev](https://metaplane.dev).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/373281604facb9b3068b5c981d0c7efd2b404f64.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191533Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=29603d09f0b09ce2d39d7786315eefcf7d90fd1a078125189287905285c6d406",
+    "social_links": [
+        "https://www.linkedin.com/company/74044167/",
+        "https://twitter.com/metaplane",
+        "https://github.com/metaplane"
+    ],
+    "logo_path": "data/logos\\Metaplane_logo.png"
+}

@@ -1,0 +1,38 @@
+{
+    "links": "https://www.ycombinator.com/companies/lamin",
+    "name": "Lamin",
+    "headline": "Open data platform for biology",
+    "batch": "S22",
+    "description": "Manage data & analyses with an open-source framework.\r\n\nCollaborate across dry & wetlab in a distributed hub.\r\n\nEnable learning at scale through API-first access.",
+    "activity_status": "Active",
+    "website": "https://lamin.ai",
+    "founded_date": 2022.0,
+    "team_size": 6.0,
+    "location": "Munich, Germany",
+    "group_partner": null,
+    "group_partner_yc": null,
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:developer-tools; industry:machine-learning; industry:biotech; industry:open-source; industry:data-engineering",
+    "founders": [
+        {
+            "name": "Alex Wolf, Co-Founder & CEO",
+            "description": "Building open-source data infra for biology at Lamin.\n\nPreviously, created Scanpy and led the build-up of Cellarity\u2019s compute platform.",
+            "linkedin": "https://www.linkedin.com/in/falexwolf/"
+        },
+        {
+            "name": "Sunny Sun, Founder",
+            "description": null,
+            "linkedin": "http://linkedin.com/in/sunnyosun"
+        }
+    ],
+    "status": true,
+    "generated_description": "### Overview of Lamin\n\nLamin, founded in 2022 and part of Y Combinator's S22 batch, is a cutting-edge startup based in Munich, Germany, focused on revolutionizing the field of biology through an open data platform. Their mission centers around providing a robust open-source framework that facilitates data management and analysis in a collaborative environment, linking both dry and wet lab research.\n\n### What They Do\n\nLamin's platform enables researchers to work together seamlessly, creating a distributed hub where data can flow freely between various labs and disciplines. By adopting an API-first approach, Lamin allows users to access and learn from data at scale, making the process efficient and streamlined.\n\nTheir key offerings include:\n\n- **Unified Data Handling**: Simplifying access to data through a unified API, referred to as a \"lakehouse.\"\n- **Data Lineage Tracking**: Users can effortlessly model and track data flow across notebooks, scripts, and workflows, integrating popular workflow managers like Redun and Nextflow.\n- **Metadata Management**: The platform provides tools to manage complex biological data, including genes and proteins, with easy imports from public ontologies.\n- **Validation & Annotation**: With just a couple of lines of code, researchers can validate and standardize their data, ensuring high-quality outcomes.\n- **Distributed Databases**: Lamin allows the creation and connection of databases without the hassle, featuring zero-copy data transfer.\n- **Learning & Memory**: Their system helps transform research artifacts into more actionable insights, from queryable datasets to predictive models.\n\n### Team and Tags\n\nWith a dedicated team of six, Lamin is geared toward making a significant impact in the biotech space. The company is tagged under several relevant categories, including developer tools, machine learning, biotech, open-source, and data engineering.\n\n### Key Resources\n\n- **Website**: [lamin.ai](https://lamin.ai)\n- **Documentation**: [Lamin Docs](https://lamin.ai/</docs>)\n- **Blog**: [Lamin Blog](https://lamin.ai/</blog>)\n- **Pricing**: [Lamin Pricing](https://lamin.ai/</pricing>)\n\nLamin is not just another biotech tool; it\u2019s a vision for a future where collaboration and data are at the forefront of biological discoveries. If you're interested in learning more or seeing how they can help your research, they welcome inquiries through their contact page.\n\nWhether you're deep in wet lab experiments or analyzing data in a dry lab, Lamin is designed to bridge the gap and propel biological research forward.",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/b2bd54e0a8aad278ec22469eb954cd17124154ba.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191457Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=855bd53cb2305fc2f8363358eb0b26273d4ef9dcb7227161da0bd3d544209f83",
+    "social_links": [
+        "https://www.linkedin.com/company/lamin-labs",
+        "https://twitter.com/laminlabs",
+        "https://github.com/laminlabs"
+    ],
+    "logo_path": "data/logos\\Lamin_logo.png"
+}

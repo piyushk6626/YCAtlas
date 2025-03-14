@@ -1,0 +1,37 @@
+{
+    "links": "https://www.ycombinator.com/companies/roundtable",
+    "name": "Roundtable",
+    "headline": "Behavioral cybersecurity.",
+    "batch": "S23",
+    "description": "Roundtable uses behavioral signals to detect bots and fraudulent actors, helping platforms safeguard trust while automating fraud prevention workflows",
+    "activity_status": "Active",
+    "website": "https://roundtable.ai",
+    "founded_date": 2023.0,
+    "team_size": 2.0,
+    "location": null,
+    "group_partner": "Nicolas Dessaigne",
+    "group_partner_yc": "https://www.ycombinator.com/people/nicolas-dessaigne",
+    "company_linkedin": null,
+    "company_twitter": null,
+    "tags": "industry:artificial-intelligence; industry:b2b; industry:security; industry:api; industry:cybersecurity",
+    "founders": [
+        {
+            "name": "Mayank Agrawal, Founder",
+            "description": "Mayank is Co-Founder of Roundtable, which uses behavioral signals to detect bots and fraudulent actors. Before Roundtable, Mayank completed a PhD at Princeton University working at the intersection of cognitive science and artificial intelligence,  publishing in high-impact venues including Science, PNAS, and Psychological Review. Before Princeton, Mayank studied at Swarthmore College, where he also ran Cross Country and Track & Field.",
+            "linkedin": "https://linkedin.com/in/mayank-agrawal-08849aa6"
+        },
+        {
+            "name": "Matt Hardy, Founder",
+            "description": "Matt is a co-founder of Roundtable, a company using behavioral metrics for invisible fraud prevention. Before Roundtable, Matt was a PhD student at Princeton University, where he used machine learning and behavioral and experiments to study how people make decisions. Before his PhD, Matt majored in both statistics and economics at the University of Toronto, and worked in data science and econometrics.",
+            "linkedin": "https://linkedin.com/in/mdahardy"
+        }
+    ],
+    "status": true,
+    "generated_description": "**Roundtable: Pioneering Behavioral Cybersecurity**\n\nFounded in 2023 and part of Y Combinator's Batch S23, Roundtable is a company making waves in the field of behavioral cybersecurity. With a lean team of just two, Roundtable is taking on the monumental task of safeguarding digital interactions by detecting fraudulent activity through behavioral signals.\n\n**The Mission**\n\nRoundtable aims to protect platforms by identifying bots and suspicious actors in real-time, all while preserving a seamless user experience. They do this by utilizing advanced behavioral AI, which analyzes user patterns without interrupting legitimate activities with CAPTCHAs or intrusive security checks. \n\n**How They Operate**\n\nTheir approach focuses on \u201cinvisible, frictionless cybersecurity.\u201d This means their system operates quietly in the background, ensuring that the only interruptions come from legitimate users. By doing so, Roundtable helps platforms maintain trust while automating the often cumbersome tasks of fraud prevention.\n\nKey features of their product include:\n\n- **Real-time Behavioral Detection**: Identifying bots and fraudsters by analyzing how users interact in real-time.\n- **Privacy Focus**: Roundtable claims not to collect personally identifiable information (PII), which not only boosts user trust but also ensures compliance with regulations.\n- **Effortless Integration**: The technology can be deployed quickly with minimal engineering effort, making it accessible for various platforms, from startups to large enterprises.\n\n**Why Choose Roundtable?**\n\nRoundtable distinguishes itself through its focus on explainability and transparency. Their models are designed to provide understandable and auditable security insights, which is crucial as the landscape of digital threats continues to evolve, particularly with the rise of AI-generated fraud.\n\nThe company\u2019s leadership includes Nicolas Dessaigne as a Group Partner, exemplifying the strong mentorship backing the fledgling company.\n\n**Who They Serve**\n\nRoundtable caters to various industries, asserting partnerships with platforms like Obsurvant and Respondent. Their tools help these organizations ensure the integrity and quality of their data, especially amidst the challenges posed by AI advancements.\n\n**Conclusion**\n\nIn a digital world where the stakes are high, and the threats ever-evolving, Roundtable stands out as an innovative force. By marrying behavioral signals with robust cybersecurity measures, they not only enhance safety but also contribute to an overall trusting digital environment.\n\nFor more information or to book a demo, you can visit their website at [Roundtable.ai](https://roundtable.ai).",
+    "logo": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/f09f6eed9e553cbeda38b27263134de09d206c95.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191901Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=19833a2462d90e927e31b7bf24f3d6dd0445f6cbe20877f6c829fb6884d040af",
+    "social_links": [
+        "https://www.linkedin.com/company/roundtable-ai",
+        "https://twitter.com/roundtabledotai"
+    ],
+    "logo_path": "data/logos\\Roundtable_logo.png"
+}
