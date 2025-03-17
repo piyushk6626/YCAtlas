@@ -4,7 +4,7 @@ import os
 from chromadb import search  # using your provided import
 
 # Directory that stores the company JSON files (details)
-DATA_DIR = "data/company_descriptions"
+DATA_DIR = "data/saved_companies"
 
 # ============================================================================
 # Search functions (as provided)
