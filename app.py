@@ -6,7 +6,7 @@ import os
 # Load JSON data from the main search results file
 def load_data():
     try:
-        with open('search_results.json', 'r', encoding='utf-8') as f:
+        with open('saved_companies.json', 'r', encoding='utf-8') as f:
             return json.load(f)
     except (json.JSONDecodeError, UnicodeDecodeError) as e:
         st.error(f"Error loading data: {str(e)}")
